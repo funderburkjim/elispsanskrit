@@ -3,4 +3,5 @@
 # ejfnote 
 ejfnotes.txt
 # Python byte code
-*.elc
+*.pyc
+
