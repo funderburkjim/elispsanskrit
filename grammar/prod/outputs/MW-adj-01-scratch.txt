@@ -1,0 +1,290 @@
+sanload...
+init-sanskrit1...
+init-sanskrit1 begins...Fri Oct 16 22:25:28 2015
+BEGIN construct-init...
+fol-ob-init
+init-transliteration
+init-Sangram
+init-sets
+init-properties
+init-vowelstrength
+init-semivowels
+Sandhi-load-init
+Sandhi 6378
+Sandhi-Inverse-join 4552
+Sandhi-Inverse-nojoin 1474
+Sandhi-Inverse 5060
+Sandhi-Length 98
+Subanta-initAll
+init-sup
+init-vsup
+irregs-init
+END construct-init
+init-sanskrit1 ends...Fri Oct 16 22:25:28 2015
+Warning akfSalakzmI adj a-kfSa-lakzmI: (adj ii) m
+Warning akfSalakzmI adj a-kfSa-lakzmI: (adj ii) f
+Warning akfSalakzmI adj a-kfSa-lakzmI: (adj ii) n
+error@line: akfSalakzmI : S adj : <MW=a-kfSa-lakzmI,467,1>
+Warning agraRI adj agra-RI: (adj ii) m
+Warning agraRI adj agra-RI: (adj ii) f
+Warning agraRI adj agra-RI: (adj ii) n
+error@line: agraRI : S adj : <MW=agra-RI,1603,1>
+Warning agraBU adj agra-BU: (adj uu) m
+Warning agraBU adj agra-BU: (adj uu) f
+Warning agraBU adj agra-BU: (adj uu) n
+error@line: agraBU : S adj : <MW=agra-BU,1645,1>
+Warning agregU adj agre-gU: (adj uu) m
+Warning agregU adj agre-gU: (adj uu) f
+Warning agregU adj agre-gU: (adj uu) n
+error@line: agregU : S adj : <MW=agre-gU,1733,1>
+Warning agrepU adj agre-pU: (adj uu) m
+Warning agrepU adj agre-pU: (adj uu) f
+Warning agrepU adj agre-pU: (adj uu) n
+error@line: agrepU : S adj : <MW=agre-pU,1747,1>
+Warning ajaqaDI adj a-jaqa-DI: (adj ii) m
+Warning ajaqaDI adj a-jaqa-DI: (adj ii) f
+Warning ajaqaDI adj a-jaqa-DI: (adj ii) n
+error@line: ajaqaDI : S adj : <MW=a-jaqa-DI,2709,1>
+declension-general-1cons: unexpected : jiirNay N
+Warning ajIrRay adj a-jIrRay: (noun 1cons) n
+declension-general-1cons: unexpected : jiirNay F
+Warning ajIrRay adj a-jIrRay: (noun 1cons) f
+declension-general-1cons: unexpected : jiirNay M
+Warning ajIrRay adj a-jIrRay: (noun 1cons) m
+error@line: ajIrRay : S adj : <MW=a-jIrRay,2859,1>
+Warning ataptatanU adj a-tapta-tanU: (adj uu) m
+Warning ataptatanU adj a-tapta-tanU: (adj uu) f
+Warning ataptatanU adj a-tapta-tanU: (adj uu) n
+error@line: ataptatanU : S adj : <MW=a-tapta-tanU,3343,1>
+Warning atiBrU adj ati-BrU: (adj uu) m
+Warning atiBrU adj ati-BrU: (adj uu) f
+Warning atiBrU adj ati-BrU: (adj uu) n
+error@line: atiBrU : S adj : <MW=ati-BrU,3619,1>
+Warning atilakzmI adj ati-lakzmI: (adj ii) m
+Warning atilakzmI adj ati-lakzmI: (adj ii) f
+Warning atilakzmI adj ati-lakzmI: (adj ii) n
+error@line: atilakzmI : S adj : <MW=ati-lakzmI,3689,1>
+Warning atiSrI adj ati-SrI: (adj ii) m
+Warning atiSrI adj ati-SrI: (adj ii) f
+Warning atiSrI adj ati-SrI: (adj ii) n
+error@line: atiSrI : S adj : <MW=ati-SrI,3781,1>
+Warning aticamU adj ati-camU: (adj uu) m
+Warning aticamU adj ati-camU: (adj uu) f
+Warning aticamU adj ati-camU: (adj uu) n
+error@line: aticamU : S adj : <MW=ati-camU,4001,1>
+Warning atinO adj ati-nO: (adj au) m
+Warning atinO adj ati-nO: (adj au) f
+Warning atinO adj ati-nO: (adj au) n
+error@line: atinO : S adj : <MW=ati-nO,4147,1>
+Warning aTaryU adj aTaryU: (adj uu) m
+Warning aTaryU adj aTaryU: (adj uu) f
+Warning aTaryU adj aTaryU: (adj uu) n
+error@line: aTaryU : S adj : <MW=aTaryU,4947,1>
+Warning adU adj a-dU: (adj uu) m
+Warning adU adj a-dU: (adj uu) f
+Warning adU adj a-dU: (adj uu) n
+error@line: adU : S adj : <MW=a-dU,5213,1>
+Warning adUzitaDI adj a-dUzita-DI: (adj ii) m
+Warning adUzitaDI adj a-dUzita-DI: (adj ii) f
+Warning adUzitaDI adj a-dUzita-DI: (adj ii) n
+error@line: adUzitaDI : S adj : <MW=a-dUzita-DI,5223,1>
+Warning aDvaraSrI adj a-Dvara-SrI: (adj ii) m
+Warning aDvaraSrI adj a-Dvara-SrI: (adj ii) f
+Warning aDvaraSrI adj a-Dvara-SrI: (adj ii) n
+error@line: aDvaraSrI : S adj : <MW=a-Dvara-SrI,6739,1>
+Warning anABU adj an-ABU: (adj uu) m
+Warning anABU adj an-ABU: (adj uu) f
+Warning anABU adj an-ABU: (adj uu) n
+error@line: anABU : S adj : <MW=an-ABU,7857,1>
+Warning anukrI adj anu-krI: (adj ii) m
+Warning anukrI adj anu-krI: (adj ii) f
+Warning anukrI adj anu-krI: (adj ii) n
+error@line: anukrI : S adj : <MW=anu-krI,8699,1>
+Warning anuBU adj anu-BU: (adj uu) m
+Warning anuBU adj anu-BU: (adj uu) f
+Warning anuBU adj anu-BU: (adj uu) n
+error@line: anuBU : S adj : <MW=anu-BU,9831,1>
+Warning anuyU adj anu-yU: (adj uu) m
+Warning anuyU adj anu-yU: (adj uu) f
+Warning anuyU adj anu-yU: (adj uu) n
+error@line: anuyU : S adj : <MW=anu-yU,10027,1>
+Warning anDaDI adj anDa-DI: (adj ii) m
+Warning anDaDI adj anDa-DI: (adj ii) f
+Warning anDaDI adj anDa-DI: (adj ii) n
+error@line: anDaDI : S adj : <MW=anDa-DI,12105,1>
+Warning annapU adj anna-pU: (adj uu) m
+Warning annapU adj anna-pU: (adj uu) f
+Warning annapU adj anna-pU: (adj uu) n
+error@line: annapU : S adj : <MW=anna-pU,12211,1>
+Warning anyaDI adj anya-DI: (adj ii) m
+Warning anyaDI adj anya-DI: (adj ii) f
+Warning anyaDI adj anya-DI: (adj ii) n
+error@line: anyaDI : S adj : <MW=anya-DI,12337,1>
+Warning apagF adj apa-gF: (adj RI) m
+Warning apagF adj apa-gF: (adj RI) f
+Warning apagF adj apa-gF: (adj RI) n
+error@line: apagF : S adj : <MW=apa-gF,13131,1>
+Warning apadF adj apa-dF: (adj RI) m
+Warning apadF adj apa-dF: (adj RI) f
+Warning apadF adj apa-dF: (adj RI) n
+error@line: apadF : S adj : <MW=apa-dF,13381,1>
+Warning apaBI adj apa-BI: (adj ii) m
+Warning apaBI adj apa-BI: (adj ii) f
+Warning apaBI adj apa-BI: (adj ii) n
+error@line: apaBI : S adj : <MW=apa-BI,13543,1>
+Warning apaSrI adj apa-SrI: (adj ii) m
+Warning apaSrI adj apa-SrI: (adj ii) f
+Warning apaSrI adj apa-SrI: (adj ii) n
+error@line: apaSrI : S adj : <MW=apa-SrI,14197,1>
+Warning apIjU adj apI-jU: (adj uu) m
+Warning apIjU adj apI-jU: (adj uu) f
+Warning apIjU adj apI-jU: (adj uu) n
+error@line: apIjU : S adj : <MW=apI-jU,14901,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'apsuvah : S adj : <MW=apsu-vah,15897,1>'
+Warning aBiprI adj aBi-prI: (adj ii) m
+Warning aBiprI adj aBi-prI: (adj ii) f
+Warning aBiprI adj aBi-prI: (adj ii) n
+error@line: aBiprI : S adj : <MW=aBi-prI,17435,1>
+Warning aBiBU adj aBi-BU: (adj uu) m
+Warning aBiBU adj aBi-BU: (adj uu) f
+Warning aBiBU adj aBi-BU: (adj uu) n
+error@line: aBiBU : S adj : <MW=aBi-BU,17535,1>
+Warning aBiSrI adj aBi-SrI: (adj ii) m
+Warning aBiSrI adj aBi-SrI: (adj ii) f
+Warning aBiSrI adj aBi-SrI: (adj ii) n
+error@line: aBiSrI : S adj : <MW=aBi-SrI,18395,1>
+Warning aBI adj a-BI: (adj ii) m
+Warning aBI adj a-BI: (adj ii) f
+Warning aBI adj a-BI: (adj ii) n
+error@line: aBI : S adj : <MW=a-BI,19087,1>
+Warning amalinaDI adj a-malina-DI: (adj ii) m
+Warning amalinaDI adj a-malina-DI: (adj ii) f
+Warning amalinaDI adj a-malina-DI: (adj ii) n
+error@line: amalinaDI : S adj : <MW=a-malina-DI,20575,1>
+Warning amitrahU adj amitra-hU: (adj uu) m
+Warning amitrahU adj amitra-hU: (adj uu) f
+Warning amitrahU adj amitra-hU: (adj uu) n
+error@line: amitrahU : S adj : <MW=amitra-hU,20765,1>
+Warning arizwaduzwaDI adj a-rizwa-duzwa-DI: (adj ii) m
+Warning arizwaduzwaDI adj a-rizwa-duzwa-DI: (adj ii) f
+Warning arizwaduzwaDI adj a-rizwa-duzwa-DI: (adj ii) n
+error@line: arizwaduzwaDI : S adj : <MW=a-rizwa-duzwa-DI,22601,1>
+Warning alpaDI adj alpa-DI: (adj ii) m
+Warning alpaDI adj alpa-DI: (adj ii) f
+Warning alpaDI adj alpa-DI: (adj ii) n
+error@line: alpaDI : S adj : <MW=alpa-DI,24635,1>
+Warning aSrotF adj a-SrotF: (adj RI) m
+Warning aSrotF adj a-SrotF: (adj RI) f
+Warning aSrotF adj a-SrotF: (adj RI) n
+error@line: aSrotF : S adj : <MW=a-SrotF,28935,1>
+Warning asitaBrU adj asita-BrU: (adj uu) m
+Warning asitaBrU adj asita-BrU: (adj uu) f
+Warning asitaBrU adj asita-BrU: (adj uu) n
+error@line: asitaBrU : S adj : <MW=asita-BrU,30493,1>
+Warning asusU adj asu-sU: (adj uu) m
+Warning asusU adj asu-sU: (adj uu) f
+Warning asusU adj asu-sU: (adj uu) n
+error@line: asusU : S adj : <MW=asu-sU,30575,1>
+Warning asU adj a-sU: (adj uu) m
+Warning asU adj a-sU: (adj uu) f
+Warning asU adj a-sU: (adj uu) n
+error@line: asU : S adj : <MW=a-sU,30707,1>
+Warning asUsU adj a-sUsU: (adj uu) m
+Warning asUsU adj a-sUsU: (adj uu) f
+Warning asUsU adj a-sUsU: (adj uu) n
+error@line: asUsU : S adj : <MW=a-sUsU,30715,1>
+Warning astaDI adj asta-DI: (adj ii) m
+Warning astaDI adj asta-DI: (adj ii) f
+Warning astaDI adj asta-DI: (adj ii) n
+error@line: astaDI : S adj : <MW=asta-DI,30867,1>
+declension-general-1cons: unexpected : svaahaakRitay N
+Warning asvAhAkftay adj a-svAhAkftay: (noun 1cons) n
+declension-general-1cons: unexpected : svaahaakRitay F
+Warning asvAhAkftay adj a-svAhAkftay: (noun 1cons) f
+declension-general-1cons: unexpected : svaahaakRitay M
+Warning asvAhAkftay adj a-svAhAkftay: (noun 1cons) m
+error@line: asvAhAkftay : S adj : <MW=a-svAhAkftay,31473,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'ahavyavah : S adj : <MW=a-havya-vah,31725,1>'
+Warning ahrI adj a-hrI: (adj ii) m
+Warning ahrI adj a-hrI: (adj ii) f
+Warning ahrI adj a-hrI: (adj ii) n
+error@line: ahrI : S adj : <MW=a-hrI,32029,1>
+Warning AkurvatI adj A-kurvatI: (adj ii) m
+Warning AkurvatI adj A-kurvatI: (adj ii) f
+Warning AkurvatI adj A-kurvatI: (adj ii) n
+error@line: AkurvatI : S adj : <MW=A-kurvatI,32361,1>
+Warning ApI adj A-pI: (adj ii) m
+Warning ApI adj A-pI: (adj ii) f
+Warning ApI adj A-pI: (adj ii) n
+error@line: ApI : S adj : <MW=A-pI,36133,1>
+Warning ABU adj A-BU: (adj uu) m
+Warning ABU adj A-BU: (adj uu) f
+Warning ABU adj A-BU: (adj uu) n
+error@line: ABU : S adj : <MW=A-BU,36473,1>
+declension-general-1cons: unexpected : aamri~N N
+Warning AmriN adj AmriN: (noun 1cons) n
+declension-general-1cons: unexpected : aamri~N F
+Warning AmriN adj AmriN: (noun 1cons) f
+declension-general-1cons: unexpected : aamri~N M
+Warning AmriN adj AmriN: (noun 1cons) m
+error@line: AmriN : S adj : <MW=AmriN,36921,1>
+Warning ArecitaBrU adj A-recita-BrU: (adj uu) m
+Warning ArecitaBrU adj A-recita-BrU: (adj uu) f
+Warning ArecitaBrU adj A-recita-BrU: (adj uu) n
+error@line: ArecitaBrU : S adj : <MW=A-recita-BrU,37543,1>
+Warning ArU adj ArU: (adj uu) m
+Warning ArU adj ArU: (adj uu) f
+Warning ArU adj ArU: (adj uu) n
+error@line: ArU : S adj : <MW=ArU,37687,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'indravah : S adj : <MW=indra-vah,41021,1>'
+Warning ukTAvI adj ukTA-vI: (adj ii) m
+Warning ukTAvI adj ukTA-vI: (adj ii) f
+Warning ukTAvI adj ukTA-vI: (adj ii) n
+error@line: ukTAvI : S adj : <MW=ukTA-vI,42359,1>
+Warning udapU adj uda-pU: (adj uu) m
+Warning udapU adj uda-pU: (adj uu) f
+Warning udapU adj uda-pU: (adj uu) n
+error@line: udapU : S adj : <MW=uda-pU,44771,1>
+Warning udAraDI adj ud-Ara-DI: (adj ii) m
+Warning udAraDI adj ud-Ara-DI: (adj ii) f
+Warning udAraDI adj ud-Ara-DI: (adj ii) n
+error@line: udAraDI : S adj : <MW=ud-Ara-DI,45341,1>
+Warning udIritaDI adj ud-Irita-DI: (adj ii) m
+Warning udIritaDI adj ud-Irita-DI: (adj ii) f
+Warning udIritaDI adj ud-Irita-DI: (adj ii) n
+error@line: udIritaDI : S adj : <MW=ud-Irita-DI,45559,1>
+Warning udBrU adj ud-BrU: (adj uu) m
+Warning udBrU adj ud-BrU: (adj uu) f
+Warning udBrU adj ud-BrU: (adj uu) n
+error@line: udBrU : S adj : <MW=ud-BrU,46311,1>
+Warning unnI adj un-nI: (adj ii) m
+Warning unnI adj un-nI: (adj ii) f
+Warning unnI adj un-nI: (adj ii) n
+error@line: unnI : S adj : <MW=un-nI,46851,1>
+Warning upahataDI adj upa-hata-DI: (adj ii) m
+Warning upahataDI adj upa-hata-DI: (adj ii) f
+Warning upahataDI adj upa-hata-DI: (adj ii) n
+error@line: upahataDI : S adj : <MW=upa-hata-DI,50239,1>
+Warning upAvI adj upAvI: (adj ii) m
+Warning upAvI adj upAvI: (adj ii) f
+Warning upAvI adj upAvI: (adj ii) n
+error@line: upAvI : S adj : <MW=upAvI,50727,1>
+Warning ullU adj ul-lU: (adj uu) m
+Warning ullU adj ul-lU: (adj uu) f
+Warning ullU adj ul-lU: (adj uu) n
+error@line: ullU : S adj : <MW=ul-lU,51961,1>
+Warning uhU adj uhU: (adj uu) m
+Warning uhU adj uhU: (adj uu) f
+Warning uhU adj uhU: (adj uu) n
+error@line: uhU : S adj : <MW=uhU,52325,1>
+Warning ftaDI adj fta-DI: (adj ii) m
+Warning ftaDI adj fta-DI: (adj ii) f
+Warning ftaDI adj fta-DI: (adj ii) n
+error@line: ftaDI : S adj : <MW=fta-DI,53005,1>
+Warning fDadrI adj fDad-rI: (adj ii) m
+Warning fDadrI adj fDad-rI: (adj ii) f
+Warning fDadrI adj fDad-rI: (adj ii) n
+error@line: fDadrI : S adj : <MW=fDad-rI,53703,1>

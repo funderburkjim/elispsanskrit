@@ -1,0 +1,3399 @@
+------------------------------------------------------------------------
+doc functions
+aorist.el
+ aorist-doc
+ aorist1-doc
+ aorist2-doc
+ aorist3-doc
+ aorist6-doc
+ aorist7-doc
+ aorist4-doc
+ aorist5-doc
+ aorist-passive-doc
+ aorist-Deshpande-doc
+causal.el
+ causal-doc-600
+ causal-doc-601
+ causal-doc-602
+ causal-doc-603
+ causal-doc-604
+ causal-doc-605
+ causal-doc-606
+ causal-doc-607
+ causal-doc-608
+ causal-doc-609
+ causal-doc-610
+ causal-doc-611
+construct.el
+ rppart-doc
+ perppart-doc
+dictionary12.el
+endings.el
+explain.el
+fileutil.el
+forms.el
+ doc_v-root-make
+ doc_v-root-filenames-make
+ doc_v-file-init1
+ doc_v-file-init1-file
+ doc_v-file-init2a
+ doc_v-file-init2b--incomplete
+ doc_v-root-files
+ doc_v-file-init3
+ doc_v-file-init3-pre
+ doc_v-file-init3-pre-p
+ doc_v-file-init3-prespart
+ doc_v-file-init3-ppfactn
+ doc_v-file-init3-inf
+ doc_v-file-init3-abs
+ doc_v-file-init3-prf
+ doc_v-file-init3-ppp
+ doc_v-file-init3-pap
+ doc_v-file-init3-gerundive
+ doc_v-file-init3-fut
+ doc_v-file-init-aor
+ doc_v-file-init-aor1
+ doc_v-derived
+ doc-emacs-array
+ doc_v-file-init3-ptrs
+ doc_v-file-ptrs
+ doc_s-file-init3-ptrs
+ doc_s-file-init3-ptrs-helper
+ doc_s-file-ptrs
+ doc_form-file-ptrs-helper
+gram1.el
+gram2-future.el
+ future-doc
+ luT-doc-Antoine
+ luT-doc-Kale
+ lRiT-doc-Antoine
+ lRiT-lRi~N-doc-Kale
+ future-passive-doc-Antoine
+ future-passive-doc-Kale
+ aashiirli~N-doc-Antoine
+ Kale-459-doc
+ Kale-502-doc
+ aashiirli~N-doc-Kale
+ future-part-doc
+ participles-at-doc
+ future-part-doc-Antoine
+gram2-liT.el
+gram2.el
+ doc-ending-gram2
+gram3.el
+inits.el
+irreg.el
+itrans.el
+kta.el
+ kta-doc
+ tvaa-doc
+ lyap-doc
+ inf-doc
+ potpart-doc
+ potpart-yat-doc
+ potpart-kyap-doc
+ potpart-Nyat-doc
+Mbh.el
+numeral.el
+sandhi.el
+ external-sandhi-doc
+ anusvaara-doc
+start.el
+start0.el
+sxmw.el
+validation.el
+vt01.el
+------------------------------------------------------------------------
+functions called by 0 callers
+aorist.el
+ aorist-5-P calls INTERNAL: aorist-1-P, aorist-2-P, aorist-3-P, aorist-4-P, aorist-6-P, aorist-7-P
+ aorist-5-P calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.consonant-P, gram1.vowel-P, gram2.word-parts, itrans.ITRANS-parse-words-1
+
+ aorist calls EXTERNAL: construct.construct-conjtab1a
+
+ conjugation-tab-aorist1 calls INTERNAL: conjugation-tab-aorist1-main
+ conjugation-tab-aorist1 calls EXTERNAL: gram2.word-parts
+
+ conjugation-tab-aorist2 calls INTERNAL: aorist-2-544-P, conjugation-tab-aorist2-main
+ conjugation-tab-aorist2 calls EXTERNAL: gram2.word-parts
+
+ conjugation-tab-aorist3 calls INTERNAL: conjugation-tab-aorist3-main
+
+ conjugation-tab-aorist6 calls INTERNAL: conjugation-tab-aorist6-main
+
+ conjugation-tab-aorist7 calls INTERNAL: conjugation-tab-aorist7-main
+
+ conjugation-tab-aorist4 calls INTERNAL: conjugation-tab-aorist4-main
+
+ conjugation-tab-aorist5 calls INTERNAL: conjugation-tab-aorist5-main
+
+ short-syllable-P calls EXTERNAL: gram1.shortvowel-P
+
+ old-aorist3-class10-base calls EXTERNAL: gram2.dhaatu-a~Nga-10
+
+causal.el
+ causal-base1a calls INTERNAL: causal-base
+
+ indicatory-m-P-2 calls INTERNAL: modify-Eng-def
+
+construct.el
+ construct-cleartemp1 calls EXTERNAL: gram1.sanput
+
+ extract-dhaatukosha-forms calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+
+ dhaatukosha-forms-sorted calls INTERNAL: construct-dhaatu-forms1, sym-dcpu
+
+ sanforms-lt calls INTERNAL: sym-dcpu
+ sanforms-lt calls EXTERNAL: itrans.ITRANS-lt-sym
+
+ construct-causalconjtabs calls INTERNAL: construct-conjtab-helper
+ construct-causalconjtabs calls EXTERNAL: itrans.translate-SLP1-ITRANS, start0.sangram-filename
+
+ causal-conjtab1a-chk calls INTERNAL: causal-conjtab1a-bases
+ causal-conjtab1a-chk calls EXTERNAL: endings.solution, gram1.sanput2, start0.fol-msg
+
+ Xconstruct calls INTERNAL: Xalgorithm, construct-cleartemp
+ Xconstruct calls EXTERNAL: gram1.append-if-new, gram1.sanAppendElt, gram1.sanget, start0.fol-msg, start0.sangram-filename
+
+ getdhaatu-ver0 calls INTERNAL: dcpu-sym, getdhaatu
+ getdhaatu-ver0 calls EXTERNAL: gram1.sanget2
+
+ get-seTPERF-code calls INTERNAL: getdhaatu
+
+ get-seT-code calls INTERNAL: getdhaatu
+
+ sandefs calls EXTERNAL: endings.solution, gram1.sanget2, start0.fol-msg
+
+ explore-Xconjgentab calls INTERNAL: dcpu-sym, sym-dcpu
+ explore-Xconjgentab calls EXTERNAL: gram1.Xsanget2, gram1.sanget2, start0.fol-msg
+
+ explore-Xconjtab calls INTERNAL: dcpu-sym, sym-dcpu
+ explore-Xconjtab calls EXTERNAL: gram1.Xsanget2, gram1.sanget2, start0.fol-msg
+
+ explore-dhaatu-tenses calls INTERNAL: dcpu-sym, sym-dcpu
+ explore-dhaatu-tenses calls EXTERNAL: gram1.sanget2, start0.fol-msg
+
+ construct-participles-reformat1 calls INTERNAL: remove-partial-duplicates
+ construct-participles-reformat1 calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+
+ construct-prespart-base calls INTERNAL: construct-prespart-base-A, construct-prespart-base-P
+
+ construct-passpart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, construct-passpart-base-alt, dcpu-sym, sym-dcpu
+ construct-passpart calls EXTERNAL: gram1.sanget, gram1.sanput, start0.sangram-filename
+
+ construct-passpart1a calls INTERNAL: construct-conjpassbase1a
+ construct-passpart1a calls EXTERNAL: gram3.declension-join, gram3.declension-pres-part
+
+ construct-pppart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-pppart calls EXTERNAL: gram1.sanput, gram2.sym-concat, itrans.ITRANS-parse-words-1, kta.construct-pppart1a, start0.sangram-filename
+
+ construct-ippart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-ippart calls EXTERNAL: itrans.ITRANS-parse-words-1, kta.construct-ippart1a, start0.sangram-filename
+
+ construct-inf calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-inf calls EXTERNAL: itrans.ITRANS-parse-words-1, kta.construct-inf1a, start0.sangram-filename
+
+ construct-potpart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-potpart calls EXTERNAL: itrans.ITRANS-parse-words-1, kta.construct-potpart1a, start0.sangram-filename
+
+ construct-rppart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, construct-rppart1a, sym-dcpu
+ construct-rppart calls EXTERNAL: start0.sangram-filename
+
+ construct-rppart1a-mod calls EXTERNAL: gram3.declension-join, itrans.ITRANS-parse-words-1
+
+ construct-perppart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, construct-perppart1a, sym-dcpu
+ construct-perppart calls EXTERNAL: start0.sangram-filename
+
+ construct-futpart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-futpart calls EXTERNAL: gram2-future.construct-futpart1a, start0.sangram-filename
+
+ construct-futppart calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-futppart calls EXTERNAL: gram2-future.construct-futppart1a, start0.sangram-filename
+
+ construct-verb-all calls INTERNAL: all-dhaatukosha-inputs, construct-verb-one, strip-pfx-sfx
+
+ construct-verb-one-a1 calls INTERNAL: construct-verb-one-a
+
+ construct-verb-causal-one calls INTERNAL: construct-dhaatu-forms1
+ construct-verb-causal-one calls EXTERNAL: gram2.sym-concat, start0.fol-msg
+
+ load-construct-all calls INTERNAL: all-dhaatukosha-inputs, load-causal-files, load-dhaatukosha, load-subanta-files, load-subfields
+ load-construct-all calls EXTERNAL: start0.fol-msg
+
+ load-construct-all-verbal calls INTERNAL: all-dhaatukosha-suffixes, load-subfields
+
+ construct-output-base calls EXTERNAL: start0.fol-msg
+
+ construct-output1 calls INTERNAL: Xalgorithm
+
+ Sandhi-construct calls EXTERNAL: sandhi.Sandhi-init, sandhi.Sandhi-load-init, sandhi.Sandhi-unload
+
+ construct-mw-all calls INTERNAL: additional-preverbforms, construct-avyayapada, construct-conjtabs, construct-dcpforms, construct-participles, construct-participles-reformat, construct-subanta, merge-dcpforms
+ construct-mw-all calls EXTERNAL: start0.fol-msg
+
+ SL-prespart-base calls INTERNAL: construct-passpart-base-alt, construct-prespart-base-alt
+ SL-prespart-base calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, start0.fol-msg
+
+ SL-prespart-base1 calls INTERNAL: construct-prespart-base-alt-A-1, construct-prespart-base-alt-P-1
+ SL-prespart-base1 calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, start0.fol-msg
+
+ old-construct-all calls INTERNAL: construct-avyayapada-all, construct-causalconjtabs-all, construct-conjtabs-all, construct-dhaatu-forms-all, construct-dhaatukosha-all, construct-init, construct-participles-all, construct-subanta-all
+ old-construct-all calls EXTERNAL: start0.fol-msg
+
+ old-SL-inf calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, kta.construct-inf1a, start0.fol-msg
+
+dictionary12.el
+ sortdict calls INTERNAL: make-item
+ sortdict calls EXTERNAL: start0.fol-msg
+
+endings.el
+ flatten calls NOTHING
+
+ construct-endings-all calls INTERNAL: construct-endings-1, construct-endings-2, sup-get
+ construct-endings-all calls EXTERNAL: gram1.plist-get2, itrans.gen-word-list, start0.fol-msg, start0.sangram-filename
+
+ init-ending-consonants calls NOTHING
+
+ Subanta-initElt calls EXTERNAL: gram1.sanput
+
+ old-init-class-a-mod-endings calls EXTERNAL: gram2.modify-conj-endings-1
+
+ make-explain-subanta-endings calls INTERNAL: solution, sup-get
+ make-explain-subanta-endings calls EXTERNAL: start0.fol-msg
+
+explain.el
+ explain-chapsII calls INTERNAL: explain-file
+
+ explain-chk-chaps calls INTERNAL: explain-chk
+
+ lt-stringRep calls NOTHING
+
+ explain-all-files calls NOTHING
+
+ explain-chap-unknowns-all calls INTERNAL: explain-chap-unknowns
+ explain-chap-unknowns-all calls EXTERNAL: start0.fol-msg
+
+ explain-Antoine1 calls INTERNAL: explain-chaps, explain-chk
+ explain-Antoine1 calls EXTERNAL: start0.fol-msg
+
+ explain-pr-keyval-modify calls INTERNAL: explain-pr-keyval-modify1
+
+ adjust-dhaatu-forms calls EXTERNAL: construct.dcpu-sym, construct.sym-dcpu, gram1.append-if-new, gram1.sanget2
+
+ explain-knowlev-P calls NOTHING
+
+ saveold-upasarga-P calls EXTERNAL: gram1.sanget2
+
+ SL-upasarga-P calls INTERNAL: SL-upasargas-get
+
+ explain-PRON calls INTERNAL: explain-PRON-makeans, explain-declension-pron
+ explain-PRON calls EXTERNAL: gram1.append-if-new, gram1.plist-get2, gram1.sanget2
+
+ explain-ADJ calls INTERNAL: explain-ADJ-makeans, explain-declension-adj
+ explain-ADJ calls EXTERNAL: gram1.append-if-new, gram1.plist-get2, gram1.sanget2
+
+ extract-Subanta calls INTERNAL: extract-Subanta1
+ extract-Subanta calls EXTERNAL: gram1.sangetall, start0.fol-msg
+
+ check-duals calls EXTERNAL: gram1.vowel-P, gram2.sym-begins-with, gram2.sym-ends-with
+
+ explain-declension-init calls NOTHING
+
+ explain-declension-noun calls INTERNAL: explain-declension-get, explain-declension-put
+ explain-declension-noun calls EXTERNAL: gram3.declension-citation
+
+ explain-declension-perperf-part calls INTERNAL: explain-declension-get, explain-declension-put
+ explain-declension-perperf-part calls EXTERNAL: gram3.declension-perperf-part
+
+ explain-conjugation calls INTERNAL: explain-declension-get, explain-declension-put
+ explain-conjugation calls EXTERNAL: gram2.conjugation-tab
+
+ SL-n-P0 calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.translate-SLP1-ITRANS, sandhi.sandhi-n-N
+
+ old-Sx1-pfxa calls EXTERNAL: start0.sangram-filename
+
+fileutil.el
+ read-expr-file-table calls INTERNAL: read-expr-file
+ read-expr-file-table calls EXTERNAL: start0.sangram-filename
+
+ load-roots-seT calls INTERNAL: load-dhaatu-data
+
+ sangram-clean calls INTERNAL: fol-delete-files
+
+ remove-duplicate-lines calls EXTERNAL: start0.current-line, start0.sangram-filename
+
+ dispLineLim calls NOTHING
+
+ fol-search-files calls EXTERNAL: start0.fol-filename, start0.fol-msg
+
+forms.el
+ v-root-remake0 calls INTERNAL: v-root-filenames-make, v-root-make
+
+ v-root-remake calls INTERNAL: i-file-init3-ptrs, i-file-ptrs, s-file-init3-ptrs, s-file-ptrs, v-file-init-aor, v-file-init1, v-file-init2a, v-file-init3, v-file-init3-ptrs, v-file-ptrs, vc-file-init3-ptrs, vc-file-ptrs
+ v-root-remake calls EXTERNAL: start0.fol-msg
+
+ vc-root-remake calls INTERNAL: vc-file-init1, vc-root-remake-file
+ vc-root-remake calls EXTERNAL: start0.fol-msg
+
+ forms-remake-extra calls INTERNAL: i-file-init, s-file-init
+
+ v-root-remake1 calls INTERNAL: form-file-init3-ptrs-helper, v-file-init1-file, v-file-init3-abs, v-file-init3-fut, v-file-init3-gerundive, v-file-init3-inf, v-file-init3-pap, v-file-init3-ppfactn, v-file-init3-ppp, v-file-init3-pre, v-file-init3-pre-p, v-file-init3-prespart, v-file-init3-prf, v-file-ptrs
+ v-root-remake1 calls EXTERNAL: start0.fol-msg
+
+ vc-root-remake1 calls INTERNAL: form-file-init3-ptrs-helper, v-root-filename-get, vc-file-ptrs, vc-root-remake-file, vc-root-remake1-helper
+ vc-root-remake1 calls EXTERNAL: start0.fol-msg
+
+ parse-dict-ref calls EXTERNAL: itrans.gen-word-list
+
+ v-file-init3-helper calls INTERNAL: v-file-init3-helpera, v-root-filename-get
+ v-file-init3-helper calls EXTERNAL: start0.sangram-filename
+
+ s-work1a calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, start0.current-line, start0.sangram-filename
+
+ s-work1b calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, start0.current-line, start0.sangram-filename
+
+ s-work2a calls EXTERNAL: start0.sangram-filename
+
+ s-file-init-alt calls INTERNAL: s-file-init-alt-helper
+ s-file-init-alt calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ s-file-init-alt1 calls INTERNAL: s-file-init-alt-helper
+ s-file-init-alt1 calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ subtler-s-file-ptrs calls INTERNAL: form-file-ptrs-helper
+ subtler-s-file-ptrs calls EXTERNAL: fileutil.non-system-files, start0.fol-msg, start0.sangram-filename
+
+ chk-s-file-init calls INTERNAL: chk-s-file-init-helper
+ chk-s-file-init calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ work-praps calls INTERNAL: work-praps-helper
+ work-praps calls EXTERNAL: fileutil.non-system-files, start0.sangram-filename
+
+ work-praps1 calls EXTERNAL: itrans.gen-word-list, start0.current-line, start0.sangram-buffer, start0.sangram-filename
+
+ vc-file-init2a calls INTERNAL: vc-file-init2a-helper
+ vc-file-init2a calls EXTERNAL: itrans.word-list, start0.sangram-filename
+
+ vc-file-init3-prefut calls EXTERNAL: construct.SL-conjtab, gram1.append-if-new, start0.fol-msg, start0.sangram-filename
+
+ vc-file-init3-prespart calls INTERNAL: v-file-init3-prespart
+
+ vc-file-init3-inf calls INTERNAL: v-file-init3-inf
+
+ vc-file-init3-ppfactn calls INTERNAL: v-file-init3-ppfactn
+
+ vc-file-init3-abs calls INTERNAL: v-file-init3-abs
+
+ vc-file-init3-ppp calls INTERNAL: v-file-init3-ppp
+
+ old-s-file-init3-ptrs-helper calls INTERNAL: parse-string-to-array
+ old-s-file-init3-ptrs-helper calls EXTERNAL: construct.maximal-prefix-helper, itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ old-i-file-init3-ptrs-helper calls INTERNAL: parse-string-to-array
+ old-i-file-init3-ptrs-helper calls EXTERNAL: construct.maximal-prefix-helper, itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ old-v-file-init3-ptrs calls INTERNAL: parse-string-to-array
+ old-v-file-init3-ptrs calls EXTERNAL: construct.maximal-prefix-helper, itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ old-i-file-ptrs calls INTERNAL: form-file-ptrs-helper
+ old-i-file-ptrs calls EXTERNAL: fileutil.non-system-files, start0.fol-msg, start0.sangram-filename
+
+ old-v-file-ptrs calls INTERNAL: old-v-file-ptrs-main
+ old-v-file-ptrs calls EXTERNAL: start0.sangram-filename
+
+ regexp-lines calls EXTERNAL: start0.current-line
+
+ regexp-kill-lines calls EXTERNAL: start0.current-line
+
+ v-file-init-alt1-pre calls INTERNAL: v-file-init-alt1-pre-helper
+ v-file-init-alt1-pre calls EXTERNAL: itrans.gen-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ v-file-init-alt1-pre-p calls INTERNAL: v-file-init-alt1-pre-helper
+ v-file-init-alt1-pre-p calls EXTERNAL: itrans.gen-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ v-file-init-alt1-fut calls INTERNAL: v-file-init-alt1-pre-helper
+ v-file-init-alt1-fut calls EXTERNAL: itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ v-file-init-alt1-prf calls INTERNAL: v-file-init-alt1-pre-helper
+ v-file-init-alt1-prf calls EXTERNAL: gram2-liT.reduplicative-liT-P, itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+ v-file-init-alt1-ppfactn calls EXTERNAL: construct.SL-ppfactn, itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+
+gram1.el
+ init-sets-helper calls EXTERNAL: itrans.ITRANS-parse-words-1
+
+ init-Sangram-helper calls NOTHING
+
+ count-Sangram calls NOTHING
+
+ diphthong-P calls INTERNAL: sanget
+
+ K-P calls INTERNAL: sanget
+
+ CH-P calls INTERNAL: sanget
+
+ TT-P calls INTERNAL: sanget
+
+ T-P calls INTERNAL: sanget
+
+ P-P calls INTERNAL: sanget
+
+ hardnonaspirate-P calls INTERNAL: sanget
+
+ hardaspirate-P calls INTERNAL: sanget
+
+ softnonaspirate-P calls INTERNAL: sanget
+
+ mute-P calls INTERNAL: sanget
+
+ count-XSangram calls NOTHING
+
+ Xsanget calls NOTHING
+
+ Xsanput calls NOTHING
+
+ XsanAppendElt calls NOTHING
+
+ prog-comments calls EXTERNAL: start0.fol-msg, start0.fol-read, start0.sangram-filename
+
+gram2-future.el
+ aspirate-last-cons calls EXTERNAL: gram1.consonant-P, sandhi.aspirate
+
+gram2-liT.el
+ unused-perfect-gunate-final-vowel calls EXTERNAL: gram1.vowel-P, sandhi.guna, sandhi.gunate-final-vowel, sandhi.vrddhi, start0.fol-msg
+
+ perf-part-active-r calls INTERNAL: conjugation-tab-liT-r
+ perf-part-active-r calls EXTERNAL: gram1.append-if-new, gram3.declension-join, itrans.ITRANS-parse-words-1
+
+ old-periphrastic-base calls EXTERNAL: gram2.class-a-base, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, sandhi.reduplicate
+
+gram2.el
+ conjugation-tab-pr calls INTERNAL: conjugation-tab
+ conjugation-tab-pr calls EXTERNAL: gram3.citation-pr, start0.fol-msg
+
+ conjugation-tab-upa-pr calls INTERNAL: conjugation-join-sym, conjugation-tab
+ conjugation-tab-upa-pr calls EXTERNAL: gram3.citation-pr, start0.fol-msg
+
+ sym-with-space calls NOTHING
+
+ sym-without-space calls EXTERNAL: start0.fol-msg
+
+ san-symbol-name calls INTERNAL: symnum-name
+
+ apply-seT calls INTERNAL: conjugation-join
+
+ upasarga-join calls EXTERNAL: endings.solution, itrans.ITRANS-parse-words-1, sandhi.sandhi-pair
+
+ conjugation-citation-cp calls INTERNAL: conjugation-citation
+
+ get-form-tab calls NOTHING
+
+gram3.el
+ declension-citation1 calls INTERNAL: declension-general, declension-general-M-uu, declension-general-cons
+ declension-citation1 calls EXTERNAL: endings.solution, start0.fol-msg
+
+ declension-general-mat-ADJ calls INTERNAL: declension-general-mat
+
+ declension-general-vat-ADJ calls INTERNAL: declension-general-mat
+
+ declension-general-iiyas-ADJ calls INTERNAL: declension-general-1
+ declension-general-iiyas-ADJ calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+ declension-general-in-ADJ calls INTERNAL: declension-general-in
+
+ declension-general-an-ADJ calls INTERNAL: declension-general-an
+
+ declension-general-ach-ADJ calls INTERNAL: declension-general-1
+ declension-general-ach-ADJ calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+ declension-general-aach-ADJ calls INTERNAL: declension-general-1
+ declension-general-aach-ADJ calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+ declension-general-at-ADJ calls INTERNAL: declension-pres-part-P
+
+ declension-perf-part-passive calls INTERNAL: declension-general
+ declension-perf-part-passive calls EXTERNAL: start0.fol-msg
+
+ declension-pot-part-passive calls INTERNAL: declension-general
+ declension-pot-part-passive calls EXTERNAL: start0.fol-msg
+
+ declension-rperf-part calls INTERNAL: declension-general, declension-general-vas-ADJ
+ declension-rperf-part calls EXTERNAL: gram2.sym-concat
+
+ declension-fut-part-active calls INTERNAL: declension-fut-part-active-A, declension-fut-part-active-P
+
+ declension-fut-part-passive calls INTERNAL: declension-fut-part-active-A
+
+ declension-adj-new calls INTERNAL: declension-citation
+ declension-adj-new calls EXTERNAL: endings.solution, gram1.append-if-new
+
+ adjust-praatipadikas calls EXTERNAL: gram1.append-if-new, gram1.consonant-P, itrans.ITRANS-parse-words-1
+
+ init-avyayapada calls NOTHING
+
+ init-avyayapada-helper-1 calls EXTERNAL: gram1.sanget, gram1.sanput
+
+ old-declension-general-1cons calls INTERNAL: declension-general-1, subanta-base-1cons
+ old-declension-general-1cons calls EXTERNAL: endings.sup-get, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.lengthen-vowel, start0.fol-msg
+
+ old-declension-general-F-ii1 calls INTERNAL: declension-general-1
+ old-declension-general-F-ii1 calls EXTERNAL: endings.solution, endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+ old-declension-general-F-ii2 calls INTERNAL: declension-general-1
+ old-declension-general-F-ii2 calls EXTERNAL: endings.solution, endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+ old-declension-general-M-ii calls INTERNAL: declension-general-1
+ old-declension-general-M-ii calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+ old-declension-general-M-uu calls INTERNAL: declension-general-1
+ old-declension-general-M-uu calls EXTERNAL: endings.sup-get, gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+
+inits.el
+ init-sanskrit1 calls EXTERNAL: construct.construct-init, endings.init-gender-form-data, explain.init-explain-forms, start0.fol-msg, sxmw.MW-init
+
+ sangram-size calls EXTERNAL: gram1.Xsangetall, gram1.sangetall
+
+ sangram-restore calls EXTERNAL: gram1.init-Sangram, start0.fol-msg, start0.sangram-filename
+
+ sangram-save calls EXTERNAL: gram1.Xsangetall, gram1.sangetall, start0.sangram-filename
+
+itrans.el
+ temp-vowels calls NOTHING
+
+ temp-Consonants calls NOTHING
+
+ parse_INIT_CAP calls NOTHING
+
+ old-ITRANS-parse-word-string calls NOTHING
+
+ vector-droplast-VIRAAM calls INTERNAL: vector-droplast
+
+ ITRANS-lt-char calls INTERNAL: any-lt-char
+
+ old-ITRANS-lt-char calls NOTHING
+
+ ITRANS-SLP1-sym calls NOTHING
+
+ SLP1-parse-word-string calls INTERNAL: any-parse-word-string
+
+ SLP1-lt-sym calls INTERNAL: SLP1-lt-str
+
+ SLP1-ITRANS-sym calls NOTHING
+
+ ITRANS-HK-sym calls NOTHING
+
+ HK-ITRANS-sym calls NOTHING
+
+ translate-string-ITRANS-SLP1-a calls INTERNAL: translate-string-ITRANS-SLP1
+ translate-string-ITRANS-SLP1-a calls EXTERNAL: start0.current-line
+
+ translate-string-ITRANS-SLP1-b calls INTERNAL: translate-string-ITRANS-SLP1
+ translate-string-ITRANS-SLP1-b calls EXTERNAL: start0.current-line
+
+ translate-buffer-SLP1-ITRANS calls INTERNAL: translate-string-SLP1-ITRANS-a
+
+ string-delete-regexp calls INTERNAL: delete-regexp
+
+ translate-AS-SLP1 calls INTERNAL: any-parse-word-string, mapcar-LE
+ translate-AS-SLP1 calls EXTERNAL: start0.fol-msg
+
+ translate-string-AS-SLP1-a calls INTERNAL: translate-string-AS-SLP1
+ translate-string-AS-SLP1-a calls EXTERNAL: start0.current-line
+
+ word-list-lines calls INTERNAL: word-list
+ word-list-lines calls EXTERNAL: start0.current-line
+
+kta.el
+ construct-ippart1a-ya-basic calls INTERNAL: construct-pppart1a, tvaa-join1-t-th
+ construct-ippart1a-ya-basic calls EXTERNAL: endings.solution, gram1.append-if-new, itrans.ITRANS-parse-words-1
+
+ construct-potpart1a-exception calls NOTHING
+
+Mbh.el
+ construct-Mbhu calls INTERNAL: Mbh-buffer, Mbhu-buffer
+ construct-Mbhu calls EXTERNAL: fileutil.read-buffer-fields, start0.current-line, start0.fol-msg
+
+ Mbhu-lexid-distrib calls INTERNAL: Mbh-buf, Mbhu-buffer
+ Mbhu-lexid-distrib calls EXTERNAL: fileutil.read-buffer-fields
+
+ Mbhu-validate1 calls INTERNAL: Mbh-buf, Mbhu-buffer, Mbhu-validate1-help
+ Mbhu-validate1 calls EXTERNAL: fileutil.read-buffer-fields, start0.fol-msg
+
+ Mbhu-validate2 calls INTERNAL: Mbh-buf, Mbhu-buffer, Mbhu-convert-lex, Mbhu-validate2-help
+ Mbhu-validate2 calls EXTERNAL: fileutil.read-buffer-fields, start0.fol-msg
+
+numeral.el
+ numeral-join-1x-sym calls INTERNAL: numeral-join
+ numeral-join-1x-sym calls EXTERNAL: itrans.ITRANS-parse-words-1
+
+ answers-for-19-99 calls INTERNAL: san-numeral-test
+
+sandhi.el
+ sandhi-internal-A-simplevowel calls INTERNAL: guna
+ sandhi-internal-A-simplevowel calls EXTERNAL: gram1.simplevowel-P
+
+ Sandhi-initElt calls EXTERNAL: gram1.sanput
+
+ Sandhi-unload-old calls EXTERNAL: fileutil.write-table-file, gram1.sangetall
+
+ sandhi-avagraha-separate-test calls INTERNAL: sandhi-avagraha-separate
+ sandhi-avagraha-separate-test calls EXTERNAL: itrans.ITRANS-parse-words-1
+
+ sandhi-separate-str calls INTERNAL: sandhi-separate
+
+ sandhi-separate2-str calls INTERNAL: sandhi-separate2
+
+ sandhi-separate-final-M calls EXTERNAL: itrans.ITRANS-parse-words-1
+
+ examine-Sandhi-Inverse-nojoin calls INTERNAL: separate-symbol-pair
+ examine-Sandhi-Inverse-nojoin calls EXTERNAL: gram1.sangetall, start0.fol-msg
+
+start0.el
+ my-load-library calls INTERNAL: fol-filename, fol-msg
+
+sxmw.el
+ mw-alt calls INTERNAL: MW-key-find, mw-helper
+ mw-alt calls EXTERNAL: start0.sangram-filename
+
+ mw-tag-AB calls EXTERNAL: start0.sangram-filename
+
+ mw-tag-LEX calls NOTHING
+
+ mw-tag-KEY calls NOTHING
+
+ mw-tag-Q calls NOTHING
+
+ mw-tag-C calls NOTHING
+
+ mw-tag-BOT calls INTERNAL: mw-tag-BIO
+
+ mw-tag-V calls NOTHING
+
+ sx2 calls INTERNAL: Sx2
+
+ Sx2-updateans calls NOTHING
+
+ Sx2-tabmatch calls EXTERNAL: start0.fol-msg
+
+ Sx2-endmatch calls EXTERNAL: start0.sangram-filename
+
+ sxmw calls INTERNAL: Sx2, mw
+ sxmw calls EXTERNAL: itrans.gen-word-list
+
+ sxmwpr calls EXTERNAL: start0.fol-msg
+
+ sxmw-Mbh-verses calls INTERNAL: sxmw-Mbh-verse
+
+validation.el
+ 1cons-chk-pr-all calls INTERNAL: 1cons-chk-pr
+
+ validation-all calls INTERNAL: validation
+
+ validation-deshpande-all calls INTERNAL: validation
+
+ liT-r calls INTERNAL: get-classes
+ liT-r calls EXTERNAL: gram2-liT.conjugation-tab-liT-r
+
+ liT-px calls INTERNAL: conjugation-tab-liT-px
+
+ ffc calls INTERNAL: lRiT, lRi~N, luT
+
+ aashiirli~N1 calls EXTERNAL: gram2-future.conjugation-tab-aashiirli~N
+
+ futpass calls INTERNAL: aashiirli~N, lRiT, lRi~N, luT
+
+ aorist1 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist2 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist2a calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist3 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist3a calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ causal calls EXTERNAL: causal.causal-base, endings.solution
+
+ aorist6 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist6a calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist7 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist7a calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist4 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist4a calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist5 calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aorist5a calls EXTERNAL: aorist.conjugation-tab-aorist
+
+ aoristP0-make calls INTERNAL: aoristP0
+ aoristP0-make calls EXTERNAL: construct.sym-dcpu, start0.fol-msg, start0.sangram-filename
+
+ aoristP1-make calls INTERNAL: aoristP1
+ aoristP1-make calls EXTERNAL: construct.sym-dcpu, start0.fol-msg, start0.sangram-filename
+
+ conjpass calls EXTERNAL: construct.construct-conjpassbase1a
+
+ kta calls EXTERNAL: kta.construct-pppart1a
+
+ tvaa calls EXTERNAL: kta.construct-ippart1a-tvaa
+
+ lyap calls EXTERNAL: kta.construct-ippart1a-ya
+
+ inf calls EXTERNAL: kta.construct-inf1a
+
+ tavya calls EXTERNAL: kta.construct-potpart1a-tavya
+
+ aniiya calls EXTERNAL: kta.construct-potpart1a-aniiya
+
+ yat calls EXTERNAL: kta.construct-potpart1a-yat
+
+ kyap calls EXTERNAL: kta.construct-potpart1a-kyap
+
+ Nyat calls EXTERNAL: kta.construct-potpart1a-Nyat
+
+ rpp calls EXTERNAL: construct.construct-rppart1b, endings.solution
+
+ perpp calls EXTERNAL: construct.construct-perppart1a, endings.solution
+
+ futpart calls EXTERNAL: endings.solution, gram2-future.construct-futpart1a, gram2-future.construct-futppart1a, gram2.sym-concat
+
+ laT calls EXTERNAL: construct.construct-conjtab1a, endings.solution
+
+ la~N calls EXTERNAL: construct.construct-conjtab1a, endings.solution
+
+ loT calls EXTERNAL: construct.construct-conjtab1a, endings.solution
+
+ vidhili~N calls EXTERNAL: construct.construct-conjtab1a, endings.solution
+
+ prespart calls EXTERNAL: construct.construct-prespart1a-alt
+
+ Vdecl calls EXTERNAL: construct.construct-subanta1
+
+ init-SL-dtab-tabnames calls NOTHING
+
+ SL-dtab-validate-one calls INTERNAL: SL-dtab-construct, SL-dtab-extract, SL-dtab-validate-one-compare
+ SL-dtab-validate-one calls EXTERNAL: start0.fol-msg
+
+ SL-dtab-validation-all calls INTERNAL: SL-dtab-validation
+
+ SL-dtab-input-suggest calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+
+ SL-dtab-printfile calls EXTERNAL: endings.solution, fileutil.read-colon-file-validation, start0.fol-msg, start0.san-validation-filename
+
+ SL-dtab-print-one-construct calls INTERNAL: SL-dtab-construct, SL-dtab-print
+ SL-dtab-print-one-construct calls EXTERNAL: start0.fol-msg
+
+ SL-dtab-print-one-extract calls INTERNAL: SL-dtab-extract, SL-dtab-print
+ SL-dtab-print-one-extract calls EXTERNAL: start0.fol-msg
+
+ SL-dtabs1-make calls EXTERNAL: endings.solution, fileutil.read-colon-buffer, fileutil.read-colon-file, start0.fol-msg, start0.sangram-filename
+
+ SL-dtest-validation calls INTERNAL: SL-dtab-validation
+
+ SL-extract-compare-dtabs-dtabs1-one calls INTERNAL: SL-dtab-extract, SL-dtab-validate-one-compare
+ SL-extract-compare-dtabs-dtabs1-one calls EXTERNAL: start0.fol-msg
+
+ SL-extract-compare-dtabs-dtabs1 calls EXTERNAL: endings.solution, fileutil.read-colon-file-validation, start0.fol-msg
+
+ SL-extract-copy-dtabs1-dtabs calls EXTERNAL: fileutil.read-colon-file-validation, start0.sangram-filename
+
+vt01.el
+ vt01-check calls INTERNAL: vt01-act1, vt01-read
+ vt01-check calls EXTERNAL: start0.fol-msg
+
+ vt01-act2 calls INTERNAL: vt01-act1, vt01-propnames, vt01-putrec, vt01-read
+ vt01-act2 calls EXTERNAL: start0.fol-msg
+
+ vt01-act3 calls INTERNAL: vt01-act1, vt01-propnames, vt01-putrec, vt01-read
+ vt01-act3 calls EXTERNAL: start0.fol-msg
+
+ vt01-act4 calls INTERNAL: vt01-act1, vt01-propnames, vt01-putrec, vt01-read
+ vt01-act4 calls EXTERNAL: start0.fol-msg
+
+------------------------------------------------------------------------
+functions called by 1 callers
+aorist.el
+ aorist-2-543-P calls NOTHING
+ aorist-2-543-P called by aorist-2-P
+
+ aorist-4-P calls INTERNAL: aorist-1-P, aorist-2-P, aorist-3-P, aorist-6-P, aorist-7-P
+ aorist-4-P calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram2.word-parts, itrans.ITRANS-parse-words-1
+ aorist-4-P called by aorist-5-P
+
+ conjugation-tab-aorist1-main calls INTERNAL: aorist-endings, kale-459-P
+ conjugation-tab-aorist1-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.vowel-P, gram2-future.augment-a, gram2.conjugation-join, gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+ conjugation-tab-aorist1-main called by conjugation-tab-aorist1
+
+ conjugation-tab-aorist2-main calls INTERNAL: aorist-endings
+ conjugation-tab-aorist2-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.nasal-P, gram2-future.augment-a, gram2.conjugation-join, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, start0.fol-msg
+ conjugation-tab-aorist2-main called by conjugation-tab-aorist2
+
+ conjugation-tab-aorist3-main calls INTERNAL: aorist-causal-base, aorist-causal-base-irreg, aorist-endings, aorist3-make-btab
+ conjugation-tab-aorist3-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram2-liT.join-arrays, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.reduplicate, start0.fol-msg
+ conjugation-tab-aorist3-main called by conjugation-tab-aorist3
+
+ aorist3-make-btab calls EXTERNAL: gram2-future.augment-a, gram2.conjugation-join
+ aorist3-make-btab called by conjugation-tab-aorist3-main
+
+ conjugation-tab-aorist6-main calls INTERNAL: aorist-endings
+ conjugation-tab-aorist6-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.vowel-P, gram2-future.augment-a, gram2.conjugation-join, gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+ conjugation-tab-aorist6-main called by conjugation-tab-aorist6
+
+ conjugation-tab-aorist7-main calls INTERNAL: aorist-endings, aorist-join
+ conjugation-tab-aorist7-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram2-future.augment-a, gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+ conjugation-tab-aorist7-main called by conjugation-tab-aorist7
+
+ conjugation-tab-aorist4-main calls INTERNAL: aorist-endings, aorist-gunate-final-vowel, aorist-join, kale-459-P
+ conjugation-tab-aorist4-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.consonant-P, gram1.labial-P, gram1.nasal-P, gram1.semivowel-P, gram1.shortvowel-P, gram2-future.augment-a, gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+ conjugation-tab-aorist4-main called by conjugation-tab-aorist4
+
+ conjugation-tab-aorist5-main calls INTERNAL: aorist-endings, aorist-gunate-final-vowel, aorist-join, kale-461-alt
+ conjugation-tab-aorist5-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.shortvowel-P, gram1.vowel-P, gram2-future.augment-a, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, start0.fol-msg
+ conjugation-tab-aorist5-main called by conjugation-tab-aorist5
+
+ aorist-passive-3S calls INTERNAL: aorist3-shorten-1st-vowel, kale-461-alt
+ aorist-passive-3S calls EXTERNAL: causal.causal-base, construct.construct-seT-code1a, endings.solution, gram1.append-if-new, gram1.vowel-P, gram2-future.augment-a, gram2.conjugation-join, sandhi.guna, sandhi.vrddhi
+ aorist-passive-3S called by conjugation-tab-aorist
+
+ aorist-bitab calls NOTHING
+ aorist-bitab called by conjugation-tab-aoristX-main
+
+ aorist-bitab-join calls INTERNAL: aorist-join
+ aorist-bitab-join calls EXTERNAL: endings.solution, gram1.append-if-new
+ aorist-bitab-join called by conjugation-tab-aoristX-main
+
+ aorist-join1 calls INTERNAL: aorist-join1-adjust-y, aorist-join1-dh, aorist-join1-s, aorist-join1-t-th, aorist-join1-vowel
+ aorist-join1 calls EXTERNAL: endings.solution, gram1.vowel-P, gram2-future.first-cons, gram2.conjugation-join, sandhi.sandhi-pair, sandhi.sandhi-pair-skiprefs-set, sandhi.sandhi-single, start0.fol-msg
+ aorist-join1 called by aorist-join
+
+ aorist-join1-adjust-y calls EXTERNAL: gram1.consonant-P, gram1.semivowel-P, gram1.vowel-P
+ aorist-join1-adjust-y called by aorist-join1
+
+ aorist-join1-vowel calls EXTERNAL: gram2-future.first-cons, gram2.word-parts, start0.fol-msg
+ aorist-join1-vowel called by aorist-join1
+
+ aorist-join1-s calls EXTERNAL: gram2-future.aspirate-first-cons, gram2-future.first-cons, start0.fol-msg
+ aorist-join1-s called by aorist-join1
+
+ aorist-join1-dh calls EXTERNAL: gram2-future.aspirate-first-cons, gram2-future.first-cons, sandhi.lengthen-vowel, start0.fol-msg
+ aorist-join1-dh called by aorist-join1
+
+ conjugation-tab-aoristX calls INTERNAL: conjugation-tab-aoristX, conjugation-tab-aoristX-main
+ conjugation-tab-aoristX calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.vowel-P, gram2-liT.join-arrays, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, start0.fol-msg
+ conjugation-tab-aoristX called by conjugation-tab-aoristX
+
+ conjugation-tab-aoristX-main calls INTERNAL: aorist-bitab, aorist-bitab-join
+ conjugation-tab-aoristX-main calls EXTERNAL: construct.construct-seT-code1a, endings.solution, gram1.append-if-new, gram1.labial-P, gram1.sanget, gram2-future.augment-a, gram2-future.samprasaaraNa, gram2-future.samprasaaraNa-P, gram2-liT.kuTaadi-P, gram2.dhaatu-a~Nga, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, start0.fol-msg
+ conjugation-tab-aoristX-main called by conjugation-tab-aoristX
+
+ aorist-causal-base-irreg calls NOTHING
+ aorist-causal-base-irreg called by conjugation-tab-aorist3-main
+
+ nasal-match calls EXTERNAL: gram1.cerebral-P, gram1.dental-P, gram1.guttural-P, gram1.labial-P, gram1.palatal-P
+ nasal-match called by aorist-causal-base
+
+ reduplicate-cons calls EXTERNAL: sandhi.reduplicate
+ reduplicate-cons called by aorist-causal-base
+
+ aorist3-alter10 calls INTERNAL: aorist3-reduplicate, prosodially-long-P
+ aorist3-alter10 calls EXTERNAL: gram1.shortvowel-P, gram1.vowel-P, gram2.word-parts
+ aorist3-alter10 called by aorist-causal-base
+
+ aorist3-reduplicate calls INTERNAL: aorist3-shorten-1st-vowel
+ aorist3-reduplicate calls EXTERNAL: gram1.consonant-P, sandhi.reduplicate
+ aorist3-reduplicate called by aorist3-alter10
+
+ aorist3-alter10a calls EXTERNAL: gram1.labial-P, gram1.semivowel-P, gram1.vowel-P
+ aorist3-alter10a called by aorist-causal-base
+
+ aorist3-shorten-vowel calls NOTHING
+ aorist3-shorten-vowel called by aorist3-shorten-1st-vowel
+
+ aorist3-lengthen-final-vowel calls INTERNAL: aorist3-lengthen-vowel
+ aorist3-lengthen-final-vowel calls EXTERNAL: gram1.vowel-P
+ aorist3-lengthen-final-vowel called by aorist-causal-base
+
+ aorist3-lengthen-vowel calls NOTHING
+ aorist3-lengthen-vowel called by aorist3-lengthen-final-vowel
+
+ prosodially-long-P calls EXTERNAL: gram1.shortvowel-P
+ prosodially-long-P called by aorist3-alter10
+
+causal.el
+ causal-adjust calls NOTHING
+ causal-adjust called by causal-base
+
+ indicatory-m-P calls INTERNAL: indicatory-m-P-1
+ indicatory-m-P called by causal-603-P
+
+ indicatory-m1-P calls NOTHING
+ indicatory-m1-P called by causal-base
+
+ indicatory-m-P-1 calls NOTHING
+ indicatory-m-P-1 called by indicatory-m-P
+
+ kale-610 calls NOTHING
+ kale-610 called by causal-base
+
+ kale-400-P calls NOTHING
+ kale-400-P called by aorist-causal-base
+
+construct.el
+ maximal-prefix-sym calls INTERNAL: maximal-prefix
+ maximal-prefix-sym called by Xalgorithm
+
+ maximal-prefix calls INTERNAL: maximal-prefix-helper
+ maximal-prefix calls EXTERNAL: gram1.append-if-new, itrans.ITRANS-parse-words-1
+ maximal-prefix called by maximal-prefix-sym
+
+ maximal-prefix-helper1 calls EXTERNAL: gram1.append-if-new
+ maximal-prefix-helper1 called by maximal-prefix-helper
+
+ load-subfields-1 calls INTERNAL: load-subfields-keep
+ load-subfields-1 calls EXTERNAL: gram1.XsanAppendElt2, gram1.Xsanput2, gram1.sanAppendElt2, start0.fol-msg
+ load-subfields-1 called by load-subfields
+
+ load-subfields-keep calls INTERNAL: load-subfields-keep-class, load-subfields-keep-classPada
+ load-subfields-keep calls EXTERNAL: gram1.sanput2
+ load-subfields-keep called by load-subfields-1
+
+ load-subfields-keep-class calls INTERNAL: dcpu-sym, sym-dcpu
+ load-subfields-keep-class calls EXTERNAL: gram1.sanget2, gram1.sanput2, start0.fol-msg
+ load-subfields-keep-class called by load-subfields-keep
+
+ load-subfields-keep-classPada calls INTERNAL: dcpu-sym, sym-dcpu
+ load-subfields-keep-classPada calls EXTERNAL: gram1.sanget2, gram1.sanput2, start0.fol-msg
+ load-subfields-keep-classPada called by load-subfields-keep
+
+ construct-dhaatukosha calls INTERNAL: construct-cleartemp, dcpu-sym
+ construct-dhaatukosha calls EXTERNAL: fileutil.gather-fields, fileutil.read-colon-file-table, gram1.append-if-new, gram1.sanAppendElt, gram1.sanget, start0.fol-msg, start0.sangram-filename
+ construct-dhaatukosha called by construct-verb-one
+
+ construct-dhaatukosha-all calls INTERNAL: all-dhaatukosha-inputs
+ construct-dhaatukosha-all called by old-construct-all
+
+ construct-conjtab-base-luT calls INTERNAL: construct-conjtab1a
+ construct-conjtab-base-luT calls EXTERNAL: gram1.plist-get2, gram2-liT.join-arrays, gram2.sym-concat, start0.fol-msg
+ construct-conjtab-base-luT called by construct-conjtab-helper
+
+ construct-conjtab-base-lRiT calls INTERNAL: construct-conjtab1a
+ construct-conjtab-base-lRiT calls EXTERNAL: gram1.plist-get2, gram2-liT.join-arrays, gram2.sym-concat, start0.fol-msg
+ construct-conjtab-base-lRiT called by construct-conjtab-helper
+
+ construct-conjtab-base-aashiirli~N calls INTERNAL: construct-conjtab1a
+ construct-conjtab-base-aashiirli~N calls EXTERNAL: gram1.plist-get2, gram2-liT.join-arrays, gram2.sym-concat, start0.fol-msg
+ construct-conjtab-base-aashiirli~N called by construct-conjtab-helper
+
+ construct-conjtab-base-lRi~N calls INTERNAL: construct-conjtab1a
+ construct-conjtab-base-lRi~N calls EXTERNAL: gram1.plist-get2, gram2-liT.join-arrays, gram2.sym-concat, start0.fol-msg
+ construct-conjtab-base-lRi~N called by construct-conjtab-helper
+
+ construct-conjtab-base-liT-p calls EXTERNAL: gram2-liT.periphrastic-base, gram2-liT.periphrastic-liT-P
+ construct-conjtab-base-liT-p called by construct-conjtab-helper
+
+ construct-conjtab-base-lu~N calls INTERNAL: construct-conjtab1a
+ construct-conjtab-base-lu~N calls EXTERNAL: endings.solution, gram1.plist-get2, gram2-liT.join-arrays, gram2.sym-concat, start0.fol-msg
+ construct-conjtab-base-lu~N called by construct-conjtab-helper
+
+ construct-conjtab-base1a calls INTERNAL: construct-conjbase1a
+ construct-conjtab-base1a calls EXTERNAL: gram2.sym-concat, start0.fol-msg
+ construct-conjtab-base1a called by construct-conjtab-helper
+
+ construct-conjtab1a-spcltense calls INTERNAL: construct-conjbase1a, construct-join-arrays
+ construct-conjtab1a-spcltense calls EXTERNAL: gram2.conjugation-tab
+ construct-conjtab1a-spcltense called by construct-conjtab1a
+
+ construct-conjtab1a-gentense calls EXTERNAL: aorist.conjugation-tab-aorist, gram2-future.conjugation-tab-aashiirli~N, gram2-future.conjugation-tab-lRiT, gram2-future.conjugation-tab-lRi~N, gram2-future.conjugation-tab-luT, gram2-liT.conjugation-tab-liT-p, gram2-liT.conjugation-tab-liT-r, gram2-liT.periphrastic-liT-P, gram2-liT.reduplicative-liT-P
+ construct-conjtab1a-gentense called by construct-conjtab1a
+
+ causal-conjtab1a calls INTERNAL: causal-conjtab1a-gentense, causal-conjtab1a-spcltense
+ causal-conjtab1a calls EXTERNAL: endings.solution
+ causal-conjtab1a called by construct-conjtab1a
+
+ causal-conjtab1a-spcltense calls INTERNAL: causal-base1b, construct-join-arrays
+ causal-conjtab1a-spcltense calls EXTERNAL: gram2.conjugation-tab
+ causal-conjtab1a-spcltense called by causal-conjtab1a
+
+ causal-conjtab1a-gentense calls INTERNAL: causal-bases-gentense, construct-join-arrays
+ causal-conjtab1a-gentense calls EXTERNAL: aorist.conjugation-tab-aorist
+ causal-conjtab1a-gentense called by causal-conjtab1a
+
+ causal-conjtab1a-bases-a calls INTERNAL: causal-base1b, causal-bases-gentense
+ causal-conjtab1a-bases-a calls EXTERNAL: gram2.sym-concat
+ causal-conjtab1a-bases-a called by causal-conjtab1a-bases
+
+ load-dhaatukosha calls INTERNAL: load-subfields
+ load-dhaatukosha called by load-construct-all
+
+ construct-participles-all calls INTERNAL: construct-participles, construct-participles-reformat, extract-dcpforms
+ construct-participles-all called by old-construct-all
+
+ construct-participles1 calls INTERNAL: construct-participles1-helper
+ construct-participles1 calls EXTERNAL: start0.fol-msg
+ construct-participles1 called by construct-participles
+
+ construct-participles1-helper calls INTERNAL: SL-construct-output-base, Xalgorithm, construct-passpart-base-alt, construct-prespart-base-alt, construct-rppart1a, sym-delete-last
+ construct-participles1-helper calls EXTERNAL: endings.solution, gram2-future.construct-futpart1a, gram2-future.construct-futppart1a, gram2.sym-concat, itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, kta.construct-inf1a, kta.construct-ippart1a-tvaa, kta.construct-ippart1a-ya, kta.construct-potpart1a, kta.construct-pppart1a, start0.fol-msg
+ construct-participles1-helper called by construct-participles1
+
+ construct-prespart1a-alt calls INTERNAL: construct-join-arrays, construct-prespart-base-alt, declension-pres-part-alt
+ construct-prespart1a-alt calls EXTERNAL: endings.solution, start0.fol-msg
+ construct-prespart1a-alt called by prespart
+
+ declension-pres-part-P-alt calls EXTERNAL: endings.solution, gram1.plist-get2, gram2.sym-concat
+ declension-pres-part-P-alt called by declension-pres-part-alt
+
+ declension-pres-part-A-alt calls INTERNAL: construct-join-arrays
+ declension-pres-part-A-alt calls EXTERNAL: gram1.plist-get2, gram2.sym-concat
+ declension-pres-part-A-alt called by declension-pres-part-alt
+
+ construct-prespart-base-alt-P calls INTERNAL: construct-conjtab1a, construct-prespart-base-alt-P-1
+ construct-prespart-base-alt-P calls EXTERNAL: endings.solution, gram2-liT.join-arrays
+ construct-prespart-base-alt-P called by construct-prespart-base-alt
+
+ construct-prespart-base-alt-A calls INTERNAL: construct-conjtab1a, construct-prespart-base-alt-A-1
+ construct-prespart-base-alt-A calls EXTERNAL: endings.solution
+ construct-prespart-base-alt-A called by construct-prespart-base-alt
+
+ construct-prespart-base-P calls INTERNAL: construct-conjtab1a, pres-part-praatipadikas
+ construct-prespart-base-P calls EXTERNAL: endings.solution, gram2-liT.join-arrays
+ construct-prespart-base-P called by construct-prespart-base
+
+ construct-prespart-base-A calls INTERNAL: construct-conjtab1a, pres-part-praatipadikas
+ construct-prespart-base-A calls EXTERNAL: endings.solution, gram2-liT.join-arrays
+ construct-prespart-base-A called by construct-prespart-base
+
+ init-perppart1a-data calls INTERNAL: construct-rppart1a
+ init-perppart1a-data calls EXTERNAL: endings.solution, gram2.conjugation-join-sym
+ init-perppart1a-data called by construct-perppart1a
+
+ construct-verb-one calls INTERNAL: construct-dhaatu-forms-all, construct-dhaatukosha, construct-init, construct-verb-one-a
+ construct-verb-one called by construct-verb-all
+
+ filter-dhaatu-forms calls INTERNAL: dcpu-sym, sym-dcpu
+ filter-dhaatu-forms calls EXTERNAL: gram1.append-if-new
+ filter-dhaatu-forms called by construct-verb-one-a
+
+ load-subanta-files calls INTERNAL: all-subanta-inputs, load-subfields
+ load-subanta-files called by load-construct-all
+
+ load-causal-files calls INTERNAL: all-dhaatukosha-suffixes, load-subfields
+ load-causal-files called by load-construct-all
+
+ init-subanta-type-data calls NOTHING
+ init-subanta-type-data called by subanta-convert-form
+
+ replace-prefix0 calls INTERNAL: replace-prefix0-string
+ replace-prefix0 called by replace-prefix
+
+ replace-prefix0-string calls NOTHING
+ replace-prefix0-string called by replace-prefix0
+
+ construct-subanta-base calls INTERNAL: subanta-base
+ construct-subanta-base calls EXTERNAL: gram1.sanget
+ construct-subanta-base called by construct-subanta
+
+ construct-subanta1a calls INTERNAL: construct-subanta1, subanta-convert-form
+ construct-subanta1a calls EXTERNAL: start0.fol-msg
+ construct-subanta1a called by SL-construct-subanta1a
+
+ construct-subanta2 calls INTERNAL: subanta-base
+ construct-subanta2 calls EXTERNAL: gram1.append-if-new, gram1.sanget2, start0.fol-msg
+ construct-subanta2 called by construct-subanta1
+
+ construct-subanta2-ADJ-at calls EXTERNAL: gram1.append-if-new, itrans.ITRANS-parse-words-1, start0.fol-msg
+ construct-subanta2-ADJ-at called by construct-subanta1
+
+ construct-subanta-all calls INTERNAL: all-subanta-inputs, construct-subanta
+ construct-subanta-all called by old-construct-all
+
+ construct-dcpforms calls INTERNAL: normalize-class-padas
+ construct-dcpforms calls EXTERNAL: endings.solution, fileutil.read-colon-line-fields, start0.current-line, start0.fol-msg, start0.sangram-filename
+ construct-dcpforms called by construct-mw-all
+
+ additional-preverbforms calls EXTERNAL: start0.current-line, start0.fol-msg, start0.sangram-filename
+ additional-preverbforms called by construct-mw-all
+
+ merge-dcpforms calls INTERNAL: remove-partial-duplicates
+ merge-dcpforms calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ merge-dcpforms called by construct-mw-all
+
+ construct-avyayapada-all calls INTERNAL: construct-avyayapada
+ construct-avyayapada-all called by old-construct-all
+
+ SL-prespart-declension calls INTERNAL: construct-join-arrays, construct-prespart-base-alt-A-1, construct-prespart-base-alt-P-1, declension-pres-part-alt
+ SL-prespart-declension calls EXTERNAL: endings.solution, itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, start0.fol-msg
+ SL-prespart-declension called by v-file-init3-prespart
+
+ SL-inf calls INTERNAL: SL-conjtab
+ SL-inf calls EXTERNAL: endings.solution, gram1.append-if-new, start0.fol-msg
+ SL-inf called by v-file-init3-inf
+
+ SL-abs calls EXTERNAL: itrans.mapcar-LE, itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, kta.construct-ippart1a-tvaa, kta.construct-ippart1a-ya, start0.fol-msg
+ SL-abs called by v-file-init3-abs
+
+ SL-ppp-declension calls INTERNAL: construct-subanta1
+ SL-ppp-declension calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS
+ SL-ppp-declension called by v-file-init3-ppp
+
+ SL-pap-declension calls EXTERNAL: gram3.declension-perf-part-active, itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS
+ SL-pap-declension called by v-file-init3-pap
+
+ SL-gerundive calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, kta.construct-potpart1a, start0.fol-msg
+ SL-gerundive called by v-file-init3-gerundive
+
+ SL-gerundive-declension calls INTERNAL: construct-subanta1
+ SL-gerundive-declension calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS
+ SL-gerundive-declension called by v-file-init3-gerundive
+
+ construct-conjtabs-all calls INTERNAL: construct-conjtabs, extract-dcpforms
+ construct-conjtabs-all called by old-construct-all
+
+ construct-causalconjtabs-all calls INTERNAL: extract-dcpforms, old-construct-causalconjtabs
+ construct-causalconjtabs-all called by old-construct-all
+
+ old-construct-causalconjtabs calls INTERNAL: SL-construct-output-base, causal-conjtab1a-bases, sym-dcpu
+ old-construct-causalconjtabs calls EXTERNAL: endings.solution, itrans.translate-SLP1-ITRANS, start0.fol-msg, start0.sangram-filename
+ old-construct-causalconjtabs called by construct-causalconjtabs-all
+
+dictionary12.el
+ make-item1 calls EXTERNAL: itrans.ITRANS-parse-word-string, itrans.word-list
+ make-item1 called by make-item
+
+ make-item calls INTERNAL: make-item1
+ make-item called by sortdict
+
+endings.el
+ list-replace calls NOTHING
+ list-replace called by init-one-sup
+
+ construct-endings-1 calls INTERNAL: construct-endings-2
+ construct-endings-1 called by construct-endings-all
+
+ format-endings calls EXTERNAL: itrans.translate-ITRANS-SLP1, start0.fol-msg
+ format-endings called by construct-endings-2
+
+ init-one-sup calls INTERNAL: list-replace, sublist-gather
+ init-one-sup calls EXTERNAL: gram1.sanput, itrans.ITRANS-parse-words-1
+ init-one-sup called by init-sup
+
+ init-one-vsup calls EXTERNAL: gram1.sanput, itrans.ITRANS-parse-words-1
+ init-one-vsup called by init-vsup
+
+ init-one-vsup-strength calls EXTERNAL: gram1.sanput
+ init-one-vsup-strength called by init-vsup
+
+ init-vsup-list calls NOTHING
+ init-vsup-list called by init-vsup
+
+ init-vsup calls INTERNAL: init-ADJ-a-endings, init-PASSPART-endings, init-PPPART-endings, init-PRESPART-endings, init-RPPART-P-endings, init-causal-endings, init-conjtab-endings, init-explain-subanta-endings, init-one-vsup, init-one-vsup-strength, init-vsup-list
+ init-vsup called by construct-init
+
+ Subanta-initAll calls NOTHING
+ Subanta-initAll called by construct-init
+
+ init-sup-list calls INTERNAL: init-gender-form-data
+ init-sup-list called by init-sup
+
+ init-sup calls INTERNAL: init-gender-form-data, init-one-sup, init-sup-list
+ init-sup called by construct-init
+
+ init-causal-endings calls NOTHING
+ init-causal-endings called by init-vsup
+
+ init-conjtab-endings calls NOTHING
+ init-conjtab-endings called by init-vsup
+
+ init-PRESPART-endings calls NOTHING
+ init-PRESPART-endings called by init-vsup
+
+ init-PASSPART-endings calls NOTHING
+ init-PASSPART-endings called by init-vsup
+
+ init-PPPART-endings calls NOTHING
+ init-PPPART-endings called by init-vsup
+
+ init-ADJ-a-endings calls NOTHING
+ init-ADJ-a-endings called by init-vsup
+
+ init-RPPART-P-endings calls NOTHING
+ init-RPPART-P-endings called by init-vsup
+
+ init-explain-subanta-endings calls NOTHING
+ init-explain-subanta-endings called by init-vsup
+
+explain.el
+ read-explain-file calls INTERNAL: read-explain-file1a
+ read-explain-file calls EXTERNAL: fileutil.read-colon-file-table, start0.fol-msg
+ read-explain-file called by compare-table-files
+
+ read-explain-file1a calls NOTHING
+ read-explain-file1a called by read-explain-file
+
+ compare-table-files calls INTERNAL: compare-table-files1a, read-explain-file
+ compare-table-files calls EXTERNAL: start0.fol-msg
+ compare-table-files called by explain-chk
+
+ compare-table-files1a calls INTERNAL: compare-table-files1b
+ compare-table-files1a called by compare-table-files
+
+ compare-table-files1b calls NOTHING
+ compare-table-files1b called by compare-table-files1a
+
+ explain-file1 calls INTERNAL: explain
+ explain-file1 calls EXTERNAL: start0.fol-msg
+ explain-file1 called by explain-file
+
+ explain-chap-unknowns calls EXTERNAL: fileutil.read-colon-file-table
+ explain-chap-unknowns called by explain-chap-unknowns-all
+
+ explain-pr calls INTERNAL: explain-pr0
+ explain-pr calls EXTERNAL: start0.fol-msg
+ explain-pr called by explain
+
+ explain-pr1 calls INTERNAL: explain-CPD-straighten, explain-pr-CPD, explain-pr-CPD-item, explain-pr-item, explain-pr0
+ explain-pr1 calls EXTERNAL: start0.fol-msg
+ explain-pr1 called by explain-pr0
+
+ explain-CPD-straighten calls EXTERNAL: endings.solution
+ explain-CPD-straighten called by explain-pr1
+
+ explain-pr-keyval-modify-a calls EXTERNAL: endings.solution
+ explain-pr-keyval-modify-a called by explain-pr-item
+
+ explain-pr-keyval-modify1 calls EXTERNAL: endings.solution, gram1.append-if-new
+ explain-pr-keyval-modify1 called by explain-pr-keyval-modify
+
+ explain calls INTERNAL: explain-exactly-1, explain-exactly-1-shortest, explain-pr
+ explain calls EXTERNAL: sandhi.sandhi-separate3-str
+ explain called by explain-file1
+
+ explain-exactly-1 calls INTERNAL: explain-pair, explain-single, praatar-modify
+ explain-exactly-1 calls EXTERNAL: start0.fol-msg
+ explain-exactly-1 called by explain
+
+ explain-single calls INTERNAL: explain1
+ explain-single called by explain-exactly-1
+
+ explain-cpd1 calls INTERNAL: explain-str
+ explain-cpd1 calls EXTERNAL: gram1.plist-AppendElt
+ explain-cpd1 called by explain-cpd
+
+ explain1a calls INTERNAL: explain-str, upasarga-forms
+ explain1a calls EXTERNAL: gram1.append-if-new, gram1.plist-AppendElt, start0.fol-msg
+ explain1a called by explain1
+
+ explain-pair calls INTERNAL: explain-pair1
+ explain-pair called by explain-exactly-1
+
+ cpd-separate calls INTERNAL: cons-separate, vowel-separate
+ cpd-separate calls EXTERNAL: sandhi.sandhi-separate
+ cpd-separate called by explain-cpd
+
+ vowel-separate calls EXTERNAL: gram2.word-parts, itrans.ITRANS-parse-words-1
+ vowel-separate called by cpd-separate
+
+ cons-separate calls EXTERNAL: gram2.word-parts, itrans.ITRANS-parse-words-1
+ cons-separate called by cpd-separate
+
+ explain-exactly-1-shortest calls INTERNAL: explain-exactly-1-shortest-remove-aa
+ explain-exactly-1-shortest called by explain
+
+ explain-exactly-1-shortest-remove-aa calls INTERNAL: shortest-check
+ explain-exactly-1-shortest-remove-aa called by explain-exactly-1-shortest
+
+ shortest-check calls NOTHING
+ shortest-check called by explain-exactly-1-shortest-remove-aa
+
+ explain-str-step1-incr calls INTERNAL: explain-str-step2
+ explain-str-step1-incr calls EXTERNAL: gram1.Xsangetall, gram1.append-if-new, itrans.ITRANS-parse-words-1, start0.fol-msg
+ explain-str-step1-incr called by explain-str
+
+ explain-str-step2 calls INTERNAL: explain-ADJ-degree, explain-str-INDECL, explain-str-PART, explain-str-VERB, explain-str-step2-CAUSAL, explain-str-subanta, update-form-ans
+ explain-str-step2 calls EXTERNAL: start0.fol-msg
+ explain-str-step2 called by explain-str-step1-incr
+
+ explain-str-step2-CAUSAL calls INTERNAL: explain-str-PART, explain-str-VERB-CAUSAL, update-form-ans
+ explain-str-step2-CAUSAL calls EXTERNAL: start0.fol-msg
+ explain-str-step2-CAUSAL called by explain-str-step2
+
+ explain-str-VERB calls INTERNAL: explain-VERB-makeans
+ explain-str-VERB calls EXTERNAL: construct.getdhaatu, construct.sym-dcpu, endings.nN-P, endings.solution, gram1.append-if-new, gram1.plist-get2, gram1.sanget2, gram2-liT.join-arrays, start0.fol-msg
+ explain-str-VERB called by explain-str-step2
+
+ explain-str-VERB-CAUSAL calls INTERNAL: explain-VERB-makeans
+ explain-str-VERB-CAUSAL calls EXTERNAL: construct.getdhaatu, construct.sym-dcpu, endings.nN-P, endings.solution, gram1.append-if-new, gram1.plist-get2, gram1.sanget2, gram2-liT.join-arrays, gram2.sym-concat, start0.fol-msg
+ explain-str-VERB-CAUSAL called by explain-str-step2-CAUSAL
+
+ explain-str-PART1 calls INTERNAL: explain-PART-makeans
+ explain-str-PART1 calls EXTERNAL: construct.getdhaatu, construct.sym-dcpu, endings.get-ADJ-a-endings, gram1.append-if-new, gram1.plist-get2, start0.fol-msg
+ explain-str-PART1 called by explain-str-PART
+
+ explain-PART-IPP calls INTERNAL: explain-PART-IPP-makeans
+ explain-PART-IPP calls EXTERNAL: construct.dcpu-sym, construct.getdhaatu, construct.sym-dcpu, gram1.append-if-new, gram1.sanget2
+ explain-PART-IPP called by explain-str-PART
+
+ explain-PART-INF calls INTERNAL: explain-PART-INF-makeans
+ explain-PART-INF calls EXTERNAL: construct.dcpu-sym, construct.getdhaatu, construct.sym-dcpu, gram1.append-if-new, gram1.sanget2
+ explain-PART-INF called by explain-str-PART
+
+ explain-str-subanta calls INTERNAL: explain-str-subanta-cpd, explain-str-subanta-normal
+ explain-str-subanta called by explain-str-step2
+
+ explain-str-subanta-normal calls INTERNAL: explain-substring-subanta1
+ explain-str-subanta-normal calls EXTERNAL: endings.get-ADJ-a-endings, endings.get-explain-subanta-endings, gram1.sanget2, start0.fol-msg
+ explain-str-subanta-normal called by explain-str-subanta
+
+ explain-str-subanta-cpd calls INTERNAL: explain-subanta-makeans
+ explain-str-subanta-cpd calls EXTERNAL: gram1.append-if-new, gram1.sanget2, itrans.ITRANS-parse-words-1, start0.fol-msg
+ explain-str-subanta-cpd called by explain-str-subanta
+
+ explain-substring-subanta1 calls INTERNAL: explain-subanta-makeans
+ explain-substring-subanta1 calls EXTERNAL: gram1.append-if-new
+ explain-substring-subanta1 called by explain-str-subanta-normal
+
+ explain-ADJ-degree calls INTERNAL: explain-subanta-makeans
+ explain-ADJ-degree calls EXTERNAL: construct.construct-subanta1, endings.get-ADJ-a-endings, endings.get-explain-subanta-endings, gram1.sanget2, gram2.sym-concat, gram3.declension-join, itrans.ITRANS-parse-words-1, start0.fol-msg
+ explain-ADJ-degree called by explain-str-step2
+
+ explain-str-INDECL calls INTERNAL: remove-INDECL-upasarga
+ explain-str-INDECL calls EXTERNAL: gram1.plist-get2
+ explain-str-INDECL called by explain-str-step2
+
+ upasarga-forms2 calls INTERNAL: upasarga-forms1
+ upasarga-forms2 calls EXTERNAL: gram1.append-if-new
+ upasarga-forms2 called by upasarga-forms
+
+ upasarga-forms1 calls INTERNAL: upasarga-forms-nosandhi, upasarga-forms-sandhi, upasarga-forms1-check
+ upasarga-forms1 calls EXTERNAL: gram1.append-if-new, itrans.ITRANS-parse-words-1
+ upasarga-forms1 called by upasarga-forms2
+
+ upasarga-forms1-check calls EXTERNAL: itrans.ITRANS-parse-words-1, sandhi.sandhi-n-N
+ upasarga-forms1-check called by upasarga-forms1
+
+ upasarga-forms-sandhi calls INTERNAL: upasarga-P
+ upasarga-forms-sandhi calls EXTERNAL: sandhi.sandhi-separate
+ upasarga-forms-sandhi called by upasarga-forms1
+
+ upasarga-forms-nosandhi calls INTERNAL: upasarga-P
+ upasarga-forms-nosandhi called by upasarga-forms1
+
+ upasargas-get calls NOTHING
+ upasargas-get called by upasarga-P
+
+ SL-upasargas-get calls NOTHING
+ SL-upasargas-get called by SL-upasarga-P
+
+ SL-upasarga-forms calls INTERNAL: SL-upasarga-forms1, upasarga-forms
+ SL-upasarga-forms calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS
+ SL-upasarga-forms called by Mbhu-validate2-V-0
+
+ SL-upasarga-forms1 calls NOTHING
+ SL-upasarga-forms1 called by SL-upasarga-forms
+
+ inverse-aagama calls INTERNAL: inverse-vrddhis
+ inverse-aagama calls EXTERNAL: gram1.append-if-new, gram1.vowel-P, itrans.ITRANS-parse-words-1
+ inverse-aagama called by explain-str
+
+ explain-PRON-makeans calls EXTERNAL: endings.solution
+ explain-PRON-makeans called by explain-PRON
+
+ explain-ADJ-makeans calls EXTERNAL: endings.solution
+ explain-ADJ-makeans called by explain-ADJ
+
+ explain-PART-makeans calls EXTERNAL: endings.solution
+ explain-PART-makeans called by explain-str-PART1
+
+ explain-PART-INF-makeans calls INTERNAL: explain-PART-IPP-makeans
+ explain-PART-INF-makeans called by explain-PART-INF
+
+ remove-INDECL-upasarga calls EXTERNAL: endings.solution
+ remove-INDECL-upasarga called by explain-str-INDECL
+
+ extract-Subanta1 calls INTERNAL: replace-n
+ extract-Subanta1 called by extract-Subanta
+
+ replace-n calls EXTERNAL: sandhi.sandhi-n-N
+ replace-n called by extract-Subanta1
+
+ inverse-vrddhis calls EXTERNAL: gram1.sanget
+ inverse-vrddhis called by inverse-aagama
+
+ explain-declension-pron calls INTERNAL: explain-declension-get, explain-declension-put
+ explain-declension-pron calls EXTERNAL: gram3.declension-pron
+ explain-declension-pron called by explain-PRON
+
+ explain-declension-adj calls INTERNAL: explain-declension-get, explain-declension-put
+ explain-declension-adj calls EXTERNAL: gram3.declension-adj
+ explain-declension-adj called by explain-ADJ
+
+ Sx1 calls INTERNAL: SL-n-P, Sx1-endmatch, Sx1-pfx, Sx1-tabmatch, Sx1-updateans
+ Sx1 calls EXTERNAL: start0.fol-msg
+ Sx1 called by Mbhu-validate1-help
+
+ Sx1-updateans calls NOTHING
+ Sx1-updateans called by Sx1
+
+ Sx1-tabmatch calls EXTERNAL: start0.fol-msg
+ Sx1-tabmatch called by Sx1
+
+ Sx1-pfx calls INTERNAL: Sx1-pfxa
+ Sx1-pfx called by Sx1
+
+ Sx1-pfxa calls EXTERNAL: start0.sangram-filename
+ Sx1-pfxa called by Sx1-pfx
+
+ Sx1-endmatch calls EXTERNAL: start0.sangram-filename
+ Sx1-endmatch called by Sx1
+
+ SL-n-P calls EXTERNAL: itrans.translate-SLP1-ITRANS, sandhi.sandhi-single
+ SL-n-P called by Sx1
+
+fileutil.el
+ write-table-file calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ write-table-file called by Sandhi-unload-old
+
+ read-string-fields calls INTERNAL: read-buffer-fields
+ read-string-fields called by Mbhu-validate2-V-0
+
+ read-expr-file calls INTERNAL: read-expr-buffer
+ read-expr-file called by read-expr-file-table
+
+ read-expr-buffer calls EXTERNAL: start0.fol-msg
+ read-expr-buffer called by read-expr-file
+
+ load-dhaatu-data calls INTERNAL: read-colon-file-table
+ load-dhaatu-data calls EXTERNAL: endings.solution, gram1.sanAppendElt, gram1.sanput2
+ load-dhaatu-data called by load-roots-seT
+
+ fol-delete-files calls EXTERNAL: start0.fol-filename, start0.fol-msg
+ fol-delete-files called by sangram-clean
+
+forms.el
+ vc-root-remake1-helper calls EXTERNAL: start0.sangram-filename
+ vc-root-remake1-helper called by vc-root-remake1
+
+ v-root-make calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ v-root-make called by v-root-remake0
+
+ v-root-filenames-make calls EXTERNAL: gram1.plist-AppendElt, start0.sangram-filename
+ v-root-filenames-make called by v-root-remake0
+
+ v-file-init1 calls INTERNAL: v-file-init1-helper
+ v-file-init1 calls EXTERNAL: itrans.word-list, start0.current-line, start0.sangram-filename
+ v-file-init1 called by v-root-remake
+
+ v-file-init1-helper calls EXTERNAL: start0.sangram-filename
+ v-file-init1-helper called by v-file-init1
+
+ v-file-init1-file calls EXTERNAL: start0.sangram-filename
+ v-file-init1-file called by v-root-remake1
+
+ v-file-init2a calls INTERNAL: v-file-init2a-helper
+ v-file-init2a calls EXTERNAL: itrans.word-list, start0.sangram-filename
+ v-file-init2a called by v-root-remake
+
+ v-file-init2a-helper calls INTERNAL: v-root-filename-get
+ v-file-init2a-helper calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ v-file-init2a-helper called by v-file-init2a
+
+ v-file-init3 calls INTERNAL: v-root-filename-get
+ v-file-init3 calls EXTERNAL: itrans.word-list, start0.sangram-filename
+ v-file-init3 called by v-root-remake
+
+ v-file-init3-pre calls EXTERNAL: construct.SL-conjtab, start0.fol-msg, start0.sangram-filename
+ v-file-init3-pre called by v-root-remake1
+
+ v-file-init3-pre-p calls EXTERNAL: construct.SL-conjtab, start0.fol-msg, start0.sangram-filename
+ v-file-init3-pre-p called by v-root-remake1
+
+ v-file-init3-fut calls EXTERNAL: construct.SL-conjtab, start0.fol-msg, start0.sangram-filename
+ v-file-init3-fut called by v-root-remake1
+
+ v-file-init3-prf calls EXTERNAL: construct.SL-conjtab, gram2-liT.reduplicative-liT-P, itrans.translate-SLP1-ITRANS, start0.fol-msg, start0.sangram-filename
+ v-file-init3-prf called by v-root-remake1
+
+ v-file-init3-pap calls EXTERNAL: construct.SL-pap-declension, construct.SL-ppp, gram2.sym-concat, start0.fol-msg, start0.sangram-filename
+ v-file-init3-pap called by v-root-remake1
+
+ v-file-init3-gerundive calls EXTERNAL: construct.SL-gerundive, construct.SL-gerundive-declension, start0.fol-msg, start0.sangram-filename
+ v-file-init3-gerundive called by v-root-remake1
+
+ v-file-init-aor calls INTERNAL: v-file-init-aor1, v-root-filename-get
+ v-file-init-aor calls EXTERNAL: itrans.word-list, start0.sangram-filename
+ v-file-init-aor called by v-root-remake
+
+ v-file-init-aor1 calls EXTERNAL: construct.SL-conjtab, start0.fol-msg, start0.sangram-filename
+ v-file-init-aor1 called by v-file-init-aor
+
+ v-file-init3-ptrs calls INTERNAL: form-file-init3-ptrs
+ v-file-init3-ptrs called by v-root-remake
+
+ v-file-init3-helpera calls NOTHING
+ v-file-init3-helpera called by v-file-init3-helper
+
+ s-file-init calls INTERNAL: s-file-init-helper
+ s-file-init calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+ s-file-init called by forms-remake-extra
+
+ s-file-init-helper calls INTERNAL: s-file-init-genform, s-file-init-helper1
+ s-file-init-helper calls EXTERNAL: construct.SL-construct-subanta1, itrans.gen-word-list, start0.fol-msg, start0.sangram-filename
+ s-file-init-helper called by s-file-init
+
+ s-file-init3-ptrs calls INTERNAL: form-file-init3-ptrs
+ s-file-init3-ptrs called by v-root-remake
+
+ s-file-ptrs calls INTERNAL: form-file-ptrs
+ s-file-ptrs called by v-root-remake
+
+ i-file-init calls INTERNAL: i-file-init-helper
+ i-file-init calls EXTERNAL: itrans.gen-word-list, itrans.reg-word-list, itrans.string-trim, start0.current-line, start0.fol-msg, start0.sangram-filename
+ i-file-init called by forms-remake-extra
+
+ i-file-init-helper calls INTERNAL: s-file-init-genform
+ i-file-init-helper calls EXTERNAL: itrans.gen-word-list, start0.sangram-filename
+ i-file-init-helper called by i-file-init
+
+ i-file-init3-ptrs calls INTERNAL: form-file-init3-ptrs
+ i-file-init3-ptrs called by v-root-remake
+
+ i-file-ptrs calls INTERNAL: form-file-ptrs
+ i-file-ptrs called by v-root-remake
+
+ chk-s-file-init-helper calls EXTERNAL: start0.sangram-filename
+ chk-s-file-init-helper called by chk-s-file-init
+
+ work-praps-helper calls EXTERNAL: itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+ work-praps-helper called by work-praps
+
+ vc-file-init1 calls INTERNAL: vc-file-init1-helper
+ vc-file-init1 calls EXTERNAL: itrans.word-list, start0.current-line, start0.sangram-filename
+ vc-file-init1 called by vc-root-remake
+
+ vc-file-init1-helper calls EXTERNAL: start0.sangram-filename
+ vc-file-init1-helper called by vc-file-init1
+
+ vc-file-init2a-helper calls INTERNAL: v-root-filename-get
+ vc-file-init2a-helper calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ vc-file-init2a-helper called by vc-file-init2a
+
+ vc-file-init3 calls INTERNAL: v-root-filename-get
+ vc-file-init3 calls EXTERNAL: itrans.word-list, start0.sangram-filename
+ vc-file-init3 called by vc-root-remake-file
+
+ vc-file-init3-ptrs calls INTERNAL: form-file-init3-ptrs
+ vc-file-init3-ptrs called by v-root-remake
+
+ old-v-file-ptrs-main calls INTERNAL: form-file-ptrs-helper, v-root-filename-get
+ old-v-file-ptrs-main calls EXTERNAL: itrans.word-list, start0.sangram-filename
+ old-v-file-ptrs-main called by old-v-file-ptrs
+
+gram1.el
+ init-sets calls EXTERNAL: itrans.ITRANS-parse-words-3
+ init-sets called by construct-init
+
+ init-vs-helper calls INTERNAL: sanput
+ init-vs-helper calls EXTERNAL: itrans.ITRANS-parse-words-2
+ init-vs-helper called by init-vowelstrength
+
+ init-vowelstrength calls INTERNAL: init-vs-helper
+ init-vowelstrength called by construct-init
+
+ init-semivowels calls INTERNAL: sanput
+ init-semivowels called by construct-init
+
+ set-to-property calls INTERNAL: sanput
+ set-to-property called by init-properties
+
+ init-properties calls INTERNAL: set-to-property
+ init-properties called by construct-init
+
+ sanAppendElt2 calls INTERNAL: append-if-new
+ sanAppendElt2 called by load-subfields-1
+
+ disjoint-P calls INTERNAL: isect-lists
+ disjoint-P called by upasarga-forms
+
+ isect-lists calls NOTHING
+ isect-lists called by disjoint-P
+
+ longsimplevowel-P calls INTERNAL: sanget
+ longsimplevowel-P called by longvowel-P
+
+ softaspirate-P calls INTERNAL: sanget
+ softaspirate-P called by sandhi-cons72-6-init
+
+ longvowel-P calls INTERNAL: longsimplevowel-P
+ longvowel-P called by class-b-base
+
+ Xsanput2 calls NOTHING
+ Xsanput2 called by load-subfields-1
+
+ XsanAppendElt2 calls INTERNAL: append-if-new
+ XsanAppendElt2 called by load-subfields-1
+
+gram2-future.el
+ conjugation-tab-ForC-main calls INTERNAL: ForC-bitab, ForC-bitab-join, ForC-seTCode, augment-a, benedictive-base, future-base
+ conjugation-tab-ForC-main calls EXTERNAL: endings.solution, gram1.append-if-new, gram1.sanget, gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+ conjugation-tab-ForC-main called by conjugation-tab-ForC
+
+ ForC-bitab calls NOTHING
+ ForC-bitab called by conjugation-tab-ForC-main
+
+ ForC-bitab-join calls INTERNAL: ForC-join
+ ForC-bitab-join calls EXTERNAL: endings.solution, gram1.append-if-new
+ ForC-bitab-join called by conjugation-tab-ForC-main
+
+ ForC-join1 calls INTERNAL: aspirate-first-cons, first-cons
+ ForC-join1 calls EXTERNAL: endings.solution, gram1.consonant-P, gram1.semivowel-P, gram1.vowel-P, gram2.conjugation-join, gram2.word-parts, sandhi.de-aspirate, sandhi.sandhi-pair, sandhi.sandhi-pair-skiprefs-set, sandhi.sandhi-single, start0.fol-msg
+ ForC-join1 called by ForC-join
+
+ future-base calls INTERNAL: ForC-seTCode
+ future-base calls EXTERNAL: endings.solution, gram2-liT.kuTaadi-P, gram2.class-a-base, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ future-base called by conjugation-tab-ForC-main
+
+gram2-liT.el
+ conjugation-tab-liT calls INTERNAL: conjugation-tab-liT-p, conjugation-tab-liT-r, join-arrays, periphrastic-liT-P, reduplicative-liT-P
+ conjugation-tab-liT called by conjugation-tab
+
+ conjugation-tab-liT-r-main calls INTERNAL: liT-main-get-bitab, perfect-bitab-join
+ conjugation-tab-liT-r-main calls EXTERNAL: gram1.sanget, itrans.ITRANS-parse-words-1, start0.fol-msg
+ conjugation-tab-liT-r-main called by conjugation-tab-liT-r
+
+ perfect-bitab-join calls INTERNAL: perfect-join
+ perfect-bitab-join calls EXTERNAL: endings.solution, gram1.append-if-new
+ perfect-bitab-join called by conjugation-tab-liT-r-main
+
+ perfect-bitab calls NOTHING
+ perfect-bitab called by liT-main-get-bitab
+
+ reduplicative-pfx-perfect calls EXTERNAL: gram1.guttural-P, gram1.hard-P, gram1.sibilant-P, gram2.word-parts, sandhi.corresponding-letter, sandhi.de-aspirate, sandhi.reduplicative-pfx, sandhi.shorten-vowel
+ reduplicative-pfx-perfect called by reduplicate-perfect
+
+ kale-463-P calls INTERNAL: kuTaadi-P
+ kale-463-P called by construct-ippart1a-tvaa
+
+ periphrastic-suffix calls INTERNAL: periphrastic-init
+ periphrastic-suffix called by conjugation-tab-liT-p
+
+ periphrastic-init calls INTERNAL: join-arrays, periphrastic-init1
+ periphrastic-init called by periphrastic-suffix
+
+ periphrastic-init1 calls INTERNAL: conjugation-tab-liT-r
+ periphrastic-init1 calls EXTERNAL: gram2.conjugation-join-sym
+ periphrastic-init1 called by periphrastic-init
+
+gram2.el
+ dhaatu-a~Nga-a-REGULAR calls INTERNAL: dhaatu-a~Nga-1, dhaatu-a~Nga-10, dhaatu-a~Nga-4, dhaatu-a~Nga-6
+ dhaatu-a~Nga-a-REGULAR calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ dhaatu-a~Nga-a-REGULAR called by dhaatu-a~Nga
+
+ class-a-base-irreg calls EXTERNAL: itrans.ITRANS-parse-words-1
+ class-a-base-irreg called by class-a-base
+
+ class-b-base calls INTERNAL: kale-414-P, kale-414-opt-P
+ class-b-base calls EXTERNAL: gram1.longvowel-P, gram1.nasal-P, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.shorten-vowel, start0.fol-msg
+ class-b-base called by construct-conjbase1a
+
+ kale-414-opt-P calls NOTHING
+ kale-414-opt-P called by class-b-base
+
+ conjugation-tab-1 calls INTERNAL: conjugation-join
+ conjugation-tab-1 calls EXTERNAL: endings.conj-endings, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.vrddhi
+ conjugation-tab-1 called by conjugation-tab
+
+ conjugation-tab-5 calls INTERNAL: conjugation-join
+ conjugation-tab-5 calls EXTERNAL: endings.conj-endings, endings.conj-strengths, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.vrddhi
+ conjugation-tab-5 called by conjugation-tab
+
+ conjugation-tab-8 calls INTERNAL: conjugation-join
+ conjugation-tab-8 calls EXTERNAL: endings.conj-endings, endings.conj-strengths, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.vrddhi
+ conjugation-tab-8 called by conjugation-tab
+
+ conjugation-tab-9 calls INTERNAL: conjugation-join
+ conjugation-tab-9 calls EXTERNAL: endings.conj-endings, endings.conj-strengths, gram1.consonant-P, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.vrddhi
+ conjugation-tab-9 called by conjugation-tab
+
+ conjugation-tab-3 calls INTERNAL: conjugation-join, word-parts
+ conjugation-tab-3 calls EXTERNAL: endings.conj-endings, endings.conj-strengths, endings.solution, gram1.append-if-new, gram1.consonant-P, gram1.dental-P, gram1.labial-P, gram1.nasal-P, gram1.semivowel-P, gram1.soft-P, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.aspirate, sandhi.de-aspirate, sandhi.guna, sandhi.gunate-final-vowel, sandhi.lengthen-vowel, sandhi.reduplicative-pfx, sandhi.sandhi-legalise-final-cons, sandhi.vrddhi
+ conjugation-tab-3 called by conjugation-tab
+
+ conjugation-tab-7 calls INTERNAL: conjugation-join, word-parts
+ conjugation-tab-7 calls EXTERNAL: endings.conj-endings, endings.conj-strengths, endings.solution, gram1.append-if-new, gram1.cerebral-P, gram1.consonant-P, gram1.dental-P, gram1.guttural-P, gram1.nasal-P, gram1.palatal-P, gram1.semivowel-P, gram1.soft-P, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.aspirate, sandhi.de-aspirate, sandhi.lengthen-vowel, sandhi.sandhi-legalise-final-cons, sandhi.sandhi-n-N, sandhi.vrddhi, start0.fol-msg
+ conjugation-tab-7 called by conjugation-tab
+
+ conjugation-join1 calls EXTERNAL: endings.solution, sandhi.sandhi-pair, sandhi.sandhi-pair-skiprefs-set, sandhi.sandhi-single
+ conjugation-join1 called by conjugation-join
+
+ symnum-name calls NOTHING
+ symnum-name called by san-symbol-name
+
+ sym-begins-with calls EXTERNAL: itrans.ITRANS-parse-words-1
+ sym-begins-with called by check-duals
+
+ sym-ends-with calls EXTERNAL: itrans.ITRANS-parse-words-1
+ sym-ends-with called by check-duals
+
+ sym-concat2 calls NOTHING
+ sym-concat2 called by sym-concat
+
+ dhaatu-class-padas calls NOTHING
+ dhaatu-class-padas called by class-pada-a~Ngas
+
+ class-pada-a~Ngas calls INTERNAL: dhaatu-a~Nga, dhaatu-class-padas
+ class-pada-a~Ngas called by conjugation-citation
+
+ conjugation-citation calls INTERNAL: class-pada-a~Ngas, conjugation-citation-irreg, conjugation-tab
+ conjugation-citation called by conjugation-citation-cp
+
+ modify-conj-endings-1 calls INTERNAL: conjugation-join
+ modify-conj-endings-1 calls EXTERNAL: endings.conj-endings
+ modify-conj-endings-1 called by old-init-class-a-mod-endings
+
+gram3.el
+ declension-citation-other1 calls EXTERNAL: construct.construct-subanta1
+ declension-citation-other1 called by declension-citation-other
+
+ declension-citation-other calls INTERNAL: declension-citation-other1
+ declension-citation-other calls EXTERNAL: gram1.sanget2
+ declension-citation-other called by declension-citation
+
+ declension-1cons-ch calls INTERNAL: declension-1cons-finish
+ declension-1cons-ch calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.make-regexp, start0.fol-msg
+ declension-1cons-ch called by declension-general-1cons
+
+ declension-1cons-Ch calls INTERNAL: declension-1cons-finish
+ declension-1cons-Ch calls EXTERNAL: gram1.vowel-P, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-1cons-Ch called by declension-general-1cons
+
+ declension-1cons-j calls INTERNAL: declension-1cons-finish
+ declension-1cons-j calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.make-regexp, start0.fol-msg
+ declension-1cons-j called by declension-general-1cons
+
+ declension-1cons-sh calls INTERNAL: declension-1cons-finish
+ declension-1cons-sh calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.make-regexp, start0.fol-msg
+ declension-1cons-sh called by declension-general-1cons
+
+ declension-1cons-l calls INTERNAL: declension-1cons-finish
+ declension-1cons-l calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-1cons-l called by declension-general-1cons
+
+ declension-1cons-r calls INTERNAL: declension-1cons-finish
+ declension-1cons-r calls EXTERNAL: itrans.ITRANS-parse-words-1, sandhi.lengthen-vowel, start0.fol-msg
+ declension-1cons-r called by declension-general-1cons
+
+ declension-1cons-s calls INTERNAL: declension-1cons-finish
+ declension-1cons-s calls EXTERNAL: gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.lengthen-vowel, start0.fol-msg
+ declension-1cons-s called by declension-general-1cons
+
+ declension-1cons-Sh calls INTERNAL: declension-1cons-finish
+ declension-1cons-Sh calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.make-regexp, start0.fol-msg
+ declension-1cons-Sh called by declension-general-1cons
+
+ declension-1cons-h calls INTERNAL: declension-1cons-finish, declension-general-1
+ declension-1cons-h calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.make-regexp, start0.fol-msg
+ declension-1cons-h called by declension-general-1cons
+
+ declension-1cons-v calls INTERNAL: declension-1cons-finish
+ declension-1cons-v calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-1cons-v called by declension-general-1cons
+
+ declension-1cons-t calls INTERNAL: declension-1cons-finish
+ declension-1cons-t calls EXTERNAL: itrans.ITRANS-parse-words-1, itrans.make-regexp, start0.fol-msg
+ declension-1cons-t called by declension-general-1cons
+
+ declension-1cons-p calls INTERNAL: declension-1cons-finish
+ declension-1cons-p calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-1cons-p called by declension-general-1cons
+
+ declension-1cons-k calls INTERNAL: declension-1cons-finish
+ declension-1cons-k calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-1cons-k called by declension-general-1cons
+
+ declension-general-vat calls INTERNAL: declension-general-mat
+ declension-general-vat called by declension-pron
+
+ declension-general-in calls INTERNAL: declension-general-1
+ declension-general-in calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general-in called by declension-general-in-ADJ
+
+ declension-general-M-uu calls INTERNAL: declension-general-1, declension-general-M-uu-helper
+ declension-general-M-uu calls EXTERNAL: construct.subanta-base, construct.sym-delete-last, endings.solution, endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general-M-uu called by declension-citation1
+
+ declension-general-M-uu-helper calls EXTERNAL: gram2.word-parts, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general-M-uu-helper called by declension-general-M-uu
+
+ declension-pres-part calls INTERNAL: declension-pres-part-A, declension-pres-part-P
+ declension-pres-part called by construct-passpart1a
+
+ declension-pres-part-A calls INTERNAL: declension-general
+ declension-pres-part-A calls EXTERNAL: start0.fol-msg
+ declension-pres-part-A called by declension-pres-part
+
+ declension-perf-part-active calls INTERNAL: declension-general-mat
+ declension-perf-part-active calls EXTERNAL: itrans.ITRANS-parse-words-1
+ declension-perf-part-active called by SL-pap-declension
+
+ declension-perperf-part calls INTERNAL: declension-general, declension-general-vas-ADJ
+ declension-perperf-part calls EXTERNAL: gram2.sym-concat, itrans.ITRANS-parse-words-1
+ declension-perperf-part called by explain-declension-perperf-part
+
+ declension-fut-part-active-P calls INTERNAL: declension-pres-part-P
+ declension-fut-part-active-P calls EXTERNAL: construct.pres-part-praatipadikas, gram1.listify, gram2-liT.join-arrays, gram2.sym-concat
+ declension-fut-part-active-P called by declension-fut-part-active
+
+ declension-adj calls INTERNAL: declension-general, declension-general-cons
+ declension-adj calls EXTERNAL: endings.solution
+ declension-adj called by explain-declension-adj
+
+ declension-pron calls INTERNAL: declension-citation, declension-general-vat
+ declension-pron calls EXTERNAL: gram1.append-if-new, start0.fol-msg
+ declension-pron called by explain-declension-pron
+
+ subanta-base-1cons calls EXTERNAL: itrans.ITRANS-parse-words-1, sandhi.lengthen-vowel, start0.fol-msg
+ subanta-base-1cons called by old-declension-general-1cons
+
+irreg.el
+ subanta-irreg calls EXTERNAL: gram1.sanput2
+ subanta-irreg called by irregs-init
+
+ dhaatu-irreg calls EXTERNAL: gram1.sanput2
+ dhaatu-irreg called by irregs-init
+
+ declension-M-a-IRR calls EXTERNAL: gram3.declension-general, gram3.declension-general-1cons
+ declension-M-a-IRR called by irregs-init
+
+ declension-F-aa-IRR calls EXTERNAL: gram3.declension-general, gram3.declension-general-1cons
+ declension-F-aa-IRR called by irregs-init
+
+ declension-F-aa1-IRR calls EXTERNAL: endings.sup-get, gram1.vowel-P, gram3.declension-general, gram3.declension-general-1cons
+ declension-F-aa1-IRR called by irregs-init
+
+ declension-M-aa1-IRR calls EXTERNAL: endings.sup-get, gram1.vowel-P, gram3.declension-general, gram3.declension-general-1cons
+ declension-M-aa1-IRR called by irregs-init
+
+ declension-N-i1-IRR calls EXTERNAL: endings.solution, endings.sup-get, gram1.vowel-P, gram3.declension-general, gram3.declension-general-cons, itrans.ITRANS-parse-words-1
+ declension-N-i1-IRR called by irregs-init
+
+ irregs-init calls INTERNAL: declension-F-aa-IRR, declension-F-aa1-IRR, declension-M-a-IRR, declension-M-aa1-IRR, declension-N-i1-IRR, dhaatu-irreg, subanta-irreg
+ irregs-init calls EXTERNAL: gram2.conjugation-tab-2, gram3.declension-general-an, gram3.declension-general-mat
+ irregs-init called by construct-init
+
+itrans.el
+ init-transliteration calls INTERNAL: AS-SLP1-parsers-init, AS-init, HK-init, HKMW-init, ITRANS-init, SLP1-init, SLP1-parsers-init, init-HK-ordering, init-ITRANS-ordering
+ init-transliteration called by construct-init
+
+ SLP1-init calls INTERNAL: SLP1-PARSE-init, SLP1-parsers-init, init-SLP1-ordering
+ SLP1-init called by init-transliteration
+
+ ITRANS-init calls NOTHING
+ ITRANS-init called by init-transliteration
+
+ ITRANS-parse-word-string calls INTERNAL: any-parse-word-string
+ ITRANS-parse-word-string called by make-item1
+
+ vector-droplast calls NOTHING
+ vector-droplast called by vector-droplast-VIRAAM
+
+ ITRANS-parse-words calls INTERNAL: word-list
+ ITRANS-parse-words called by ITRANS-parse-words-1
+
+ ITRANS-parse-words-3 calls INTERNAL: ITRANS-parse-words-2
+ ITRANS-parse-words-3 called by init-sets
+
+ ITRANS-lt-str calls INTERNAL: ITRANS-lt-tok, ITRANS-parse-words-1
+ ITRANS-lt-str called by ITRANS-lt-sym
+
+ ITRANS-lt-sym calls INTERNAL: ITRANS-lt-str
+ ITRANS-lt-sym called by sanforms-lt
+
+ ITRANS-lt-tok calls INTERNAL: any-lt-tok
+ ITRANS-lt-tok called by ITRANS-lt-str
+
+ init-ITRANS-ordering calls INTERNAL: init-some-ordering
+ init-ITRANS-ordering called by init-transliteration
+
+ init-SLP1-ordering calls INTERNAL: init-some-ordering
+ init-SLP1-ordering called by SLP1-init
+
+ SLP1-parse-words-1 calls INTERNAL: SLP1-parse-words
+ SLP1-parse-words-1 called by SLP1-lt-str
+
+ SLP1-parse-words calls INTERNAL: word-list
+ SLP1-parse-words called by SLP1-parse-words-1
+
+ SLP1-lt-str calls INTERNAL: SLP1-lt-tok, SLP1-parse-words-1
+ SLP1-lt-str called by SLP1-lt-sym
+
+ SLP1-lt-tok calls INTERNAL: any-lt-tok
+ SLP1-lt-tok called by SLP1-lt-str
+
+ init-HK-ordering calls INTERNAL: init-some-ordering
+ init-HK-ordering called by init-transliteration
+
+ HK-init calls NOTHING
+ HK-init called by init-transliteration
+
+ HKMW-init calls NOTHING
+ HKMW-init called by init-transliteration
+
+ SLP1-PARSE-init calls NOTHING
+ SLP1-PARSE-init called by SLP1-init
+
+ translate-string-SLP1-ITRANS calls INTERNAL: any-parse-word-string, mapcar-LE
+ translate-string-SLP1-ITRANS called by translate-string-SLP1-ITRANS-a
+
+ translate-string-SLP1-ITRANS-a calls INTERNAL: translate-string-SLP1-ITRANS
+ translate-string-SLP1-ITRANS-a calls EXTERNAL: start0.current-line
+ translate-string-SLP1-ITRANS-a called by translate-buffer-SLP1-ITRANS
+
+ delete-regexp calls NOTHING
+ delete-regexp called by string-delete-regexp
+
+ AS-init calls NOTHING
+ AS-init called by init-transliteration
+
+ AS-SLP1-parsers-init calls INTERNAL: parse-from-to-construct
+ AS-SLP1-parsers-init called by init-transliteration
+
+ translate-string-AS-SLP1 calls INTERNAL: any-parse-word-string, mapcar-LE
+ translate-string-AS-SLP1 called by translate-string-AS-SLP1-a
+
+kta.el
+ construct-pppart1a-helper calls INTERNAL: kale-696-P, kta-seT-code
+ construct-pppart1a-helper calls EXTERNAL: construct.causal-conjtab1a-bases, construct.construct-conjbase1a, endings.solution, gram1.labial-P, gram2-future.kale-584-P, gram2-future.samprasaaraNa, gram2-future.samprasaaraNa-P, itrans.ITRANS-parse-words-1, sandhi.lengthen-vowel
+ construct-pppart1a-helper called by construct-pppart1a
+
+ construct-pppart1a-exception calls NOTHING
+ construct-pppart1a-exception called by construct-pppart1a
+
+ kale-696-P calls NOTHING
+ kale-696-P called by construct-pppart1a-helper
+
+ kale-692-P calls NOTHING
+ kale-692-P called by construct-pppart1a
+
+ construct-ippart1a calls INTERNAL: construct-ippart1a-tvaa, construct-ippart1a-ya
+ construct-ippart1a called by construct-ippart
+
+ construct-ippart1a-tvaa-basic calls INTERNAL: construct-pppart1a, tvaa-join1-t-th
+ construct-ippart1a-tvaa-basic calls EXTERNAL: endings.solution, gram1.append-if-new, itrans.ITRANS-parse-words-1
+ construct-ippart1a-tvaa-basic called by construct-ippart1a-tvaa
+
+ construct-ippart1a-tvaa-exception calls EXTERNAL: start0.fol-msg
+ construct-ippart1a-tvaa-exception called by construct-ippart1a-tvaa
+
+ tvaa-seT-code calls INTERNAL: indicatory-u-P, kta-seT-code
+ tvaa-seT-code calls EXTERNAL: construct.construct-seT-code1a, gram1.consonant-P, itrans.ITRANS-parse-words-1
+ tvaa-seT-code called by construct-ippart1a-tvaa
+
+ construct-ippart1a-ya-exception calls NOTHING
+ construct-ippart1a-ya-exception called by construct-ippart1a-ya
+
+ indicatory-u-P calls NOTHING
+ indicatory-u-P called by tvaa-seT-code
+
+ construct-inf1a-basic calls EXTERNAL: construct.construct-conjtab1a, endings.solution, gram1.append-if-new, itrans.ITRANS-parse-words-1, start0.fol-msg
+ construct-inf1a-basic called by construct-inf1a
+
+ construct-inf1a-exception calls NOTHING
+ construct-inf1a-exception called by construct-inf1a
+
+ construct-potpart1a-irregular calls NOTHING
+ construct-potpart1a-irregular called by construct-potpart1a
+
+ construct-potpart1a-tavya-exception calls NOTHING
+ construct-potpart1a-tavya-exception called by construct-potpart1a-tavya
+
+ construct-potpart1a-aniiya-exception calls NOTHING
+ construct-potpart1a-aniiya-exception called by construct-potpart1a-aniiya
+
+ construct-potpart1a-yat-exception calls NOTHING
+ construct-potpart1a-yat-exception called by construct-potpart1a-yat
+
+Mbh.el
+ Mbh-buffer calls EXTERNAL: start0.sangram-filename
+ Mbh-buffer called by construct-Mbhu
+
+ Mbhu-validate1-help calls INTERNAL: Mbhu-alternates-list, Mbhu-validate1-help-1a
+ Mbhu-validate1-help calls EXTERNAL: explain.Sx1, start0.fol-msg
+ Mbhu-validate1-help called by Mbhu-validate1
+
+ Mbhu-validate1-help-1a calls EXTERNAL: start0.fol-msg
+ Mbhu-validate1-help-1a called by Mbhu-validate1-help
+
+ Mbhu-validate2-help calls INTERNAL: Mbhu-validate2-I-0, Mbhu-validate2-S-0, Mbhu-validate2-V-0
+ Mbhu-validate2-help called by Mbhu-validate2
+
+ Mbhu-validate2-V-0 calls INTERNAL: Mbhu-complete-classes, Mbhu-extract-V-lex, Mbhu-validate2-V-2, SL-tense-tran
+ Mbhu-validate2-V-0 calls EXTERNAL: construct.construct-conjtab1a, endings.solution, explain.SL-upasarga-forms, fileutil.read-string-fields, itrans.mapcar-LE, itrans.translate-SLP1-ITRANS, start0.fol-msg
+ Mbhu-validate2-V-0 called by Mbhu-validate2-help
+
+ Mbhu-validate2-V-2 calls INTERNAL: Mbhu-validate2-match
+ Mbhu-validate2-V-2 called by Mbhu-validate2-V-0
+
+ Mbhu-validate2-I-0 calls NOTHING
+ Mbhu-validate2-I-0 called by Mbhu-validate2-help
+
+ Mbhu-validate2-S-2 calls INTERNAL: Mbhu-validate2-match
+ Mbhu-validate2-S-2 called by Mbhu-validate2-S-0
+
+ Mbhu-validate2-S-compare calls INTERNAL: Mbhu-alternates-list
+ Mbhu-validate2-S-compare called by Mbhu-validate2-S-0
+
+ Mbhu-extract-V-lex calls INTERNAL: Mbh-buf
+ Mbhu-extract-V-lex calls EXTERNAL: construct.normalize-class-padas
+ Mbhu-extract-V-lex called by Mbhu-validate2-V-0
+
+ Mbhu-complete-classes calls NOTHING
+ Mbhu-complete-classes called by Mbhu-validate2-V-0
+
+ Mbh-verse calls INTERNAL: Mbhu-buffer
+ Mbh-verse calls EXTERNAL: fileutil.read-buffer-fields
+ Mbh-verse called by sxmw-Mbh-verse
+
+numeral.el
+ san-numeral calls INTERNAL: numeral-join-1-sym, san-numeral-1-19
+ san-numeral calls EXTERNAL: gram1.append-if-new, start0.fol-msg
+ san-numeral called by san-numeral-test
+
+ san-numeral-1-19 calls NOTHING
+ san-numeral-1-19 called by san-numeral
+
+ san-numeral-test calls INTERNAL: san-numeral
+ san-numeral-test calls EXTERNAL: gram1.append-if-new, start0.fol-msg
+ san-numeral-test called by answers-for-19-99
+
+sandhi.el
+ lengthen-diphthong calls NOTHING
+ lengthen-diphthong called by sandhi-init-21
+
+ Sandhi-get calls EXTERNAL: gram1.sanget
+ Sandhi-get called by sandhi-pair-main
+
+ Sandhi-init calls INTERNAL: Sandhi-Inverse-init, Sandhi-Length-init, Sandhi-initAll, sandhi-Kale30-init, sandhi-Kale33-init, sandhi-cons72-4-init, sandhi-cons72-6-init, sandhi-cons87-1-init, sandhi-cons87-2-init, sandhi-cons88-1-init, sandhi-cons88-1a-init, sandhi-cons88-1b-init, sandhi-cons88-2-init, sandhi-cons88-3-init, sandhi-cons88-3a-init, sandhi-cons88-5a-init, sandhi-cons88-5b-init, sandhi-final-m-init, sandhi-final-r-init-1, sandhi-init-19, sandhi-init-19a, sandhi-init-20, sandhi-init-21, sandhi-init-22, sandhi-init-23, sandhi-init-24, sandhi-init-24a, sandhi-init-25, sandhi-init-36, sandhi-init-36a, sandhi-s-Sh-init, sandhi-visarga-init-1, sandhi-visarga-init-2
+ Sandhi-init called by Sandhi-construct
+
+ Sandhi-Inverse-init calls INTERNAL: separate-symbol-pair
+ Sandhi-Inverse-init calls EXTERNAL: gram1.sanAppendElt, gram1.sangetall, start0.fol-msg
+ Sandhi-Inverse-init called by Sandhi-init
+
+ Sandhi-Length-init calls INTERNAL: separate-symbol-pair
+ Sandhi-Length-init calls EXTERNAL: gram1.sanget, gram1.sangetall, gram1.sanput, itrans.ITRANS-parse-words-1
+ Sandhi-Length-init called by Sandhi-init
+
+ Sandhi-unload calls EXTERNAL: gram1.sangetall, start0.sangram-filename
+ Sandhi-unload called by Sandhi-construct
+
+ Sandhi-load calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ Sandhi-load called by Sandhi-load-init
+
+ sandhi-init-19 calls INTERNAL: Sandhi-append, lengthen-vowel, sandhi-init-default-plist
+ sandhi-init-19 called by Sandhi-init
+
+ sandhi-init-19a calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-init-19a called by Sandhi-init
+
+ sandhi-init-20 calls INTERNAL: Sandhi-append, guna, sandhi-init-default-plist
+ sandhi-init-20 called by Sandhi-init
+
+ sandhi-init-21 calls INTERNAL: Sandhi-append, lengthen-diphthong, sandhi-init-default-plist
+ sandhi-init-21 called by Sandhi-init
+
+ sandhi-init-22 calls INTERNAL: Sandhi-append, lengthen-vowel, sandhi-init-default-plist
+ sandhi-init-22 calls EXTERNAL: gram1.sanget
+ sandhi-init-22 called by Sandhi-init
+
+ sandhi-init-23 calls INTERNAL: Sandhi-append, lengthen-vowel, sandhi-init-default-plist, shorten-vowel
+ sandhi-init-23 called by Sandhi-init
+
+ sandhi-init-24 calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-init-24 called by Sandhi-init
+
+ sandhi-init-24a calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-init-24a called by Sandhi-init
+
+ sandhi-init-25 calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-init-25 called by Sandhi-init
+
+ sandhi-init-36 calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-init-36 called by Sandhi-init
+
+ sandhi-init-36a calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-init-36a calls EXTERNAL: gram1.nasal-P, gram1.semivowel-P
+ sandhi-init-36a called by Sandhi-init
+
+ sandhi-visarga-init-1 calls INTERNAL: Sandhi-append, lengthen-vowel, sandhi-init-default-plist
+ sandhi-visarga-init-1 calls EXTERNAL: gram1.soft-P, gram1.vowel-P
+ sandhi-visarga-init-1 called by Sandhi-init
+
+ sandhi-visarga-init-2 calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-visarga-init-2 called by Sandhi-init
+
+ sandhi-final-r-init-1 calls INTERNAL: Sandhi-append, lengthen-vowel, sandhi-init-default-plist
+ sandhi-final-r-init-1 calls EXTERNAL: gram1.soft-P, gram1.vowel-P
+ sandhi-final-r-init-1 called by Sandhi-init
+
+ sandhi-final-m-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-final-m-init called by Sandhi-init
+
+ sandhi-s-Sh-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-s-Sh-init called by Sandhi-init
+
+ sandhi-cons72-4-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons72-4-init calls EXTERNAL: gram1.semivowel-P, gram1.vowel-P
+ sandhi-cons72-4-init called by Sandhi-init
+
+ sandhi-cons72-6-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons72-6-init calls EXTERNAL: gram1.softaspirate-P
+ sandhi-cons72-6-init called by Sandhi-init
+
+ sandhi-cons87-1-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons87-1-init called by Sandhi-init
+
+ sandhi-cons87-2-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons87-2-init called by Sandhi-init
+
+ sandhi-cons88-1-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-1-init called by Sandhi-init
+
+ sandhi-cons88-1a-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-1a-init called by Sandhi-init
+
+ sandhi-cons88-1b-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-1b-init called by Sandhi-init
+
+ sandhi-cons88-2-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-2-init called by Sandhi-init
+
+ sandhi-cons88-3-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-3-init called by Sandhi-init
+
+ sandhi-cons88-3a-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-3a-init called by Sandhi-init
+
+ sandhi-cons88-5a-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-5a-init called by Sandhi-init
+
+ sandhi-cons88-5b-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-cons88-5b-init called by Sandhi-init
+
+ sandhi-Kale33-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-Kale33-init called by Sandhi-init
+
+ sandhi-Kale30-init calls INTERNAL: Sandhi-append, sandhi-init-default-plist
+ sandhi-Kale30-init called by Sandhi-init
+
+ sandhi-n-N-ifirst-set calls NOTHING
+ sandhi-n-N-ifirst-set called by declension-join
+
+ sandhi-pair-main calls INTERNAL: Sandhi-get
+ sandhi-pair-main calls EXTERNAL: start0.fol-msg
+ sandhi-pair-main called by sandhi-pair
+
+ sandhi-single-main calls INTERNAL: sandhi-n-N, sandhi-one-final-cons
+ sandhi-single-main called by sandhi-single
+
+ sandhi-avagraha-separate calls NOTHING
+ sandhi-avagraha-separate called by sandhi-avagraha-separate-test
+
+ sandhi-separate-main calls EXTERNAL: gram1.consonant-P, gram1.sanget, gram1.vowel-P, itrans.ITRANS-parse-words-1
+ sandhi-separate-main called by sandhi-separate
+
+ sandhi-separate-final-r calls EXTERNAL: explain.praatar-modify, itrans.ITRANS-parse-words-1
+ sandhi-separate-final-r called by sandhi-separate3-str
+
+ sandhi-separate3-str calls INTERNAL: sandhi-pair, sandhi-separate-final-r, sandhi-separate2
+ sandhi-separate3-str calls EXTERNAL: explain.praatar-modify, itrans.word-list, start0.fol-msg
+ sandhi-separate3-str called by explain
+
+start0.el
+ sangram-buffer calls INTERNAL: sangram-filename
+ sangram-buffer called by work-praps1
+
+ fol-ob-init calls NOTHING
+ fol-ob-init called by construct-init
+
+ fol-read calls INTERNAL: fol-msg
+ fol-read called by prog-comments
+
+sxmw.el
+ my-forward-sexp calls INTERNAL: check-buffer-grouping
+ my-forward-sexp called by mw-help1-string
+
+ mw calls INTERNAL: MW-key-find, mw-helper
+ mw calls EXTERNAL: start0.current-line
+ mw called by sxmw
+
+ mw-help1-string calls INTERNAL: my-forward-sexp
+ mw-help1-string called by mw-helper
+
+ mw-tag-BIO calls NOTHING
+ mw-tag-BIO called by mw-tag-BOT
+
+ Sx2-forms calls INTERNAL: Sx2-forms-helper
+ Sx2-forms calls EXTERNAL: start0.current-line, start0.fol-msg, start0.sangram-filename
+ Sx2-forms called by Sx2
+
+ Sx2-forms-helper calls INTERNAL: Sx2-extract-formtype
+ Sx2-forms-helper calls EXTERNAL: forms.parse-string-to-array, gram2-liT.join-arrays, itrans.gen-word-list, start0.fol-msg
+ Sx2-forms-helper called by Sx2-forms
+
+ Sx2-pfx calls INTERNAL: Sx2-pfxa
+ Sx2-pfx called by Sx2
+
+ Sx2-pfxa calls EXTERNAL: start0.sangram-filename
+ Sx2-pfxa called by Sx2-pfx
+
+ Sx2-extract-formtype calls EXTERNAL: itrans.word-list, start0.fol-msg
+ Sx2-extract-formtype called by Sx2-forms-helper
+
+ sxmw-Mbh-verse calls EXTERNAL: Mbh.Mbh-verse, start0.fol-msg
+ sxmw-Mbh-verse called by sxmw-Mbh-verses
+
+ MW-init calls INTERNAL: MW-orig-init
+ MW-init called by init-sanskrit1
+
+ MW-orig-init calls NOTHING
+ MW-orig-init called by MW-init
+
+ MW-buffer calls EXTERNAL: start0.sangram-filename
+ MW-buffer called by MW-key-find
+
+ MW-keys-buffer calls EXTERNAL: start0.sangram-filename
+ MW-keys-buffer called by MW-key-find
+
+ check-buffer-grouping calls INTERNAL: check-group
+ check-buffer-grouping calls EXTERNAL: start0.fol-msg
+ check-buffer-grouping called by my-forward-sexp
+
+ check-group calls NOTHING
+ check-group called by check-buffer-grouping
+
+validation.el
+ 1cons-chk calls EXTERNAL: gram3.declension-citation
+ 1cons-chk called by 1cons-chk-pr
+
+ 1cons-chk-pr calls INTERNAL: 1cons-chk
+ 1cons-chk-pr calls EXTERNAL: start0.fol-msg
+ 1cons-chk-pr called by 1cons-chk-pr-all
+
+ get-classes calls EXTERNAL: construct.sym-dcpu, gram1.append-if-new, gram1.sanget2
+ get-classes called by liT-r
+
+ conjugation-tab-liT-px calls EXTERNAL: gram2-liT.conjugation-tab-liT-p
+ conjugation-tab-liT-px called by liT-px
+
+ aashiirli~N calls EXTERNAL: gram2-future.conjugation-tab-aashiirli~N
+ aashiirli~N called by futpass
+
+ aorista calls EXTERNAL: aorist.conjugation-tab-aorist
+ aorista called by aoristP
+
+ aoristP calls INTERNAL: aorista
+ aoristP called by aoristP0
+
+ aoristP0 calls INTERNAL: aoristP
+ aoristP0 calls EXTERNAL: aorist.aorist-varieties, endings.solution, gram1.append-if-new
+ aoristP0 called by aoristP0-make
+
+ aoristP1 calls EXTERNAL: aorist.aorist-varieties, aorist.conjugation-tab-aorist, endings.solution, gram1.append-if-new
+ aoristP1 called by aoristP1-make
+
+ seT calls EXTERNAL: construct.construct-seT-code1a
+ seT called by construct-potpart1a-tavya
+
+ SL-dtab-extract1 calls INTERNAL: SL-dtab-extract2
+ SL-dtab-extract1 calls EXTERNAL: start0.sangram-filename
+ SL-dtab-extract1 called by SL-dtab-extract
+
+ SL-dtab-extract2 calls NOTHING
+ SL-dtab-extract2 called by SL-dtab-extract1
+
+ SL-construct-subanta1a calls INTERNAL: construct-prap
+ SL-construct-subanta1a calls EXTERNAL: construct.construct-subanta1a, itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, start0.fol-msg
+ SL-construct-subanta1a called by SL-dtab-construct
+
+ construct-prap-base calls EXTERNAL: itrans.ITRANS-parse-words-1
+ construct-prap-base called by construct-prap
+
+ construct-prap calls INTERNAL: construct-prap-base
+ construct-prap calls EXTERNAL: gram3.declension-pres-part-P
+ construct-prap called by SL-construct-subanta1a
+
+ SL-dtab-validate-one-elt calls INTERNAL: SL-list
+ SL-dtab-validate-one-elt called by SL-dtab-validate-one-compare
+
+ SL-list calls NOTHING
+ SL-list called by SL-dtab-validate-one-elt
+
+------------------------------------------------------------------------
+functions called by 2 callers
+aorist.el
+ aorist-1-P calls INTERNAL: kale-459-P
+ aorist-1-P called by aorist-4-P, aorist-5-P
+
+ aorist-2-P calls INTERNAL: aorist-2-542-P, aorist-2-543-P, aorist-2-544-P
+ aorist-2-P called by aorist-4-P, aorist-5-P
+
+ aorist-2-542-P calls NOTHING
+ aorist-2-542-P called by aorist-2-P, aorist-6-P
+
+ aorist-2-544-P calls NOTHING
+ aorist-2-544-P called by aorist-2-P, conjugation-tab-aorist2
+
+ aorist-3-P calls NOTHING
+ aorist-3-P called by aorist-4-P, aorist-5-P
+
+ aorist-6-P calls INTERNAL: aorist-2-542-P, kale-459-P
+ aorist-6-P calls EXTERNAL: itrans.ITRANS-parse-words-1
+ aorist-6-P called by aorist-4-P, aorist-5-P
+
+ aorist-7-P calls EXTERNAL: construct.construct-seT-code1a, endings.solution, itrans.ITRANS-parse-words-1
+ aorist-7-P called by aorist-4-P, aorist-5-P
+
+ aorist-join1-t-th calls EXTERNAL: gram2-future.first-cons, sandhi.de-aspirate, sandhi.lengthen-vowel, start0.fol-msg
+ aorist-join1-t-th called by aorist-join1, kta-join1
+
+ aorist-causal-base calls INTERNAL: aorist3-alter10, aorist3-alter10a, aorist3-lengthen-final-vowel, nasal-match, reduplicate-cons
+ aorist-causal-base calls EXTERNAL: causal.causal-603-P, causal.causal-base, causal.kale-400-P, gram1.append-if-new, gram1.nasal-P, gram1.vowel-P, gram2.class10-base, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.reduplicate
+ aorist-causal-base called by conjugation-tab-aorist3-main, causal-bases-gentense
+
+ aorist3-shorten-1st-vowel calls INTERNAL: aorist3-shorten-vowel
+ aorist3-shorten-1st-vowel calls EXTERNAL: gram1.vowel-P
+ aorist3-shorten-1st-vowel called by aorist-passive-3S, aorist3-reduplicate
+
+ aorist-gunate-final-vowel calls EXTERNAL: gram1.vowel-P, sandhi.guna, sandhi.vrddhi1
+ aorist-gunate-final-vowel called by conjugation-tab-aorist4-main, conjugation-tab-aorist5-main
+
+ kale-461-alt calls NOTHING
+ kale-461-alt called by conjugation-tab-aorist5-main, aorist-passive-3S
+
+causal.el
+ causal-603-P calls INTERNAL: indicatory-m-P
+ causal-603-P called by aorist-causal-base, causal-base
+
+ modify-Eng-def calls NOTHING
+ modify-Eng-def called by indicatory-m-P-2, class10-base
+
+construct.el
+ all-prefix-files calls EXTERNAL: gram1.append-if-new, start0.sangram-filename
+ all-prefix-files called by all-dhaatukosha-inputs, all-subanta-inputs
+
+ all-subanta-inputs calls INTERNAL: all-prefix-files
+ all-subanta-inputs called by load-subanta-files, construct-subanta-all
+
+ strip-pfx-sfx calls NOTHING
+ strip-pfx-sfx called by construct-verb-all, all-dhaatukosha-suffixes
+
+ construct-dhaatu-forms-all calls INTERNAL: construct-cleartemp, construct-dhaatu-forms1, sym-dcpu
+ construct-dhaatu-forms-all calls EXTERNAL: gram1.append-if-new, gram1.sanAppendElt, gram1.sanget, start0.sangram-filename
+ construct-dhaatu-forms-all called by construct-verb-one, old-construct-all
+
+ construct-conjtabs calls INTERNAL: construct-conjtab-helper
+ construct-conjtabs calls EXTERNAL: itrans.translate-SLP1-ITRANS, start0.sangram-filename
+ construct-conjtabs called by construct-mw-all, construct-conjtabs-all
+
+ construct-conjtab-helper calls INTERNAL: SL-construct-output-base, SL-construct-output1, construct-conjtab-base-aashiirli~N, construct-conjtab-base-lRiT, construct-conjtab-base-lRi~N, construct-conjtab-base-liT-p, construct-conjtab-base-luT, construct-conjtab-base-lu~N, construct-conjtab-base1a, construct-conjtab1a
+ construct-conjtab-helper calls EXTERNAL: endings.solution
+ construct-conjtab-helper called by construct-conjtabs, construct-causalconjtabs
+
+ construct-seTPERF-code1a calls INTERNAL: construct-seT-code1a
+ construct-seTPERF-code1a calls EXTERNAL: endings.solution, gram1.consonant-P, gram1.vowel-P, itrans.ITRANS-parse-words-1
+ construct-seTPERF-code1a called by conjugation-tab-liT-r, liT-main-get-bitab
+
+ construct-participles-reformat calls EXTERNAL: start0.sangram-filename
+ construct-participles-reformat called by construct-participles-all, construct-mw-all
+
+ construct-participles calls INTERNAL: construct-participles1
+ construct-participles calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ construct-participles called by construct-participles-all, construct-mw-all
+
+ sym-delete-last calls EXTERNAL: itrans.ITRANS-parse-words-1
+ sym-delete-last called by construct-participles1-helper, declension-general-M-uu
+
+ declension-pres-part-alt calls INTERNAL: declension-pres-part-A-alt, declension-pres-part-P-alt
+ declension-pres-part-alt called by construct-prespart1a-alt, SL-prespart-declension
+
+ construct-rppart1b calls EXTERNAL: gram1.append-if-new, gram1.labial-P, gram1.nasal-P, gram2-liT.liT-main-get-bitab, gram2-liT.perfect-join1, gram2-liT.reduplicate-perfect, gram2-liT.reduplicative-liT-P, gram2.word-parts, itrans.ITRANS-parse-words-1
+ construct-rppart1b called by construct-rppart1a, rpp
+
+ construct-perppart1a calls INTERNAL: init-perppart1a-data
+ construct-perppart1a calls EXTERNAL: endings.solution, gram2-liT.periphrastic-base, gram2-liT.periphrastic-liT-P, gram2.conjugation-join-sym
+ construct-perppart1a called by construct-perppart, perpp
+
+ construct-verb-one-a calls INTERNAL: construct-dhaatu-forms1, filter-dhaatu-forms
+ construct-verb-one-a calls EXTERNAL: gram2.sym-concat, start0.fol-msg
+ construct-verb-one-a called by construct-verb-one, construct-verb-one-a1
+
+ all-dhaatukosha-suffixes calls INTERNAL: all-dhaatukosha-inputs, strip-pfx-sfx
+ all-dhaatukosha-suffixes called by load-construct-all-verbal, load-causal-files
+
+ construct-subanta calls INTERNAL: SL-construct-output-base, SL-construct-output1, construct-subanta-base, construct-subanta1, convert-subanta-lexinfo
+ construct-subanta calls EXTERNAL: endings.solution, fileutil.read-colon-line-fields, itrans.translate-SLP1-ITRANS, start0.current-line, start0.fol-msg, start0.sangram-filename
+ construct-subanta called by construct-subanta-all, construct-mw-all
+
+ subanta-convert-form calls INTERNAL: init-subanta-type-data
+ subanta-convert-form calls EXTERNAL: gram1.consonant-P, gram1.vowel-P, gram2.word-parts, itrans.ITRANS-parse-words-1, itrans.make-regexp
+ subanta-convert-form called by convert-subanta-lexinfo, construct-subanta1a
+
+ SL-construct-output1 calls INTERNAL: Xalgorithm, replace-prefix
+ SL-construct-output1 calls EXTERNAL: itrans.translate-ITRANS-SLP1
+ SL-construct-output1 called by construct-conjtab-helper, construct-subanta
+
+ replace-prefix calls INTERNAL: replace-prefix0
+ replace-prefix calls EXTERNAL: itrans.mapcar-LE
+ replace-prefix called by SL-construct-output-base, SL-construct-output1
+
+ remove-partial-duplicates calls EXTERNAL: start0.current-line, start0.fol-msg
+ remove-partial-duplicates called by construct-participles-reformat1, merge-dcpforms
+
+ normalize-class-padas calls EXTERNAL: start0.fol-msg
+ normalize-class-padas called by construct-dcpforms, Mbhu-extract-V-lex
+
+ construct-avyayapada calls EXTERNAL: endings.solution, fileutil.read-colon-file-table, start0.sangram-filename
+ construct-avyayapada called by construct-avyayapada-all, construct-mw-all
+
+ SL-ppfactn calls EXTERNAL: gram2-liT.periphrastic-base, gram2-liT.periphrastic-liT-P, gram2.sym-concat, itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, start0.fol-msg
+ SL-ppfactn called by v-file-init3-ppfactn, v-file-init-alt1-ppfactn
+
+ SL-ppp calls EXTERNAL: itrans.translate-ITRANS-SLP1, itrans.translate-SLP1-ITRANS, kta.construct-pppart1a, start0.fol-msg
+ SL-ppp called by v-file-init3-ppp, v-file-init3-pap
+
+endings.el
+ construct-endings-2 calls INTERNAL: format-endings
+ construct-endings-2 calls EXTERNAL: start0.sangram-filename
+ construct-endings-2 called by construct-endings-all, construct-endings-1
+
+ sublist-gather calls INTERNAL: sublist-gather
+ sublist-gather calls EXTERNAL: start0.fol-msg
+ sublist-gather called by init-one-sup, sublist-gather
+
+ get-explain-subanta-endings calls INTERNAL: nN-P
+ get-explain-subanta-endings calls EXTERNAL: gram1.plist-get2
+ get-explain-subanta-endings called by explain-str-subanta-normal, explain-ADJ-degree
+
+explain.el
+ explain-chaps calls INTERNAL: explain-file, init-explain-forms
+ explain-chaps called by explain-chk, explain-Antoine1
+
+ explain-chk calls INTERNAL: compare-table-files, explain-chaps
+ explain-chk calls EXTERNAL: start0.fol-msg
+ explain-chk called by explain-chk-chaps, explain-Antoine1
+
+ explain-file calls INTERNAL: explain-file1
+ explain-file calls EXTERNAL: fileutil.read-colon-file-table, start0.fol-msg, start0.sangram-filename
+ explain-file called by explain-chapsII, explain-chaps
+
+ explain-pr0 calls INTERNAL: explain-pr1
+ explain-pr0 calls EXTERNAL: start0.fol-msg
+ explain-pr0 called by explain-pr, explain-pr1
+
+ explain-pr-item calls INTERNAL: explain-pr-keyval-modify-a
+ explain-pr-item calls EXTERNAL: start0.fol-msg
+ explain-pr-item called by explain-pr1, explain-pr-CPD
+
+ explain-pr-CPD-item calls INTERNAL: explain-pr-CPD
+ explain-pr-CPD-item calls EXTERNAL: start0.fol-msg
+ explain-pr-CPD-item called by explain-pr1, explain-pr-CPD
+
+ explain-pr-CPD calls INTERNAL: explain-pr-CPD-item, explain-pr-item
+ explain-pr-CPD calls EXTERNAL: start0.fol-msg
+ explain-pr-CPD called by explain-pr1, explain-pr-CPD-item
+
+ explain1 calls INTERNAL: explain-cpd, explain1a
+ explain1 calls EXTERNAL: gram1.plist-AppendElt, start0.fol-msg
+ explain1 called by explain-single, explain-pair1
+
+ explain-cpd calls INTERNAL: cpd-separate, explain-cpd, explain-cpd1
+ explain-cpd calls EXTERNAL: gram1.plist-AppendElt, start0.fol-msg
+ explain-cpd called by explain1, explain-cpd
+
+ explain-pair1 calls INTERNAL: explain-pair1, explain1
+ explain-pair1 calls EXTERNAL: gram1.plist-AppendElt, sandhi.sandhi-separate
+ explain-pair1 called by explain-pair, explain-pair1
+
+ explain-str calls INTERNAL: explain-str-step1-incr, inverse-aagama
+ explain-str calls EXTERNAL: gram1.append-if-new, start0.fol-msg
+ explain-str called by explain-cpd1, explain1a
+
+ update-form-ans calls EXTERNAL: gram1.append-if-new
+ update-form-ans called by explain-str-step2, explain-str-step2-CAUSAL
+
+ explain-str-PART calls INTERNAL: explain-PART-INF, explain-PART-IPP, explain-str-PART1
+ explain-str-PART calls EXTERNAL: start0.fol-msg
+ explain-str-PART called by explain-str-step2, explain-str-step2-CAUSAL
+
+ upasarga-P calls INTERNAL: upasargas-get
+ upasarga-P called by upasarga-forms-sandhi, upasarga-forms-nosandhi
+
+ explain-VERB-makeans calls EXTERNAL: endings.solution
+ explain-VERB-makeans called by explain-str-VERB, explain-str-VERB-CAUSAL
+
+ explain-PART-IPP-makeans calls EXTERNAL: endings.solution
+ explain-PART-IPP-makeans called by explain-PART-IPP, explain-PART-INF-makeans
+
+ init-explain-forms calls NOTHING
+ init-explain-forms called by explain-chaps, init-sanskrit1
+
+fileutil.el
+ read-colon-buffer calls INTERNAL: gather-fields, read-colon-line
+ read-colon-buffer calls EXTERNAL: start0.fol-msg
+ read-colon-buffer called by read-colon-file, SL-dtabs1-make
+
+ read-colon-line calls NOTHING
+ read-colon-line called by read-colon-buffer, read-colon-line-fields
+
+ read-colon-line-fields calls INTERNAL: gather-fields, read-colon-line
+ read-colon-line-fields called by construct-subanta, construct-dcpforms
+
+forms.el
+ vc-root-remake-file calls INTERNAL: vc-file-init3
+ vc-root-remake-file called by vc-root-remake, vc-root-remake1
+
+ v-file-init3-prespart calls EXTERNAL: construct.SL-prespart-declension, start0.fol-msg, start0.sangram-filename
+ v-file-init3-prespart called by v-root-remake1, vc-file-init3-prespart
+
+ v-file-init3-ppfactn calls EXTERNAL: construct.SL-ppfactn, start0.fol-msg, start0.sangram-filename
+ v-file-init3-ppfactn called by v-root-remake1, vc-file-init3-ppfactn
+
+ v-file-init3-inf calls EXTERNAL: construct.SL-inf, start0.fol-msg, start0.sangram-filename
+ v-file-init3-inf called by v-root-remake1, vc-file-init3-inf
+
+ v-file-init3-abs calls EXTERNAL: construct.SL-abs, start0.fol-msg, start0.sangram-filename
+ v-file-init3-abs called by v-root-remake1, vc-file-init3-abs
+
+ v-file-init3-ppp calls EXTERNAL: construct.SL-ppp, construct.SL-ppp-declension, start0.fol-msg, start0.sangram-filename
+ v-file-init3-ppp called by v-root-remake1, vc-file-init3-ppp
+
+ v-file-ptrs calls INTERNAL: form-file-ptrs
+ v-file-ptrs called by v-root-remake, v-root-remake1
+
+ s-file-init-alt-helper calls INTERNAL: s-file-init-genform, s-file-init-helper1
+ s-file-init-alt-helper calls EXTERNAL: construct.SL-construct-subanta1, itrans.gen-word-list, start0.fol-msg
+ s-file-init-alt-helper called by s-file-init-alt, s-file-init-alt1
+
+ s-file-init-helper1 calls EXTERNAL: itrans.mapcar-LE
+ s-file-init-helper1 called by s-file-init-alt-helper, s-file-init-helper
+
+ vc-file-ptrs calls INTERNAL: form-file-ptrs
+ vc-file-ptrs called by v-root-remake, vc-root-remake1
+
+gram1.el
+ init-Sangram calls NOTHING
+ init-Sangram called by construct-init, sangram-restore
+
+ sibilant-P calls INTERNAL: sanget
+ sibilant-P called by reduplicative-pfx-perfect, reduplicative-pfx
+
+ hard-P calls INTERNAL: sanget
+ hard-P called by reduplicative-pfx-perfect, reduplicative-pfx
+
+ Xsanget2 calls NOTHING
+ Xsanget2 called by explore-Xconjgentab, explore-Xconjtab
+
+ listify calls NOTHING
+ listify called by declension-fut-part-active-P, declension-fut-part-active-A
+
+gram2-future.el
+ conjugation-tab-lRi~N calls INTERNAL: conjugation-tab-ForC
+ conjugation-tab-lRi~N called by construct-conjtab1a-gentense, lRi~N
+
+ ForC-join calls INTERNAL: ForC-join, ForC-join1
+ ForC-join called by ForC-bitab-join, ForC-join
+
+ benedictive-base calls INTERNAL: ForC-seTCode, kale-584-P, samprasaaraNa, samprasaaraNa-P
+ benedictive-base calls EXTERNAL: gram1.labial-P, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ benedictive-base called by construct-conjpassbase1a, conjugation-tab-ForC-main
+
+gram2-liT.el
+ liT-main-get-bitab calls INTERNAL: kuTaadi-P, perfect-bitab, reduplicate-perfect
+ liT-main-get-bitab calls EXTERNAL: construct.construct-seTPERF-code1a, endings.solution, gram1.append-if-new, gram1.shortsimplevowel-P, gram1.vowel-P, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ liT-main-get-bitab called by construct-rppart1b, conjugation-tab-liT-r-main
+
+ perfect-join calls INTERNAL: perfect-join, perfect-join1
+ perfect-join called by perfect-bitab-join, perfect-join
+
+ perfect-join1 calls EXTERNAL: endings.solution, gram1.consonant-P, gram1.semivowel-P, gram1.vowel-P, gram2.conjugation-join, gram2.word-parts, sandhi.sandhi-pair, sandhi.sandhi-pair-skiprefs-set, sandhi.sandhi-single, start0.fol-msg
+ perfect-join1 called by construct-rppart1b, perfect-join
+
+ reduplicate-perfect calls INTERNAL: reduplicative-pfx-perfect
+ reduplicate-perfect calls EXTERNAL: gram1.append-if-new, gram2.conjugation-join, sandhi.reduplicate-join
+ reduplicate-perfect called by construct-rppart1b, liT-main-get-bitab
+
+gram2.el
+ dhaatu-a~Nga-1 calls INTERNAL: dhaatu-parts, kale-394, kale-395
+ dhaatu-a~Nga-1 calls EXTERNAL: gram1.shortsimplevowel-P, sandhi.guna, sandhi.sandhi-internal-diphthong-A
+ dhaatu-a~Nga-1 called by dhaatu-a~Nga-a-REGULAR, class-a-base
+
+ dhaatu-a~Nga-4 calls INTERNAL: dhaatu-parts, kale-394, kale-395
+ dhaatu-a~Nga-4 called by dhaatu-a~Nga-a-REGULAR, class-a-base
+
+ dhaatu-a~Nga-6 calls INTERNAL: dhaatu-parts, kale-395
+ dhaatu-a~Nga-6 called by dhaatu-a~Nga-a-REGULAR, class-a-base
+
+ kale-414-P calls NOTHING
+ kale-414-P called by class-b-base, construct-pppart1a
+
+ conjugation-tab-2 calls INTERNAL: conjugation-join, word-parts
+ conjugation-tab-2 calls EXTERNAL: endings.conj-endings, endings.conj-strengths, endings.solution, gram1.append-if-new, gram1.consonant-P, gram1.dental-P, gram1.nasal-P, gram1.semivowel-P, gram1.shortsimplevowel-P, gram1.soft-P, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.aspirate, sandhi.de-aspirate, sandhi.guna, sandhi.lengthen-vowel, sandhi.sandhi-legalise-final-cons, sandhi.vrddhi
+ conjugation-tab-2 called by conjugation-tab, irregs-init
+
+ conjugation-citation-irreg calls EXTERNAL: gram1.sanget2
+ conjugation-citation-irreg called by conjugation-tab, conjugation-citation
+
+ dhaatu-a~Nga calls INTERNAL: dhaatu-a~Nga-a-REGULAR
+ dhaatu-a~Nga calls EXTERNAL: endings.solution, gram1.append-if-new, itrans.ITRANS-parse-words-1
+ dhaatu-a~Nga called by conjugation-tab-aoristX-main, class-pada-a~Ngas
+
+gram3.el
+ declension-general-vas-ADJ calls INTERNAL: declension-general-1, declension-join
+ declension-general-vas-ADJ calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general-vas-ADJ called by declension-rperf-part, declension-perperf-part
+
+ declension-general-an calls INTERNAL: declension-general-1
+ declension-general-an calls EXTERNAL: endings.solution, endings.sup-get, gram1.consonant-P, itrans.ITRANS-parse-words-1, sandhi.sandhi-pair, start0.fol-msg
+ declension-general-an called by declension-general-an-ADJ, irregs-init
+
+ declension-fut-part-active-A calls INTERNAL: declension-general
+ declension-fut-part-active-A calls EXTERNAL: gram1.listify, gram2-liT.join-arrays
+ declension-fut-part-active-A called by declension-fut-part-active, declension-fut-part-passive
+
+itrans.el
+ ITRANS-parse-words-2 calls INTERNAL: ITRANS-parse-words-1
+ ITRANS-parse-words-2 called by init-vs-helper, ITRANS-parse-words-3
+
+ any-lt-tok calls INTERNAL: any-lt-char
+ any-lt-tok called by ITRANS-lt-tok, SLP1-lt-tok
+
+ any-lt-char calls NOTHING
+ any-lt-char called by any-lt-tok, ITRANS-lt-char
+
+ parse-from-to-construct calls INTERNAL: init-some-ordering
+ parse-from-to-construct called by SLP1-parsers-init, AS-SLP1-parsers-init
+
+ SLP1-parsers-init calls INTERNAL: parse-from-to-construct
+ SLP1-parsers-init called by init-transliteration, SLP1-init
+
+ translate-string-ITRANS-SLP1 calls INTERNAL: any-parse-word-string, mapcar-LE
+ translate-string-ITRANS-SLP1 called by translate-string-ITRANS-SLP1-a, translate-string-ITRANS-SLP1-b
+
+kta.el
+ kta-join calls INTERNAL: kta-join, kta-join1
+ kta-join called by construct-pppart1a, kta-join
+
+ tvaa-join1-t-th calls INTERNAL: kta-join1
+ tvaa-join1-t-th called by construct-ippart1a-tvaa-basic, construct-ippart1a-ya-basic
+
+ construct-potpart1a-tavya calls INTERNAL: construct-potpart1a-tavya-exception, potpart-join1
+ construct-potpart1a-tavya calls EXTERNAL: construct.construct-conjbase1a, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, validation.seT
+ construct-potpart1a-tavya called by construct-potpart1a, tavya
+
+ construct-potpart1a-aniiya calls INTERNAL: construct-potpart1a-aniiya-exception, potpart-join1
+ construct-potpart1a-aniiya calls EXTERNAL: construct.construct-conjbase1a, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ construct-potpart1a-aniiya called by construct-potpart1a, aniiya
+
+ construct-potpart1a-yat calls INTERNAL: construct-potpart1a-yat-exception, potpart-join1
+ construct-potpart1a-yat calls EXTERNAL: gram1.labial-P, gram1.vowel-P, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ construct-potpart1a-yat called by construct-potpart1a, yat
+
+ construct-potpart1a-kyap calls EXTERNAL: gram1.vowel-P, itrans.ITRANS-parse-words-1
+ construct-potpart1a-kyap called by construct-potpart1a, kyap
+
+ construct-potpart1a-Nyat calls EXTERNAL: gram1.consonant-P, gram2.conjugation-join, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ construct-potpart1a-Nyat called by construct-potpart1a, Nyat
+
+Mbh.el
+ Mbhu-alternates-list calls EXTERNAL: start0.fol-msg
+ Mbhu-alternates-list called by Mbhu-validate1-help, Mbhu-validate2-S-compare
+
+ SL-tense-tran calls EXTERNAL: start0.fol-msg
+ SL-tense-tran called by SL-conjtab, Mbhu-validate2-V-0
+
+ Mbhu-validate2-S-0 calls INTERNAL: Mbhu-convert-lex, Mbhu-validate2-S-0, Mbhu-validate2-S-1, Mbhu-validate2-S-2, Mbhu-validate2-S-compare
+ Mbhu-validate2-S-0 calls EXTERNAL: start0.fol-msg
+ Mbhu-validate2-S-0 called by Mbhu-validate2-help, Mbhu-validate2-S-0
+
+ Mbhu-validate2-S-1 calls INTERNAL: Mbhu-validate2-S-1
+ Mbhu-validate2-S-1 calls EXTERNAL: construct.SL-construct-subanta1
+ Mbhu-validate2-S-1 called by Mbhu-validate2-S-0, Mbhu-validate2-S-1
+
+ Mbhu-validate2-match calls NOTHING
+ Mbhu-validate2-match called by Mbhu-validate2-V-2, Mbhu-validate2-S-2
+
+ Mbhu-convert-lex calls INTERNAL: Mbh-buf
+ Mbhu-convert-lex called by Mbhu-validate2, Mbhu-validate2-S-0
+
+numeral.el
+ numeral-join-1-sym calls INTERNAL: numeral-join, numeral-join-1-sym
+ numeral-join-1-sym calls EXTERNAL: itrans.ITRANS-parse-words-1
+ numeral-join-1-sym called by san-numeral, numeral-join-1-sym
+
+ numeral-join calls EXTERNAL: endings.solution, sandhi.sandhi-pair, sandhi.sandhi-single, start0.fol-msg
+ numeral-join called by numeral-join-1x-sym, numeral-join-1-sym
+
+sandhi.el
+ vrddhi1 calls EXTERNAL: gram1.sanget
+ vrddhi1 called by aorist-gunate-final-vowel, augment-a
+
+ corresponding-letter calls NOTHING
+ corresponding-letter called by reduplicative-pfx-perfect, reduplicative-pfx
+
+ sandhi-internal-diphthong-A calls NOTHING
+ sandhi-internal-diphthong-A called by dhaatu-a~Nga-1, dhaatu-a~Nga-10
+
+ reduplicate-join calls INTERNAL: sandhi-n-N, sandhi-pair
+ reduplicate-join calls EXTERNAL: endings.solution, start0.fol-msg
+ reduplicate-join called by reduplicate-perfect, reduplicate
+
+ Sandhi-initAll calls NOTHING
+ Sandhi-initAll called by Sandhi-init, Sandhi-load-init
+
+ Sandhi-load-init calls INTERNAL: Sandhi-initAll, Sandhi-load
+ Sandhi-load-init called by construct-init, Sandhi-construct
+
+ sandhi-one-final-cons calls EXTERNAL: gram1.consonant-P
+ sandhi-one-final-cons called by sandhi-legalise-final-cons, sandhi-single-main
+
+sxmw.el
+ mw-helper calls INTERNAL: mw-help1-string
+ mw-helper calls EXTERNAL: start0.fol-msg
+ mw-helper called by mw, mw-alt
+
+ Sx2 calls INTERNAL: Sx2-forms, Sx2-pfx
+ Sx2 calls EXTERNAL: start0.fol-msg
+ Sx2 called by sx2, sxmw
+
+ MW-key-find calls INTERNAL: MW-buffer, MW-keys-buffer
+ MW-key-find calls EXTERNAL: start0.current-line
+ MW-key-find called by mw, mw-alt
+
+validation.el
+ validation calls EXTERNAL: endings.solution, fileutil.read-colon-file-validation, start0.fol-msg
+ validation called by validation-all, validation-deshpande-all
+
+ luT calls EXTERNAL: gram2-future.conjugation-tab-luT
+ luT called by ffc, futpass
+
+ lRiT calls EXTERNAL: gram2-future.conjugation-tab-lRiT
+ lRiT called by ffc, futpass
+
+ lRi~N calls EXTERNAL: gram2-future.conjugation-tab-lRi~N
+ lRi~N called by ffc, futpass
+
+ SL-dtab-construct calls INTERNAL: SL-construct-subanta1a
+ SL-dtab-construct calls EXTERNAL: itrans.mapcar-LE
+ SL-dtab-construct called by SL-dtab-validate-one, SL-dtab-print-one-construct
+
+ SL-dtab-validate-one-compare calls INTERNAL: SL-dtab-validate-one-elt
+ SL-dtab-validate-one-compare calls EXTERNAL: start0.fol-msg
+ SL-dtab-validate-one-compare called by SL-dtab-validate-one, SL-extract-compare-dtabs-dtabs1-one
+
+ SL-dtab-validation calls EXTERNAL: endings.solution, fileutil.read-colon-file-validation, start0.fol-msg, start0.san-validation-filename
+ SL-dtab-validation called by SL-dtab-validation-all, SL-dtest-validation
+
+ SL-dtab-print calls EXTERNAL: start0.fol-msg
+ SL-dtab-print called by SL-dtab-print-one-construct, SL-dtab-print-one-extract
+
+------------------------------------------------------------------------
+functions called by 3 callers
+aorist.el
+ aorist-varieties calls EXTERNAL: itrans.ITRANS-parse-words-1
+ aorist-varieties called by conjugation-tab-aorist, aoristP0, aoristP1
+
+construct.el
+ causal-bases-gentense calls INTERNAL: causal-base1b
+ causal-bases-gentense calls EXTERNAL: aorist.aorist-causal-base, aorist.conjugation-tab-aorist, gram1.append-if-new, gram1.vowel-P, itrans.ITRANS-parse-words-1, start0.fol-msg
+ causal-bases-gentense called by causal-conjtab1a-gentense, causal-conjtab1a-bases-a, periphrastic-base
+
+ causal-base1b calls EXTERNAL: causal.causal-base
+ causal-base1b called by causal-conjtab1a-spcltense, causal-conjtab1a-bases-a, causal-bases-gentense
+
+ construct-init calls EXTERNAL: endings.Subanta-initAll, endings.init-sup, endings.init-vsup, gram1.init-Sangram, gram1.init-properties, gram1.init-semivowels, gram1.init-sets, gram1.init-vowelstrength, irreg.irregs-init, itrans.init-transliteration, sandhi.Sandhi-load-init, start0.fol-msg, start0.fol-ob-init
+ construct-init called by construct-verb-one, old-construct-all, init-sanskrit1
+
+ construct-prespart-base-alt calls INTERNAL: construct-prespart-base-alt-A, construct-prespart-base-alt-P
+ construct-prespart-base-alt called by construct-participles1-helper, construct-prespart1a-alt, SL-prespart-base
+
+ construct-prespart-base-alt-P-1 calls EXTERNAL: itrans.ITRANS-parse-words-1
+ construct-prespart-base-alt-P-1 called by construct-prespart-base-alt-P, SL-prespart-base1, SL-prespart-declension
+
+ construct-prespart-base-alt-A-1 calls EXTERNAL: gram2.conjugation-join, itrans.ITRANS-parse-words-1
+ construct-prespart-base-alt-A-1 called by construct-prespart-base-alt-A, SL-prespart-base1, SL-prespart-declension
+
+ construct-passpart-base-alt calls INTERNAL: construct-conjpassbase1a
+ construct-passpart-base-alt calls EXTERNAL: gram2.conjugation-join, itrans.ITRANS-parse-words-1
+ construct-passpart-base-alt called by construct-participles1-helper, construct-passpart, SL-prespart-base
+
+ construct-rppart1a calls INTERNAL: construct-rppart1b
+ construct-rppart1a called by construct-participles1-helper, construct-rppart, init-perppart1a-data
+
+ convert-subanta-lexinfo calls INTERNAL: subanta-convert-form
+ convert-subanta-lexinfo called by construct-subanta, SL-construct-subanta1, s-file-init-genform
+
+ subanta-base calls EXTERNAL: endings.solution, itrans.ITRANS-parse-words-1, start0.fol-msg
+ subanta-base called by construct-subanta-base, construct-subanta2, declension-general-M-uu
+
+ SL-construct-subanta1 calls INTERNAL: construct-subanta1, convert-subanta-lexinfo
+ SL-construct-subanta1 calls EXTERNAL: itrans.mapcar-LE, itrans.translate-SLP1-ITRANS, start0.fol-msg
+ SL-construct-subanta1 called by s-file-init-alt-helper, s-file-init-helper, Mbhu-validate2-S-1
+
+ extract-dcpforms calls EXTERNAL: start0.fol-msg, start0.sangram-filename
+ extract-dcpforms called by construct-participles-all, construct-conjtabs-all, construct-causalconjtabs-all
+
+endings.el
+ init-gender-form-data calls NOTHING
+ init-gender-form-data called by init-sup-list, init-sup, init-sanskrit1
+
+ get-ADJ-a-endings calls INTERNAL: nN-P
+ get-ADJ-a-endings called by explain-str-PART1, explain-str-subanta-normal, explain-ADJ-degree
+
+explain.el
+ explain-subanta-makeans calls EXTERNAL: endings.solution
+ explain-subanta-makeans called by explain-str-subanta-cpd, explain-substring-subanta1, explain-ADJ-degree
+
+ upasarga-forms calls INTERNAL: upasarga-forms, upasarga-forms2
+ upasarga-forms calls EXTERNAL: gram1.append-if-new, gram1.disjoint-P
+ upasarga-forms called by explain1a, upasarga-forms, SL-upasarga-forms
+
+fileutil.el
+ read-colon-file calls INTERNAL: read-colon-buffer
+ read-colon-file called by read-colon-file-table, read-colon-file-validation, SL-dtabs1-make
+
+ gather-fields calls NOTHING
+ gather-fields called by construct-dhaatukosha, read-colon-buffer, read-colon-line-fields
+
+forms.el
+ s-file-init-genform calls EXTERNAL: construct.convert-subanta-lexinfo, itrans.translate-SLP1-ITRANS
+ s-file-init-genform called by s-file-init-alt-helper, s-file-init-helper, i-file-init-helper
+
+ form-file-init3-ptrs-helper calls INTERNAL: parse-string-to-array
+ form-file-init3-ptrs-helper calls EXTERNAL: construct.maximal-prefix-helper, itrans.gen-word-list, start0.current-line, start0.fol-msg, start0.sangram-filename
+ form-file-init3-ptrs-helper called by v-root-remake1, vc-root-remake1, form-file-init3-ptrs
+
+gram1.el
+ simplevowel-P calls INTERNAL: sanget
+ simplevowel-P called by guna, vrddhi, sandhi-internal-A-simplevowel
+
+ palatal-P calls INTERNAL: sanget
+ palatal-P called by nasal-match, conjugation-tab-7, sandhi-legalise-final-cons
+
+ cerebral-P calls INTERNAL: sanget
+ cerebral-P called by nasal-match, conjugation-tab-7, sandhi-legalise-final-cons
+
+ Xsangetall calls NOTHING
+ Xsangetall called by explain-str-step1-incr, sangram-size, sangram-save
+
+gram2-future.el
+ conjugation-tab-luT calls INTERNAL: conjugation-tab-ForC
+ conjugation-tab-luT called by construct-conjtab1a-gentense, conjugation-tab, luT
+
+ conjugation-tab-aashiirli~N calls INTERNAL: conjugation-tab-ForC
+ conjugation-tab-aashiirli~N called by construct-conjtab1a-gentense, aashiirli~N, aashiirli~N1
+
+ aspirate-first-cons calls EXTERNAL: gram1.consonant-P, sandhi.aspirate
+ aspirate-first-cons called by aorist-join1-s, aorist-join1-dh, ForC-join1
+
+ ForC-seTCode calls EXTERNAL: construct.construct-seT-code1a, endings.solution
+ ForC-seTCode called by conjugation-tab-ForC-main, benedictive-base, future-base
+
+ kale-584-P calls NOTHING
+ kale-584-P called by benedictive-base, construct-pppart1a-helper, construct-ippart1a-ya
+
+ construct-futpart1a calls INTERNAL: conjugation-tab-lRiT
+ construct-futpart1a calls EXTERNAL: gram1.append-if-new, gram2.conjugation-join, itrans.ITRANS-parse-words-1
+ construct-futpart1a called by construct-participles1-helper, construct-futpart, futpart
+
+ construct-futppart1a calls INTERNAL: conjugation-tab-lRiT
+ construct-futppart1a calls EXTERNAL: gram1.append-if-new, gram2.conjugation-join, itrans.ITRANS-parse-words-1
+ construct-futppart1a called by construct-participles1-helper, construct-futppart, futpart
+
+gram2-liT.el
+ conjugation-tab-liT-p calls INTERNAL: periphrastic-base, periphrastic-suffix
+ conjugation-tab-liT-p calls EXTERNAL: gram2.conjugation-join-sym, start0.fol-msg
+ conjugation-tab-liT-p called by construct-conjtab1a-gentense, conjugation-tab-liT, conjugation-tab-liT-px
+
+gram2.el
+ dhaatu-a~Nga-10 calls INTERNAL: dhaatu-parts, kale-394, kale-395
+ dhaatu-a~Nga-10 calls EXTERNAL: gram1.shortsimplevowel-P, sandhi.guna, sandhi.sandhi-internal-diphthong-A, sandhi.vrddhi
+ dhaatu-a~Nga-10 called by old-aorist3-class10-base, dhaatu-a~Nga-a-REGULAR, class10-base
+
+gram3.el
+ citation-pr calls EXTERNAL: start0.fol-msg
+ citation-pr called by conjugation-tab-pr, conjugation-tab-upa-pr, declension-citation
+
+ declension-general-cons calls EXTERNAL: start0.fol-msg
+ declension-general-cons called by declension-citation1, declension-adj, declension-N-i1-IRR
+
+kta.el
+ kta-seT-code calls EXTERNAL: construct.construct-seT-code1a, gram1.consonant-P, gram1.vowel-P, itrans.ITRANS-parse-words-1
+ kta-seT-code called by construct-pppart1a-helper, construct-pppart1a, tvaa-seT-code
+
+ kta-join1 calls EXTERNAL: aorist.aorist-join1-t-th, endings.solution, gram1.consonant-P, gram1.semivowel-P, gram2.conjugation-join, gram3.declension-join, sandhi.lengthen-vowel, sandhi.sandhi-pair-skiprefs-set, start0.fol-msg
+ kta-join1 called by kta-join, tvaa-join1-t-th, potpart-join1
+
+ construct-potpart1a calls INTERNAL: construct-potpart1a-Nyat, construct-potpart1a-aniiya, construct-potpart1a-irregular, construct-potpart1a-kyap, construct-potpart1a-tavya, construct-potpart1a-yat
+ construct-potpart1a called by construct-participles1-helper, construct-potpart, SL-gerundive
+
+ potpart-join1 calls INTERNAL: kta-join1
+ potpart-join1 called by construct-potpart1a-tavya, construct-potpart1a-aniiya, construct-potpart1a-yat
+
+sandhi.el
+ reduplicative-pfx calls INTERNAL: corresponding-letter, de-aspirate, shorten-vowel
+ reduplicative-pfx calls EXTERNAL: gram1.guttural-P, gram1.hard-P, gram1.sibilant-P, gram2.word-parts, start0.fol-msg
+ reduplicative-pfx called by reduplicative-pfx-perfect, conjugation-tab-3, reduplicate
+
+ separate-symbol-pair calls NOTHING
+ separate-symbol-pair called by Sandhi-Inverse-init, Sandhi-Length-init, examine-Sandhi-Inverse-nojoin
+
+ sandhi-legalise-final-cons calls INTERNAL: sandhi-one-final-cons
+ sandhi-legalise-final-cons calls EXTERNAL: gram1.cerebral-P, gram1.consonant-P, gram1.dental-P, gram1.guttural-P, gram1.labial-P, gram1.palatal-P
+ sandhi-legalise-final-cons called by conjugation-tab-2, conjugation-tab-3, conjugation-tab-7
+
+ sandhi-separate2 calls EXTERNAL: explain.praatar-modify, gram1.append-if-new, gram1.sanget, itrans.ITRANS-parse-words-1
+ sandhi-separate2 called by sandhi-separate, sandhi-separate2-str, sandhi-separate3-str
+
+start0.el
+ san-validation-filename calls INTERNAL: sangram-filename
+ san-validation-filename called by read-colon-file-validation, SL-dtab-validation, SL-dtab-printfile
+
+validation.el
+ SL-dtab-extract calls INTERNAL: SL-dtab-extract1
+ SL-dtab-extract called by SL-dtab-validate-one, SL-dtab-print-one-extract, SL-extract-compare-dtabs-dtabs1-one
+
+vt01.el
+ vt01-propnames calls NOTHING
+ vt01-propnames called by vt01-act2, vt01-act3, vt01-act4
+
+ vt01-putrec calls NOTHING
+ vt01-putrec called by vt01-act2, vt01-act3, vt01-act4
+
+------------------------------------------------------------------------
+functions called by 4 callers
+construct.el
+ causal-conjtab1a-bases calls INTERNAL: causal-conjtab1a-bases-a
+ causal-conjtab1a-bases calls EXTERNAL: gram2.sym-concat
+ causal-conjtab1a-bases called by causal-conjtab1a-chk, old-construct-causalconjtabs, construct-pppart1a-helper, construct-ippart1a-tvaa
+
+ construct-conjpassbase1a calls INTERNAL: construct-conjbase1a
+ construct-conjpassbase1a calls EXTERNAL: endings.solution, gram2-future.benedictive-base, itrans.ITRANS-parse-words-1
+ construct-conjpassbase1a called by construct-conjbase1a, construct-passpart-base-alt, construct-passpart1a, conjpass
+
+ Xalgorithm calls INTERNAL: maximal-prefix-sym
+ Xalgorithm called by Xconstruct, construct-participles1-helper, SL-construct-output1, construct-output1
+
+ pres-part-praatipadikas calls INTERNAL: pres-part-praatipadikas
+ pres-part-praatipadikas calls EXTERNAL: gram2.conjugation-join, itrans.ITRANS-parse-words-1, start0.fol-msg
+ pres-part-praatipadikas called by construct-prespart-base-P, construct-prespart-base-A, pres-part-praatipadikas, declension-fut-part-active-P
+
+ SL-construct-output-base calls INTERNAL: replace-prefix
+ SL-construct-output-base calls EXTERNAL: itrans.translate-ITRANS-SLP1
+ SL-construct-output-base called by construct-conjtab-helper, construct-participles1-helper, construct-subanta, old-construct-causalconjtabs
+
+endings.el
+ nN-P calls EXTERNAL: gram2.sym-concat, sandhi.sandhi-single
+ nN-P called by get-ADJ-a-endings, get-explain-subanta-endings, explain-str-VERB, explain-str-VERB-CAUSAL
+
+explain.el
+ praatar-modify calls NOTHING
+ praatar-modify called by explain-exactly-1, sandhi-separate2, sandhi-separate-final-r, sandhi-separate3-str
+
+forms.el
+ form-file-ptrs calls INTERNAL: form-file-ptrs-helper
+ form-file-ptrs calls EXTERNAL: fileutil.non-system-files, start0.fol-msg, start0.sangram-filename
+ form-file-ptrs called by v-file-ptrs, s-file-ptrs, i-file-ptrs, vc-file-ptrs
+
+ form-file-ptrs-helper calls INTERNAL: parse-string-to-array
+ form-file-ptrs-helper calls EXTERNAL: itrans.gen-word-list, start0.current-line, start0.sangram-filename
+ form-file-ptrs-helper called by form-file-ptrs, subtler-s-file-ptrs, old-i-file-ptrs, old-v-file-ptrs-main
+
+ form-file-init3-ptrs calls INTERNAL: form-file-init3-ptrs-helper
+ form-file-init3-ptrs calls EXTERNAL: fileutil.non-system-files, start0.sangram-filename
+ form-file-init3-ptrs called by v-file-init3-ptrs, s-file-init3-ptrs, i-file-init3-ptrs, vc-file-init3-ptrs
+
+ v-file-init-alt1-pre-helper calls EXTERNAL: construct.SL-conjtab, start0.fol-msg
+ v-file-init-alt1-pre-helper called by v-file-init-alt1-pre, v-file-init-alt1-pre-p, v-file-init-alt1-fut, v-file-init-alt1-prf
+
+gram2-future.el
+ samprasaaraNa-P calls NOTHING
+ samprasaaraNa-P called by conjugation-tab-aoristX-main, benedictive-base, construct-pppart1a-helper, construct-ippart1a-ya
+
+ samprasaaraNa calls EXTERNAL: gram2.conjugation-join, gram2.word-parts
+ samprasaaraNa called by conjugation-tab-aoristX-main, benedictive-base, construct-pppart1a-helper, construct-ippart1a-ya
+
+gram2-liT.el
+ kuTaadi-P calls NOTHING
+ kuTaadi-P called by conjugation-tab-aoristX-main, future-base, liT-main-get-bitab, kale-463-P
+
+ periphrastic-base calls EXTERNAL: construct.causal-bases-gentense, construct.construct-conjbase1a, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, sandhi.reduplicate
+ periphrastic-base called by construct-conjtab-base-liT-p, construct-perppart1a, SL-ppfactn, conjugation-tab-liT-p
+
+gram2.el
+ class10-base calls INTERNAL: dhaatu-a~Nga-10
+ class10-base calls EXTERNAL: causal.modify-Eng-def
+ class10-base called by aorist-causal-base, causal-base, class-a-base, construct-ippart1a-tvaa
+
+ class-a-base calls INTERNAL: class-a-base-irreg, class10-base, dhaatu-a~Nga-1, dhaatu-a~Nga-4, dhaatu-a~Nga-6
+ class-a-base calls EXTERNAL: itrans.ITRANS-parse-words-1
+ class-a-base called by construct-conjbase1a, future-base, old-periphrastic-base, construct-ippart1a-ya
+
+ kale-394 calls EXTERNAL: gram1.labial-P
+ kale-394 called by dhaatu-a~Nga-1, dhaatu-a~Nga-4, dhaatu-a~Nga-10, construct-ippart1a-ya
+
+gram3.el
+ declension-citation calls INTERNAL: citation-pr, declension-citation-other
+ declension-citation calls EXTERNAL: gram1.append-if-new, start0.fol-msg
+ declension-citation called by explain-declension-noun, declension-adj-new, declension-pron, 1cons-chk
+
+ declension-general-1cons calls INTERNAL: declension-1cons-Ch, declension-1cons-Sh, declension-1cons-ch, declension-1cons-h, declension-1cons-j, declension-1cons-k, declension-1cons-l, declension-1cons-p, declension-1cons-r, declension-1cons-s, declension-1cons-sh, declension-1cons-t, declension-1cons-v
+ declension-general-1cons calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general-1cons called by declension-M-a-IRR, declension-F-aa-IRR, declension-F-aa1-IRR, declension-M-aa1-IRR
+
+ declension-pres-part-P calls INTERNAL: declension-general-1
+ declension-pres-part-P calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-pres-part-P called by declension-pres-part, declension-general-at-ADJ, declension-fut-part-active-P, construct-prap
+
+itrans.el
+ init-some-ordering calls NOTHING
+ init-some-ordering called by init-ITRANS-ordering, init-SLP1-ordering, init-HK-ordering, parse-from-to-construct
+
+kta.el
+ construct-ippart1a-tvaa calls INTERNAL: construct-ippart1a-tvaa-basic, construct-ippart1a-tvaa-exception, tvaa-seT-code
+ construct-ippart1a-tvaa calls EXTERNAL: construct.causal-conjtab1a-bases, endings.solution, gram1.append-if-new, gram1.consonant-P, gram2-liT.kale-463-P, gram2.class10-base, gram2.conjugation-join, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel, start0.fol-msg
+ construct-ippart1a-tvaa called by construct-participles1-helper, SL-abs, construct-ippart1a, tvaa
+
+ construct-ippart1a-ya calls INTERNAL: construct-ippart1a-ya-exception
+ construct-ippart1a-ya calls EXTERNAL: causal.causal-base, endings.solution, gram1.append-if-new, gram1.nasal-P, gram1.shortvowel-P, gram2-future.kale-584-P, gram2-future.samprasaaraNa, gram2-future.samprasaaraNa-P, gram2.class-a-base, gram2.conjugation-join, gram2.dhaatu-parts, gram2.kale-394, gram2.kale-395, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ construct-ippart1a-ya called by construct-participles1-helper, SL-abs, construct-ippart1a, lyap
+
+ construct-inf1a calls INTERNAL: construct-inf1a-basic, construct-inf1a-exception
+ construct-inf1a calls EXTERNAL: endings.solution
+ construct-inf1a called by construct-participles1-helper, construct-inf, old-SL-inf, inf
+
+sandhi.el
+ shorten-vowel calls NOTHING
+ shorten-vowel called by reduplicative-pfx-perfect, class-b-base, reduplicative-pfx, sandhi-init-23
+
+ sandhi-separate calls INTERNAL: sandhi-separate-main, sandhi-separate2
+ sandhi-separate calls EXTERNAL: endings.solution, gram1.append-if-new, gram1.consonant-P, itrans.ITRANS-parse-words-1
+ sandhi-separate called by explain-pair1, cpd-separate, upasarga-forms-sandhi, sandhi-separate-str
+
+vt01.el
+ vt01-read calls EXTERNAL: start0.fol-filename
+ vt01-read called by vt01-check, vt01-act2, vt01-act3, vt01-act4
+
+ vt01-act1 calls NOTHING
+ vt01-act1 called by vt01-check, vt01-act2, vt01-act3, vt01-act4
+
+------------------------------------------------------------------------
+functions called by 5 callers
+aorist.el
+ kale-459-P calls EXTERNAL: itrans.ITRANS-parse-words-1
+ kale-459-P called by aorist-1-P, aorist-6-P, conjugation-tab-aorist1-main, conjugation-tab-aorist4-main, causal-base
+
+ aorist-join calls INTERNAL: aorist-join, aorist-join1
+ aorist-join called by conjugation-tab-aorist7-main, conjugation-tab-aorist4-main, conjugation-tab-aorist5-main, aorist-bitab-join, aorist-join
+
+construct.el
+ maximal-prefix-helper calls INTERNAL: maximal-prefix-helper1
+ maximal-prefix-helper called by maximal-prefix, form-file-init3-ptrs-helper, old-s-file-init3-ptrs-helper, old-i-file-init3-ptrs-helper, old-v-file-init3-ptrs
+
+ load-subfields calls INTERNAL: load-subfields-1
+ load-subfields calls EXTERNAL: start0.sangram-filename
+ load-subfields called by load-dhaatukosha, load-construct-all, load-subanta-files, load-construct-all-verbal, load-causal-files
+
+ all-dhaatukosha-inputs calls INTERNAL: all-prefix-files
+ all-dhaatukosha-inputs called by construct-dhaatukosha-all, construct-dhaatu-forms1, construct-verb-all, load-construct-all, all-dhaatukosha-suffixes
+
+explain.el
+ explain-declension-get calls NOTHING
+ explain-declension-get called by explain-declension-noun, explain-declension-perperf-part, explain-declension-pron, explain-declension-adj, explain-conjugation
+
+ explain-declension-put calls EXTERNAL: gram1.append-if-new
+ explain-declension-put called by explain-declension-noun, explain-declension-perperf-part, explain-declension-pron, explain-declension-adj, explain-conjugation
+
+fileutil.el
+ read-colon-file-validation calls INTERNAL: read-colon-file
+ read-colon-file-validation calls EXTERNAL: start0.san-validation-filename
+ read-colon-file-validation called by validation, SL-dtab-validation, SL-dtab-printfile, SL-extract-compare-dtabs-dtabs1, SL-extract-copy-dtabs1-dtabs
+
+ non-system-files calls NOTHING
+ non-system-files called by form-file-ptrs, form-file-init3-ptrs, subtler-s-file-ptrs, work-praps, old-i-file-ptrs
+
+gram1.el
+ dental-P calls INTERNAL: sanget
+ dental-P called by nasal-match, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, sandhi-legalise-final-cons
+
+ soft-P calls INTERNAL: sanget
+ soft-P called by conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, sandhi-visarga-init-1, sandhi-final-r-init-1
+
+gram2-future.el
+ conjugation-tab-lRiT calls INTERNAL: conjugation-tab-ForC
+ conjugation-tab-lRiT called by construct-conjtab1a-gentense, construct-futpart1a, construct-futppart1a, conjugation-tab, lRiT
+
+ conjugation-tab-ForC calls INTERNAL: conjugation-tab-ForC, conjugation-tab-ForC-main
+ conjugation-tab-ForC calls EXTERNAL: causal.causal-base, construct.construct-seT-code1a, endings.solution, gram1.vowel-P, gram2-liT.join-arrays, gram2.word-parts, itrans.ITRANS-parse-words-1, sandhi.vrddhi, start0.fol-msg
+ conjugation-tab-ForC called by conjugation-tab-lRiT, conjugation-tab-lRi~N, conjugation-tab-luT, conjugation-tab-aashiirli~N, conjugation-tab-ForC
+
+gram2-liT.el
+ conjugation-tab-liT-r calls INTERNAL: conjugation-tab-liT-r-main, join-arrays
+ conjugation-tab-liT-r calls EXTERNAL: construct.construct-seTPERF-code1a, itrans.ITRANS-parse-words-1
+ conjugation-tab-liT-r called by construct-conjtab1a-gentense, conjugation-tab-liT, periphrastic-init1, perf-part-active-r, liT-r
+
+ reduplicative-liT-P calls EXTERNAL: gram2.word-parts, itrans.ITRANS-parse-words-1
+ reduplicative-liT-P called by construct-conjtab1a-gentense, construct-rppart1b, v-file-init3-prf, v-file-init-alt1-prf, conjugation-tab-liT
+
+ periphrastic-liT-P calls EXTERNAL: gram2.word-parts, itrans.ITRANS-parse-words-1
+ periphrastic-liT-P called by construct-conjtab-base-liT-p, construct-conjtab1a-gentense, construct-perppart1a, SL-ppfactn, conjugation-tab-liT
+
+gram2.el
+ dhaatu-parts calls INTERNAL: word-parts
+ dhaatu-parts called by dhaatu-a~Nga-1, dhaatu-a~Nga-4, dhaatu-a~Nga-6, dhaatu-a~Nga-10, construct-ippart1a-ya
+
+ kale-395 calls EXTERNAL: sandhi.lengthen-vowel
+ kale-395 called by dhaatu-a~Nga-1, dhaatu-a~Nga-4, dhaatu-a~Nga-6, dhaatu-a~Nga-10, construct-ippart1a-ya
+
+ conjugation-join-sym calls INTERNAL: conjugation-join
+ conjugation-join-sym calls EXTERNAL: itrans.ITRANS-parse-words-1
+ conjugation-join-sym called by construct-perppart1a, init-perppart1a-data, conjugation-tab-liT-p, periphrastic-init1, conjugation-tab-upa-pr
+
+gram3.el
+ declension-general-mat calls INTERNAL: declension-general-1
+ declension-general-mat calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general-mat called by declension-general-mat-ADJ, declension-general-vat, declension-general-vat-ADJ, declension-perf-part-active, irregs-init
+
+Mbh.el
+ Mbh-buf calls EXTERNAL: start0.sangram-filename
+ Mbh-buf called by Mbhu-lexid-distrib, Mbhu-validate1, Mbhu-validate2, Mbhu-convert-lex, Mbhu-extract-V-lex
+
+ Mbhu-buffer calls EXTERNAL: start0.sangram-filename
+ Mbhu-buffer called by construct-Mbhu, Mbhu-lexid-distrib, Mbhu-validate1, Mbhu-validate2, Mbh-verse
+
+sandhi.el
+ aspirate calls NOTHING
+ aspirate called by aspirate-last-cons, aspirate-first-cons, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7
+
+start0.el
+ fol-filename calls INTERNAL: fol-msg
+ fol-filename called by fol-delete-files, fol-search-files, sangram-filename, my-load-library, vt01-read
+
+------------------------------------------------------------------------
+functions called by 6 callers
+endings.el
+ conj-strengths calls EXTERNAL: gram1.sanget
+ conj-strengths called by conjugation-tab-5, conjugation-tab-8, conjugation-tab-9, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7
+
+fileutil.el
+ read-colon-file-table calls INTERNAL: read-colon-file
+ read-colon-file-table calls EXTERNAL: start0.sangram-filename
+ read-colon-file-table called by construct-dhaatukosha, construct-avyayapada, read-explain-file, explain-file, explain-chap-unknowns, load-dhaatu-data
+
+ read-buffer-fields calls NOTHING
+ read-buffer-fields called by read-string-fields, construct-Mbhu, Mbhu-lexid-distrib, Mbhu-validate1, Mbhu-validate2, Mbh-verse
+
+forms.el
+ parse-string-to-array calls EXTERNAL: itrans.mapcar-LE
+ parse-string-to-array called by form-file-ptrs-helper, form-file-init3-ptrs-helper, old-s-file-init3-ptrs-helper, old-i-file-init3-ptrs-helper, old-v-file-init3-ptrs, Sx2-forms-helper
+
+gram1.el
+ plist-AppendElt calls NOTHING
+ plist-AppendElt called by explain1, explain-cpd, explain-cpd1, explain1a, explain-pair1, v-root-filenames-make
+
+ sanAppendElt calls NOTHING
+ sanAppendElt called by construct-dhaatukosha, construct-dhaatu-forms-all, Xconstruct, load-dhaatu-data, Sandhi-append, Sandhi-Inverse-init
+
+ shortsimplevowel-P calls INTERNAL: sanget
+ shortsimplevowel-P called by shortvowel-P, liT-main-get-bitab, dhaatu-a~Nga-1, dhaatu-a~Nga-10, conjugation-tab-2, gunate-final-vowel
+
+ guttural-P calls INTERNAL: sanget
+ guttural-P called by nasal-match, reduplicative-pfx-perfect, conjugation-tab-7, reduplicative-pfx, sandhi-n-N, sandhi-legalise-final-cons
+
+ shortvowel-P calls INTERNAL: shortsimplevowel-P
+ shortvowel-P called by conjugation-tab-aorist4-main, conjugation-tab-aorist5-main, aorist3-alter10, short-syllable-P, prosodially-long-P, construct-ippart1a-ya
+
+gram2-future.el
+ first-cons calls EXTERNAL: gram1.consonant-P
+ first-cons called by aorist-join1, aorist-join1-vowel, aorist-join1-t-th, aorist-join1-s, aorist-join1-dh, ForC-join1
+
+gram2.el
+ conjugation-tab calls INTERNAL: conjugation-citation-irreg, conjugation-tab-1, conjugation-tab-2, conjugation-tab-3, conjugation-tab-5, conjugation-tab-7, conjugation-tab-8, conjugation-tab-9
+ conjugation-tab calls EXTERNAL: gram2-future.conjugation-tab-lRiT, gram2-future.conjugation-tab-luT, gram2-liT.conjugation-tab-liT
+ conjugation-tab called by construct-conjtab1a-spcltense, causal-conjtab1a-spcltense, explain-conjugation, conjugation-tab-pr, conjugation-tab-upa-pr, conjugation-citation
+
+kta.el
+ construct-pppart1a calls INTERNAL: construct-pppart1a-exception, construct-pppart1a-helper, kale-692-P, kta-join, kta-seT-code
+ construct-pppart1a calls EXTERNAL: endings.solution, gram1.consonant-P, gram1.semivowel-P, gram2.kale-414-P, itrans.ITRANS-parse-words-1, start0.fol-msg
+ construct-pppart1a called by construct-participles1-helper, construct-pppart, SL-ppp, construct-ippart1a-tvaa-basic, construct-ippart1a-ya-basic, kta
+
+sandhi.el
+ reduplicate calls INTERNAL: reduplicate-join, reduplicative-pfx
+ reduplicate calls EXTERNAL: itrans.ITRANS-parse-words-1
+ reduplicate called by conjugation-tab-aorist3-main, aorist-causal-base, reduplicate-cons, aorist3-reduplicate, periphrastic-base, old-periphrastic-base
+
+ sandhi-n-N calls EXTERNAL: gram1.guttural-P, gram1.labial-P, gram1.vowel-P
+ sandhi-n-N called by upasarga-forms1-check, replace-n, SL-n-P0, conjugation-tab-7, reduplicate-join, sandhi-single-main
+
+ sandhi-pair-skiprefs-set calls NOTHING
+ sandhi-pair-skiprefs-set called by aorist-join1, ForC-join1, perfect-join1, conjugation-join1, declension-join, kta-join1
+
+------------------------------------------------------------------------
+functions called by 7 callers
+causal.el
+ causal-base calls INTERNAL: causal-603-P, causal-adjust, indicatory-m1-P, kale-610
+ causal-base calls EXTERNAL: aorist.kale-459-P, endings.solution, gram2.class10-base, itrans.ITRANS-parse-words-1, sandhi.gunate-final-vowel
+ causal-base called by aorist-passive-3S, aorist-causal-base, causal-base1a, causal-base1b, conjugation-tab-ForC, construct-ippart1a-ya, causal
+
+construct.el
+ construct-join-arrays calls EXTERNAL: gram2-liT.join-arrays
+ construct-join-arrays called by construct-conjtab1a-spcltense, causal-conjtab1a-spcltense, causal-conjtab1a-gentense, construct-prespart1a-alt, declension-pres-part-A-alt, SL-conjtab, SL-prespart-declension
+
+ construct-conjbase1a calls INTERNAL: construct-conjpassbase1a
+ construct-conjbase1a calls EXTERNAL: gram2.class-a-base, gram2.class-b-base
+ construct-conjbase1a called by construct-conjtab-base1a, construct-conjtab1a-spcltense, construct-conjpassbase1a, periphrastic-base, construct-pppart1a-helper, construct-potpart1a-tavya, construct-potpart1a-aniiya
+
+gram1.el
+ sanput2 calls NOTHING
+ sanput2 called by load-subfields-keep, load-subfields-keep-class, load-subfields-keep-classPada, causal-conjtab1a-chk, load-dhaatu-data, subanta-irreg, dhaatu-irreg
+
+gram3.el
+ declension-join calls EXTERNAL: endings.solution, sandhi.sandhi-n-N-ifirst-set, sandhi.sandhi-pair, sandhi.sandhi-pair-skiprefs-set, sandhi.sandhi-single, start0.fol-msg
+ declension-join called by construct-passpart1a, construct-rppart1a-mod, explain-ADJ-degree, perf-part-active-r, declension-general-vas-ADJ, declension-general-1, kta-join1
+
+itrans.el
+ reg-word-list calls NOTHING
+ reg-word-list called by s-work1a, s-work1b, s-file-init, s-file-init-alt, s-file-init-alt1, i-file-init, chk-s-file-init
+
+ make-regexp calls NOTHING
+ make-regexp called by subanta-convert-form, declension-1cons-ch, declension-1cons-j, declension-1cons-sh, declension-1cons-Sh, declension-1cons-h, declension-1cons-t
+
+ string-trim calls NOTHING
+ string-trim called by s-file-init, s-file-init-alt, s-file-init-alt1, i-file-init, chk-s-file-init, v-file-init-alt1-pre, v-file-init-alt1-pre-p
+
+sandhi.el
+ de-aspirate calls NOTHING
+ de-aspirate called by aorist-join1-t-th, ForC-join1, reduplicative-pfx-perfect, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, reduplicative-pfx
+
+------------------------------------------------------------------------
+functions called by 8 callers
+aorist.el
+ aorist-endings calls EXTERNAL: gram1.sanget
+ aorist-endings called by conjugation-tab-aorist, conjugation-tab-aorist1-main, conjugation-tab-aorist2-main, conjugation-tab-aorist3-main, conjugation-tab-aorist6-main, conjugation-tab-aorist7-main, conjugation-tab-aorist4-main, conjugation-tab-aorist5-main
+
+construct.el
+ construct-subanta1 calls INTERNAL: construct-subanta2, construct-subanta2-ADJ-at
+ construct-subanta1 calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ construct-subanta1 called by construct-subanta, construct-subanta1a, SL-construct-subanta1, SL-ppp-declension, SL-gerundive-declension, explain-ADJ-degree, declension-citation-other1, Vdecl
+
+ SL-conjtab calls INTERNAL: construct-conjtab1a, construct-join-arrays
+ SL-conjtab calls EXTERNAL: Mbh.SL-tense-tran, endings.solution, itrans.mapcar-LE, itrans.translate-SLP1-ITRANS, start0.fol-msg
+ SL-conjtab called by SL-inf, v-file-init3-pre, v-file-init3-pre-p, v-file-init3-fut, v-file-init3-prf, v-file-init-aor1, vc-file-init3-prefut, v-file-init-alt1-pre-helper
+
+endings.el
+ conj-endings calls EXTERNAL: gram1.sanget
+ conj-endings called by conjugation-tab-1, conjugation-tab-5, conjugation-tab-8, conjugation-tab-9, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, modify-conj-endings-1
+
+forms.el
+ v-root-filename-get calls EXTERNAL: start0.sangram-filename
+ v-root-filename-get called by vc-root-remake1, v-file-init2a-helper, v-file-init3, v-file-init-aor, v-file-init3-helper, vc-file-init2a-helper, vc-file-init3, old-v-file-ptrs-main
+
+gram1.el
+ sangetall calls NOTHING
+ sangetall called by extract-Subanta, sangram-size, sangram-save, Sandhi-Inverse-init, Sandhi-Length-init, Sandhi-unload-old, Sandhi-unload, examine-Sandhi-Inverse-nojoin
+
+itrans.el
+ any-parse-word-string calls NOTHING
+ any-parse-word-string called by ITRANS-parse-word-string, SLP1-parse-word-string, translate-ITRANS-SLP1, translate-SLP1-ITRANS, translate-string-ITRANS-SLP1, translate-string-SLP1-ITRANS, translate-AS-SLP1, translate-string-AS-SLP1
+
+sandhi.el
+ sandhi-single calls INTERNAL: sandhi-single-main
+ sandhi-single calls EXTERNAL: itrans.ITRANS-parse-words-1, start0.fol-msg
+ sandhi-single called by aorist-join1, nN-P, SL-n-P, ForC-join1, perfect-join1, conjugation-join1, declension-join, numeral-join
+
+------------------------------------------------------------------------
+functions called by 9 callers
+construct.el
+ getdhaatu calls INTERNAL: dcpu-sym, getdhaatu
+ getdhaatu calls EXTERNAL: gram1.sanget2
+ getdhaatu called by getdhaatu, getdhaatu-ver0, get-seTPERF-code, get-seT-code, explain-str-VERB, explain-str-VERB-CAUSAL, explain-str-PART1, explain-PART-IPP, explain-PART-INF
+
+------------------------------------------------------------------------
+functions called by 10 callers
+gram1.el
+ nasal-P calls INTERNAL: sanget
+ nasal-P called by conjugation-tab-aorist2-main, conjugation-tab-aorist4-main, aorist-causal-base, construct-rppart1b, class-b-base, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, construct-ippart1a-ya, sandhi-init-36a
+
+sandhi.el
+ guna calls EXTERNAL: gram1.sanget, gram1.simplevowel-P
+ guna called by aorist-passive-3S, aorist-gunate-final-vowel, unused-perfect-gunate-final-vowel, dhaatu-a~Nga-1, dhaatu-a~Nga-10, conjugation-tab-2, conjugation-tab-3, sandhi-internal-A-simplevowel, sandhi-init-20, gunate-final-vowel
+
+ sandhi-pair calls INTERNAL: sandhi-pair-main
+ sandhi-pair calls EXTERNAL: gram1.sanget, itrans.ITRANS-parse-words-1
+ sandhi-pair called by aorist-join1, ForC-join1, perfect-join1, conjugation-join1, upasarga-join, declension-general-an, declension-join, numeral-join, reduplicate-join, sandhi-separate3-str
+
+------------------------------------------------------------------------
+functions called by 11 callers
+gram2-future.el
+ augment-a calls EXTERNAL: gram1.vowel-P, sandhi.vrddhi1
+ augment-a called by conjugation-tab-aorist, conjugation-tab-aorist1-main, conjugation-tab-aorist2-main, aorist3-make-btab, conjugation-tab-aorist6-main, conjugation-tab-aorist7-main, conjugation-tab-aorist4-main, conjugation-tab-aorist5-main, aorist-passive-3S, conjugation-tab-aoristX-main, conjugation-tab-ForC-main
+
+------------------------------------------------------------------------
+functions called by 12 callers
+construct.el
+ construct-cleartemp calls NOTHING
+ construct-cleartemp called by construct-dhaatukosha, construct-dhaatu-forms-all, Xconstruct, construct-passpart, construct-pppart, construct-ippart, construct-inf, construct-potpart, construct-rppart, construct-perppart, construct-futpart, construct-futppart
+
+gram1.el
+ semivowel-P calls INTERNAL: sanget
+ semivowel-P called by conjugation-tab-aorist4-main, aorist-join1-adjust-y, aorist3-alter10a, ForC-join1, perfect-join1, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, construct-pppart1a, kta-join1, sandhi-init-36a, sandhi-cons72-4-init
+
+ labial-P calls INTERNAL: sanget
+ labial-P called by conjugation-tab-aorist4-main, conjugation-tab-aoristX-main, nasal-match, aorist3-alter10a, construct-rppart1b, benedictive-base, kale-394, conjugation-tab-3, construct-pppart1a-helper, construct-potpart1a-yat, sandhi-n-N, sandhi-legalise-final-cons
+
+------------------------------------------------------------------------
+functions called by 13 callers
+construct.el
+ dcpu-sym calls NOTHING
+ dcpu-sym called by load-subfields-keep-class, load-subfields-keep-classPada, construct-dhaatukosha, getdhaatu, getdhaatu-ver0, explore-Xconjgentab, explore-Xconjtab, explore-dhaatu-tenses, construct-passpart, filter-dhaatu-forms, adjust-dhaatu-forms, explain-PART-IPP, explain-PART-INF
+
+ construct-dhaatu-forms1 calls INTERNAL: all-dhaatukosha-inputs
+ construct-dhaatu-forms1 called by construct-dhaatu-forms-all, dhaatukosha-forms-sorted, construct-passpart, construct-pppart, construct-ippart, construct-inf, construct-potpart, construct-rppart, construct-perppart, construct-futpart, construct-futppart, construct-verb-one-a, construct-verb-causal-one
+
+gram1.el
+ sanput calls NOTHING
+ sanput called by construct-cleartemp1, construct-passpart, construct-pppart, init-one-sup, init-one-vsup, init-one-vsup-strength, Subanta-initElt, init-vs-helper, init-semivowels, set-to-property, init-avyayapada-helper-1, Sandhi-initElt, Sandhi-Length-init
+
+gram3.el
+ declension-general calls INTERNAL: declension-general-1
+ declension-general calls EXTERNAL: endings.sup-get, itrans.ITRANS-parse-words-1, start0.fol-msg
+ declension-general called by declension-citation1, declension-pres-part-A, declension-perf-part-passive, declension-pot-part-passive, declension-rperf-part, declension-perperf-part, declension-fut-part-active-A, declension-adj, declension-M-a-IRR, declension-F-aa-IRR, declension-F-aa1-IRR, declension-M-aa1-IRR, declension-N-i1-IRR
+
+ declension-1cons-finish calls INTERNAL: declension-general-1
+ declension-1cons-finish calls EXTERNAL: endings.sup-get
+ declension-1cons-finish called by declension-1cons-ch, declension-1cons-Ch, declension-1cons-j, declension-1cons-sh, declension-1cons-l, declension-1cons-r, declension-1cons-s, declension-1cons-Sh, declension-1cons-h, declension-1cons-v, declension-1cons-t, declension-1cons-p, declension-1cons-k
+
+sandhi.el
+ vrddhi calls EXTERNAL: gram1.sanget, gram1.simplevowel-P
+ vrddhi called by conjugation-tab-aorist, aorist-passive-3S, conjugation-tab-ForC, unused-perfect-gunate-final-vowel, dhaatu-a~Nga-10, conjugation-tab-1, conjugation-tab-5, conjugation-tab-8, conjugation-tab-9, conjugation-tab-2, conjugation-tab-3, conjugation-tab-7, gunate-final-vowel
+
+------------------------------------------------------------------------
+functions called by 14 callers
+itrans.el
+ word-list calls NOTHING
+ word-list called by make-item1, v-file-init1, v-file-init2a, v-file-init3, v-file-init-aor, vc-file-init1, vc-file-init2a, vc-file-init3, old-v-file-ptrs-main, ITRANS-parse-words, SLP1-parse-words, word-list-lines, sandhi-separate3-str, Sx2-extract-formtype
+
+------------------------------------------------------------------------
+functions called by 15 callers
+gram1.el
+ plist-get2 calls NOTHING
+ plist-get2 called by construct-conjtab-base-luT, construct-conjtab-base-lRiT, construct-conjtab-base-aashiirli~N, construct-conjtab-base-lRi~N, construct-conjtab-base-lu~N, declension-pres-part-P-alt, declension-pres-part-A-alt, construct-endings-all, get-explain-subanta-endings, explain-str-VERB, explain-str-VERB-CAUSAL, explain-str-PART1, explain-str-INDECL, explain-PRON, explain-ADJ
+
+itrans.el
+ mapcar-LE calls INTERNAL: mapcar-LE
+ mapcar-LE called by replace-prefix, SL-construct-subanta1, SL-conjtab, SL-abs, parse-string-to-array, s-file-init-helper1, translate-ITRANS-SLP1, translate-SLP1-ITRANS, translate-string-ITRANS-SLP1, translate-string-SLP1-ITRANS, mapcar-LE, translate-AS-SLP1, translate-string-AS-SLP1, Mbhu-validate2-V-0, SL-dtab-construct
+

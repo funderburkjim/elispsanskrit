@@ -1,0 +1,294 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+* aorist passive
+  Only examples of the 3S form of the aorist passive have been
+  given in texts.  Although Kale (p. 365) provides words describing
+  the general construction, I am quite unsure of it. 
+  Also, one form of the 3S of aorist passive in Kale, is unexplained:
+  (file 'validation/aoristpassive.txt')
+  ; I am not sure why Kale has two forms for the causal of 'ram'
+  ;aoristP : 3 ram 11 P nil 0 : (araami arami)
+
+* lu~N1 (1st form of aorist)
+(construct-verb-one-a1 '("" 1 2) 'lu~N1)
+Thu Oct 16 10:34:01 2003
+funcall construct-lu~N1 <dhaatukosha.txt> lu~N1.txt Xlu~N1.txt construct
+BASE NOT USED (lu~N1): bhuu 1 P nil ACTIVE
+ [abhuut abhuutaam abhuuvan abhuuH abhuutam abhuuta abhuuvam abhuuva abhuuma]
+ [abhaat abhaataam abhuH abhaaH abhaatam abhaata abhaam abhaava abhaama]
+BASE NOT USED (lu~N1): bhuu 1 P (ud) ACTIVE
+ [abhuut abhuutaam abhuuvan abhuuH abhuutam abhuuta abhuuvam abhuuva abhuuma]
+ [abhaat abhaataam abhuH abhaaH abhaatam abhaata abhaam abhaava abhaama]
+BASE NOT USED (lu~N1): bhuu 1 P (pra) ACTIVE
+ [abhuut abhuutaam abhuuvan abhuuH abhuutam abhuuta abhuuvam abhuuva abhuuma]
+ [abhaat abhaataam abhuH abhaaH abhaatam abhaata abhaam abhaava abhaama]
+BASE NOT USED (lu~N1): bhuu 1 P (pari) ACTIVE
+ [abhuut abhuutaam abhuuvan abhuuH abhuutam abhuuta abhuuvam abhuuva abhuuma]
+ [abhaat abhaataam abhuH abhaaH abhaatam abhaata abhaam abhaava abhaama]
+BASE NOT USED (lu~N1): bhuu 1 P (anu) ACTIVE
+ [abhuut abhuutaam abhuuvan abhuuH abhuutam abhuuta abhuuvam abhuuva abhuuma]
+ [abhaat abhaataam abhuH abhaaH abhaatam abhaata abhaam abhaava abhaama]
+Thu Oct 16 10:34:17 2003
+Thu Oct 16 10:34:17 2003
+funcall construct-lu~N1 <dhaatukosha1.txt> lu~N11.txt Xlu~N11.txt construct
+Thu Oct 16 10:34:23 2003
+Thu Oct 16 10:34:23 2003
+
+* lu~N2 (2nd form of aorist)
+most differences are from (aorist-2-544-P), a list of 25 verbs which
+are 'A' but are declined in 'P' in this aorist
+ 
+(construct-verb-one-a1 '("" 1 2) 'lu~N2)
+Thu Oct 16 10:39:22 2003
+funcall construct-lu~N2 <dhaatukosha.txt> lu~N2.txt Xlu~N2.txt construct
+BASE NOT USED (lu~N2): kShubh 1 A nil ACTIVE
+ [akShubhat akShubhataam akShubhan akShubhaH akShubhatam akShubhata akShubham akShubhaava akShubhaama]
+ [akShubata akShubetaam akShubanta akShubathaaH akShubethaam akShubadhvam akShube akShubaavahi akShubaamahi]
+BASE NOT USED (lu~N2): ghuT 1 A nil ACTIVE
+ [aghuTat aghuTataam aghuTan aghuTaH aghuTatam aghuTata aghuTam aghuTaava aghuTaama]
+ [aghuata aghuetaam aghuanta aghuathaaH aghuethaam aghuadhvam aghue aghuaavahi aghuaamahi]
+BASE NOT USED (lu~N2): dyut 1 A nil ACTIVE
+ [adyutat adyutataam adyutan adyutaH adyutatam adyutata adyutam adyutaava adyutaama]
+ [adyuata adyuetaam adyuanta adyuathaaH adyuethaam adyuadhvam adyue adyuaavahi adyuaamahi]
+BASE NOT USED (lu~N2): dhvaMs 1 A nil ACTIVE
+ [adhvasat adhvasataam adhvasan adhvasaH adhvasatam adhvasata adhvasam adhvasaava adhvasaama]
+ [adhvaata adhvaetaam adhvaanta adhvaathaaH adhvaethaam adhvaadhvam adhvae adhvaaavahi adhvaaamahi]
+BASE NOT USED (lu~N2): bhraMsh 1 A nil ACTIVE
+ [abhrashat abhrashataam abhrashan abhrashaH abhrashatam abhrashata abhrasham abhrashaava abhrashaama]
+ [abhrasata abhrasetaam abhrasanta abhrasathaaH abhrasethaam abhrasadhvam abhrase abhrasaavahi abhrasaamahi]
+BASE NOT USED (lu~N2): ruch 1 A nil ACTIVE
+ [aruchat aruchataam aruchan aruchaH aruchatam aruchata arucham aruchaava aruchaama]
+ [arucata arucetaam arucanta arucathaaH arucethaam arucadhvam aruce arucaavahi arucaamahi]
+BASE NOT USED (lu~N2): vRit 1 A nil ACTIVE
+ [avRitat avRitataam avRitan avRitaH avRitatam avRitata avRitam avRitaava avRitaama]
+ [avRiata avRietaam avRianta avRiathaaH avRiethaam avRiadhvam avRie avRiaavahi avRiaamahi]
+BASE NOT USED (lu~N2): vRit 1 A (ni) ACTIVE
+ [avRitat avRitataam avRitan avRitaH avRitatam avRitata avRitam avRitaava avRitaama]
+ [avRiata avRietaam avRianta avRiathaaH avRiethaam avRiadhvam avRie avRiaavahi avRiaamahi]
+BASE NOT USED (lu~N2): vRit 1 A (pra) ACTIVE
+ [avRitat avRitataam avRitan avRitaH avRitatam avRitata avRitam avRitaava avRitaama]
+ [avRiata avRietaam avRianta avRiathaaH avRiethaam avRiadhvam avRie avRiaavahi avRiaamahi]
+BASE NOT USED (lu~N2): vRit 1 A (pari) ACTIVE
+ [avRitat avRitataam avRitan avRitaH avRitatam avRitata avRitam avRitaava avRitaama]
+ [avRiata avRietaam avRianta avRiathaaH avRiethaam avRiadhvam avRie avRiaavahi avRiaamahi]
+BASE NOT USED (lu~N2): vRidh 1 A nil ACTIVE
+ [avRidhat avRidhataam avRidhan avRidhaH avRidhatam avRidhata avRidham avRidhaava avRidhaama]
+ [avRidata avRidetaam avRidanta avRidathaaH avRidethaam avRidadhvam avRide avRidaavahi avRidaamahi]
+BASE NOT USED (lu~N2): shubh 1 A nil ACTIVE
+ [ashubhat ashubhataam ashubhan ashubhaH ashubhatam ashubhata ashubham ashubhaava ashubhaama]
+ [ashubata ashubetaam ashubanta ashubathaaH ashubethaam ashubadhvam ashube ashubaavahi ashubaamahi]
+BASE NOT USED (lu~N2): syand 1 A nil ACTIVE
+ [asyadat asyadataam asyadan asyadaH asyadatam asyadata asyadam asyadaava asyadaama]
+ [asyaata asyaetaam asyaanta asyaathaaH asyaethaam asyaadhvam asyae asyaaavahi asyaaamahi]
+BASE NOT USED (lu~N2): sraMs 1 A nil ACTIVE
+ [asrasat asrasataam asrasan asrasaH asrasatam asrasata asrasam asrasaava asrasaama]
+ [asraata asraetaam asraanta asraathaaH asraethaam asraadhvam asrae asraaavahi asraaamahi]
+BASE NOT USED (lu~N2): svid 1 A nil ACTIVE
+ [asvidat asvidataam asvidan asvidaH asvidatam asvidata asvidam asvidaava asvidaama]
+ [asviata asvietaam asvianta asviathaaH asviethaam asviadhvam asvie asviaavahi asviaamahi]
+BASE NOT USED (lu~N2): kLip 1 A nil ACTIVE
+ [akLipat akLipataam akLipan akLipaH akLipatam akLipata akLipam akLipaava akLipaama]
+ [akLiata akLietaam akLianta akLiathaaH akLiethaam akLiadhvam akLie akLiaavahi akLiaamahi]
+BASE NOT USED (lu~N2): bhid 7 A nil ACTIVE
+ [abhidat abhidataam abhidan abhidaH abhidatam abhidata abhidam abhidaava abhidaama]
+ [abhiata abhietaam abhianta abhiathaaH abhiethaam abhiadhvam abhie abhiaavahi abhiaamahi]
+Thu Oct 16 10:39:46 2003
+Thu Oct 16 10:39:46 2003
+funcall construct-lu~N2 <dhaatukosha1.txt> lu~N21.txt Xlu~N21.txt construct
+BASE NOT USED (lu~N2): shRidh 1 A nil ACTIVE
+ [ashRidhat ashRidhataam ashRidhan ashRidhaH ashRidhatam ashRidhata ashRidham ashRidhaava ashRidhaama]
+ [ashRidata ashRidetaam ashRidanta ashRidathaaH ashRidethaam ashRidadhvam ashRide ashRidaavahi ashRidaamahi]
+BASE NOT USED (lu~N2): ruT 1 A nil ACTIVE
+ [aruTat aruTataam aruTan aruTaH aruTatam aruTata aruTam aruTaava aruTaama]
+ [aruata aruetaam aruanta aruathaaH aruethaam aruadhvam arue aruaavahi aruaamahi]
+BASE NOT USED (lu~N2): luT 1 A nil ACTIVE
+ [aluTat aluTataam aluTan aluTaH aluTatam aluTata aluTam aluTaava aluTaama]
+ [aluata aluetaam aluanta aluathaaH aluethaam aluadhvam alue aluaavahi aluaamahi]
+BASE NOT USED (lu~N2): luTh 1 A nil ACTIVE
+ [aluThat aluThataam aluThan aluThaH aluThatam aluThata aluTham aluThaava aluThaama]
+ [aluTata aluTetaam aluTanta aluTathaaH aluTethaam aluTadhvam aluTe aluTaavahi aluTaamahi]
+BASE NOT USED (lu~N2): shvit 1 A nil ACTIVE
+ [ashvitat ashvitataam ashvitan ashvitaH ashvitatam ashvitata ashvitam ashvitaava ashvitaama]
+ [ashviata ashvietaam ashvianta ashviathaaH ashviethaam ashviadhvam ashvie ashviaavahi ashviaamahi]
+BASE NOT USED (lu~N2): kShvid 1 A nil ACTIVE
+ [akShvidat akShvidataam akShvidan akShvidaH akShvidatam akShvidata akShvidam akShvidaava akShvidaama]
+ [akShviata akShvietaam akShvianta akShviathaaH akShviethaam akShviadhvam akShvie akShviaavahi akShviaamahi]
+BASE NOT USED (lu~N2): tubh 1 A nil ACTIVE
+ [atubhat atubhataam atubhan atubhaH atubhatam atubhata atubham atubhaava atubhaama]
+ [atubata atubetaam atubanta atubathaaH atubethaam atubadhvam atube atubaavahi atubaamahi]
+BASE NOT USED (lu~N2): sraMbh 1 A nil ACTIVE
+ [asrabhat asrabhataam asrabhan asrabhaH asrabhatam asrabhata asrabham asrabhaava asrabhaama]
+ [asrabata asrabetaam asrabanta asrabathaaH asrabethaam asrabadhvam asrabe asrabaavahi asrabaamahi]
+BASE NOT USED (lu~N2): bhrash 1 A nil ACTIVE
+ [abhrashat abhrashataam abhrashan abhrashaH abhrashatam abhrashata abhrasham abhrashaava abhrashaama]
+ [abhrasata abhrasetaam abhrasanta abhrasathaaH abhrasethaam abhrasadhvam abhrase abhrasaavahi abhrasaamahi]
+BASE NOT USED (lu~N2): bhraMs 1 A nil ACTIVE
+ [abhrasat abhrasataam abhrasan abhrasaH abhrasatam abhrasata abhrasam abhrasaava abhrasaama]
+ [abhraata abhraetaam abhraanta abhraathaaH abhraethaam abhraadhvam abhrae abhraaavahi abhraaamahi]
+BASE NOT USED (lu~N2): sraMs 1 A nil ACTIVE
+ [asrasat asrasataam asrasan asrasaH asrasatam asrasata asrasam asrasaava asrasaama]
+ [asraata asraetaam asraanta asraathaaH asraethaam asraadhvam asrae asraaavahi asraaamahi]
+
+* lu~N3 (3rd form of aorist)
+ WOW: All forms are regular
+
+* lu~N4 (4th form of aorist)
+NOTE: the BASE-endings model does not work with the 4th aorist,
+ except for the few roots noted below
+(construct-verb-one-a1 '("" 1 2) 'lu~N4)
+Thu Oct 16 12:03:22 2003
+funcall construct-lu~N4 <dhaatukosha.txt> lu~N4.txt Xlu~N4.txt construct
+BASE USED: (lu~N4): kram 1 A nil ACTIVE
+BASE USED: (lu~N4): kram 1 A (upa) ACTIVE
+BASE USED: (lu~N4): kSham 1 A nil ACTIVE
+BASE USED: (lu~N4): kSham 4 P nil ACTIVE
+BASE USED: (lu~N4): ram 1 A nil ACTIVE
+BASE USED: (lu~N4): dhmaa 1 P nil ACTIVE
+BASE USED: (lu~N4): mnaa 1 P nil ACTIVE
+BASE USED: (lu~N4): man 4 A nil ACTIVE
+BASE USED: (lu~N4): j~naa 9 P nil ACTIVE
+BASE USED: (lu~N4): j~naa 9 A nil ACTIVE
+BASE USED: (lu~N4): j~naa 9 P (ava) ACTIVE
+BASE USED: (lu~N4): j~naa 9 P (anu) ACTIVE
+BASE USED: (lu~N4): j~naa 9 A (anu) ACTIVE
+BASE USED: (lu~N4): j~naa 9 A (prati) ACTIVE
+BASE USED: (lu~N4): j~naa 9 P (vi) ACTIVE
+BASE USED: (lu~N4): j~naa 9 A (vi) ACTIVE
+BASE USED: (lu~N4): j~naa 9 A (apa) ACTIVE
+BASE USED: (lu~N4): j~naa 9 P (abhi) ACTIVE
+BASE USED: (lu~N4): j~naa 9 A (abhi) ACTIVE
+BASE USED: (lu~N4): jyaa 9 P nil ACTIVE
+BASE USED: (lu~N4): bhaa 2 P nil ACTIVE
+BASE USED: (lu~N4): maa 2 P nil ACTIVE
+BASE USED: (lu~N4): maa 3 A nil ACTIVE
+BASE USED: (lu~N4): maa 2 P (nir) ACTIVE
+BASE USED: (lu~N4): maa 3 A (nir) ACTIVE
+BASE USED: (lu~N4): yaa 2 P nil ACTIVE
+BASE USED: (lu~N4): yaa 2 P (aa) ACTIVE
+BASE USED: (lu~N4): yaa 2 P (sam aa) ACTIVE
+BASE USED: (lu~N4): yaa 2 P (apa) ACTIVE
+BASE USED: (lu~N4): vaa 2 P nil ACTIVE
+BASE USED: (lu~N4): snaa 2 P nil ACTIVE
+BASE USED: (lu~N4): haa 3 P nil ACTIVE
+BASE USED: (lu~N4): haa 3 P (pari) ACTIVE
+BASE USED: (lu~N4): haa 3 A nil ACTIVE
+Thu Oct 16 12:03:53 2003
+Thu Oct 16 12:03:53 2003
+funcall construct-lu~N4 <dhaatukosha1.txt> lu~N41.txt Xlu~N41.txt construct
+BASE USED: (lu~N4): mii 9 A nil ACTIVE
+BASE USED: (lu~N4): gaa 1 A nil ACTIVE
+BASE USED: (lu~N4): gaa 3 P nil ACTIVE
+BASE USED: (lu~N4): paa 2 P nil ACTIVE
+BASE USED: (lu~N4): shraa 2 P nil ACTIVE
+BASE USED: (lu~N4): laa 2 P nil ACTIVE
+BASE USED: (lu~N4): man 8 A nil ACTIVE
+Thu Oct 16 12:04:00 2003
+Thu Oct 16 12:04:00 2003
+duplicate key (va~nch-1P) at record 35
+funcall construct-lu~N4 <dhaatukosha2.txt> lu~N42.txt Xlu~N42.txt construct
+Thu Oct 16 12:04:02 2003
+(nil nil nil)
+
+* lu~N5 (5th form of aorist)
+(construct-verb-one-a1 '("" 1 2) 'lu~N5)
+Thu Oct 16 12:06:48 2003
+funcall construct-lu~N5 <dhaatukosha.txt> lu~N5.txt Xlu~N5.txt construct
+BASE NOT USED (lu~N5): pyaay 1 A nil ACTIVE
+ [(apyaayiShTa apyaayi) apyaayiShaataam apyaayiShata apyaayiShThaaH apyaayiShaathaam apyaayidhvam apyaayiShi apyaayiShvahi apyaayiShmahi]
+ [(apyaayiShTa apiShTa) (apyaayiShaataam apiShaataam) (apyaayiShata apiShata) (apyaayiShThaaH apiShThaaH) (apyaayiShaathaam apiShaathaam) (apyaayidhvam apidhvam) (apyaayiShi apiShi) (apyaayiShvahi apiShvahi) (apyaayiShmahi apiShmahi)]
+BASE NOT USED (lu~N5): jan 4 A nil ACTIVE
+ [(ajaniShTa ajani) ajaniShaataam ajaniShata ajaniShThaaH ajaniShaathaam ajanidhvam ajaniShi ajaniShvahi ajaniShmahi]
+ [(ajaniShTa iShTa) (ajaniShaataam iShaataam) (ajaniShata iShata) (ajaniShThaaH iShThaaH) (ajaniShaathaam iShaathaam) (ajanidhvam idhvam) (ajaniShi iShi) (ajaniShvahi iShvahi) (ajaniShmahi iShmahi)]
+BASE NOT USED (lu~N5): diip 4 A nil ACTIVE
+ [(adiipiShTa adiipi) adiipiShaataam adiipiShata adiipiShThaaH adiipiShaathaam adiipidhvam adiipiShi adiipiShvahi adiipiShmahi]
+ [(adiipiShTa aiShTa) (adiipiShaataam aiShaataam) (adiipiShata aiShata) (adiipiShThaaH aiShThaaH) (adiipiShaathaam aiShaathaam) (adiipidhvam aidhvam) (adiipiShi aiShi) (adiipiShvahi aiShvahi) (adiipiShmahi aiShmahi)]
+BASE NOT USED (lu~N5): diip 4 A (sam) ACTIVE
+ [(adiipiShTa adiipi) adiipiShaataam adiipiShata adiipiShThaaH adiipiShaathaam adiipidhvam adiipiShi adiipiShvahi adiipiShmahi]
+ [(adiipiShTa aiShTa) (adiipiShaataam aiShaataam) (adiipiShata aiShata) (adiipiShThaaH aiShThaaH) (adiipiShaathaam aiShaathaam) (adiipidhvam aidhvam) (adiipiShi aiShi) (adiipiShvahi aiShvahi) (adiipiShmahi aiShmahi)]
+BASE NOT USED (lu~N5): kShaN 8 A nil ACTIVE
+ [(akShaNiShTa akShata) akShaNiShaataam akShaNiShata (akShaNiShThaaH akShathaaH) akShaNiShaathaam akShaNidhvam akShaNiShi akShaNiShvahi akShaNiShmahi]
+ [(akShaNiShTa akiShTa) (akShaNiShaataam akiShaataam) (akShaNiShata akiShata) (akShaNiShThaaH akiShThaaH) (akShaNiShaathaam akiShaathaam) (akShaNidhvam akidhvam) (akShaNiShi akiShi) (akShaNiShvahi akiShvahi) (akShaNiShmahi akiShmahi)]
+BASE NOT USED (lu~N5): tan 8 A nil ACTIVE
+ [(ataniShTa atata) ataniShaataam ataniShata (ataniShThaaH atathaaH) ataniShaathaam atanidhvam ataniShi ataniShvahi ataniShmahi]
+ [(ataniShTa iShTa) (ataniShaataam iShaataam) (ataniShata iShata) (ataniShThaaH iShThaaH) (ataniShaathaam iShaathaam) (atanidhvam idhvam) (ataniShi iShi) (ataniShvahi iShvahi) (ataniShmahi iShmahi)]
+BASE NOT USED (lu~N5): van 8 A nil ACTIVE
+ [(avaniShTa avata) avaniShaataam avaniShata (avaniShThaaH avathaaH) avaniShaathaam avanidhvam avaniShi avaniShvahi avaniShmahi]
+ [(avaniShTa iShTa) (avaniShaataam iShaataam) (avaniShata iShata) (avaniShThaaH iShThaaH) (avaniShaathaam iShaathaam) (avanidhvam idhvam) (avaniShi iShi) (avaniShvahi iShvahi) (avaniShmahi iShmahi)]
+BASE NOT USED (lu~N5): grah 9 P nil ACTIVE
+ [agrahiit agrahiiShTaam agrahiiShuH agrahiiH agrahiiShTam agrahiiShTa agrahiiSham agrahiiShva agrahiiShma]
+ [agrahiit agrahiShTaam agrahiShuH agrahiiH agrahiShTam agrahiShTa agrahiSham agrahiShva agrahiShma]
+Thu Oct 16 12:08:00 2003
+Thu Oct 16 12:08:00 2003
+funcall construct-lu~N5 <dhaatukosha1.txt> lu~N51.txt Xlu~N51.txt construct
+BASE NOT USED (lu~N5): uurNu 2 A nil ACTIVE
+ [(aurNuviShTa aurNuviShTa) (aurNuviShaataam aurNuviShaataam) (aurNuviShata aurNuviShata) (aurNuviShThaaH aurNuviShThaaH) (aurNuviShaathaam aurNuviShaathaam) (aurNuvidhvam aurNuvidhvam) (aurNuviShi aurNuviShi) (aurNuviShvahi aurNuviShvahi) (aurNuviShmahi aurNuviShmahi)]
+ [aurNuviShTa aurNuviShaataam aurNuviShata aurNuviShThaaH aurNuviShaathaam aurNuvidhvam aurNuviShi aurNuviShvahi aurNuviShmahi]
+BASE NOT USED (lu~N5): taay 1 A nil ACTIVE
+ [(ataayiShTa ataayi) ataayiShaataam ataayiShata ataayiShThaaH ataayiShaathaam ataayidhvam ataayiShi ataayiShvahi ataayiShmahi]
+ [(ataayiShTa aiShTa) (ataayiShaataam aiShaataam) (ataayiShata aiShata) (ataayiShThaaH aiShThaaH) (ataayiShaathaam aiShaathaam) (ataayidhvam aidhvam) (ataayiShi aiShi) (ataayiShvahi aiShvahi) (ataayiShmahi aiShmahi)]
+BASE NOT USED (lu~N5): san 8 A nil ACTIVE
+ [(asaniShTa asata) asaniShaataam asaniShata (asaniShThaaH asathaaH) asaniShaathaam asanidhvam asaniShi asaniShvahi asaniShmahi]
+ [(asaniShTa iShTa) (asaniShaataam iShaataam) (asaniShata iShata) (asaniShThaaH iShThaaH) (asaniShaathaam iShaathaam) (asanidhvam idhvam) (asaniShi iShi) (asaniShvahi iShvahi) (asaniShmahi iShmahi)]
+BASE NOT USED (lu~N5): puur 4 A nil ACTIVE
+ [(apuuriShTa apuuri) apuuriShaataam apuuriShata apuuriShThaaH apuuriShaathaam apuuridhvam apuuriShi apuuriShvahi apuuriShmahi]
+ [(apuuriShTa aiShTa) (apuuriShaataam aiShaataam) (apuuriShata aiShata) (apuuriShThaaH aiShThaaH) (apuuriShaathaam aiShaathaam) (apuuridhvam aidhvam) (apuuriShi aiShi) (apuuriShvahi aiShvahi) (apuuriShmahi aiShmahi)]
+BASE NOT USED (lu~N5): RiN 8 A nil ACTIVE
+ [(aarNiShTa aarta) aarNiShaataam aarNiShata (aarNiShThaaH aarthaaH) aarNiShaathaam aarNidhvam aarNiShi aarNiShvahi aarNiShmahi]
+ [(aarNiShTa iShTa) (aarNiShaataam iShaataam) (aarNiShata iShata) (aarNiShThaaH iShThaaH) (aarNiShaathaam iShaathaam) (aarNidhvam idhvam) (aarNiShi iShi) (aarNiShvahi iShvahi) (aarNiShmahi iShmahi)]
+BASE NOT USED (lu~N5): kShiN 8 A nil ACTIVE
+ [(akSheNiShTa akShita) akSheNiShaataam akSheNiShata (akSheNiShThaaH akShithaaH) akSheNiShaathaam akSheNidhvam akSheNiShi akSheNiShvahi akSheNiShmahi]
+ [(akSheNiShTa akiShTa) (akSheNiShaataam akiShaataam) (akSheNiShata akiShata) (akSheNiShThaaH akiShThaaH) (akSheNiShaathaam akiShaathaam) (akSheNidhvam akidhvam) (akSheNiShi akiShi) (akSheNiShvahi akiShvahi) (akSheNiShmahi akiShmahi)]
+BASE NOT USED (lu~N5): ghRiN 8 A nil ACTIVE
+ [(agharNiShTa aghRita) agharNiShaataam agharNiShata (agharNiShThaaH aghRithaaH) agharNiShaathaam agharNidhvam agharNiShi agharNiShvahi agharNiShmahi]
+ [(agharNiShTa agiShTa) (agharNiShaataam agiShaataam) (agharNiShata agiShata) (agharNiShThaaH agiShThaaH) (agharNiShaathaam agiShaathaam) (agharNidhvam agidhvam) (agharNiShi agiShi) (agharNiShvahi agiShvahi) (agharNiShmahi agiShmahi)]
+BASE NOT USED (lu~N5): tRiN 8 A nil ACTIVE
+ [(atarNiShTa atRita) atarNiShaataam atarNiShata (atarNiShThaaH atRithaaH) atarNiShaathaam atarNidhvam atarNiShi atarNiShvahi atarNiShmahi]
+ [(atarNiShTa aiShTa) (atarNiShaataam aiShaataam) (atarNiShata aiShata) (atarNiShThaaH aiShThaaH) (atarNiShaathaam aiShaathaam) (atarNidhvam aidhvam) (atarNiShi aiShi) (atarNiShvahi aiShvahi) (atarNiShmahi aiShmahi)]
+BASE NOT USED (lu~N5): man 8 A nil ACTIVE
+ [(amaniShTa amata) amaniShaataam amaniShata (amaniShThaaH amathaaH) amaniShaathaam amanidhvam amaniShi amaniShvahi amaniShmahi]
+ [(amaniShTa iShTa) (amaniShaataam iShaataam) (amaniShata iShata) (amaniShThaaH iShThaaH) (amaniShaathaam iShaathaam) (amanidhvam idhvam) (amaniShi iShi) (amaniShvahi iShvahi) (amaniShmahi iShmahi)]
+Thu Oct 16 12:08:28 2003
+Thu Oct 16 12:08:28 2003
+duplicate key (va~nch-1P) at record 35
+funcall construct-lu~N5 <dhaatukosha2.txt> lu~N52.txt Xlu~N52.txt construct
+Thu Oct 16 12:08:33 2003
+(nil nil nil)
+
+* lu~N6 (6th form of aorist)
+ WOW: All forms are regular
+
+* lu~N7 (7th form of aorist)
+NOTE: the verbs ending in 'h' have optional forms in 3S, 2S, 2P which 
+break the regularity
+(construct-verb-one-a1 '("" 1 2) 'lu~N7)
+Thu Oct 16 11:19:13 2003
+funcall construct-lu~N7 <dhaatukosha.txt> lu~N7.txt Xlu~N7.txt construct
+BASE NOT USED (lu~N7): guh 1 A nil ACTIVE
+ [(aghukShata aguuDha) aghukShaataam aghukShanta (aghukShathaaH aguuDhaaH) aghukShaathaam (aghukShadhvam aghuuDhvam) aghukShi (aghukShaavahi aguhvahi) aghukShaamahi]
+ [(aghukShata aguuata) (aghukShaataam aguuaataam) (aghukShanta aguuanta) (aghukShathaaH aguuathaaH) (aghukShaathaam aguuaathaam) (aghukShadhvam aguuadhvam) (aghukShi aguui) (aghukShaavahi aguuaavahi) (aghukShaamahi aguuaamahi)]
+BASE NOT USED (lu~N7): duh 2 A nil ACTIVE
+ [(adhukShata adugdha) adhukShaataam adhukShanta (adhukShathaaH adugdhaaH) adhukShaathaam (adhukShadhvam adhugdhvam) adhukShi (adhukShaavahi aduhvahi) adhukShaamahi]
+ [(adhukShata adugata) (adhukShaataam adugaataam) (adhukShanta aduganta) (adhukShathaaH adugathaaH) (adhukShaathaam adugaathaam) (adhukShadhvam adugadhvam) (adhukShi adugi) (adhukShaavahi adugaavahi) (adhukShaamahi adugaamahi)]
+BASE NOT USED (lu~N7): lih 2 A nil ACTIVE
+ [(alikShata aliiDha) alikShaataam alikShanta (alikShathaaH aliiDhaaH) alikShaathaam (alikShadhvam aliiDhvam) alikShi (alikShaavahi alihvahi) alikShaamahi]
+ [(alikShata aliiata) (alikShaataam aliiaataam) (alikShanta aliianta) (alikShathaaH aliiathaaH) (alikShaathaam aliiaathaam) (alikShadhvam aliiadhvam) (alikShi aliii) (alikShaavahi aliiaavahi) (alikShaamahi aliiaamahi)]
+Thu Oct 16 11:19:28 2003
+Thu Oct 16 11:19:28 2003
+funcall construct-lu~N7 <dhaatukosha1.txt> lu~N71.txt Xlu~N71.txt construct
+BASE NOT USED (lu~N7): dih 2 A nil ACTIVE
+ [(adhikShata adigdha) adhikShaataam adhikShanta (adhikShathaaH adigdhaaH) adhikShaathaam (adhikShadhvam adhigdhvam) adhikShi (adhikShaavahi adihvahi) adhikShaamahi]
+ [(adhikShata adigata) (adhikShaataam adigaataam) (adhikShanta adiganta) (adhikShathaaH adigathaaH) (adhikShaathaam adigaathaam) (adhikShadhvam adigadhvam) (adhikShi adigi) (adhikShaavahi adigaavahi) (adhikShaamahi adigaamahi)]
+Thu Oct 16 11:19:33 2003
+Thu Oct 16 11:19:33 2003
+duplicate key (va~nch-1P) at record 35
+funcall construct-lu~N7 <dhaatukosha2.txt> lu~N72.txt Xlu~N72.txt construct
+Thu Oct 16 11:19:34 2003
+(nil nil nil)
+
+* kta
+ Can 'vas 10' have 2 forms : vasita vaasita
+
+* periphrastic perfect participle
+; Kale #678, p. 421
+; These results match those in Kale, but I am fuzzy on
+; exactly what is represented

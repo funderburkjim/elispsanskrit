@@ -1,0 +1,14 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+formsprob.txt
+begun 19-18-04
+
+Questions regarding accuracy of forms tables
+
+* 'v/diS'
+  Had class '3a'; changed to more common class '3am'. Not sure of how
+  to handle the '3a'.
+
+* (sx2 "sTApitO")
+("sTApita:adj a m:1d/2d/8d" "sTApita (sTA):ppp m:1d/2d/8d")
+ This the ppp of causal. See vc/sta .  But the 'c' is not written.

@@ -1,0 +1,320 @@
+sanload...
+init-sanskrit1...
+init-sanskrit1 begins...Fri Oct 16 22:34:46 2015
+BEGIN construct-init...
+fol-ob-init
+init-transliteration
+init-Sangram
+init-sets
+init-properties
+init-vowelstrength
+init-semivowels
+Sandhi-load-init
+Sandhi 6378
+Sandhi-Inverse-join 4552
+Sandhi-Inverse-nojoin 1474
+Sandhi-Inverse 5060
+Sandhi-Length 98
+Subanta-initAll
+init-sup
+init-vsup
+irregs-init
+END construct-init
+init-sanskrit1 ends...Fri Oct 16 22:34:47 2015
+Warning DIjU adj DI-jU: (adj uu) m
+Warning DIjU adj DI-jU: (adj uu) f
+Warning DIjU adj DI-jU: (adj uu) n
+error@line: DIjU : S adj : <MW=DI-jU,130853,1>
+Warning DUmraDI adj DUmra-DI: (adj ii) m
+Warning DUmraDI adj DUmra-DI: (adj ii) f
+Warning DUmraDI adj DUmra-DI: (adj ii) n
+error@line: DUmraDI : S adj : <MW=DUmra-DI,131315,1>
+Warning nagaBU adj na-ga-BU: (adj uu) m
+Warning nagaBU adj na-ga-BU: (adj uu) f
+Warning nagaBU adj na-ga-BU: (adj uu) n
+error@line: nagaBU : S adj : <MW=na-ga-BU,133089,1>
+Warning nataBrU adj nata-BrU: (adj uu) m
+Warning nataBrU adj nata-BrU: (adj uu) f
+Warning nataBrU adj nata-BrU: (adj uu) n
+error@line: nataBrU : S adj : <MW=nata-BrU,133475,1>
+Warning naBojU adj naBo-jU: (adj uu) m
+Warning naBojU adj naBo-jU: (adj uu) f
+Warning naBojU adj naBo-jU: (adj uu) n
+error@line: naBojU : S adj : <MW=naBo-jU,133989,1>
+Warning nazwaDI adj nazwa-DI: (adj ii) m
+Warning nazwaDI adj nazwa-DI: (adj ii) f
+Warning nazwaDI adj nazwa-DI: (adj ii) n
+error@line: nazwaDI : S adj : <MW=nazwa-DI,135315,1>
+declension-general-1cons: unexpected : aham N
+Warning niraham adj nir-aham: (noun 1cons) n
+declension-general-1cons: unexpected : aham F
+Warning niraham adj nir-aham: (noun 1cons) f
+declension-general-1cons: unexpected : aham M
+Warning niraham adj nir-aham: (noun 1cons) m
+error@line: niraham : S adj : <MW=nir-aham,137685,1>
+Warning nirBI adj nir-BI: (adj ii) m
+Warning nirBI adj nir-BI: (adj ii) f
+Warning nirBI adj nir-BI: (adj ii) n
+error@line: nirBI : S adj : <MW=nir-BI,138121,1>
+Warning nirhrI adj nir-hrI: (adj ii) m
+Warning nirhrI adj nir-hrI: (adj ii) f
+Warning nirhrI adj nir-hrI: (adj ii) n
+error@line: nirhrI : S adj : <MW=nir-hrI,138421,1>
+Warning nistandrI adj nis-tandrI: (adj ii) m
+Warning nistandrI adj nis-tandrI: (adj ii) f
+Warning nistandrI adj nis-tandrI: (adj ii) n
+error@line: nistandrI : S adj : <MW=nis-tandrI,138709,1>
+Warning niHSI adj niH-SI: (adj ii) m
+Warning niHSI adj niH-SI: (adj ii) f
+Warning niHSI adj niH-SI: (adj ii) n
+error@line: niHSI : S adj : <MW=niH-SI,138813,1>
+Warning nityaSrI adj nitya-SrI: (adj ii) m
+Warning nityaSrI adj nitya-SrI: (adj ii) f
+Warning nityaSrI adj nitya-SrI: (adj ii) n
+error@line: nityaSrI : S adj : <MW=nitya-SrI,139645,1>
+Warning nI adj nI: (adj ii) m
+Warning nI adj nI: (adj ii) f
+Warning nI adj nI: (adj ii) n
+error@line: nI : S adj : <MW=nI,142899,1>
+Warning neyaDI adj neya-DI: (adj ii) m
+Warning neyaDI adj neya-DI: (adj ii) f
+Warning neyaDI adj neya-DI: (adj ii) n
+error@line: neyaDI : S adj : <MW=neya-DI,144289,1>
+Warning patsutaHSI adj patsu-taH-SI: (adj ii) m
+Warning patsutaHSI adj patsu-taH-SI: (adj ii) f
+Warning patsutaHSI adj patsu-taH-SI: (adj ii) n
+error@line: patsutaHSI : S adj : <MW=patsu-taH-SI,148047,1>
+Warning padanI adj pada-nI: (adj ii) m
+Warning padanI adj pada-nI: (adj ii) f
+Warning padanI adj pada-nI: (adj ii) n
+error@line: padanI : S adj : <MW=pada-nI,148135,1>
+declension-general-1cons: unexpected : paraaN N
+Warning parAR adj parAR: (noun 1cons) n
+declension-general-1cons: unexpected : paraaN F
+Warning parAR adj parAR: (noun 1cons) f
+declension-general-1cons: unexpected : paraaN M
+Warning parAR adj parAR: (noun 1cons) m
+error@line: parAR : S adj : <MW=parAR,149927,1>
+Warning pariprI adj pari-prI: (adj ii) m
+Warning pariprI adj pari-prI: (adj ii) f
+Warning pariprI adj pari-prI: (adj ii) n
+error@line: pariprI : S adj : <MW=pari-prI,151451,1>
+Warning pariBU adj pari-BU: (adj uu) m
+Warning pariBU adj pari-BU: (adj uu) f
+Warning pariBU adj pari-BU: (adj uu) n
+error@line: pariBU : S adj : <MW=pari-BU,151609,1>
+Warning parivI adj pari-vI: (adj ii) m
+Warning parivI adj pari-vI: (adj ii) f
+Warning parivI adj pari-vI: (adj ii) n
+error@line: parivI : S adj : <MW=pari-vI,152329,1>
+Warning parRavI adj parRa-vI: (adj ii) m
+Warning parRavI adj parRa-vI: (adj ii) f
+Warning parRavI adj parRa-vI: (adj ii) n
+error@line: parRavI : S adj : <MW=parRa-vI,153323,1>
+declension-general-1cons: unexpected : darshi~N N
+Warning pApadarSiN adj pApa-darSiN: (noun 1cons) n
+declension-general-1cons: unexpected : darshi~N F
+Warning pApadarSiN adj pApa-darSiN: (noun 1cons) f
+declension-general-1cons: unexpected : darshi~N M
+Warning pApadarSiN adj pApa-darSiN: (noun 1cons) m
+error@line: pApadarSiN : S adj : <MW=pApa-darSiN,156785,1>
+Warning pApaDI adj pApa-DI: (adj ii) m
+Warning pApaDI adj pApa-DI: (adj ii) f
+Warning pApaDI adj pApa-DI: (adj ii) n
+error@line: pApaDI : S adj : <MW=pApa-DI,156793,1>
+Warning pitfhU adj pitf-hU: (adj uu) m
+Warning pitfhU adj pitf-hU: (adj uu) f
+Warning pitfhU adj pitf-hU: (adj uu) n
+error@line: pitfhU : S adj : <MW=pitf-hU,159061,1>
+Warning puYjIBU adj puYjI-BU: (adj uu) m
+Warning puYjIBU adj puYjI-BU: (adj uu) f
+Warning puYjIBU adj puYjI-BU: (adj uu) n
+error@line: puYjIBU : S adj : <MW=puYjI-BU,160439,1>
+Warning punarBU adj punar-BU: (adj uu) m
+Warning punarBU adj punar-BU: (adj uu) f
+Warning punarBU adj punar-BU: (adj uu) n
+error@line: punarBU : S adj : <MW=punar-BU,161177,1>
+Warning puroBU adj puro-BU: (adj uu) m
+Warning puroBU adj puro-BU: (adj uu) f
+Warning puroBU adj puro-BU: (adj uu) n
+error@line: puroBU : S adj : <MW=puro-BU,161655,1>
+Warning puruBU adj puru-BU: (adj uu) m
+Warning puruBU adj puru-BU: (adj uu) f
+Warning puruBU adj puru-BU: (adj uu) n
+error@line: puruBU : S adj : <MW=puru-BU,162051,1>
+Warning pU adj pU: (adj uu) m
+Warning pU adj pU: (adj uu) f
+Warning pU adj pU: (adj uu) n
+error@line: pU : S adj : <MW=pU,163169,1>
+Warning pU adj pU: (adj uu) m
+Warning pU adj pU: (adj uu) f
+Warning pU adj pU: (adj uu) n
+error@line: pU : S adj : <MW=pU,163227,1>
+Warning pUrRaSrI adj pUrRa-SrI: (adj ii) m
+Warning pUrRaSrI adj pUrRa-SrI: (adj ii) f
+Warning pUrRaSrI adj pUrRa-SrI: (adj ii) n
+error@line: pUrRaSrI : S adj : <MW=pUrRa-SrI,163663,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'pUrvavah : S adj : <MW=pUrva-vah,164119,1>'
+Warning pUrvasU adj pUrva-sU: (adj uu) m
+Warning pUrvasU adj pUrva-sU: (adj uu) f
+Warning pUrvasU adj pUrva-sU: (adj uu) n
+error@line: pUrvasU : S adj : <MW=pUrva-sU,164199,1>
+sandhi-single(error): [k s] 
+sandhi-single(error): [k s] 
+Warning pfTuSrI adj pfTu-SrI: (adj ii) m
+Warning pfTuSrI adj pfTu-SrI: (adj ii) f
+Warning pfTuSrI adj pfTu-SrI: (adj ii) n
+error@line: pfTuSrI : S adj : <MW=pfTu-SrI,164905,1>
+Warning pfSnigo adj pfSni-go: (adj o) m
+Warning pfSnigo adj pfSni-go: (adj o) f
+Warning pfSnigo adj pfSni-go: (adj o) n
+error@line: pfSnigo : S adj : <MW=pfSni-go,165027,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'pfzwivAh : S adj : <MW=pfzwi-vAh,165145,1>'
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'pfzWavAh : S adj : <MW=pfzWa-vAh,165223,1>'
+Warning prakrI adj pra-krI: (adj ii) m
+Warning prakrI adj pra-krI: (adj ii) f
+Warning prakrI adj pra-krI: (adj ii) n
+error@line: prakrI : S adj : <MW=pra-krI,166757,1>
+Warning praRenI adj pra-RenI: (adj ii) m
+Warning praRenI adj pra-RenI: (adj ii) f
+Warning praRenI adj pra-RenI: (adj ii) n
+error@line: praRenI : S adj : <MW=pra-RenI,167891,1>
+declension-general-1cons: unexpected : taam N
+Warning pratAm adj pra-tAm: (noun 1cons) n
+declension-general-1cons: unexpected : taam F
+Warning pratAm adj pra-tAm: (noun 1cons) f
+declension-general-1cons: unexpected : taam M
+Warning pratAm adj pra-tAm: (noun 1cons) m
+error@line: pratAm : S adj : <MW=pra-tAm,167979,1>
+Warning pratiDI adj prati-DI: (adj ii) m
+Warning pratiDI adj prati-DI: (adj ii) f
+Warning pratiDI adj prati-DI: (adj ii) n
+error@line: pratiDI : S adj : <MW=prati-DI,168193,1>
+Warning pratistrI adj prati-strI: (adj ii) m
+Warning pratistrI adj prati-strI: (adj ii) f
+Warning pratistrI adj prati-strI: (adj ii) n
+error@line: pratistrI : S adj : <MW=prati-strI,168699,1>
+Warning pratiDI adj prati-DI: (adj ii) m
+Warning pratiDI adj prati-DI: (adj ii) f
+Warning pratiDI adj prati-DI: (adj ii) n
+error@line: pratiDI : S adj : <MW=prati-DI,169355,1>
+Warning pratIvI adj pratI-vI: (adj ii) m
+Warning pratIvI adj pratI-vI: (adj ii) f
+Warning pratIvI adj pratI-vI: (adj ii) n
+error@line: pratIvI : S adj : <MW=pratI-vI,170747,1>
+Warning praTamaSrI adj praTama-SrI: (adj ii) m
+Warning praTamaSrI adj praTama-SrI: (adj ii) f
+Warning praTamaSrI adj praTama-SrI: (adj ii) n
+error@line: praTamaSrI : S adj : <MW=praTama-SrI,172047,1>
+Warning praDI adj pra-DI: (adj ii) m
+Warning praDI adj pra-DI: (adj ii) f
+Warning praDI adj pra-DI: (adj ii) n
+error@line: praDI : S adj : <MW=pra-DI,172491,2>
+Warning pramI adj pra-mI: (adj ii) m
+Warning pramI adj pra-mI: (adj ii) f
+Warning pramI adj pra-mI: (adj ii) n
+error@line: pramI : S adj : <MW=pra-mI,173515,1>
+declension-general-1cons: unexpected : shaam N
+Warning praSAm adj pra-SAm: (noun 1cons) n
+declension-general-1cons: unexpected : shaam F
+Warning praSAm adj pra-SAm: (noun 1cons) f
+declension-general-1cons: unexpected : shaam M
+Warning praSAm adj pra-SAm: (noun 1cons) m
+error@line: praSAm : S adj : <MW=pra-SAm,175203,1>
+Warning prasU adj pra-sU: (adj uu) m
+Warning prasU adj pra-sU: (adj uu) f
+Warning prasU adj pra-sU: (adj uu) n
+error@line: prasU : S adj : <MW=pra-sU,175771,1>
+declension-general-1cons: unexpected : praaN N
+Warning prAR adj prAR: (noun 1cons) n
+declension-general-1cons: unexpected : praaN F
+Warning prAR adj prAR: (noun 1cons) f
+declension-general-1cons: unexpected : praaN M
+Warning prAR adj prAR: (noun 1cons) m
+error@line: prAR : S adj : <MW=prAR,177327,1>
+Warning prAptaSrI adj prApta-SrI: (adj ii) m
+Warning prAptaSrI adj prApta-SrI: (adj ii) f
+Warning prAptaSrI adj prApta-SrI: (adj ii) n
+error@line: prAptaSrI : S adj : <MW=prApta-SrI,178087,1>
+Warning prAvI adj prAvI: (adj ii) m
+Warning prAvI adj prAvI: (adj ii) f
+Warning prAvI adj prAvI: (adj ii) n
+error@line: prAvI : S adj : <MW=prAvI,178315,1>
+Warning prI adj prI: (adj ii) m
+Warning prI adj prI: (adj ii) f
+Warning prI adj prI: (adj ii) n
+error@line: prI : S adj : <MW=prI,178861,1>
+Warning PalasamBU adj Pala-samBU: (adj uu) m
+Warning PalasamBU adj Pala-samBU: (adj uu) f
+Warning PalasamBU adj Pala-samBU: (adj uu) n
+error@line: PalasamBU : S adj : <MW=Pala-samBU,180445,1>
+Warning bahugo adj bahu-go: (adj o) m
+Warning bahugo adj bahu-go: (adj o) f
+Warning bahugo adj bahu-go: (adj o) n
+error@line: bahugo : S adj : <MW=bahu-go,182543,1>
+Warning bahutantrI adj bahu-tantrI: (adj ii) m
+Warning bahutantrI adj bahu-tantrI: (adj ii) f
+Warning bahutantrI adj bahu-tantrI: (adj ii) n
+error@line: bahutantrI : S adj : <MW=bahu-tantrI,182583,1>
+Warning bahupreyasI adj bahu-preyasI: (adj ii) m
+Warning bahupreyasI adj bahu-preyasI: (adj ii) f
+Warning bahupreyasI adj bahu-preyasI: (adj ii) n
+error@line: bahupreyasI : S adj : <MW=bahu-preyasI,182777,1>
+Warning bahurE adj bahu-rE: (adj ai) m
+Warning bahurE adj bahu-rE: (adj ai) f
+Warning bahurE adj bahu-rE: (adj ai) n
+error@line: bahurE : S adj : <MW=bahu-rE,182925,1>
+Warning bahuSreyasI adj bahu-SreyasI: (adj ii) m
+Warning bahuSreyasI adj bahu-SreyasI: (adj ii) f
+Warning bahuSreyasI adj bahu-SreyasI: (adj ii) n
+error@line: bahuSreyasI : S adj : <MW=bahu-SreyasI,183023,1>
+Warning brahmaprI adj brahma-prI: (adj ii) m
+Warning brahmaprI adj brahma-prI: (adj ii) f
+Warning brahmaprI adj brahma-prI: (adj ii) n
+error@line: brahmaprI : S adj : <MW=brahma-prI,186971,1>
+Warning brahmANgaBU adj brahmANgaBU: (adj uu) m
+Warning brahmANgaBU adj brahmANgaBU: (adj uu) f
+Warning brahmANgaBU adj brahmANgaBU: (adj uu) n
+error@line: brahmANgaBU : S adj : <MW=brahmANgaBU,187355,1>
+Warning BavadBI adj Bavad-BI: (adj ii) m
+Warning BavadBI adj Bavad-BI: (adj ii) f
+Warning BavadBI adj Bavad-BI: (adj ii) n
+error@line: BavadBI : S adj : <MW=Bavad-BI,189899,1>
+Warning BAmanI adj BAma-nI: (adj ii) m
+Warning BAmanI adj BAma-nI: (adj ii) f
+Warning BAmanI adj BAma-nI: (adj ii) n
+error@line: BAmanI : S adj : <MW=BAma-nI,190401,1>
+Warning BinnanO adj Binna-nO: (adj au) m
+Warning BinnanO adj Binna-nO: (adj au) f
+Warning BinnanO adj Binna-nO: (adj au) n
+error@line: BinnanO : S adj : <MW=Binna-nO,192015,1>
+Warning BU adj BU: (adj uu) m
+Warning BU adj BU: (adj uu) f
+Warning BU adj BU: (adj uu) n
+error@line: BU : S adj : <MW=BU,192981,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'BUvah : S adj : <MW=BU-vah,193209,1>'
+Warning BrazwaSrI adj Brazwa-SrI: (adj ii) m
+Warning BrazwaSrI adj Brazwa-SrI: (adj ii) f
+Warning BrazwaSrI adj Brazwa-SrI: (adj ii) n
+error@line: BrazwaSrI : S adj : <MW=Brazwa-SrI,195417,1>
+declension-general-1cons: unexpected : jiivtn N
+Warning matsyajIvtn adj matsya-jIvtn: (noun 1cons) n
+declension-general-1cons: unexpected : jiivtn F
+Warning matsyajIvtn adj matsya-jIvtn: (noun 1cons) f
+declension-general-1cons: unexpected : jiivtn M
+Warning matsyajIvtn adj matsya-jIvtn: (noun 1cons) m
+error@line: matsyajIvtn : S adj : <MW=matsya-jIvtn,197443,1>
+Warning maDupU adj maDu-pU: (adj uu) m
+Warning maDupU adj maDu-pU: (adj uu) f
+Warning maDupU adj maDu-pU: (adj uu) n
+error@line: maDupU : S adj : <MW=maDu-pU,198533,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'maDyamavAh : S adj : <MW=maDyama-vAh,199223,1>'
+Warning manojU adj mano-jU: (adj uu) m
+Warning manojU adj mano-jU: (adj uu) f
+Warning manojU adj mano-jU: (adj uu) n
+error@line: manojU : S adj : <MW=mano-jU,199963,1>

@@ -1,0 +1,201 @@
+
+Emacs Elisp code files are in directory grammar/lisp.  As with all Elisp code,
+the functions can be run interactively.  This file documents had to
+initialize the Sanskrit grammar functions in an interactive Emacs session.
+It then presents a sample of the functions.  This sample is far from complete,
+as there are, at latest count, 1121 functions in the entire system.
+
+* How to initialize system:
+(a) open grammar/lisp/start.el in Emacs editor
+(b) From Emacs-Lisp menu, select 'Evaluate Buffer'
+(c) You will be switched to the *scratch* Emacs buffer.
+(d) To run a function in the *scratch* buffer:
+    go to end of the function (after the closing parenthesis), and
+    press Ctl-j.   For the function examples shown below, output will
+    be shown below the function invocation.
+* Comment on Emacs version
+This code is tested using version emacs-23.2 for Windows.
+This is now an old version (Probably 10+ years old).  
+The code has not been tested on new versions of Emacs.
+According to Elisp compilation messages, there are several
+cases of 'obsolete' code, even for emacs-23.2.  It is possible 
+that some of these obsolete features have been entirely removed in
+newer versions of Emacs.
+
+* Comment on the function examples shown below.
+  The system was originally written to spell Sanskrit words in the ITRANS
+  transliteration system.  Later work added functions to accept spelling
+  in the SLP1 system.  Some function parameters appear in double quotes (an
+  Elisp string literal), and some show words preceded by a single-quote (an
+  Elisp symbol literal).  
+  If, for some reason, a function encounters an internal error (usually due
+  to receiving parameters of the wrong form), a confusing 'backtrace' panel
+  will be shown.  You can clikc in the 'backtrace' panel and close that 
+  buffer.  Emacs is a huge program with many features that novice users
+  find confusing.
+* construct-subanta-base 
+ is called by construct-subanta.  It sometimes returns nil, but here is an
+ example: Sanskrit spelled in ITRANS
+(construct-subanta-base 'aMshaka 'ADJ 'a)
+=> aMshak   (Note: this is in ITRANS.
+* construct-subanta1 
+ called by construct-subanta for cases not handled by construct-subanta-base 
+(construct-subanta1 'aMshabhaaj 'N '1cons)
+((NOUN 1cons) (N [aMshabhaak aMshabhaajii aMshabhaaji aMshabhaaj aMshabhaajii aMshabhaaji aMshabhaajaa aMshabhaagbhyaam aMshabhaagbhiH aMshabhaaje aMshabhaagbhyaam aMshabhaagbhyaH aMshabhaajaH aMshabhaagbhyaam aMshabhaagbhyaH aMshabhaajaH aMshabhaajoH aMshabhaajaam aMshabhaaji aMshabhaajoH aMshabhaakShu aMshabhaak aMshabhaajii aMshabhaaji]))
+
+This information is derived from declension-citation1 function in gram3.el
+* declension-citation1
+ function in gram3.el
+(declension-citation1 citation-sym praatipadika gender form irregs)
+(declension-citation1 'aMshabhaaj 'aMshabhaaj 'N '1cons nil)
+[aMshabhaak aMshabhaajii aMshabhaaji aMshabhaaj aMshabhaajii aMshabhaaji aMshabhaajaa aMshabhaagbhyaam aMshabhaagbhiH aMshabhaaje aMshabhaagbhyaam aMshabhaagbhyaH ...]
+
+when the form is in the constant
+declension-cons-forms
+(1cons vat vat-ADJ mat mat-ADJ iiyas-ADJ in in-ADJ vas-ADJ an an-ADJ ach-ADJ aach-ADJ 3cons at-ADJ)
+then declension-general-cons function is applied, as in this case
+
+* SL-dtab-construct
+in validation.el.  Spelling is in SLP1. 'nil' represents a missing value
+(SL-dtab-construct "rAma" "noun" "m")
+[["1" "rAmaH" "rAmO" "rAmAH"] ["v" "rAma" "rAmO" "rAmAH"] ["2" "rAmam" "rAmO" "rAmAn"] ["3" "rAmeRa" "rAmAByAm" "rAmEH"] ["4" "rAmAya" "rAmAByAm" "rAmeByaH"] ["5" "rAmAt" "rAmAByAm" "rAmeByaH"] ["6" "rAmasya" "rAmayoH" "rAmARAm"] ["7" "rAme" "rAmayoH" "rAmezu"]]
+
+Question: what the the known values of the 'form', e.g. "noun" ?
+(SL-dtab-construct "gacCat" "prap1" "m")
+[["1" "gacCan" "gacCantO" "gacCantaH"] ["v" "gacCan" "gacCantO" "gacCantaH"] ["2" "gacCantam" "gacCantO" "gacCataH"] ["3" "gacCatA" "gacCadByAm" "gacCadBiH"] ["4" "gacCate" "gacCadByAm" "gacCadByaH"] ["5" "gacCataH" "gacCadByAm" "gacCadByaH"] ["6" "gacCataH" "gacCatoH" "gacCatAm"] ["7" "gacCati" "gacCatoH" "gacCatsu"]]
+
+(SL-dtab-construct "asmad" "pron" "m")
+[["1" "aham" ("AvAm" "Avam") "vayam"] ["v" nil nil nil] ["2" ("mAm" "mA") ("AvAm" "nO") ("asmAn" "naH")] ["3" "mayA" "AvAByAm" "asmABiH"] ["4" ("mahyam" "me") ("AvAByAm" "nO") ("asmaByam" "naH")] ["5" "mat" "AvAByAm" "asmat"] ["6" ("mama" "me") ("AvayoH" "nO") ("asmAkam" "naH")] ["7" "mayi" "AvayoH" "asmAsu"]]
+
+(SL-dtab-construct "upaSamanI" "noun" "f")
+[["1" "upaSamanI" "upaSamanyO" "upaSamanyaH"] ["v" "upaSamani" "upaSamanyO" "upaSamanyaH"] ["2" "upaSamanIm" "upaSamanyO" "upaSamanIH"] ["3" "upaSamanyA" "upaSamanIByAm" "upaSamanIBiH"] ["4" "upaSamanyE" "upaSamanIByAm" "upaSamanIByaH"] ["5" "upaSamanyAH" "upaSamanIByAm" "upaSamanIByaH"] ["6" "upaSamanyAH" "upaSamanyoH" "upaSamanInAm"] ["7" "upaSamanyAm" "upaSamanyoH" "upaSamanIzu"]]
+
+(SL-dtab-construct "caru" "noun" "m")
+[["1" "caruH" "carU" "caravaH"] ["v" "caro" "carU" "caravaH"] ["2" "carum" "carU" "carUn"] ["3" "caruRA" "caruByAm" "caruBiH"] ["4" "carave" "caruByAm" "caruByaH"] ["5" "caroH" "caruByAm" "caruByaH"] ["6" "caroH" "carvoH" "carURAm"] ["7" "carO" "carvoH" "caruzu"]]
+
+[["1" "caruH" "carU" "caravaH"] ["v" "caro" "carU" "caravaH"] ["2" "carum" "carU" "carUH"] ["3" "carvA" "caruByAm" "caruBiH"] ["4" ("carvE" "carave") "caruByAm" "caruByaH"] ["5" ("carvAH" "caroH") "caruByAm" "caruByaH"] ["6" ("carvAH" "caroH") "carvoH" "carURAm"] ["7" ("carvAm" "carO") "carvoH" "caruzu"]]
+
+(SL-dtab-construct "hanumat" "noun" "m")
+[["1" "hanumAn" "hanumantO" "hanumantaH"] ["v" "hanuman" "hanumantO" "hanumantaH"] ["2" "hanumantam" "hanumantO" "hanumataH"] ["3" "hanumatA" "hanumadByAm" "hanumadBiH"] ["4" "hanumate" "hanumadByAm" "hanumadByaH"] ["5" "hanumataH" "hanumadByAm" "hanumadByaH"] ["6" "hanumataH" "hanumatoH" "hanumatAm"] ["7" "hanumati" "hanumatoH" "hanumatsu"]]
+
+
+(SL-dtab-construct "dazan" "card" "m")
+[["1" nil nil "daza"] ["v" nil nil nil] ["2" nil nil "daza"] ["3" nil nil "dazaBiH"] ["4" nil nil "dazaByaH"] ["5" nil nil "dazaByaH"] ["6" nil nil "dazARAm"] ["7" nil nil "dazasu"]]
+
+(SL-dtab-construct "dvi" "card" "m")
+[["1" nil "dvO" nil] ["v" nil nil nil] ["2" nil "dvO" nil] ["3" nil "dvAByAm" nil] ["4" nil "dvAByAm" nil] ["5" nil "dvAByAm" nil] ["6" nil "dvayoH" nil] ["7" nil "dvayoH" nil]]
+
+(SL-dtab-construct "tri" "card" "f")
+[["1" nil nil "tisraH"] ["v" nil nil nil] ["2" nil nil "tisraH"] ["3" nil nil "tisfBiH"] ["4" nil nil "tisfByaH"] ["5" nil nil "tisfByaH"] ["6" nil nil "tisfRAm"] ["7" nil nil "tisfzu"]]
+(SL-dtab-construct "tri" "card" "n")
+[["1" nil nil "trIRi"] ["v" nil nil nil] ["2" nil nil "trIRi"] ["3" nil nil "triBiH"] ["4" nil nil "triByaH"] ["5" nil nil "triByaH"] ["6" nil nil "trayARAm"] ["7" nil nil "trizu"]]
+
+* samples of SL-conjtab  
+in construct.el   constructs conjugation table from citation form of root.
+(SL-conjtab 'gam 1 'a nil 'pre nil)
+[(gacCati gamati) (gacCataH gamataH) (gacCanti gamanti) (gacCasi gamasi) (gacCaTaH gamaTaH) (gacCaTa gamaTa) (gacCAmi gamAmi) (gacCAvaH gamAvaH) (gacCAmaH gamAmaH)]
+
+(SL-conjtab 'BU 1 'a nil 'pre nil)
+[Bavati BavataH Bavanti Bavasi BavaTaH BavaTa BavAmi BavAvaH BavAmaH]
+(SL-conjtab root class evoice upas sltense dtype)
+  root is the MW-spelled root
+  class is number 1 to 10
+  evoice is a, m, or p
+  upas is a list of prefixes   -  it seems to be ignored:
+  (SL-conjtab 'BU 1 'a '(upa) 'pre nil)
+  [Bavati BavataH Bavanti Bavasi BavaTaH BavaTa BavAmi BavAvaH BavAmaH]
+  sltense is a Scharf tense symbol. SL-tense-tran (in Mbh.el) translates
+  using constant: all-tenses-SL-plist
+    (laT PRE la~N IPF loT IPV vidhili~N OPT liT-p PPF liT-r PRF lRiT FUT lRi~N CON luT PFT aashiirli~N BEN lu~N1 AOR1 lu~N2 AOR2 lu~N3 AOR3 lu~N4 AOR4 lu~N5 AOR5 lu~N6 AOR6 lu~N7 AOR7)
+  example:
+  sltense = 'ipf
+  (SL-tense-tran "IPF") -> (la~N)
+  
+ (SL-conjtab 'BU 1 'a nil 'prf nil)
+ [baBUva baBUvatuH baBUvuH baBUviTa baBUvaTuH baBUva baBUva baBUviva baBUvima]
+ 
+ dtype is the derivative type of the verb.  The only forms recognized are:
+  nil == not a derivative type
+  'c  == causal
+  Example 1: (SL-conjtab 'BU 1 'a nil 'ipf 'c)  
+   [aBAvayat aBAvayatAm aBAvayan aBAvayaH aBAvayatam aBAvayata aBAvayam aBAvayAva aBAvayAma]
+  Example 2: (SL-conjtab 'BU 1 'a nil 'prf 'c)
+  nil   NOTE: I am unsure whether the perfect of a causal form is meaningful;
+    it seems that it should be, but code is not written to implement it.
+
+  Note that desiderative and intensive forms are not implemented, but probably
+   should be.
+
+
+* samples of SL-conjtab for passive
+(SL-conjtab 'BU 0 'p nil 'pre nil)
+[BUyate BUyete BUyante BUyase BUyeTe BUyaDve BUye BUyAvahe BUyAmahe]
+
+(SL-conjtab 'BU 0 'p nil 'ipf nil)
+[aBUyata aBUyetAm aBUyanta aBUyaTAH aBUyeTAm aBUyaDvam aBUye aBUyAvahi aBUyAmahi]
+
+(SL-conjtab 'BU 0 'p nil 'ipv nil)
+[BUyatAm BUyetAm BUyantAm BUyasva BUyeTAm BUyaDvam BUyE BUyAvahE BUyAmahE]
+
+
+(SL-conjtab 'BU 0 'p nil 'opt nil)
+[BUyeta BUyeyAtAm BUyeran BUyeTAH BUyeyATAm BUyeDvam BUyeya BUyevahi BUyemahi]
+
+* samples of SL-conjtab for future tenses
+Passive is same as middle.
+Not sure what, if any, use is made of class
+(SL-conjtab 'BU 1 'a nil 'fut nil)
+[Bavizyati BavizyataH Bavizyanti Bavizyasi BavizyaTaH BavizyaTa BavizyAmi BavizyAvaH BavizyAmaH]
+
+(SL-conjtab 'BU 1 'm nil 'fut nil)
+[Bavizyate Bavizyete Bavizyante Bavizyase BavizyeTe BavizyaDve Bavizye BavizyAvahe BavizyAmahe]
+
+
+(SL-conjtab 'BU 1 'a nil 'pft nil)
+[BavitA BavitArO BavitAraH BavitAsi BavitAsTaH BavitAsTa BavitAsmi BavitAsvaH BavitAsmaH]
+(SL-conjtab 'BU 1 'm nil 'pft nil)
+[BavitA BavitArO BavitAraH BavitAse BavitAsATe BavitADve BavitAhe BavitAsvahe BavitAsmahe]
+
+
+(SL-conjtab 'BU 1 'a nil 'ben nil)
+[BUyAt BUyAstAm BUyAsuH BUyAH BUyAstam BUyAsta BUyAsam BUyAsva BUyAsma]
+(SL-conjtab 'BU 1 'm nil 'ben nil)
+[BavizIzwa BavizIyAstAm BavizIran BavizIzWAH BavizIyAsTAm BavizIDvam BavizIya BavizIvahi BavizImahi]
+
+
+(SL-conjtab 'BU 1 'a nil 'con nil)
+[aBavizyat aBavizyatAm aBavizyan aBavizyaH aBavizyatam aBavizyata aBavizyam aBavizyAva aBavizyAma]
+(SL-conjtab 'BU 1 'm nil 'con nil)
+[aBavizyata aBavizyetAm aBavizyanta aBavizyaTAH aBavizyeTAm aBavizyaDvam aBavizye aBavizyAvahi aBavizyAmahi]
+
+Apparently, classes 1-9 are handled identically.
+However, class 10 is handled differently.
+For instance, if we were to treat BU as class 10, the stem is computed differently
+(SL-conjtab 'BU 10 'a nil 'fut nil)
+[BAvayizyati BAvayizyataH BAvayizyanti BAvayizyasi BAvayizyaTaH BAvayizyaTa BAvayizyAmi BAvayizyAvaH BAvayizyAmaH]
+
+and, sometimes, there are multiple stems for future, e.g., aMS in class 10
+(SL-conjtab 'aMS 10 'a nil 'fut nil)
+[(aMSApayizyati aMSayizyati) (aMSApayizyataH aMSayizyataH) (aMSApayizyanti aMSayizyanti) (aMSApayizyasi aMSayizyasi) (aMSApayizyaTaH aMSayizyaTaH) (aMSApayizyaTa aMSayizyaTa) (aMSApayizyAmi aMSayizyAmi) (aMSApayizyAvaH aMSayizyAvaH) (aMSApayizyAmaH aMSayizyAmaH)]
+
+* samples of  SL-ppfactn
+(SL-ppfactn 'aMh 10 'a nil)
+(aMhayAm)
+(SL-ppfactn 'aMh 1 'a nil)
+nil
+(SL-ppfactn 'ak 1 'a nil)
+nil
+(SL-ppfactn 'ak 1 'a 'c) ; causal
+(akayAm)
+
+
+* static analysis of the code
+To explore the code, the static-code-analysis directory contains useful
+information
+* Many functions require additional data files
+Many functions in forms.el, like those called in v-root-remake, expect
+certain files and directories that are not present in this repository.
+* doc functions
+ There is considerable documentation present in functions whose names start
+with "doc_".
+* THE END

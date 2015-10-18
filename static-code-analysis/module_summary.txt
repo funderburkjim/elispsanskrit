@@ -1,0 +1,25 @@
+MODULE aorist calls MODULES  causal, construct, endings, gram1, gram2-future, gram2-liT, gram2, itrans, sandhi, start0
+MODULE causal calls MODULES  aorist, endings, gram2, itrans, sandhi
+MODULE construct calls MODULES  Mbh, aorist, causal, endings, fileutil, gram1, gram2-future, gram2-liT, gram2, gram3, itrans, kta, sandhi, start0
+MODULE dictionary12 calls MODULES  itrans, start0
+MODULE endings calls MODULES  gram1, gram2, itrans, sandhi, start0
+MODULE explain calls MODULES  construct, endings, fileutil, gram1, gram2-liT, gram2, gram3, itrans, sandhi, start0
+MODULE fileutil calls MODULES  endings, gram1, start0
+MODULE forms calls MODULES  construct, fileutil, gram1, gram2-liT, gram2, itrans, start0
+MODULE gram1 calls MODULES  itrans, start0
+MODULE gram2-future calls MODULES  causal, construct, endings, gram1, gram2-liT, gram2, itrans, sandhi, start0
+MODULE gram2-liT calls MODULES  construct, endings, gram1, gram2, gram3, itrans, sandhi, start0
+MODULE gram2 calls MODULES  causal, endings, gram1, gram2-future, gram2-liT, gram3, itrans, sandhi, start0
+MODULE gram3 calls MODULES  construct, endings, gram1, gram2-liT, gram2, itrans, sandhi, start0
+MODULE inits calls MODULES  construct, endings, explain, gram1, start0, sxmw
+MODULE irreg calls MODULES  endings, gram1, gram3, itrans
+MODULE itrans calls MODULES  start0
+MODULE kta calls MODULES  aorist, causal, construct, endings, gram1, gram2-future, gram2-liT, gram2, gram3, itrans, sandhi, start0, validation
+MODULE Mbh calls MODULES  construct, endings, explain, fileutil, itrans, start0
+MODULE numeral calls MODULES  endings, gram1, itrans, sandhi, start0
+MODULE sandhi calls MODULES  endings, explain, fileutil, gram1, gram2, itrans, start0
+MODULE start calls MODULES  inits, start0
+MODULE start0 calls MODULES  
+MODULE sxmw calls MODULES  Mbh, forms, gram2-liT, itrans, start0
+MODULE validation calls MODULES  aorist, causal, construct, endings, fileutil, gram1, gram2-future, gram2-liT, gram2, gram3, itrans, kta, start0
+MODULE vt01 calls MODULES  start0

@@ -1,0 +1,791 @@
+
+In Mbhu-validate1-help:
+Mbh.el:160:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In SL-tense-tran:
+Mbh.el:504:14:Warning: reference to free variable `all-tenses-SL-plist'
+
+In Mbhu-validate2-V-2:
+Mbh.el:539:20:Warning: reference to free variable `person-number-set'
+
+In Mbhu-validate2-S-2:
+Mbh.el:719:20:Warning: reference to free variable `case-number-set'
+
+In end of data:
+Mbh.el:893:1:Warning: the following functions are not known to be defined:
+    sangram-filename, read-buffer-fields, fol-msg, current-line, Sx1,
+    read-string-fields, SL-upasarga-forms, translate-SLP1-ITRANS,
+    construct-conjtab1a, solution, mapcar-LE, SL-construct-subanta1,
+    normalize-class-padas
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/Mbh.elc
+
+In conjugation-tab-aorist:
+aorist.el:1095:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In aorist3-shorten-vowel:
+aorist.el:4163:23:Warning: reference to free variable `vowel-set'
+
+In aorist3-lengthen-vowel:
+aorist.el:4197:23:Warning: reference to free variable `vowel-set'
+
+In end of data:
+aorist.el:4382:1:Warning: the following functions are not known to be defined:
+    ITRANS-parse-words-1, construct-seT-code1a, solution, word-parts,
+    consonant-P, vowel-P, construct-conjtab1a, join-arrays, vrddhi, augment-a,
+    conjugation-join, sym-without-space, append-if-new, gunate-final-vowel,
+    nasal-P, reduplicate, labial-P, semivowel-P, shortvowel-P, guna,
+    causal-base, sandhi-pair-skiprefs-set, first-cons, sandhi-pair,
+    sandhi-single, lengthen-vowel, de-aspirate, aspirate-first-cons, fol-msg,
+    sanget, samprasaaraNa-P, samprasaaraNa, dhaatu-a~Nga, kuTaadi-P,
+    class10-base, causal-603-P, kale-400-P, guttural-P, palatal-P, cerebral-P,
+    dental-P, flatten, dhaatu-a~Nga-10, vrddhi1
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/aorist.elc
+
+In end of data:
+causal.el:466:1:Warning: the following functions are not known to be defined:
+    ITRANS-parse-words-1, gunate-final-vowel, class10-base, solution,
+    kale-459-P, flatten
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/causal.elc
+
+In toplevel form:
+construct.el:304:1:Warning: !! The file uses old-style backquotes !!
+This functionality has been obsolete for more than 10 years already
+and will be removed soon.  See (elisp)Backquote in the manual.
+
+In construct-dhaatukosha:
+construct.el:368:7:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In construct-conjtabs:
+construct.el:687:7:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In construct-conjtab-base-lRiT:
+construct.el:867:32:Warning: reference to free variable `conjtab-endings'
+
+In construct-conjtab-base-aashiirli~N:
+construct.el:928:32:Warning: reference to free variable `conjtab-endings'
+
+In construct-conjtab-base-lRi~N:
+construct.el:988:32:Warning: reference to free variable `conjtab-endings'
+
+In construct-conjtab-base-lu~N:
+construct.el:1038:34:Warning: reference to free variable `conjtab-endings'
+
+In construct-causalconjtabs:
+construct.el:1262:7:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In construct-participles1-helper:
+construct.el:2511:5:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In declension-pres-part-P-alt:
+construct.el:2631:29:Warning: reference to free variable `PRESPART-endings'
+
+In declension-pres-part-A-alt:
+construct.el:2659:29:Warning: reference to free variable `PRESPART-endings'
+
+In pres-part-praatipadikas:
+construct.el:2958:4:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In construct-verb-one:
+construct.el:4169:3:Warning: reference to free variable
+    `construct-verb-one-data'
+
+In load-construct-all:
+construct.el:4276:3:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In construct-subanta:
+construct.el:4440:11:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In subanta-base:
+construct.el:5147:16:Warning: reference to free variable `gender-form-data-2'
+construct.el:5150:16:Warning: reference to free variable `gender-form-data-1'
+construct.el:5153:16:Warning: reference to free variable `gender-form-data-4'
+construct.el:5156:16:Warning: reference to free variable `gender-form-data-3'
+
+In construct-dcpforms:
+construct.el:5473:8:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In merge-dcpforms:
+construct.el:5569:18:Warning: `insert-file' used from Lisp code
+That command is designed for interactive use only
+
+In normalize-class-padas:
+construct.el:5661:8:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In SL-inf:
+construct.el:6063:4:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In old-construct-causalconjtabs:
+construct.el:6363:7:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+construct.el:6428:19:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In end of data:
+construct.el:6488:2:Warning: the following functions are not known to be
+    defined: flatten, append-if-new, ITRANS-parse-words-1, sym-without-space,
+    gen-word-list, sangram-filename, XsanAppendElt2, Xsanput2, sanAppendElt2,
+    fol-msg, sanput2, sanget2, sanput, read-colon-file-table, gather-fields,
+    sanAppendElt, sanget, ITRANS-lt-sym, join-arrays, translate-SLP1-ITRANS,
+    solution, plist-get2, sym-concat, periphrastic-liT-P, periphrastic-base,
+    conjugation-tab, conjugation-tab-liT-p, reduplicative-liT-P,
+    conjugation-tab-liT-r, conjugation-tab-aorist, conjugation-tab-lRiT,
+    conjugation-tab-lRi~N, conjugation-tab-luT, conjugation-tab-aashiirli~N,
+    class-a-base, class-b-base, vowel-P, aorist-causal-base, causal-base,
+    word-parts, consonant-P, benedictive-base, fol-ob-init,
+    init-transliteration, init-Sangram, init-sets, init-properties,
+    init-vowelstrength, init-semivowels, Sandhi-load-init, Subanta-initAll,
+    init-sup, init-vsup, irregs-init, Xsanget2, translate-ITRANS-SLP1,
+    construct-pppart1a, construct-ippart1a-tvaa, construct-ippart1a-ya,
+    construct-inf1a, construct-potpart1a, construct-futpart1a,
+    construct-futppart1a, conjugation-join, declension-join,
+    declension-pres-part, construct-ippart1a, nasal-P, labial-P,
+    liT-main-get-bitab, reduplicate-perfect, perfect-join1,
+    conjugation-join-sym, read-colon-line-fields, current-line, make-regexp,
+    mapcar-LE, Sandhi-init, Sandhi-unload, SL-tense-tran,
+    declension-perf-part-active
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/construct.elc
+
+In end of data:
+dictionary12.el:103:1:Warning: the following functions are not known to be
+    defined: fol-msg, word-list, ITRANS-parse-word-string
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/dictionary12.elc
+
+In construct-endings-all:
+endings.el:56:23:Warning: reference to free variable `ADJ-a-endings'
+endings.el:57:23:Warning: reference to free variable `ADJ-a-endings-nN'
+endings.el:94:11:Warning: reference to free variable `explain-subanta-endings'
+endings.el:118:11:Warning: reference to free variable `conjtab-endings'
+endings.el:121:28:Warning: reference to free variable `all-tenses-SL-plist'
+endings.el:149:3:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+endings.el:152:31:Warning: reference to free variable `PRESPART-endings'
+endings.el:161:28:Warning: reference to free variable `at-endings'
+
+In format-endings:
+endings.el:267:43:Warning: reference to free variable `case-number-set'
+endings.el:268:44:Warning: reference to free variable `person-number-set'
+endings.el:284:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In init-ending-consonants:
+endings.el:357:8:Warning: assignment to free variable
+    `ending-consonants-1cons'
+
+In init-vsup-list:
+endings.el:417:8:Warning: assignment to free variable `vsup-list'
+
+In init-vsup:
+endings.el:440:13:Warning: reference to free variable `vsup-list'
+
+In init-gender-form-data:
+endings.el:469:8:Warning: assignment to free variable `declension-cons-forms'
+endings.el:476:8:Warning: assignment to free variable `gender-form-data-0'
+endings.el:485:8:Warning: assignment to free variable `gender-form-data-1'
+endings.el:537:8:Warning: assignment to free variable `gender-form-data-2'
+endings.el:551:8:Warning: assignment to free variable `gender-form-data-3'
+endings.el:555:8:Warning: assignment to free variable `gender-form-data-4'
+endings.el:560:11:Warning: reference to free variable `gender-form-data-0'
+endings.el:560:31:Warning: reference to free variable `gender-form-data-1'
+endings.el:560:50:Warning: reference to free variable `gender-form-data-2'
+endings.el:561:11:Warning: reference to free variable `gender-form-data-3'
+endings.el:561:30:Warning: reference to free variable `gender-form-data-4'
+endings.el:559:8:Warning: assignment to free variable `gender-form-data-all'
+
+In init-sup-list:
+endings.el:568:8:Warning: assignment to free variable `sup-list'
+endings.el:571:13:Warning: reference to free variable `gender-form-data-all'
+endings.el:581:28:Warning: reference to free variable `sup-list'
+
+In init-sup:
+endings.el:591:13:Warning: reference to free variable `sup-list'
+
+In make-explain-subanta-endings:
+endings.el:1013:6:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In end of data:
+endings.el:2075:1:Warning: the following functions are not known to be
+    defined: sangram-filename, gen-word-list, fol-msg, plist-get2,
+    translate-ITRANS-SLP1, sym-without-space, ITRANS-parse-words-1, sanput,
+    sanget, modify-conj-endings-1, sandhi-single, sym-concat
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/endings.elc
+
+In compare-table-files:
+explain.el:179:9:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-file:
+explain.el:319:17:Warning: reference to free variable `fol-msg-buffer'
+explain.el:328:9:Warning: assignment to free variable `fol-msg-buffer'
+
+In explain-chap-unknowns:
+explain.el:373:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-chap-unknowns-all:
+explain.el:387:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-pr0:
+explain.el:456:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-pr1:
+explain.el:554:14:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-pr-keyval-modify1:
+explain.el:750:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+explain.el:760:17:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-cpd1:
+explain.el:953:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In update-form-ans:
+explain.el:1537:37:Warning: value returned from (member xtype (quote (VERB
+    PART))) is unused
+
+In explain-str-VERB:
+explain.el:1681:35:Warning: reference to free variable `conjtab-endings'
+explain.el:1728:31:Warning: reference to free variable `person-number-set'
+
+In explain-str-VERB-CAUSAL:
+explain.el:1841:35:Warning: reference to free variable `causal-endings'
+explain.el:1890:31:Warning: reference to free variable `person-number-set'
+
+In explain-str-PART1:
+explain.el:2088:31:Warning: reference to free variable `PRESPART-endings'
+explain.el:2091:31:Warning: reference to free variable `PASSPART-endings'
+explain.el:2094:31:Warning: reference to free variable `PPPART-endings'
+explain.el:2128:33:Warning: reference to free variable `RPPART-P-endings'
+explain.el:2140:29:Warning: reference to free variable `case-number-set'
+
+In explain-substring-subanta1:
+explain.el:2431:39:Warning: reference to free variable `case-number-set'
+
+In explain-ADJ-degree:
+explain.el:2548:39:Warning: reference to free variable `case-number-set'
+
+In upasarga-forms1:
+explain.el:2685:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In explain-PRON:
+explain.el:3058:34:Warning: reference to free variable `case-number-set'
+
+In explain-ADJ:
+explain.el:3150:33:Warning: reference to free variable `case-number-set'
+
+In inverse-vrddhis:
+explain.el:3332:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+explain.el:3347:4:Warning: reference to free variable `vowel-set'
+
+In Sx1:
+explain.el:3749:44:Warning: reference to free variable `case-number-set'
+explain.el:3759:44:Warning: reference to free variable `person-number-set'
+
+In Sx1-tabmatch:
+explain.el:3803:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+explain.el:3811:42:Warning: reference to free variable `case-number-set'
+explain.el:3815:42:Warning: reference to free variable `person-number-set'
+
+In end of data:
+explain.el:3967:1:Warning: the following functions are not known to be
+    defined: fol-msg, read-colon-file-table, flatten, sangram-filename,
+    solution, append-if-new, sandhi-separate3-str, plist-AppendElt,
+    sandhi-separate, ITRANS-parse-words-1, word-parts, sym-without-space,
+    Xsangetall, sym-dcpu, dcpu-sym, sanget2, getdhaatu, plist-get2, nN-P,
+    join-arrays, sym-concat, get-ADJ-a-endings, get-explain-subanta-endings,
+    declension-join, construct-subanta1, disjoint-P, sandhi-n-N,
+    translate-SLP1-ITRANS, translate-ITRANS-SLP1, vowel-P, sangetall, sanget,
+    sym-ends-with, sym-begins-with, declension-citation,
+    declension-perperf-part, declension-pron, declension-adj, conjugation-tab,
+    sandhi-single
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/explain.elc
+
+In write-table-file:
+fileutil.el:12:17:Warning: reference to free variable `fol-msg-buffer'
+fileutil.el:42:9:Warning: assignment to free variable `fol-msg-buffer'
+
+In end of data:
+fileutil.el:503:1:Warning: the following functions are not known to be
+    defined: sangram-filename, fol-msg, san-validation-filename, solution,
+    sanput2, sanAppendElt, fol-filename, current-line
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/fileutil.elc
+
+In v-file-init3-pre:
+forms.el:763:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-pre-p:
+forms.el:837:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-fut:
+forms.el:928:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-prespart:
+forms.el:1023:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-ppfactn:
+forms.el:1135:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-inf:
+forms.el:1210:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-abs:
+forms.el:1278:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-prf:
+forms.el:1353:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-ppp:
+forms.el:1430:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-pap:
+forms.el:1518:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-gerundive:
+forms.el:1593:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init-aor1:
+forms.el:1697:9:Warning: assignment to free variable `join-array-method'
+
+In v-file-init3-helpera:
+forms.el:1830:30:Warning: value returned from (buffer-substring 1 5) is unused
+
+In work-praps:
+forms.el:2870:6:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In vc-file-init3-prefut:
+forms.el:3148:9:Warning: assignment to free variable `join-array-method'
+
+In old-v-file-ptrs:
+forms.el:3496:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In end of data:
+forms.el:4267:1:Warning: the following functions are not known to be defined:
+    fol-msg, sangram-filename, plist-AppendElt, word-list, current-line,
+    SL-conjtab, SL-prespart-declension, SL-ppfactn, flatten, SL-inf, SL-abs,
+    translate-SLP1-ITRANS, reduplicative-liT-P, SL-ppp, SL-ppp-declension,
+    sym-concat, SL-pap-declension, SL-gerundive, SL-gerundive-declension,
+    non-system-files, gen-word-list, mapcar-LE, reg-word-list, string-trim,
+    SL-construct-subanta1, convert-subanta-lexinfo, maximal-prefix-helper,
+    sangram-buffer, append-if-new
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/forms.elc
+
+In init-sets:
+gram1.el:85:9:Warning: assignment to free variable `Sangram-types'
+
+In end of data:
+gram1.el:569:1:Warning: the following functions are not known to be defined:
+    ITRANS-parse-words-1, ITRANS-parse-words-3, ITRANS-parse-words-2,
+    sangram-filename, fol-read, fol-msg
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/gram1.elc
+
+In end of data:
+gram2-future.el:1944:1:Warning: the following functions are not known to be
+    defined: ITRANS-parse-words-1, word-parts, construct-seT-code1a, solution,
+    sym-without-space, vowel-P, vrddhi, causal-base, join-arrays, fol-msg,
+    sanget, append-if-new, conjugation-join, sandhi-pair-skiprefs-set,
+    consonant-P, semivowel-P, de-aspirate, sandhi-pair, sandhi-single,
+    aspirate, vrddhi1, gunate-final-vowel, labial-P, class-a-base, kuTaadi-P
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/gram2-future.elc
+
+In reduplicative-pfx-perfect:
+gram2-liT.el:1551:39:Warning: reference to free variable `guttural-set'
+gram2-liT.el:1551:52:Warning: reference to free variable `palatal-set'
+
+In end of data:
+gram2-liT.el:2021:1:Warning: the following functions are not known to be
+    defined: ITRANS-parse-words-1, sym-without-space,
+    construct-seTPERF-code1a, append-if-new, solution, sanget, word-parts,
+    gunate-final-vowel, vowel-P, shortsimplevowel-P, conjugation-join,
+    sandhi-pair-skiprefs-set, consonant-P, semivowel-P, sandhi-pair,
+    sandhi-single, reduplicate-join, sibilant-P, hard-P, de-aspirate,
+    guttural-P, corresponding-letter, shorten-vowel, reduplicative-pfx,
+    conjugation-join-sym, flatten, causal-bases-gentense,
+    construct-conjbase1a, reduplicate, vrddhi, guna, declension-join,
+    class-a-base
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/gram2-liT.elc
+
+In conjugation-tab-pr:
+gram2.el:766:3:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In conjugation-tab-upa-pr:
+gram2.el:776:3:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In end of data:
+gram2.el:2976:1:Warning: the following functions are not known to be defined:
+    consonant-P, vowel-P, ITRANS-parse-words-1, fol-msg, guna,
+    shortsimplevowel-P, sandhi-internal-diphthong-A, vrddhi, modify-Eng-def,
+    nasal-P, shorten-vowel, longvowel-P, labial-P, lengthen-vowel,
+    citation-pr, conjugation-tab-liT, conjugation-tab-luT,
+    conjugation-tab-lRiT, conj-endings, conj-strengths, flatten, de-aspirate,
+    aspirate, semivowel-P, sandhi-legalise-final-cons, append-if-new,
+    solution, soft-P, dental-P, reduplicative-pfx, gunate-final-vowel,
+    sandhi-n-N, guttural-P, palatal-P, cerebral-P, sandhi-pair-skiprefs-set,
+    sandhi-pair, sandhi-single, sanget2
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/gram2.elc
+
+In declension-citation1:
+gram3.el:25:17:Warning: reference to free variable `declension-cons-forms'
+
+In declension-citation:
+gram3.el:139:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In declension-adj:
+gram3.el:2542:21:Warning: reference to free variable `declension-cons-forms'
+
+In old-declension-general-1cons:
+gram3.el:2955:9:Warning: `format' called with 4 args to fill 5 format field(s)
+
+In end of data:
+gram3.el:3387:7:Warning: the following functions are not known to be defined:
+    fol-msg, solution, construct-subanta1, sanget2, append-if-new, sup-get,
+    ITRANS-parse-words-1, sym-without-space, make-regexp, vowel-P,
+    lengthen-vowel, sandhi-pair, consonant-P, subanta-base, sym-delete-last,
+    word-parts, sandhi-pair-skiprefs-set, sandhi-n-N-ifirst-set,
+    sandhi-single, sym-concat, listify, pres-part-praatipadikas, join-arrays,
+    sanget, sanput
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/gram3.elc
+
+In end of data:
+inits.el:148:1:Warning: the following functions are not known to be defined:
+    fol-msg, construct-init, MW-init, init-gender-form-data,
+    init-explain-forms, sangetall, Xsangetall, init-Sangram, sangram-filename
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/inits.elc
+
+In end of data:
+irreg.el:1331:1:Warning: the following functions are not known to be defined:
+    sanput2, declension-general, declension-general-1cons, sup-get, vowel-P,
+    ITRANS-parse-words-1, sym-without-space, solution,
+    declension-general-cons, declension-general-mat, declension-general-an,
+    conjugation-tab-2
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/irreg.elc
+
+In SLP1-init:
+itrans.el:329:8:Warning: assignment to free variable `SLP1-alphabet'
+
+In ITRANS-init:
+itrans.el:348:8:Warning: assignment to free variable `ITRANS-alphabet'
+
+In ITRANS-lt-tok:
+itrans.el:663:20:Warning: reference to free variable `ITRANS-ordering'
+
+In ITRANS-lt-char:
+itrans.el:668:21:Warning: reference to free variable `ITRANS-ordering'
+
+In old-ITRANS-lt-char:
+itrans.el:674:24:Warning: reference to free variable `ITRANS-ordering'
+
+In SLP1-parse-word-string:
+itrans.el:739:27:Warning: reference to free variable `SLP1_PARSE'
+
+In AS-init:
+itrans.el:1315:8:Warning: assignment to free variable `AS-alphabet'
+
+In AS-SLP1-parsers-init:
+itrans.el:1395:53:Warning: reference to free variable `AS-alphabet'
+
+In end of data:
+itrans.el:1485:1:Warning: the following functions are not known to be defined:
+    sym-without-space, current-line, fol-msg
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/itrans.elc
+
+In construct-ippart1a-tvaa:
+kta.el:1130:7:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In construct-ippart1a-ya:
+kta.el:1328:7:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+kta.el:1420:55:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In end of data:
+kta.el:2192:1:Warning: the following functions are not known to be defined:
+    ITRANS-parse-words-1, construct-conjbase1a, solution,
+    causal-conjtab1a-bases, samprasaaraNa-P, samprasaaraNa, kale-584-P,
+    labial-P, lengthen-vowel, kale-414-P, consonant-P, semivowel-P,
+    sym-without-space, construct-seT-code1a, vowel-P, conjugation-join,
+    sandhi-pair-skiprefs-set, declension-join, aorist-join1-t-th,
+    class10-base, gunate-final-vowel, kale-463-P, append-if-new, dhaatu-parts,
+    class-a-base, shortvowel-P, causal-base, nasal-P, kale-394, kale-395,
+    construct-conjtab1a, fol-msg, seT, flatten
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/kta.elc
+
+In san-numeral:
+numeral.el:84:19:Warning: reference to free variable `cardinal-pfx'
+numeral.el:119:22:Warning: reference to free variable
+    `card-multiples-of-10-2-10'
+numeral.el:128:22:Warning: reference to free variable
+    `ord-multiples-of-10-2-10'
+numeral.el:129:42:Warning: reference to free variable `cardinal-pfx-1-less'
+
+In san-numeral-1-19:
+numeral.el:146:20:Warning: reference to free variable `cardinals-1-19'
+numeral.el:147:20:Warning: reference to free variable `ordinals-1-19'
+
+In answers-for-19-99:
+numeral.el:279:4:Warning: reference to free variable `='
+
+In end of data:
+numeral.el:361:1:Warning: the following functions are not known to be defined:
+    fol-msg, append-if-new, flatten, ITRANS-parse-words-1, sym-without-space,
+    solution, sandhi-pair, sandhi-single
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/numeral.elc
+
+In lengthen-vowel:
+sandhi.el:57:11:Warning: reference to free variable `shortsimplevowel-set'
+sandhi.el:58:11:Warning: reference to free variable `longsimplevowel-set'
+
+In shorten-vowel:
+sandhi.el:85:11:Warning: reference to free variable `shortsimplevowel-set'
+sandhi.el:86:11:Warning: reference to free variable `longsimplevowel-set'
+
+In aspirate:
+sandhi.el:214:19:Warning: reference to free variable `softnonaspirate-set'
+sandhi.el:214:50:Warning: reference to free variable `hardnonaspirate-set'
+
+In reduplicative-pfx:
+sandhi.el:299:39:Warning: reference to free variable `guttural-set'
+sandhi.el:299:52:Warning: reference to free variable `palatal-set'
+
+In sandhi-init-19:
+sandhi.el:652:12:Warning: reference to free variable `simplevowel-set'
+
+In sandhi-init-20:
+sandhi.el:715:12:Warning: reference to free variable `simplevowel-set'
+
+In sandhi-init-21:
+sandhi.el:746:12:Warning: reference to free variable `diphthong-set'
+
+In sandhi-init-22:
+sandhi.el:776:12:Warning: reference to free variable `simplevowel-set'
+sandhi.el:777:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-init-23:
+sandhi.el:809:12:Warning: reference to free variable `simplevowel-set'
+sandhi.el:810:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-init-24:
+sandhi.el:842:12:Warning: reference to free variable `diphthong-set'
+sandhi.el:843:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-init-24a:
+sandhi.el:893:12:Warning: reference to free variable `diphthong-set'
+sandhi.el:894:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-init-36:
+sandhi.el:961:12:Warning: reference to free variable `consonant-set'
+
+In sandhi-init-36a:
+sandhi.el:999:12:Warning: reference to free variable `consonant-set'
+
+In sandhi-visarga-init-1:
+sandhi.el:1063:20:Warning: reference to free variable `vowel-set'
+sandhi.el:1063:30:Warning: reference to free variable `consonant-set'
+
+In sandhi-visarga-init-2:
+sandhi.el:1142:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-final-r-init-1:
+sandhi.el:1190:20:Warning: reference to free variable `vowel-set'
+sandhi.el:1190:30:Warning: reference to free variable `consonant-set'
+
+In sandhi-final-m-init:
+sandhi.el:1252:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-s-Sh-init:
+sandhi.el:1285:20:Warning: reference to free variable `vowel-set'
+
+In sandhi-cons72-4-init:
+sandhi.el:1334:12:Warning: reference to free variable `hard-set'
+sandhi.el:1335:20:Warning: reference to free variable `soft-set'
+sandhi.el:1335:29:Warning: reference to free variable `vowel-set'
+
+In sandhi-cons72-6-init:
+sandhi.el:1394:12:Warning: reference to free variable `soft-set'
+sandhi.el:1395:12:Warning: reference to free variable `hard-set'
+sandhi.el:1428:28:Warning: reference to free variable `softaspirate-set'
+sandhi.el:1429:24:Warning: reference to free variable `softnonaspirate-set'
+
+In sandhi-cons87-1-init:
+sandhi.el:1460:12:Warning: reference to free variable `shortsimplevowel-set'
+sandhi.el:1461:12:Warning: reference to free variable `vowel-set'
+
+In sandhi-Kale30-init:
+sandhi.el:1875:12:Warning: reference to free variable `nasal-set'
+
+In sandhi-pair:
+sandhi.el:2100:32:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In sandhi-separate2:
+sandhi.el:2491:11:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In sandhi-separate3-str:
+sandhi.el:2601:10:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+sandhi.el:2606:32:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In end of data:
+sandhi.el:2702:1:Warning: the following functions are not known to be defined:
+    simplevowel-P, sanget, sym-without-space, ITRANS-parse-words-1,
+    word-parts, sibilant-P, hard-P, guttural-P, fol-msg, solution,
+    sanAppendElt, sanput, sangetall, write-table-file, sangram-filename,
+    nasal-P, semivowel-P, vowel-P, soft-P, softaspirate-P, labial-P,
+    consonant-P, palatal-P, cerebral-P, dental-P, append-if-new,
+    praatar-modify, word-list, flatten, shortsimplevowel-P
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/sandhi.elc
+
+In end of data:
+start.el:231:1:Warning: the following functions are not known to be defined:
+    sangram-filename, fol-filename, fol-msg, my-load-library, init-sanskrit1
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/start.elc
+
+In fol-msg:
+start0.el:10:23:Warning: reference to free variable `fol-msg-buffer'
+
+In fol-filename:
+start0.el:56:41:Warning: reference to free variable `fol-default-directory'
+
+In fol-ob-init:
+start0.el:67:9:Warning: assignment to free variable `fol-ob'
+
+In fol-read:
+start0.el:79:18:Warning: reference to free variable `fol-ob'
+start0.el:89:15:Warning: assignment to free variable `fol-read-err'
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/start0.elc
+
+In mw-helper:
+sxmw.el:90:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In mw-tag-AB:
+sxmw.el:160:72:Warning: reference to free variable `MW-dir'
+
+In Sx2-forms-helper:
+sxmw.el:340:43:Warning: reference to free variable `case-number-set'
+sxmw.el:344:43:Warning: reference to free variable `person-number-set'
+
+In Sx2-tabmatch:
+sxmw.el:416:5:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+sxmw.el:424:42:Warning: reference to free variable `case-number-set'
+sxmw.el:428:42:Warning: reference to free variable `person-number-set'
+
+In sxmw:
+sxmw.el:587:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+sxmw.el:619:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In sxmw-Mbh-verse:
+sxmw.el:677:4:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+sxmw.el:677:17:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In MW-init:
+sxmw.el:694:8:Warning: assignment to free variable `MW-dir'
+sxmw.el:695:8:Warning: assignment to free variable `MW-mwindx'
+sxmw.el:696:8:Warning: assignment to free variable `MW-mwtot2'
+sxmw.el:697:8:Warning: assignment to free variable `SL-mwtot2'
+sxmw.el:698:8:Warning: assignment to free variable `SL-mwtot3'
+sxmw.el:699:8:Warning: assignment to free variable `SL-mwindx'
+
+In MW-orig-init:
+sxmw.el:704:8:Warning: assignment to free variable `MW-orig-mwindx'
+sxmw.el:705:8:Warning: assignment to free variable `MW-orig-mwtot2'
+
+In MW-key-find:
+sxmw.el:728:19:Warning: `goto-line' used from Lisp code
+That command is designed for interactive use only
+
+In MW-buffer:
+sxmw.el:743:40:Warning: reference to free variable `SL-mwtot3'
+sxmw.el:743:50:Warning: reference to free variable `MW-dir'
+
+In MW-keys-buffer:
+sxmw.el:748:61:Warning: reference to free variable `MW-dir'
+
+In end of data:
+sxmw.el:898:1:Warning: the following functions are not known to be defined:
+    current-line, sangram-filename, fol-msg, gen-word-list,
+    parse-string-to-array, join-arrays, sym-without-space, word-list,
+    Mbh-verse
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/sxmw.elc
+
+In 1cons-chk-pr-all:
+validation.el:76:3:Warning: `mapcar' called for effect; use `mapc' or `dolist'
+    instead
+
+In SL-dtab-extract2:
+validation.el:681:26:Warning: `replace-string' used from Lisp code
+That command is designed for interactive use only
+
+In SL-construct-subanta1a:
+validation.el:821:14:Warning: `replace-string' used from Lisp code
+That command is designed for interactive use only
+
+In SL-extract-compare-dtabs-dtabs1:
+validation.el:1439:4:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In SL-dtab-print:
+validation.el:1487:3:Warning: `mapcar' called for effect; use `mapc' or
+    `dolist' instead
+
+In end of data:
+validation.el:1498:1:Warning: the following functions are not known to be
+    defined: read-colon-file-validation, fol-msg, solution,
+    declension-citation, conjugation-tab-liT-r, sanget2, sym-dcpu,
+    append-if-new, conjugation-tab-liT-p, conjugation-tab-luT,
+    conjugation-tab-lRiT, conjugation-tab-lRi~N, conjugation-tab-aashiirli~N,
+    conjugation-tab-aorist, causal-base, aorist-varieties, sangram-filename,
+    construct-conjpassbase1a, construct-pppart1a, construct-ippart1a-tvaa,
+    construct-ippart1a-ya, construct-seT-code1a, construct-inf1a,
+    construct-potpart1a-tavya, construct-potpart1a-aniiya,
+    construct-potpart1a-yat, construct-potpart1a-kyap,
+    construct-potpart1a-Nyat, construct-rppart1b, construct-perppart1a,
+    construct-futpart1a, construct-futppart1a, sym-concat,
+    construct-conjtab1a, construct-prespart1a-alt, construct-subanta1,
+    mapcar-LE, translate-SLP1-ITRANS, construct-subanta1a,
+    translate-ITRANS-SLP1, ITRANS-parse-words-1, sym-without-space,
+    declension-pres-part-P, san-validation-filename, read-colon-file,
+    read-colon-buffer
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/validation.elc
+
+In toplevel form:
+vt01.el:48:1:Warning: !! The file uses old-style backquotes !!
+This functionality has been obsolete for more than 10 years already
+and will be removed soon.  See (elisp)Backquote in the manual.
+
+In end of data:
+vt01.el:264:1:Warning: the following functions are not known to be defined:
+    fol-filename, fol-msg, sym-with-space
+Wrote c:/ejf/pdfs/TM2013/0research/elispsanskrit/grammar/lisp/vt01.elc

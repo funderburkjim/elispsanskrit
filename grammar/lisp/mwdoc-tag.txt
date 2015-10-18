@@ -1,0 +1,30 @@
+The following shows all tags present in SL-mwtot3.txt as of
+  05-11-2006.
+(regexp-distrib (SLtot3-buffer) "<[A-Za-z0-9]+")
+ncount = 854305
+'<S'  317395
+'<LEX'  185760
+'<MWL'  166437
+'<AB'  107791
+'<BOT'  7636
+'<V'  7443
+'<LXA'  7440
+'<KEY'  7204
+'<LXI'  6641
+'<PFX'  6486
+'<C'  5455
+'<ELX'  5053
+'<ERR'  4909
+'<DER'  4604
+'<MWBA'  3971
+'<Q'  3319
+'<LXB'  2707
+'<LEXNOTE'  1086
+'<SKIP'  1053
+'<M'  730
+'<MWB'  489
+'<F'  332
+'<OLDKEY'  231
+'<GRAM'  89
+'<BIO'  41
+'<NOTE'  3

@@ -1,0 +1,352 @@
+sanload...
+init-sanskrit1...
+init-sanskrit1 begins...Fri Oct 16 22:36:05 2015
+BEGIN construct-init...
+fol-ob-init
+init-transliteration
+init-Sangram
+init-sets
+init-properties
+init-vowelstrength
+init-semivowels
+Sandhi-load-init
+Sandhi 6378
+Sandhi-Inverse-join 4552
+Sandhi-Inverse-nojoin 1474
+Sandhi-Inverse 5060
+Sandhi-Length 98
+Subanta-initAll
+init-sup
+init-vsup
+irregs-init
+END construct-init
+init-sanskrit1 ends...Fri Oct 16 22:36:06 2015
+Warning SrI adj SrI: (adj ii) m
+Warning SrI adj SrI: (adj ii) f
+Warning SrI adj SrI: (adj ii) n
+error@line: SrI : S adj : <MW=SrI,280471,1>
+Warning SrI adj SrI: (adj ii) m
+Warning SrI adj SrI: (adj ii) f
+Warning SrI adj SrI: (adj ii) n
+error@line: SrI : S adj : <MW=SrI,280475,3>
+Warning SrOzwI adj SrOzwI: (adj ii) m
+Warning SrOzwI adj SrOzwI: (adj ii) f
+Warning SrOzwI adj SrOzwI: (adj ii) n
+error@line: SrOzwI : S adj : <MW=SrOzwI,281855,1>
+Warning SlokaBU adj Sloka-BU: (adj uu) m
+Warning SlokaBU adj Sloka-BU: (adj uu) f
+Warning SlokaBU adj Sloka-BU: (adj uu) n
+error@line: SlokaBU : S adj : <MW=Sloka-BU,282155,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'Svetavah : S adj : <MW=Sveta-vah,282953,1>'
+declension-general-1cons: unexpected : kapaTam N
+Warning sakapawam adj sa-kapawam: (noun 1cons) n
+declension-general-1cons: unexpected : kapaTam F
+Warning sakapawam adj sa-kapawam: (noun 1cons) f
+declension-general-1cons: unexpected : kapaTam M
+Warning sakapawam adj sa-kapawam: (noun 1cons) m
+error@line: sakapawam : S adj : <MW=sa-kapawam,286117,1>
+Warning sakftsU adj sa-kft-sU: (adj uu) m
+Warning sakftsU adj sa-kft-sU: (adj uu) f
+Warning sakftsU adj sa-kft-sU: (adj uu) n
+error@line: sakftsU : S adj : <MW=sa-kft-sU,286391,1>
+Warning sacABU adj sacA-BU: (adj uu) m
+Warning sacABU adj sacA-BU: (adj uu) f
+Warning sacABU adj sacA-BU: (adj uu) n
+error@line: sacABU : S adj : <MW=sacA-BU,287513,2>
+Warning saktuSrI adj saktu-SrI: (adj ii) m
+Warning saktuSrI adj saktu-SrI: (adj ii) f
+Warning saktuSrI adj saktu-SrI: (adj ii) n
+error@line: saktuSrI : S adj : <MW=saktu-SrI,287959,1>
+Warning satyaprASU adj satya-prASU: (adj uu) m
+Warning satyaprASU adj satya-prASU: (adj uu) f
+Warning satyaprASU adj satya-prASU: (adj uu) n
+error@line: satyaprASU : S adj : <MW=satya-prASU,288715,1>
+Warning sadDI adj sad-DI: (adj ii) m
+Warning sadDI adj sad-DI: (adj ii) f
+Warning sadDI adj sad-DI: (adj ii) n
+error@line: sadDI : S adj : <MW=sad-DI,289101,1>
+Warning sannaDI adj sanna-DI: (adj ii) m
+Warning sannaDI adj sanna-DI: (adj ii) f
+Warning sannaDI adj sanna-DI: (adj ii) n
+error@line: sannaDI : S adj : <MW=sanna-DI,289587,1>
+Warning sadyaskrI adj sa-dyas-krI: (adj ii) m
+Warning sadyaskrI adj sa-dyas-krI: (adj ii) f
+Warning sadyaskrI adj sa-dyas-krI: (adj ii) n
+error@line: sadyaskrI : S adj : <MW=sa-dyas-krI,289909,1>
+Warning sadyaHkrI adj sadyaH-krI: (adj ii) m
+Warning sadyaHkrI adj sadyaH-krI: (adj ii) f
+Warning sadyaHkrI adj sadyaH-krI: (adj ii) n
+error@line: sadyaHkrI : S adj : <MW=sadyaH-krI,289935,1>
+Warning sadyojU adj sadyo-jU: (adj uu) m
+Warning sadyojU adj sadyo-jU: (adj uu) f
+Warning sadyojU adj sadyo-jU: (adj uu) n
+error@line: sadyojU : S adj : <MW=sadyo-jU,289993,1>
+Warning saDI adj sa-DI: (adj ii) m
+Warning saDI adj sa-DI: (adj ii) f
+Warning saDI adj sa-DI: (adj ii) n
+error@line: saDI : S adj : <MW=sa-DI,290081,1>
+Warning sanAjU adj sanA-jU: (adj uu) m
+Warning sanAjU adj sanA-jU: (adj uu) f
+Warning sanAjU adj sanA-jU: (adj uu) n
+error@line: sanAjU : S adj : <MW=sanA-jU,290207,1>
+Warning sapatnI adj sa-patnI: (adj ii) m
+Warning sapatnI adj sa-patnI: (adj ii) f
+Warning sapatnI adj sa-patnI: (adj ii) n
+error@line: sapatnI : S adj : <MW=sa-patnI,291731,1>
+Warning samAvajjAmI adj samAvaj-jAmI: (adj ii) m
+Warning samAvajjAmI adj samAvaj-jAmI: (adj ii) f
+Warning samAvajjAmI adj samAvaj-jAmI: (adj ii) n
+error@line: samAvajjAmI : S adj : <MW=samAvaj-jAmI,292945,1>
+Warning samagraRI adj sam-agra-RI: (adj ii) m
+Warning samagraRI adj sam-agra-RI: (adj ii) f
+Warning samagraRI adj sam-agra-RI: (adj ii) n
+error@line: samagraRI : S adj : <MW=sam-agra-RI,293005,1>
+declension-general-1cons: unexpected : ruuptn N
+Warning sarUptn adj sa-rUptn: (noun 1cons) n
+declension-general-1cons: unexpected : ruuptn F
+Warning sarUptn adj sa-rUptn: (noun 1cons) f
+declension-general-1cons: unexpected : ruuptn M
+Warning sarUptn adj sa-rUptn: (noun 1cons) m
+error@line: sarUptn : S adj : <MW=sa-rUptn,298427,1>
+Warning sarvatanU adj sarva-tanU: (adj uu) m
+Warning sarvatanU adj sarva-tanU: (adj uu) f
+Warning sarvatanU adj sarva-tanU: (adj uu) n
+error@line: sarvatanU : S adj : <MW=sarva-tanU,299071,1>
+Warning sarvARuBU adj sarvARuBU: (adj uu) m
+Warning sarvARuBU adj sarvARuBU: (adj uu) f
+Warning sarvARuBU adj sarvARuBU: (adj uu) n
+error@line: sarvARuBU : S adj : <MW=sarvARuBU,299935,1>
+Warning saSrI adj sa-SrI: (adj ii) m
+Warning saSrI adj sa-SrI: (adj ii) f
+Warning saSrI adj sa-SrI: (adj ii) n
+error@line: saSrI : S adj : <MW=sa-SrI,300945,1>
+declension-general-1cons: unexpected : saavarn N
+Warning sasAvarn adj sa-sAvarn: (noun 1cons) n
+declension-general-1cons: unexpected : saavarn F
+Warning sasAvarn adj sa-sAvarn: (noun 1cons) f
+declension-general-1cons: unexpected : saavarn M
+Warning sasAvarn adj sa-sAvarn: (noun 1cons) m
+error@line: sasAvarn : S adj : <MW=sa-sAvarn,301071,1>
+Warning sahanO adj saha-nO: (adj au) m
+Warning sahanO adj saha-nO: (adj au) f
+Warning sahanO adj saha-nO: (adj au) n
+error@line: sahanO : S adj : <MW=saha-nO,301529,1>
+Warning sahaBU adj saha-BU: (adj uu) m
+Warning sahaBU adj saha-BU: (adj uu) f
+Warning sahaBU adj saha-BU: (adj uu) n
+error@line: sahaBU : S adj : <MW=saha-BU,301593,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'sahavah : S adj : <MW=saha-vah,301669,1>'
+Warning sahasraDI adj sahasra-DI: (adj ii) m
+Warning sahasraDI adj sahasra-DI: (adj ii) f
+Warning sahasraDI adj sahasra-DI: (adj ii) n
+error@line: sahasraDI : S adj : <MW=sahasra-DI,302089,1>
+Warning sADuDI adj sADu-DI: (adj ii) m
+Warning sADuDI adj sADu-DI: (adj ii) f
+Warning sADuDI adj sADu-DI: (adj ii) n
+error@line: sADuDI : S adj : <MW=sADu-DI,303569,2>
+declension-general-1cons: unexpected : saavahelam N
+Warning sAvahelam adj sAvahelam: (noun 1cons) n
+declension-general-1cons: unexpected : saavahelam F
+Warning sAvahelam adj sAvahelam: (noun 1cons) f
+declension-general-1cons: unexpected : saavahelam M
+Warning sAvahelam adj sAvahelam: (noun 1cons) m
+error@line: sAvahelam : S adj : <MW=sAvahelam,305933,1>
+Warning sAsusU adj sAsusU: (adj uu) m
+Warning sAsusU adj sAsusU: (adj uu) f
+Warning sAsusU adj sAsusU: (adj uu) n
+error@line: sAsusU : S adj : <MW=sAsusU,306091,1>
+Warning suKaBU adj suKa-BU: (adj uu) m
+Warning suKaBU adj suKa-BU: (adj uu) f
+Warning suKaBU adj suKa-BU: (adj uu) n
+error@line: suKaBU : S adj : <MW=suKa-BU,308775,1>
+Warning suKI adj suKI: (adj ii) m
+Warning suKI adj suKI: (adj ii) f
+Warning suKI adj suKI: (adj ii) n
+error@line: suKI : S adj : <MW=suKI,309125,1>
+declension-general-1cons: unexpected : gaN N
+Warning sugaR adj su-gaR: (noun 1cons) n
+declension-general-1cons: unexpected : gaN F
+Warning sugaR adj su-gaR: (noun 1cons) f
+declension-general-1cons: unexpected : gaN M
+Warning sugaR adj su-gaR: (noun 1cons) m
+error@line: sugaR : S adj : <MW=su-gaR,309147,1>
+Warning sunO adj su-nO: (adj au) m
+Warning sunO adj su-nO: (adj au) f
+Warning sunO adj su-nO: (adj au) n
+error@line: sunO : S adj : <MW=su-nO,310321,2>
+Warning supU adj su-pU: (adj uu) m
+Warning supU adj su-pU: (adj uu) f
+Warning supU adj su-pU: (adj uu) n
+error@line: supU : S adj : <MW=su-pU,310679,1>
+Warning suprAvI adj su-prAvI: (adj ii) m
+Warning suprAvI adj su-prAvI: (adj ii) f
+Warning suprAvI adj su-prAvI: (adj ii) n
+error@line: suprAvI : S adj : <MW=su-prAvI,310959,1>
+Warning suBU adj su-BU: (adj uu) m
+Warning suBU adj su-BU: (adj uu) f
+Warning suBU adj su-BU: (adj uu) n
+error@line: suBU : S adj : <MW=su-BU,311133,1>
+Warning suBrU adj su-BrU: (adj uu) m
+Warning suBrU adj su-BrU: (adj uu) f
+Warning suBrU adj su-BrU: (adj uu) n
+error@line: suBrU : S adj : <MW=su-BrU,311181,2>
+Warning sumnahU adj sumna-hU: (adj uu) m
+Warning sumnahU adj sumna-hU: (adj uu) f
+Warning sumnahU adj sumna-hU: (adj uu) n
+error@line: sumnahU : S adj : <MW=sumna-hU,311505,1>
+Warning surE adj su-rE: (adj ai) m
+Warning surE adj su-rE: (adj ai) f
+Warning surE adj su-rE: (adj ai) n
+error@line: surE : S adj : <MW=su-rE,311681,1>
+Warning sulU adj su-lU: (adj uu) m
+Warning sulU adj su-lU: (adj uu) f
+Warning sulU adj su-lU: (adj uu) n
+error@line: sulU : S adj : <MW=su-lU,311741,1>
+error((args-out-of-range [v a s] 0 -1))
+error in file-init @ line= 'suvas : S adj : <MW=su-vas,311841,1>'
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'suvah : S adj : <MW=su-vah,311857,1>'
+Warning surASU adj surA-SU: (adj uu) m
+Warning surASU adj surA-SU: (adj uu) f
+Warning surASU adj surA-SU: (adj uu) n
+error@line: surASU : S adj : <MW=surA-SU,312735,1>
+Warning suSrI adj su-SrI: (adj ii) m
+Warning suSrI adj su-SrI: (adj ii) f
+Warning suSrI adj su-SrI: (adj ii) n
+error@line: suSrI : S adj : <MW=su-SrI,313243,1>
+Warning suzU adj su-zU: (adj uu) m
+Warning suzU adj su-zU: (adj uu) f
+Warning suzU adj su-zU: (adj uu) n
+error@line: suzU : S adj : <MW=su-zU,313349,1>
+Warning suzU adj su-zU: (adj uu) m
+Warning suzU adj su-zU: (adj uu) f
+Warning suzU adj su-zU: (adj uu) n
+error@line: suzU : S adj : <MW=su-zU,313351,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'suzWuvah : S adj : <MW=suzWu-vah,313431,1>'
+Warning suhU adj su-hU: (adj uu) m
+Warning suhU adj su-hU: (adj uu) f
+Warning suhU adj su-hU: (adj uu) n
+error@line: suhU : S adj : <MW=su-hU,313889,1>
+Warning sU adj sU: (adj uu) m
+Warning sU adj sU: (adj uu) f
+Warning sU adj sU: (adj uu) n
+error@line: sU : S adj : <MW=sU,313977,1>
+Warning sUtramaDyaBU adj sUtra-maDya-BU: (adj uu) m
+Warning sUtramaDyaBU adj sUtra-maDya-BU: (adj uu) f
+Warning sUtramaDyaBU adj sUtra-maDya-BU: (adj uu) n
+error@line: sUtramaDyaBU : S adj : <MW=sUtra-maDya-BU,314577,1>
+Warning senAjU adj senA-jU: (adj uu) m
+Warning senAjU adj senA-jU: (adj uu) f
+Warning senAjU adj senA-jU: (adj uu) n
+error@line: senAjU : S adj : <MW=senA-jU,315785,1>
+Warning somaBU adj soma-BU: (adj uu) m
+Warning somaBU adj soma-BU: (adj uu) f
+Warning somaBU adj soma-BU: (adj uu) n
+error@line: somaBU : S adj : <MW=soma-BU,316767,1>
+Warning sorRaBrU adj sorRa-BrU: (adj uu) m
+Warning sorRaBrU adj sorRa-BrU: (adj uu) f
+Warning sorRaBrU adj sorRa-BrU: (adj uu) n
+error@line: sorRaBrU : S adj : <MW=sorRa-BrU,317183,1>
+Warning sOmyaSrI adj sOmya-SrI: (adj ii) m
+Warning sOmyaSrI adj sOmya-SrI: (adj ii) f
+Warning sOmyaSrI adj sOmya-SrI: (adj ii) n
+error@line: sOmyaSrI : S adj : <MW=sOmya-SrI,317859,1>
+Warning sTitaDI adj sTita-DI: (adj ii) m
+Warning sTitaDI adj sTita-DI: (adj ii) f
+Warning sTitaDI adj sTita-DI: (adj ii) n
+error@line: sTitaDI : S adj : <MW=sTita-DI,320381,1>
+Warning sTiraDI adj sTira-DI: (adj ii) m
+Warning sTiraDI adj sTira-DI: (adj ii) f
+Warning sTiraDI adj sTira-DI: (adj ii) n
+error@line: sTiraDI : S adj : <MW=sTira-DI,320481,1>
+Warning sTiraSrI adj sTira-SrI: (adj ii) m
+Warning sTiraSrI adj sTira-SrI: (adj ii) f
+Warning sTiraSrI adj sTira-SrI: (adj ii) n
+error@line: sTiraSrI : S adj : <MW=sTira-SrI,320541,1>
+Warning sTUlaDI adj sTUla-DI: (adj ii) m
+Warning sTUlaDI adj sTUla-DI: (adj ii) f
+Warning sTUlaDI adj sTUla-DI: (adj ii) n
+error@line: sTUlaDI : S adj : <MW=sTUla-DI,320865,1>
+Warning smaraBU adj smara-BU: (adj uu) m
+Warning smaraBU adj smara-BU: (adj uu) f
+Warning smaraBU adj smara-BU: (adj uu) n
+error@line: smaraBU : S adj : <MW=smara-BU,322421,1>
+Warning smfto adj smfto: (adj o) m
+Warning smfto adj smfto: (adj o) f
+Warning smfto adj smfto: (adj o) n
+error@line: smfto : S adj : <MW=smfto,322801,1>
+Warning syonaSI adj syona-SI: (adj ii) m
+Warning syonaSI adj syona-SI: (adj ii) f
+Warning syonaSI adj syona-SI: (adj ii) n
+error@line: syonaSI : S adj : <MW=syona-SI,322957,1>
+Warning sravamI adj srava-mI: (adj ii) m
+Warning sravamI adj srava-mI: (adj ii) f
+Warning sravamI adj srava-mI: (adj ii) n
+error@line: sravamI : S adj : <MW=srava-mI,323109,1>
+Warning svaBU adj sva-BU: (adj uu) m
+Warning svaBU adj sva-BU: (adj uu) f
+Warning svaBU adj sva-BU: (adj uu) n
+error@line: svaBU : S adj : <MW=sva-BU,323587,1>
+Warning svayamBU adj svayam-BU: (adj uu) m
+Warning svayamBU adj svayam-BU: (adj uu) f
+Warning svayamBU adj svayam-BU: (adj uu) n
+error@line: svayamBU : S adj : <MW=svayam-BU,324231,1>
+Warning svayamBU adj svayam-BU: (adj uu) m
+Warning svayamBU adj svayam-BU: (adj uu) f
+Warning svayamBU adj svayam-BU: (adj uu) n
+error@line: svayamBU : S adj : <MW=svayam-BU,324231,3>
+Warning svarRasU adj svarRa-sU: (adj uu) m
+Warning svarRasU adj svarRa-sU: (adj uu) f
+Warning svarRasU adj svarRa-sU: (adj uu) n
+error@line: svarRasU : S adj : <MW=svarRa-sU,325375,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'svastivah : S adj : <MW=sv-asti-vah,325585,1>'
+Warning svADI adj sv-ADI: (adj ii) m
+Warning svADI adj sv-ADI: (adj ii) f
+Warning svADI adj sv-ADI: (adj ii) n
+error@line: svADI : S adj : <MW=sv-ADI,325719,1>
+Warning svABU adj sv-ABU: (adj uu) m
+Warning svABU adj sv-ABU: (adj uu) f
+Warning svABU adj sv-ABU: (adj uu) n
+error@line: svABU : S adj : <MW=sv-ABU,325761,1>
+Warning hataDI adj hata-DI: (adj ii) m
+Warning hataDI adj hata-DI: (adj ii) f
+Warning hataDI adj hata-DI: (adj ii) n
+error@line: hataDI : S adj : <MW=hata-DI,326725,1>
+Warning hataSrI adj hata-SrI: (adj ii) m
+Warning hataSrI adj hata-SrI: (adj ii) f
+Warning hataSrI adj hata-SrI: (adj ii) n
+error@line: hataSrI : S adj : <MW=hata-SrI,326795,1>
+Warning hariSrI adj hari-SrI: (adj ii) m
+Warning hariSrI adj hari-SrI: (adj ii) f
+Warning hariSrI adj hari-SrI: (adj ii) n
+error@line: hariSrI : S adj : <MW=hari-SrI,327851,1>
+Warning haryate adj haryate: (adj e) m
+Warning haryate adj haryate: (adj e) f
+Warning haryate adj haryate: (adj e) n
+error@line: haryate : S adj : <MW=haryate,328303,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'havirvah : S adj : <MW=havir-vah,328705,1>'
+Warning hiraRyadyU adj hiraRya-dyU: (adj uu) m
+Warning hiraRyadyU adj hiraRya-dyU: (adj uu) f
+Warning hiraRyadyU adj hiraRya-dyU: (adj uu) n
+error@line: hiraRyadyU : S adj : <MW=hiraRya-dyU,330463,1>
+Warning hiraRyavASI adj hiraRya-vASI: (adj ii) m
+Warning hiraRyavASI adj hiraRya-vASI: (adj ii) f
+Warning hiraRyavASI adj hiraRya-vASI: (adj ii) n
+error@line: hiraRyavASI : S adj : <MW=hiraRya-vASI,330559,1>
+Warning hiraRyavI adj hiraRya-vI: (adj ii) m
+Warning hiraRyavI adj hiraRya-vI: (adj ii) f
+Warning hiraRyavI adj hiraRya-vI: (adj ii) n
+error@line: hiraRyavI : S adj : <MW=hiraRya-vI,330567,1>
+Warning hU adj hU: (adj uu) m
+Warning hU adj hU: (adj uu) f
+Warning hU adj hU: (adj uu) n
+error@line: hU : S adj : <MW=hU,330963,1>
+error((args-out-of-range [a s] 0 -2))
+error in file-init @ line= 'hftsvas : S adj : <MW=hftsv-as,331189,1>'
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'hotravah : S adj : <MW=hotra-vah,332245,1>'

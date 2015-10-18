@@ -1,0 +1,42 @@
+
+(mystring-replace (SLtot3-buffer) "<LEX=V 2 P 2>" "<LEX=V 2 P A>")
+
+(regexp-replace (SLtot3-buffer) "^[-a-zA-Z]*\\('\\)[-a-zA-Z]* " "")
+
+regexp-dump (bufin REGEXP-gen)
+(regexp-dump (SLtot3-buffer) "^vi-n[yi]")
+ "For each  of the given regular expression
+  within the given buffer 'bufin', write the entire record.
+ "
+
+regexp-distrib (bufin REGEXP-gen &optional isub nmax)
+(regexp-distrib (SLtot3-buffer) "^vi-n[yi]")
+ "Find the frequency of occurrence of the given regular expression
+  within the given buffer 'bufin'.
+  Collect the different forms matching the regular expression, and
+  establish their frequency of occurrence.
+  When 'isub' is present, it should be a positive number 
+  represent a subexpression (bracketed by \\(  and \\) ) in the
+  given regular expression, and it is this subexpression, rather
+  than the whole matching expression, whose distribution of values
+  is prepared.
+ "
+
+regexp-replace (bufin REGEXP-gen format-str-in 
+   &optional save-flag quiet maxchg modify-match-fcn)
+"Replace occurrences of the  regular expression
+  within the given buffer 'bufin', according to 'format-str-in'.
+  Here 'format-str' is a string, following the conventions of
+  the 'format' function, and expecting no more than 1 argument.
+  The REGEXP-gen string should have a grouping \\(...\\) element.
+  Call the string matching this group 'sold' (old string); then 
+  construct 'snew' (new string) by (format format-str sold), and
+  replace the grouping with 'snew'.
+  When 'save-flag' is 't', the buffer is saved. Otherwise it is not.
+  When 'maxchg' is a number, the routine stops after that number of
+   changes; this is for debugging.
+  When 'modify-match-fcn' is non-nil,
+   it should be a function with 1 argument 's';
+   this function will be applied to the matching string
+   before the substitution.
+ "

@@ -1,0 +1,35 @@
+sanload...
+init-sanskrit1...
+init-sanskrit1 begins...Sat Oct 17 15:30:16 2015
+BEGIN construct-init...
+fol-ob-init
+init-transliteration
+init-Sangram
+init-sets
+init-properties
+init-vowelstrength
+init-semivowels
+Sandhi-load-init
+Sandhi 6378
+Sandhi-Inverse-join 4552
+Sandhi-Inverse-nojoin 1474
+Sandhi-Inverse 5060
+Sandhi-Length 98
+Subanta-initAll
+init-sup
+init-vsup
+irregs-init
+END construct-init
+init-sanskrit1 ends...Sat Oct 17 15:30:17 2015
+ForC-warning: jaagRi 2 P seT
+ForC-warning: jaagRi 2 P seT
+ForC-warning: jaagRi 2 A seT
+ForC-warning: jaagRi 2 A seT
+ForC-warning: dhRi 1 P veT
+ForC-warning: dhRi 1 P veT
+ForC-warning: dhRi 1 A veT
+ForC-warning: dhRi 1 A veT
+ForC-warning: sRi 10 P seT
+ForC-warning: sRi 10 P seT
+ForC-warning: sRi 10 A seT
+ForC-warning: sRi 10 A seT

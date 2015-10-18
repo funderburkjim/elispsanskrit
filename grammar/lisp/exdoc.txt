@@ -1,0 +1,45 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+exdoc.txt
+begun 03-16-2004
+Documentation of the 'explain' subsystem.
+
+* Structure of construct files
+** General form
+The meaningful parts are lisp forms separated by spaces
+- prefix : the recognition prefix
+- citation : the citation form. For indeclineables, this is "=".
+- parameter list (type ...)
+  - type is one of 
+    S : subanta 
+    V : verb
+    I : indeclineable
+- 4th parameter
+    B : indicating the inflected form may be derived from a base
+   [forms] : an array, directly providing the forms
+
+- NOTE on participles:
+  These currently have type 'V', the last argument encodes the
+  participle type. However, since participles are either
+  adjective forms or else indeclineable, depending on the participle
+  type, it might be better to so reflect this.
+- NOTE on causal forms:
+  In 'causalconjtabs.txt', the 2nd parm is 'C' to indicate this is
+  a causal verb.
+** subanta
+koS koSa (S NOUN a M) B
+** conjtabs
+arapiz rap (V 1 PV CON) B
+car car (V 1 P PRE) B
+cary car (V 1 PV PRE) B
+acar car (V 1 P IPF) B
+** avyayapada
+sma = (I (nipaata)) B
+** participles
+aNkamAn aNk (V 1 A PRESP) B
+aNkitvA aNk (V 1 A IPP) B
+** causalconjtabs
+aNkay aNk (V C 1 P laT) B
+ANkay aNk (V C 1 P la~N) B
+** dhaatukosha
+aNk-1A (V DEF) ((mark))

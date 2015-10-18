@@ -1,0 +1,205 @@
+MODULE aorist calls MODULE causal: causal-603-P, causal-base, kale-400-P
+MODULE aorist calls MODULE construct: construct-conjtab1a, construct-seT-code1a
+MODULE aorist calls MODULE endings: solution
+MODULE aorist calls MODULE gram1: append-if-new, cerebral-P, consonant-P, dental-P, guttural-P, labial-P, nasal-P, palatal-P, sanget, semivowel-P, shortvowel-P, vowel-P
+MODULE aorist calls MODULE gram2-future: aspirate-first-cons, augment-a, first-cons, samprasaaraNa, samprasaaraNa-P
+MODULE aorist calls MODULE gram2-liT: join-arrays, kuTaadi-P
+MODULE aorist calls MODULE gram2: class10-base, conjugation-join, dhaatu-a~Nga, dhaatu-a~Nga-10, word-parts
+MODULE aorist calls MODULE itrans: ITRANS-parse-words-1
+MODULE aorist calls MODULE sandhi: de-aspirate, guna, gunate-final-vowel, lengthen-vowel, reduplicate, sandhi-pair, sandhi-pair-skiprefs-set, sandhi-single, vrddhi, vrddhi1
+MODULE aorist calls MODULE start0: fol-msg
+MODULE aorist calls MODULES  causal, construct, endings, gram1, gram2-future, gram2-liT, gram2, itrans, sandhi, start0
+
+MODULE causal calls MODULE aorist: kale-459-P
+MODULE causal calls MODULE endings: solution
+MODULE causal calls MODULE gram2: class10-base
+MODULE causal calls MODULE itrans: ITRANS-parse-words-1
+MODULE causal calls MODULE sandhi: gunate-final-vowel
+MODULE causal calls MODULES  aorist, endings, gram2, itrans, sandhi
+
+MODULE construct calls MODULE Mbh: SL-tense-tran
+MODULE construct calls MODULE aorist: aorist-causal-base, conjugation-tab-aorist
+MODULE construct calls MODULE causal: causal-base
+MODULE construct calls MODULE endings: Subanta-initAll, init-sup, init-vsup, solution
+MODULE construct calls MODULE fileutil: gather-fields, read-colon-file-table, read-colon-line-fields
+MODULE construct calls MODULE gram1: XsanAppendElt2, Xsanget2, Xsanput2, append-if-new, consonant-P, init-Sangram, init-properties, init-semivowels, init-sets, init-vowelstrength, labial-P, nasal-P, plist-get2, sanAppendElt, sanAppendElt2, sanget, sanget2, sanput, sanput2, vowel-P
+MODULE construct calls MODULE gram2-future: benedictive-base, conjugation-tab-aashiirli~N, conjugation-tab-lRiT, conjugation-tab-lRi~N, conjugation-tab-luT, construct-futpart1a, construct-futppart1a
+MODULE construct calls MODULE gram2-liT: conjugation-tab-liT-p, conjugation-tab-liT-r, join-arrays, liT-main-get-bitab, perfect-join1, periphrastic-base, periphrastic-liT-P, reduplicate-perfect, reduplicative-liT-P
+MODULE construct calls MODULE gram2: class-a-base, class-b-base, conjugation-join, conjugation-join-sym, conjugation-tab, sym-concat, word-parts
+MODULE construct calls MODULE gram3: declension-join, declension-perf-part-active, declension-pres-part
+MODULE construct calls MODULE irreg: irregs-init
+MODULE construct calls MODULE itrans: ITRANS-lt-sym, ITRANS-parse-words-1, gen-word-list, init-transliteration, make-regexp, mapcar-LE, translate-ITRANS-SLP1, translate-SLP1-ITRANS
+MODULE construct calls MODULE kta: construct-inf1a, construct-ippart1a, construct-ippart1a-tvaa, construct-ippart1a-ya, construct-potpart1a, construct-pppart1a
+MODULE construct calls MODULE sandhi: Sandhi-init, Sandhi-load-init, Sandhi-unload
+MODULE construct calls MODULE start0: current-line, fol-msg, fol-ob-init, sangram-filename
+MODULE construct calls MODULES  Mbh, aorist, causal, endings, fileutil, gram1, gram2-future, gram2-liT, gram2, gram3, irreg, itrans, kta, sandhi, start0
+
+MODULE dictionary12 calls MODULE itrans: ITRANS-parse-word-string, word-list
+MODULE dictionary12 calls MODULE start0: fol-msg
+MODULE dictionary12 calls MODULES  itrans, start0
+
+MODULE endings calls MODULE gram1: plist-get2, sanget, sanput
+MODULE endings calls MODULE gram2: modify-conj-endings-1, sym-concat
+MODULE endings calls MODULE itrans: ITRANS-parse-words-1, gen-word-list, translate-ITRANS-SLP1
+MODULE endings calls MODULE sandhi: sandhi-single
+MODULE endings calls MODULE start0: fol-msg, sangram-filename
+MODULE endings calls MODULES  gram1, gram2, itrans, sandhi, start0
+
+MODULE explain calls MODULE construct: construct-subanta1, dcpu-sym, getdhaatu, sym-dcpu
+MODULE explain calls MODULE endings: get-ADJ-a-endings, get-explain-subanta-endings, nN-P, solution
+MODULE explain calls MODULE fileutil: read-colon-file-table
+MODULE explain calls MODULE gram1: Xsangetall, append-if-new, disjoint-P, plist-AppendElt, plist-get2, sanget, sanget2, sangetall, vowel-P
+MODULE explain calls MODULE gram2-liT: join-arrays
+MODULE explain calls MODULE gram2: conjugation-tab, sym-begins-with, sym-concat, sym-ends-with, word-parts
+MODULE explain calls MODULE gram3: declension-adj, declension-citation, declension-join, declension-perperf-part, declension-pron
+MODULE explain calls MODULE itrans: ITRANS-parse-words-1, translate-ITRANS-SLP1, translate-SLP1-ITRANS
+MODULE explain calls MODULE sandhi: sandhi-n-N, sandhi-separate, sandhi-separate3-str, sandhi-single
+MODULE explain calls MODULE start0: fol-msg, sangram-filename
+MODULE explain calls MODULES  construct, endings, fileutil, gram1, gram2-liT, gram2, gram3, itrans, sandhi, start0
+
+MODULE fileutil calls MODULE endings: solution
+MODULE fileutil calls MODULE gram1: sanAppendElt, sanput2
+MODULE fileutil calls MODULE start0: current-line, fol-filename, fol-msg, san-validation-filename, sangram-filename
+MODULE fileutil calls MODULES  endings, gram1, start0
+
+MODULE forms calls MODULE construct: SL-abs, SL-conjtab, SL-construct-subanta1, SL-gerundive, SL-gerundive-declension, SL-inf, SL-pap-declension, SL-ppfactn, SL-ppp, SL-ppp-declension, SL-prespart-declension, convert-subanta-lexinfo, maximal-prefix-helper
+MODULE forms calls MODULE fileutil: non-system-files
+MODULE forms calls MODULE gram1: append-if-new, plist-AppendElt
+MODULE forms calls MODULE gram2-liT: reduplicative-liT-P
+MODULE forms calls MODULE gram2: sym-concat
+MODULE forms calls MODULE itrans: gen-word-list, mapcar-LE, reg-word-list, string-trim, translate-SLP1-ITRANS, word-list
+MODULE forms calls MODULE start0: current-line, fol-msg, sangram-buffer, sangram-filename
+MODULE forms calls MODULES  construct, fileutil, gram1, gram2-liT, gram2, itrans, start0
+
+MODULE gram1 calls MODULE itrans: ITRANS-parse-words-1, ITRANS-parse-words-2, ITRANS-parse-words-3
+MODULE gram1 calls MODULE start0: fol-msg, fol-read, sangram-filename
+MODULE gram1 calls MODULES  itrans, start0
+
+MODULE gram2-future calls MODULE causal: causal-base
+MODULE gram2-future calls MODULE construct: construct-seT-code1a
+MODULE gram2-future calls MODULE endings: solution
+MODULE gram2-future calls MODULE gram1: append-if-new, consonant-P, labial-P, sanget, semivowel-P, vowel-P
+MODULE gram2-future calls MODULE gram2-liT: join-arrays, kuTaadi-P
+MODULE gram2-future calls MODULE gram2: class-a-base, conjugation-join, word-parts
+MODULE gram2-future calls MODULE itrans: ITRANS-parse-words-1
+MODULE gram2-future calls MODULE sandhi: aspirate, de-aspirate, gunate-final-vowel, sandhi-pair, sandhi-pair-skiprefs-set, sandhi-single, vrddhi, vrddhi1
+MODULE gram2-future calls MODULE start0: fol-msg
+MODULE gram2-future calls MODULES  causal, construct, endings, gram1, gram2-liT, gram2, itrans, sandhi, start0
+
+MODULE gram2-liT calls MODULE construct: causal-bases-gentense, construct-conjbase1a, construct-seTPERF-code1a
+MODULE gram2-liT calls MODULE endings: solution
+MODULE gram2-liT calls MODULE gram1: append-if-new, consonant-P, guttural-P, hard-P, sanget, semivowel-P, shortsimplevowel-P, sibilant-P, vowel-P
+MODULE gram2-liT calls MODULE gram2: class-a-base, conjugation-join, conjugation-join-sym, word-parts
+MODULE gram2-liT calls MODULE gram3: declension-join
+MODULE gram2-liT calls MODULE itrans: ITRANS-parse-words-1
+MODULE gram2-liT calls MODULE sandhi: corresponding-letter, de-aspirate, guna, gunate-final-vowel, reduplicate, reduplicate-join, reduplicative-pfx, sandhi-pair, sandhi-pair-skiprefs-set, sandhi-single, shorten-vowel, vrddhi
+MODULE gram2-liT calls MODULE start0: fol-msg
+MODULE gram2-liT calls MODULES  construct, endings, gram1, gram2, gram3, itrans, sandhi, start0
+
+MODULE gram2 calls MODULE causal: modify-Eng-def
+MODULE gram2 calls MODULE endings: conj-endings, conj-strengths, solution
+MODULE gram2 calls MODULE gram1: append-if-new, cerebral-P, consonant-P, dental-P, guttural-P, labial-P, longvowel-P, nasal-P, palatal-P, sanget2, semivowel-P, shortsimplevowel-P, soft-P, vowel-P
+MODULE gram2 calls MODULE gram2-future: conjugation-tab-lRiT, conjugation-tab-luT
+MODULE gram2 calls MODULE gram2-liT: conjugation-tab-liT
+MODULE gram2 calls MODULE gram3: citation-pr
+MODULE gram2 calls MODULE itrans: ITRANS-parse-words-1
+MODULE gram2 calls MODULE sandhi: aspirate, de-aspirate, guna, gunate-final-vowel, lengthen-vowel, reduplicative-pfx, sandhi-internal-diphthong-A, sandhi-legalise-final-cons, sandhi-n-N, sandhi-pair, sandhi-pair-skiprefs-set, sandhi-single, shorten-vowel, vrddhi
+MODULE gram2 calls MODULE start0: fol-msg
+MODULE gram2 calls MODULES  causal, endings, gram1, gram2-future, gram2-liT, gram3, itrans, sandhi, start0
+
+MODULE gram3 calls MODULE construct: construct-subanta1, pres-part-praatipadikas, subanta-base, sym-delete-last
+MODULE gram3 calls MODULE endings: solution, sup-get
+MODULE gram3 calls MODULE gram1: append-if-new, consonant-P, listify, sanget, sanget2, sanput, vowel-P
+MODULE gram3 calls MODULE gram2-liT: join-arrays
+MODULE gram3 calls MODULE gram2: sym-concat, word-parts
+MODULE gram3 calls MODULE itrans: ITRANS-parse-words-1, make-regexp
+MODULE gram3 calls MODULE sandhi: lengthen-vowel, sandhi-n-N-ifirst-set, sandhi-pair, sandhi-pair-skiprefs-set, sandhi-single
+MODULE gram3 calls MODULE start0: fol-msg
+MODULE gram3 calls MODULES  construct, endings, gram1, gram2-liT, gram2, itrans, sandhi, start0
+
+MODULE inits calls MODULE construct: construct-init
+MODULE inits calls MODULE endings: init-gender-form-data
+MODULE inits calls MODULE explain: init-explain-forms
+MODULE inits calls MODULE gram1: Xsangetall, init-Sangram, sangetall
+MODULE inits calls MODULE start0: fol-msg, sangram-filename
+MODULE inits calls MODULE sxmw: MW-init
+MODULE inits calls MODULES  construct, endings, explain, gram1, start0, sxmw
+
+MODULE irreg calls MODULE endings: solution, sup-get
+MODULE irreg calls MODULE gram1: sanput2, vowel-P
+MODULE irreg calls MODULE gram2: conjugation-tab-2
+MODULE irreg calls MODULE gram3: declension-general, declension-general-1cons, declension-general-an, declension-general-cons, declension-general-mat
+MODULE irreg calls MODULE itrans: ITRANS-parse-words-1
+MODULE irreg calls MODULES  endings, gram1, gram2, gram3, itrans
+
+MODULE itrans calls MODULE start0: current-line, fol-msg
+MODULE itrans calls MODULES  start0
+
+MODULE kta calls MODULE aorist: aorist-join1-t-th
+MODULE kta calls MODULE causal: causal-base
+MODULE kta calls MODULE construct: causal-conjtab1a-bases, construct-conjbase1a, construct-conjtab1a, construct-seT-code1a
+MODULE kta calls MODULE endings: solution
+MODULE kta calls MODULE gram1: append-if-new, consonant-P, labial-P, nasal-P, semivowel-P, shortvowel-P, vowel-P
+MODULE kta calls MODULE gram2-future: kale-584-P, samprasaaraNa, samprasaaraNa-P
+MODULE kta calls MODULE gram2-liT: kale-463-P
+MODULE kta calls MODULE gram2: class-a-base, class10-base, conjugation-join, dhaatu-parts, kale-394, kale-395, kale-414-P
+MODULE kta calls MODULE gram3: declension-join
+MODULE kta calls MODULE itrans: ITRANS-parse-words-1
+MODULE kta calls MODULE sandhi: gunate-final-vowel, lengthen-vowel, sandhi-pair-skiprefs-set
+MODULE kta calls MODULE start0: fol-msg
+MODULE kta calls MODULE validation: seT
+MODULE kta calls MODULES  aorist, causal, construct, endings, gram1, gram2-future, gram2-liT, gram2, gram3, itrans, sandhi, start0, validation
+
+MODULE Mbh calls MODULE construct: SL-construct-subanta1, construct-conjtab1a, normalize-class-padas
+MODULE Mbh calls MODULE endings: solution
+MODULE Mbh calls MODULE explain: SL-upasarga-forms, Sx1
+MODULE Mbh calls MODULE fileutil: read-buffer-fields, read-string-fields
+MODULE Mbh calls MODULE itrans: mapcar-LE, translate-SLP1-ITRANS
+MODULE Mbh calls MODULE start0: current-line, fol-msg, sangram-filename
+MODULE Mbh calls MODULES  construct, endings, explain, fileutil, itrans, start0
+
+MODULE numeral calls MODULE endings: solution
+MODULE numeral calls MODULE gram1: append-if-new
+MODULE numeral calls MODULE itrans: ITRANS-parse-words-1
+MODULE numeral calls MODULE sandhi: sandhi-pair, sandhi-single
+MODULE numeral calls MODULE start0: fol-msg
+MODULE numeral calls MODULES  endings, gram1, itrans, sandhi, start0
+
+MODULE sandhi calls MODULE endings: solution
+MODULE sandhi calls MODULE explain: praatar-modify
+MODULE sandhi calls MODULE fileutil: write-table-file
+MODULE sandhi calls MODULE gram1: append-if-new, cerebral-P, consonant-P, dental-P, guttural-P, hard-P, labial-P, nasal-P, palatal-P, sanAppendElt, sanget, sangetall, sanput, semivowel-P, shortsimplevowel-P, sibilant-P, simplevowel-P, soft-P, softaspirate-P, vowel-P
+MODULE sandhi calls MODULE gram2: word-parts
+MODULE sandhi calls MODULE itrans: ITRANS-parse-words-1, word-list
+MODULE sandhi calls MODULE start0: fol-msg, sangram-filename
+MODULE sandhi calls MODULES  endings, explain, fileutil, gram1, gram2, itrans, start0
+
+MODULE start calls MODULES  
+
+MODULE start0 calls MODULES  
+
+MODULE sxmw calls MODULE Mbh: Mbh-verse
+MODULE sxmw calls MODULE forms: parse-string-to-array
+MODULE sxmw calls MODULE gram2-liT: join-arrays
+MODULE sxmw calls MODULE itrans: gen-word-list, word-list
+MODULE sxmw calls MODULE start0: current-line, fol-msg, sangram-filename
+MODULE sxmw calls MODULES  Mbh, forms, gram2-liT, itrans, start0
+
+MODULE validation calls MODULE aorist: aorist-varieties, conjugation-tab-aorist
+MODULE validation calls MODULE causal: causal-base
+MODULE validation calls MODULE construct: construct-conjpassbase1a, construct-conjtab1a, construct-perppart1a, construct-prespart1a-alt, construct-rppart1b, construct-seT-code1a, construct-subanta1, construct-subanta1a, sym-dcpu
+MODULE validation calls MODULE endings: solution
+MODULE validation calls MODULE fileutil: read-colon-buffer, read-colon-file, read-colon-file-validation
+MODULE validation calls MODULE gram1: append-if-new, sanget2
+MODULE validation calls MODULE gram2-future: conjugation-tab-aashiirli~N, conjugation-tab-lRiT, conjugation-tab-lRi~N, conjugation-tab-luT, construct-futpart1a, construct-futppart1a
+MODULE validation calls MODULE gram2-liT: conjugation-tab-liT-p, conjugation-tab-liT-r
+MODULE validation calls MODULE gram2: sym-concat
+MODULE validation calls MODULE gram3: declension-citation, declension-pres-part-P
+MODULE validation calls MODULE itrans: ITRANS-parse-words-1, mapcar-LE, translate-ITRANS-SLP1, translate-SLP1-ITRANS
+MODULE validation calls MODULE kta: construct-inf1a, construct-ippart1a-tvaa, construct-ippart1a-ya, construct-potpart1a-Nyat, construct-potpart1a-aniiya, construct-potpart1a-kyap, construct-potpart1a-tavya, construct-potpart1a-yat, construct-pppart1a
+MODULE validation calls MODULE start0: fol-msg, san-validation-filename, sangram-filename
+MODULE validation calls MODULES  aorist, causal, construct, endings, fileutil, gram1, gram2-future, gram2-liT, gram2, gram3, itrans, kta, start0
+
+MODULE vt01 calls MODULE start0: fol-filename, fol-msg
+MODULE vt01 calls MODULES  start0
+

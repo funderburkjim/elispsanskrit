@@ -1,0 +1,702 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+Mbhdoc.txt
+begun 3-26-04
+
+* Introduction
+  Analysis of the Ramopakhyana data base file (MBhRamaGrammar.rtf)
+  This file was provided by P. Scharf, and is closely related to his book.
+
+  This file is referenced as an Emacs buffer by function call '(Mbh-buffer)'.
+  The file is structured as a sequence of lines, and each line is 
+  structured into fields (usually 7) separated by the tab character.
+  There are 21130 lines, plus 2 blank lines.
+  8609 records have no decimal point in field 2, and represent
+     unanalyzed words, which may or may not be compounds.
+  12521 records have a decimal point in field 2, and represent 
+     analyses of compounds.
+  All of the 8609 records have at least 6 fields  these records
+  are put into buffer 'Mbhu-buffer', and it is this subset which
+  receives further attention from the 'Mbhu-validate2' function as
+  described below. In particular, line numbers mentioned are relative
+  to this subset. For instance,
+  'DIFF @line 372: paricArikAH f2p paricAraka noun' refers
+  to line 372 of the 'Mbhu' file, but this is line 838 of 'MbhRamaGrammar.rtf';
+  i.e., the 372nd unanalyzed record occurs on the 838th line.
+
+* Lexical identifiers
+  The 8609 records in 'Mbhu-buffer' were analyzed for the distribution of
+  lexical identifiers in field 6; the result is in file  'Mbhu-lexid.txt'.
+  This file has 243 lines, indicating 243 variants of lexical identifier.
+
+* Mbhu-validate2
+ The function call (Mbhu-validate2 LEX) performs a comparison between
+ the explanation of grammatical form in the Mbhu file and the ejf 
+ algorithms. A given invocation deals only with records filtered by 
+ the LEX code.
+ The following show the values of LEX employed:
+ (Mbhu-validate2 "noun")
+ (Mbhu-validate2 "adj")
+ (Mbhu-validate2 "pron")
+ (Mbhu-validate2 "card")
+ (Mbhu-validate2 "ord")
+ (Mbhu-validate2 "adjt")  (present active participle)
+ (Mbhu-validate2 "V")  (conjugated verb)
+ (Mbhu-validate2 "I")  (indeclinable)
+ For the most part, the association is clear between LEX and the 243 variants 
+ appearing as lexical identifier in field 6. 
+
+ In general, the 'Mbhu-validate2' attempts to confirm the analysis (field 4)
+  of the inflected form (field 3) given the base form (field 5) and the
+  lexical identifier (field 6).  Where this confirmation is not possible,
+  information is printed to allow further investigation of the difference.
+
+ The following table summarizes application of 'Mbhu-validate2' for each of
+ the lexical categories mentioned in the first column.
+ The second column indicates the number of such records.  The third column
+ indicates the number of those for which there was confirmation of the
+ given analysis of the inflected form.
+
+          #   #ok
+  noun:  2871 2852  
+  adj :  1636 1617 
+  pron:  1114 1076 
+  card:    40   36 
+  ord :     3    3 
+  adjt:   134  122 
+  V   :   906  822 
+  I   :  1905 1905 (no analysis required)
+
+ total:  8609 8433 (97%)
+
+ The total summary indicates a high percentage of agreement (97%). Earlier
+ runs of the program pointed out numerous differences attributed to ejf 
+ program errors which were corrected. So the process of making the 
+ comparisons improved the quality of the ejf program code.
+ Subsequent sections of this document discuss the details, in particular
+ where  disagreement remains. Some disagreements are due to residual
+ limitations in ejf algorithms, some to typographical mistakes in 
+ 'MbhRamaGrammar.rtf', and the rest to other causes.
+
+
+* Mbhu-validate2 "noun" : possible Mbh typographical errors
+
+DIFF @line 372: paricArikAH f2p paricAraka noun  [paricArika?]
+  Would be understood if base were 'paricArika'; Apte has both bases
+  (as well as 'paricArin').
+
+DIFF @line 932: devaH m2s deva noun  [m1s]
+
+DIFF @line 1208: rAjyaBAk m1s rAjyaBaj noun ctp upapada 2.2.19  [base=rAjyaBAj]
+  in MW, 'rAjyaBAj' = "kingdom-possessor", a king.
+
+DIFF @line 3170, 3907:   mAlyavat pn
+ These two line have empty 'inflected form' and 'analyis'  fields 
+ in Mbh file.
+
+DIFF @line 3563: SilAtala n7s SilAtala noun ctp6  [SilAtale]
+  Explected 'SilAtale' for n7s, or else n8s
+
+DIFF @line 3610: bAlAm f1s bAlA noun  [f2s]
+
+DIFF @line 6066: atikAyena m3p atikAya n ctp pràdi 2.2.18 [90]  [m3s]
+
+DIFF @line 6603: SastraBftAm m3p SastraBft noun ctp upapada 2.2.19  [m6p]
+DIFF @line 8214: SastraBftAm m3p SastraBft noun ctp upapada 2.2.19
+  Possible explanatory forms would be (n6p f6p m6p).
+
+DIFF @line 8107: arTamAnAByAm m2d arTamAna noun cdi  [m/f/n3/4/5d]
+
+
+* Mbhu-validate2 "noun" : other differences
+
+DIFF @line 403: ekEkasyAH f6s ekEka noun  [pron?]
+DIFF @line 5770: gaRAneke m1p gaRAneka noun ctp6  [pron?]
+  These two forms are understood if the declension follows that
+  of the pronoun 'eka'. Is the lexical specification of 'noun' correct?
+
+DIFF @line 2256: gfDrarAjAnam m2s gfDrarAja noun ctp6  [gfDrarAjan?]
+DIFF @line 3800: rAjarAjAnam m2s rAjarAja noun ctp6  [rAjarAjan?]
+ In both cases, declension would have been understood if citation
+  ended in 'rAjan'. Which citation is correct?
+
+DIFF @line 4562: BavitrI f1s Bavitf agent noun  [?]
+  To explain this form, I classify it as an
+  adjective ending in 'f', acc. to Antoine (vol I, p. 55);
+  I am not sure if this difference is material.
+  Deshpande (p. 115) says that agent nouns in 'f' always have the
+  affix 'I' in feminine, and are then declined like 'nadI'. 
+  
+DIFF @line 4954: vAnaramuKyAnAm m6p vAnaramuKya noun ctp6
+DIFF @line 7980: devaganDarvaBoginAm m6p devaganDarvaBogin noun cdi
+DIFF @line 8195: mAnuzAsuraBoginAm m6p mAnuzAsuraBogin noun cdi
+  (OK: EJF PROB):
+  These are all cases where ejf logic expects 'ARAm' , but the preceding
+  'r' does not cause this change due to being in a separate compound element.
+  At the present, ejf logic simulates this rule in some circumstances, but
+  is incomplete.  At present, ejf does not see how the presumed algorithm
+  can be programmed.
+
+Additional question:
+@line 158/4632: vihAyasA m/n3s vihAyas noun
+ I had first thought this was like 'jyAyas', a comparative in 'Iyas'.
+ However, I think now it is declined with 1 stem.
+  [vihAyAH vihAyasO vihAyasaH 
+   vihAyasam vihAyasO vihAyasaH 
+   vihAyasA vihAyoByAm vihAyoBiH  ....]
+ Are the various adjectives ending in 'DAyas' also declined with 1 stem?
+
+* Mbhu-validate2 "adj" : possible Mbh typographical errors
+
+DIFF @line 4316: avaDUtaH m1p avaDUta adj ppp  [m1s]
+DIFF @line 5473: hiMsitAH m1p hiMSita adj ppp [shld base be 'hiMsita'?]
+DIFF @line 5789: adfSyAnAm m6s adfSya adj ctp na 2.2.6 [m6p ?]
+DIFF @line 5790: durAtmanAm m6s durAtman adj cbv  [m6p ?]
+DIFF @line 7239: trAsitAH m1p trASita adj ppp c  [shld base be 'trAsita'?]
+DIFF @line 8527: samarutgaRAm f2s samarudgaRa adj cbv 2.2.28 [samarudgaRAm ?]
+DIFF @line 8599: ASvAsitaH m1s ASvASita adj ppp c  [shld base be 'ASvAsita'?]
+
+
+* Mbhu-validate2 "adj" : other differences
+
+ NOTE: items shown as 'int adj, dem adj, rel adj' in Mbh, are
+  not considered here, but under (Mbhu-validate2 "pron").
+
+DIFF @line 270: svayamBUH m1s svayaMBU adj ctp upapada 2.2.19 [svayaMBUH]
+  I am uncertain what alternate spellings are permitted with 'M'.
+  For instance, are 'svayamBUH' and 'svayaMBUH' considered equally valid
+  alternate spellings?  Why was the base given with 'M' and the inflected
+  form with 'm'?  In general, how does one deal with such alternates in
+  computer analysis of digitized documents?
+DIFF @line 1956: BIru fvs BIru adj  [BIro = m/fvs, BIru = nvs ?]
+
+ ejf n->R errors:
+DIFF @line 366: naravAhanaH m1s naravAhana adj cbv [naravAhaRaH] (ejf n-R err)
+DIFF @line 482: naravAhanam m2s naravAhana adj cbv [naravAhaRam] (ejf n-R err)
+DIFF @line 3035: amitraGnaH m1s amitraGna adj ctp upapada 2.2.19  (ejf n-R err)
+DIFF @line 6577: amitraGna mvs amitraGna adj ctp upapada 2.2.19 (ejf n-R err)
+DIFF @line 6601: amitraGna mvs amitraGna adj ctp upapada 2.2.19 (ejf n-R err)
+DIFF @line 3790: brahmayoniH m1s brahmayoni adj cbv [brahmayoRiH] (ejf n-R err)
+
+ misc differences, resolution undecided:
+DIFF @line 7403: maGonaH m6s maGavat adj [per Kale#119, ejf has base 'maGavan']
+DIFF @line 8157: samam n1s sama adj  [ejf classifies as 'pron'(pronominal adj)]
+
+ There were several (79) instances where ejf logic did not recognize the
+ inflection as an adjective, but did recognize it as a noun.
+ Is it ok to think  of these as immaterial differences?
+ Here are the instances:
+
+Mbhu-validate2-S-0 (adj -> noun): vanOkoBiH m3p vanOkas
+Mbhu-validate2-S-0 (adj -> noun): vanOkasAm f6p vanOkas
+Mbhu-validate2-S-0 (adj -> noun): mahAtapAH m1s mahAtapas
+Mbhu-validate2-S-0 (adj -> noun): brahmadviw m1s brahmadviz
+Mbhu-validate2-S-0 (adj -> noun): vedavidaH m1p vedavid
+Mbhu-validate2-S-0 (adj -> noun): udAraDIH m1s udAraDI
+Mbhu-validate2-S-0 (adj -> noun): vanOkasaH m1p vanOkas
+Mbhu-validate2-S-0 (adj -> noun): mahOjasaH m1p mahOjas
+Mbhu-validate2-S-0 (adj -> noun): mahAtejAH m1s mahAtejas
+Mbhu-validate2-S-0 (adj -> noun): nikfttanAsOzWI f1s nikfttanAsOzWa
+Mbhu-validate2-S-0 (adj -> noun): tridaRqaDfk m1s tridaRqaDfk
+Mbhu-validate2-S-0 (adj -> noun): mfgarUpaDfk m1s mfgarUpaDfk
+Mbhu-validate2-S-0 (adj -> noun): suSroRi fvs suSroRI
+Mbhu-validate2-S-0 (adj -> noun): suSroRI f1s suSroRI
+Mbhu-validate2-S-0 (adj -> noun): suSroRIm f2s suSroRI
+Mbhu-validate2-S-0 (adj -> noun): tArADipapraBA f1s tArADipapraBA
+Mbhu-validate2-S-0 (adj -> noun): meGamAlayA f3s meGamAlA
+Mbhu-validate2-S-0 (adj -> noun): tArApatimuKIm f2s tArApatimuKa
+Mbhu-validate2-S-0 (adj -> noun): BartfsmaraRatanvaNgI f1s BartfsmaraRatanvaNgI
+Mbhu-validate2-S-0 (adj -> noun): dIptAkzyaH f1p dIptAkza
+Mbhu-validate2-S-0 (adj -> noun): AyatApANgIm f2s AyatApANga
+Mbhu-validate2-S-0 (adj -> noun): vAmoru fvs vAmorU
+Mbhu-validate2-S-0 (adj -> noun): SakrapratimatejasA m3s Sakrapratimatejas
+Mbhu-validate2-S-0 (adj -> noun): BIru fvs BIrU
+Mbhu-validate2-S-0 (adj -> noun): ruDirArdrANgI f1s ruDirArdrANga
+Mbhu-validate2-S-0 (adj -> noun): mfgaSAvAkzI f1s mfgaSAvAkza
+Mbhu-validate2-S-0 (adj -> noun): malinavAsasam f2s malinavAsas
+Mbhu-validate2-S-0 (adj -> noun): suSroRIm f2s suSroRI
+Mbhu-validate2-S-0 (adj -> noun): tanvaNgi fvs tanvaNga
+Mbhu-validate2-S-0 (adj -> noun): vAmoru fvs vAmorU
+Mbhu-validate2-S-0 (adj -> noun): suSroRi fvs suSroRI
+Mbhu-validate2-S-0 (adj -> noun): patidevatA f1s patidevatA
+Mbhu-validate2-S-0 (adj -> noun): OpayikI f1s Opayika
+Mbhu-validate2-S-0 (adj -> noun): mAnuzI f1s mAnuza
+Mbhu-validate2-S-0 (adj -> noun): tanvaNgI f1s tanvaNga
+Mbhu-validate2-S-0 (adj -> noun): kAlI f1s kAla
+Mbhu-validate2-S-0 (adj -> noun): durmeDAH m1s durmeDas
+Mbhu-validate2-S-0 (adj -> noun): suSroRIm f2s suSroRI
+Mbhu-validate2-S-0 (adj -> noun): anindyANgIm f2s anindyANga
+Mbhu-validate2-S-0 (adj -> noun): durmanAH m1s durmanas
+Mbhu-validate2-S-0 (adj -> noun): durmeDAH m1s durmeDas
+Mbhu-validate2-S-0 (adj -> noun): sumahat n2s sumahat
+Mbhu-validate2-S-0 (adj -> noun): sumahat n2s sumahat
+Mbhu-validate2-S-0 (adj -> noun): vizaRRacetAH m1s vizaRRacetas
+Mbhu-validate2-S-0 (adj -> noun): maladigDANgI f1s maladigDANga
+Mbhu-validate2-S-0 (adj -> noun): devi fvs deva
+Mbhu-validate2-S-0 (adj -> noun): BImatejasAm m6p BImatejas
+Mbhu-validate2-S-0 (adj -> noun): sumahat n1s sumahat
+Mbhu-validate2-S-0 (adj -> noun): nEzWikI f1s nEzWika
+Mbhu-validate2-S-0 (adj -> noun): mahAmanAH m1s mahAmanas
+Mbhu-validate2-S-0 (adj -> noun): meGamAlABiH f3p meGamAlA
+Mbhu-validate2-S-0 (adj -> noun): mahAyaSAH m1s mahAyaSas
+Mbhu-validate2-S-0 (adj -> noun): vAtaraMhasAm m6p vAtaraMhas
+Mbhu-validate2-S-0 (adj -> noun): vanOkasaH m2p vanOkas
+Mbhu-validate2-S-0 (adj -> noun): sapatnajit m1s sapatnajit
+Mbhu-validate2-S-0 (adj -> noun): IdfSI f1s IdfSa
+Mbhu-validate2-S-0 (adj -> noun): apetaBIH m1s apetaBI
+Mbhu-validate2-S-0 (adj -> noun): mahAmanAH m1s mahAmanas
+Mbhu-validate2-S-0 (adj -> noun): atitejasam m2s atitejas
+Mbhu-validate2-S-0 (adj -> noun): sumahat n1s sumahat
+Mbhu-validate2-S-0 (adj -> noun): amitrajit m1s amitrajit
+Mbhu-validate2-S-0 (adj -> noun): amitOjasO m2d amitOjas
+Mbhu-validate2-S-0 (adj -> noun): mahAmanAH m1s mahAmanas
+Mbhu-validate2-S-0 (adj -> noun): AdityavarcasA m3s Adityavarcas
+Mbhu-validate2-S-0 (adj -> noun): haryaSvayuk m1s haryaSvayuj
+Mbhu-validate2-S-0 (adj -> noun): apratimOjasam m2s apratimOjas
+Mbhu-validate2-S-0 (adj -> noun): suradvizam m2s suradviz
+Mbhu-validate2-S-0 (adj -> noun): sasuhft m1s sasuhfd
+Mbhu-validate2-S-0 (adj -> noun): mahAyaSAH m1s mahAyaSas
+Mbhu-validate2-S-0 (adj -> noun): cArusarvANgIm f2s cArusarvANga
+Mbhu-validate2-S-0 (adj -> noun): malopacitasarvANgIm f2s malopacitasarvANga
+Mbhu-validate2-S-0 (adj -> noun): kfzRavAsasam f2s kfzRavAsas
+Mbhu-validate2-S-0 (adj -> noun): kalyARI f1s kalyARa
+Mbhu-validate2-S-0 (adj -> noun): pfTulavakzasam m2s pfTulavakzas
+Mbhu-validate2-S-0 (adj -> noun): saMharzaRI f1s saMharzaRa
+Mbhu-validate2-S-0 (adj -> noun): labDacetasaH m1p labDacetas
+Mbhu-validate2-S-0 (adj -> noun): AdityavarcasA m3s Adityavarcas
+Mbhu-validate2-S-0 (adj -> noun): cIravAsasam m2s cIravAsas
+Mbhu-validate2-S-0 (adj -> noun): amitatejasA m3s amitatejas
+
+* Mbhu-validate2 "pron" : possible Mbh typographical errors
+
+DIFF @line 3215: etAH f1s etad dem adj   [f1p] err
+DIFF @line 3217: anyAH f1s anya pron    [f1p] err
+
+DIFF @line 3350: mA m/f/n2s mA 1st pron   [base = 'asmad' ?]
+DIFF @line 4443: asmAn n2p asmad 1st pron   [m2p]
+DIFF @line 4514: asmAn n2p asmad 1st pron  [m2p]
+DIFF @line 4545: asmAn n2p asmad 1st pron  [m2p]
+
+DIFF @line 5396: sarvezu n7s sarva pron adj [n7p] err
+
+DIFF @line 6085: te m1s tad dem adj  [m1p, etc] err
+DIFF @line 6095: te m1s tad dem adj  [m1p, etc] err
+DIFF @line 7044: tat i tad dem adj  [n1s]
+
+* Mbhu-validate2 "pron" : other differences
+
+ The forms of 'Atman' are identified by ejf logic when the lexical 
+ category is 'noun'. Thus differences were noted for the 12 cases
+ were the lexical category was given as 'reflexive pron'. 
+ I am unsure whether the difference is material.
+
+DIFF @line 299: AtmAnam m2s Atman reflexive pron
+DIFF @line 300: AtmanA m3s Atman reflexive pron
+DIFF @line 1089: AtmAnam m2s Atman reflexive pron
+DIFF @line 1287: AtmanaH m6s Atman reflexive pron [m2p m5s m6s]
+DIFF @line 1835: AtmanaH m6s Atman reflexive pron
+DIFF @line 1997: AtmAnam m2s Atman reflexive pron
+DIFF @line 1998: AtmanA m3s Atman reflexive pron
+DIFF @line 4723: AtmAnam m2s Atman reflexive pron
+DIFF @line 7045: AtmanaH m6s Atman reflexive pron  [noun]
+DIFF @line 7380: AtmanaH m6s Atman reflexive pron  [noun]
+DIFF @line 7387: AtmanaH m6s Atman reflexive pron  [noun]
+DIFF @line 8001: AtmanaH m6s Atman reflexive pron
+
+ 'enad': I can not find 'enad' cited in MW; MW shows entry for 'ena', but
+  not exactly as a root.  In Antoine, 'enam' forms are listed as alternates
+  for 'idam' (p. 63, vol I). In Deshpande, they are alternates of 'etad' 
+  (p. 76). Evidently, some grammarians also consider 'enad'  a word. 
+  I am unsure whether the difference is material.
+
+DIFF @line 1291: enam m2s enad pron   [etad or idam]
+DIFF @line 1668: enam m2s enad pron   [etad or idam]
+DIFF @line 2207: enam m2s enad pron   [etad or idam]
+DIFF @line 3238: enAm f2s enad pron   [etad]
+DIFF @line 5059: enam m2s enad pron  [etad]
+DIFF @line 5284: enam m2s enad pron  [etad]
+DIFF @line 6142: enam m2s enad pron  [etad]
+DIFF @line 6690: enam m2s enad pron  [etad]
+DIFF @line 6700: enam m2s enad pron  [etad]
+DIFF @line 7064: enam m2s enad pron  [etad]
+DIFF @line 8265: enAn m2p enad pron  [etad]
+
+ 'etavat':  ejf logic declines as an adjective ending in 'at'.
+  I am unsure whether the difference is material.
+DIFF @line 2691: etAvat n1s etAvat pron   [adj]
+DIFF @line 3617: etAvat n1s etAvat pron adj  [adj]
+
+ Question on "mad" and "tvad":  Mbh has singular citations of 1st
+ and 2nd personal pronouns as "mad" and "tvad", with plurals using
+ "asmad" and "yuzmad".  ejf uses only "asmad" and "yuzmad". I
+ suspect this difference is not material.
+
+
+* Mbhu-validate2 "card" : possible Mbh typographical errors
+
+DIFF @line 3650: caturdaSa n1s caturdaSa cardinal num cds  [n1p]
+DIFF @line 4770: zazwikowisahasrARi n2s zazwikowisahasra cardinal num ck [n2p]
+DIFF @line 4792: dvAdaSa n2s dvAdaSa cardinal num cds  [n2p]
+DIFF @line 4794: triMSat f2p triMSat cardinal num  [f1s]
+
+* Mbhu-validate2 "adjt" (prap) : possible Mbh typographical errors
+
+DIFF @line 2376: SaNkamAnaH m1s SaNkamAna prap   [prmp]
+DIFF @line 5521: bruvARasya m6s bruvat prap    [prmp]
+DIFF @line 5787: aBipatatAm m6s aBipatat prap  [m6p]
+DIFF @line 823: AdaDat m1s AdaDat prap   strength=VW  [n1s]
+
+* Mbhu-validate2 "adjt" (prap) : other differences
+
+ The following differences are due to insufficient specification
+ information. According to my understanding, the class of the
+ underlying root is needed in order to correctly form the present
+ active participle; in particular this is needed to form the base
+ for the feminine.  Most of the forms in Mbh were from roots of
+ class 1, and so were viewed to be analyzed correctly. However, the
+ following form the feminine without the 'n'.  
+ Does this suggest the need for some modification of the description of
+ 'prap' items in Mbh?
+
+DIFF @line 1216: biBratI f1s biBrat prap  strength=VW
+DIFF @line 1969: prarudatI f1s prarudat prap  strength=W
+DIFF @line 2177: rudatIm f2s rudat prap   strength=W
+DIFF @line 3503: rudatI f1s rudat prap strength=W 
+DIFF @line 3557: rudatIm f2s rudat prap  strength=W 
+DIFF @line 3823: rudatyAH f6s rudat prap   strength=W
+DIFF @line 4602: satI f1s sat prap   strength=W
+
+ misc difference:
+DIFF @line 3742: aBivarzatI f1s aBivarzat prap   
+ In this case, I think the underlying root is 'vfz', which is class 1;
+ this would then imply a feminine of 'aBivarzantI'. Thus, I can not
+ explain this form.
+
+
+* Mbhu-validate2 "V"  : possible Mbh typographical errors
+
+DIFF @line 473: UzuH 3sa prf %vas vi1a  [3pa]
+ ctab=[uvAsa UzatuH UzuH (uvasTa uvasiTa) UzaTuH Uza (uvasa uvAsa) Uziva Uzima]
+
+DIFF @line 481, 3542: dadfSuH 3sa prf %dfS vt1a  [3pa]
+ ctab=[dadarSa dadfSatuH dadfSuH (dadrazWa dadarSiTa) dadfSaTuH dadfSa dadarSa dadfSiva dadfSima]
+
+DIFF @line 677: vfRIzva 2sa ipv %vf vt9am  [2sm]
+  m: ctab=[vfRItAm vfRAtAm vfRatAm 
+           vfRIzva vfRATAm vfRIDvam
+           vfRE vfRAvahE vfRAmahE]
+  a: [vfRAtu vfRItAm vfRantu
+      vfRIhi vfRItam vfRIta 
+      vfRAni vfRAva vfRAma]
+
+DIFF @line 1774, 1789: karizyAmi 3sa fut %kf vt8am  [1sa]
+ ctab=[karizyati karizyataH karizyanti 
+       karizyasi karizyaTaH karizyaTa 
+       karizyAmi karizyAvaH karizyAmaH]
+
+DIFF @line 1798: praloBaya 2sa ipv c %luB vt4/6a [pra%luB]
+
+DIFF @line 1961: drakzyase 3sm fut %dfS vt1a  [2sm]
+ ctab=[drakzyate drakzyete drakzyante 
+       drakzyase drakzyeTe drakzyaDve 
+       drakzye drakzyAvahe drakzyAmahe]
+
+DIFF @line 3237: pAwayAma 1pa ipf c %paw v1a/vt10am  [ipv]
+
+DIFF @line 1105: menire 3sm prf %man vt4/8m  [3pm] 
+ ctab=[mene menAte menire menize menATe meniDve mene menivahe menimahe]
+
+DIFF @line 1165: saMBriyantAm 3sp ipv sam%Bf vt3am [3pp]
+ ctab=[BriyatAm BriyetAm BriyantAm Briyasva BriyeTAm BriyaDvam BriyE BriyAvahE BriyAmahE]
+
+DIFF @line 1261: vimucyatAm 3sp ipv %muc (%mucx) v6am    [vi%muc]
+ What does 'x' mean?
+
+DIFF @line 2453: pUjayan m1s %pUj vt10am  ['vt10am' should be 'prap']
+
+DIFF @line 2886: tasTuH 3sa prf %sTA vi1a  [3pa]
+ ctab=[tasTO tasTatuH tasTuH (tasTATa tasTiTa) tasTaTuH tasTa tasTO tasTiva tasTima]
+
+DIFF @line 3222: Asate 3pa pre %As vi2m  [3pm]
+ ctab=[Aste AsAte Asate Asse AsATe ADve Ase Asvahe Asmahe]
+
+DIFF @line 3875: anuruDyase 2sa pre anu%ruD vt4m   [2sm]
+DIFF @line 3983: jAnIte 2sm pre %jYA vt9am   [3sm]
+DIFF @line 4000: Sete 3sm prf %SI vi2m   [pre]
+ pre=[Sete SayAte Serate Seze SayATe SeDve Saye Sevahe Semahe]
+ prf=[SiSye SiSyAte SiSyire SiSyize SiSyATe SiSyiDve SiSye SiSyivahe SiSyimahe]
+
+DIFF @line 4158: AcaKyuH 3sa prf A%KyA vt2a  [3pa]
+DIFF @line 4256: aBijagmuH 3sa prf aBi%gam v1a  [3pa]
+DIFF @line 5674: niryayuH 3sa prf nis%yA v2a  [3pa]
+DIFF @line 5664: pradudruvuH 3sa prf pra%dru v1a  [3pa]
+
+DIFF @line 5496: yuDyasva 2sa ipv %yuD vt4m [2sm]
+DIFF @line 5830, 5835, 5864: yuyuDe 3sa prf %yuD vt4m [3sm]
+DIFF @line 5870: vavfDe 3sa prf %vfD vi1m [3sm]
+
+DIFF @line 5918: vivyaTuH 3pa prf vi%vyaT vi1m  [%vyaT - no pfx]
+DIFF @line 6845: viviSuH 3pa prf vi%viS v6a  [%viS - no pfx]
+
+DIFF @line 6786: antardaDe 3sa prf antar%DA v3am  [3sm]
+ NOTE:  'antar' is specified as a verb prefix. 
+     a.  Is this an example of 'gati' ?
+     b.  Do the rules of combining normal prefixes (like 'A', 'pra', etc.)
+         apply here?
+     c.  From what premises does one deduce that 'antar' functions like 
+         a verb prefix here; otherwise, it would be considered an
+         indeclinable.  
+     d. Would a legitimate alternative lexical analysis consider 'antar'
+        a separate indeclineable?  What would be the disadvantage of this?
+
+
+DIFF @line 8255: SiSye 3sa prf %SI vi2m [3sm]
+ m prf: [SiSye SiSyAte SiSyire 
+         SiSyize SiSyATe SiSyiDve 
+         SiSye SiSyivahe SiSyimahe]
+ a prf: [SiSAya SiSyatuH SiSyuH 
+         SiSayiTa SiSyaTuH SiSya 
+         (SiSaya SiSAya) SiSyiva SiSyima]
+
+
+DIFF @line 8534: vijezyasi 3sa fut vi%ji vt1a [2sa]
+
+
+* Mbhu-validate2 "V"  : less simple differences
+
+DIFF @line 2116: SakalIBavet 3sa pop SakalI%BU vi1a ctp gati
+  ejf logic does not handle gati.
+
+DIFF @line 8327: prasTApayat 3sa ipf c pra%sTA vt1a [prAsTApayat]
+    pra + asTApayat = prAsTApayat
+DIFF @line 516: aByavahArayat 3sa ipf c aBi ava%hf vt1am  [aByavAhArayat]
+  ava + ahArayat -> avAhArayat
+DIFF @line 4582: aDyavasyat 3sa ipf aDi ava%so vt4a  [aDyavAsyat] (sandhi)
+
+
+DIFF @line 2613: aByAhanat 3sa ipf aBi A%han vt2a  [vt1a]
+  ACC to MW, 'han' can be class 1.
+ ctab=[ahanat ahanatAm ahanan ahanaH ahanatam ahanata ahanam ahanAva ahanAma]
+ For class 2a, I have
+ ctab=[ahan ahatAm aGnan ahan ahatam ahata ahanam ahanva ahanma]
+
+DIFF @line 3812: prArudat 3sa ipf pra%rud vi2a [vi6a ?]
+ I guess this is supposed to be ok, but it confuses me.
+ The inflection can be explained by assuming the root to be of class 6.
+ MW only lists class 2, and mentions the 'rudati' form as optional.
+ Whitney mentions this form as a class 6 form.
+ Why doesn't one use an alternate conjugational class
+ to indicate this alternate conjugational form?
+
+DIFF @line 6898: rejatuH 3da prf %raYj vi1/4am  [%rAj]
+ NOTE: Acc. to Whitney, 'raYj' does not have a base 'rej' in perfect,
+  but 'rAj' does.  The form 'vi1/4am' would also change to 'vi1/2am', I think.
+
+DIFF @line 5880: AnarcCat 3sa ppf %f v1a
+  Whitney shows 'AnarCat' as a form of perfect ('prf').
+  But note on Whitney: for 'gam' he shows 'gachati'; is the translation
+  to SLP 'gacati'? I think the common form is 'gacCati'. So I have
+  confusion over Whitney's transliteration.
+  I don't understand either as a regular or periphrastic perfect.
+
+DIFF @line 7641: AnarcuH 3pa prf %arc vt10am
+  NOTE1: Whitney gives 'fc' with 'f', so 'AnarcuH' would be explained by
+   that; however, class 10 is not one of the forms of 'f' in Whitney.
+
+  NOTE2: 'prf' thought not to be appropriate for class 10 verbs, usually:
+  ; Antoine#106 The reduplicative perfect is common to all
+  ; monosyllabic roots beginning with a consonant or with
+  ; 'a', 'aa', or short 'i', 'u', or 'Ri'
+  ; The periphrastic perfect is used with roots beginning
+  ; with a long vowel (other than 'aa') and with roots of
+  ; the 10th conjugation and other derivative roots.
+  ; The roots 'day' (to pity), 'kaas' (to cough),
+  ; 'aas' (to sit) take the periphrastic perfect.
+  ; The roots 'uurNu' (to cover) and 'RichCh' (to go) take
+  ; the reduplicative perfect
+  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhii' (to fear),
+  ; 'bhRi' (to support), 'hRi' (to take away), 'hrii' (to blush),
+  ; 'jaagRi' (to awake), and 'daridraa' (to be poor) take both
+  ; forms of the perfect
+
+DIFF @line 7476: nAnadan 3pa ipf i %nad v1a
+ Appears to be 'na' + anadan.  Maybe the 'i' is to recognize 'na';
+ but why not have a separate entry for 'na'?
+ (Mbhu-validate2-V-0 "anadan" "3pa ipf" "%nad" "v1a" t) is ok
+  [anadat anadatAm anadan 
+   anadaH anadatam anadata 
+  anadam anadAva anadAma]
+
+DIFF @line 7751: DArayet 3sa pop %Df (%DfY DAraRe) vt1am
+  Could explain: DArayet 3sa pop c %Df vt1am
+  Don't understand '(%DfY DAraRe)'
+
+DIFF @line 8217: apAkramat 3sa ipf apa%kram v1a
+ NOTE: Whitney only has class 1, but both 'krAmati' and 'kramati',
+  so prob. ejf needs to add this form ('kramati') to 'kram' as class 1.
+ The use of class 6a would also explain the inflected form, but I don't
+ know if this is permitted.
+
+
+DIFF @line 3411: mokzayizyati 3sa fut %mokzi vt10am denom [%mokz]
+ ctab=[mokzayizyati mokzayizyataH mokzayizyanti 
+       mokzayizyasi mokzayizyaTaH mokzayizyaTa 
+       mokzayizyAmi mokzayizyAvaH mokzayizyAmaH]
+DIFF @line 3478: mokzyante 3pp pre %mokzi vt10am denom [%mokz]
+ ctab=[mokzyate mokzyete mokzyante 
+       mokzyase mokzyeTe mokzyaDve 
+       mokzye mokzyAvahe mokzyAmahe]
+ With both of these, I get the form using as root '%mokz', not '%mokzi'.
+ MW shows 'mokzayizyati,te' as forms of future in class 10 of 'mokz'.
+ Being unsure how denominative roots work,
+ I don't know whether the lines 3411 and 3478 are
+ also correctly explained with root '%mokzi'.
+
+
+DIFF @line 2160: pratyazeDayat 3sa ipf c prati%siD vi4a
+DIFF @line 799: aByaziYcat 3sa ipf aBi%sic vt6am
+DIFF @line 5289: aByaziYcat 3sa ipf aBi%sic vt6am
+DIFF @line 8305: aByazecayat 3sa ipf c aBi%sic vt6am
+DIFF @line 8395: aByaziYcatAm 3da ipf aBi%sic vt6am
+DIFF @line 2160: pratyazeDayat 3sa ipf c prati%siD vi4a
+ My understanding of how imperfect works with prefixes would imply,
+ for instance, 'aByasiYcatAm' rather than 'aByaziYcatAm'; this only
+ relevant in the imperfect where the 'a' of imperfect would, in my
+ understanding, serve to retain the 's' of the root. For other tenses,
+ the 'i' ending of the prefix would cause a change
+ of the root initial 's' to 'z'; e.g., for imperative 'pratizeDayatu'.
+
+ Does the 's' really change to 'z' in the imperfect? If so, is it true
+ for any prefix ending in a vowel other than 'a A', and is 's' the only
+ relevant initial root consonant? For instance,
+ is it 'anvazeDayat' for 'anu%siD' and 'anvazidat' for 'anu%sad' ?
+
+  NOTE re ejf code: provisionally have changed logic to recognize the
+ above.
+
+
+DIFF @line 2287: utsasarja 3sa prf ud%sfj vt4m/6a  [ut%sfj]
+DIFF @line 4040: pratyudyayO 3sa prf prati ud%yA v2a  [prati ut%yA]
+DIFF @line 4321: utsahe 1sm pre ud%sah vt1m  
+ NOTE: PS shows prefix usually as 'ud', but sometimes as 'ut'
+ (e.g. ut%pat, ut%sfj or ud%sfj).
+  ejf has 'ut' as citation form for the prefix; should the citation
+  form be changed  to 'ud',  agreeing with MW, Apte ?
+
+
+DIFF @line 2411: Aha 3sa pre %brU vt2am 3.4.84
+DIFF @line 3029: prAha 3sa pre pra%brU vt2am 3.4.84
+DIFF @line 4068: Aha 3sa pre %brU vt2am 3.4.84 
+DIFF @line 5095: Aha 3sa pre %brU vt2am 3.4.84
+DIFF @line 5431: Aha 3sa pre %brU vt2am 3.4.84
+NOTE: MW shows these as forms of defective class 1 verb 'ah'.
+ Why 'brU'?
+
+DIFF @line 2429: apfcCat 3sa ipf %praC vt6a  [%pracC]
+DIFF @line 2637: papracCa 3sa prf %praC vt6a [%pracC]
+DIFF @line 4652: anupfcCati 3sa pre anu%praC vt6a [anu%pracC]
+DIFF @line 4512: papracCa 3sa prf %praC vt6a
+  NOTE: MW has 'praC', Apte has 'pracC'
+  Are both acceptable?
+
+
+DIFF @line 2580: CinDi 2sa ipv %Cid vt7am  [??]
+ctab=[Cinattu CinttAm Cindantu 
+      CindDi Cinttam Cintta 
+      CinadAni CinadAva CinadAma]
+  Is 'CinDi' is correct and 'CindDi' wrong? If so, would
+    'kzundDi' below be incorrect (with correction 'kzunDi')?
+  For 'kzud', I get
+ctab=[kzuRattu kzunttAm kzundantu 
+      kzundDi kzunttam kzuntta 
+      kzuRadAni kzuRadAva kzuRadAma]
+while Kale (p. 291) appears to differ only in 3d 2d 2p
+     [kzuRattu kzuntAm* kzundantu 
+      kzundDi kzuntam* kzunta*
+      kzuRadAni kzuRadAva kzuRadAma]
+
+DIFF @line 2782: samASvasa 2sa ipv sam A%Svas vi2a [vi1a ?]
+  I have 'Svasihi' for the '2sa ipv' forms.
+  MW shows 'Svasa' as an imperative form; other forms in MW suggest
+  that for 'pre ipf ipv pot' Svas may be declined as if it were class 1;
+  Whitney shows a class 1 form for 'Svas'.  Thus, would [vi1a] be a
+  correct designation? 
+
+DIFF @line 3809: lajjase 2sm pre %lasj vi6m  [lajj]
+ NOTE:  MW also has 'lajj' (p. 895), but I didn't see 'lasj'.
+
+DIFF @line 4195: abruvan 3pa ipf %brU vt2am [vt6am ?]
+DIFF @line 4543 , 4617: abruvam 1sa ipf %brU vt2am  [vt6am ?]
+ NOTE: MW mentions 'abruvam' for 'abravam' in ipf;
+  no mention is made of 'abruvan'.
+construct-conjtab1a bruu 2 P nil la~N ACTIVE nil
+ctab=[abravIt abrUtAm abrUvan abravIH abrUtam abrUta abravam abrUva abrUma]
+
+According to ejf logic, both forms could be explain as 'vt6am':
+construct-conjtab1a bruu 6 P nil la~N ACTIVE nil
+ctab=[abruvat abruvatAm abruvan abruvaH abruvatam abruvata abruvam abruvAva abruvAma]
+ Whitney lists class 6 as one form of 'brU'.  
+ Would [vt6am] be a correct designation?
+
+DIFF @line 4294: jIvayizyaDvam 2pm fut ipv c %jIv vi1a
+  ???
+  For future of causal of 'jIv', I get
+  [jIvayizyate jIvayizyete jIvayizyante 
+   jIvayizyase jIvayizyeTe  jIvayizyaDve *
+   jIvayizye jIvayizyAvahe jIvayizyAmahe]
+  so the 2p would end in 'Dve'.
+  I have never heard of a 'fut ipv' (future imperative) tense,
+  and thus have no explanation for the given inflected form.
+
+
+DIFF @line 623: BUyAt 3sa aop %BU vi1a
+ Rules for aorist optative are unknown by ejf
+DIFF @line 7426: kfTAH 2sa asb %kf vt8am
+DIFF @line 8455: SucaH 2sa asb %Suc v1a
+DIFF @line 8588: SucaH 2sa asb %Suc v1a
+ I have seen reference to the aorist optative and subjunctive in
+ Whitney's grammer, but do not understand how to program his discussion.
+
+
+* Mbhu-validate2 "V"  : ejf changes
+
+DIFF @line 2504: agamat 3sa ipf %gam v1a
+DIFF @line 4267: agamat 3sa ipf %gam v1a
+DIFF @line 8286: Agamat 3sa ipf A%gam v1a
+ NOTE: ejf added logic indicating 'gam' has present tense base of 'gam',
+  as well as of 'gacC':
+ ctab=[(agacCat agamat) (agacCatAm agamatAm) (agacCan agaman) (agacCaH agamaH) (agacCatam agamatam) (agacCata agamata) (agacCam agamam) (agacCAva agamAva) (agacCAma agamAma)]
+
+DIFF @line 2770: upapAdaya 2sa ipv c upa%pad vt4m/10m
+ OK: ejf changed causal base of 'pad' to be 'pAday'
+DIFF @line 3489: pUrayizyati 3sa fut c %pF vt9a
+ OK: ejf changed causal base of 'pF' to be 'pAray' and 'pUray'
+DIFF @line 7121: apAtayat 3sa ipf c %pat v1a
+ OK: ejf changed causal base of 'pat' to be 'pAtaya' or 'pataya'.
+DIFF @line 7126: nyapAtayat 3sa ipf c ni%pat vi1a
+ OK: ejf changed causal base of 'pat' to be 'pAtaya' or 'pataya'.
+
+DIFF @line 5049: pratiSezyAmi 1sa fut prati%SI vi2am
+  OK: ejf changed from 'sew' to 'vew'.
+
+
+DIFF @line 2681: saMvasati 3sa pre sam%vas vi1a
+ OK: ejf changed 'sandhi-init-36a' to recognizie 'saMvasasti' as 'sam vasati'
+DIFF @line 3056: saMnipetatuH 3da prf sam ni%pat vi1a
+ OK: Modified sandhi rule to recognize 'saMni' as 'sam ni'
+DIFF @line 6011: saMnyavartanta 3pm ipf sam ni%vft vi1m
+  OK: ejf logic previously thrown by 'Mn'.
+
+* rAmopAKyAna notes - begun 06-25-04
+** janamejaya
+ The name of the king to whom %{vESampAyana} recited the %{mahABArata}.
+ The word is a compound %{janam-ejaya}, where %{ejaya} forms irregular 
+ compounds with a preceding word in case 2.  %{ejaya} is related to the
+ causal of the root %{ej} (class 1a), meaaning to stir, move, tremble, shake.
+ Thus %{janamejaya} may mean " causing men to tremble ".
+ By the way, %{vESampAyana} is, in epic poetry, a pupil of %{vyAsa}
+
+**kfzRA
+ The name of %{drOpadI}, wife of the %{pARqu} princes.
+ The third book of the %{mahABArata} is called %{drOpadI-haraRa}, meaning
+ " the forcible abduction of %{drOpadI}". 

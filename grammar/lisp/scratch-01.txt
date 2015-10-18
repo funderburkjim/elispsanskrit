@@ -1,0 +1,472 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+
+
+(s-file-init-alt1 "MW-noun.txt" "inputs" "MW-noun-01.txt" "prod/outputs" 1 9999)
+s-file-init-helper WARNING: akarA a-kara
+s-file-init-helper WARNING: akalkA a-kalka
+s-file-init-helper WARNING: akulA a-kula
+s-file-init-helper WARNING: akUpArA a-kUpAra
+s-file-init-helper WARNING: akftA a-kfta
+s-file-init-helper WARNING: akrAntA a-krAnta
+s-file-init-helper WARNING: akriyA a-kriya
+s-file-init-helper WARNING: akzapIqA akza-pIqa
+s-file-init-helper WARNING: akzakI akzaka
+s-file-init-helper WARNING: akzatA a-kzata
+s-file-init-helper WARNING: akzayA a-kzaya
+s-file-init-helper WARNING: akzayiRI a-kzayin
+s-file-init-helper WARNING: akzarA a-kzara
+s-file-init-helper WARNING: aKarvA a-Karva
+s-file-init-helper WARNING: agajA a-ga-ja
+s-file-init-helper WARNING: agnigarBA agni-garBa
+s-file-init-helper WARNING: agnijihvA agni-jihva
+s-file-init-helper WARNING: agnijvAlA agni-jvAla
+s-file-init-helper WARNING: agnidIptA agni-dIpta
+sandhi-single(error): [t s] 
+s-file-init-helper WARNING: agnimuKI agni-muKa
+Warning agnivela f agni-vela: (noun a) f
+error@line: agnivela : S f : <MW=agni-vela,1423,1>
+Warning agnisaraRa f agni-saraRa: (noun a) f
+error@line: agnisaraRa : S f : <MW=agni-saraRa,1431,1>
+s-file-init-helper WARNING: agnizWA agni-zWa
+s-file-init-helper WARNING: agnihotrI agni-hotra
+s-file-init-helper WARNING: agrA agra
+s-file-init-helper WARNING: agrajA agra-ja
+s-file-init-helper WARNING: agrimA agrima
+s-file-init-helper WARNING: agryA agrya
+s-file-init-helper WARNING: aGorA a-Gora
+s-file-init-helper WARNING: aNgajA aNga-ja
+s-file-init-helper WARNING: aNgikA aNgaka
+s-file-init-helper WARNING: aNganA aNgana
+s-file-init-helper WARNING: aNgAraparRI aNgAra-parRa
+s-file-init-helper WARNING: aNgAritA aNgArita
+s-file-init-helper WARNING: acaRqI a-caRqa
+s-file-init-helper WARNING: acalA a-cala
+s-file-init-helper WARNING: acirA a-cira
+s-file-init-helper WARNING: ajA aja
+s-file-init-helper WARNING: ajagarI aja-gara
+s-file-init-helper WARNING: ajamuKI aja-muKa
+s-file-init-helper WARNING: ajA a-ja
+s-file-init-helper WARNING: ajaqA a-jaqa
+s-file-init-helper WARNING: ajapA a-japa
+s-file-init-helper WARNING: ajayA a-jaya
+s-file-init-helper WARNING: ajarA a-jara
+s-file-init-helper WARNING: aYjanA aYjana
+s-file-init-helper WARNING: aYjanakeSI aYjana-keSa
+s-file-init-helper WARNING: aYjanakI aYjanaka
+s-file-init-helper WARNING: aYjasI aYjasa
+s-file-init-helper WARNING: aYjalikA aYjalika
+s-file-init-helper WARNING: aRqajA aRqa-ja
+s-file-init-helper WARNING: atasI atasa
+s-file-init-helper WARNING: atikaTA ati-kaTa
+Warning atigarIyas n ati-garIyas: (noun iiyas) n
+error@line: atigarIyas : S n : <MW=ati-garIyas,3443,1>
+s-file-init-helper WARNING: atiCattrakA ati-Cattraka
+s-file-init-helper WARNING: atitIvrA ati-tIvra
+s-file-init-helper WARNING: atitfzRA ati-tfzRa
+s-file-init-helper WARNING: atinidrA ati-nidra
+s-file-init-helper WARNING: atibalA ati-bala
+declension-general-1cons: unexpected : baahn M
+Warning atibAhn m ati-bAhn: (noun 1cons) m
+error@line: atibAhn : S m : <MW=ati-bAhn,3601,1>
+s-file-init-helper WARNING: atiraktA ati-rakta
+s-file-init-helper WARNING: atirucirA ati-rucira
+s-file-init-helper WARNING: ativakrA ati-vakra
+s-file-init-helper WARNING: atyamlA aty-amla
+s-file-init-helper WARNING: aticarA ati-cara
+s-file-init-helper WARNING: atiSayanI ati-Sayana
+s-file-init-helper WARNING: atyUhA aty-Uha
+s-file-init-helper WARNING: adattA a-datta
+s-file-init-helper WARNING: adyatanI adyatana
+Warning adyUtyA n a-dyUtyA: (noun aa) n
+error@line: adyUtyA : S n : <MW=a-dyUtyA,5421,1>
+s-file-init-helper WARNING: aDarA aDara
+s-file-init-helper WARNING: aDarmA a-Darma
+s-file-init-helper WARNING: aDomuKA aDo-muKa
+Warning aDityaka f aDityaka: (noun a) f
+error@line: aDityaka : S f : <MW=aDityaka,5997,1>
+s-file-init-helper WARNING: aDirohaRI aDi-rohaRa
+s-file-init-helper WARNING: aDiSrayaRI aDi-SrayaRa
+Warning aDyayanatapasI n aDy-ayana-tapasI: (noun ii) n
+error@line: aDyayanatapasI : S n : <MW=aDy-ayana-tapasI,6359,1>
+s-file-init-helper WARNING: aDIrA a-DIra
+s-file-init-helper WARNING: aDfzyA a-Dfzya
+s-file-init-helper WARNING: aDyUQA aDy-UQa
+s-file-init-helper WARNING: aDvagA aDva-ga
+s-file-init-helper WARNING: anapekzA an-apekza
+s-file-init-helper WARNING: anavadyA an-avadya
+s-file-init-helper WARNING: anavasTA an-avasTa
+s-file-init-helper WARNING: anavekzA an-avekza
+s-file-init-helper WARNING: anasUyA an-asUya
+s-file-init-helper WARNING: anAkrAntA an-AkrAnta
+s-file-init-helper WARNING: anAgA an-Aga
+s-file-init-helper WARNING: anAlambI an-Alamba
+s-file-init-helper WARNING: anidrA a-nidra
+s-file-init-helper WARNING: anizwA an-izwa
+s-file-init-helper WARNING: anISA an-ISa
+s-file-init-helper WARNING: anIhA an-Iha
+s-file-init-helper WARNING: anukUlA anu-kUla
+s-file-init-helper WARNING: anugA anu-ga
+s-file-init-helper WARNING: anucArikA anu-cAraka
+s-file-init-helper WARNING: anujA anu-ja
+s-file-init-helper WARNING: anujAtA anu-jAta
+s-file-init-helper WARNING: anutaptA anu-tapta
+s-file-init-helper WARNING: anunirvApyA anu-nirvApya
+s-file-init-helper WARNING: anupamA an-upama
+s-file-init-helper WARNING: anubanDI anu-banDa
+s-file-init-helper WARNING: anurAgiRI anu-rAgin
+s-file-init-helper WARNING: anulepikA anu-lepaka
+s-file-init-helper WARNING: anulomA anu-loma
+s-file-init-helper WARNING: anuvAkyA anu-vAkya
+s-file-init-helper WARNING: anuSayI anu-Saya
+s-file-init-helper WARNING: anuSayAnA anu-SayAna
+s-file-init-helper WARNING: anuzRA an-uzRa
+s-file-init-helper WARNING: anUkA anUka
+s-file-init-helper WARNING: anUQA an-UQa
+s-file-init-helper WARNING: anUnA an-Una
+s-file-init-helper WARNING: antaHpurikA antaH-purika
+s-file-init-helper WARNING: antaHsTA antaH-sTa
+s-file-init-helper WARNING: antrI antra
+s-file-init-helper WARNING: annapUrRA anna-pUrRa
+s-file-init-helper WARNING: apagA apa-ga
+s-file-init-helper WARNING: apacCAyA apa-cCAya
+s-file-init-helper WARNING: apattrA a-pattra
+s-file-init-helper WARNING: apatyadA apatya-da
+s-file-init-helper WARNING: apaTA a-paTa
+s-file-init-helper WARNING: aparA apara
+s-file-init-helper WARNING: aparAntikA aparAntaka
+s-file-init-helper WARNING: aparAjitA a-parAjita
+s-file-init-helper WARNING: aparRA a-parRa
+s-file-init-helper WARNING: apavIRA apa-vIRa
+s-file-init-helper WARNING: apAlA a-pAla
+s-file-init-helper WARNING: apiDAnI api-DAna
+s-file-init-helper WARNING: apucCA a-pucCa
+Warning apUrRata f a-pUrRa-ta: (noun a) f
+error@line: apUrRata : S f : <MW=a-pUrRa-ta,15029,1>
+s-file-init-helper WARNING: apodikA apodaka
+s-file-init-helper WARNING: aprajA a-praja
+s-file-init-helper WARNING: apratiBA a-pratiBa
+s-file-init-helper WARNING: aprattA a-pratta
+s-file-init-helper WARNING: apriyA a-priya
+s-file-init-helper WARNING: aprOQhA a-prOQha
+s-file-init-helper WARNING: aPalA a-Pala
+s-file-init-helper WARNING: abalA a-bala
+s-file-init-helper WARNING: abADA a-bADa
+s-file-init-helper WARNING: abdA ab-da
+s-file-init-helper WARNING: abDijA ab-Di-ja
+s-file-init-helper WARNING: abrAhmaRI a-brAhmaRa
+s-file-init-helper WARNING: aBayA a-Baya
+s-file-init-helper WARNING: aBicakzaRA aBi-cakzaRa
+s-file-init-helper WARNING: aBijYA aBi-jYa
+s-file-init-helper WARNING: aBiDAnI aBi-DAna
+s-file-init-helper WARNING: aBinandA aBi-nanda
+s-file-init-helper WARNING: aBimuKI aBi-muKa
+s-file-init-helper WARNING: aBisArI aBi-sAra
+s-file-init-helper WARNING: aBisAriRI aBi-sArin
+s-file-init-helper WARNING: aBIzwA aBIzwa
+s-file-init-helper WARNING: aByuditA aBy-udita
+s-file-init-helper WARNING: amAnuzI a-mAnuza
+s-file-init-helper WARNING: amarA a-mara
+s-file-init-helper WARNING: amarI a-mara
+s-file-init-helper WARNING: amalA a-mala
+declension-general-1cons: unexpected : am N
+Warning am n am: (noun 1cons) n
+error@line: am : S n : <MW=am,20893,1>
+s-file-init-helper WARNING: amftA a-mfta
+s-file-init-helper WARNING: amftaPalA a-mfta-Pala
+s-file-init-helper WARNING: amftasamBavA a-mfta-samBava
+s-file-init-helper WARNING: amoGA a-moGa
+s-file-init-helper WARNING: ambazWA amba-zWa
+error((wrong-type-argument char-or-string-p nil))
+error in file-init @ line= ''
+s-file-init-helper WARNING: amlikA amlaka
+Warning ayanakala f ayana-kala: (noun a) f
+error@line: ayanakala : S f : <MW=ayana-kala,21559,1>
+s-file-init-helper WARNING: ayoDyA a-yoDya
+s-file-init-helper WARNING: arajA a-raja
+s-file-init-helper WARNING: arAyI a-rAya
+s-file-init-helper WARNING: aruRapuzpI aruRa-puzpa
+s-file-init-helper WARNING: arkajA arka-ja
+s-file-init-helper WARNING: arkapattrA arka-pattra
+s-file-init-helper WARNING: arkasutA arka-suta
+Warning arkyA n arkyA: (noun aa) n
+error@line: arkyA : S n : <MW=arkyA,23017,1>
+s-file-init-helper WARNING: arjunI arjuna
+Warning arTakriya f arTa-kriya: (noun a) f
+error@line: arTakriya : S f : <MW=arTa-kriya,23267,1>
+s-file-init-helper WARNING: arTahArikA arTa-hAraka
+s-file-init-helper WARNING: ardanA ardana
+s-file-init-helper WARNING: arDacandanaliptA arDa-candana-lipta
+s-file-init-helper WARNING: arDapAdA arDa-pAda
+s-file-init-helper WARNING: arDamAtrikA arDa-mAtrika
+s-file-init-helper WARNING: arSoGorI arSo-Gora
+s-file-init-helper WARNING: alagardA ala-garda
+s-file-init-helper WARNING: alakA alaka
+s-file-init-helper WARNING: alambuzA alambuza
+s-file-init-helper WARNING: alAbukA alAbuka
+s-file-init-helper WARNING: alipriyA ali-priya
+s-file-init-helper WARNING: alolA a-lola
+s-file-init-helper WARNING: alpapattrI alpa-pattra
+s-file-init-helper WARNING: avakA avaka
+s-file-init-helper WARNING: avakzepaRI ava-kzepaRa
+s-file-init-helper WARNING: avacUqA ava-cUqa
+s-file-init-helper WARNING: avapIqanA ava-pIqana
+s-file-init-helper WARNING: avarA avara
+Warning avarIyas m a-varIyas: (noun iiyas) m
+error@line: avarIyas : S m : <MW=a-varIyas,26193,1>
+s-file-init-helper WARNING: avaroDikA ava-roDaka
+s-file-init-helper WARNING: avarzA a-varza
+s-file-init-helper WARNING: avaleKA ava-leKa
+s-file-init-helper WARNING: avaleKanI ava-leKana
+s-file-init-helper WARNING: avalIQA ava-lIQa
+s-file-init-helper WARNING: avalehikA ava-lehaka
+s-file-init-helper WARNING: avalokitA ava-lokita
+Warning avas n avas: (noun vas) n
+error@line: avas : S n : <MW=avas,26597,1>
+Warning avasaBa f ava-saBa: (noun a) f
+error@line: avasaBa : S f : <MW=ava-saBa,26645,1>
+s-file-init-helper WARNING: avaTA ava-Ta
+s-file-init-helper WARNING: avahitTA avahitTa
+s-file-init-helper WARNING: avipriyA avi-priya
+s-file-init-helper WARNING: avikA avika
+s-file-init-helper WARNING: aviGnA a-viGna
+s-file-init-helper WARNING: aviTyA aviTya
+s-file-init-helper WARNING: avinItA a-vinIta
+declension-general-1cons: unexpected : viparyay M
+Warning aviparyay m a-viparyay: (noun 1cons) m
+error@line: aviparyay : S m : <MW=a-viparyay,27527,1>
+Warning aviBAjyata f a-viBAjya-ta: (noun a) f
+error@line: aviBAjyata : S f : <MW=a-viBAjya-ta,27587,1>
+Warning aviBAvana f a-viBAvana: (noun a) f
+error@line: aviBAvana : S f : <MW=a-viBAvana,27591,1>
+Warning aviSvasanIyatvA n a-viSvasanIya-tvA: (noun aa) n
+error@line: aviSvasanIyatvA : S n : <MW=a-viSvasanIya-tvA,27785,1>
+s-file-init-helper WARNING: aviSvAsA a-viSvAsa
+s-file-init-helper WARNING: avizA a-viza
+s-file-init-helper WARNING: avizI aviza
+s-file-init-helper WARNING: avIrA a-vIra
+s-file-init-helper WARNING: avedyA a-vedya
+s-file-init-helper WARNING: avelA a-vela
+s-file-init-helper WARNING: avyaNgA a-vyaNga
+s-file-init-helper WARNING: avyaTizI a-vyaTiza
+s-file-init-helper WARNING: avyavasTA a-vyavasTa
+s-file-init-helper WARNING: aSanA a-Sana
+Warning aSanAyApipAse f aSanAyA-pipAse: (noun e) f
+error@line: aSanAyApipAse : S f : <MW=aSanAyA-pipAse,28287,1>
+s-file-init-helper WARNING: aSokA a-Soka
+s-file-init-helper WARNING: aSokakarI a-Soka-kara
+s-file-init-helper WARNING: aSmakI aSmaka
+Warning aSradDa f a-SradDa: (noun a) f
+error@line: aSradDa : S f : <MW=a-SradDa,28825,2>
+s-file-init-helper WARNING: aSrutA a-Sruta
+s-file-init-helper WARNING: aSvA aSva
+Warning aSvakaSa f aSva-kaSa: (noun a) f
+error@line: aSvakaSa : S f : <MW=aSva-kaSa,28965,1>
+s-file-init-helper WARNING: aSvaparRI aSva-parRa
+s-file-init-helper WARNING: aSvapucCikA aSva-pucCaka
+s-file-init-helper WARNING: aSvamuKI aSva-muKa
+s-file-init-helper WARNING: aSvameDatva aSva-meDa
+s-file-init-helper WARNING: aSvaraTA aSva-raTa
+s-file-init-helper WARNING: aSvahfdayA aSva-hfdaya
+s-file-init-helper WARNING: aSvArohA aSvAroha
+s-file-init-helper WARNING: aSvikA aSvaka
+s-file-init-helper WARNING: aSvatarA aSvatara
+s-file-init-helper WARNING: aSvatarI aSvatara
+s-file-init-helper WARNING: aSvatTA aSvatTa
+s-file-init-helper WARNING: aSvatTI aSvatTa
+s-file-init-helper WARNING: aSvatTikA aSvatTaka
+s-file-init-helper WARNING: azAQA a-zAQa
+s-file-init-helper WARNING: azwakarRI azwa-karRa
+s-file-init-helper WARNING: azwApadA azwA-pada
+s-file-init-helper WARNING: azwakA azwaka
+s-file-init-helper WARNING: azwakA azwaka
+s-file-init-helper WARNING: azwamI azwama
+s-file-init-helper WARNING: azwamikA azwamaka
+s-file-init-helper WARNING: asanA asana
+s-file-init-helper WARNING: asapatnA a-sapatna
+s-file-init-helper WARNING: asaMbADA a-saMbADa
+s-file-init-helper WARNING: asArA a-sAra
+s-file-init-helper WARNING: asitA asita
+s-file-init-helper WARNING: asurA asura
+s-file-init-helper WARNING: asurI asura
+s-file-init-helper WARNING: asUyA asUya
+s-file-init-helper WARNING: asfpAwI asf-pAwa
+s-file-init-helper WARNING: astA asta
+s-file-init-helper WARNING: aspfhA a-spfha
+s-file-init-helper WARNING: asrapA asra-pa
+Warning ahaMSreyas n ahaM-Sreyas: (noun iiyas) n
+error@line: ahaMSreyas : S n : <MW=ahaM-Sreyas,31567,1>
+s-file-init-helper WARNING: ahicCattrA ahi-cCattra
+s-file-init-helper WARNING: ahiMsrA a-hiMsra
+s-file-init-helper WARNING: ahitA a-hita
+s-file-init-helper WARNING: AkANkzA A-kANkza
+s-file-init-helper WARNING: AkAlikI AkAlika
+s-file-init-helper WARNING: AkAraRA A-kAraRa
+s-file-init-helper WARNING: AkarzikA A-karzaka
+s-file-init-helper WARNING: AkarzaRI A-karzaRa
+s-file-init-helper WARNING: AkarziRI A-karzin
+s-file-init-helper WARNING: AkrayA A-kraya
+s-file-init-helper WARNING: AkzikI Akzika
+s-file-init-helper WARNING: AKaRqalA A-KaRqala
+s-file-init-helper WARNING: AKyAnakI A-KyAnaka
+s-file-init-helper WARNING: AgnIDrA AgnIDra
+s-file-init-helper WARNING: AgneyI Agneya
+s-file-init-helper WARNING: AgneyEndrA AgneyEndra
+s-file-init-helper WARNING: AgrayaRI AgrayaRa
+s-file-init-helper WARNING: AgrahAyaRI AgrahAyaRa
+s-file-init-helper WARNING: AGawwanA A-Gawwana
+s-file-init-helper WARNING: AGarzaRI A-GarzaRa
+s-file-init-helper WARNING: ANgI ANga
+s-file-init-helper WARNING: ANgeyI ANgeya
+s-file-init-helper WARNING: ANgirasI ANgirasa
+s-file-init-helper WARNING: AcamanI A-camana
+s-file-init-helper WARNING: AcArI A-cAra
+s-file-init-helper WARNING: AcAryA AcArya
+s-file-init-helper WARNING: AcCedanI A-cCedana
+s-file-init-helper WARNING: AjA Aja
+s-file-init-helper WARNING: AjAnA A-jAna
+s-file-init-helper WARNING: AjYAkarI A-jYA-kara
+s-file-init-helper WARNING: AYjanI AYjana
+s-file-init-helper WARNING: AQakI AQaka
+s-file-init-helper WARNING: AtiTeyI AtiTeya
+s-file-init-helper WARNING: AtiTyA AtiTya
+s-file-init-helper WARNING: AtmajA Atma-ja
+Warning Atmata f Atma-ta: (noun a) f
+error@line: Atmata : S f : <MW=Atma-ta,34117,1>
+s-file-init-helper WARNING: AtmasamBavA Atma-samBava
+s-file-init-helper WARNING: AtmodBavA AtmodBava
+s-file-init-helper WARNING: AtmaneBAzA Atmane-BAza
+s-file-init-helper WARNING: AtreyI Atreya
+s-file-init-helper WARNING: Adimattva Adi-mat
+s-file-init-helper WARNING: AdyudAttatva Ady-udAtta
+s-file-init-helper WARNING: AdyA Adya
+s-file-init-helper WARNING: AdityA Aditya
+s-file-init-helper WARNING: ADmAnI A-DmAna
+s-file-init-helper WARNING: AnandA A-nanda
+s-file-init-helper WARNING: AnandaBEravI A-nanda-BErava
+s-file-init-helper WARNING: AnIlI A-nIla
+s-file-init-helper WARNING: AnDrI AnDra
+s-file-init-helper WARNING: AptA Apta
+s-file-init-helper WARNING: ApI Apa
+s-file-init-helper WARNING: ApadevI Apadeva
+s-file-init-helper WARNING: ApyAyanI A-pyAyana
+s-file-init-helper WARNING: AbADA A-bADa
+s-file-init-helper WARNING: ABIrI ABIra
+s-file-init-helper WARNING: AmantraRA A-mantraRa
+s-file-init-helper WARNING: AmiSraBUtatva A-miSra-BUta
+s-file-init-helper WARNING: AmizI Amiza
+s-file-init-helper WARNING: AmbazWyA AmbazWya
+s-file-init-helper WARNING: AmrapAlI Amra-pAla
+s-file-init-helper WARNING: AmrAtakI AmrAtaka
+s-file-init-helper WARNING: AyatA A-yata
+Warning Ayavas n Ayavas: (noun vas) n
+error@line: Ayavas : S n : <MW=Ayavas,37073,1>
+s-file-init-helper WARNING: AyasI Ayasa
+s-file-init-helper WARNING: AyuHSezatA AyuH-Seza
+s-file-init-helper WARNING: AyogavI Ayogava
+s-file-init-helper WARNING: ArA Ara
+s-file-init-helper WARNING: ArakzA A-rakza
+Warning AraRyamudga f AraRya-mudga: (noun a) f
+error@line: AraRyamudga : S f : <MW=AraRya-mudga,37381,1>
+s-file-init-helper WARNING: AraBawI A-raBawa
+s-file-init-helper WARNING: AramBarucitA A-ramBa-ruci
+s-file-init-helper WARNING: ArADanA A-rADana
+s-file-init-helper WARNING: AruRI AruRa
+s-file-init-helper WARNING: ArogyA Arogya
+s-file-init-helper WARNING: ArjIkIyA ArjIkIya
+s-file-init-helper WARNING: ArtavI Artava
+s-file-init-helper WARNING: ArdrA Ardra
+s-file-init-helper WARNING: AryA Arya
+s-file-init-helper WARNING: AryikA Aryaka
+s-file-init-helper WARNING: AryamaRI AryamaRa
+s-file-init-helper WARNING: ArzI Arza
+s-file-init-helper WARNING: ArzaBI ArzaBa
+s-file-init-helper WARNING: AlApA A-lApa
+s-file-init-helper WARNING: AlambA A-lamba
+s-file-init-helper WARNING: AleKanI A-leKana
+s-file-init-helper WARNING: AliNganA A-liNgana
+s-file-init-helper WARNING: AlukI Aluka
+s-file-init-helper WARNING: AvantI Avanta
+s-file-init-helper WARNING: AvantikA Avantika
+s-file-init-helper WARNING: AvapanI A-vapana
+s-file-init-helper WARNING: AvAhanI A-vAhana
+s-file-init-helper WARNING: AvirmuKI Avir-muKa
+s-file-init-helper WARNING: AvartA A-varta
+s-file-init-helper WARNING: AvartakI A-vartaka
+s-file-init-helper WARNING: AvartanI A-vartana
+s-file-init-helper WARNING: AvegI A-vega
+s-file-init-helper WARNING: AvidDakarRI A-vidDa-karRa
+Warning ASuSravas m ASu-Sravas: (noun vas) m
+error@line: ASuSravas : S m : <MW=ASu-Sravas,39113,1>
+s-file-init-helper WARNING: ASrezA A-Sreza
+s-file-init-helper WARNING: ASvayujI ASvayuja
+s-file-init-helper WARNING: ASvinI ASvina
+s-file-init-helper WARNING: AzAQA AzAQa
+s-file-init-helper WARNING: AzAQI AzAQa
+s-file-init-helper WARNING: AzAQikA AzAQaka
+s-file-init-helper WARNING: AzwrA Azwra
+s-file-init-helper WARNING: AzwrI Azwra
+s-file-init-helper WARNING: AsanA Asana
+s-file-init-helper WARNING: AsanI Asana
+s-file-init-helper WARNING: AsannataratA A-sanna-tara
+s-file-init-helper WARNING: AsandI Asanda
+s-file-init-helper WARNING: AsecanI A-secana
+s-file-init-helper WARNING: AsurI Asura
+s-file-init-helper WARNING: AsTAnI A-sTAna
+s-file-init-helper WARNING: AsPowanI A-sPowana
+s-file-init-helper WARNING: AsPotA A-sPota
+s-file-init-helper WARNING: AhukI Ahuka
+s-file-init-helper WARNING: AhvA A-hva
+s-file-init-helper WARNING: AhvAyikA AhvAyaka
+s-file-init-helper WARNING: ityA itya
+s-file-init-helper WARNING: itvarI itvara
+s-file-init-helper WARNING: ikzuganDA ikzu-ganDa
+s-file-init-helper WARNING: ikzupattrI ikzu-pattra
+s-file-init-helper WARNING: ikzvAlikA ikzvAlika
+s-file-init-helper WARNING: iNgA iNga
+s-file-init-helper WARNING: ijyA ijya
+s-file-init-helper WARNING: iqaviqA iqa-viqa
+s-file-init-helper WARNING: itarA i-tara
+s-file-init-helper WARNING: itikaTA iti-kaTa
+s-file-init-helper WARNING: idAnIMtanatva idAnIMtana
+s-file-init-helper WARNING: indIvarI indI-vara
+s-file-init-helper WARNING: indIvarA indI-vara
+s-file-init-helper WARNING: indukAntA indu-kAnta
+s-file-init-helper WARNING: indujA indu-ja
+s-file-init-helper WARNING: induBA indu-Ba
+s-file-init-helper WARNING: induvadanA indu-vadana
+s-file-init-helper WARNING: indrA indra
+s-file-init-helper WARNING: indrI indra
+s-file-init-helper WARNING: indramArgA indra-mArga
+s-file-init-helper WARNING: indravajrA indra-vajra
+s-file-init-helper WARNING: indrasenA indra-sena
+s-file-init-helper WARNING: indrAyuDA indrAyuDa
+s-file-init-helper WARNING: iBI iBa
+s-file-init-helper WARNING: iByA iBya
+declension-general-1cons: unexpected : iyam F
+Warning iyam f iyam: (noun 1cons) f
+error@line: iyam : S f : <MW=iyam,41357,1>
+s-file-init-helper WARNING: ilavilA ilavila
+s-file-init-helper WARNING: izIkA izIka
+s-file-init-helper WARNING: izukA izuka
+s-file-init-helper WARNING: izukA izuka
+s-file-init-helper WARNING: izwA izwa
+s-file-init-helper WARNING: IkzA Ikza
+declension-general-1cons: unexpected : iiD F
+Warning Iq f Iq: (noun 1cons) f
+error@line: Iq : S f : <MW=Iq,41895,1>
+s-file-init-helper WARNING: IrzyA Irzya
+s-file-init-helper WARNING: IlinI Ilina
+s-file-init-helper WARNING: ISA ISa
+s-file-init-helper WARNING: ISAnA ISAna
+s-file-init-helper WARNING: ISAnI ISAna
+s-file-init-helper WARNING: ISAnADipA ISAnADipa
+s-file-init-helper WARNING: IzaRA IzaRa
+s-file-init-helper WARNING: IhA Iha
+s-file-init-helper WARNING: ukTA ukTa
+t
+(write-file "scratch-01.txt")
+nil
+(+ 2 2)

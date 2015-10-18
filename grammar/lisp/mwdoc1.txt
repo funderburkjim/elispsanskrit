@@ -1,0 +1,630 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+mwdoc1.txt
+begun 05-04-2006.
+
+* Purpose
+This document explains changes I have made to the Monier-Willians dictionary of
+the Cologne Digital Sanskrit Project. These changes were begun 12-03-2003,
+not long after a meeting with Scharf and Hyman, and were inspired by
+that meeting.  As I recall it, my purpose at that time was to be able to
+look up words using inflected forms. The strategy was to use the dictionary
+to generate a list of words, along with their lexical categories,  to be
+inflected; then to use inflection construction algorithms, that I had 
+developed following Kale's grammar, to create inflected forms; then to create
+some indexing scheme by which the inflected forms would lead to the dictionary
+entries which started the process.  In carrying out this aim,
+I encountered various kinds of 'anomalies' in the data, and 'correction' of
+these became a subsidiary goal with a life of its own.  Relatedly, examination
+of dictionary entries prompted me to think that often the dictionary told me
+more than I really wanted to know when I looked up a word; for instance, there
+are numerous citations detailing  word usage in Sanskrit literature, and there
+are summaries of many stories from the literature.  While I could see the 
+potential value of such information in some contexts, for me at the time  
+these details were annoying cobwebs to push aside, and I thought to somehow
+tag these extraneous parts so I could avoid printing them.  This tagging 
+process became a third independent goal.
+
+
+* mwtot2.txt (the starting dictionary)
+  This is the original form of the file, from the down-loaded 'mwsdd' program
+of Bontes, which "is an interface to the Monier Williams Sanskrit dictionary, that has been digitised by the university of koln". 
+mwsdd:  http://members.chello.nl/l.bontes/sans_n.htm
+ For the current version and the project report on the Cologne Sanskrit
+ Dictionary Lexicon (CDSL), see
+koln: http://webapps.uni-koeln.de/tamil/
+      http://www.uni-koeln.de/phil-fak/indologie/tamil/mwreport.html
+
+The data in mwtot2.txt is very close, I think, to that described in the 
+preceding document. However,  of the 11  ASCII characters used to
+tag structural elements, only two (241 and 243) are present in mwtot2.txt.
+
+* mwtot2.txt file structure.
+
+The file as given has 16520066 characters, a little over 15 megabytes. The
+data is organized into 332868 lines (separated by ASCII 10 '\n' new line).
+The lines occur in pairs, with the first line in a pair containing a word
+identifying the entry, and the second line containing the data for that word.
+I have retained the line organization throughout all changes made thus far.
+Thus although my current version of the dictionary (SL-mwtot3.txt) has 
+somewhat over 20 megabytes of data, it still has 332868 lines.
+
+To resolve various questions concerning the data, I have used the 'Searchable
+Digital Facsimile Edition' of the Monier Williams dictionary, provided by the 
+Bhaktivedanta Book Trust, 2002, www.krishna.com.  Numerous comparisons suggest
+this facsimile edition is based upon a printed edition 
+identical to that from which CDSL was digitized.
+
+* use of EMACS
+The original file mwtot2.txt and its successors, being text files, may be
+examined and modified with any text editor.  I have used the venerable program
+EMACS, made available by the Free Software Foundation. Besides providing an
+efficient editor, EMACS has an implementation of Lisp, with numerous 
+functions specialized to text manipulation.  Versions are  available for
+many operating systems, and code 'compiled' on one system generally runs 
+correctly on another. 
+
+* version tracking
+I have made efforts to keep track of changes made to mwtot2.txt.
+Most changes have a history in terms of program code written to
+accomplish the changes.  A function was written to save, 
+to a date-time-stamped text file, images of lines being changed interactively. 
+There are also several versions of the file saved along the way. 
+However, these efforts are much less systematic than one could envision.
+
+* transliteration schemes
+There are essentially two transliteration schemes used in CDSL. 
+The HK (Harvard-Kyoto) scheme is used for the key and for forms identified
+with the marker %{}, e.g., %{deva}. In this form one may encounter the
+hyphen to separate parts of compound words. Numbers are use to represent
+accents.
+The AS (Anglicized Sanskrit) scheme represents proper names of Indian origin.
+Unfortunately, these words are not set off from the other text, so their
+identification programmatically is harder.
+
+Both transliteration schemes have been changed to SLP1. 
+This was fairly straightforward for the HK forms. The hyphenations
+have been retained. The accents have been discarded.
+The change of AS forms to SLP1 encloses the SLP1 forms between the braces
+of the marker %%{}. The correctness of some forms is unsure, not only due
+to the difficulties mentioned in the CDSL document, but in addition 
+because of multiple spellings.
+
+* tagging
+ Tags, of the form <TAG=...>, were used in various ways to organize the
+data in mwtot2.txt.  The attachment "mw-tag.txt" shows there are over 850,000
+tags in the file.
+
+* removing grouping irregularities
+Within a given data line of mwtot2.txt, several punctuation symbols
+group the information, including parentheses '()', square
+brackets '[]', quotations (e.g. `" the abode of snow. "'), 
+semicolons (primarily to separate related words).  The clauses identified
+by semicolons are of great interest in identifying lexical forms.  However,
+semicolons are also used within parenthetical comments. So the identification
+of the top-level sequence determined by semicolons requires the identification
+of parenthesized groups, so as to exclude semicolons within such groups.
+This identification is based upon some properties :
+parentheses must be paired, and similarly for [], {},  and quotes; and the
+groups identified by such pairing may be nested but should not overlap
+ (e.g., '(and [a book) and sword]' is improper). 
+When grouping irregularities were noticed in mwtot2.txt, it was decided
+to replace them with tags; they were marked with <ERR=code>, 
+e.g., <ERR=LP> for a problematic left parenthesis. 
+ Given the file size, the number of errors is
+fairly small:  4909 <ERR=..> forms are currently present in the file.
+In addition to marking (and thereby removing) grouping errors, semicolons
+embedded within parentheses were changed to SC (14800 instances).  Many
+top level semicolons can be identified as providing alternate uses of the
+same word; these have been replaced by 'OR'.  However, this selective 
+replacement is incomplete.
+
+* lexical category of entries (LEX )
+In this discussion, a clause is one of the top-level groups defined
+by semicolons in a given data line of mwtot2.txt.  There is always
+at least one clause (no semicolons).
+
+MW shows considerable regularity in identifying grammatical forms. The
+general principle is that the form is the first item of information in
+a clause.  For example "mfn." indicates that the word is declined in all
+three genders; "cl. 1. P. A1." indicates the word is conjugated as a verb
+of the first conjugational class in both active and middle forms. 
+ 
+Such lexical forms were slightly modified to make their subsequent 
+programmatic identification and usage easier. For example "mfn." was 
+changed to <LEX=adj>; "f." = <LEX=f>; "cl. 1. P. A1." = <LEX=V 1 P A>.
+
+Currently, there are 185760 <LEX=...> forms seen.  This is about 1 per line.
+See attachment "mwdoc-lex.txt" for a listing of forms.
+
+A few variations on the general form in MW are seen: 
+** Some clauses have no lexical identifier.
+
+***  Sometimes, an initial clause with a lexical identifier is followed
+by several clauses with no identifier; presumably the semicolons in such
+cases could be replace by the symbol 'OR'.  Such a replacement has been
+done in some cases, and probably should be done systematically.
+
+*** Sometimes, a line will have no lexical identifier. This occurs for
+various reasons.  In fact there are 861 empty data lines.
+
+** prefixed verbs often have no lexical identifier; this is discussed
+separately.
+
+** "mf(%{I})n." indicates an adjective in which the feminine
+form ends in 'I', and the masculine and neuter forms end in 'a'; this would
+only appear for words whose entry form ends in 'a'; this becomes <LEX=adjI>.
+
+**  parenthetical lexical forms. 
+  'hyaH-kfta', an adjective, shows
+  "(%{-vat} ind.)", presumably indicating that 'hyaH-kfta-vat' is
+  an indeclineable form; this was changed to "(%{-vat} <ELX=I>)". There are
+  currently 5053 <ELX=..> forms. 
+
+** clauses for related words.
+  Frequently, within an entry for a nominal or indeclineable form,
+ there are clauses for related words. For instance, line 69054 for 'kuYjara'
+ has a clause in mwtot2.txt "(%{A}) f. a female elephant ". This becomes
+ "<LEX=f> <KEY=kuYjarA>". The identification of such related words has
+ been done systematically in a few  instances. However, many  complicated
+ cases have not been tagged.
+
+** For roots conjugated according to the rules of multiple houses,
+  the conjugational class identifiers appear at various points in a clause.
+  In general, all the multiple identifiers are aggregrated into one <LEX> tag.
+  'kf' is a good example; its  tag is <LEX=V 2 P A 1 P 5 P A 8 P A>
+
+** However, 'iz' provides an instance where more than one <LEX> tag 
+  appears in a clause.
+
+** 'iz' also shows provides an example of a missed form:  There is a
+  class 9 form (%{izRAti}) that was not tagged.  
+
+** Many words have more than one clause with a lexical identifier.
+
+**  prefixed verbs may appear in MW with no lexical form, for example,
+  'agrataH-kf'. In this case, it is reasonable to assume that the verb
+  may be conjugated like 'kf', and  the lexical 
+  identification of 'kf' has been inserted into that of 'agrataH-kf'.
+  In addition, the note "<LXI=kf agrataH-kf>" has been inserted. 
+
+  The underlying root is identified in MW, with the appearance of
+  (%{root}) as the first item in the entry; the program generating LXI 
+  deduces the prefixes from the key. For instance,
+  "aBy-e" -> <LXI=i aBi-A-i>"
+
+  Currently there are 6641 "<LXI=..>" forms. 
+  In subsequent work, prefixed verbs have not been further processed;
+  in particular, the choice was made to generate inflected forms only for
+  un-prefixed verbs.
+  At this time, the way in which <LEX=...> was generated for prefixed
+  verbs seems questionable to me. (The code appears in function
+  'modify-SLmwtot3-5a5'.)
+
+* Other lexical tags
+  The role of LXI for prefixed verbs was mentioned above.
+  The role of ELX for parenthetical lexical specifications was mentioned.
+  LXB was added to words for which a likely lexical category was present
+    but which had no definitional data.
+  LXA marks multiple lexical categories in a clause; this was considered a
+  case whose form, being slightly non-standard,
+  should be handled in some special way. Thus far, these have 
+  received no further processing. For example:
+ezaRa <MWL=55267> <DER=1>
+ %{am} , %{A} <LXA=n> <LXA=f> impulse , ardent desire <S=BP> 
+
+
+* the <DER> tag
+ Some words have more than one entry (line) in the file. These 
+  correspond to different usages of a given word. When multiple derivations
+  are present, mwtot2.txt numbers the clauses. I have changed this numbering
+  to a tag <DER=#> and placed it in the key  line.
+
+* SL-mwtot3-keys.txt. 
+ As a first approximation, the keys by which data records in 
+ SL-mwtot3.txt may be accessed are specified as those words appearing
+on the first line of each pair of lines in the file.  
+For example, consider the pair of lines
+agni-hotf <MWL=1507>
+ <LEX=m> <PFX=(%{agni})> having %%{agni} for a priest <S=RV,x,66,8> <M=1>.
+
+Note that the original line number, 1507, is indicated with the MWL tag.
+Random access into SL-mwtot3.txt is facilitated by an index file
+SL-mwtot3-keys.txt. There is a line in this file for agni-hotf, namely,
+'agnihotf agni-hotf 1507'.
+
+To look up the data for "agnihotf", one searches for this in the key file,
+finds the line number, 1507, then uses the 'goto-line' function of EMACS
+to access the line. This whole process is moderately efficient. Of course,
+access from programs written in other languages might use a character
+position offset instead of a line number, and this might be more efficient.
+However, the line number approach is convenient, since the key file does
+not have to be remade when changes to a data line are made.
+
+* alternate keys (the <KEY> tag)
+ There are also keys within the index file SL-mwtot3-keys.txt corresponding
+ to the arguments of the <KEY> tag; for 
+ For many words, usually those which are declined, the first clause defines
+ the word, and one or more subsequent clauses define words which are
+ compounds beginning with the given word. 
+ For example, consider line 1510 : agni-hotra.
+  This has as a second clause:
+   mwtot2.txt: "(%{I4}) f. the cow destined for the Agnihotra"
+   SL-mwtot3.txt: "<LEX=f> <KEY=agni-hotrI> the cow destined for the %%{agnihotra}"
+ There are two records in SL-mwtot3-keys.txt pointing to this record:
+agnihotra agni-hotra 1509
+agnihotrI agni-hotra 1509
+
+  For the most part, the currently existing secondary keys are those
+  generated in a very simple way, like the 'A' and 'I' feminine forms.
+  There are, however, many more complicated secondary forms for which 
+  <KEY> tags might be made but have not been made.  These usually appear as
+  a form "; (%{x}) <LEX=y>"  and so can be recognized, but some algorithm
+  is required to derive a new key from the underlying key of the record 
+  and  'x'.  
+
+* Should SL-mwtot3.txt have more lines?
+ There is some arbitrariness in how lines are determined. It is common
+ that compounds are presented as separate words (lines). For example,
+ there are 202 compounds beginning with 'kfzRa'. However, there are
+ numerous cases where related words appear as separate clauses rather
+ than as separate lines, and this distinction appears arbitrary and not
+ particularly useful. For instance,
+
+kfzRa-Bawwa <MWL=73719>
+ <LEX=m> name of a grammarian OR of a poet ; <LEX=f> <KEY=kfzRa-BawwI> name of a <AB=Comm> written by %%{kfzRaBawwa}.
+kfzRa--BawwIya <MWL=73721>
+ <LEX=n> name of <AB=wk> composed by %%{kfzRaBawwa}.
+
+ Shouldn't "kfzRa-BawwI" have a separate line?
+
+ Or consider, 
+kfzRAnanda <MWL=73961>
+ <LEX=m> name of a scholiast OR of the author of the %%{tantrasAra} ; %{-svAmin} <LEX=m> name of a man.
+
+ Shouldn't "kfzRAnanda-svAmin" have a separate line?
+
+* lists of forms to be inflected.
+ 
+It is fairly straightforward to generate lists of forms to
+  be inflected, once the <LEX> tags have been assigned. 
+ The following lists were generated (in directory grammar/inputs)
+  MW-noun.txt  106,890 words
+  MW-adj.txt 49,783 words
+  MW-PCO.txt 76 words (pronouns, cardinals, ordinals)
+  MW-ind.txt  3,479 words (indeclinables)
+  MW-verb.txt 2,009 words (non-prefixed verbs)
+
+Each file is composed of lines of the general form:
+<word> : <lexical specifier> : <MW=word1,line#,clause#>
+
+'word1' is essentially the word, as hyphenated by the dictionary.  This
+plays a peculiar role in the algorithms for inflecting nouns and 
+adjectives.  The line# and clause# are references to the dictionary, but
+are not further used.
+
+The code that constructed these files is '(construct-MW-inputs-1-all)' in
+file mw.el'.
+
+* compilation of inflected forms (file structure)
+  Based upon the MW-<type>.txt files, programs construct inflected forms
+  and related indexing information. I chose to avoid dependence upon a
+  database program, and so devised a collection of text files serving as
+  a database.  
+  The inflected forms appear in files within subdirectories
+  of grammar/forms/.  The nouns, adjectives and 'pco' substantives appear
+  in the 's' directory; the indeclineables in the 'i' directory; the verbs
+  in the 'v' and 'vc' (causal) directories.
+ 
+  All the inflected forms for a given substantive appear in the the same
+  file in directory 's'; the name of the file containing information for
+  substantive 'xyzw' is 'xy'.  For example, the data for 'rAma' is in file
+  'ra'.  There is a record for each declension of 'rAma'; for the
+  declension as a masuline noun the record is:
+:noun a m:rAma:rAma:[rAmaH rAmO rAmAH rAmam rAmO rAmAn rAmeRa rAmAByAm rAmEH rAmAya rAmAByAm rAmeByaH rAmAt rAmAByAm rAmeByaH rAmasya rAmayoH rAmARAm rAme rAmayoH rAmezu rAma rAmO rAmAH]
+ The first 'rAma' is the word being declined; the 2nd is the MW key.
+ Then appears the declension. The 'noun a m' indicates how the inflected
+ forms are derived from the citation form.
+
+  Indeclineables are similarly stored in files 'xy' in directory 'i'.
+
+  The scheme is different for verbs.  Each verb has its own file within
+   directory 'v'. For instance, the inflected forms of 'kf' are in file
+  'kf'. There is also a root 'kF', which is stored in file 'kf1'. Note also
+  that substantives  (participles) and indeclineables (e.g., infinitive) 
+  appear in the forms for a root. The different forms appear on different
+  lines. For instance, consider the root 'ci'.
+  In file grammar/roots/v/ci, there are about 80 lines. The first identifies
+  the root. There is a 'ptrs' line which contains a list of strings beginning
+  inflected forms present in the file.
+  There are several 'class' lines indicating the house-voice (active/middle)
+  according to which the root acquires present system inflections. Then,
+  there are lines reflecting the inflections, e.g.
+:pre 1m:[cayate cayete cayante cayase cayeTe cayaDve caye cayAvahe cayAmahe]
+  The details of these inflection lines is described elsewhere.
+  
+  There is a parallel set of files within directory 'vc' for the
+  causal forms of verbs. 
+
+  Several indexing files are constructed in directory 'grammar/forms'.
+   s-ptrs.txt, i-ptrs.txt, v-ptrs.txt, vc-ptrs.txt. 
+
+  The look-up scheme for an inflected form is now easy:  Use the 'ptrs' files
+  to generate a list of files where the given word might be; for each of
+  these files, use a regular expression search to find the word; for each
+  match, return the MW citation word of which the word is an inflected form,
+  as well as details of the inflection.  Then, one may further
+  access the MW entry for the citation word, if so desired.
+
+  One advantage of the present file structure is that it is fairly easy
+  to write procedures to correct mistakes for a given inflection, without
+  having to recreate the entire database.
+
+  Perhaps surprising is the fact that the access method is acceptably
+  responsive, given the rather primitive nature of the indexing scheme.
+
+
+* inflected form algorithms
+
+  The inflected forms were generated using algorithms based mainly
+on Kale's Higher Sanskrit Grammar. The conversion of Sanskrit grammar rules
+to computer programs that manipulate character strings is complex, with
+ample scope for error.  A test suite was developed to assess the correctness
+of the algorithms. The files in directory 'validation/' and the
+code in 'lisp/validation.el' pertain to this.
+
+
+* declension algorithms
+  Function 's-file-init' in file 'forms.el' constructs declensions
+   from files like MW-noun.txt, MW-adj.txt, and MW-PCO.txt. and puts
+   the results into appropriate files within directory forms/s/.
+
+ The declension algorithm takes three pieces of information:
+  1. citation form of word
+  2. form descriptor, one of:
+     m, n, f, mn, mf
+     adj, adjI 
+     PRON, ORD, CARD
+  3. hyphenated citation form of word 
+
+
+    Here are the frequency of occurrence of the form descriptors:
+
+(regexp-distrib "MW-noun.txt" ":[ a-zA-Z]+:")
+
+ncount = 106886
+': S m :'  53621
+': S n :'  26680
+': S f :'  25115
+': S mn :'  1401
+': S mf :'  68
+': S f  :'  1
+
+(regexp-distrib "MW-adj.txt" ":[ a-zA-Z]+:")
+ncount = 49783
+': S adj :'  47551
+': S adjI :'  2232
+3t
+(regexp-distrib "MW-PCO.txt" ":[ a-zA-Z]+:")
+ncount = 76
+': S PRON :'  36
+': S ORD :'  22
+': S CARD :'  18
+t
+
+The hyphenated-citation allows more correct handling of the 'n' to 'R' sandhi
+for compounds.  For example, consider 'akzyAmaya' (a disease of the eye).
+The 'n' to 'R' sandhi would have 'akzyAmayeRa' for case 3s, due to 'z'.
+However, MW shows the hyphenated form 'akzy-Amaya'; declining the last
+compound word and then prefixing the other compound words yields in
+particular 'akzyAmayena' for the 3s form, and it is this form which my
+algorithm generates.  Hopefully, this detail of the algorithm is correct.
+
+ The use of PRON/ORD/CARD seemed a reasonable way to direct the code
+to the appropriate parts for pronouns, ordinals, and cardinals.  Similarly,
+the use of 'adjI' seemed reasonable to indicate that the feminine form of
+an adjective whose masculine form ends in 'a' should be declined like 
+'nadI'.
+
+
+* conjugation algorithms
+
+ The file 'v-root.txt' in directory forms is supposed to contain a list
+of all the roots.  The file 'v-root-filenames.txt'  contains the association
+between each root and the name of its associated file (in forms/v/ and in
+forms/vc/). This association was generated by taking the lower-case form of
+the SLP1 spelling of the root; duplicates were distinguished by appending
+1,2, etc. The function call (v-root-filename-get root) does a table lookup for 
+the filename associated with a root.
+
+ As of this writing (5/25/2006), there are 1615 roots in this file. There are
+1617 files in forms/v/ and 1614 files in forms/vc/; I am not sure what causes
+the minor discrepancy.
+
+ Function '(v-file-init1)' initialized the root files using
+ 'v-root-filenames.txt'; the resulting files have only the 'root :' line.
+
+
+ Each root file in directory 'forms/v/' has a 'root :' line and 
+several 'class :' lines; these may be thought of as  pre-initialization
+specifications.
+
+ Function '(v-file-init2a INTAB INDIR)' adds the 'class : ' lines to the
+root files based upon data in text files such as 'dcpforms-mw-verb.txt'
+in directory 'construct'.  
+ In general, the class-voice designations within each root file are 
+programmatically derived from the <LEX> fields in MW.  There are
+some differences between these and other respected sources, such as
+Whitney. The most common difference that I have noted regards the use
+of class 10, which is rare in Whitney. 
+While most of the common roots and their common conjugational forms are
+present in the 'class : ' lines of the root files, I do not feel confident
+that these comprise a definitive list.
+
+ Based on the 'root :' and 'class :' lines, a given root file may be 
+populated with inflected forms.
+Function '(v-root-remake1 TAB)' does this for the root file with filename TAB.
+This function currently constructs tables of inflected forms as follows; the
+form abbreviations in general follow that of Scharf in 'rAmopAKyAna'.
+Recall that a 'class:' line contains a 'house' number (1-10) and a 'voice' 
+('a' or 'm').
+ For each 'class:' line, 4 tables : pre ipf ipv pop
+ For each 'class:' line, 4 tables for passive of 'pre ipf ipv pop';
+  since the passive usually is independent of the class, duplicates are not
+  written.
+ For each 'pre' conjugation constructed previously,
+  construct 3 tables (m f n) for present participle, (prap, prmp or prpp)
+ Infinitive : inf
+ Absolutives in both 'tvA' and 'ya' : abs
+ If appropriate, periphrastic perfect action noun : ppfactn
+ If appropriate, 2 tables (a m) for perfect  : prf
+ Three tables (m f n) for perfect passive participle : ppp
+ Three tables (m f n) for past active participle : pap
+ For each 'class:' line, 3 tables (m f n) for all gerundives : gerundive
+ Two tables (a m) for simple future : fut
+ Two tables (a m) for periphrastic future : pft
+ Two tables (a m) for conditional : con
+ Two tables (a m) for benedictive : ben  (NOTE: Not used by Scharf)
+
+ Aorists:  Due to uncertainty regarding my algorithms, I do not automatically
+   recompute aorists for a verb.  However, a special method is available
+   for including aorists, based upon the 7 aorist types as described by Kale.
+   I have used this to include the aorists Scharf writes in rAmopAKyAna. It
+   is a two-step process:
+   1. (SL-conjtab root1 class voice1 nil 'aor nil) e.g.
+      (SL-conjtab 'kf 8 'a nil 'aor nil)
+      This returns alist of 7 conjugation tables, e.g.,
+([akft akftAm akuH akfH akftam akfta akam akfva akfma] [akarat akaratAm akaran akaraH akaratam akarata akaram akarAva akarAma] [acikrat acikratAm acikran acikraH acikratam acikrata acikram acikrAva acikrAma] [akArzIt akArzwAm akArzuH akArzIH akArzwam akArzwa akArzam akArzva akArzma] [akArIt akArizwAm akArizuH akArIH akArizwam akArizwa akArizam akArizva akArizma] [akAsIt akAsizwAm akAsizuH akAsIH akAsizwam akAsizwa akAsizam akAsizva akAsizma] [akfzat akfzatAm akfzan akfzaH akfzatam akfzata akfzam akfzAva akfzAma])
+   2. For each number 1-7 which should be in the file for the root,
+      put an approriate line (e.g. "kf 8 a 4" for 4th aorist of 'kf'), namely,
+     [akArzIt akArzwAm akArzuH akArzIH akArzwam akArzwa akArzam akArzva akArzma]
+      into a file, then do function '(v-file-init-aor FILE DIR)',  e.g.,
+      (v-file-init-aor "v-root-aor-temp.txt" "forms")
+
+* Causal conjugation algorithms
+ 
+ Essentially the same forms are constructed for the causal of a root as
+ for the root.  'prf' is inappropriate so omitted.  The function is
+ '(vc-root-remake-file FILENAME)', where FILENAME is a file containing
+ essentially a list of roots.  This function currently does the same
+ forms as for the non-causal forms, except it omits 'prf' ('ppfactn' is
+ there), 'pap' and 'gerundive'.
+ The content of the causal conjugation files (in forms/vc/ directory)
+ is almost identical in form to that of the /v/ files, 
+ but a 'c' is inserted variously so matching data will
+ be known to be a 'causal' form.  
+
+* Other conjugational forms not present.
+  Other derived forms of the root, like the Desiderative and Intensive,
+  could be handled in a form similar to the causal, but this has not
+  been done.  
+
+* conjugation misc. 
+ The pointer files in /forms/ directory ('v-ptrs.txt', 'vc-ptrs.txt') must
+usually be regenerated when one or more root conjugation files change.
+This requires two steps: first, update the 'ptrs:' line of the root files
+using '(form-file-init3-ptrs-helper tab "v")' ,
+and second collect into one file (namely 'forms/v-ptrs.txt'),
+the data of the 'ptrs:' line from all the root files.
+For causal, the function
+calls are '(form-file-init3-ptrs-helper tab "vc")' and
+ '(vc-file-ptrs "vc-ptrs.txt" "forms")'.
+
+* tagging citations
+  In the preface of the dictionary (pages xxxiii-iv) appears a 'list of
+  works and authors' and the abbreviated forms by which the works
+  are indicated in the body of the dictionary.  These often occur with
+  subsidiary book, chapter, or other identifying data, which may appear
+  as roman or arabic numerals.  For the most part I have identified this
+  jungle of citations and put it behind the bars of the <S=code,...> tag.
+  A file 'mw/scodes.txt', which is attached, pairs citation codes with
+  an expanded form, in SLP1 format, of the citation.  Because of the many
+  variant forms by which a given citation might actually be abbreviated, the
+  original abbreviations are also shown.  There are many shortcomings
+  in this table.
+
+* tagging abbreviations
+  In the preface of the dictionary (page xxxv) appears a list of 
+  abbreviations. In general I have identified occurrences of these as
+  such by the <AB=abbrev> tag.  An allied table (mw/mw-abbrev.txt) contains
+  these. The abbreviations appearing as parts of lexical identifications
+  (like 'cl', 'f', 'm', 'n') have generally been handled differently.
+  There may be a few shortened forms tagged as abbreviations which do not
+  appear in the dictionary's list.
+  
+* tagging specialized vocabulary
+  The dictionary has some specialized vocabulary identifying plants and
+  animals using two Latin words, the first being capitalized.  There are
+  also capitalized English words (eg. 'Vedic').  On the other hand, the
+  'Anglicized Sanskrit' appears as capitalized words; although many of these
+  may be identified by the presence of numbers indicating vowel details,
+  there are many without numbers.  Thus, Anglicized Sanskrit is difficult
+  to distinguish formally from other capitalized words.  Thus, tagging of
+  capitalized words that do not represent Anglicized Sanskrit was thought to
+  be an important preliminary to transcription of Anglicized Sanskrit to 
+  SLP1 format.  The tags <BOT, <BIO were used for this purpose. 
+  The <C tag was used to demarcate other words that should be capitalized.
+
+* <F tag
+  A comment made by Scharf suggested that there is independent interest
+  in the identified inflected forms of the dictionary. Tagging
+  such forms would be an essential preliminary to their further use in
+  academic inquiries.  As of this writing (06-01-2006), only the <F=abs>
+  tag appears.
+
+* Other tags
+  Various other tags have been used (see mwdoc-tag.txt). 
+  <LEXNOTE=..>  generally, some aspect of the feminine form which
+      I did not know how to process.
+  <ERR=..>  indicates grouping errors (mentioned previously),
+   'empty' records (861), and several other anomalies.
+  <Q=..> indicates problem words encountered during translation of
+   Anglicized Sanskrit code into SLP1 form.
+  <M=#>   at end of line, a single digit has a certain meaning in terms of
+; the dictionary structure, and is thus not a standard part of the
+; explanation of the entry. I tagged it as <M=#>. I am not sure how to use
+  this. It may relate to the 'four mutually correlated lines of Sanskrit words'
+  mentioned on page xiv of the dictionary introduction.  However, there do
+  not seem to be enough instances (only 730).
+  <MWBA=page,col>  I think these indicate where page and column breaks 
+  occur within the dictionary.  There are 3971 instances.  A few 
+  duplicates may be errors.
+  <MWB=..> Some kind of marker of the location within the dictionary; exact
+    meaning unclear.
+  <GRAM> indicates the technical field of grammar.  Probably should be
+   replaced by <AB=gram>.
+  <NOTE=..> only 3 of these. Probably should be removed.
+  <OLDKEY=..> In a few instances, there are errors in the key.  For instance,
+   "rAja-nApita" had its key as "nATa-nApita", and several subsequent 
+   words similary used 'nATa' for 'rAja'.  To be on the safe side, I kept
+   the original key as <OLDKEY=nATa-nApita>.
+  <SKIP> This tag appears on the key line of 1053 entries.  In 71 cases, 
+   the key was uninterpretable (<ERR=BADKEY:...>). In 861 cases, the
+   data was empty (<ERR=EMPTY>).  The remaining 121 cases probably should
+   be reexamined individually.
+  <V=P> or <V=A> parasmaipada or atmanepada. Since this information should be 
+   already included in the <LEX=..> information, the occurrences should 
+   probably be removed at some point.
+
+* commands
+  The two most useful look-up commands are exemplified by: 
+  (mw "rAma")  shows dictionary entry, with output edited
+  (mw "rAma" t) shows full dictionary entry
+  (sxmw "rAmAya") shows inflected forms, and associated dictioary entries
+
+  Another command displays the distribution of a regular expression,e.g.,
+  (regexp-distrib (SLtot3-buffer) "<V=[^>]+>") gives output
+  ncount = 7443
+'<V=P>'  4589
+'<V=A>'  2854
+
+  To execute these commands, go to a Lisp execution frame (e.g., *scratch*,
+  which is opened when EMACS opens), type the command, place the text cursor
+  after the command, and enter CTRL-J.  The output will appear in the
+  *scratch* window.
+
+* attachments
+  mwdoc-lex.txt
+  mwdoc-tag.txt
+  mw/mw-abbrev.txt
+  mw/scodes.txt

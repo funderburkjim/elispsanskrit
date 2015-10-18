@@ -1,0 +1,151 @@
+
+A large number of declensions and conjugations are computed in batches.
+Each batch constructs an output file based upon an input file.
+The input files are located in directory grammar/prod/inputs. They are
+based on a circa 2002 version of the Cologne digitization of the Monier-Williams
+dictoinary.
+
+The output files are written in directory grammar/prod/outputs.
+
+For the two large files of nouns and adjectives (inputs/MW-noun.txt and
+inputs/MW-adj.txt), the construction is broken up into sub-batches; each
+sub-batch processes about 10,000 of the records in the input file.
+
+We show below the commands for each batch, and approximate time of
+execution.  These were run within a GitBash command terminal under the
+Windows operating system, and with the current directory of the command
+terminal being grammar/prod/outputs.
+
+* Comment on Emacs version
+This code is tested using version emacs-23.2 for Windows.
+This is now an old version (Probably 10+ years old).  
+The code has not been tested on new versions of Emacs.
+According to Elisp compilation messages, there are several
+cases of 'obsolete' code, even for emacs-23.2.  It is possible 
+that some of these obsolete features have been entirely removed in
+newer versions of Emacs.
+* Batches for MW-noun.txt
+prods/inputs/MW-noun.txt has 106890 lines. 
+Run 1 batch files, of 10000 lines each. 
+Time per batch varies, normally about 5-6 minutes.
+Run these from the grammar/prod/outputs directory.
+They are run in the GitBash shell. 
+NOTE 1: This command doesn't work when run in the 'cmd.exe' terminal.
+NOTE 2: each batch of 10000 takes about 2 minutes. I ran these alternately
+        in two GitBash terminals, thereby benefitting from a multi-core
+        machine.
+** batch 01  2 min
+ /c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-01.txt" "prod/outputs" 1 9999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-01-scratch.txt"))'  >& MW-noun-01-log.txt
+** batch 02  2 min
+ /c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-02.txt" "prod/outputs" 10000 19999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-02-scratch.txt"))'  >& MW-noun-02-log.txt
+
+** batch 03 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-03.txt" "prod/outputs" 20000 29999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-03-scratch.txt"))'  >& MW-noun-03-log.txt
+
+** batch 04 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-04.txt" "prod/outputs" 30000 39999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-04-scratch.txt"))'  >& MW-noun-04-log.txt
+** batch 05 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-05.txt" "prod/outputs" 40000 49999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-05-scratch.txt"))'  >& MW-noun-05-log.txt
+** batch 06 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-06.txt" "prod/outputs" 50000 59999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-06-scratch.txt"))'  >& MW-noun-06-log.txt
+** batch 07 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-07.txt" "prod/outputs" 60000 69999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-07-scratch.txt"))'  >& MW-noun-07-log.txt
+** batch 08 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-08.txt" "prod/outputs" 70000 79999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-08-scratch.txt"))'  >& MW-noun-08-log.txt
+** batch 09 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-09.txt" "prod/outputs" 80000 89999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-09-scratch.txt"))'  >& MW-noun-09-log.txt
+** batch 10 2 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-10.txt" "prod/outputs" 90000 99999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-10-scratch.txt"))'  >& MW-noun-10-log.txt
+** batch 11 1+ min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-noun.txt" "prod/inputs" "MW-noun-11.txt" "prod/outputs" 100000 109999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-noun-11-scratch.txt"))'  >& MW-noun-11-log.txt
+
+* Batches for MW-adj.txt
+run in grammar/prod/outputs
+inputs/MW-adj.txt has slightly under 50000 lines. 
+So run 5 batch files, of 10000 lines each
+ cd /c/ejf/pdfs/TM2013/0research/ejflispgrammar/grammar/prod/outputs/
+** batch 01 6 min
+ /c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-adj.txt" "prod/inputs" "MW-adj-01.txt" "prod/outputs" 1 9999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-adj-01-scratch.txt"))'  >& MW-adj-01-log.txt
+
+** batch 02 6 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-adj.txt" "prod/inputs" "MW-adj-02.txt" "prod/outputs" 10000 19999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-adj-02-scratch.txt"))'  >& MW-adj-02-log.txt
+
+** batch 03 6+ min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-adj.txt" "prod/inputs" "MW-adj-03.txt" "prod/outputs" 20000 29999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-adj-03-scratch.txt"))'  >& MW-adj-03-log.txt
+
+** batch 04 6 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-adj.txt" "prod/inputs" "MW-adj-04.txt" "prod/outputs" 30000 39999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-adj-04-scratch.txt"))'  >& MW-adj-04-log.txt
+
+** batch 05 6 min
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-adj.txt" "prod/inputs" "MW-adj-05.txt" "prod/outputs" 40000 49999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-adj-05-scratch.txt"))'  >& MW-adj-05-log.txt
+
+* Batche for MW-PCO.txt
+"pco" is local acronym for "pronouns, cardinals and ordinals".
+
+ /c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-PCO.txt" "prod/inputs" "MW-pco.txt" "prod/outputs" 1 9999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-pco-scratch.txt"))'  >& MW-pco-log.txt
+
+* Batches for MW-verb.txt
+
+run in grammar/prod/outputs
+dcpforms-MW-verb.txt has slightly under 3000 lines, each line containing
+the root, class, and pada (atmanepada or parasmaipada). From this information
+various conjugation tables are constructed.
+Do present conjugations in one batch, takes about 1 min
+** MW-verb-pre.txt
+present, imperfect, imperative, and optative.
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-pre "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-pre.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-verb-pre-scratch.txt"))'  >& MW-verb-pre-log.txt
+
+** MW-verb-passive.txt
+passive of present, imperfect, imperative, and optative.
+The passive depends only on root (not on class).
+
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-pre-p "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-passive.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-verb-passive-scratch.txt"))'  >& MW-verb-passive-log.txt
+
+** MW-verb-fut.txt
+Contains active and middle (passive same as middle) for tenses
+simple future, periphrastic future, conditional and benedictive.
+
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-fut "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fut.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-verb-fut-scratch.txt"))'  >& MW-verb-fut-log.txt
+
+** MW-verb-prf.txt
+ Active and middle forms are constructed for the reduplicative perfect
+ tense, if applicable.  Determination of applicability requires use
+ of the classes present in the file.
+ Each line constructed has the form:
+ :<tense> <multi-class><voice>:<conjugation table>
+ The term 'multi-class' has the form '#/#...', based on the classes 
+ for which the reduplicative perfect is applicable.
+ Records within dcpforms-MW-verb.txt for which reduplicative perfect is
+ NOT applicable are written to the scratch file
+
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-prf "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prf.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-verb-prf-scratch.txt"))'  >& MW-verb-prf-log.txt
+
+
+** MW-verb-ppfactn.txt
+Periphrastic perfect (action noun)
+For each line of the form 'class : <class> <voice>' (voice=a/m),
+(a) test if the periphrastic perfect is applicable for the root in this
+    class, and,
+(b) if it is, construct the associated periphrastic perfect action noun,
+    ending in 'Am'.
+If there are any ppfactn's constructed, insert a single line containing
+them all. The format is
+:ppfactn:[<action nouns>]
+These are for the class 10 case in the dcpforms-MW-verb.txt input file
+
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-ppfactn "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-ppfactn.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-verb-ppfactn-scratch.txt"))'  >& MW-verb-ppfactn-log.txt
+
+note on coverage
+ 358 of the 2634 roots in dcpforms-MW-verb.txt are computed to have 
+  periphrastic future forms. I think this are the roots for which there is
+  a class 10 form.   It is unclear whether the pada (Atmanepada or Parasmaipada) of
+  a root has a role in the computation, although the lower level routines take a
+  pada as an argument.
+
+
+* Recompile everything 
+ You probably won't need this, unless you start tinkering with the
+ code.
+ /c/emacs-23.2/bin/emacs.exe -batch -f batch-byte-compile *.el >& recompile.txt
+
+* THE END

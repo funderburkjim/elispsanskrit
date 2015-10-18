@@ -1,0 +1,730 @@
+<lex>m<p><s>mela</s></p></lex>	<lex>m<p><s>mela</s></p>.</lex>	<n>    38</n>
+f#A:	<lex>f. <s>A</s></lex>	<n>    74</n>
+f#A:	<lex>f. <s>A</s></lex>	<n>    76</n>
+f#A:	<lex>f<p><s>/A</s></p>. <ab>du.</ab></lex>	<n>    88</n>
+f#A:	<lex>f<p><s>A</s></p>.</lex>	<n>     9</n>
+f#A:	<lex>f<p><s>A</s></p>.</lex>	<n>    51</n>
+f#A:	<lex>f<p><s>A</s></p>.</lex>	<n>    89</n>
+f#A:f#I:	<lex>f<p><s>/A</s></p>~and~<p><s>I</s></p>.</lex>	<n>   158</n>
+f#A:f#I:	<lex>f<p><s>A</s></p>.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   161</n>
+f#A:f#I:	<lex>f<p><s>A</s>~,~<c>or</c>~<s>I</s></p>.</lex>	<n>   166</n>
+f#A:f#I:	<lex>f<p><s>A</s>~,~<s>/I</s></p>.</lex>	<n>   167</n>
+f#A:f#I:	<lex>f<p><s>A</s>~,~<s>I</s></p>.</lex>	<n>   168</n>
+f#A:f#I:	<lex>f<p><s>A</s>~<c>and</c>~<s>I</s></p>.</lex>	<n>   170</n>
+f#A:f#I:	<lex>f<p><s>A</s>~<c>or</c>~<s>I</s></p>.</lex>	<n>   172</n>
+f#A:f#I:	<lex>f<p><s>A</s>~<ls>L.</ls>~,~<s>I</s></p>.</lex>	<n>   173</n>
+f#A:f#I:	<lex>f<p><s>A</s>~and~<s>I</s></p>.</lex>	<n>   174</n>
+f#A:f#I:	<lex>f<p><s>A</s>~or~<s>I</s></p>.</lex>	<n>   175</n>
+f#A:f#I:	<lex>f<p><s>A</s>~or~<s>I</s></p></lex>	<n>   176</n>
+f#A:f#I:f#i:	<lex>f<p><s>A</s>~<c>and</c>~<s>I<shortlong/></s></p>.</lex>	<n>   171</n>
+f#A:f#ikA:	<lex>f<p><s>A</s>~,<s>ikA</s></p>.</lex>	<n>   165</n>
+f#A:f#ikA:	<lex>f<p><s>A</s>~,~<s>ikA</s></p>.</lex>	<n>   169</n>
+f#A:n:	<lex>f<p><s>A</s></p>.</lex><lex>n. <ab>pl.</ab></lex>	<n>   162</n>
+f#A:n:	<lex>f<p><s>A</s></p>.</lex><lex>n.</lex>	<n>    52</n>
+f#A:n:	<lex>f<p><s>A</s></p>.</lex><lex>n.</lex>	<n>   163</n>
+f#A:n:	<lex>f<p><s>A</s></p>n.</lex>	<n>   164</n>
+f#I:	<lex>f. <s>/I</s></lex>	<n>    47</n>
+f#I:	<lex>f.<p><s>I</s></p></lex>	<n>   156</n>
+f#I:	<lex>f<p><s>/I</s></p>.</lex>	<n>    67</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    10</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    34</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    44</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    53</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    54</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    79</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    86</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>    90</n>
+f#I:	<lex>f<p><s>I</s></p>.</lex>	<n>   177</n>
+f#I:	<lex>f<p><s>I</s></p></lex>	<n>    35</n>
+f#I:	lex type="hwalt">f<p><s>I</s></p></lex>	<n>   206</n>
+f#I:f#A:	<lex>f<p><s>I</s>~,~<s>A</s></p>.</lex>	<n>   180</n>
+f#I:f#A:	<lex>f<p><s>I</s>~<c>or</c>~<s>A</s></p>.</lex>	<n>   184</n>
+f#I:f#Is:	<lex>f<p><s>I</s>~,~<s>Is</s></p>.</lex>	<n>   181</n>
+f#I:f#i:	<lex>f<p><s>I</s>~<c>or_metrically_shortened</c>~<s>i</s></p>.</lex>	<n>   185</n>
+f#I:f#ikA:	<lex>f<p><s>I</s>~,~<s>ikA</s></p>.</lex>	<n>   182</n>
+f#I:f#ikA:n:	<lex>f<p><s>I</s>~,~<s>ikA</s></p>n.</lex>	<n>   183</n>
+f#I:m:f:n:	<lex>f<p><s>I</s></p>.</lex><lex>mfn.</lex>	<n>    11</n>
+f#I:n:	<lex>f<p><s>I</s></p>n.</lex>	<n>   178</n>
+f#I:n:	<lex>f<p><s>I</s></p>n.</lex>	<n>   179</n>
+f#Is:	<lex>f<p><s>/Is</s></p>.</lex>	<n>   159</n>
+f#Is:f#I:	<lex>f<p><s>Is</s>~;~<s>I</s></p>.</lex>	<n>   186</n>
+f#Us:	<lex>f<p><s>/Us</s></p>.</lex>	<n>   160</n>
+f#Us:n:	<lex>f<p><s>Us</s></p>n.</lex>	<n>   187</n>
+f#aMhatI:	<lex>f<p><s>aMhatI</s></p>.</lex>	<n>    36</n>
+f#akA:f#akI:f#ikA:	<lex>f<p><s>akA</s>~,~<s>akI</s>~<c>and</c>~<s>ikA</s></p></lex>	<n>   188</n>
+f#akA:f#ikA:	<lex>f<p><s>akA</s>~<c>and</c>~<s>ikA</s></p>.</lex>	<n>   189</n>
+f#akA:f#ikA:	<lex>f<p><s>akA</s>~<c>or</c>~<s>ikA</s></p>.</lex>	<n>   190</n>
+f#i:f#I	<lex>f<p><s>i</s>~<c>also</c>~<s>I</s></p>.</lex>	<n>   192</n>
+f#i:f#I:	<lex>f<p><s>i</s>~,~<s>I</s></p>.</lex>	<n>   191</n>
+f#i:f#I:	<lex>f<p><s>i</s>~<c>and</c>~<s>I</s></p>.</lex>	<n>   193</n>
+f#i:f#I:	<lex>f<p><s>i</s>~<c>or</c>~<s>I</s></p>.</lex>	<n>   194</n>
+f#i:f#I:	<lex>f<p><s>i</s>~and~<s>/I</s></p>.</lex>	<n>   195</n>
+f#i:f#I:	<lex>f<p><s>i</s>~and~<s>I</s></p>.</lex>	<n>   196</n>
+f#i:f#I:	<lex>f<p><s>i</s>~or~<s>I</s></p>.</lex>	<n>   197</n>
+f#i:f#lI:	<lex>f<p><s>i</s>~or~<s>lI</s></p>.</lex>	<n>   198</n>
+f#ikA:	<lex>f. <s>ikA</s></lex>	<n>     8</n>
+f#ikA:	<lex>f<p><s>ikA</s></p>.</lex>	<n>    55</n>
+f#ikA:	<lex>f<p><s>ikA</s></p>.</lex>	<n>    91</n>
+f#ikA:f#akI:	<lex>f<p><s>ikA</s>~<c>or</c>~<s>akI</s></p>.</lex>	<n>   200</n>
+f#ikA:n:	<lex>f<p><s>ikA</s></p>n.</lex>	<n>   199</n>
+f#is:f#I:	<lex>f<p><s>is</s>~,~<c>or</c>~<s>I</s>~<ls>W.</ls></p>.</lex>	<n>   201</n>
+f#is:f#I:	<lex>f<p><s>is</s>~,~<s>I</s></p>.</lex>	<n>   202</n>
+f#lyA:	<lex>f. <s><sr1/>lyA</s></lex>	<n>    69</n>
+f#meTI:	<lex>f<p><s>meTI</s></p>.</lex>	<n>    56</n>
+f#tF:	<lex>f. <s><sr1/>t/F</s></lex>	<n>    48</n>
+f#trI:	<lex>f. <s><sr1/>trI</s></lex>	<n>    75</n>
+f#trI:	<lex>f. <s>trI</s></lex>	<n>    49</n>
+f#trI:	<lex>f<p><s>tr/I</s></p>.</lex>	<n>    57</n>
+f#u:f#U:	<lex>f<p><s>u</s>~<c>or</c>~<s>U</s></p>.</lex>	<n>   203</n>
+f#us:f#Us:	<lex>f<p><s>us</s>~,~<s>Us</s></p>.</lex>	<n>   204</n>
+f#us:f#vI:	<lex>f<p><s>us</s>~<c>and</c>~<s>vI</s></p>.</lex>	<n>   205</n>
+f#yantrI:	<lex>f. <s>y/antrI</s></lex>	<n>    77</n>
+f:	<lex>f. <ab>du.</ab> <c>or</c> <ab>pl.</ab></lex>	<n>   107</n>
+f:	<lex>f. <ab>du.</ab></lex>	<n>   108</n>
+f:	<lex>f. <ab>pl.</ab></lex>	<n>    46</n>
+f:	<lex>f. <ab>pl.</ab></lex>	<n>   110</n>
+f:	<lex>f. <ab>sg.</ab> <ab>pl.</ab></lex>	<n>   112</n>
+f:	<lex>f.</lex>	<n>     1</n>
+f:	<lex>f.</lex>	<n>    50</n>
+f:	<lex>f.</lex>	<n>    73</n>
+f:	<lex>f.</lex>	<n>    84</n>
+f:	<lex>f.</lex>	<n>   113</n>
+f:	<lex>f.</lex>	<n>   131</n>
+f:	<lex>f.</lex>	<n>   132</n>
+f:	<lex>f.</lex>	<n>   133</n>
+f:	<lex>f.</lex>	<n>   134</n>
+f:	<lex>f.</lex>	<n>   135</n>
+f:	<lex>f.</lex>	<n>   136</n>
+f:	<lex>f.</lex>	<n>   137</n>
+f:	<lex>f.</lex>	<n>   138</n>
+f:	<lex>f.</lex>	<n>   139</n>
+f:	<lex>f.</lex>	<n>   140</n>
+f:	<lex>f.</lex>	<n>   141</n>
+f:	<lex>f.</lex>	<n>   142</n>
+f:	<lex>f.</lex>	<n>   144</n>
+f:	<lex>f.</lex>	<n>   145</n>
+f:	<lex>f.</lex>	<n>   146</n>
+f:	<lex>f.</lex>	<n>   148</n>
+f:	<lex>f.</lex>	<n>   149</n>
+f:	<lex>f.</lex>	<n>   150</n>
+f:	<lex>f.</lex>	<n>   151</n>
+f:	<lex>f.</lex>	<n>   152</n>
+f:	<lex>f.</lex>	<n>   153</n>
+f:	<lex>f.</lex>	<n>   154</n>
+f:	<lex>f.</lex>	<n>   155</n>
+f:<lex>m <s>mAna</s></lex>	<lex>f.</lex><lex>m. <s><sr1/>mAna</s></lex>	<n>   121</n>
+f:<lex>m<p><s>SiYja</s></p></lex>	<lex>f.</lex><lex>m<p><s>SiYja</s></p>.</lex>	<n>   127</n>
+f:<lex>m<s>ka</s></lex>	<lex>f.</lex><lex>m<s><sr1/>ka</s>.</lex>	<n>   128</n>
+f:<lex>n<p><s>ta</s></p></lex>	<lex>f. <ab>pl.</ab></lex><lex>n<p><s><sr1/>ta</s></p>.</lex>	<n>   111</n>
+f:f#I:	<lex>f.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   115</n>
+f:f#I:	<lex>f.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   118</n>
+f:f#ikA:	<lex>f.</lex><lex>f<p><s>ikA</s></p>.</lex>	<n>   119</n>
+f:f#padA:	<lex>f.</lex><lex>f. <s><sr1/>p/adA</s></lex>	<n>    78</n>
+f:f#rajjU:	<lex>f.</lex><lex>f<p><s>rajjU</s></p>.</lex>	<n>   147</n>
+f:f:	<lex>f.</lex><lex>f. <ab>pl.</ab></lex>	<n>   114</n>
+f:ind:	<lex>f.</lex><lex>ind.</lex>	<n>   120</n>
+f:m:	<lex>f.</lex><lex>m.</lex>	<n>   116</n>
+f:m:	<lex>f.</lex><lex>m.</lex>	<n>   122</n>
+f:m:	<lex>fm.</lex>	<n>   207</n>
+f:m:f#BI:	<lex>f.</lex><lex>m.</lex><lex>f<p><s><sr1/>BI</s></p>.</lex>	<n>   143</n>
+f:m:f#I:	<lex>f.</lex><lex>m.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   124</n>
+f:m:f#lI:	<lex>f.</lex><lex>m.</lex><lex>f<p><s><sr1/>lI</s></p>.</lex>	<n>   123</n>
+f:m:f#pArzRI:	<lex>f.</lex><lex>m.</lex><lex>f<p><s>pArzRI</s></p>.</lex>	<n>   125</n>
+f:m:f:n:	<lex>f.</lex><lex>mfn.</lex>	<n>   129</n>
+f:m:n:	<lex>f.</lex><lex>m.</lex><lex>n.</lex>	<n>   126</n>
+f:n:	<lex>f. <ab>du.</ab></lex><lex>n. <ab>du.</ab></lex>	<n>   109</n>
+f:n:	<lex>f.</lex><lex>n.</lex>	<n>   117</n>
+f:n:	<lex>f.</lex><lex>n.</lex>	<n>   130</n>
+f:n:	<lex>fn.</lex>	<n>   208</n>
+ind:	<lex>ind.</lex>	<n>    12</n>
+ind:	<lex>ind.</lex>	<n>   209</n>
+ind:m:f:n:	<lex>ind.</lex><lex>mfn.</lex>	<n>   210</n>
+m:	<lex>m <ab>pl.</ab>.</lex>	<n>   211</n>
+m:	<lex>m. <ab>du.</ab> <c>and</c> <ab>pl.</ab></lex>	<n>   212</n>
+m:	<lex>m. <ab>du.</ab></lex>	<n>   214</n>
+m:	<lex>m. <ab>pl.</ab></lex>	<n>    13</n>
+m:	<lex>m. <ab>pl.</ab></lex>	<n>   219</n>
+m:	<lex>m. <ab>pl.</ab></lex>	<n>   223</n>
+m:	<lex>m. <ab>sg.</ab> <c>or</c> <ab>pl.</ab></lex>	<n>   224</n>
+m:	<lex>m.</lex>	<n>    14</n>
+m:	<lex>m.</lex>	<n>    37</n>
+m:	<lex>m.</lex>	<n>    80</n>
+m:	<lex>m.</lex>	<n>    85</n>
+m:	<lex>m.</lex>	<n>    92</n>
+m:	<lex>m.</lex>	<n>    94</n>
+m:	<lex>m.</lex>	<n>    95</n>
+m:	<lex>m.</lex>	<n>   106</n>
+m:	<lex>m.</lex>	<n>   225</n>
+m:	<lex>m.</lex>	<n>   296</n>
+m:	<lex>m.</lex>	<n>   297</n>
+m:	<lex>m.</lex>	<n>   298</n>
+m:	<lex>m.</lex>	<n>   302</n>
+m:	<lex>m.</lex>	<n>   303</n>
+m:	<lex>m.</lex>	<n>   304</n>
+m:	<lex>m.</lex>	<n>   306</n>
+m:	<lex>m.</lex>	<n>   307</n>
+m:	<lex>m.</lex>	<n>   308</n>
+m:	<lex>m.</lex>	<n>   309</n>
+m:	<lex>m.</lex>	<n>   310</n>
+m:	<lex>m.</lex>	<n>   311</n>
+m:	<lex>m.</lex>	<n>   312</n>
+m:	<lex>m.</lex>	<n>   313</n>
+m:	<lex>m.</lex>	<n>   314</n>
+m:<lex>f<p><ab>nom</ab><s>-jY/Us</s></p>n</lex>	<lex>mf<p><ab>nom.</ab>~<s>-jY/Us</s></p>n.</lex>	<n>   367</n>
+m:<lex>f<p><ab>nom</ab><s>-v/At</s></p>n</lex>	<lex>mf<p><ab>nom.</ab>~<s>-v/At</s></p>n.</lex>	<n>   368</n>
+m:<lex>f<p><ab>nom</ab><s>IH</s></p>n</lex>	<lex>mf<p><ab>nom.</ab>~<s>IH</s></p>n.</lex>	<n>   369</n>
+m:<lex>f<p><ab>nom</ab><s>iH</s></p>n</lex>	<lex>mf<p><ab>nom.</ab>~<s>iH</s></p>n.</lex>	<n>   370</n>
+m:<lex>f<p><ab>nom</ab><s>zwrI</s></p>n</lex>	<lex>mf<p><ab>nom.</ab>~ <ab>du.</ab>~<s><sr1/>zwrI</s></p>n.</lex>	<n>   366</n>
+m:<lex>f<p><s>-DA</s></p></lex>	<lex>m.</lex><lex>f<p><s>-DA</s></p>.</lex>	<n>   263</n>
+m:<lex>f<p><s>A</s><s>I</s> <ab>f</ab> <c>of_2</c><s>han</s></p>n</lex>	<lex>mf<p><s>A</s>~<ls>MBh._xiii_,_2397</ls>~<ls>Hariv._9426</ls>~;~<s>I</s>~ <ab>f.</ab> ~<c>of_2.</c>~<s>han</s>~<qv/></p>n.</lex>	<n>   498</n>
+m:<lex>f<p><s>A</s><s>akA</s><s>ikA</s></p></lex>	<lex>mf<p><s>A</s>~,~<s>akA</s>~,~<s>ikA</s></p>.</lex>	<n>   475</n>
+m:<lex>f<p><s>A</s><s>paliknI</s></p></lex>n:	<lex>mf<p><s>A</s>~,~<c>or</c>~<s>p/aliknI</s>~<ls>Pa1n2._4-1_,_39</ls>~<ab>Va1rtt._1._2</ab>~<ls>Pat.</ls></p></lex><lex>n.</lex>	<n>   470</n>
+m:<lex>f<p><s>I</s> <ab>Gr</ab></p>n</lex>	<lex>mf<p><s>I</s>~ <ab>Gr.</ab></p>n.</lex>	<n>   543</n>
+m:<lex>f<p><s>I</s> <ab>g</ab><s>utsAdi</s></p>n</lex>	<lex>mf<p><s>I</s>~ <ab>g.</ab>~<s>utsA<srs/>di</s></p>n.</lex>	<n>   549</n>
+m:<lex>f<p><s>I</s>;<s>sa-j/itvarI</s></p>n</lex>	<lex>mf<p><s>I</s>.~<ls>Pa1n2._3-2_,_163</ls>~;~<cf/>~<s>sa-j/itvarI</s></p>n.</lex>	<n>   520</n>
+m:<lex>f<p><s>I</s><c>older_than</c><s>A</s>;</p></lex>	<lex>mf<p><s>I</s>~<c>older_than</c>~<s>A</s>~;~<cf/>~<ls>Pa1n2._4-1_,_30</ls></p></lex>	<n>   560</n>
+m:<lex>f<p><s>I</s><c>or_=_m</c></p>n</lex>	<lex>mf<p><s>/I</s>~<c>or_=_m.</c></p>n.</lex>	<n>   401</n>
+m:<lex>f<p><s>I</s><p><c>gan2a</c><s>gOrAdi</s></p></p>n</lex>	<lex>mf<p><s>I</s><b><c>gan2a</c><s>gOrA<srs/>di</s><ls>Pa1n2._4-1_,_41</ls></b></p>n.</lex>	<n>   531</n>
+m:<lex>f<p><s>SAly-UhI</s></p></lex>n:	<lex>mf<p><s>SAly-UhI</s></p>n.</lex>	<n>   581</n>
+m:<lex>f<p><s>Scat</s>,<c>eight_times_as</c> <ab>adj</ab>;<c>or</c><s>a-saScantI</s>,<c>thrice</c></p>n</lex>	<lex>mf<p><s><sr1/>Sc/at</s>~,~<c>eight_times_as</c>~ <ab>adj.</ab>~;~<c>or</c>~<s>/a-saScantI</s>~,~<c>thrice</c></p>n.</lex>	<n>   420</n>
+m:<lex>f<p><s>a-SiSvi</s></p></lex><lex>f<p><s>a-SiSu</s></p></lex>n:	<lex>mf<p><s>/a-SiSvi</s>~,~<c>but_according_to</c>~<ls>Pa1n2._4-1_,_62</ls>,~<c>also_<ab>Ved.</ab></c>~<s>a-SiSu</s></p>n.</lex>	<n>   407</n>
+m:<lex>f<p><s>a-jaGnuzI</s></p></lex>n:	<lex>mf<p><s>/a-jaGnuzI</s></p>n.</lex>	<n>   408</n>
+m:<lex>f<p><s>a-satI</s></p></lex>n:	<lex>mf<p><s>/a-satI</s></p>n.</lex>	<n>   409</n>
+m:<lex>f<p><s>apyA</s><s>apI</s></p>n</lex>	<lex>mf<p><s>/apyA</s>~;~<c>once</c>~<s>/apI</s>~<ls>RV._vi_,_67_,_9</ls></p>n</lex>	<n>   411</n>
+m:<lex>f<p><s>g/AnDarvI-</s></p>n</lex>	<lex>mf<p><s>g/AnDarvI-</s></p>n.</lex>	<n>   603</n>
+m:<lex>f<p><s>ikA</s><p><s>akA</s> <ab>wr</ab></p></p>n</lex>	<lex>mf<p><s>ikA</s>~<b><s>akA</s>~ <ab>w.r.</ab></b></p>n.</lex>	<n>   619</n>
+m:<lex>f<p><s>makA</s><s>mikA</s></p></lex>n:	<lex>mf<p>Ved.~<s><sr1/>makA</s>~,~<c>class.</c>~<s><sr1/>mikA</s>~<b><ls>Mn._iii_,_8</ls>~;~<c>but_also</c>~<ls>AitBr.</ls></b>~<ls>Pa1n2._7-3_,_45</ls>~<ab>Comm.</ab></p></lex><lex>n.</lex>	<n>   685</n>
+m:<lex>f<p><s>us</s><s>Us</s><s>vI</s></p>n</lex>	<lex>mf<p><s>us</s>~,~<s>/Us</s>~,~<s>vI</s></p>n.</lex>	<n>   664</n>
+m:<lex>f<p><s>vy-/advarI</s></p></lex>	<lex>m.</lex><lex>f<p><s>vy-/advarI</s></p>.</lex>	<n>   285</n>
+m:<lex>f<p>= <ab>m</ab><s>arI</s></p>n</lex>	<lex>mf<p>=~ <ab>m.</ab> ~<c>or</c>~<s>arI</s></p>n.</lex>	<n>   682</n>
+m:<lex>f<p>=m<c>or</c><s>mnI</s></p>n</lex>	<lex>mf<p>=~m.~<c>or</c>~<s><sr1/>mnI</s></p>n.</lex>	<n>   683</n>
+m:f#A:	<lex>m.</lex><lex>f. <s>A</s></lex>	<n>   256</n>
+m:f#A:	<lex>m.</lex><lex>f<p><s>/A</s></p>.</lex>	<n>   230</n>
+m:f#A:	<lex>m.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   232</n>
+m:f#A:	<lex>m.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   271</n>
+m:f#A:	<lex>mf<p><s>/A</s></p>.</lex>	<n>   380</n>
+m:f#A:	<lex>mf<p><s>/A</s></p></lex>	<n>   381</n>
+m:f#A:	<lex>mf<p><s>A</s></p>.</lex>	<n>   450</n>
+m:f#A:	<lex>mf<p><s>A</s></p></lex>	<n>   451</n>
+m:f#A:	<lex>mf<p><s>A</s>~<ab>mc.</ab></p></lex>	<n>   478</n>
+m:f#A:f#ArI:n:	<lex>mf<p><c><s>A</s>_and</c>~<s>/ArI</s></p>n.</lex>	<n>   371</n>
+m:f#A:f#I:	<lex>m.</lex><lex>f<p><s>A</s>~<c>and</c>~<s>I</s></p>.</lex>	<n>   235</n>
+m:f#A:f#I:	<lex>mf<p><s>A</s>~,~<c>or</c>~<s>I</s></p>.</lex>	<n>   467</n>
+m:f#A:f#I:	<lex>mf<p><s>A</s>~,~<s>I</s></p>.</lex>	<n>   472</n>
+m:f#A:f#I:	<lex>mf<p><s>A</s>~<c>and</c>~<s>I</s></p>.</lex>	<n>   481</n>
+m:f#A:f#I:	<lex>mf<p><s>A</s>~<c>or</c>~<s>I</s></p>.</lex>	<n>   487</n>
+m:f#A:f#I:	<lex>mf<p><s>A</s>~<ls>MBh._xiii_,_2397</ls>~;~<s>I</s>~<ls>R._ii_,_35_,_6</ls></p></lex>	<n>   497</n>
+m:f#A:f#I:f#ikA:	<lex>m.</lex><lex>f<p><s>A</s>~,~<s>I</s>~,~<c>or</c>~<s>ikA</s></p>.</lex>	<n>   234</n>
+m:f#A:f#I:n:	<lex>m.</lex><lex>f<p><s>A</s>~,~<c>or</c>~<s>I</s>~<ls>L.</ls></p>.</lex><lex>n.</lex>	<n>   233</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/A</s>~,~<s>I</s></p>n.</lex>	<n>   383</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/A</s>~;~<s>I</s>~ <ab>g.</ab>~<s>bahv-Adi</s></p>n.</lex>	<n>   384</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/A</s>~<b><ls>RV._v_,_63_,_6_,_<etc1/></ls></b> <c>_or</c>~<s>/I</s>~<b><ls>RV._x_,_61_,_4_,_<amp/></ls>~,~<p1><ab>nom.</ab>~ <ab>pl.</ab>~<s>aruR/ayas</s></p1>~<ls>95_,_6</ls></b></p>n.</lex>	<n>   385</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/A</s>~<c>and</c>~<s>I</s></p>n.</lex>	<n>   386</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/A</s>~<c>or</c>~<s>/I</s></p>n.</lex>	<n>   387</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/A</s>~<c>or</c>~<s>I</s></p>n.</lex>	<n>   388</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/I</s>~,~<s>A</s></p>n.</lex>	<n>   399</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/I</s>~<c>or</c>~<s>A</s></p>n.</lex>	<n>   400</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/I</s>~or~<s>A</s></p>n.</lex>	<n>   402</n>
+m:f#A:f#I:n:	<lex>mf<p><s>/aruzI</s>~<ls>RV._i_,_92_,_1_and_2~;~x_5_,_5</ls></p>n.</lex>	<n>   413</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>,<s>I</s><ls>Pa1n2._4-2_,_116</ls></p>n.</lex>	<n>   448</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s><c>and</c><s>I</s><b><ls>T.</ls></b></p>n.</lex>	<n>   454</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s><ls>Pa1n2.</ls><s>I</s><ls>R.</ls></p>n.</lex>	<n>   460</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~ <ab>accord.</ab>~<c>to</c>~ <ab>g.</ab>~<s>bahvAdi</s>~<c>also</c>~<s>I</s></p>n.</lex>	<n>   464</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<c>Ved.</c>~<s>I</s></p>n.</lex>	<n>   465</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<c>once</c>~<s>I</s></p>n.</lex>	<n>   466</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<c>or</c>~<s>I</s></p>n.</lex>	<n>   468</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<c>or</c>~<s>I</s>~<c>?</c></p>n.</lex>	<n>   469</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<c>rarely</c>~<s>I</s></p>n.</lex>	<n>   471</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<s>I</s></p>n.</lex>	<n>   473</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~,~<s>I</s>~ <ab>g.</ab>~<s>kASy-Adi</s></p>n.</lex>	<n>   474</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<b><ls>S3is3.</ls></b>~<c>or</c>~<s>I</s></p>n.</lex>	<n>   479</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<c>and</c>~<s>I</s></p>n.</lex>	<n>   482</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<c>and</c>~<s>I</s>~<b><c>gan2a</c>~<s>bahv-Adi</s>~<ls>Pa1n2._4-1_,_45</ls></b></p>n.</lex>	<n>   483</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<c>and</c>~<s>I</s>~<b><ls>A1s3vGr2.</ls></b></p>n.</lex>	<n>   484</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<c>or</c>~<b><ls>L.</ls></b>~<s>I</s></p>n.</lex>	<n>   485</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>I</s></p>n.</lex>	<n>   488</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>I</s>~;~<cf/>~<ls>Pa1n2._4-1_,_42</ls>~<ab>Va1rtt.</ab>~<ls>Va1m._v_,_2_,_48</ls></p>n.</lex>	<n>   489</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<ls>MBh.</ls>~,~<s>I</s>~<ls>BhP.</ls></p>n.</lex>	<n>   496</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<ls>Mn._ii_,_148</ls>~;~<s>I</s>~<ls>R._i_,_34_,_16</ls></p>n.</lex>	<n>   499</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<ls>Sus3r._i_,_3</ls>~;~<s>I</s></p>n.</lex>	<n>   503</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<ls>VarBr2S._lxviii_,_92</ls>~;~<s>I</s>~<ls>R._ii</ls>~<ls>Vikr.</ls>~<ls>Ragh.</ls>~<etc/></p>n.</lex>	<n>   504</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~<s>I</s></p>n.</lex><lex>n.</lex>	<n>   505</n>
+m:f#A:f#I:n:	<lex>mf<p><s>A</s>~or~<s>I</s></p>n.</lex>	<n>   506</n>
+m:f#A:f#I:n:	<lex>mf<p><s>I</s>~<c>and</c>~<s>A</s></p>n.</lex>	<n>   559</n>
+m:f#A:f#I:n:	<lex>mf<p><s>I</s>~<c>or</c>~<s>A</s></p>n.</lex>	<n>   562</n>
+m:f#A:f#SvenI:n:	<lex>mf<p><s>/A</s>~<c>or</c>~<s>SvenI</s></p>n.</lex>	<n>   389</n>
+m:f#A:f#asiknI:n:	<lex>mf<p><s>A</s>~;~<c>Ved.</c>~<s>/asiknI</s></p>n.</lex>	<n>   477</n>
+m:f#A:f#enI:n:	<lex>mf<p><s>A</s>~<c>and</c>~<s>/enI</s>~<ls>Pa1n2._4-1_,_39</ls></p>n.</lex>	<n>   480</n>
+m:f#A:f#hariRI:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>h/ariRI</s></p>n.</lex>	<n>   490</n>
+m:f#A:f#iRI:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>iRI</s></p>n.</lex>	<n>   491</n>
+m:f#A:f#iRI:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>iRI</s>~<qv/></p>n.</lex>	<n>   492</n>
+m:f#A:f#ikA:n:	<lex>mf<p><s>A</s>~,~<s>ikA</s></p>n.</lex>	<n>   476</n>
+m:f#A:f#ikA:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>ikA</s></p>n.</lex>	<n>   493</n>
+m:f#A:f#lohinI:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s>l/ohinI</s></p>n.</lex>	<n>   494</n>
+m:f#A:f#riRI:n:	<lex>mf<p><s>A</s>~<c>or</c>~<s><sr1/>riRI</s></p>n.</lex>	<n>   486</n>
+m:f#A:n:	<lex>m.</lex><lex>f<p><s>A</s></p>.</lex><lex>n.</lex>	<n>   272</n>
+m:f#A:n:	<lex>m.</lex><lex>f<p><s>A</s></p>.</lex><lex>n.</lex>	<n>   299</n>
+m:f#A:n:	<lex>mf<p1><s>A</s></p1>n.</lex>	<n>   357</n>
+m:f#A:n:	<lex>mf<p><s>/A</s></p>n.</lex>	<n>   382</n>
+m:f#A:n:	<lex>mf<p><s>/A</s>~<ls>TS._vii_,_5_,_1_,_2</ls></p>n.</lex>	<n>   390</n>
+m:f#A:n:	<lex>mf<p><s>A</s>!</p>n.</lex>	<n>   447</n>
+m:f#A:n:	<lex>mf<p><s>A</s>.</p>n.</lex>	<n>   449</n>
+m:f#A:n:	<lex>mf<p><s>A</s></p>n.</lex>	<n>   452</n>
+m:f#A:n:	<lex>mf<p><s>A</s><cf/><ls>Pa1n2._4-1_,_64</ls><ab>Comm.</ab></p>n.</lex>	<n>   455</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>AgP.</ls></p>n.</lex>	<n>   456</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>Ka1ran2d2.</ls></p>n.</lex>	<n>   457</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>Naish.</ls></p>n.</lex>	<n>   458</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>Naish._iv_,_105</ls></p>n.</lex>	<n>   459</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>Pa1n2._4-1_,_139</ls></p>n.</lex>	<n>   461</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>Pa1n2._6-1_,_213</ls><ab>Sch.</ab></p>n.</lex>	<n>   462</n>
+m:f#A:n:	<lex>mf<p><s>A</s><ls>Vop.</ls></p>n.</lex>	<n>   463</n>
+m:f#A:n:	<lex>mf<p><s>A</s>~<cf/>~ <ab>g.</ab>~<s>arSa-Adi</s></p>n.</lex>	<n>   495</n>
+m:f#A:n:	<lex>mf<p><s>A</s>~<ls>Pa1n2._3-2_,_162</ls></p>n.</lex>	<n>   500</n>
+m:f#A:n:	<lex>mf<p><s>A</s>~<ls>Pa1n2._4-1_,_52</ls>~<ab>Va1rtt._1</ab></p>n.</lex>	<n>   501</n>
+m:f#A:n:	<lex>mf<p><s>A</s>~<ls>Pa1n2._4-4_,_92</ls></p>n.</lex>	<n>   502</n>
+m:f#A:n:f:	<lex>mf<p><s>A</s></p>n.</lex><lex>f. <ab>du.</ab></lex>	<n>   453</n>
+m:f#AcI:n:	<lex>mf<p><s>/AcI</s></p>n.</lex>	<n>   391</n>
+m:f#AcI:n:	<lex>mf<p><s>A<srs/>cI</s></p>n.</lex>	<n>   507</n>
+m:f#AcI:n:	<lex>mf<p><s>AcI</s></p>n.</lex>	<n>   508</n>
+m:f#AtI:f#AntI:n:	<lex>mf<p><s>AtI</s>~,~<c>or</c>~<s>AntI</s></p>n.</lex>	<n>   509</n>
+m:f#AvI:n:	<lex>mf<p><s>AvI</s></p>n.</lex>	<n>   510</n>
+m:f#BArOhI:n:	<lex>mf<p><s>BArO<srs1/>hI</s></p>n.</lex>	<n>   511</n>
+m:f#BvI:n:	<lex>mf<p><s>Bv/I</s></p>n.</lex>	<n>   512</n>
+m:f#DUcI:n:	<lex>mf<p><s>DUcI</s></p>n.</lex>	<n>   513</n>
+m:f#DnI:n:	<lex>mf<p><s><sr1/>DnI</s></p>n.</lex>	<n>   419</n>
+m:f#DnI:n:	<lex>mf<p><s>DnI</s></p>n.</lex>	<n>   514</n>
+m:f#Gn/I:n:	<lex>mf<p><s>-Gn/I</s></p>n.</lex>	<n>   374</n>
+m:f#GnI:f#haRI:n:	<lex>mf<p><s>Gn/I</s>~<c>or</c>~<s>haRI</s></p>n.</lex>	<n>   516</n>
+m:f#GnI:n:	<lex>m.</lex><lex>f<p><s>Gn/I</s></p>.</lex><lex>n.</lex>	<n>   236</n>
+m:f#GnI:n:	<lex>mf<p><s>-GnI</s></p>n.</lex>	<n>   375</n>
+m:f#GnI:n:	<lex>mf<p><s>Gn/I</s></p>n.</lex>	<n>   515</n>
+m:f#GnI:n:	<lex>mf<p><s>GnI</s></p>n.</lex>	<n>   517</n>
+m:f#GnuzI:n:	<lex>mf<p><s>GnuzI</s></p>n.</lex>	<n>   518</n>
+m:f#I:	<lex>m.</lex><lex>f<p><s>/I</s></p>.</lex>	<n>   264</n>
+m:f#I:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex>	<n>    32</n>
+m:f#I:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   237</n>
+m:f#I:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   273</n>
+m:f#I:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   300</n>
+m:f#I:	<lex>mf<p><s>/I</s></p>.</lex>	<n>   392</n>
+m:f#I:	<lex>mf<p><s>I</s></p>.</lex>	<n>   521</n>
+m:f#I:	<lex>mf<p><s>I</s></p></lex>	<n>   523</n>
+m:f#I:	<lex>mf<p><s>I</s>~<b><ls>Pa1n2._4-1_,_73</ls></b></p></lex>	<n>   558</n>
+m:f#I:f#A:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   274</n>
+m:f#I:f#A:	<lex>mf<p><s>I</s><b><s>A</s><ls>L.</ls></b></p>.</lex>	<n>   533</n>
+m:f#I:f#A:n:	<lex>mf<p><c><s>I</s>~<ab>mc.</ab>_also</c>~<s>A</s></p>n.</lex>	<n>   372</n>
+m:f#I:f#A:n:	<lex>mf<p><s>/I</s>~,~<c>in_later_texts</c>~<s>A</s></p>n.</lex>	<n>   396</n>
+m:f#I:f#A:n:	<lex>mf<p><s>/I</s>~,~<c>or</c>~<s>A</s></p>n.</lex>	<n>   397</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>,<s>A</s><b><c>only</c><ls>BhP._ix_,_18_,_39</ls></b></p>n.</lex>	<n>   519</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~,~<c>m.<ab>c.</ab>_also</c>~<s>A</s></p>n.</lex>	<n>   550</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~,~<c>once</c>~<s>A</s></p>n.</lex>	<n>   551</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~,~<c>once_in</c>~<ls>R.</ls>~<s>A</s></p>n.</lex>	<n>   552</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~,~<c>or</c>~<b><ls>Hcat._i_,_5_,_1202</ls></b>~<s>A</s></p>n.</lex>	<n>   553</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~,~<c>or</c>~<s>A</s></p>n.</lex>	<n>   554</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~,~<c>rarely</c>~<s>A</s></p>n.</lex>	<n>   555</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~<c>or</c>~<b><ls>L.</ls></b>~<s>A</s></p>n.</lex>	<n>   561</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~<c>or</c>~<s>A</s>~;~<cf/>~<ls>Pa1n2._4-1_,_85</ls>_,_<ab>Va1rtt._2</ab></p>n.</lex>	<n>   563</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~<c>or_<b>m._<ab>c.</ab></b></c>~<s>A</s></p>n.</lex>	<n>   565</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~<c>or_less_correctly</c>~<s>A</s></p>n.</lex>	<n>   566</n>
+m:f#I:f#A:n:	<lex>mf<p><s>I</s>~<c>rarely</c>~<s>A</s></p>n.</lex>	<n>   567</n>
+m:f#I:f#SAradI:n:	<lex>mf<p><s>/I</s>~,~<c>or</c>~<s>S/AradI</s></p>n.</lex>	<n>   398</n>
+m:f#I:f#i:n:	<lex>mf<p><s>I<shortlong/></s></p>n.</lex>	<n>   575</n>
+m:f#I:f#ikA:	<lex>m.</lex><lex>f<p><s>I</s>~or~<s>ikA</s></p>.</lex>	<n>   277</n>
+m:f#I:f#ikA:n:	<lex>mf<p><s>I</s>~<ls>Vet._i_,_19<fs/>20</ls>~;~<s>ikA</s></p>n.</lex>	<n>   574</n>
+m:f#I:f#rI:n:	<lex>mf<p><s>I</s>~<c>or</c>~<s>rI</s></p>n.</lex>	<n>   564</n>
+m:f#I:f#u:	<lex>mf<p><s>I</s>~,~<s>u</s></p>.</lex>	<n>   556</n>
+m:f#I:f#yA:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex><lex>f<p><s>yA</s></p>.</lex>	<n>   275</n>
+m:f#I:n:	<lex>m.</lex><lex>f<p><s>I</s></p>.</lex><lex>n.</lex>	<n>   276</n>
+m:f#I:n:	<lex>mf<p1><s>I</s></p1>n.</lex>	<n>   358</n>
+m:f#I:n:	<lex>mf<p><s>/I</s></p>n.</lex>	<n>   393</n>
+m:f#I:n:	<lex>mf<p><s>/I</s></p>n.</lex>	<n>   394</n>
+m:f#I:n:	<lex>mf<p><s>/I</s>~ <ab>g.</ab>~<s>gOrA<srs/>di</s>~<ls>Pa1n2._4-1_,_41</ls></p>n.</lex>	<n>   395</n>
+m:f#I:n:	<lex>mf<p><s>I</s></p>.</lex><lex>n.</lex>	<n>   522</n>
+m:f#I:n:	<lex>mf<p><s>I</s></p>n.</lex>	<n>   524</n>
+m:f#I:n:	<lex>mf<p><s>I</s></p>n.</lex>	<n>   528</n>
+m:f#I:n:	<lex>mf<p><s>I</s></p>n.</lex>	<n>   529</n>
+m:f#I:n:	<lex>mf<p><s>I</s></p>n</lex>	<n>   530</n>
+m:f#I:n:	<lex>mf<p><s>I</s><b><ls>Pa1n2._4-1_,_73</ls></b></p>n.</lex>	<n>   532</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Kum._v_,_31</ls></p>n.</lex>	<n>   534</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>L.</ls></p>n.</lex>	<n>   535</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._3-2_,_155</ls></p>n.</lex>	<n>   536</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._3-2_,_8</ls></p>n.</lex>	<n>   537</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._4-1_,_42</ls></p>n.</lex>	<n>   538</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._4-2_,_2</ls><ab>Va1rtt.</ab></p>n.</lex>	<n>   539</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._4-4_,_4</ls></p>n.</lex>	<n>   540</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._5-1_,_108</ls></p>n.</lex>	<n>   541</n>
+m:f#I:n:	<lex>mf<p><s>I</s><ls>Pa1n2._5-1_,_95</ls><ab>Comm.</ab></p>n.</lex>	<n>   542</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~ <ab>g.</ab>~<s>aSva-paty-Adi</s></p>n.</lex>	<n>   544</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~ <ab>g.</ab>~<s>bilvA<srs/>di</s></p>n.</lex>	<n>   545</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~ <ab>g.</ab>~<s>gOrA<srs/>di</s></p>n.</lex>	<n>   547</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~ <ab>g.</ab>~<s>gOrA<srs/>di</s>~<qv/></p>n.</lex>	<n>   548</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<b><ls>Pa1n2._4-1_,_15</ls>~<ab>Va1rtt._6</ab>~<ls>Pat.</ls></b>~<ls>RV.</ls></p>n.</lex>	<n>   557</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<ls>GopBr._i_,_5_,_24</ls></p>n.</lex>	<n>   568</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<ls>L.</ls></p>n.</lex>	<n>   569</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<ls>Pa1n2._4-1_,50</ls></p>n.</lex>	<n>   570</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<ls>Pa1n2._4-3_,_152</ls></p>n.</lex>	<n>   571</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<ls>Pa1n2._5-1_,_48</ls></p>n.</lex>	<n>   572</n>
+m:f#I:n:	<lex>mf<p><s>I</s>~<ls>S3is3._vi_,_37</ls></p>n.</lex>	<n>   573</n>
+m:f#I:n:f#A:	<lex>mf<p><s>I</s></p>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   525</n>
+m:f#I:n:f#A:	<lex>mf<p><s>I</s></p>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   526</n>
+m:f#I:n:f#A:	<lex>mf<p><s>I</s>~ <ab>g.</ab>~<s>bilvA<srs/>di</s></p>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   546</n>
+m:f#I:n:f#I:	<lex>mf<p><s>I</s></p>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   527</n>
+m:f#IcI:	<lex>mf<p><s>/IcI</s></p></lex>	<n>   403</n>
+m:f#IcI:n:	<lex>mf<p><s>IcI</s></p>n.</lex>	<n>   576</n>
+m:f#IkA:n:	<lex>mf<p><s>IkA</s></p>n.</lex>	<n>   577</n>
+m:f#KarvikA:n:	<lex>mf<p><s>K/arvikA</s></p>n.</lex>	<n>   578</n>
+m:f#RI:n:	<lex>mf<p><s>RI</s></p>n.</lex>	<n>   579</n>
+m:f#SIrzRI:n:	<lex>mf<p><s>SIrzR/I</s></p>n.</lex>	<n>   582</n>
+m:f#SaSvatI:f#tI:n:	<lex>mf<p><s>S/aSvatI</s>~,~<c>or</c>~<s><sr1/>t/I</s></p>n.</lex>	<n>   580</n>
+m:f#ScuzI:n:	<lex>mf<p><s><sr1/>ScuzI</s></p>n.</lex>	<n>   421</n>
+m:f#SyenI:f#SyetA:n:	<lex>mf<p><s>Sy/enI</s>~,~<c>or</c>~<s>SyetA</s></p>n.</lex>	<n>   583</n>
+m:f#TI:n:	<lex>mf<p><s><sr1/>TI</s></p>n.</lex>	<n>   423</n>
+m:f#TuzI:n:	<lex>mf<p><s><sr1/>T/uzI</s></p>n.</lex>	<n>   422</n>
+m:f#U:	<lex>m.</lex><lex>f<p><s>U</s></p>.</lex>	<n>   238</n>
+m:f#U:f#u:f#vI:n:	<lex>mf<p><s>/U<shortlong/></s>~,~<c>or</c>~<s>vI</s></p>n.</lex>	<n>   406</n>
+m:f#U:f#u:f#vI:n:	<lex>mf<p><s>U<shortlong/></s>~<c>or</c>~<s>vI</s></p>n.</lex>	<n>   586</n>
+m:f#U:f#u:n:	<lex>mf<p><s>U<shortlong/></s></p>n.</lex>	<n>   585</n>
+m:f#U:f#vI:n:	<lex>mf<p><s>/U</s>~<c>or</c>~<s>v/I</s></p>n.</lex>	<n>   405</n>
+m:f#U:n:	<lex>mf<p><s>/U</s></p>n.</lex>	<n>   404</n>
+m:f#U:n:	<lex>mf<p><s>U</s></p>n.</lex>	<n>   584</n>
+m:f#adI:n:	<lex>mf<p><s>adI</s></p>n.</lex>	<n>   587</n>
+m:f#akA:f#ikA:</lex>n</lex>	<lex>mf<p><s>akA</s><c>or</c><s>ikA</s></p>n.</lex>	<n>   588</n>
+m:f#akA:f#ikA:</lex>n</lex>	<lex>mf<p><s>akA</s><c>or</c><s>ikA</s><ls>Pa1n2._7-3_,_47</ls></p>n.</lex>	<n>   589</n>
+m:f#akA:f#ikA:</lex>n</lex>	<lex>mf<p><s>akA</s>~<c>or</c>~<s>ikA</s></p>n.</lex>	<n>   590</n>
+m:f#antI:f#atI:n:	<lex>mf<p><s>/antI</s>~<c>or</c>~<s>atI</s></p>n.</lex>	<n>   410</n>
+m:f#antI:n:	<lex>mf<p><ab>du.</ab>~<s>antI</s></p>n.</lex>	<n>   362</n>
+m:f#antI:n:	<lex>mf<p><s>antI</s></p>n.</lex>	<n>   591</n>
+m:f#anti:n:	<lex>mf<p><s>anti</s></p>n.</lex>	<n>   592</n>
+m:f#arI:n:	<lex>mf<p><s>/arI</s></p>n.</lex>	<n>   412</n>
+m:f#arI:n:	<lex>mf<p><s>arI</s></p>n.</lex>	<n>   593</n>
+m:f#arI:n:	<lex>mf<p><s>arI</s>~;~ <ab>accord.</ab>~<c>to</c>~<ls>Pa1n2._4-1_,_7</ls>~<ab>Va1rtt._1</ab>~<ls>Pat.</ls></p>n.</lex>	<n>   594</n>
+m:f#arI:n:	<lex>mf<p><s>arI</s>~<ls>Pa1n2._4-1_,_7</ls></p>n.</lex>	<n>   595</n>
+m:f#arI:n:	<lex>mf<p><s>arI</s>~<see/>~<c>next</c></p>n.</lex>	<n>   596</n>
+m:f#atI:f#antI:n:	<lex>mf<p><s>atI</s>~<ls>MBh._i_,_6469</ls>~<ls>R.</ls>~;~<s>antI</s>~<ls>Mn._v_,_156</ls></p>n.</lex>	<n>   599</n>
+m:f#atI:n:	<lex>mf<p><s>/atI</s></p>n.</lex>	<n>   414</n>
+m:f#atI:n:	<lex>mf<p><s>at/I</s></p>n.</lex>	<n>   597</n>
+m:f#atI:n:	<lex>mf<p><s>atI</s></p>n.</lex>	<n>   598</n>
+m:f#attrI:	<lex>m.</lex><lex>f<p><s>attr/I</s></p>.</lex>	<n>   239</n>
+m:f#cI:	<lex>mf<p><s><sr1/>cI</s></p>.</lex>	<n>   424</n>
+m:f#d/fSI:n:	<lex>mf<p>Ved.~<s>-d/fSI</s></p>n.</lex>	<n>   684</n>
+m:f#drIcI:n:	<lex>mf<p><s><sr1/>drIcI</s></p>n.</lex>	<n>   425</n>
+m:f#enI:n:	<lex>mf<p><s>-enI</s></p>n.</lex>	<n>   376</n>
+m:f#enI:n:	<lex>mf<p><s>en/I</s></p>n.</lex>	<n>   600</n>
+m:f#enI:n:	<lex>mf<p><s>enI</s></p>n.</lex>	<n>   601</n>
+m:f#f:n:	<lex>mf<p><s>f</s></p>n.</lex>	<n>   602</n>
+m:f#gayI:n:	<lex>mf<p><s>g/ayI</s></p>n.</lex>	<n>   604</n>
+m:f#gmuzI:n:	<lex>mf<p><s>gm/uzI</s></p>n.</lex>	<n>   605</n>
+m:f#gocI:n:	<lex>mf<p><s>gocI</s></p>n.</lex>	<n>   606</n>
+m:f#grI:f#gryA:	<lex>mf<p><s><sr1/>grI</s>~or~<s><sr1/>gryA</s></p>.</lex>	<n>   426</n>
+m:f#hnI:n:	<lex>mf<p><s>hnI</s></p>n.</lex>	<n>   607</n>
+m:f#i:f#I:	<lex>m.</lex><lex>f<p><s>i</s></p></lex><lex>f<p><s>I</s></p>.</lex>	<n>   278</n>
+m:f#i:f#tnI:n:	<lex>mf<p><s>i</s>~<c>or</c>~<s>tnI</s></p>n.</lex>	<n>   609</n>
+m:f#i:n:	<lex>mf<p1><s>i</s></p1>n.</lex>	<n>   359</n>
+m:f#i:n:	<lex>mf<p><s>i</s></p>n.</lex>	<n>   608</n>
+m:f#iRI:	<lex>m.</lex><lex>f. <s>iRI</s></lex>	<n>   257</n>
+m:f#iRI:	<lex>m.</lex><lex>f<p><s>iRI</s></p>.</lex>	<n>   279</n>
+m:f#iRI:n:	<lex>mf<p><s>/iRI</s></p>n.</lex>	<n>   415</n>
+m:f#iRI:n:	<lex>mf<p><s>iRI</s></p>n.</lex>	<n>   610</n>
+m:f#ikA:	<lex>m.</lex><lex>f. <s>ikA</s></lex>	<n>   258</n>
+m:f#ikA:	<lex>m.</lex><lex>f<p><s>ikA</s></p>.</lex>	<n>   280</n>
+m:f#ikA:	<lex>m.</lex><lex>f<p><s>ikA</s></p>.</lex>	<n>   281</n>
+m:f#ikA:	<lex>mf<p><s>ikA</s></p>.</lex>	<n>   612</n>
+m:f#ikA:f#I:	<lex>mf<p><s>ikA</s>~and~<s>I</s></p>.</lex>	<n>   620</n>
+m:f#ikA:f#akI:n:	<lex>mf<p><s>ikA</s>~,~<c>once</c>~<s>akI</s></p>n.</lex>	<n>   615</n>
+m:f#ikA:f#enikA:n:	<lex>mf<p><s>ikA</s>~,~<s>enikA</s></p>n.</lex>	<n>   616</n>
+m:f#ikA:f#ikI:n:	<lex>mf<p><s>ikA</s>~,~<s>ikI</s></p>n.</lex>	<n>   617</n>
+m:f#ikA:n:	<lex>mf<p><s>ik/A</s></p>n.</lex>	<n>   611</n>
+m:f#ikA:n:	<lex>mf<p><s>ikA</s></p>n.</lex>	<n>   613</n>
+m:f#ikA:n:	<lex>mf<p><s>ikA</s></p>n.</lex>	<n>   614</n>
+m:f#ikA:n:	<lex>mf<p><s>ikA</s>~<b><ls>Pa1n2._7-3_,_45</ls>~<ab>Va1rtt._6</ab></b>~<ls>R._ii</ls></p>n.</lex>	<n>   618</n>
+m:f#inI:	<lex>m.</lex><lex>f<p><s>inI</s></p>.</lex>	<n>   282</n>
+m:f#inI:n:	<lex>mf<p><s>inI</s></p>n.</lex>	<n>   621</n>
+m:f#is:f#I:n:	<lex>mf<p><s>is</s>~,~<c>or</c>~<s>I</s></p>n.</lex>	<n>   622</n>
+m:f#jYI:n:	<lex>mf<p><s>jYI</s></p>n.</lex>	<n>   623</n>
+m:f#jYuzi:n:	<lex>mf<p><s>jYuzi</s></p>n.</lex>	<n>   624</n>
+m:f#jvI:n:	<lex>mf<p><s>jv/I</s></p>n.</lex>	<n>   625</n>
+m:f#kA:	<lex>m.</lex><lex>f<p><s><sr1/>kA</s></p>.</lex>	<n>   265</n>
+m:f#kA:	<lex>mf<p><s><sr1/>kA</s></p></lex>	<n>   427</n>
+m:f#kI:	<lex>m.</lex><lex>f<p><s><sr1/>kI</s></p>.</lex>	<n>   266</n>
+m:f#kadrIcI:n:	<lex>mf<p><s>kadr/IcI</s></p>n.</lex>	<n>   626</n>
+m:f#kyA:	<lex>m.</lex><lex>f. <s><sr1/>kyA</s></lex>	<n>   250</n>
+m:f#kyA:	<lex>mf<p><s><sr1/>kyA</s></p>.</lex>	<n>   428</n>
+m:f#kzI:f#kzyA:	<lex>m.</lex><lex>f<p><s><sr1/>kzI</s>~<c>or</c>~<s><sr1/>kzyA</s></p>.</lex>	<n>   267</n>
+m:f#kzuzI:n:	<lex>mf<p><s><sr1/>kz/uzI</s></p>n.</lex>	<n>   429</n>
+m:f#mA:n:	<lex>m.</lex><lex>f<p><s><sr1/>mA</s></p>.</lex><lex>n.</lex>	<n>   268</n>
+m:f#mRI:n:	<lex>mf<p><s><sr1/>mRI</s></p>n.</lex>	<n>   430</n>
+m:f#mahizI:n:	<lex>mf<p><s>m/ahizI</s></p>n.</lex>	<n>   627</n>
+m:f#minI:n:	<lex>mf<p><s>minI</s></p>n.</lex>	<n>   628</n>
+m:f#mnI:n:	<lex>mf<p><s><sr1/>mnI</s></p>n.</lex>	<n>   431</n>
+m:f#mnI:n:	<lex>mf<p><s>mnI</s></p>n.</lex>	<n>   629</n>
+m:f#nI:	<lex>mf<p><s>nI</s></p>.</lex>	<n>   631</n>
+m:f#nI:n:	<lex>mf<p><s>nI</s></p>n.</lex>	<n>   632</n>
+m:f#nIci:n:	<lex>mf<p><s>n/Ici</s></p>n</lex>	<n>   630</n>
+m:f#ntI:	<lex>m.</lex><lex>f<p><s><sr1/>ntI</s></p>.</lex>	<n>   269</n>
+m:f#ntI:n:	<lex>mf<p><s>ntI</s></p>n.</lex>	<n>   633</n>
+m:f#p/adI:n:	<lex>mf<p><s>-p/adI</s></p>n.</lex>	<n>   377</n>
+m:f#pA:f#pI:n:	<lex>mf<p><s>pA</s>~<c>and</c>~<s>pI</s></p>n.</lex>	<n>   634</n>
+m:f#pUrvI:n:	<lex>mf<p><s>pUrv/I</s></p>n.</lex>	<n>   635</n>
+m:f#padI:n:	<lex>mf<p><s>-padI</s></p>n.</lex>	<n>   378</n>
+m:f#padI:n:	<lex>mf<p><s>padI</s></p>n.</lex>	<n>   636</n>
+m:f#patnI:n:	<lex>mf<p><s>-patnI</s></p>n</lex>	<n>   379</n>
+m:f#patnI:n:	<lex>mf<p><s>patnI</s></p>n.</lex>	<n>   637</n>
+m:f#pipyuhI:n:	<lex>mf<p><s>pipy/uhI</s></p>n.</lex>	<n>   638</n>
+m:f#qvI:n:	<lex>mf<p><s><sr1/>qvI</s></p>n.</lex>	<n>   432</n>
+m:f#rI:n:	<lex>mf<p><s>r/I</s></p>n.</lex>	<n>   639</n>
+m:f#rI:n:	<lex>mf<p><s>rI</s></p>n.</lex>	<n>   640</n>
+m:f#rU:n:	<lex>mf<p><s><sr1/>rU</s></p>n.</lex>	<n>   433</n>
+m:f#ryOhI:	<lex>m.</lex><lex>f<p><s><sr1/>ryOh/I</s></p>.</lex>	<n>   231</n>
+m:f#ryuzI:n:	<lex>mf<p><s><sr1/>ryuzI</s></p>n.</lex>	<n>   434</n>
+m:f#rzRI:n:	<lex>mf<p><s><sr1/>rzR/I</s></p>n.</lex>	<n>   435</n>
+m:f#sI:n:	<lex>mf<p><s>s/I</s></p>n.</lex>	<n>   641</n>
+m:f#sOrI:f#sOryA:n:	<lex>mf<p><s>sOr/I</s>~<c>or</c>~<s>sOryA</s></p>n.</lex>	<n>   642</n>
+m:f#saDrIcI:n:	<lex>mf<p><s>saDr/IcI</s></p>n.</lex>	<n>   643</n>
+m:f#satI:n:	<lex>mf<p><s>sat/I</s></p>n.</lex>	<n>   644</n>
+m:f#si:n:	<lex>m.</lex><lex>f<p><s>si</s></p>.</lex><lex>n.</lex>	<n>     2</n>
+m:f#stI:n:	<lex>mf<p><s><sr1/>stI</s></p>n.</lex>	<n>   436</n>
+m:f#t:n:	<lex>mf<p><s>t</s></p>n.</lex>	<n>   647</n>
+m:f#tI:n:	<lex>mf<p><s>t/I</s></p>n.</lex>	<n>   645</n>
+m:f#tI:n:	<lex>mf<p><s>tI</s></p>n.</lex>	<n>   648</n>
+m:f#tIcI:n:	<lex>mf<p><s><sr1/>tIc/I</s></p>n.</lex>	<n>   438</n>
+m:f#tIcI:n:	<lex>mf<p><s>tIcI</s></p>n.</lex>	<n>   649</n>
+m:f#ti:	<lex>mf<p><s><sr1/>ti</s></p>.</lex>	<n>   439</n>
+m:f#tikA:f#lohinikA:n:	<lex>mf<p><s><sr1/>tikA</s>~<c>or</c>~<s>lohinikA</s></p>n.</lex>	<n>   440</n>
+m:f#tinI:n:	<lex>mf<p><s>t/inI</s></p>n.</lex>	<n>   646</n>
+m:f#tnI:n:	<lex>mf<p><s>tnI</s></p>n.</lex>	<n>   650</n>
+m:f#trI:	<lex>m.</lex><lex>f. <s><sr1/>trI</s></lex>	<n>   251</n>
+m:f#trI:	<lex>m.</lex><lex>f<p><s>trI</s></p>.</lex>	<n>   283</n>
+m:f#trI:	<lex>m.</lex><lex>f<p><s>trI</s></p></lex>	<n>   284</n>
+m:f#trI:	<lex>mf<p><s><sr1/>trI</s></p>.</lex>	<n>   441</n>
+m:f#trI:n:	<lex>mf<p><s><sr1/>trI</s></p>n.</lex>	<n>   442</n>
+m:f#trI:n:	<lex>mf<p><s>tr/I</s></p>n.</lex>	<n>   651</n>
+m:f#trI:n:	<lex>mf<p><s>tr/I</s>~<ls>S3Br.</ls>~<ls>Gobh.</ls>~<ls>MBh._xiii</ls></p>n.</lex>	<n>   652</n>
+m:f#trI:n:	<lex>mf<p><s>trI</s></p>n.</lex>	<n>   653</n>
+m:f#trI:n:	<lex>mf<p><s>trI</s><ls>A1pS3r._<ab>Sch.</ab></ls></p>n.</lex>	<n>   654</n>
+m:f#trI:n:	<lex>mf<p><s>trI</s>~<ls>Ragh.</ls></p>n.</lex>	<n>   655</n>
+m:f#ttyA:	<lex>m.</lex><lex>f. <s>ttyA</s></lex>	<n>   259</n>
+m:f#tuzI:n:	<lex>mf<p><s><sr1/>t/uzI</s></p>n.</lex>	<n>   437</n>
+m:f#tyA:	<lex>m.</lex><lex>f. <s><sr1/>tyA</s></lex>	<n>   252</n>
+m:f#tyA:	<lex>mf<p><s><sr1/>tyA</s></p>.</lex>	<n>   443</n>
+m:f#tyikA:n:	<lex>mf<p1><s><sr1/>tyikA</s></p1>n.</lex>	<n>   356</n>
+m:f#u:f#U:	<lex>mf<p><s>u</s>~or~<s>/U</s></p>.</lex>	<n>   661</n>
+m:f#u:f#U:n:	<lex>mf<p><s>u</s>~,~<c>or</c>~<s>/U</s></p>n.</lex>	<n>   657</n>
+m:f#u:f#U:n:	<lex>mf<p><s>u</s>~<c>or</c>~<s>U</s></p>n.</lex>	<n>   659</n>
+m:f#u:f#vI:	<lex>mf<p><s>u</s>~or~<s>vI</s></p>.</lex>	<n>   662</n>
+m:f#u:f#vI:n:	<lex>mf<p><s>/u</s>~<c>or</c>~<s>v/I</s></p>n.</lex>	<n>   417</n>
+m:f#u:f#vI:n:	<lex>mf<p><s>u</s>~,~<c>or</c>~<s>vI</s></p>n.</lex>	<n>   658</n>
+m:f#u:f#vI:n:	<lex>mf<p><s>u</s>~<c>or</c>~<s>vI</s></p>n.</lex>	<n>   660</n>
+m:f#u:n:	<lex>mf<p><s>/u</s></p>n.</lex>	<n>   416</n>
+m:f#u:n:	<lex>mf<p><s>u</s></p>n.</lex>	<n>   656</n>
+m:f#us:f#vI:n:	<lex>mf<p><s>us</s>~<c>or</c>~<s>vI</s></p>n.</lex>	<n>   665</n>
+m:f#us:n:	<lex>mf<p><s>us</s></p>n.</lex>	<n>   663</n>
+m:f#uzI:n:	<lex>mf<p><s>/uzI</s></p>n.</lex>	<n>   418</n>
+m:f#uzI:n:	<lex>mf<p><s>uzI</s></p>n.</lex>	<n>   666</n>
+m:f#vI:	<lex>m.</lex><lex>f. <s><sr1/>v/I</s></lex>	<n>   253</n>
+m:f#vI:	<lex>mf<p><s>vI</s></p>.</lex>	<n>   669</n>
+m:f#vI:f#U:n:	<lex>mf<p><s>vI</s>~,~<c>or</c>~<s>U</s></p>n.</lex>	<n>   671</n>
+m:f#vI:f#u:n:	<lex>mf<p><s>v/I</s>~<c>or</c>~<s>u</s></p>n.</lex>	<n>   668</n>
+m:f#vI:f#u:n:	<lex>mf<p><s>vI</s>~,~<c>or</c>~<s>u</s></p>n.</lex>	<n>   672</n>
+m:f#vI:f#us:n:	<lex>mf<p><s>vI</s>~<c>and</c>~<s>us</s></p>n.</lex>	<n>   673</n>
+m:f#vI:n:	<lex>mf<p><s>v/I</s></p>n.</lex>	<n>   667</n>
+m:f#vI:n:	<lex>mf<p><s>vI</s></p>n.</lex>	<n>   670</n>
+m:f#varI:n:	<lex>mf<p><s><sr1/>varI</s></p>n.</lex>	<n>   444</n>
+m:f#varI:n:	<lex>mf<p><s>varI</s></p>n.</lex>	<n>   674</n>
+m:f#vatI:f#vatnI:n:	<lex>mf<p><s>vatI</s>~<b><ls>RV.</ls></b>~<c>or</c>~<s>vatnI</s></p>n.</lex>	<n>   676</n>
+m:f#vatI:n:	<lex>mf<p><s>vatI</s></p>n.</lex>	<n>   675</n>
+m:f#vi:	<lex>m.</lex><lex>f. <s><sr1/>v/i</s></lex>	<n>   254</n>
+m:f#viSvOhI:n:	<lex>mf<p><s>viSvO<srs1/>hI</s></p>n.</lex>	<n>   677</n>
+m:f#yUnI:f#yuvatI:f#yuvati:n:	<lex>mf<p><s>yUnI</s>~,~<c>or</c>~<s>yuvatI<shortlong/></s>~<qv/></p>n.</lex>	<n>   678</n>
+m:f#yanI:	<lex>m.</lex><lex>f<p><s><sr1/>yanI</s></p>.</lex>	<n>   270</n>
+m:f#yikA:	<lex>m.</lex><lex>f. <s><sr1/>yikA</s></lex>	<n>   255</n>
+m:f#yuzI:n:	<lex>mf<p><s>yuzI</s></p>n.</lex>	<n>   679</n>
+m:f#zRI:	<lex>mf<p><s><sr1/>zRI</s></p>.</lex>	<n>   445</n>
+m:f#zRI:n:	<lex>mf<p><s>zRI</s></p>n.</lex>	<n>   680</n>
+m:f#zRi:n:	<lex>mf<p><s>zRi</s></p>n.</lex>	<n>   681</n>
+m:f#zUcI:n:	<lex>mf<p><s><sr1/>zUcI</s></p>n.</lex>	<n>   446</n>
+m:f:	<lex>m.</lex><lex>f. <ab>pl.</ab></lex>	<n>   226</n>
+m:f:	<lex>m.</lex><lex>f. <ab>pl.</ab></lex>	<n>   249</n>
+m:f:	<lex>m.</lex><lex>f.</lex>	<n>    93</n>
+m:f:	<lex>m.</lex><lex>f.</lex>	<n>   227</n>
+m:f:	<lex>m.</lex><lex>f.</lex>	<n>   229</n>
+m:f:	<lex>m.</lex><lex>f.</lex>	<n>   260</n>
+m:f:	<lex>m.f.</lex>	<n>   316</n>
+m:f:	<lex>mf.</lex>	<n>   349</n>
+m:f:	<lex>mf.</lex>	<n>   355</n>
+m:f:	<lex>mf<p><ls>RV._x_,_130_,_5</ls></p>.</lex>	<n>   373</n>
+m:f:<lex>n<p><s>at</s></p></lex>	<lex>mfn<p><s><sr1/>at</s></p>.</lex>	<n>   707</n>
+m:f:f#I:	<lex>m.</lex><lex>f.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   261</n>
+m:f:f#ikA:f#I:	<lex>mf.</lex><lex>f<p><s>ikA</s>~or~<s>I</s></p>.</lex>	<n>   350</n>
+m:f:f#lI:	<lex>mf.</lex><lex>f<p><s><sr1/>lI</s></p>.</lex>	<n>   351</n>
+m:f:f#yonI:	<lex>mf.</lex><lex>f<p><s>yonI</s></p>.</lex>	<n>   353</n>
+m:f:f#zI:	<lex>mf.</lex><lex>f<p><s><sr1/>zI</s></p>.</lex>	<n>   352</n>
+m:f:n:	<lex>m.</lex><lex>f.</lex><lex>n.</lex>	<n>   228</n>
+m:f:n:	<lex>m.</lex><lex>f.</lex><lex>n.</lex>	<n>   262</n>
+m:f:n:	<lex>m.</lex><lex>fn.</lex>	<n>   318</n>
+m:f:n:	<lex>m.<p><s>As</s>~<c>or</c>~<s>e</s></p>fn. <ab>pl.</ab></lex>	<n>   315</n>
+m:f:n:	<lex>m<p><ab>acc.</ab><s><sr1/>RA<srs/>Ycam</s></p>fn.</lex>	<n>   319</n>
+m:f:n:	<lex>m<p><ab>acc.</ab><s><sr1/>haRam</s></p>fn.</lex>	<n>   320</n>
+m:f:n:	<lex>m<p><ab>dat.</ab><s>-viduze</s></p>fn.</lex>	<n>   322</n>
+m:f:n:	<lex>m<p><ab>du.</ab><s>-j/uvA</s></p>fn.</lex>	<n>   323</n>
+m:f:n:	<lex>m<p><ab>nom.</ab> <ab>pl.</ab><s>-sr/iyas</s></p>fn.</lex>	<n>   324</n>
+m:f:n:	<lex>m<p><ab>nom.</ab> <ab>pl.</ab><s>-v/Ahas</s></p>fn.</lex>	<n>   325</n>
+m:f:n:	<lex>m<p><ab>nom.</ab> <ab>pl.</ab><s>/Anas</s></p>fn.</lex>	<n>   326</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s>-D/fk</s></p>fn.</lex>	<n>   327</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s>-dan</s></p>fn.</lex>	<n>   328</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s>-p/A</s></p>fn.</lex>	<n>   329</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s>-vAw</s></p>fn.</lex>	<n>   330</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s>-z/Aw</s></p>fn.</lex>	<n>   331</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s><sr1/>KA</s></p>fn.</lex>	<n>   332</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s><sr1/>dD/A</s></p>fn.</lex>	<n>   333</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s><sr1/>yaN</s></p>fn.</lex>	<n>   334</n>
+m:f:n:	<lex>m<p><ab>nom.</ab><s>vAn</s></p>fn.</lex>	<n>   335</n>
+m:f:n:	<lex>m<p><ab>pl.</ab>~<s><sr1/>tAras</s></p>fn.</lex>	<n>   336</n>
+m:f:n:	<lex>m<p><c><ab>gen.</ab></c>~<s>/a-pupuzas</s></p>fn.</lex>	<n>   337</n>
+m:f:n:	<lex>m<p><c><ab>instr.</ab></c>~<s><sr1/>ByuzA</s>~;~ <ab>nom.</ab> <ab>pl.</ab>~<s><sr1/>Byuzas</s></p>fn.</lex>	<n>   338</n>
+m:f:n:	<lex>m<p><c><ab>nom.</ab></c>~ <ab>pl.</ab>~<s>-G/anas</s></p>fn.</lex>	<n>   339</n>
+m:f:n:	<lex>m<p><c><ab>nom.</ab></c>~ <ab>pl.</ab>~<s>-s/Apas</s></p>fn.</lex>	<n>   340</n>
+m:f:n:	<lex>m<p><c><ab>nom.</ab></c>~ <ab>pl.</ab>~<s>As</s></p>fn.</lex>	<n>   341</n>
+m:f:n:	<lex>m<p><c><ab>nom.</ab></c>~ <ab>sg.</ab>~<s>An</s></p>fn.</lex>	<n>   342</n>
+m:f:n:	<lex>m<p><c><ab>nom.</ab></c>~<s>-Duk</s></p>fn.</lex>	<n>   343</n>
+m:f:n:	<lex>m<p><c><ab>nom.</ab></c>~<s><sr1/>vAn</s>~;~ <ab>gen.</ab> <ab>abl.</ab>~<s>/a-raruzas</s></p>fn.</lex>	<n>   344</n>
+m:f:n:	<lex>m<p><s>/As</s></p>fn.</lex>	<n>   345</n>
+m:f:n:	<lex>m<p><s>As</s><c>or</c><s>e</s></p>fn.</lex>	<n>   347</n>
+m:f:n:	<lex>m<p><s>ikA</s></p>fn.</lex>	<n>   348</n>
+m:f:n:	<lex>mf.</lex><lex>n.</lex>	<n>   354</n>
+m:f:n:	<lex>mf<p><ab>acc.</ab> <ab>pl.</ab>~<s><sr1/>yasas</s></p>n.</lex>	<n>   360</n>
+m:f:n:	<lex>mf<p><ab>acc.</ab>~<s><sr1/>im</s></p>n.</lex>	<n>   361</n>
+m:f:n:	<lex>mfn. <ab>pl.</ab></lex>	<n>   686</n>
+m:f:n:	<lex>mfn.</lex>	<n>     5</n>
+m:f:n:	<lex>mfn.</lex>	<n>    58</n>
+m:f:n:	<lex>mfn.</lex>	<n>    96</n>
+m:f:n:	<lex>mfn.</lex>	<n>   687</n>
+m:f:n:	<lex>mfn.</lex>	<n>   704</n>
+m:f:n:	<lex>mfn.</lex>	<n>   705</n>
+m:f:n:	<lex>mfn.</lex>	<n>   706</n>
+m:f:n:	<lex>mfn.</lex><lex>n.</lex>	<n>    17</n>
+m:f:n:	<lex>mfn.</lex><lex>n.</lex>	<n>   692</n>
+m:f:n:	<lex>mfn.</lex><lex>n.</lex>	<n>   702</n>
+m:f:n:<lex>n<p><s>mat</s></p></lex>	<lex>mfn.</lex><lex>n<p><s><sr1/>mat</s></p>.</lex>	<n>   703</n>
+m:f:n:f#I:	<lex>mfn.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   689</n>
+m:f:n:f#I:	<lex>mfn.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   696</n>
+m:f:n:f#ikA:	<lex>mfn.</lex><lex>f<p><s>ikA</s></p>.</lex>	<n>   697</n>
+m:f:n:f#sanutrI:	<lex>mfn.</lex><lex>f<p><s>s/anutrI</s></p>.</lex>	<n>   698</n>
+m:f:n:f#tikA:f#takI:	<lex>mfn.</lex><lex>f<p><s><sr1/>tik/A</s></p>.</lex><lex>f. <s><sr1/>takI</s></lex>	<n>   695</n>
+m:f:n:f#trI:	<lex>mfn.</lex><lex>f. <s><sr1/>trI</s></lex>	<n>   693</n>
+m:f:n:f#vI:	<lex>mfn.</lex><lex>f<p><s>vI</s></p>.</lex>	<n>   699</n>
+m:f:n:f:	<lex>mfn.</lex><lex>f.</lex>	<n>   688</n>
+m:f:n:f:	<lex>mfn.</lex><lex>f.</lex>	<n>   694</n>
+m:f:n:ind:	<lex>mfn.</lex><lex>ind.</lex>	<n>   700</n>
+m:f:n:m:	<lex>mfn.</lex><lex>m.</lex>	<n>   690</n>
+m:f:n:m:	<lex>mfn.</lex><lex>m.</lex>	<n>   701</n>
+m:f:n:m:f:n:	<lex>mfn.</lex><lex>mfn.</lex>	<n>   691</n>
+m:m:	<lex>m.</lex><lex>m. <ab>pl.</ab></lex>	<n>   240</n>
+m:m:	<lex>m.</lex><lex>m.</lex>	<n>   241</n>
+m:m:f#A:n:	<lex>m.</lex><lex>mf<p1><s>A</s></p1>n.</lex>	<n>   286</n>
+m:m:f#A:n:	<lex>m.</lex><lex>mf<p><s>A</s></p>n.</lex>	<n>   242</n>
+m:m:f:n:	<lex>m.</lex><lex>mfn.</lex>	<n>   243</n>
+m:m:f:n:	<lex>m.</lex><lex>mfn.</lex>	<n>   287</n>
+m:n:	<lex>m. <ab>du.</ab> <c>or</c> <ab>pl.</ab></lex><lex>n. <ab>sg.</ab></lex>	<n>   213</n>
+m:n:	<lex>m. <ab>du.</ab></lex><lex>n. <ab>du.</ab></lex>	<n>   215</n>
+m:n:	<lex>m. <ab>du.</ab></lex><lex>n. <ab>sg.</ab></lex>	<n>   216</n>
+m:n:	<lex>m. <ab>du.</ab></lex><lex>n.</lex>	<n>   217</n>
+m:n:	<lex>m. <ab>pl.</ab></lex><lex>n. <ab>pl.</ab></lex>	<n>   220</n>
+m:n:	<lex>m. <ab>pl.</ab></lex><lex>n.</lex>	<n>   221</n>
+m:n:	<lex>m. <ab>pl.</ab></lex><lex>n.</lex>	<n>   222</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>     3</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>    15</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>    16</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   244</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   248</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   288</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   293</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   294</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   295</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   301</n>
+m:n:	<lex>m.</lex><lex>n.</lex>	<n>   305</n>
+m:n:	<lex>m.n</lex>	<n>   317</n>
+m:n:	<lex>mn.</lex>	<n>   708</n>
+m:n:	<lex>mn.</lex>	<n>   715</n>
+m:n:	<lex>mn.</lex>	<n>   716</n>
+m:n:	<lex>mn.</lex>	<n>   717</n>
+m:n:	<lex>mn.</lex>	<n>   718</n>
+m:n:	<lex>mn.</lex>	<n>   719</n>
+m:n:	<lex>mn.</lex>	<n>   720</n>
+m:n:	<lex>mn.</lex>	<n>   721</n>
+m:n:	<lex>mn.</lex>	<n>   722</n>
+m:n:	<lex>mn.</lex>	<n>   723</n>
+m:n:	<lex>mn.</lex><lex>n.</lex>	<n>     6</n>
+m:n:	<lex>mn<p>?</p>.</lex>	<n>   724</n>
+m:n:f#A:	<lex>m.</lex><lex>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   246</n>
+m:n:f#A:	<lex>m.</lex><lex>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   290</n>
+m:n:f#A:	<lex>mn.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   709</n>
+m:n:f#A:	<lex>mn.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   710</n>
+m:n:f#I:	<lex>m.</lex><lex>n.</lex><lex>f<b><s>I</s></b>.</lex>	<n>   289</n>
+m:n:f#I:	<lex>m.</lex><lex>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   291</n>
+m:n:f#I:	<lex>m.</lex><lex>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   292</n>
+m:n:f#I:	<lex>mn.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   711</n>
+m:n:f#I:	<lex>mn.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   714</n>
+m:n:f#I:f#A:	<lex>mnf<p><s>I</s>~,~<s>A</s></p>.</lex>	<n>   725</n>
+m:n:f#Us:	<lex>mn.</lex><lex>f<p><s>Us</s></p>.</lex>	<n>   712</n>
+m:n:f#ikA:	<lex>m.</lex><lex>n.</lex><lex>f<p><s>ikA</s></p>.</lex>	<n>   247</n>
+m:n:f:	<lex>m.</lex><lex>n.</lex><lex>f.</lex>	<n>   245</n>
+m:n:m:f:n:	<lex>mn.</lex><lex>mfn.</lex>	<n>   713</n>
+n:	<lex>n. <ab>du.</ab></lex>	<n>   726</n>
+n:	<lex>n. <ab>pl.</ab></lex>	<n>   728</n>
+n:	<lex>n. <ab>sg.</ab> <c>and</c> <ab>du.</ab></lex>	<n>   729</n>
+n:	<lex>n.</lex>	<n>     7</n>
+n:	<lex>n.</lex>	<n>    18</n>
+n:	<lex>n.</lex>	<n>    39</n>
+n:	<lex>n.</lex>	<n>    45</n>
+n:	<lex>n.</lex>	<n>    59</n>
+n:	<lex>n.</lex>	<n>    61</n>
+n:	<lex>n.</lex>	<n>   733</n>
+n:	<lex>n.</lex>	<n>   770</n>
+n:	<lex>n.</lex><lex>n. <ab>pl.</ab></lex>	<n>   744</n>
+n:f#A:	<lex>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   735</n>
+n:f#A:	<lex>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   746</n>
+n:f#A:	<lex>n.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   772</n>
+n:f#A:	<lex>n.f<p><s>A</s></p></lex>	<n>   784</n>
+n:f#A:	<lex>nf<p><s>A</s></p>.</lex>	<n>   788</n>
+n:f#A:f#I:	<lex>nf<p><s>A</s>~,~<s>I</s></p>.</lex>	<n>   789</n>
+n:f#A:m:	<lex>n.</lex><lex>f<p><s>A</s></p>.</lex><lex>m.</lex>	<n>   747</n>
+n:f#I:	<lex>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>    60</n>
+n:f#I:	<lex>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   736</n>
+n:f#I:	<lex>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   748</n>
+n:f#I:	<lex>n.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   749</n>
+n:f#I:	<lex>nf<p><s>I</s></p>.</lex>	<n>   790</n>
+n:f#SAsanA:	<lex>n.</lex><lex>f<p><s>SAsanA</s></p>.</lex>	<n>   750</n>
+n:f#i:	<lex>nf<p><s>i</s></p>.</lex>	<n>   791</n>
+n:f#i:f#SI:	<lex>nf<p><s>i</s>~or~<s>SI</s></p>.</lex>	<n>   792</n>
+n:f#ikA:	<lex>n.</lex><lex>f<p><s>ikA</s></p>.</lex>	<n>   751</n>
+n:f#ikA:	<lex>nf<p><s>ikA</s></p>.</lex>	<n>   793</n>
+n:f#naktA:	<lex>n.</lex><lex>f<p><s>n/aktA</s></p>.</lex>	<n>   752</n>
+n:f#wI:	<lex>n.</lex><lex>f<p><s>wI</s></p>.</lex>	<n>   737</n>
+n:f:	<lex>n.</lex><lex>f.</lex>	<n>   734</n>
+n:f:	<lex>n.</lex><lex>f.</lex>	<n>   745</n>
+n:f:	<lex>nf.</lex>	<n>   787</n>
+n:ind:	<lex>n.</lex><lex>ind.</lex>	<n>   753</n>
+n:m:	<lex>n. <ab>du.</ab></lex><lex>m.</lex>	<n>   727</n>
+n:m:	<lex>n. <ab>sg.</ab></lex><lex>m. <ab>du.</ab></lex>	<n>   730</n>
+n:m:	<lex>n. <ab>sg.</ab></lex><lex>m.> <ab>du.</ab></lex>	<n>   731</n>
+n:m:	<lex>n.</lex><lex>m. <ab>du.</ab></lex>	<n>   738</n>
+n:m:	<lex>n.</lex><lex>m. <ab>pl.</ab></lex>	<n>   739</n>
+n:m:	<lex>n.</lex><lex>m.</lex>	<n>    19</n>
+n:m:	<lex>n.</lex><lex>m.</lex>	<n>   740</n>
+n:m:	<lex>n.</lex><lex>m.</lex>	<n>   754</n>
+n:m:	<lex>n.</lex><lex>m.</lex>	<n>   761</n>
+n:m:	<lex>n.</lex><lex>m.</lex>	<n>   773</n>
+n:m:	<lex>nm.</lex>	<n>   794</n>
+n:m:f#A:	<lex>n.</lex><lex>m.</lex><lex>f<b><s>A</s></b>.</lex>	<n>   757</n>
+n:m:f#A:	<lex>n.</lex><lex>m.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   741</n>
+n:m:f#A:	<lex>n.</lex><lex>m.</lex><lex>f<p><s>A</s></p>.</lex>	<n>   758</n>
+n:m:f#A:	<lex>n.</lex><lex>mf<p><s>A</s></p>.</lex>	<n>   768</n>
+n:m:f#I:	<lex>n.</lex><lex>m.</lex><lex>f.<p><s>I</s></p></lex>	<n>   756</n>
+n:m:f#I:	<lex>n.</lex><lex>m.</lex><lex>f<p><s>I</s></p>.</lex>	<n>   759</n>
+n:m:f#I:f:	<lex>n.</lex><lex>m.</lex><lex>f<p><s>I</s></p>.</lex><lex>f.</lex>	<n>   760</n>
+n:m:f#I:n:	<lex>n.</lex><lex>mf<p><s>I</s></p>n.</lex>	<n>   742</n>
+n:m:f:	<lex>n.</lex><lex>m.</lex><lex>f.</lex>	<n>   755</n>
+n:m:f:	<lex>n.</lex><lex>mf.</lex>	<n>   767</n>
+n:m:f:n:	<lex>n.</lex><lex>mfn.</lex>	<n>   743</n>
+n:m:f:n:	<lex>n.</lex><lex>mfn.</lex>	<n>   769</n>
+n:m:m:	<lex>n</lex><lex>m.</lex><lex>m. <ab>pl.</ab></lex>	<n>   786</n>
+n:n:	<lex>n. <ab>sg.</ab></lex><lex>n. <ab>du.</ab></lex><lex>n. <ab>pl.</ab></lex>	<n>   732</n>

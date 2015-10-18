@@ -1,0 +1,45 @@
+
+This documents what ejf has done regarding recognition and correction of
+errors to the Cologne MW dictionary.  The starting point was the file
+mwtot2.txt, as described in mwdoc1.txt.  The following files are relevant
+to the question:
+ lisp/mw.el  elisp code which contains the functions used.  Some functions
+    not related to errors is also included.
+ lisp/mwdoc.el  contains a large section called 'CHANGE LOG'. Most of
+    the changes are referenced, in order of doing, in this section.
+
+ mw directory contains all the files pertaining to the dictionary versions.
+ mw/mwtot2.txt is the file started with, obtained via the 'mwsdd' program
+   made available by Bontes.
+ mw/SL-mwtot2.txt is almost the same as mwtot2.txt
+ mw/SL-mwtot3.txt is the current edition of file. 
+ There are a few (about 15) prior versions exist. The naming conventions
+   used in these saved versions is related to the function names in the
+   'CHANGE LOG'.  For instance 'SL-mwtot3-5a4', the first saved, shows the
+   file after changes made by the function 'modify-SLmwtot3-5a4'.
+   Thus, changes made by functions 'modify-SLmwtot3-5a5' - 
+   'modify-SLmwtot3-7a1' are not included in this file.
+   
+
+ The automated changes accomplished in the 'modify-...' functions are
+  usually regular expression replacements.
+
+ An independent series of changes was non-automated.  These changes were
+ made on the text file (SL-mwtot3.txt) using the EMACS text editor.  However,
+ with few exceptions, these 'manual changes' were documented, as follows.
+ The interactive command 'MWS' was written.  One invokes the command while
+ editing the SL-mwtot3.txt file. When the MWS command is invoked, the 
+ user is prompted answer 'O' or 'N' for 'old'/'new' = 'before change'/'after'.
+ The MWS command then appends the line containing the cursor into a 
+ date-stamped file, e.g., 'modify-SLmwtot3-2005Jul02.txt'. So, one would
+ typically (a) position the cursor in the line needing a correction,
+ (b) invoke MWS with 'O', (c) use EMACS text editing facilities to make
+  the correction, leaving the cursor within the line, (d) invoke 'MWS' with
+ 'N' to record the new record.   A little bit of error checking is done.
+ 
+  mw/xmw  contains many earlier manual change files, moved there from 'mw'
+  just to avoid file clutter within mw.
+
+  These 'modify...' files would provide some information on what changes
+  were made.
+

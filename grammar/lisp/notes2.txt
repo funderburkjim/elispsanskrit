@@ -1,0 +1,24 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+; notes2.txt
+; Begun 8-29-03.
+; Programming structure notes
+;
+* dhaatu data structure
+root
+ cpus  (list of (class pada (upasargas)))
+
+root-classpada (or) root-classpada-upasarga1-...-upasargan (or)
+ Eng-def
+ conj-base  
+  value is either 
+   - a symbol, representing the conjugational base
+   - a list of symbols, representing optional conjugational bases (rare)
+   - a list with two elements, whose first is the symbol 'REF' and
+     whose second is the symbol 'root-classpada' whose 'conj-base'
+     will provide the value.  Note, this form is only used when
+     there are upasargas present.
+ NOTE 1: This value is present only in the case of conjugational classes
+    1,4,6,10 (the 'a' classes). In the other classes, the conjugation
+    is less regular.
+ NOTE 2a: The file 'dhaatukosha.txt' provides specification of allowed
+    class-pada-upasargas for a given root, along with definitions.

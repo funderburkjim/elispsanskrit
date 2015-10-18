@@ -1,0 +1,26 @@
+
+Some static analysis of grammar/lisp/*.el
+Oct 4-8, 2015
+* defun, defun1
+Preliminary versions.
+* defuna.txt
+Focus on 'defun' and 'defvar'
+Show all functions with parameter lists.
+Order by module.
+python defuna.py 1 ../grammar/lisp defuna.txt 
+* limitations of lisp parsing
+Parse lisp using an extension of sexp.py.
+The parsing is imperfect. Problem areas are
+ comments, strings, and array literals.
+ A more perfect parsing is difficult.
+ See scratch.el for first exploration of parsing Elisp with Elisp.
+* defuna_xref.txt
+extract function cross-references.  The results are ordered by 
+module (lisp .el file) and sub-ordered by number of callers.
+python defuna.py 2 ../grammar/lisp defuna_xref.txt
+* defuna_xref_module.txt
+For each module, show the functions in other modules that are called within
+the given module.  Thus, shows the module dependencies.
+python defuna.py 3 ../grammar/lisp defuna_xref_module.txt
+
+* THE END

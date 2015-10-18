@@ -1,0 +1,1573 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+Sanskrit/grammar/lisp/docgen.txt
+Begun 04-26-03
+Jim Funderburk
+
+* Purpose of this document
+  This document provides a description of a programming project I 
+  think of as 'explain Sanskrit' or just 'explain'. As is true of
+  any computer program, 'explain' could be implemented in many ways
+  in one of many programming languages.  Provided that the program
+  specification was done in appropriate detail and provided the 
+  presence of an adequate validation suite of input text files with
+  their associated target output files, the program could be implemented
+  in any available language.  The choice of language and operating
+  system environment would then be made subject to such criteria as
+  programming resource availability, user group preferences, etc.
+  This particular document does NOT purport to be such a program
+  specification, but rather a description of the program as it exists.
+  Using Sharf's term 'Sanskrit parser', this may be viewed as a description
+  of the approaches, abilities, and limitations of one particular 
+  instance of a Sanskrit parser.
+
+* A comment about EMACS Lisp
+  Since the program is written in EMACS Lisp, there will inevitably
+  be some references to programming details particular to this computer
+  language. 
+
+* Purpose and brief history of the programming project
+
+  The earliest note I have is that itrans.el was begun
+  04-24-02.  However, previously, I had written some Java
+  programs that implemented ITRANS within an HTML parser,
+  to facilitate writing some HTML-based documentation on
+  Sanskrit grammar.  As with the earlier work, the present
+  Lisp work was done as an aid to learning.  I had begun
+  to write explanations of Sanskrit translation exercises.
+  After doing this a while, I noticed a lot of regularity
+  in the nature of the explanations. Then, it dawned on
+  me that the Sanskrit grammar 'rules' might be applied 
+  in reverse to disassemble the little puzzles of Sanskrit
+  sentences. Essentially, this disassembly (or parsing)
+  is the main function of the current 'explain' project.
+
+  Currently, the grammatical structures recognized are 
+  those presented in volume I of Antoine, and in chapters
+  1-8 of volume II of Antoine. 
+
+* Future of the programming project
+
+  1. I want to 'finish' volume II of Antoine. This will include:
+    a. Recognition of the additional grammatical forms
+    b. Recognition of compound components, and possibly
+       identification of compound type
+    c. Possibly, generation/recognition of word derivations based
+       on primary and secondary suffixes.
+  2. Program efficiency needs to be addressed.  The 'explain' process
+     involves a 'double loop' in the generation of explanations for a
+     word. There is an iteration on possible grammatical forms, and,
+     for each form there is an iteration on initial segments of the
+     given word that might lead to the given form.  I believe that
+     reversing the order of iteration in this double loop might greatly
+     increase program performance.  Since the second loops are embedded
+     in various functions, this change will be non-trivial.
+  3. Attention needs to be given to the 'validation suite' notion.
+     In fact, I have been reluctant to take on the program change
+     mentioned above because of concern that previously validated program
+     correctness might be compromised.  This suggests that program
+     validation work should be done first.
+  4. Sandhi initialization might be more easily verified by using a
+     tabular input. The current algorithmic input approach could be
+     used to generate such input.  A tabular input approach would also
+     permit some flexibility in allowing pedagogically motivated limitations
+     of sandhi rules.
+  5. A more speculative change is as follows. Currently, word recognition
+     requires vocabulary.  For instance, 'ashvaiH' will be considered 
+     'unknown' if 'ashvaH' is not in the vocabulary.  However, one should
+     be able to make an 'educated guess' based on the ending 'aiH' that
+     there is a word of which 'ashvaiH' is the masculine, case 3 plural
+     form.  The unknown word might be a masculine noun 'ashvaH', or it
+     might be the masculine form of an adjective 'ashva' ending in 'a'.
+     I can see this functionality to be of considerable use in applying
+     analysis to new texts (where there will likely be a lot of new
+     vocabulary).  
+  6. Taking the previous idea a step further would be a word derivation
+    functionality, which would aim to display the link between given
+    words and one or more verbal roots.  
+
+* Sources of information on Sanskrit grammar
+  I have based rules for detection of grammatical
+  units primarily on the books by Antoine. Some reference
+  has been made to the book by Kale; I have found his
+  extensive illustrations helpful. There are a fair number
+  of 'rules' that I have noticed in Kale but not incorporated
+  in the program. I have also benefitted from study of Goldman's
+  grammar. 
+  1. R. Antoine, SJ, A Sanskrit Manual (parts I and II), Xavier Publications,
+   Calcutta
+  2. M.R. Kale, A Higher Sanskrit Grammar, Motilal Banarsidass (reprint of
+     1995)
+  3. Robert P. Goldman and Sally J. Sutherland, Devanvaaniipraveshikaa : An
+     Introduction to the Sanskrit Language, Center for South and Southeast
+     Asia Studies, University of California, Berkeley, 1987.
+
+* Note on Panini
+  It is my understanding that a systematic description of the Sanskrit
+  language by Panini forms the basis of the presentations I have used as
+  a basis for rules.  However, based on seeing several quotes in the
+  Kale book, I formed the option that the original Panini description was 
+  terse and incomprehensible to someone who, like me, did not already
+  know the subject. Thus, I have not attempted to use Panini directly.
+
+* Validation suite: introduction
+  I have heard that in large programming projects where there is a
+  high priority on program correctness, considerable attention is 
+  given to developing test situations;  then, when the program is
+  revised for one reason or another, the new program can be used in
+  the test situations to be sure it gives the same correct answers.
+
+  In the context of a useful Sanskrit lexical parser, it is essential
+  to have confidence in the program results. In the actual development
+  of my program, I used various partial approaches to maintain 
+  consistency of output when new Sanskrit information (e.g., new
+  Sandhi rules or new vocabulary or grammatical forms) entered the
+  system.  Typically, I would use grammar book example sentences 
+  to see whether the program provided similar analysis of a particular
+  grammatical construction or rule of sandhi.  Then, when a subsequent
+  grammatical rule was described, I would want to be sure the formerly
+  viewed correct answers persisted.  
+  This is a tricky question.  Here are two examples.  The first involves
+  the word 'phalaani'.  Following Antoine's progression of topics, 
+  'phalaani' was encounted as  plural, case 1, 2, or 8, of 'phalam', the
+  neuter noun ending in 'a'; this was in chapter 3. Meanwhile, the four
+  conjugational tenses and moods were being introduced for the 'a'
+  conjugational classes of roots. I had taken as my set of 'dhaatus' those
+  appearing in the appendix of volume 2 of Antoine, not just those
+  that appeared in the chapter vocabularies, and one of these was the
+  1st conjugational root 'phal', to be conjugated in the parasmaipada.
+  Of course, when imperative mood recognition was programmed, 'phalaani' 
+  was also interpreted as 1st person singular imperative of 'phal.'  In
+  this case, I chose to take both answers as correct lexical parsings 
+  of sentences containing 'phalaani'. But this illustrates how a correct
+  answer can become only partially correct when the domain of knowledge
+  expands.
+  Another example involves the long vowel 'aa'.
+  On the one hand, 'aa' occurs frequently
+  as a part of declensional and conjugational endings.  On the other hand,
+  it may occur as an 'upasarga', e.g., 'aagachChati'. And thirdly, it
+  may occur as a stand-along preposition (indeclineable) governing case 5.
+  And fourthly, it can appear due to sandhi of short and long 'a'. 
+  Thus, 'aagachChati' could conceivably be 'aa' plus 'aagachChati'. 
+  Sometimes choices are limited by word separation, i.e., 'aa gachChati'
+  implies the prepositional form of 'aa.'  In any case, I chose to
+  suppress explanations like 'aa aagachChati', but this choice was
+  arbitrary.
+
+* Validation suites and pedagogical objective
+  My discussion so far has seemed to suggest there should only be
+  one validation suite. However, it might be useful to think in
+  terms of validation suites appropriate for different purposes.
+  If a Sanskrit parser is used in a teaching environment, then
+  the explanation for a given word should probably be tailored
+  to the sophistication of the student.  For instance, 'phalaani'
+  might be just be a nominal form (its explanation as a verbal form
+  might be confusing, especially if the imperative has yet to be
+  covered in a class). As another instance, the explanation of
+  'chalanti' is going to be present tense, 3rd person plural; but
+  when present active participles are discussed, the participial
+  explanation (nominative plural masculine of present participal
+  active parasmaipada of 1st conjugation verb 'chal') probably should
+  also be mentioned.
+  In other words, possible valid explanations of a word or sentence
+  depend on the comprehensiveness of the set of inputs (vocabulary,
+  grammatical constructs, sandhi rules) accessible to the algorithms.
+  Probably the number of different levels of explanation should be kept 
+  fairly small (e.g., beginner, intermediate, advanced, expert).  Explicit
+  algorithmic level controls (determined at run time by an input
+  parameter file) could then be used systematically in the validation
+  suite construction.
+
+  I should mention that this area of pedagogical intention has been
+  considered only in a superficial way by me as of this writing.
+
+* Validation suite: what exists now
+  Here are the extant pieces that pertain to a validation
+  suite for a Sanskrit lexical parser. As alluded to, the validation
+  system as it currently exists is inadequate. Parts of
+  the following may play a role in a more perfect system.
+** The validation function
+  This function takes a filename as input.
+  The file is structured as a sequence of lines.
+  Each line has the following structure:
+  function-name : function-arguments : ans1 : ans2 ...
+  The validation function analyzes each line as follows:
+   It calls the  function with the given function-name
+   and function-arguments, and compares the answer returned by
+   the function with that supplied as ans1, etc.  If there is
+   disagreement, the program prints an informative message and
+   increments an error counter.
+   In any case, it continues proceeding to the next line.
+  When all lines have been analyzed, the program prints a message
+   indicating if any disagreements were noted.  The function returns
+   the lisp 't' (true) if there were no disagreements, and the
+   lisp 'nil' (false) if some disagreements appeared.
+  Within a 'validation' subdirectory were created several input files
+  for the 'validation' function:
+  1. gaNa1.txt 
+   Provides test cases for particular present-tense conjugational forms,
+   such as
+   laT : shuch 4 U 3 S : shuchyati : shuchyate
+   laT : iSh 6 P 3 S : ichChati
+  2. sandhi-svara.txt
+   Provides test cases for some of the sandhi rules, such as
+   sandhi-avagraha-separate-test : kaalo.asti : kaalo asti
+   sandhi-pair : api iikShate nil join : apiikShate
+  3. subanta-1cons.txt
+   Provides checks of some declensions of nouns ending in consonants.
+   1cons-chk : kakubh : (kakup kakubhaa kakubbhiH kakupsu)
+   1cons-chk : aayus ((1 1) (1 3) (3 3) (7 3)) : (aayuH aayuuMShi aayurbhiH aayuHShu)
+
+** explain-file and explain-chk
+  (explain-file "inputfile") applies the explain function to the sentences
+  in an appropriately formatted input file, and writes a printed result
+  to an output file.  The value of a global variable determines the name
+  of the output file; when this variable is false, the output file name is
+  constructed by prefixing 'ans-' to the inputfile name; when the variable
+  is true, the prefix 'chk-' is used.
+  Suppose various inputfiles have been analyzed and the associated
+  'ans-...' files have been manually examined and deemed reasonable.
+  At some later time, various program revisions having been made, one
+  now changes the global variable and applies explain-file to all the
+  inputs; thus are created comparable 'chk-' files.  Now, for each
+  inputfile we have a pair of files 'ans-file' and 'chk-file'; the
+  function (compare-table-files ans-file chk-file) does the comparison
+  much like operating system functions for comparing text files, and
+  can be used to see if correct answers (in the 'ans-' files) were
+  preserved.
+
+  I used this technique when adding sandhi and grammar rules to the
+  system in the order presented in Antoine-vol I; the input files were
+  from the Sanskrit to English translation exercises in each Antoine
+  chapter.
+
+** conjugation-tab-pr.txt
+  The functions declension-citation and conjugation-tab-pr can
+  be used to print the full declensions and present system conjugations
+  of given nouns, adjectives, roots.  Such an output has been found
+  useful in comparing algorithmic results to published declensions and
+  conjugations.
+  I have saved many of these session results (where the results have
+  been checked with a source, the particular source detail being mentioned
+  in the saved file) in two files, conjugation-tab-pr.txt and
+  subanta-tab-pr.txt.  
+  Currently, such files serve as a reference for manual (visual) comparisons,
+  as their creation and file format are not completely regular.
+  It would be better to have a comprehensive 
+  library of expert-validated declension and conjugation tables, constructed
+  to be compatible with a programmatic comparison to algorithmic tables.
+  
+
+* ITRANS encoding of Sanskrit
+ I have used the ITRANS encoding scheme for representing Sanskrit with
+ letters of the English alphabet.  In point of fact, I use internally
+ a restricted form of ITRANS, and all input files take this form.
+ See the other two sections on ITRANS for a description by its author.
+ As I have used it, ITRANS is essentially a specification, which I have
+ implemented in EMACS LISP. (I have also, in a separate project, made an
+ implementation in Java).
+ The first step in an analysis of Sanskrit text is to convert the 
+ text to a sequence of phonemic 'tokens'. The following table shows
+ the correspondence between tokens and the acceptable 'spellings' of
+ the tokens.
+ For a technical Emacs Lisp reason, the tokens for
+  .h .a and . were taken to be VIRAAM AVAGRAHA and DANDA. Also the
+ two R^ and L^ vowels were given tokens omitting the ^ (Ri RI Li LI).
+ token  ITRANS coding
+  aa :  aa A
+  ai :  ai
+  au :  au
+  a  :  a
+  ii :  ii I
+  i  :  i
+  uu :  uu U
+  u  :  u
+  Ri :  R^i RRi Ri
+  RI  : R^I RRI RI
+  Li :  L^i LLi Li
+  LI  : L^I LLI LI
+  e :  e
+  o :   o
+  H : H  (visarga)
+  kh : kh
+  k :   k
+  gh : gh
+  g :  g
+  ~N : ~N (gutteral nasal)
+  ~n : ~n (palatal nasal)
+  Ch  : chh Ch
+  ch : ch
+  jh : jh
+  j :  j
+  Th  : Th
+  T  : T
+  Dh  : Dh
+  D  : D
+  N  : N
+  th : th
+  t : t
+  dh : dh
+  d : d
+  n : n
+  ph : ph
+  p : p
+  bh : bh
+  b : b
+  m : m
+  y : y
+  r : r
+  l : l
+  v : v
+  Sh  : shh Sh (cerebral sibilant)
+  sh : sh (palatal sibilant)
+  s : s (dental sibilant)
+  h : h
+  GY : [j ~n]  two tokens
+  M : M .n (anusvara)
+  VIRAAM : .h
+  AVAGRAHA : .a
+  DANDA : .
+
+Note:
+  the character 'x' is an alternate to 'kSh', with tokens k Sh
+  the character pair "GY" is an alternate to 'j~n', with tokens j ~n
+
+* ITRANS README file 
+ I have included the author's explanation of ITRANS for 
+ your convenience.  This information is not required to
+ understand the 'explain' package.
+# README for the itrans package
+
+                    Version 5.22, of the itrans package
+     (Supports Devanagari, Gujarati, Telugu, Kannada, Bengali, Tamil,
+                    Punjabi, and Romanized Sanskrit)
+            -----------------------------------------------------
+                    http://www.aczone.com/itrans/
+            -----------------------------------------------------
+
+This is a package for printing text in Indian language scripts.
+
+This package only does the transliteration mapping, the fonts
+may be developed elsewhere.
+
+ITRANS is distributed in the following archives:
+
+    itransNN.zip  - ITRANS source code (Unix format) in a ZIP archive
+                      - also includes binary for Linux (ELF) and MS-DOS
+                  - includes docs in .itx (ITRANS) format
+    iupdateN.zip  - Updates to itransNN.zip
+    itransfn.zip  - fonts for use with ITRANS - primary ITRANS fonts
+    itransxt.zip  - ITRANS/contrib helper tools (latex2html, mkps,etc)
+                  - & extra fonts for use with ITRANS - restrictively licensed
+                    by their authors (GPLed), so distributed separately
+    itransht.zip  - docs in HTML (using Ross Moore's Latex2HTML for ITRANS)
+    itransps.zip  - docs in PostScript format, printer ready.
+
+----- Navigating the complexities of ITRANS:
+ Beginning users: Consult these files: idoc.itx and other *.itx files in the
+ doc/ directory, and if you have to deal with installation issues, also
+ check out INSTALL.unx or INSTALL.pc in the top directory.
+
+Also, check out the ITRANS home page for more info and links to other
+WWW and e-mail tools that make using ITRANS much easier:
+
+        http://www.aczone.com/itrans/
+
+Previous release ITRANS users: See the CHANGES file for list of changes.
+
+-----
+
+Directories & Files (all directories have README files with more info):
+
+src/            ITRANS source code, and makefiles. Run "make" to build ITRANS.
+                Also includes binary for Linux (ELF) and MS-DOS.
+
+INSTALL.unx     Installation instructions for ITRANS on Unix systems.
+INSTALL.pc      Installation instructions for ITRANS on DOS/Win systems.
+
+TRANS.TXT       Quick review of the ITRANS encoding table.
+
+CHANGES         list of changes between consecutive released ITRANS versions.
+
+lib/fonts       All fonts used by ITRANS.
+
+lib/fonts/README    List all font files in lib/fonts and their uses.
+
+itrans.lst, itransps.lst, itransht.lst,
+itransfn.lst, itransxt.lst     List of files in the respective ITRANS archive
+
+lib/            Input files that define char composition - the *.ifm files.
+                Also contains examples of environment variables needed,
+                dvipsrc scripts, etc.
+
+doc/            ITRANS documentation.
+
+doc/idoc.itx    The main ITRANS manual (also available as idoc.ps).
+
+doc/s1html.itx  Sample input to produce HTML output using ITRANS.
+doc/sample.itx  Sample input to produce TeX output using ITRANS.
+doc/s1.ips      Sample input to produce PostScript output using ITRANS.
+
+contrib/        Additional files and tools that may be useful.
+
+----
+Avinash Chopde
+e-mail: avinash@acm.org
+home page: http://www.aczone.com/
+
+---------------------------------------------------------------------
+# $Header: /home/cvsroot/itrans/nextrel/README,v 1.9 2000/02/06 16:26:51 avinash Exp $
+---------------------------------------------------------------------
+
+* ITRANS supplied encoding description
+The following appears within the ITRANS documentation, and
+essentially provides a specification of ITRANS encoding.
+
+a       aa / A        i          ii / I        u       uu / U 
+RRi / R^i    RRI / R^I     LLi / L^i    LLI / L^I
+e      ai        o      au         aM      aH
+
+Consonants:
+----------- 
+k     kh     g     gh     ~N
+ch    Ch     j     jh     ~n
+T     Th     D     Dh     N
+t     th     d     dh     n
+p     ph     b     bh     m
+y     r      l     v
+sh    Sh     s     h      L
+x / kSh     GY / j~n / dny     shr
+R (marathi RA)
+L / ld (marathi LLA)
+Y (bengali)
+
+Consonants with a nukta (dot) under them (mainly for Urdu devanagari):
+-----------------------------------------
+k  with a dot:      q
+kh with a dot:      K
+g  with a dot:      G
+j  with a dot:      z / J
+p  with a dot:      f
+D  with a dot:      .D
+Dh with a dot:      .Dh
+
+Specials/Accents:
+-----------------
+Anusvara:       .n / M / .m  (dot on top of previous consonant/vowel)
+Avagraha:       .a    (`S' like symbol basically to replace a after o)
+Ardhachandra:   .c    (for vowel sound as in english words `cat' or `talk')
+Chandra-Bindu:  .N    (chandra-bindu on top of previous letter)
+Halant:		.h    (to get half-form of the consonant - no vowel - virama)
+Visarga:        H     (visarga - looks like a colon character)
+Om:		OM, AUM (Om symbol)
+
+-----------------
+ Consonants have been shown without any vowel, add suffix "a" to produce
+ a normal consonant, example, "jaya" or "jay" for (JA)-(YA), etc.
+ Watch out for ambiguous input: use _ to break lexical scans, example:
+ use "ga_ii" instead of "gaii" when you need (GA)-(VOWEL ii), because "gaii"
+ will be parsed as (GA with dependent VOWEL ai)-(VOWEL i)!
+ But in most cases the _ is not needed...
+-------------------------------------------------------------------------
+Each devanagari letter is constructed as C + C + C + .. + V
+(one or more consonants, followed by a vowel).
+If the vowel is omitted at the end of a word, the "a" vowel will be
+assumed (use halant - .h to get the short form of the consonant - which
+is a consonant without any vowel, ex: k.h).
+-------------------------------------------------------------------------
+Punctuation available:
+,    ;    :    /    ?    !    (    )
+Note that hyphen (-) is not available --- use \- in the indian text to get
+a hyphen. Also, use \. to get period (.), for Danda, use |.
+
+
+* Program components (code files)
+  The following lists the EMACS Lisp source files for the explain project.
+
+  start.el : top level initialization functions
+  itrans.el : routines to parse Sanskrit text encoded via ITRANS
+  gram1.el : alphabet-category predicates, 'Sangram database' functions
+  sandhi.el : sandhi rule initialization, word joining and separation
+  gram2.el : initialization of verbal forms, conjugation of verbs
+  gram3.el : initialization of nominal forms and indeclineables, declension
+  irreg.el : initialization of some irregular verbal and nominal forms
+  validation.el : validation suite functions
+  explain.el : the main grammatical parser, which is the 'explain' function.
+
+* Program initialization components (data files)
+  The following text files are read during 'Sanskrit initialization',
+  and provide the vocabulary and certain word recognition information
+  (a~Nga , praatipadika). Some of the file divisions are arbitrary; e.g.,
+  a future version  may coalesce the various verb files.  Also, some
+  parts of the system currently algorithmic (e.g., most sandhi
+  transformations) may be changed to text input files in future versions.
+
+  gaNa1.txt  : a-conjugation roots
+  dhaatupfx.txt : some prefixed a-conjugation roots
+  gaNa1a.txt : non-a-conjugation roots
+  passive.txt : irregular bases for passive voice
+  kta.txt : perfect participle passive
+  ttvaa.txt : indeclinable past participle (gerund)
+  tumun.txt : infinitive
+   Note: no attempt has been made thus far to generate the kta, ttvaa,
+   or tumun algorithmically.
+  
+  subanta-vowel.txt : nouns and adjectives ending in vowels
+  subanta-cons.txt : nouns and adjectives ending in consonants
+  pronoun.txt : pronouns
+  numeral.txt : cardinals and ordinals
+  adjective.txt : mostly adjectives ending in 'a'
+
+  avyayapada.txt : indeclinables
+
+* Program Initialization
+  The function 'init-sanskrit' brings all system components into
+  a known state. Here is a slightly commented listing of the function:
+   (parse_INIT)    ; initialize ITRANS subsystem
+   (init-Sangram)  ; initialize Sangram data for all symbols
+   (init-sets)     ; initialize alphabetic subsets - 1
+   (init-properties) ; initialize alphabetic subsets - 2 
+   (init-vowelstrength) ; guna-vrddhi initialization
+   (init-semivowels) ; initialize vowel-semivowel associations 
+
+   (Sandhi-init)  ; prepare data structures allowing sandhi recognition
+   (Subanta-initAll) ; nullify all endings
+   (init-sup) ; initialize nominal endings
+   (init-vsup); initialize verbal endings  for laT, la~N , loTh , vidhili~N
+   (load-library "C:/sanskrit/grammar/lisp/irreg")  ; initialize  irregulars
+ 
+   (init-dhaatu-a~Nga) ; read verbal data files, construct a~Ngas
+   (init-saarvadhaatuka) ; construct references for kta, tumun, etc
+   (init-passive) ; construct references for passive forms
+
+   (init-gender-form-data) ; types of nominal endings
+   (init-subanta) ; initialize 'subanta property of all symbols
+   (init-subanta-praatipadika) ; process data files for nouns, adjectives, etc
+   (init-praatipadika) ; construct references to the subantas
+
+   (init-avyayapada) ; initialize 'avyayapada property of all symbols
+   (init-avyayapada-data) ; process 'avyayapada.txt' data
+ 
+   (init-explain-forms) ; initialize 'explain' subsystem
+
+* 'explain' : algorithm outline
+   (explain "text-string")
+  "text-string" = "w1 w2 w3 ... wn"
+  Use 'sandhi-separate3-str' to find possible readings of each word 'w-i'
+   ((w1 (w1-1 ...))  (w2 (w2-1 ...) ... )
+  For each word 'w-i'
+   For each reading w = w-i-j of w-i
+    Use 'explain-exactly-1' to construct possible explanations of 'w':
+     Use 'explain1' to explain 'w' as one word:
+      Use 'explain-str' to explain 'w' without 'prefixes'; also,
+      Use 'explain-str-upasargas' to explain 'w' as a prefixed verb
+     If 'explain1' fails, use 'explain-pair' to explain 'w' as many words:
+      Use 'sandhi-separate' to separate 'w' into pairs ((u1 v1) (u2 v2) ... )
+      For each pair '(u v)',
+       Use 'explain1' to explain 'u' as one word (otherwise fail);
+       Use 'explain1' to explain 'v' as one word; if this fails,
+       Use 'explain-pair' to explain 'v' as more than one word;
+       if this succeeds, the explanations of 'u' and 'v' constitute
+       explanations of 'w'
+
+* 'explain' : algorithm 
+  (explain <Itrans-encoded-Sanskrit-text>) constructs a data structure
+  representing possible grammatical forms of possible 'readings' of the text;
+  When a print flag is on, this data structure is printed in a 
+  comprehensible way. The printing algorithm is somewhat complicated itself,
+  but the following explanation does not include it.
+  Rather, an attempt is made to summarize, the way the explanations are
+  attained.
+  1. sandhi word recognition (phase 1)
+   The sentence as given is a sequence of parts defined by the presence
+   of spaces. The parts as given may have been subjected to those rules of
+   sandhi which change two words without joining them. This gives several
+   possible reading of each part. 
+   For instance, in "ga~Ngaayaa jalam", 'ga~Ngaayaa' may have two readings
+   based on rules of sandhi: 'ga~Ngaayaa' or 'ga~NgaayaaH' 
+   The function 'sandhi-separate3-str'  detects these parts: e.g.,
+     (sandhi-separate3-str "ga~Ngaayaa jalam") returns the result
+     ([ga~Ngaayaa jalam] [(ga~Ngaayaa ga~NgaayaaH) (jalam)])
+   If the initial sentence is thought of as a sequence of n words
+   (w1 w2 ... wn), we have at this stage for each w-i a sequence
+   (w-i-1 w-i-2 ... w-i-ni) of 1 or more possible readings
+  2. word explanation
+   The function 'explain-exactly-1' is applied to each reading 'w-i-j' to
+   generate an explanation. This explanation, if found, becomes one of the
+   possible explanations of the word 'w-i'. 
+   The operation of 'explain-exactly-1' on a word 'w-i-j' is quite simple:
+   a. Try to explain it as a single word, using the function 'explain1'.
+      If this succeeds, consider this to be the answer.
+   b. Try to explain it as a pair of words, using the function 'explain-pair'.
+      If this succeeds, consider this to be the explanation.
+   c. Otherwise, give up and say there is no explanation of 'w-i-j'.
+   Note: It is conceivable that a word could have an explanation from
+      'explain1', and also, if it were tried, from 'explain-pair'. However,
+      the logic as constituted does not try 'explain-pair' if 'explain1'
+      succeeds.
+
+* 'explain1' algorithm
+  'explain1' obtains explanations for a given word by
+  applying first 'explain-str' to the word, and then
+  applying 'explain-str-upasargas' to the word.
+
+* 'explain-pair' algorithm
+  'explain-pair' looks for explanations of a given word 'w' 
+  by separating the word into pairs that when joined would give 'w',
+  and then looking for explanations of each word of the pair.
+  1. sandhi word recognition (phase 2)
+     At every possible point, separate 'z' into two parts (u v) based
+     on sandhi rules using function 'sandhi-separate'. The result is a list 
+     ((u1 v1) (u2 v2) ... ) of pairs which could yield 'z' based on
+     sandhi rules. This list can be surprisingly long, because many
+     resulting pairs are non-sensical. For example,
+     (sandhi-separate 'raamastiiram) -> 
+     ([Ri aamastiiram] [RI aamastiiram] [ra amastiiram] [ra aamastiiram]
+      [raa amastiiram] [raa aamastiiram] [raa mastiiram] [raam astiiram]
+      [raamaH tiiram] [raamar tiiram] [raamasti iram] [raamasti iiram]
+      [raamastii iram] [raamastii iiram] [raamastiiH am] [raamastiir am]
+      [raamastiiRi am] [raamastiiRI am])
+  2. For each '(u v)' in the list of separations of 'w', both words 'u'
+     and 'v' must be explained in order for 'w' to be explained.
+     This is done as indicated in step 3 below,
+     and the explanation(s) are added to the explanations of 'w'.
+     If a given '(u v)' has an explanation, then other '(u1 v1)' and other
+     separations of 'w' may be examined for other explanations of 'w' or
+     may not be examined.
+     A flag 'explain-verbosity' controls whether all separations of 'w' are
+     examined.  The usual method of usage is that all separations are
+     examined.
+  3. An explanation for one separation '(u v)' is found as follows
+     a. Use 'explain1' to find an explanation of 'u'. If no explanation
+        is found, then the stop the algorithm indicating no explanation
+	for the separation was found.
+     b. Find an explanation of 'v' as indicated in 'b1' and 'b2' below;
+        If no explanation is found, then the stop the algorithm indicating
+	no explanation for the separation was found.
+	If  explanations are found, then create explanations for '(u v)' 
+        appending each of the explanations for 'v' to the explanation of
+	'u' found in step 'a'.
+     b1. Use 'explain1' to find an explanation of 'v'. If an
+        explanation is found, then consider this to be the explanation of 'v'.
+     b2. Otherwise, use 'explain-pair' to find one or more explanations of
+        'v', if any are to be found.
+	 Note: this is a recursive call to 'explain-pair'
+
+* 'explain-str' algorithm
+  This returns possible explanations of a word 'w' as an inflected
+  grammatical word of the extant vocabulary, or as an indeclinable word
+  of the vocabulary. It does this by trying every known form of explanation,
+  as kept in the global variable 'explain-forms'; as of this writing, these
+  forms are 
+    (VERB laT) (VERB la~N) (VERB loT) (VERB vidhili~N)
+    (VERB laT PASSIVE) (VERB la~N PASSIVE) (VERB loT PASSIVE)
+    (VERB vidhili~N PASSIVE)
+    (PART laT) (PART laT PASSIVE) (PART PERF PASSIVE) (PART PERF ACTIVE)
+    (PART IPP) (PART INF)
+    (ADJ) (ADJ COMPAR) (ADJ SUPERL)
+    (NOUN) (INDECL) (PRON)
+  Each form consists of a 'form-type' and one or more 'form-parameters'.
+  Notice there are only a few possible explanation form-types:
+    VERB PART ADJ NOUN INDECL PRON
+  The form-type is used to construct a function name which is called with
+  the given word 'w' and the associated form-parameters; e.g.,
+     for '(PART PERF PASSIVE)', the following function call is made:
+    (explain-str-PART w PERF PASSIVE)
+  The return from this function call, if successful, is considered an
+  explanation of the given word 'w'.
+  In summary, 'explain-str' hands off work to one of the functions
+   'explain-str-VERB'
+   'explain-str-PART'
+   'explain-str-ADJ'
+   'explain-str-NOUN'
+   'explain-str-INDECL'
+   'explain-str-PRON'
+
+* 'explain-str-upasarga' algorithm
+ This explains an input word 'w' as a combination of 
+ (a) one or more upasargas (verbal prefixes) with
+ (b) a verbal form of a root.
+ With more specificity, the algorithm proceeds as follows.
+ 1. It applies 'upasarga-forms' to 'w' to generate a list of possible
+    ways 'w' might be formed as a sequence of one or more upasargas with
+    a putative verbal form. A typical element in this list has the
+    structure '((upasarga-prefixes) verb-form-suffix)'
+ 2. For each of the resulting elements, use 'explain-str-upasarga-helper' to
+    generate possible explanations, and add these to the explanations of 'w'.
+ 3. 'explain-str-upasarga-helper' constructs explanations for
+    '((pfx-list) sfx)'. 
+    The variable 'explain-upasarga-forms' contains those
+    elements of 'explain-forms' that pertain to verbs; currently, membership
+    is for those forms whose form-type is either 'VERB' or 'PART'.
+    For each such verbal form, the corresponding function
+    (explain-str-VERB or explain-str-PART) is applied to explain 'sfx' as
+    a verbal form.  This is the same function used in 'explain-str'.
+    These functions are written to have an optional argument to 
+    hold 'pfx-list'. Essentially, the functions use
+    the list of prefixes to check that the system vocabulary recognizes 
+    the list for any root otherwise matching 'sfx'. For instance, if 
+    'gam' is in the vocabulary, but 'aa gam' is not, then 'aagachChati' will
+    not be explainable as a prefixed verb.
+
+* 'upasarga-forms' algorithm
+  This function finds expressions of the form '(u1 ... un v)' which when
+  joined by the rules of sandhi would yield the function input 'w'.
+  There must be one or more of the upasargas 'u1 ... un', and 'v' must
+  be present.  That a candidate prefix 'u' is considered a upasarga is
+  checked by the function 'upasarga-P', which essentially looks at the
+  vocabulary entry for 'u' to make a determination.
+  Here is a sample function call and its result:
+   (upasarga-forms "upaavishat") 
+   (((upa) avishat (((near))))
+    ((upa) aavishat (((near))))
+    ((upa aa) vishat (((near)) ((unto) (back))))
+    ((upa aa vi) shat (((near)) ((unto) (back)) ((apart) (without))))
+    ((upa aa) avishat (((near)) ((unto) (back))))
+    ((upa aa) aavishat (((near)) ((unto) (back)))))
+  The upasarga definitions are currently not used. However, a previous
+  program version, still of some interest to me, did use them to generate
+  explanations of prefixed verbal forms for which the dhaatu is known, but
+  not the particular prefixed form of the dhaatu. This would permit first
+  approximation explanations of this category of words not in the vocabulary.
+
+
+* 'explain-str-VERB' algorithm
+  This function tries to explain an input string 's' as
+  a particular present system form of some root. It has several
+  additional parameters:
+  tense-sym : one of laT la~N loT vidhili~N
+  voice-sym : one of ACTIVE or PASSIVE
+  upa-syms : (optional) if present, a list of upasargas which
+   must be used in the match
+
+  Most of the work is done by a routine 'explain-str-verb1a' which
+  takes an additional argument, s1, which is a list of strings.
+  If the tense-sym is not 'la~N', s1 just contains 's'
+  If the tense-sym is 'la~N', a special step is performed to
+    recognize 's' as a joining of the prefix 'a' to something; the
+    list of these somethings is s1.
+  
+  Now for each element s0 of s1, we try to find a match to 's' from the
+  vocabulary database for each initial part 'a~Nga' of s0 as follows:
+  1. If 'voice-sym' is ACTIVE, we  see if there is a an entry for 
+    'a~Nga' in the database under the subtopic '(saarvadhaatuka other-info)'
+    Here is a sample:
+    Suppose s0 = s  = 'gachChati'. We will try to get 
+    information for 'a~Nga' = 'g', 'ga', 'gach', but finally will try
+    sucessfully for 'gachCh':
+    (sanget2 'gachCh '(saarvadhaatuka other-info))
+    ((gam 1 P nil ((go)) nil)
+     (gam 1 P (adhi) ((obtain)) nil)
+     (gam 1 P (ava) ((know)) nil)
+     (gam 1 P (prati) ((return)) nil)
+     (gam 1 P (upa) ((approach)) nil)
+     (gam 1 P (aa) ((come)) nil)
+     (gam 1 P (sam aa) ((assemble)) nil))
+  2. If 'voice-sym' is PASSIVE, we see if there is an entry for 
+    'a~Nga' in the database under the subtopic '(karmaNi other-info)'
+    Here is a sample:
+    (sanget2 'gamy '(karmaNi other-info))
+    ((gam nil PASSIVE nil ((go)) nil)
+     (gam nil PASSIVE (adhi) ((obtain)) nil)
+     (gam nil PASSIVE (ava) ((know)) nil)
+     (gam nil PASSIVE (prati) ((return)) nil)
+     (gam nil PASSIVE (upa) ((approach)) nil)
+     (gam nil PASSIVE (aa) ((come)) nil)
+     (gam nil PASSIVE (sam aa) ((assemble)) nil))
+
+  If available, the requested information is a list, like the samples.
+  We now try to explain 's' using each element 'ai' of this list as follows:
+   The upasarga-list of 'ai' must match upa-syms.
+   If the voice is PASSIVE, we try to conjugate the dhaatu of 'ai' 
+    as a 4th class atmanepada root using the function 'conjugation-tab' for
+    the given 'tense-sym'. The result of 'conjugation-tab' is a list of
+    9 entries; we try to match each with 's', and if successful the
+    conditions are noted as an explanation of 's'
+   If the voice is ACTIVE, we try to conjugate the dhaatu of 'ai'
+    according to the conjugation class and pada present in 'ai', using
+    using the function 'conjugation-tab' for the given 'tense-sym'.
+    The result of 'conjugation-tab' is a list of
+    9 entries; we try to match each with 's', and if successful the
+    conditions are noted as an explanation of 's'
+
+* 'explain-str-PART' algorithm
+  This function tries to explain an input string 's' as
+  a particular participle. It has several
+  additional parameters (same as for 'explain-str-VERB'):
+  tense-sym : one of laT la~N loT vidhili~N
+  voice-sym : one of ACTIVE or PASSIVE
+  upa-syms : (optional) if present, a list of upasargas which
+   must be used in the match
+
+  We try to find a match to 's' from the
+  vocabulary database for each initial part 'a~Nga' of s as follows.
+  Based on the values of 'tense-sym' and 'voice-sym', relevant parameters
+  (including 's' and 'a~Nga' and upa-syms) are passed to a function
+  that handles details particular to the participle. The functions are
+   explain-PART-PRES-ACT
+   explain-PART-PRES-PASSIVE
+   explain-PART-PERF  (perfect active and passive)
+   explain-PART-IPP   (indeclineable perfect participle, or gerund)
+   explain-PART-INF   (infinitive)
+    Note: Of course, the infinitive is not a participle; but the process
+    of recognizing an infinitive is similar to that of recognizing
+    the indeclineable perfect participle, so it was programmatically
+    convenient to put the infinitive recognition here.
+
+* 'explain-PART-PRES-ACT'
+  arguments are
+  s = string to explain
+  a~Nga = database key
+  upa-syms = upasargas present in 's' (if any)
+  
+  We check the database for information of type '(saarvadhaatuka other-info)'
+  for the key 'a~Nga'.   For instance,
+    (sanget2 'gachCh '(saarvadhaatuka other-info))
+    ((gam 1 P nil ((go)) nil)
+     (gam 1 P (adhi) ((obtain)) nil)
+     (gam 1 P (ava) ((know)) nil)
+     (gam 1 P (prati) ((return)) nil)
+     (gam 1 P (upa) ((approach)) nil)
+     (gam 1 P (aa) ((come)) nil)
+     (gam 1 P (sam aa) ((assemble)) nil))
+  We then match 'upa-syms' with the upasarga lists of the various 
+  returned items; if a match is found, we proceed; otherwise no
+  explanation is available. 
+
+  We use the function 'conjugation-tab' to get the present tense active
+  conjugation table, from which we extract the 3rd person plural element.
+  From this, the function 'pres-part-praatipadikas' constructs the 
+  elements needed to decline the present participle active.
+  For instance,
+   (pres-part-praatipadikas 'gachChanti 1 'P 'gam) =>
+    (gachChat gachChant S)  weak-stem strong-stem fem-type-symbol = S, W, or SW
+   (pres-part-praatipadikas 'labhante 1 'A 'labh) =>
+    (labhamaan)
+
+  It remains to determine if 's' is a declensional form in one (or more)
+  of the three genders. 
+  So for each gender (M, F, N): 
+   We get a declension table from the function 'declension-pres-part' which
+   declines appropriately, depending on on the pada.
+   We compare 's' with each of the 24 items of the declension table; any
+   matches produce an explanation of 's'.
+  
+
+* 'explain-PART-PRES-PASSIVE'
+  arguments are
+  s = string to explain
+  a~Nga = database key
+  upa-syms = upasargas present in 's' (if any)
+  
+  We check the database for information of type '(karmaNi other-info)' for
+  the key 'a~Nga'.
+  For instance,
+  (sanget2 'gamy '(karmaNi other-info))
+  ((gam nil PASSIVE nil ((go)) nil)
+   (gam nil PASSIVE (adhi) ((obtain)) nil)
+   (gam nil PASSIVE (ava) ((know)) nil)
+   (gam nil PASSIVE (prati) ((return)) nil)
+   (gam nil PASSIVE (upa) ((approach)) nil)
+   (gam nil PASSIVE (aa) ((come)) nil)
+   (gam nil PASSIVE (sam aa) ((assemble)) nil))
+  We then match 'upa-syms' with the upasarga lists of the various 
+  returned items; if a match is found, we proceed; otherwise no
+  explanation is available.
+
+  Suppose we have a match; say a~Nga = 'gamy' and upa-syms is nil, so
+  the matched item is (gam nil PASSIVE nil ((go)) nil).
+  Next, we use function 'conjugation-tab' to get the form for the
+  3rd person plural atmanepada of the present tense passive (i.e.,
+  use 'a~Nga' and treat like a 4th conjugation verb). For the example,
+  this is 'gamyante'.
+  Now, the function 'pres-part-praatipadikas' gets the base for the
+  present participle (for a 4th conjugation atmanepada verb); for example,
+  (pres-part-praatipadikas 'gamyante 4 'A 'gam) yields (gamyamaan).
+  It remains to determine if 's' is a declensional form in one (or more)
+  of the three genders. 
+  So for each gender (M, F, N): 
+   We get a declension table from the function 'declension-pres-part' which
+   declines 'gamyamaan' like an adjective in 'a'.
+   We compare 's' with each of the 24 items of the declension table; any
+   matches produce an explanation of 's'.
+
+* 'explain-PART-PERF'
+  arguments are
+  s = string to explain
+  a~Nga = database key
+  voice-sym = ACTIVE or PASSIVE
+  upa-syms = upasargas present in 's' (if any)
+  
+  We check the database for information of type '(kta other-info)' for
+  the key 'a~Nga'.
+  For instance,
+  (sanget2 'gat '(kta other-info))
+   ((gam 1 P nil ((go)) nil)
+    (gam 1 P (adhi) ((obtain)) nil)
+    (gam 1 P (ava) ((know)) nil)
+    (gam 1 P (prati) ((return)) nil)
+    (gam 1 P (upa) ((approach)) nil)
+    (gam 1 P (aa) ((come)) nil)
+    (gam 1 P (sam aa) ((assemble)) nil))
+
+  We then match 'upa-syms' with the upasarga lists of the various 
+  returned items; if a match is found, we proceed; otherwise no
+  explanation is available.
+
+  Suppose we have a match; say a~Nga = 'gat' and upa-syms is nil, so
+  the matched item is (gam 1 P nil ((go)) nil).
+  It remains to determine if 's' is a declensional form in one (or more)
+  of the three genders. 
+  So for each gender (M, F, N)
+   If voice-sym is PASSIVE we get a declension table from the function
+    'declension-perf-part-passive' for 'a~Nga' and the gender;
+    e.g., decline 'gat' like an adjective in 'a'.
+   If voice-sym is ACTIVE, we get a declension table from the function
+    'declension-perf-part-active' for 'a~Nga' and the gender;
+    e.g., decline 'gatavat' like an adjective in 'mat' (or 'vat') using
+    function 'declension-general-mat'.
+   We compare 's' with each of the 24 items of the declension table; any
+   matches produce an explanation of 's'.
+
+* 'explain-PART-IPP'
+  arguments are
+  s = string to explain
+  a~Nga = database key
+  upa-syms = upasargas present in 's' (if any)
+  
+  We check the database for the key 'a~Nga' for information of type
+  (a) '(lyap other-info)' if 'upa-syms' is present
+   For instance
+   (sanget2 'gamya '(lyap other-info))
+   ((gam 1 nil (adhi) ((obtain)) nil)
+    (gam 1 nil (ava) ((know)) nil)
+    (gam 1 nil (prati) ((return)) nil)
+    (gam 1 nil (upa) ((approach)) nil)
+    (gam 1 nil (aa) ((come)) nil)
+    (gam 1 nil (sam aa) ((assemble)) nil))
+   If one of the database items has the same upasarga list as 'upa-syms',
+   then an explanation of 's' has been found.
+  (b) '(ttvaa other-info)' if 'upa-syms' is absent.
+   For instance,
+   (sanget2 'gatvaa '(ttvaa other-info))
+   ((gam 1 nil nil ((go)) nil))
+   If this available, and matches 's', 
+   then an explanation of 's' has been found.
+
+* 'explain-PART-INF'
+  arguments are
+  s = string to explain
+  a~Nga = database key
+  upa-syms = upasargas present in 's' (if any)
+  
+  Since the infinitive is indeclineable, the logic is simple.
+  We see if 's' is an infinitive for a root with 1 or more upasargas by 
+  checking the database for information of type '(tumun other-info)' for
+  the key 'a~Nga'.
+  For instance,
+  (sanget2 'gantum '(tumun other-info))
+   ((gam 1 nil nil ((go)) nil)
+    (gam 1 nil (adhi) ((obtain)) nil)
+    (gam 1 nil (ava) ((know)) nil)
+    (gam 1 nil (prati) ((return)) nil)
+    (gam 1 nil (upa) ((approach)) nil)
+    (gam 1 nil (aa) ((come)) nil)
+    (gam 1 nil (sam aa) ((assemble)) nil))
+
+  We then match 'upa-syms' with the upasarga lists of the various 
+  returned items; if a match is found, we have an explanation of 's'
+  as an infinitive.
+
+* 'explain-str-NOUN'
+  This function tries to explain an input string 's' as a declensional
+  form of some noun.
+  We try to find a match to 's' from the
+  vocabulary database for each initial part 'praatipadika' of s as follows.
+  The function 'praatipadika-subantas' returns a list of vocabulary nouns
+  which have a declined form starting with 'praatipadika'.
+  For instance,
+  (praatipadika-subantas 'ashv) =>
+  (ashvaH ashvaa)  
+  For each cited vocabulary noun,
+   a list of declension-tables is returned. For instance,
+  (declension-citation 'ashvaH) =>
+   ((M a
+     [ashvaH ashvau ashvaaH
+      ashvam ashvau ashvaan
+      ashvena ashvaabhyaam ashvaiH
+      ashvaaya ashvaabhyaam ashvebhyaH
+      ashvaat ashvaabhyaam ashvebhyaH
+      ashvasya ashvayoH ashvaanaam
+      ashve ashvayoH ashveShu
+      ashva ashvau ashvaaH]))
+   Note that in a few instances, e.g., 'brahman' which is the citation form
+   for both a masculine and neuter declension, there may be more than one
+   declension table returned.
+  For each declension table, we compare the elements with 's'; any match
+  provides an explanation of 's' as a noun.
+
+* 'explain-str-PRON'
+  This function tries to explain an input string 's' as a declensional
+  form of some pronoun.
+  We try to find a match to 's' from the
+  vocabulary database for each initial part 'a~Nga' of s as follows.
+
+  We check the database for information of type '(PRON other-info)'
+  for the key 'a~Nga'.   For instance,
+  (sanget2 'aham '(PRON other-info))
+   ((aham PRON IRR))
+  (sanget2 'te '(PRON other-info))
+   ((tvam PRON IRR))
+  (sanget2 'any '(PRON other-info))
+   ((anya PRON a))
+
+  For each reference form,
+   For each gender (M, F, N):
+   We get a declension table from the function 'declension-pron'.
+   We compare 's' with each of the items of the declension table; any
+   matches produce an explanation of 's'.
+
+* 'explain-str-ADJ'
+  This function tries to explain an input string 's' as a declensional
+  form of some adjective, possibly in its comparative or superlative degree.
+  It has the additional optional parameter
+  degree : COMPAR or SUPERL.
+
+  We try to find a match to 's' from the
+  vocabulary database for each initial part 'a~Nga' of s as follows.
+  1. If there is no degree, function 'explain-ADJ' proceeds:
+   We check the database for information of type '(ADJ other-info)'
+   for the key 'a~Nga'.   For instance,
+    (sanget2 'piit '(ADJ other-info)) =>  
+      ((piita ADJ a))  
+    (sanget2 'dhiim '(ADJ other-info))
+      ((dhiimat ADJ mat))
+   For each gender (M, F, N):
+    We get a declension table from the function 'declension-adj', using
+    'a~Nga' and the adjective-type (e.g., 'a' or 'mat')
+    We compare 's' with each of the items of the declension table; any
+    matches produce an explanation of 's'.
+
+  2. If degree is COMPAR or SUPERL, function 'explain-ADJ-degree' proceeds:
+   We check the database for information of type '(ADJ other-info)'
+   for the key 'a~Nga'.   For instance,
+    (sanget2 'piit '(ADJ other-info)) =>  
+      ((piita ADJ a))
+   Next, we get the base ('a~Nga-c') for the comparative or superlative:
+    The citation-form ('piita') and the adjective-form ('a') along with
+    a masculine gender are passed to function 'declension-adj' to get the
+    declension table; from this we get the instrumental case plural which
+    ends either in 'aiH' or 'bhiH'; this ending is replaced with 
+    'tar' for COMPAR degree, or 'tam' for SUPERL degree.
+   For each gender (M, F, N):
+   We get a declension table from the function 'declension-adj', using
+    'a~Nga-c' and the 'a' type of adjective.
+   We compare 's' with each of the items of the declension table; any
+   matches produce an explanation of 's'.
+
+* 'explain-str-INDECL'
+  This function tries to explain an input string 's' as an indeclineable
+  word.
+  We check the database for information of type '(avyayapada other-info)'
+   for the key 's'.   For instance,
+   (sanget2 'upa '(avyayapada other-info))
+    (((prep 2) ((near below))) ((upasarga) ((near))))
+   From the returned info, the 'upasarga' ones are removed.
+   In the example, after removal there is left
+   (((prep 2) ((near below))))
+   Each of the remaining is an explanation of 's'.
+  When there is no database info, we introduce logic to recognize the
+   special cases cited as 'punar' and 'praatar'. These may appear in 's'
+   as 'punaH' or 'praataH'.
+
+* input data formats for nominal forms
+  The function 'init-subanta-praatipadika-a' reads input data
+  files formatted for nominal forms:
+    nouns (ending in vowels or consonants)
+    adjectives
+    pronouns
+    numerals
+  Currently, the files containing nominal form data are:
+   subanta-vowel.txt, subanta-cons.txt, pronoun.txt,
+   numeral.txt, adjective.txt
+  However, this division is arbitrary since 'init-subanta-praatipadika-a'
+  reads from each in the same way.
+
+  Each record of a data file is converted into a vocabulary entry in
+  the Sanskrit database portion of the system. 
+  Here are some sample records, which will help make the subsequent
+  description comprehensible:
+    ashvaH : M a : REGULAR : horse ; Antoine  [semicolon starts 'comment']
+    annam : N a : REGULAR : food ; Antoine
+    agniH : M i : REGULAR : fire ; Antoine
+    induH : M u : REGULAR : moon
+    ga~Ngaa : F aa : REGULAR : Ganges
+    nagarii : F ii : REGULAR : town
+    matiH : F i : REGULAR : mind
+    dhenuH : F u : REGULAR : cow
+    netRi : M Ri-A : REGULAR : leader
+    pitRi : M Ri-R : REGULAR : father
+    maatRi : F Ri-R : REGULAR : mother
+    svasRi : F Ri-A : REGULAR : sister ; see irreg.el
+    vadhuuH : F uu : REGULAR : bride ; Antoine
+    vaari : N i : REGULAR : water
+    madhu : N u : REGULAR : honey
+    dhaatRi : N Ri : REGULAR : dispenser
+
+    jalamuch : M 1cons : REGULAR jalamuk : cloud
+    Rich : F 1cons : REGULAR Rik : hymn
+    marut : M 1cons : REGULAR : wind
+    suhRid : M 1cons : REGULAR suhRit : friend
+    tapas : N 1cons : REGULAR tapaH : penance
+
+    aayuShmat : ADJ mat : REGULAR : long-lived
+    hanumat : M mat : REGULAR : Hanuman
+    balavat : ADJ vat : REGULAR : strong
+    bhagavat : M vat : REGULAR : God
+
+    guNin : ADJ in : REGULAR : virtuous
+    mantrin : M in : REGULAR : minister
+    chakRivas : ADJ vas : REGULAR : having-done
+    raajan : M an : REGULAR : king
+    vartman : N an : REGULAR : path
+    pratyach : ADJ ach : REGULAR : western , averted
+    paraach : ADJ aach : REGULAR : turned-away
+    
+    dantaH : M IRR : REGULAR : tooth  ; see irreg.el
+    gopaaH : M aa : REGULAR : cowherd
+
+    andha : ADJ a : REGULAR : blind
+    kishora : ADJ aI : REGULAR : young ; the feminine ends in 'ii'
+    sugandhi : ADJ i : REGULAR : sweet-smelling
+    bahu : ADJ u : REGULAR : much , many
+    daatRi : ADJ Ri : REGULAR : generous
+    dRiDha : ADJ a : REGULAR : firm
+    draDhiiyas : ADJ iiyas : REGULAR : firmer
+    draDhiShTha : ADJ a : REGULAR : firmest
+
+    aham : PRON IRR : REGULAR : I   ; see irreg.el
+    yat : PRON b : REGULAR : who-rel
+    katara : PRON a : REGULAR : which-of-two
+    sarva : PRON adj : REGULAR : all
+
+    tri : PRON IRR : REGULAR : three ; see irreg.el
+    pa~nchan : PRON CARD : REGULAR : five
+    prathama : PRON ORDa : REGULAR : first
+    turiiya : PRON ORDb : REGULAR : fourth
+    ShaShTha : PRON ORD : REGULAR : sixth
+    viMshatiH : F i : REGULAR : 20
+    triMshat : F 1cons : REGULAR : 30
+    shatam : N a : REGULAR : 100
+
+  Each record has four components:
+  1. citation :  the form as it appears in glossaries or dictionaries
+  2. 'gender form' : The 'gender' subfield is either M, F, or N, or one of
+      PRON (for pronouns) or ADJ (for adjectives).
+      The 'form' subfield is a designation which, with the gender, 
+      indicates the declensional category (i.e., the declensional 
+      endings and algorithm).
+  3. 'praatipadika' : This subfield provides two things:
+     a. The stem or stems needed for  declension
+     b. An initial segment or segments by which a declensional form
+        may be recognized.
+     Often, the field has the value 'REGULAR', in which case the
+     'praatipadika' is determined algorithmically.
+  4. A brief English definition (or several definitions separated by commas).
+
+  In a few cases, the declension of a word is deemed to be 'irregular' by
+  designating the 'form' subfield to be 'IRR'; in this case, the declension
+  is entered in full (in the file irreg.el).  In some other few cases,
+  a declension is almost, but not quite, described by an algorithm; the
+  exceptional items again appear in file irreg.el and are used in place of
+  the algorithmic declension table items.
+
+  Once the data has be entered (as the  'subanta' data for the citation
+  field), a second step generates the praatipadika (or praatipadikas).
+  The praatipadika(s) appear in the database entry for the citation symbol.
+  Also, the citation symbol appears in the database entry for each of
+  its praatipadikas.
+  For instance, 
+   (sanget 'ashvaH 'subanta)
+    (Eng-def ((horse)) other-info ((ashv M a nil)))
+  This shows that 'ashv' is the (single) praatipadika for  'ashvaH'.
+  When 'explain' is trying to explain 'ashvaH' as a NOUN, it will at 
+  one stage make a database call:
+    (sanget2 'ashv '(praatipadika other-info))
+    ((ashvaH M a) (ashvaa F aa))
+  The first result shows that 'ashv' is a praatipadika for 'ashvaiH' as
+  a masculine noun ending in 'a'; the second result shows that 'ashv' is
+  also a praatipadika for 'ashvaa' as a feminine noun ending in 'aa'.
+  From this information, the declensions of 'ashvaH' and 'ashvaa' may be
+  generated and compared with 'ashvaiH' to determined that 'ashvaiH' is
+  the instrumental plural of  'ashvaH'.
+
+  There is some degree of arbitrariness in the designation that 'ashv' is
+  the praatipadika of 'ashvaH', in terms of providing a pointer to 'ashvaH'.
+  Clearly, any initial substring ('a' 'ash') would also provide such a 
+  pointer; but too short a choice would provide many false choices.
+  At the other extreme, for an irregular declension (e.g., 'aham'), 
+  each declensional form is entered as a pointer; for instance,
+    (sanget2 'asmaakam '(PRON other-info))
+     ((aham PRON IRR))
+    (sanget2 'maam '(PRON other-info))
+     ((aham PRON IRR))
+
+  The other way that the 'praatipadika' is used occurs in the 
+  declensional algorithms. For example, in the case of 
+  masculine nouns ending in 'a', the endings are simply joined to the
+  praatipadika. In fact, this is the typical model of the declensional
+  algorithms. For such a process to work exactly, however, the endings
+  and praatipadika must exactly fit; so, in this usage, the choice of
+  praatipadika is not arbitrary, but must align with the choice of
+  endings and the functioning of the algorithm.  
+  As a matter of choice, I have generally chosen the praatipadika as
+  all but the last few letters of the citation symbol (this choice
+  is made when the praatipadika field is designated 'REGULAR'); exactly
+  how many letters are omitted is determined for each 'gender-form' field
+  as a program constant. For instance, for masculine nouns ending in 'a', the
+  last 2 letters ('a' and 'H') are dropped; for feminine nouns ending in
+  'aa', 1 letter ('aa') is dropped. Thus, 'ashv' ends up as the praatipadika
+  for both 'ashvaH' and 'ashvaa'.
+
+
+* input data formats for VERB forms
+  The function 'init-dhaatu-a~Nga-a' reads input data files 
+  formatted for verbal forms pertaining to the present system
+  conjugations. Also, the verbal roots, even those without any
+  present system forms, would come into the database using this
+  function. Verbal forms derived algorithmically from the root, such
+  as the passive forms, depend indirectly on data read by this function.
+  Prefixed forms are also entered in these files, primarily to permit
+  the entry of definitions of prefixed forms.
+  Currently, the files containing data processed by 'init-dhaatu-a~Nga-a'
+  are:  gaNa1.txt , dhaatupfx.txt , gaNa1a.txt.
+  However, this division is arbitrary since 'init-dhaatu-a~Nga-a'
+  reads from each in the same way.
+
+  Each record of a data file is converted into a vocabulary entry in
+  the Sanskrit database portion of the system.
+  Currently, there are about 500 roots in the system, with maybe 100 or
+  so noted prefixed forms.
+  A given root may have more than one entry, if its present system
+  conjugational forms can be based on more than one conjugational class
+  or if there are differences in formation of the verbal base between the
+  padas.
+  Here are some sample records, which will help make the subsequent
+  description comprehensible:
+  aT : 1 P : REGULAR : roam
+  iikSh : 1 A : REGULAR : see
+  as : 4 P : REGULAR : throw
+  klish : 4 A : REGULAR : be afflicted
+  kSham : 4 P : kShaamy : bear , forgive
+  iSh : 6 P : ichCh : wish
+  kRiSh : 6 U : REGULAR : plough
+  kRiSh : 1 P : REGULAR : draw
+  a~Nk : 10 P : REGULAR : count
+  gaN : 10 U : gaNay : count
+  tarj : 10 A : REGULAR : threaten
+
+  pra nam :  1 P : REGULAR : bow-down
+  aa prachCh :  6 A : pRichCh : take leave of
+  vi sad :  1 P : siid : be sad
+
+  kShi : 5 P : REGULAR : destroy
+  chi : 5 U : REGULAR : collect
+  apa aa vRi : 5 U : REGULAR : open , expose
+  tan : 8 U : REGULAR : spread
+  kRi : 8 U : IRREGULAR : do , make  ;(see gaNa-IRREGULAR.txt)
+  alam kRi : 8 P : IRREGULAR : adorn ;(see gaNa-IRREGULAR.txt)
+  as : 2 P : IRREGULAR : be ; see irreg.el
+  grah : 9 U : gRih : seize
+  duh : 2 U : du do : milk
+  i : 2 U : i e ya : go
+  adhi i : 2 A : i e ya : read
+  han : 2 P : ha ghn jahi  : kill
+  hu : 3 P : juh : offer , sacrifice
+  abhi dhaa : 3 P :  dadh dhat dhe : address
+  indh : 7 A : ind indh int ina : kindle
+  bhid : 7 U : bhi : split
+
+  Each record has four components:
+  1. citation : the 'dhaatu' and (optionally) one or more prefixes.
+     Prefixes should be elsewhere declared as 'upasarga' avyayapadas,
+     although the logic of 'init-dhaatu-a~Nga-a' does not check this.
+  2. class pada : the class should be 1 to 10, the pada should be P or A;
+     pada may be represented as 'U', which has the same effect as two
+     records identical except one with pada 'P' and one with pada 'A'.
+  3. 'a~Nga' : this field may either
+      REGULAR : indicating the 'a~Nga' will be determined algorithmically
+      IRREGULAR : indicating the dhaatu is conjugated irregularly (currently,
+         only 'kRi' and 'as' have this designation. Their present system
+         conjugations are in the file 'irreg.el'). Note that most verbal
+         irregularities (such as for roots in classes 2, 3, and 7) are
+         handled currently by hard-coding within the conjugation-tab
+	 subsystem.
+       other : manually entered data which
+         (a) serves as the basis for the conjugational algorithm
+	 (b) comprise 'starting portions' of all conjugational forms, and
+             thus is used by 'explain' to recognize conjugational forms.
+  4. A brief English definition (or several definitions separated by commas).
+
+  Data for each record is entered as the '(dhaatu other-info saarvadhaatuka)'
+  data for the root; note that information for the various upasarga forms
+  of a root are listed with the root.
+  A second step generates the verbal bases (a~Ngas); these are generated
+  based upon the data of the 3rd field. Each a~Nga appears both as a 
+  field within the '(dhaatu other-info saarvadhaatuka)' data for the root,
+  and as the key for a record whose '(saarvadhaatuka other-info)' data 
+  points back to the root; this latter provides the means by which the
+  'explain' function is able to identify the root from which a present
+  tense conjugational form is derived.  For the very common 'a' verbs, the
+  a~Nga is also directly used to algorithmically generate the present
+  system conjugated forms.  For the 'non-a' verbs, the conjugation
+  algorithms are idiosyncratic and more likely to use the root directly.
+
+  Note: for most verbs, the base for the passive forms is generated 
+  regularly from the root; however, the form for some roots is not 
+  handled by the algorithm, and is read in as data from the
+  file 'passive.txt.'  In any case, the passive base appears
+  as data of type '(dhaatu other-info karmaNi)' under the key of the root.
+  It also serves as a key whose data of type '(karmaNi other-info)' points
+  to the root; in this way 'explain' is able to identify the root from 
+  which a passive voice conjugational from derives.
+
+* input data formats for other VERB forms
+
+  There are currently four files with information about derived verbal
+  forms:
+  passive.txt  contains the passive base for roots not covered by the
+    algorithm of the program.  Currently, only about 20 of the 500 or so
+    dhaatus require inclusion in this file. For instance:
+      daMsh : dashy
+      bhraMsh : bhrashy
+    The use of the passive.txt data has been explain in the section on
+    input data for VERB forms.
+
+  kta.txt contains the perfect passive pariticple for all roots. There
+    is no algorithmic generation. For instance:
+       gam : gata
+    The datum 'gata' appears as the '(dhaatu other-info kta)' data for 'gam'.
+    The '(kta other-info)' data for the key 'gat' has pointers to the root
+    'gam' for each of its prefixed forms. This is used by 'explain' to
+    recognize the root from which is derived a declined form of a
+    perfect passive participle.
+
+  ttvaa.txt  contains the indeclineable perfect participle (gerund) for
+    both unprefixed and prefixed verbs. There is no algorithmic generation.
+    For instance:
+      kam : kaamayitvaa kaantvaa kamitvaa
+      gam : gatvaa
+    The datum 'gatvaa' appears as the '(dhaatu other-info ttvaa)' data
+    for the root 'gam'.  The '(ttvaa other-info)' data for the key 'gatvaa'
+    has a pointer to the root.
+    Using the algorithm of Antoine (I.195), the 'lyap' is generated from
+    the 'ttvaa'. In the case of the root gam, the datum '(gamya gatya)'
+    appears as the '(dhaatu other-info lyap)' data for the root. 
+    Pointers to each of the prefixed forms of 'gam' appear in the
+    '(lyap other-info)' data for the key 'gamya' and for the key 'gatya'.
+    Using these, 'explain' recognizes the IPP for  either unprefixed
+    or prefixed forms of a root.
+  tumun.txt  contains the infinitive for all verbs. There is no
+    algorithmic generation. For instance:
+      spRih : spRihayitum
+    The datum 'spRihayitum' appears as the '(dhaatu other-info tumun)' data
+    for the root 'spRih'. The '(tumun other-info)' data for the key
+    'spRihayitum' has pointers to the root 'spRih' for each
+    of its prefixed or unprefixed forms. Uses these, 'explain' recognizes
+    the infinitive for prefixed and unprefixed forms of a root.
+
+  
+  
+
+* input data formats for INDECL forms
+
+  There is one file with vocabulary for indeclineable words: avyayapada.txt.
+  Here are some sample records:
+    cha : nipaata : and
+    abhitaH : prep 2 : near , in front
+    abhi : upasarga : towards
+    upa : prep 2 : near below
+    upa : upasarga : near
+    atra : adverb : here
+    alam : prep 3 : enough
+    alam : upasarga : enough
+    pratidinam : adverb : daily
+
+  Each record has three components:
+  1. citation : the indeclineable word
+  2. type : a classification ; except for 'upasarga' this classification
+     is only used descriptively. It seems conceivable, however, that
+     a further level of analysis might well use such information as the
+     case that should follow a particular preposition.
+     Note: In order to conjugation certain 'kRi' compounds, I designated
+     certain words (like 'alam') to be upasargas, even though they are not
+     among the 20 words listed as upasargas in the Apte dictionary.
+  3. A brief English definition (or several definitions separated by commas).
+
+  The type and English definition are stored among the
+    '(avyayapada other-info)' data for the given citation symbol.
+
+* initialization of sandhi data structures
+  During system initialization, the function 'Sandhi-init' sets up
+  the data structures required for recognition of sandhi modifications.
+
+  In part, a sandhi rule is viewed as a transformation from one sequence of
+  letters to another sequence of letters. A second part to a sandhi rule
+  consists of the conditions under which the rule is applicable.  With
+  a few exceptions, the system views sandhi as a restricted
+  kind of transformation.
+  The exceptions are handled by functions:
+    'sandhi-separate-final-M'
+    'sandhi-separate-final-r'
+    'sandhi-one-final-cons'
+    'sandhi-legalise-final-cons'
+    'sandhi-n-N'.
+  
+  Namely, the restricted sandhi transformation rules are assumed to have
+  the form:
+    a + b -> c + d (with joining or without joining)
+    where
+     a,b,c,d are  sequences of letters of the
+         Sanskrit alphabet (i.e., ITRANS symbols)
+	 Often, 'd' is the empty sequence.
+  The 'Sandhi' data structure uses keys of the form 'a-b',
+  and each record associated with the key 'a-b'
+  is essentially a list containing c, d, and some other information.
+  For instance, the vowel sandhi rule that 'a' and 'a' join to form 'aa'
+  is found by
+    (sanget 'Sandhi 'a-a) 
+      (([aa] [] join (type svara ref Kale19)))
+  'join' indicates that when a 'word' ending with 'a' is followed by
+  a word beginning with 'a', the two words are joined, and the ending
+  'a' is replaced by 'aa' and the beginning 'a' by [] (the empty sequence).
+  The record also specifies a 'type' for this sandhi rule of 'svara', and
+  a reference for the Sandhi rule of 'Kale19'.
+
+  As a second example,
+   (sanget 'Sandhi 'i-a)
+    (([y] [a] join (type svara ref Kale22))
+     ([i] [a] nojoin (type svara ref Kale23 condition optional)))
+  This shows there to be two possibilities when a 'word' ending with
+  'i' is followed by a word beginning with 'a'.
+  In one case, the words are joined with the 'i' changing to 'y'.
+  In another case, the words are not joined and no changes are made;
+   this rule is shown to be 'optional' (its 'condition' code).
+
+  The 'type' and 'ref' codes, are generally unused. However, the
+  'sandhi-pair' routine, which modifies two 'words' as described above,
+  permits the exclusion of certain sandhi rules based on their 'ref'
+  code. Using this technique, he functions 'conjugation-join' and
+  'declension-join' can use 'sandhi-pair' to correctly join the base
+  and endings of inflected words.
+  
+  Currently, the 'Sandhi' data structure is initialized by about 
+  30 functions, each based on the statement of a particular sandhi rule.
+  Most are derived from the statements of Antoine. A few are from Kale.
+  I believe all the rules from Antoine (all of volume I, and volume II 
+  through chapter 8) are included. No attempt thus far has been made to
+  include all the rules stated by Kale.
+
+  When trying to 'explain' a word, sandhi rules must be used 'in reverse'.
+  For instance, in explaining 'upaavishat' we need to recognize that the
+  'aa' might occur because of vowel sandhi joining of 'a' and 'a'. Thus,
+  there is a structure which, for the rule 'a+b->c+d', has 'c-d' as a key
+  with (a b) as the data.  This data structure is 'Sandhi-Inverse'.
+  For instance,
+   (sanget 'Sandhi-Inverse 'aa-)
+     (([a a] join svara Kale19 nil)
+      ([a aa] join svara Kale19 nil)
+      ([aa a] join svara Kale19 nil)
+      ([aa aa] join svara Kale19 nil))
+   (sanget 'Sandhi-Inverse 'y-a)
+      (([i a] join svara Kale22 nil)
+       ([ii a] join svara Kale22 nil))
+
+  
+
+* 'sandhi-separate3-str' algorithm
+
+  This function has arguments:
+  's' : the string to be modified (a Sanskrit sentence)
+  'option' : an optional code. The only sandhi rules applied are
+   those whose 'condition' matches this 'option'.
+  
+  The routine first recognizes words using the function 'word-list',
+  which is based on separation characters
+  (e.g., the 'blank' or 'space' character).
+  Now there is a list '(s1 s2 .. sn)' of words.
+  First, we apply function 'sandhi-separate-final-M' to each word (this
+  changes a final 'M' to 'm'). Denote the resulting list of words by
+  '(w1 w2 ... wn)'.
+  Next, the words are examined in reverse order:
+   1. the end of word-n can not be changed because it has no successor;
+   2. function 'sandhi-separate2' applied to word w-(n-1) and w-n provides 
+      alternatives based on sandhi rules without joining (i.e., using
+      data structure 'Sandhi-Inverse-nojoin').
+   3. repeat step 2 with successive preceding pairs of words.
+
+  For example:
+    (sandhi-separate3-str "raamo gachChatiiti")
+    ([raamo gachChatiiti] [(raamo raamaH) (gachChatiiti)])
+  Notice that sandhi within the second word is not considered by this
+  function; that is the province of 'sandhi-separate'
+
+* 'sandhi-separate' algorithm
+  This function takes an input 's' (a word) and provides alternative
+  readings of the word as exactly two words based on rules of sandhi.
+  Many nonsense words will be seen. For instance,
+    (sandhi-separate 'gachChatiiti)
+     ([gaj Chatiiti] [gaj thatiiti] [gad Chatiiti] [gad shatiiti]
+      [gadh shatiiti] [gat Chatiiti] [gach thatiiti] [gat shatiiti]
+      [gath shatiiti] [gachChati iti] [gachChati iiti]
+      [gachChatii iti] [gachChatii iiti])
+
+  More specifically, the function performs an examination at each
+  letter (other than the first letter or last letter).
+  Consider a particular positional examination and let the
+  string at this point be spelled 'x y z w'.  Then, the system 
+  looks for sandhi rules that would explain 'x', or 'xy', or 'xyz',
+  or 'xyzw' by (sanget 'Sandhi-Inverse-nojoin 'x), etc.
+  Any results found provide an alternate reading of the original word 's'.
+
+  For instance, consider 'gachChatiiti'
+   1. Skip 'g', the first letter.
+   2. Consider 'a'.  There are no alternates to 'a', 'ach', 'achCh', 'achCha'
+   3. Consider 'ch'. There are no alternates to 'ch'. However, there are
+      many alternates for 'chCh':
+      (sanget 'Sandhi-Inverse-join 'chCh)
+      (([j Ch] join cons Antoine72-6 nil) -> [gaj Chatiiti]
+       ([j th] join cons Antoine88-1 nil)
+       ([d Ch] join cons Antoine88-1 nil)
+       ([d sh] join cons Antoine88-2 optional)
+       ([dh sh] join cons Antoine88-2 optional)
+       ([t Ch] join cons Antoine88-1 nil)
+       ([ch th] join cons Antoine88-1 nil)
+       ([t sh] join cons Antoine88-2 optional)
+       ([th sh] join cons Antoine88-2 optional))
+    4. This process yields no further results until the position at 'ii'
+      is examined. 
+       (sanget 'Sandhi-Inverse-join 'ii)
+       (([i i] join svara Kale19 nil) -> [gachChati iti]
+        ([i ii] join svara Kale19 nil)
+	([ii i] join svara Kale19 nil)
+	([ii ii] join svara Kale19 nil))
+
+    The above describes the essential aspect of the 'sandhi-separate'
+    algorithm. However, there are a few refinements that have been
+    grafted onto this so that 'correct' behavior would be exhibited,
+    namely, that among the possible readings would occur a correct
+    reading. 
+    For instance, consider 'sharaddhimaH'. 
+    (sandhi-separate 'sharaddhimaH)
+     ([shar addhimaH] [shaRi addhimaH] [shaRI addhimaH] 
+      [sharat dhimaH] [sharadh timaH] [sharadh thimaH] 
+      [sharad himaH] [sharaddhim aH]
+      [sharat himaH])
+
+     All but the last one are obtained as described. However,
+      'sharat himaH' is obtained by applying
+       (sandhi-separate2 'sharad 'himaH)
+        ([sharat himaH])
+
+   
+

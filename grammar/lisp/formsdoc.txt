@@ -1,0 +1,1362 @@
+(* -*- mode:text; mode:outline-minor;  -*- *)
+
+formsdoc.txt
+begun 09-29-04
+Notes from Kale, Antoine, etc., from which the grammatical algorithms derive
+
+* gerundive
+ Other terms: potential participle
+** general
+*** Kale 711.
+   The Potential Participle is formed by means of the affixes
+   'tavya anIya ya' and rarely 'elim', added to a root or 
+   derivative verb.  This is Passive when the verb is transitive, 
+   and impersonal when the verb is intransitive.  It is also used
+   like an adjective when denoting fitness, etc.
+*** Kale 712. tavya, anIya
+  The affixes 'tavya anIya' are added to roots or derivative bases
+  in the sense of 'must be, fit to be, etc.'. 
+  Before 'tavya' or 'anIya', the ending vowel and the 
+   penultimate short vowel of a root take their guNa substitute.
+  Before 'tavya', 'seT' roots take 'i', 'aniT' roots do not, and
+   'veT' roots take it optionally.
+  Before 'anIya', penultimate 'Ri' is always changed to 'ar', 
+   and not to 'r' (as it sometimes does).
+*** Kale 713.  anIya with derivative roots
+  The final 'ay' of roots of the 10th class is dropped before 'anIya'.
+  The final 'ay' of causals  is dropped before 'anIya'.
+  The final 'a' of Atmanepadi Frequentative Bases, when the 'ya' is
+   preceded by a vowel,  is dropped before 'anIya'.
+  The final 'ya' of Atmanepadi Frequentative bases, when the 'ya' is
+   preceded by a consonant, is dropped before 'anIya'.
+  To Desiderative bases, 'anIya' is added without any change.
+** 'yat' ya affix 
+*** Kale 714. 'ya' to roots ending in vowel
+  The affix 'ya' ('yat') is added on to roots ending in a vowel in the
+  sense of 'fit for, fit to be, ought to be'.
+  Before this 'ya', the radical vowel undergoes guNa substitute.
+  Before this 'ya', final 'aa' (and 'e ai o' changeable to 'aa') is
+   changed to 'e'
+*** Kale 715. 'ya' to roots with penultimate 'a'
+  Roots having 'a' for their penultimate and ending in a consonant of
+  the labial class take the affix 'ya':
+   'shap' -> shapya, labh -> labhya, ram -> ramya
+*** Kale 716.
+  The roots 'tak' (to laugh at), 'shas' (to kill), 'chat' (to look for,
+  to ask), 'yat' (to strive), 'jan', 'shak', and 'sah' take the affix
+  'ya'.
+*** Kale 717.
+  The roots 'gad mad char yam' take the affix 'ya' when not preceded by
+  a preposition, or when preceded by the preposition 'aa'.
+  Note: 'aa' with 'char' takes 'ya' provided the meaning is NOT 'preceptor'
+  'aa' with 'char' takes 'Nyat' (becoming 'aachaarya') when meaning
+  'preceptor'.
+*** Kale 718.
+  Some roots, when having certain meanings, take 'ya':
+  - 'vad' when implying reproach; otherwise 'kyap'
+  - 'paN' meaning 'to transact business'; otherwise 'Nyat'
+  - 'vRi' 9 A , not denoting limit or restraint; otherwise 'kyap'
+*** Kale 719.
+  - 'vah', when not denoting an instrument for carrying, takes 'ya';
+     otherwise, 'Nyat'
+  - 'Ri' in the sense of 'a master or a Vaishya' takes 'ya';
+     otherwise, 'Nyat'
+*** Kale 720.
+  - 'sRi' with 'upa' in the sense of 'being conceived' takes 'ya';
+    otherwise 'sRi' with 'upa' takes 'Nyat'
+*** Kale 721.
+  - 'jRI' with the negative particle 'a' and qualifying 'saMgataM' 
+    (friendship) takes 'ya'.
+    When qualifying something else, it takes the affix 'tRi'
+     (ajaritaa kambalaH : new blanket)
+*** Kale 722.
+  - 'han' takes the affix 'yat' optionally, before which 'vagh' is
+    substituted for it: 'han' + 'ya' = 'vaghya' (what ought to be killed).
+  - 'han' optionally takes 'Nyat', in which case 'ghaat' is 
+    substituted for it: 'han' + 'Nyat' = 'ghaatya'
+** kyap (ya)
+*** Kale 723. The following roots take the affix 'kyap (ya)' in the
+  same sense as 'yat':
+  - the root 'i' (1,2 P) (to go)
+  - roots 'stu shaas vRi' (5 P)
+  - roots 'dRi juSh'
+  - roots having 'Ri' for their penultimate, except 'kRip chRit'
+  When a root ends in a short vowel, 't' is inserted between the final
+  vowel and the affix 'ya': e.g., 
+   - 'i' -> 'itya' (worthy of being approached)
+   - 'stu' -> 'stutya' (deserving praise)
+   - 'shaas' -> 'shiShya' (fit to be instructed)
+   - 'vRit' -> 'vRitya' 
+   - 'juSh' -> 'juShya' (worthy of being served)
+   - 'vRidh' -> 'vRidhya' (fit to be increased as wealth)
+*** Kale 724.
+  According to Vaamana, the roots 'shams duh guh' take this affix optionally.
+  - 'shaMs' -> 'shasya' (praiseworthy)
+  - 'duh' -> 'duhya'
+  - 'guh' -> 'guhya'
+  Optionally, they take the affix 'Nyat':
+  - 'shaMs' -> 'shaMsya'
+  - 'duh' -> 'dohya'
+  - 'guh' -> 'gohya'
+*** Kale 725. 
+  'mRij' takes this affix optionally:
+   'mRijya' (wheat is fit or ought to be cleansed.
+  Optionally, it takes 'Nyat', before which the final 'j' is changed to 'g':
+   'maargya'
+*** Kale 726(a)
+  'bhuu', when it has a Subanta prefixed to it and is without a 
+   preposition takes the affix 'kyap' impersonally:
+    'brahmaNo bhaavaH' -> 'brahmabhuuyam' (identity with Brahman)
+  When no Subanta is used prepositionally with 'bhuu', it takes
+  the affix 'yat': 'bhavya'
+*** Kale 726(b)
+  'vad' under similar circumstances takes either 'kyap' or 'Nyat' in
+  a passive sense or impersonally:
+  'vadya' (kyap) ('brahmavadyam' = expounding the Veda)
+  'udya' (Nyat) ('brahmodyam' = expounding the Veda)
+*** Kale 727. 'khan' takes 'kyap', but drops its 'n' and adds 'ii' to
+  its penultimate vowel:
+  khan + ya = kha + ya = kha + ii + ya = khe + ya = kheya (what is fit
+    or ought to be dug or excavated)
+*** Kale 728. 'bhRi' (class 1) takes this affix when the participle so
+  derived does not form a name:
+    'bhRitya' (those who ought to be nourished or maintained = servants)
+  'bhRi' takes 'Nyat' when a name is meant:
+    'bhaarya' = 'bhRi' + 'Nyat' (a class of Kshatriyas)
+  When 'sam' precedes 'bhRi', either of 'kyap' or 'Nyat' is added optionally:
+   'saMbhRitya' , 'saMbhaarya'
+  Note: the word 'bhaaryaa' (a wife) ought to be derived from 'bhRi'
+   of the 3rd class and affix 'Nyat'
+*** Kale 729. The following 7 words are irregularly formed with the affix
+  'kyap' in the sense given in each case:
+  - 'raajabhuuyaH' (raajan + bhuu + kyap)
+  - 'suuryaH' (sRi + kyap) or (suu (6 P) + kyap)
+  - 'mRiShodya' (mRiShaa + vad + kyap) = falsehood
+  - 'kupyam' (any base metal) from 'gup + kyap' (??)
+  Note: 'gup' in other cases takes the affix 'Nyat':
+   'gup' + 'Nyat' = 'gopya' (what ought to be concealed)
+  - 'pachya' (pach + kyap) (growing in cultivated ground)
+  - 'avyathya' = 'a + vyath + kyap' (not feeling pain)
+*** Kale 730(a)
+  The following two words, which are the names of two rivers,
+  are derived by means of the affix 'kyap':
+  - 'bhinatti kuulaM bhidyaH' from 'bhid + kyap'
+  - 'ujjhatyudakaM ujjhyaH' from 'ujjh + kyap'
+*** Kale 730(b)
+  Similarly, the words 'puShyaH' and 'sidhyaH', both the names of the
+  constellation Pushya, are derived from 'puSh' and 'sidh' respectively
+  with the affix 'kyap'
+*** Kale 731.
+  The roots 'puu nii ji', preceded by 'vi', take 'kyap' when the are
+  connected with the words 'mu~nja kalpa hala', respectively:
+  - vipuuyo mu~njaH : the Munja grass to be prepared for weaving into a rope
+  - niniiyaH kalkaH : sin which ought to be destroyed
+  - jityo haliH : the plough to be pulled with great force
+*** Kale 732.
+  The following words are derived from the root 'grah' with affix 'kyap':
+  - 'avagRihyam', 'pragRihyam' : two technical terms in grammar
+  - 'gRihyakaaH' : birds restrained from free motion, such as parrots
+  - 'graamagRihyaa senaa' : an army stationed outside a village
+  - 'aaryagRihyaH' : siding with the noble
+*** Kale 733. 
+  The roots 'kRi' and 'vRi' take both 'kyap' and 'Nyat':
+  'kRitya', 'kaarya' : what ought to be done
+  'vRiShya', 'vaarya' (not sure of 1st)
+*** Kale 734.
+  The root 'yuj' in the sense of 'to be harnessed' takes the affix 'kyap'
+  and changes its final to 'g':
+  'yugyaH gauH' : a bull to be harnessed to the yoke
+  In other senses, it takes the affix 'Nyat': yojya
+** Nyat (ya)
+*** Kale 735. 
+  Roots ending in 'Ri' and those ending in a consonant take the affix
+  'Nyat' ('ya') in the same sense as 'yat'.
+  Before this affix,
+   - the ending 'ch' of a root is changed to 'k'
+   - the ending 'j' of a root is changed to 'g'
+   - the final vowel and the penultimate 'a' take vrddhi
+   - any penultimate vowel but 'a' generally takes guna.
+  Examples:
+   - 'kRi' -> 'kaarya' : what ought to be done
+   - 'dhRi' -> 'dhaarya' : what ought to be worn
+   - 'grah' -> 'graahya' : what ought to be held
+   - 'dabh' -> 'daabhya' : what ought to be impelled
+   - 'vach' -> 'vaakya' : what is arranged, a sentece
+   - 'pach' -> 'paakya' : what is to be cooked
+   - 'mRij' -> 'maargya' : what is to be purified
+*** Kale 736.
+  The root 'vas', when preceded by 'amaa' (with) takes the affix 'Nyat'
+  before which the penultimate 'a' is optionally changed to vrddhi.
+  'amaavasyaa' or 'amaavaasyaa': the day on which the sun and moon
+    are with each other, i.e., are in conjunction (e.g. eclipse?)
+  The root 'sRij' when preceded by 'paaNi' or the preposition 'samava'
+  takes 'Nyat': 'sargya'
+*** Kale 737(a)
+  The roots 'yaj yaach ruch pravach tyaj pach' do not change
+  their final consonant to 'k' or 'g' before 'Nyat'.
+   e.g. yaajya, yaachya, rochya, pravaachya, archya, tyaajya, paachya
+  Note 1: 'archya' must come from 'Rich' (praise, shine)
+  Note 2: In #735, 'pach' is shown as 'paakya', so both forms must be ok.
+*** Kale 737(b)
+  - 'vach' does not change its 'ch' to 'k' before 'Nyat' when the meaning
+     is 'what ought to be spoken out, speech' : vaachya
+  - 'vach' changes its 'ch' to 'k' otherwise: 'vaakyam' (a sentence)
+*** Kale 737(c)
+  - 'va~nch' -> 'va~nchya' when it means 'to go'
+  - 'va~nch' -> 'va~Nkya' when it means 'to bend'
+*** Kale 737(d)
+  - 'yuj' when it is preceded by 'pra' and 'ni' takes the affix 'Nyat'
+    in the sense of 'what is possible or capable of',
+    and does not change its 'j' to 'g'
+*** Kale 737(e)
+  - 'bhuj' -> 'bhojyam' (food)
+  - 'bhuj' -> 'bhogya' (what is fit to be enjoyed)
+*** Kale 738. 
+  Roots ending in 'u uu' take the affix 'Nyat' in the sense of
+  'what ought to or must necessarily be done'.
+  - 'luu' -> 'laavyam' (what must necessarily be cut off)
+  - 'suu' (with 'aa') -> 'saavyam'
+  - 'yu' -> 'yaavya' (to mix)
+*** Kale 738(a)
+  The roots 'vap rap lap bhap chap' also do the same:
+  - 'vap' -> 'vaapya' (what must necessarily be sown)
+  - 'rap' -> 'raapya' (what must be spoken of distinctly)
+  - 'lap' -> 'laapya'
+  - 'bhap' -> 'bhaapya'  (could not find this root)
+  - 'chap' -> 'chaapya'
+*** Kale 739. The following words are irregularly derived by means of
+  the affix 'Nyat':
+  - aanaayyaH : (aa nii + Nyat) : what ought to be brought from the
+    Gaarhapatya, ie, the Dakshinaagni
+    But 'aaneya' in other cases.
+  - praNaayyaH : (pra nii + Nyat) : a jar, disgusted with worldly pleasures ??
+*** Kale 740 ??
+  - 'paayam' a measure. From 'maa' ??
+*** Kale 741 ??
+
+* pronouns
+;***info-pronoun (12-15-02)
+ Kale p. 87 ff.
+; (Kale) The following 35 words are termed 'Pronouns' (sarvanaaman)
+; in Sanskrit (To get 35, the three katara, yatara, tatara are counted
+; as one, and katama, yatama, tatama are counted as one.
+sarva : all
+vishva : all , entire
+ubha : both
+ubhaya : both ( ubhayii = f.)
+katara : which of two
+katama : which of many
+yatara : which of two
+yatama : which of many
+tatara : that one of two
+tatama : that one of many
+anya : another , different 
+anyatara : either of the two (anyatama is declined like a noun)
+itara : the other (of two), the remaining
+tvat : you ; a form of 2nd personal pronoun used in some compounds
+tva : 
+nema : half , part
+sama : same , equal
+sima : every , all , whole
+puurva : first , easterly , former
+para : other , distant, beyond
+avara : younger , following
+dakShiNa : skilful , to the right , southern
+uttara : northern , higher
+apara : matchless
+adhara : lower (lit. not held up)
+sva : one's own ; reflexive pronoun
+antara : inside
+tyad : that
+tad : that
+yad : which ; relative pronoun
+etad : this
+idam : this ; referring to something present or near the speaker
+adas : that ; referring to something not present or near the speaker
+eka : one , single , alone
+dvi : two , both
+yuShmad : you
+asmad : I
+bhavat : your honor ; f. bhavatii - honorific pronoun
+kim : who , what , which ; used interrogatively
+
+* ppfactn
+** periphrastic-liT-P (dhaatu class &optional dtype)
+  ; Antoine#106 The reduplicative perfect is common to all
+  ; monosyllabic roots beginning with a consonant or with
+  ; 'a', 'aa', or short 'i', 'u', or 'Ri'
+  ; The periphrastic perfect is used with roots beginning
+  ; with a long vowel (other than 'aa') and with roots of
+  ; the 10th conjugation and other derivative roots.
+  ; 10-05-04: The presence of a derivative root is indicated
+  ;   by the optional argument 'dtype' (e.g. 'c' for causal)
+  ; The roots 'day' (to pity), 'kaas' (to cough),
+  ; 'aas' (to sit) take the periphrastic perfect.
+  ; The roots 'uurNu' (to cover) and 'RichCh' (to go) take
+  ; the reduplicative perfect
+  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhii' (to fear),
+  ; 'bhRi' (to support), 'hRi' (to take away), 'hrii' (to blush),
+  ; 'jaagRi' (to awake), and 'daridraa' (to be poor) take both
+  ; forms of the perfect
+
+* prap
+ present participle active (parasmaipada) voice
+; Note: AntoineI-#83 says
+; (1) Verbs taking parasmaipada terminations form their present
+;   participle active in 'at'. To form it, the termination
+;   'anti' of the 3rd pers. plur of the present active is
+;   replaced by 'at'.
+; (2) Verbs taking atmanepada terminations form their present
+;   participle active in 'maana'. To form it, the termination
+;   'te' of the 3rd pers. sing. of the present tense is replaced
+;   by 'maana'.
+; (2) is correct only for the a-conjugations.
+; For the non-a conjugations, the ending 'aana' replaces the
+; termination 'ate' of the 3rd pers. PLURAL of the present tense.
+; An equivalent alternate of (2) for the 'a' conjugations is
+; to replace the termination 'nte' of the 3rd pers. plur.
+; of the present tense with 'maana'.
+; Since the 3rd pers PLURAL of the present tense can be made
+; to work with either, and is required for non-a conjugations,
+; that is chosen for both a and non-a conjugations
+; This is consistent with Goldman (weak stem of non-a conjugations)
+; and Kale (#669, p. 418) says to use 3P of present tense.
+
+* prmp
+ present participle middle (atmanepada) voice
+ Kale 669 (p. 418)
+ The participle of the present atm. is formed by adding 'Ana' to the 
+ root which undergoes the same changes before it, as before the termination
+ 'ate' or 'ante' of the 3rd pl. pre; 'Ana' is changed to 'mAna', in the
+ case of roots of classes 1,4,6 and 10, and all derived roots, or rather
+ when the base ends in 'a', before which the 'a' of the base remains
+ unchanged. e.g. 
+   'eD' (cl. 1) 'eDamAna' (growing)
+   'vand' (cl. 1) 'vandamAna' (saluting)
+   'SI' (cl. 2) 'SayAna' (lying down)
+   'dviz' (cl. 2) 'dvizAna'  (hating)
+   'han' with prefix 'A' (cl. 2) 'AGnAna' (killing)
+   'DA' (cl. 3) 'daDAna' (holding)
+   'div' (cl. 4) 'dIvyamAna' (playing)
+   'su' (cl. 5) 'sunvAna' (extracting)
+   'tud' (cl. 6) 'tudamAna' (giving pain)
+   'ruD' (cl. 7) 'runDAna' (obstructing)
+   'kf'  (cl. 8) 'kurvARa' (doing)
+   'tan' (cl. 8) 'tanvAna' (stretching)
+   'krI' (cl. 9) 'krIRAna' (buying)
+   'cur' (cl. 10) 'corayamAna' (stealing)
+   'buD' (cl. 1 c) 'boDayamAna' (causing to know)
+   'buD' (cl. 1 d) 'buboDizamARa' (being desirous to know)
+ Kale 670.
+  (a) The 'A' of 'Ana' is changed to 'I' in the case of the
+    root 'As' (cl. 2, to sit): AsIna
+    Note: from MW, the form 'AsAna' is also found
+
+* ppp
+; Construction of the past passive participle
+; based upon Kale, p. 421-431.
+ Past Passive Participles.
+ Kale 679. The Past Passive Participle is formed by the addition
+  of the affix 'ta' to the root.
+ Kale 680. Roots capable of taking samprasaarana take it before
+  the affix 'ta'.
+ Kale 682. The penultimate radical nasal is generally dropped.
+  NOTE: Kale 584 gives a list, which is used
+ Kale 683. The augment 'i' may be prefixed to 'ta'
+ Kale 684. As a general rule, the following roots do not insert 'i':
+   all roots ending in a vowel which are 'veT' and
+   all roots ending in a consonant which are 'aniT'.
+ Kale 685. 'seT' roots (subject to 684) generally admit of 'i'
+  All derived roots admit of 'i'
+  Roots of the 10th class reject their final 'ay'.
+    NOTE: The root undergoes the 10th class conjugational changes
+  Causals reject their final 'ay'.
+  Parasmaipada Frequentatives reject their final 'a'.
+  Atmanepada Frequentatives reject their final 'y'
+ Kale 696(a)
+  Roots ending in a nasal lengthen their penultimate vowel before
+  - a weak termination  beginning with any consonant
+    (except a nasal or a semivowel)
+  - the affix 'kvip'. 
+  e.g., 'sham' -> 'shaanta', 'kram' -> 'kraanta'
+ Kale 696(b)
+  The following roots drop their final nasal before
+  a weak termination  beginning with any consonant
+    (except a nasal or a semivowel).
+  - 'aniT' roots ending in a nasal,
+  - 'the root 'van' (1P),
+  - the eight roots of the 8th class ending in 'n'
+  - some others (see p. 354)
+ Kale 697.
+  The roots 'khan jan and san' drop their nasal and at the same time
+  lengthen their vowel.
+
+* Roots in 'e' (Kale)
+ Kale-459 
+  (one of sections beginning 'general or non-conjugational tenses ans moods',
+   so applicable to many formations)
+ Roots ending in 'e', 'ai', and 'o' are to be treated as
+  roots ending in 'aa'. 
+  Also the roots 'mi' (5 U to throw), 'mii' (9 U to kill), and
+  'vii' (4 A to perish) is treated as a root ending in 'aa'
+  before a termination causing guna or vrddhi.
+ The root 'lii (9 U 4 A to adhere) changes its vowel to 'aa'
+  before a termination causing guna or vrddhi.
+
+* 'samprasaaraNa'
+ Kale 502, p. 308
+  The change of a semivowel to its corresponding vowel is called
+  'samprasaaraNa'.  SamprasaaraNa generally takes place before 
+  weak terminations in the case of the following roots:
+  vach yaj vap vah
+  vas (to dwell)
+  ve vye hve shvi
+  vad svap jyaa vash vyach prachCh vrashch bhrasj grah and vyadh.
+  In the case of the Perfect, the roots 'prachCh vrashCh and bhrasj'
+  form an exception.
+
+* participles in 'at'
+ Kale 116(a). Participial bases ending in 'at'.
+  The declension of these does not differ from that of nouns in 'mat'
+  except in the Nom. sing. mas. in which the 'a' of 'at' is not lengthened.
+  In the case of the dual of the Nom. Voc. and Acc. neuter, 'n' is
+  inserted before the final 't':
+  - necessarily in the case of
+    -- the present participles of the roots of classes 1,4 and 10
+    -- the present participles of causal, desiderative, and nominal verbs
+  - optionally in the case of
+    -- the present participles of the roots of class 6
+    -- the present participles of roots of class 2 ending in 'aa'
+    -- the future participles (in 'syat' or 'Shyat')
+  - Not at all in the case of the remaining participles of the present tense
+  The Feminine of these ends in 'ii', being the same as the Neuter dual of
+  the Nom., and has no declensional peculiarities.
+ Kale 116(b)
+  'n' is NOT inserted at all in the case of the participles of 
+  the present of 
+   - roots of the 3rd class
+   - the Parasm. frequentative
+   - the participles
+     -- shaasat 
+     -- jakShat
+     -- chakaasat
+     -- daridrat
+     -- jaagrat
+     -- diivyat
+     -- devyat.
+   In the case of the Nom. Voc. and Acc. plu. neu, however, it is
+    optionally inserted.
+  NOTE (09-27-03): I have not implemented this last exception, e.g.,
+    see (sanget2 'x '(dhaatu PRESPART)) for x = daa-3P, jaagRi-2P, etc.
+
+* pft, fut, con, ben
+** naming conventions
+ from file 'gram2-future.el'
+; Based upon Antoine, volume 2 and Kale
+; code for the following:
+;  1. pft = periphrastic future = First future = luT
+;  2. fut = simple future = second future = lRiT
+;  3. con = conditional = lRi~N
+;  4. ben = benedictive = aashiirli~N
+** two futures (Antoine)
+ Antoine2#132. There are two forms of the future in Sanskrit:
+   1. The periphrastic future (luT) which expresses remote future events.
+   2. The simple future (lRiT) which expresses any future event, whether
+      immediate or remote.
+** pft (Antoine)
+  Antoine2#135. The periphrastic future (luT).
+   1. A verbal noun formed with the suffix 'tRich' in the nom. masc. sing.
+      is prefixed to the the present tense of the auxiliary 'as' in the
+      1st and 2nd persons.  In the 3rd person, the verbal noun is not 
+      followed by the auxiliary and takes the forms of the nom. sing., dual.
+      and plur. masc: -taa -taarau -taaraH
+   2. The final vowel and the short medial vowel of the verbal roots
+     take guna.  The verbs of the 10th conjugation keep the base of the
+     present tense. The result may be called the verbal base.
+   3. To the verbal base is added 'i', necessarily, optionally, or not at
+     all, depending on whether the root is 'seT', 'veT', or 'aniT'.
+     To this is added the ending as describe in 1.
+** pft (Kale)
+ Kale #468.
+  The First Future (luT) is also called the periphrastic future.
+  Its Parasmaipada terminations are:
+    taa taarau taaraH
+    taasi taasyaH taasya
+    taasmi taasvaH tassmaH
+  Its Atmanepada terminations are:
+    taa taarau taaraH 
+    taase taasathe taadhve 
+    taahe taasvahe taasmahe
+ Kale #469.
+  To these terminations the augment 'i' 
+    is prefixed in the case of 'seT' roots,
+    is optionally prefixed in the case of 'veT' roots
+    is not prefixed at all in the case of 'aniT' roots.
+ Kale #470.
+  All these terminations are strong.
+  The final vowel and the penultimate short vowel of a root 
+  therefore take their 'guNa' substitute before these.
+ Kale #471.
+  'aniT' roots with a penultimate 'Ri' change it to 'r' optionally
+  before a strong termination beginning with any consonant except
+  a nasal or a semi-vowel (in particular, before any of the terminations
+  of the periphrastic future):
+   sRip : sarptaasmi  sraptaasmi
+
+  IRREGULAR BASES
+ Kale #472.
+  The following roots are 'veT' (admit 'i' optionally) in the First Future:
+   iSh
+   saH (1 A)
+   lubh
+   riSh
+   ruSh
+ Kale #473.
+  The root 'kLip' is optionally parasmaipada in the First future, 
+  and when so it is 'aniT' (rejects 'i').
+ Kale #474.
+  The augment 'i' as added to the root 'grah' is long (i.e., 'ii' is 
+  added) in all non-conjugational tenses, except in the Perfect.
+ Kale #475.
+  The intermediate 'i' is optionally lengthened (i.e., 'ii' is added)
+  in the case of 'vRi' and roots ending in (long) 'RI', except
+  in the Perfect, the Benedictive atmanepada, and the Aorist parasmaipada.
+  For example: 
+    'vf' 'varitAsmi' or 'varItAsmi'
+    'kF' 'karitAsmi' or 'karItAsmi'
+ Kale #476.
+  The root 'masj': This is an 'aniT' root. 
+    'n' is inserted before the ending consonant and
+    the  's' is dropped when they are followed by any consonant
+    except a nasal or a semi-vowel. In particular this is applicable
+    to all the periphrastic future forms:  ma~Nktaa.
+    When the 'n' is not dropped, the 's' is changed to 'j': mamajja
+  The root 'nash': This is a 'veT' root.
+    'n' is inserted after the vowel when it is followed by an consonant
+    except a nasal or a semi-vowel. In particular this is applicable
+    to all the periphrastic future forms: naMShTaa or nashitaa
+ Kale #477.
+  The root 'aj'.
+  The root 'vii' is substituted for the root 'aj' (1 P 'to go') 
+    a. necessarily before any non-conjugational termination, and
+    b. optionally before any such as begin with any consonant except 'y':
+      First Future:  vetaa or ajitaa
+      (another example)   veShyati ajiShyati
+** fut and con (Kale)
+
+ Kale 478. 
+   NOTE: The endings for the Second Future (lRiT) are in file 'endings.el'.
+  Kale 479.
+   NOTE: The endings for the Conditional (lRi~N) are in file 'endings.el'.
+  Kale 480.
+   't' is substituted for the ending 's' of a root when followed by
+   any non-conjugational termination beginning with 's'.
+   NOTE: All terminations of lRiT and lRi~N begin with 's'
+  Kale 481.
+   'i' is to be prefixed, or not, or optionally in the terminations,
+   according as the root is 'seT aniT or weT'.
+   Before the terminations, the final vowel and the penultimate
+   short vowel take their guna substitute.
+  Kale 482.
+   In the Conditional, the augment 'a' is prefixed to the root as
+   in the imperfect.
+ 
+** fut passive (Antoine)
+ Antoine2#138. 
+ The future passive is identical with the future atmanepada. Thus,
+  'jyeShyati' = he will conquer
+  'jyeShyate' = he will be conquered
+ Roots ending with a vowel and the roots 'han', 'grah', and 'dRish'
+ have an optional form in the future passive.
+ 1. The final vowel takes vrddhi
+ 2. a final 'aa' is changed to 'aay'
+ 3. 'han' changes to 'ghan', 
+    'grah' changes to 'graah'
+    'dRish' changes to 'darsh'
+ 4. 'i' is inserted, and the atmanepada terminations are added.
+** fut passive (Kale)
+ Kale 596(a)
+   The forms of the two Futures, Conditional and the Benedictive
+   of the Passive are made up in the same way as those of the Active,
+   every root being supposed Atmanepadi.
+
+  Kale 596(b)
+   Roots ending in a vowel and the roots 'han grah dRish' optionally
+   form the two Futures, the Conditional, and the Benedictive of the
+   Passive by changing their vowel to 'vrddhi' and appending the 
+   'A' terminations of those tenses with 'i' prefixed to them invariably.
+   In the case of roots ending in 'aa' (and in 'e ai o' changeable to 'aa'),
+   'y' is inserted between the root and this 'i'.
+   Note:
+    'nuu' and 'dhuu' take vrddhi in this case though it is usually
+    forbidden with them.  See #463. 'dRish' takes 'guna' only.
+** ben (Antoine)
+  aashiirli~N = benedictive
+ Antoine2#142, p. 94-6
+ The Benedictive expresses a wish of the speaker or a blessing conferred
+ by him on some other person.
+ (1) Before parasmaipada terminations
+  1. The verbal root is treated as in the passive voice
+     (refer Antoine#1 68 and 71(3))
+     with the 'y' of the passive being replaced by the terminations.
+  2. Roots endinging in 'aa', 'e', 'ai', and 'o' change their final
+     vowel to 
+     a. 'e' when the preceding consonant is simple
+     b. to 'aa' or 'e' when the preceding consonant is conjunct
+ (2) Before atmanepada terminations
+  1. 'i' is inserted in the case of 'seT' roots
+     'i' is inserted optionally in the case of 'veT' roots
+  2. The following roots are considered 'veT':
+     a. Roots ending in 'Ri' and preceded by a conjunct consonant
+     b. 'vRi'
+     c. Roots ending in 'RI'
+  3. When 'i' is inserted,
+     the final vowel and the short medial vowel take guna.
+  4. When 'i' is not inserted,
+     (a) a short medial vowel remains unchanged
+     (b) a final 'Ri' remains unchanged
+     (c) a final 'RI' is changed to 'iir' after a non-labial
+     (d) a final 'RI' is changed to 'uur' after a labial
+  5. The inserted 'i' is lengthened for 'grah'.
+** ben (Kale)
+ aashiirli~N-doc-Kale
+ Parasmaipada Benedictive
+  580. The P terminations are weak and therefore occasion no
+    guna or vrddhi change in the root.
+    All roots reject the augment 'i'
+  581. The following changes apply to roots both before
+   the P terminations of the Benedictive, and before the 'y'
+   of the (ordinary) passive.
+   1. The final 'i' or 'u' is lengthened
+   2. final 'Ri' is changed to 'ri'
+   3. final 'RI' preceded by a non-labial is changed to 'iir'
+   4. final 'RI' preceded by a labial or 'v' is changed to 'uur'
+  582. 
+   1. Final 'Ri' preceded by a conjunct consonant is changed
+      to guna: 'smRi' -> smaryaat
+   2. the  'Ri' of the root 'Ri' is changed to Guna: 'aryaat'
+  583. 
+   1. Roots capable of taking samprasaaraNa take it (see #502)
+   2. 'shaas' substitutes 'i' for its vowel : 'shiShyaat'
+  584. A penultimate nasal is generally dropped. Some of the roots
+   dropping their nasal thus are:
+   a~nch a~nj bha~nj ra~nj sa~nj sva~nj
+   granth manth
+   und skand syand
+   indh bandh 
+   dambh stambh
+   daMsh bhraMsh sraMs tRiMh
+  585. 
+   1. Some roots change their final vowel to 'e':
+     'daa', 'dhaa' and roots assuming these forms (???)
+      'maa' , 'sthaa', 'gai',
+      'paa' (to drink: 1P),
+      'haa' (to abandon : 3)
+   2. Final 'aa' (original or substituted - See #459), if it be
+      preceded by a conjunct consonant, is changed to 'e' optionally:
+      e.g. : glaa -> gleyaat or glaayaat
+   3. paa (to protect: 2) does not change to 'e': paayaat
+    
+  Atmanepada Benedictive
+  586.
+   a. 'i' is prefixed to the terminations after 'seT' roots, and
+      optionally after 'veT' roots
+   b. Roots ending in 'Ri' preceded by a conjunct consonant,
+      the root 'vRi', and roots ending in 'RI' admit 'i' optionally.
+  587.
+      The atmanepada terminations are strong. Before these,
+      the radical vowel takes its guNa substitute, but when the
+      intermediate 'i' is not prefixed to the terminations, the
+      final 'Ri' remains unchanged, and 'RI' is changed to 'uur' if
+      a labial or 'v' precedes, and to 'iir' otherwise. For instance:
+       chi -> cheShiiShTa
+       dhu -> dhoShiiShTa
+       luu -> laviShiiShTa
+       stRI -> stariShiiShTa or stiirShiiShTa
+       pRI -> pariShiiShTa or puurShiiShTa
+      NOTE: Kale actually says 'ur' and 'ir', but his examples, as
+      well as the explanation in Antoine, make me think this is an
+      error, and that actually 'uur' and 'iir' are meant.
+** future participle (kale)
+ Kale 709, p. 431
+  The participle of the simple future, active as well as passive, is
+  formed from the third person singular form of the Second Future of
+  a root.  
+  The Parasm. Ptc. is formed simply by dropping the final 'i'.
+  The Atm. Ptc. is formed by substituting 'maana' for the final 'te'.
+  The Passive Ptc. is formed by substituting 'maana' for the final 'te'.
+ Kale 710.
+  These participles are declined like words ending in 't' and 'a'.
+  (The Par. Ptc. is declined like participles ending in 'at')
+** future participle (Antoine)
+ Antoine2#139, p. 92-3
+ The future participles ('syatRi syamaana')
+  The parasm. and atm. participles of the simple future are formed
+  in the same way as the present participles of the 6th conjugation.
+  The termination 'syanti' of the 3rd pers. plur. parasm. is replaced
+  by 'syat'.
+  The termination 'syante' of the 3rd pers. plur. atm. is replaced
+  by 'syamaana'
+ The declension of the future participle parasm is the same as that
+  of verbs of the 6th conjugation, i.e., they optionally keep the
+  'n' in their strong forms.
+   - Masc: daasyan daasyat, daasyantau daasyatau, daasyantaH daasyataH
+   - Neut: daasyat , daasyantii or daasyatii, daasyanti
+   - Fem: either daasyantii or daasyatii.
+ The future participle is often used in the sense of 'about to' or
+  'going to': e.g.,
+   - 'gamiShyan' about to go
+   - 'ghaaniShyamaaNaa kanyaa' the girl about to be killed
+ NOTE: This account differs from that of Kale in the Masculine for
+  Parasm. future participle. Namely, Kale does not have the optional
+  strong forms with an inserted 'n', e.g.,   'daasyat, daasyatau, daasyataH'.
+  I think Antoine just made a mistake here, because his description of
+  the present active participles of verbs of class 6 also does not have
+  these alternate 'n' forms in the masculine (see Antoine1#83, p. 84).
+
+
+* seT 
+ This documentation from function 'construct-seT-code1a'
+; References: Antoine2#134,  Kale#458
+; (1) First general rule.
+;   The following classes of roots are 'seT' (insert 'i'):
+;     All roots of the 10th conjugation and
+;     all roots of the derivative conjugations (#144),
+;     all roots ending with consonants,
+;     all roots ending with the long vowel 'RI'
+;     all roots ending with the long vowel 'uu'
+;  Kale #458. (a): Roots of more than one syllable.
+; (2) Second general rule.
+;     The following classes of roots are 'aniT' (do not insert 'i'):
+;     All roots of the first 9 conjugations ending in vowels other
+;      than the long vowels 'RI' or 'uu'.
+; The following list of 102 roots comprise exceptions to (1),
+; in that they are 'aniT' (do not insert 'i')
+; (3) Third general rule.
+;     The following roots are 'veT' (optionally insert 'i'):
+;  NOTE: Kale has a much longer list (see below)
+; Based on Kale (p. 296-7), the following roots are 'veT'
+; Here is the verse from Kale:
+; svaratiH suuyate suute pa~nchame navame cha dhu~n .
+; tanaktirvRishchatishchaantaavanaktishcha tanaktinaa .. 1 ..
+; maarShTi maarjati anteShu daantau klidyatisyandate .
+; radhyatiH sedhatirdhaantau paantaaH pa~nchaiva kalpate .. 2 ..
+; gopaayatistRipyatishcha trapate dRipyatistathaa .
+; maantau kShaamyatiH kShamate.ashnute klishnaati nashyati .. 3 ..
+; shaantaasrayothaakShatishcha niShkuShNaatishcha takShatiH .
+; tvakShatishcha Shakaaraantaa hyatha haantaashcha gaahate .. 4 ..
+; padadvaye guuhatishcha Rikaaroopaantyagarhate .
+; tRihatitRiMhatidruhyatayo vRihatimuhyatii .. 5 ..
+; vRihistRihii snihyasnuhyaavete veTkaa hi dhaatavaH .
+; ajantaanaaM tu thalyeve ved syaadanyatra sarvadaa .. 6 ..
+; NOTE: These couplets as well as those bearing on the 2nd variety
+; of the Aorist are composed by Mr. ChintaamaNa Aatmaarama Kelkar, the
+; present learned Shaastri at the Poona Training College.
+
+; ADDENDA: Some changes:
+;  vah:  from aniT to veT (ref Whitney, example Scharf)
+; shii: removed from 'seT-exceptions', put in 'veT-exceptions' (Whitney)
+ (let (ans seT-exceptions aniT-exceptions veT-exceptions)
+  (setq seT-exceptions '(daridraa shri shvi Dii yu ru nu snu kShu
+	                 kShNu uurNu jaagRi vRi))
+  (setq aniT-exceptions '(shak pach much rich vach vich sich prachCh tyaj
+			  nij bhaj bha~nj bhuj bhrasj masj muj yaj yuj
+			  ra~nj ruj vij sRij sa~nj sva~nj ad kShud khid
+			  Chid tud nud pad bhid vid shad sad skand svid
+			  krudh kShudh budh bandh yudh ; radh
+			  rudh vyadh
+			  shudh saadh sidh man han aap kShip tap ; trap
+			  dRip lip lup vap shap sRip svap yabh labh rabh
+			  gam nam yam ram krush daMsh dish dRish mRish
+			  rish rush lish vish spRish kRiSh tuSh tviSh
+			  duSh dviSh piSh puSh mRiSh viSh shiSh shuSh
+			  shliSh ghas vas dah dih duh nah ruh lih  mih))
+  (setq veT-exceptions '(radh muh druh snih nash lubh sah kRit nRit prii dhRi
+			 kLip syand tRip klid klish kSham gaah gup guh takSh
+			 trap tRih mRij vrashch svRi kuSh gRih stRih bRih
+			 vRih
+			 vah shii))
+  
+
+* seT in perfect tense
+ This documentation is from function 'construct-seTPERF-code1a'.
+ References: Kale #495. Compare Antoine2#109
+
+; This pertains to the perfect tense.
+; Special rules about the admission of the intermediate 'i' before
+; the terminations 'va ma tha se vahe mahe dhve'
+; (a) All roots, whether 'seT' or 'aniT', admit 'i' except:
+;     kRi sRi bhRi vRi
+;     stu dru sru shru
+;  The eight roots just mentioned are aniT. 
+;  In addition to this general rule, there are some modifications
+;  applicable only to the ending 'tha'.
+;  Before 'tha':
+;      the root 'kRi' (only with prefix 'sam') admits 'i'.
+;      the root 'vRi' admits 'i'.
+;      aniT roots ending in 'Ri', except the root 'Ri', reject 'i'
+;      aniT roots with a final vowel other that 'Ri' admit 'i' optionally
+;      aniT roots with a penultimate 'a' admit 'i' optionally
+;      the root 'Ri' admits 'i' necessarily (Kale #515)
+;kRi : aniT seT sam
+; the case  'sam-kRi' is handled in function 'conjugation-tab-liT'
+; ADDENDA: 
+; 1.  based on example on p. 314,
+;  the aniT root'sRij' admits 'i' optionally before 
+; 'th' (otherwise, it would be required)
+; Also, it is treated as seT before other consonants
+; 2. Kale p. 318
+; In the perfect, 'shvi' is optionally considered as 'shu'.
+; 'shvi' is considered 'seT' before 'tha' and other consonants.
+; Based on the table in Kale, this is also the way 'shu' is
+; considered.  Otherwise, 'shu' was 'seT veT' for perfect
+; Kale #508, p. 319. The roots 'svRi', 'suu' amd 'dhuu' admit
+; 'i' necessarily before consonantal terminations except 'tha';
+; before 'tha' they admit 'i' optionally.
+; Note: Kale has these roots mentioned in the general category
+; of 'veT' roots. However, in my general classification of seT-code,
+; 'dhuu' and 'suu' show as 'seT', and 'svRi' shows as 'aniT'
+; Kale #508, p. 319
+; My algorithm gives different results for the following verbs. 
+; So I explicitly state the answer (based on Kale)
+; All these are classified as general 'veT' by Kale, but this
+; often disagrees with my classification
+; 'ta~nj' is stated to be 'same as ta~nch' in Kale dhaatukosha.
+; Thus, I do not include it
+; the case  'nir-kuSh' is handled in function 'conjugation-tab-liT'
+;nir kuSh : veT veT  Handle
+; Kale #515. 'ad', 'Ri', and 'vye' admit 'i' necessarily before 'tha'
+; Since 'ghas' is a substitute for 'ad' in the Perfect, it too 
+; admits 'i' necessarily before 'tha'
+; Kale #512, p. 325
+
+* secondary affixes (tadDita)
+  ref: Kale, sections 337-340
+** tA  (tal)
+  - forms abstract nouns:
+    strItA  (womanhood)
+    puMstA  (manhood)
+    samatA  (sameness)
+  - added to certain words, it has the sense of 'a collection of':
+    grAmatA (collection of villages)
+    janatA  (collection of people)
+    banDutA (collection of relations = kinsfolk)
+    sahAyatA (a collection of companions)
+    gajatA (a collection of elephants)
+
+* a preparation for function comment extraction
+  This changes lines like
+(defun xyz ()
+ ; Kale 1234
+ " bla bla
+ 
+to
+(defun xyz ()
+ " Kale 1234
+   bla bla
+
+
+  (modify-SLmwtot3-reformat
+ "(defun \\([^\n]+\\)\n *;\\([^\n]+\\)\n *\""
+ "(defun \\1\n  \"\\2\n  " 
+ nil nil "sandhi.el")
+
+* (prog-comments "sandhi.el")
+prog: external-sandhi-doc
+args: nil
+comm: Deshpande p. 37.
+  'Sandhi' refers to a process of combining adjoining sounds. This
+  process takes place within a word, as well as when two words occur
+  in a sequence.  The first is called internal sandhi and the second
+  is called external sandhi.  We shall concentrate mostly on the 
+  external sandhi rules.  The rules for external sandhi are OPTIONAL,
+  but in actual usage they are almost always applied.
+ 
+prog: anusvaara-doc
+args: nil
+comm: Deshpande p. 38.
+  1. Final 'm', when followed by a (word beginning with a) consonant, 
+     is changed to 'anusvaara' (M). (The change is not easy to show
+     in pronunciation.)
+  2. Optionally, an 'anusvaara' is further changed to a nasal consonant,
+     which is homorganic with the following consonant.
+  NOTE: An 'anusvaara' does not occur before a vowel or at the end of a
+     sentence.  Also note that it does not change to a homorganic nasal
+     before the consonants 'r sh Sh s h'. Before these it remains an
+     'anusvaara'. Change of 'anusvaara' before 'y l v' is less common.
+     SUBNOTE: the symbol with a dot above a crescent is used in the text
+     above the letters 'y l v' to indicate their nasalization.
+  ejf note: example 'raamam karoti' -> raamaM karoti -> raama~Nkaroti'
+   In the 1st variation, there are 2 words.
+   In the 2nd variation, there is only 1 word.
+   10-08-03: I have not implemented the 2nd (optional) variation.
+ 
+prog: sandhi-pair-skiprefs
+args: nil
+comm: nil
+prog: guna
+args: (sym)
+comm: nil
+prog: vrddhi
+args: (sym)
+comm: nil
+prog: vrddhi1
+args: (sym)
+comm: nil
+prog: lengthen-vowel
+args: (tok)
+comm: nil
+prog: lengthen-diphthong
+args: (tok)
+comm: nil
+prog: shorten-vowel
+args: (tok)
+comm: nil
+prog: corresponding-letter
+args: (x set1 set2)
+comm: nil
+prog: sandhi-internal-diphthong-A
+args: (tokar)
+comm: nil
+prog: sandhi-internal-A-simplevowel
+args: (tokar1 tokar2)
+comm: nil
+prog: de-aspirate
+args: (a)
+comm: given an aspirate character symbol, return
+  the corresponding deaspirated symbol
+prog: aspirate
+args: (a)
+comm: given an unaspirated character symbol, return
+  the corresponding aspirated symbol
+prog: reduplicate
+args: (in &optional wparts)
+comm: nil
+prog: reduplicative-pfx
+args: (tok &optional wparts)
+comm: nil
+prog: reduplicate-join
+args: (base-tok sup)
+comm: nil
+prog: Sandhi-append
+args: (v1 v2 w1 w2 action args)
+comm: nil
+prog: Sandhi-get
+args: (v1 v2)
+comm: nil
+prog: Sandhi-initAll
+args: nil
+comm: nil
+prog: Sandhi-initElt
+args: (prop)
+comm: nil
+prog: Sandhi-init
+args: nil
+comm: nil
+prog: Sandhi-Inverse-init
+args: nil
+comm: nil
+prog: Sandhi-Length-init
+args: nil
+comm: nil
+prog: Sandhi-unload-old
+args: nil
+comm: nil
+prog: Sandhi-unload
+args: nil
+comm: nil
+prog: Sandhi-load
+args: nil
+comm: nil
+prog: Sandhi-load-init
+args: nil
+comm: nil
+prog: sandhi-init-default-plist
+args: (type ref &optional condition)
+comm: nil
+prog: sandhi-init-19
+args: nil
+comm: Kale Section 19.
+  If a simple vowel, short or long, be followed by a similar vowel,
+  short or long, the substitute for them both is the similar
+  long vowel
+prog: sandhi-init-19a
+args: nil
+comm: Kale Section 19a
+  If 'Ri' or 'Li' be followed by a short 'Ri' or 'Li', then
+  short 'Ri' or 'Li' is optionally substituted for both.
+prog: sandhi-init-20
+args: nil
+comm: Kale Section 20
+  When 'a' or 'aa' is followed by 'i', 'u', 'Ri', or 'Li', short or
+  long, the 'guNa' letter corresponding to the latter takes the place
+  of both.
+prog: sandhi-init-21
+args: nil
+comm: Kale Section 21
+  When 'a' or 'aa' is followed by 'e' or 'ai', then 'ai' is substituted
+  for both. When 'a' or 'aa' is followed by 'o' or 'au', then 'au' is 
+  substituted for both. 
+prog: sandhi-init-22
+args: nil
+comm: Kale Section 22
+  When 'i', 'u', 'Ri', or 'Li', short or long, is followed by a
+  dissimilar vowel, then the corresponding semivowel 'y', 'v', 'r' or 'l'
+  is substituted.
+prog: sandhi-init-23
+args: nil
+comm: Kale Section 23
+  'i', 'u', 'Ri', or 'Li', short or long, at the end of a word followed
+  by a dissimilar vowel except in a compound, are optionally not combined
+  and when optionally not combined they are shortened if long.
+prog: sandhi-init-24
+args: nil
+comm: Kale Section 24
+  'e', 'o', 'ai', and 'au', when followed by a vowel, are changed
+  to 'ay', 'av', 'aay', and 'aav' respectively.
+prog: sandhi-init-24a
+args: nil
+comm: Kale Section 24a
+  'y' or 'v' at the end of a word and preceded by 'a' or 'aa' is
+  optionally dropped when followed by a vowel or a soft consonant. Thus
+  'e', 'o', 'ai', and 'au', when at the end of a word and followed by a vowel,
+  are optionally changed to 'a', 'a', 'aa', and 'aa' respectively.
+prog: sandhi-init-25
+args: nil
+comm: Kale Section 25
+  When 'e' or 'o' at the end of a word is followed by 'a', the
+  latter merges into the former and the avagraha sign is sometimes
+  written in its place.
+prog: sandhi-init-36
+args: nil
+comm: 'm' at the end of a word is changed into the anusvara 'M' when
+  followed by a consonant.
+prog: sandhi-init-36a
+args: nil
+comm: Kale Section 36a
+  'm' and 'n', not at the end of a pada (i.e. word), are turned into an
+  anusvaara ('M') when followed by a consonant except a nasal
+  or a semivowel or 'h'.
+  (02-10-03): I also allow this to be a joining sandhi when followed
+  by 'h' this was designed to permit 'sam' upasarga, e.g. saMhRi
+  (05-11-04): I also allow this to be a joining sandhi when followed
+  by 'v' this was designed to permit 'sam' upasarga, e.g. saMvasati,
+  (05-12-04): Allow 'Mn' to represent 'mn' so 'saMnipat' = 'sam ni pat'
+  'm' at the end of a word is changed to anusvaara ('M')
+  when followed by a consonant
+prog: sandhi-visarga-init-1
+args: nil
+comm: Antoine(vol 1) Section 27
+  The visarga sandhi rules depends on the vowel preceding the visarga H
+  and the vowel or soft consonant following:
+  Given any vowel + H + k kh p ph sh Sh s, then H is unchanged
+  Given any vowel + H + ch or Ch, then H becomes sh
+  Given any vowel + H + T or Th, then H becomes Sh
+  Given any vowel + H + t or th, then H becomes s
+  Given any vowel except 'a' 'aa' + H + vowel or soft cons., then 
+   usually H becomes 'r', but there is an exception (ANTOINE 54)
+   Given  v + H + f, where v is any vowel except 'a' or 'aa',
+   and where f is a vowel or soft consonant;
+   if 'f' is not 'r', then H becomes 'r'  and words are joined (ANTOINE 27)
+   if 'f' = 'r', then 
+    (a) v changes to its long form 
+    (b) H is dropped
+    (c) words are not joined
+
+  Given 'aa' + H + vowel or soft cons., then H is dropped
+  Given 'a' + H + soft cons., then 'aH' becomes 'o'
+  Given 'a' + H + any vowel except 'a', then H is dropped
+  Given 'a' + H + 'a', then 'aH' becomes 'o' and the following 'a' is elided.
+prog: sandhi-visarga-init-2
+args: nil
+comm: Antoine(vol 1) Section 15 (optional)
+  When final visarga 'H' is followed by a sibilant ('sh' 'Sh 's'), it
+  is optionally changed to the sibilant.
+prog: sandhi-final-r-init-1
+args: nil
+comm: Antoine(vol 1) Section 54
+  Visarga standing for final 'r' follows the general rules of 
+  visarga-sandhi (Antoine 27) with one exception:
+  Visarga standing for final 'r', even when preceded by 'a' or 'aa', and
+  followed by a vowel or a soft consonant, is changed to 'r'.
+  The following tries to elaborate the actual cases; we are thinking
+  of a word, like 'punar' or 'maatar' that ends in 'r'.
+
+  Given any vowel + r + k kh p ph sh Sh s, then r becomes H
+  Given any vowel + r + ch or Ch, then r becomes sh
+  Given any vowel + r + T or Th, then r becomes Sh
+  Given any vowel + r + t or th, then r becomes s
+  Given any vowel  + r + vowel or soft cons. other than 'r', 
+      then r is unchanged,
+      AND the words are joined! e.g. punar + api -> punarapi
+  Given any vowel v + r + r, then
+    (a) v changes to its long form
+    (b) first r is dropped
+    (c) words are not joined      
+  
+prog: sandhi-final-m-init
+args: nil
+comm: Two words are joined when 
+  the first ends in 'm' or 'n' and
+  the second begins with a vowel.
+prog: sandhi-s-Sh-init
+args: nil
+comm: Antoine(vol 1) Section 45
+  When 's' is preceded by a vowel, except 'a' or 'aa', or by
+  'k' or 'r', and is followed in the same word by 't', 'th',
+  'm', 'y', 'v', or a vowel, then the 's' changes to 'Sh'. This
+  also holds if there be an anusvaara or visarga between the
+  preceding marker (vowel 'k' 'r') and the 's'.
+  Addendum:
+   If the following letter is 't', it is changed to 'T';
+   If the following letter is 'th', it is changed to 'Th'
+ 
+prog: sandhi-cons72-4-init
+args: nil
+comm: Antoine(vol 1) Section 72 - rule 4
+  (4) A final hard consonant becomes soft before a vowel or a soft consonant
+  (5a) This rule does not apply to the final hard consonant of a verbal
+       base or nominal stem followed by a termination or a case-ending
+       beginning with a vowel or a semi-vowel.
+  (5b) This rule does apply, however, to the final hard consonant of a verbal
+       base or nominal stem followed by a termination or a case-ending
+       beginning with a soft consonant other than a semi-vowel.
+  Rule (4) and (5a) apply in both external and internal sandhi. For external
+  sandhi, it appears optional whether the two words are joined or not. Thus,
+  I enable both versions ('join' and 'nojoin')
+prog: sandhi-cons72-6-init
+args: nil
+comm: Antoine(vol 1) Section 72 - rule 6
+  (6) A soft consonant becomes hard before a hard consonant. 
+  (7) This rule does not apply to the final soft aspirate of a
+      verbal root followed by a termination beginning with 't' or 'th'.
+      In that case, the final consonant of the root loses its aspiration
+      and the 't' or 'th' is changed to 'dh.' e.g.,
+      'labh' + 'ta' = 'labdha'
+   Let 'cond1' denote the condition of a final soft aspirate followed
+    by a 't' or 'th'.
+   Let 'cond2' denote the other conditions 
+   We use ref = Antoine72-6 for 'cond2'.
+   We use ref = Antoine72-6a for 'cond1' when the soft consonant is 
+    changed to a hard consonant.
+   We use ref = Antoine72-7 for 'cond1' when the action of (7) is taken.
+   Thus, to form the 'laT' etc for non-a conjugations, 
+   we require that rules with ref = Antoine72-6a be skipped.
+  This rule applies in both external sandhi and internal sandhi. For external
+  sandhi, it appears optional whether the two words are joined or not. Thus,
+  I enable both versions ('join' and 'nojoin')
+prog: sandhi-cons87-1-init
+args: nil
+comm: Kale Section 39(a) and Antoine 87-1
+  Final 'n' (and '~N' and 'N') at the end of a word and
+  preceded by a short vowel and followed by a vowel is doubled
+prog: sandhi-cons87-2-init
+args: nil
+comm: Kale Section ?? and Antoine 87-2
+  Final 'n' followed by 'ch' or 'Ch' is replaced by anusvaara and 'sh'.
+  Final 'n' followed by 'T' or 'Th' is replaced by anusvaara and 'Sh'.
+  Final 'n' followed by 't' or 'th' is replaced by anusvaara and 's'.
+  This appears to be an external sandhi (for joining words)
+ 
+prog: sandhi-cons88-1-init
+args: nil
+comm: Kale Section 28 and Antoine 88-1
+  Any dental coming into contact (i.e., preceding or following) a
+  palatal is changed to the corresponding palatal 
+  (i.e., [t th d dh n] change respectively to [ch Ch j jh ~n],
+   however rule 72-4 is implcitly applied first ,
+   hard1+soft2->soft1+soft2 and soft1+hard2->hard1+hard2,
+   so t + j -> d + j -> j + j).
+  I use only the dentals [t th d dh] and exclude [n l s].
+  I include only the palatals [ch Ch j jh] and exclude [~n y sh].
+ 
+prog: sandhi-cons88-1a-init
+args: nil
+comm: Kale Section 28 and Antoine 88-1a
+  The dental 'n' preceding or following one of the palatals [j jh] is
+  changed to the palatal nasal '~n'.
+ By another rule (36a above), it can also change to anusvara 'M'
+ 
+prog: sandhi-cons88-1b-init
+args: nil
+comm: Kale Section 28 and Antoine 88-1b
+  Any dental preceding the palatal 'sh' is changed to 'ch'.
+  I use only the dentals [t th d dh] and exclude [n l s].
+ 
+prog: sandhi-cons88-2-init
+args: nil
+comm: Kale Section 28 and Antoine 88-2
+  Initial 'sh' preceded by any of the first four letters of a class
+  is optionally changed to 'Ch'.
+  I apply this only to one of the first 4 dentals, in which case
+  the dental also is changed to 'ch', as in 88-1b.
+ 
+prog: sandhi-cons88-3-init
+args: nil
+comm: Kale Section 28 and Antoine 88-3
+  Any dental coming into contact (i.e., preceding or following) a
+  cerebral is changed to the corresponding cerebral (i.e. that cerebral).
+  I use only the dentals [t th d dh] and exclude [n l s].
+  I include only the cerebrals [T Th D Dh] and exclude [ N r Sh].
+  Antoine says (88-4) that dental + 'Sh' is unchanged.
+ 
+prog: sandhi-cons88-3a-init
+args: nil
+comm: Kale Section 28 and Antoine 88-3a
+  Any dental following 'Sh' is changed to the corresponding cerebral.
+  I use only the dentals [t th d dh] and exclude [n l s].
+  whose corresponding cerebrals are [T Th D Dh].
+ 
+prog: sandhi-cons88-5a-init
+args: nil
+comm: Kale Section 28 and Antoine 88-5a
+  A dental among  [t th d dh] followed by  'l' is changed to 'l'.
+ 
+prog: sandhi-cons88-5b-init
+args: nil
+comm: Kale Section 31 and Antoine 88-5b
+  The dental 'n' followed by  'l' is changed to nasalized 'l'.
+  I am unsure what is meant by 'nasalized l'. Both Antoine and Kale
+  seem to used a symbol (dot over semicircle) above the devanagari
+  for 'l' to represent this, but Antoine does not explain this.
+
+prog: sandhi-Kale33-init
+args: nil
+comm: Kale Section 33
+  'h' coming after any of the first four letters of a class is
+  optionally changed to the soft aspirate (4th letter) of that class.
+ 
+prog: sandhi-Kale30-init
+args: nil
+comm: Kale Section 30  (06-25-03)
+  If a consonant, except 'r' or 'h', coming at the end of a word,
+  be followed by a nasal, the nasal of its class is optionally
+  substituted for it.
+  If the nasal belongs to a termination, the change is necessary:
+   'vaak' + 'maya' -> va~Nmaya
+  NOTES: (1) The rule is implemented as 'optional'.
+  (2) The words are joined.
+  (3) Only consonants in the five 'vargas' are counted; it is
+      otherwise unclear what 'the nasal of its class' would be
+ 
+prog: sandhi-n-N-ifirst
+args: nil
+comm: nil
+prog: sandhi-n-N-ifirst-set
+args: (ifirst)
+comm: nil
+prog: sandhi-n-N
+args: (tokar-in)
+comm:  Antoine 17
+  When, in the same word, 'n' is preceded by 'Ri', 'RI', 'r', or 'Sh' and
+  followed by a vowel or by 'n', 'm', 'y', or 'v', then it is changed to
+  'N' even when there are letters between the preceding 'Ri' (etc) and 'n'
+  provided these intervening letters be vowel, gutturals, labials, 
+  'y', 'v', h', or 'M' (anusvaara).
+prog: separate-symbol-pair
+args: (sympair &optional pairsep-str)
+comm: nil
+prog: sandhi-pair-skiprefs-set
+args: (new)
+comm: nil
+prog: sandhi-pair-main
+args: (tokar1 tokar2 n1 n2 v1 v2 x1 x2 condition action)
+comm: nil
+prog: sandhi-pair
+args: (t1 t2 condition action)
+comm: nil
+prog: sandhi-one-final-cons
+args: (tokar)
+comm: Antoine 72-1. No Sanskrit word can end with more than one
+  consonant. A final compound consonant must be reduced to its
+  first member. In particular, this applies to Nominative Singular
+  ending 's' joined to nouns ending in consonants.
+  Routine returns nil unless some change is made in tokar.
+prog: sandhi-legalise-final-cons
+args: (tokar)
+comm: Antoine 72.3. A Sanskrit word (i.e., a verb with its terminations
+  or a nominal stem with its case endings) can end only with a vowel or
+  with one of the eight following consonants: k T t p ~N n m H.
+  All other final consonants must be reduced to one of these eight.
+  1. 'h' and palatals are reduced to 'k' or 'T' :
+      vaach -> vaak ; samraaj -> samraaT
+  2. Cerebrals are reduced to 'T' : praavRiSh -> praavRiT
+  3. Dentals are reduced to 't' : suhRid -> suhRit
+  4. Labials are redueced to 'p' : kakubh -> kakup
+  5. 's' and 'r' are reduced to H: kavis -> kaviH ; pitar -> pitaH
+ 
+prog: sandhi-single-main
+args: (tokar1 condition)
+comm: nil
+prog: sandhi-single
+args: (t1 &rest args)
+comm: nil
+prog: sandhi-avagraha-separate
+args: (tokar)
+comm: nil
+prog: sandhi-avagraha-separate-test
+args: (sym1)
+comm: nil
+prog: sandhi-separate
+args: (symin)
+comm: nil
+prog: sandhi-separate-str
+args: (s1)
+comm: nil
+prog: sandhi-separate-main
+args: (symin)
+comm: nil
+prog: sandhi-separate2
+args: (symin1 symin2 &optional optional)
+comm: nil
+prog: sandhi-separate2-str
+args: (s1 s2 &optional optional)
+comm: nil
+prog: sandhi-separate-final-M
+args: (symin1)
+comm: nil
+prog: sandhi-separate-final-r
+args: (symin1)
+comm: nil
+prog: sandhi-separate3-str
+args: (string &optional optional)
+comm: nil
+prog: examine-Sandhi-Inverse-nojoin
+args: nil
+comm: nil
+prog: gunate-final-vowel
+args: (tok &optional vrddhiP parts)
+comm: nil
+
+* upasargas
+** standard upasargas
+   pra ; upasarga ; forward
+   paraa ; upasarga ; away , back ; Apte (also nominal prefix)
+   apa ; upasarga ; away
+   sam ; upasarga ; together , fully
+   anu ; upasarga ; after , along
+   ava ; upasarga ; down
+   nis ; upasarga ; away , out
+   nir ; upasarga ; away , out;  for 'nis' before vowels, soft cons.
+   dus ; upasarga ; bad , hard
+   dur ; upasarga ; bad , hard  ; for 'dus' before vowels, soft cons.
+   vi ; upasarga ; apart , without
+   aa ; upasarga ; unto , back
+   ni ; upasarga ; under
+   adhi ; upasarga ; near , unto
+   api ; upasarga ; near
+   ati ; upasarga ; over , beyond
+   su ; upasarga ; good , well
+   ut ; upasarga ; up , forth  ; ut
+   abhi ; upasarga ; towards
+   prati ; upasarga ; towards , against
+   pari ; upasarga ; around
+   upa ; upasarga ; near
+** non-standard upasargas
+  2-05-05 : these are words that at one time or another I have
+   seen treated as if they were upasargas:
+   alam  ; upasarga ; enough
+   tiras ; upasarga ; across
+   aaviSh ; upasarga ; evidently ; with kRi
+   pariSh ; upasarga ; around ; with kRi
+   saMs   ; upasarga ; sam-before-kRi
