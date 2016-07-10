@@ -145,11 +145,14 @@
    (causal-base dhaatu class pada upasargas Eng-def)
  )
 )
-(defun causal-base (dhaatu &optional class pada upasargas  Eng-def)
+(defun causal-base (dhaatu &optional class pada upasargas  Eng-def dbg)
  ; returns a list of token arrays
  ; 'pada' is unused.
  ; 'Eng-def' is used via 'class10-base'
  (let (tok b b1 ans)
+  (when dbg
+   (fol-msg (format "causal-base %s\n" (list dhaatu class pada upasargas  Eng-def)))
+  )
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (cond
    ((setq ans (kale-610 dhaatu class upasargas ))) ;anomalous

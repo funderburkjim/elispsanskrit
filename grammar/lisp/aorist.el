@@ -1131,17 +1131,26 @@
      (setq aorist-sym (intern-soft (format "lu~N%s" x)))
 ;     (fol-msg (format "chk: %s\n" fname))
      (setq thisans (funcall (intern-soft fname) upasargas class pada dhaatu))
-     (when thisans
+     (when nil
+      (fol-msg (format "conjugation-tab-aorist. thisans=%s\n" thisans))
+     )
+     (when thisans 
       (when (and aorist-passive-P
 ;		 (not (member class '(10 11)))
 	    )
 	; get 3S independently
        (let (thisans0)
 	(setq thisans0 (aorist-passive-3S upasargas class pada dhaatu))
+        (when nil
+         (fol-msg (format "conjugation-tab-aorist. thisans0=%s\n" thisans0))
+        )
 	(aset thisans 0 thisans0)
        )
       )
       (if (not ans) (setq ans thisans) (setq ans (join-arrays ans thisans)))
+      (when nil
+      (fol-msg (format "conjugation-tab-aorist. ans=%s\n" ans))
+      )
       (when aorist-passive-P
        ; Kale 597(e), refers 596(b)
        (let (n btab endings i x y z w tok ending wold w1)
@@ -1954,6 +1963,10 @@
       (setq y (augment-a x)) ; prefix augment 'a'
       
       (setq z (aorist-join y 'aniT ending dhaatu 'S i-insert))
+      (when nil
+       (fol-msg (format "aorist4: i=%s, y=%s, ending=%s => %s\n" i y ending z))
+      )
+
       (setq w (sym-without-space z))
       (aset btab i w)
       (when xalt
@@ -2283,6 +2296,9 @@
  (let (ans tok lc pc b ending ntok x y z w)
   (setq ending [i])
   (setq tok aorist-tok)
+  (when nil
+   (fol-msg (format "aorist-passive-3S %s, aorist-tok=%s\n" (list upasargas class pada dhaatu) aorist-tok))
+  )
   (setq ntok (if (arrayp tok) (length tok) 0))
   (when (< 0 ntok)
    (setq tok (copy-sequence aorist-tok))
@@ -2523,6 +2539,9 @@
    ((and (equal efirst 'dh) (vowel-P ylast) (not (member ylast '(a aa i))))
     ; 3rd special sandhi rule for future (Antoine2#110)
     (setq ans (vconcat y [Dh] (substring ending 1)))
+    (when nil
+     (fol-msg (format "aorist-join: %s + %s => %s\n" y ending ans))
+    )
    )
    ((and (member efirst '(t th))
          (setq ans (aorist-join1-t-th y ending dhaatu)))
@@ -3756,7 +3775,7 @@
   ((and (equal dhaatu 'i) (equal upasargas '(adhi)))
    '([a p i p] [j ii g a p] [j ii g a m])) ; study, last=remember
   ((equal dhaatu 'iirShy) '([e r Sh i Sh y] [e r Sh y i y]))
-  ((equal dhaatu 'uuRNu) [o r N uu n a v])
+  ((equal dhaatu 'uuRNu) [o r N uu n a v])  ; uurNu ?
   ((equal dhaatu 'gaN) '([j a g a N] [j ii g a N]))
   ((equal dhaatu 'ghraa) '([j i gh r a p] [j i gh r i p]))
   ((equal dhaatu 'chakaas) '([ch ii ch a k aa s] [ch a ch a k aa s]))

@@ -30,7 +30,7 @@ newer versions of Emacs.
   Elisp symbol literal).  
   If, for some reason, a function encounters an internal error (usually due
   to receiving parameters of the wrong form), a confusing 'backtrace' panel
-  will be shown.  You can clikc in the 'backtrace' panel and close that 
+  will be shown.  You can click in the 'backtrace' panel and close that 
   buffer.  Emacs is a huge program with many features that novice users
   find confusing.
 * construct-subanta-base 
@@ -61,6 +61,8 @@ in validation.el.  Spelling is in SLP1. 'nil' represents a missing value
 [["1" "rAmaH" "rAmO" "rAmAH"] ["v" "rAma" "rAmO" "rAmAH"] ["2" "rAmam" "rAmO" "rAmAn"] ["3" "rAmeRa" "rAmAByAm" "rAmEH"] ["4" "rAmAya" "rAmAByAm" "rAmeByaH"] ["5" "rAmAt" "rAmAByAm" "rAmeByaH"] ["6" "rAmasya" "rAmayoH" "rAmARAm"] ["7" "rAme" "rAmayoH" "rAmezu"]]
 
 Question: what the the known values of the 'form', e.g. "noun" ?
+Answer: in documentation string for SL-dtab-extract in lisp/validation.el
+
 (SL-dtab-construct "gacCat" "prap1" "m")
 [["1" "gacCan" "gacCantO" "gacCantaH"] ["v" "gacCan" "gacCantO" "gacCantaH"] ["2" "gacCantam" "gacCantO" "gacCataH"] ["3" "gacCatA" "gacCadByAm" "gacCadBiH"] ["4" "gacCate" "gacCadByAm" "gacCadByaH"] ["5" "gacCataH" "gacCadByAm" "gacCadByaH"] ["6" "gacCataH" "gacCatoH" "gacCatAm"] ["7" "gacCati" "gacCatoH" "gacCatsu"]]
 

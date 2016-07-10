@@ -1,0 +1,193 @@
+../grammar/lisp/aorist.el:   The radical vowel does not undergo guna or vrddhi strengthening,
+../grammar/lisp/aorist.el:     - guna is substituted for final 'i ii u uu'
+../grammar/lisp/aorist.el:    This 'i' does not take its guna substitute. In the P, these roots
+../grammar/lisp/aorist.el:      before which the penultimate 'u' takes guna. e.g. 'abodhi'
+../grammar/lisp/aorist.el: b. In the Parasmaipada, the vowel is strenghthened by guna in the cases:
+../grammar/lisp/aorist.el:    of the following cases (rather, the guna substitute is used)
+../grammar/lisp/aorist.el: e. In the Atmanepada, the radical vowel takes its guna substitute.
+../grammar/lisp/aorist.el:    A final vowel and short medial vowel take guna in the atmanepada
+../grammar/lisp/aorist.el:    The function 'gunate-final-vowel' takes these circumstances into
+../grammar/lisp/aorist.el:    account, so it is used. 'aorist-gunate-final-vowel' does not
+../grammar/lisp/aorist.el:  optionally takes guna substitute). Also, it optionally remains unchanged
+../grammar/lisp/aorist.el:   - the penultimate (prosodially) short vowel takes its guna substitute
+../grammar/lisp/aorist.el:   so their penultimate 'a' cannot take guna or vrddhi substitute;
+../grammar/lisp/aorist.el:     ; when before a termination causing guna or vrddhi
+../grammar/lisp/aorist.el:      ; Kale 538: gunate final 'Ri' 'RI' or the 'Ri' in 'dRish'
+../grammar/lisp/aorist.el:      (setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:       (setq x (aorist-gunate-final-vowel b t)) ; vrddhi. Kale 566a
+../grammar/lisp/aorist.el:         (setq x (aorist-gunate-final-vowel b)) ; gunate. Kale 566b
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b)) ; guna. Kale 574d
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b)) ; guna. Kale 574d
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b t)) ; vrddhi. Kale 574a
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b t)) ; vrddhi. Kale 574a
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b t)) ; vrddhi. Kale 574a
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b t)) ; vrddhi. Kale p. 354 ex.
+../grammar/lisp/aorist.el:	 (setq xalt (aorist-gunate-final-vowel b t)) ; vrddhi. Kale 574c
+../grammar/lisp/aorist.el:	 (setq x (aorist-gunate-final-vowel b)) ; guna. Kale 574b
+../grammar/lisp/aorist.el:         (setq x (gunate-final-vowel b)) ; Only applies to final and short
+../grammar/lisp/aorist.el:	  ; and since 'x' has been gunated, we can force the lengthening
+../grammar/lisp/aorist.el:    (setq x (vconcat (substring tok 0 -2) (guna pc) (substring tok -1)))
+../grammar/lisp/aorist.el:    ; the 'u' is lengthened, rather than gunated (Kale example p. 304)
+../grammar/lisp/aorist.el:       (setq tok2 (gunate-final-vowel tok 't)) ;vrddhi
+../grammar/lisp/aorist.el:    ; forms : an 'i' form with 'Ri' (gunated), and two forms without
+../grammar/lisp/aorist.el:    ; 'i' (one with 'Ri' gunated, and one with 'ra' instead of 'Ri').
+../grammar/lisp/aorist.el:	; Kale 582. The root 'Ri' is gunated
+../grammar/lisp/aorist.el:	(setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:	; Kale 582. Final 'Ri' preceded by conjunct consonant is gunated
+../grammar/lisp/aorist.el:	(setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:	; There is no gunation, so nothing to do
+../grammar/lisp/aorist.el:	; don't gunate final 'aa' - leave it unchanged
+../grammar/lisp/aorist.el:	 (setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:      ; No guna but final vowel changed to 'ii'
+../grammar/lisp/aorist.el:      ; causing guna or vrddhi.
+../grammar/lisp/aorist.el:      ; guna or vrddhi.  
+../grammar/lisp/aorist.el:       (setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:      (if strong (setq b (gunate-final-vowel b)))
+../grammar/lisp/aorist.el:      (if strong (setq b (gunate-final-vowel b)))
+../grammar/lisp/aorist.el:;       (setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:;       (setq b1 (gunate-final-vowel [bh a r j]))
+../grammar/lisp/aorist.el:      ; no gunation. Thus, no change to 'b' is required here
+../grammar/lisp/aorist.el:      ; thus, no gunation - no change to 'b' is required here
+../grammar/lisp/aorist.el:      ; no gunation as an option.
+../grammar/lisp/aorist.el:       (setq b1 (gunate-final-vowel b))
+../grammar/lisp/aorist.el:      ; the default situation. gunate the vowel
+../grammar/lisp/aorist.el:      (setq b (gunate-final-vowel b))
+../grammar/lisp/aorist.el:(defun aorist-gunate-final-vowel (tok &optional vriddhi-flag)
+../grammar/lisp/aorist.el:     (setq v1 (guna v))
+../grammar/lisp/causal.el:  For several roots, the vowel takes its guna substitute:
+../grammar/lisp/causal.el:  For the following roots, the vowel is gunated, then they also
+../grammar/lisp/causal.el:    (setq b (list (vconcat (gunate-final-vowel tok) [a y])))
+../grammar/lisp/causal.el:    (setq b (vconcat (gunate-final-vowel tok) [a y]))
+../grammar/lisp/causal.el:    (setq b (list (vconcat (gunate-final-vowel tok) [a y])))
+../grammar/lisp/causal.el:    (setq b (gunate-final-vowel tok))
+../grammar/lisp/construct.el:;    guna or vrddhi substitute takes place before it
+../grammar/lisp/gram1.el: (init-vs-helper "a" 'guna "a")    (init-vs-helper "aa" 'guna "a") 
+../grammar/lisp/gram1.el: (init-vs-helper "i" 'guna "e")    (init-vs-helper "ii" 'guna "e") 
+../grammar/lisp/gram1.el: (init-vs-helper "u" 'guna "o")    (init-vs-helper "uu" 'guna "o") 
+../grammar/lisp/gram1.el: (init-vs-helper "R^i" 'guna "a r")    (init-vs-helper "R^I" 'guna "a r") 
+../grammar/lisp/gram1.el: (init-vs-helper "L^i" 'guna "a l")   (init-vs-helper "L^I" 'guna "a l")
+../grammar/lisp/gram1.el:; (defun guna (tok)
+../grammar/lisp/gram1.el:;  (if (simplevowel-P tok) (sanget tok 'guna) (vector tok))
+../grammar/lisp/gram2-future.el:     take guna.  The verbs of the 10th conjugation keep the base of the
+../grammar/lisp/gram2-future.el:   short vowel take their guna substitute.
+../grammar/lisp/gram2-future.el:    forbidden with them.  See #463. 'dRish' takes 'guna' only.
+../grammar/lisp/gram2-future.el:     the final vowel and the short medial vowel take guna.
+../grammar/lisp/gram2-future.el:  before a termination causing guna or vrddhi.
+../grammar/lisp/gram2-future.el:  before a termination causing guna or vrddhi.
+../grammar/lisp/gram2-future.el:    guna or vrddhi change in the root.
+../grammar/lisp/gram2-future.el:      to guna: 'smRi' -> smaryaat
+../grammar/lisp/gram2-future.el:;       (setq tok2 (gunate-final-vowel tok 't)) ;vrddhi
+../grammar/lisp/gram2-future.el:    ; forms : an 'i' form with 'Ri' (gunated), and two forms without
+../grammar/lisp/gram2-future.el:    ; 'i' (one with 'Ri' gunated, and one with 'ra' instead of 'Ri').
+../grammar/lisp/gram2-future.el:    ; the 'u' is lengthened, rather than gunated (Kale example p. 304)
+../grammar/lisp/gram2-future.el:	; Kale 582. The root 'Ri' is gunated
+../grammar/lisp/gram2-future.el:	(setq b (gunate-final-vowel b))
+../grammar/lisp/gram2-future.el:	; Kale 582. Final 'Ri' preceded by conjunct consonant is gunated
+../grammar/lisp/gram2-future.el:	(setq b (gunate-final-vowel b))
+../grammar/lisp/gram2-future.el:       (t ; otherwise, no guna or vrddhi for benedictive P
+../grammar/lisp/gram2-future.el:	; There is no gunation, so nothing to do
+../grammar/lisp/gram2-future.el:	; don't gunate final 'aa' - leave it unchanged
+../grammar/lisp/gram2-future.el:	 (setq b (gunate-final-vowel b))
+../grammar/lisp/gram2-future.el:      ; No guna but final vowel changed to 'ii'
+../grammar/lisp/gram2-future.el:      ; causing guna or vrddhi.
+../grammar/lisp/gram2-future.el:      ; guna or vrddhi.  
+../grammar/lisp/gram2-future.el:       (setq b (gunate-final-vowel b))
+../grammar/lisp/gram2-future.el:      (if strong (setq b (gunate-final-vowel b)))
+../grammar/lisp/gram2-future.el:      (if strong (setq b (gunate-final-vowel b)))
+../grammar/lisp/gram2-future.el:;       (setq b (gunate-final-vowel b))
+../grammar/lisp/gram2-future.el:;       (setq b1 (gunate-final-vowel [bh a r j]))
+../grammar/lisp/gram2-future.el:      ; no gunation. Thus, no change to 'b' is required here
+../grammar/lisp/gram2-future.el:      ; thus, no gunation - no change to 'b' is required here
+../grammar/lisp/gram2-future.el:      ; no gunation as an option.
+../grammar/lisp/gram2-future.el:       (setq b1 (gunate-final-vowel b))
+../grammar/lisp/gram2-future.el:      ; the default situation. gunate the vowel
+../grammar/lisp/gram2-future.el:      (setq b (gunate-final-vowel b))
+../grammar/lisp/gram2-liT.el:        ; guna or vrddhi
+../grammar/lisp/gram2-liT.el:       (setq b3s (gunate-final-vowel bs t)) ; vrddhi
+../grammar/lisp/gram2-liT.el:	(gunate-final-vowel bs) (gunate-final-vowel bs t))) ; guna or vrddhi
+../grammar/lisp/gram2-liT.el:	 (gunate-final-vowel bs) ; guna
+../grammar/lisp/gram2-liT.el:      ; the guna-strengthened one are used.
+../grammar/lisp/gram2-liT.el:       (setq bv (gunate-final-vowel b t)) ; vrddhi
+../grammar/lisp/gram2-liT.el:       (setq bg (gunate-final-vowel b)) ; guna
+../grammar/lisp/gram2-liT.el:       (setq bth b) ;  don't gunate in 2S
+../grammar/lisp/gram2-liT.el:      (let (bth b1s b3s vrddhi guna)
+../grammar/lisp/gram2-liT.el:	(setq vrddhi (gunate-final-vowel b t))
+../grammar/lisp/gram2-liT.el:       (setq guna (gunate-final-vowel b))
+../grammar/lisp/gram2-liT.el:       (setq b1s (list guna vrddhi)) ; guna or vrddhi
+../grammar/lisp/gram2-liT.el:       (setq bth guna) ; guna
+../grammar/lisp/gram2-liT.el:	;NOTE: Without this code, the 'guna' substitute is the only one
+../grammar/lisp/gram2-liT.el:        (setq bs (gunate-final-vowel b))
+../grammar/lisp/gram2-liT.el:    ; its vowel is optionally not gunated before a strong termination
+../grammar/lisp/gram2-liT.el: ;       the radical does not take guna or vrddhi
+../grammar/lisp/gram2-liT.el: ;      the radical does take guna
+../grammar/lisp/gram2-liT.el: ; take guna, except the short 'i' of 'vid.
+../grammar/lisp/gram2-liT.el:    (setq ans (sym-without-space (gunate-final-vowel tok)))
+../grammar/lisp/gram2-liT.el:(defun unused-perfect-gunate-final-vowel (tok &optional vriddhi-flag)
+../grammar/lisp/gram2-liT.el: ; same as aorist-gunate-final-vowel
+../grammar/lisp/gram2-liT.el:     (setq v1 (if vriddhi-flag (vrddhi v) (guna v)))
+../grammar/lisp/gram2-liT.el:		(gunate-final-vowel tok vriddhi-flag)   ))
+../grammar/lisp/gram2-liT.el:;  (setq ans (gunate-final-vowel tok vriddhi-flag))
+../grammar/lisp/gram2-liT.el:    (setq ans (sym-without-space (gunate-final-vowel tok)))
+../grammar/lisp/gram2.el:   ; 1.  A final vowel takes guna
+../grammar/lisp/gram2.el:    (setq v (guna (elt v 0))))
+../grammar/lisp/gram2.el:   ; 3. A short medial vowel takes guna
+../grammar/lisp/gram2.el:    (setq v (guna (elt v 0))))
+../grammar/lisp/gram2.el:   ;  as guna is already applied by case 1. However, it could happen
+../grammar/lisp/gram2.el: ; guna is "e" or "o", this may require a sandhi change
+../grammar/lisp/gram2.el: ;   - the penultimate short vowel (except 'a') takes the guna substitute
+../grammar/lisp/gram2.el:    ; 4. penultimate short vowel (other than A) takes guna
+../grammar/lisp/gram2.el:    (setq v (guna (elt v 0)))
+../grammar/lisp/gram2.el:    ; 4. Vowel (long) RI is modified (when it does not take guna or vrddhi)
+../grammar/lisp/gram2.el:   ;  to roots of conjugations 1,4,6,10. It applies when guna
+../grammar/lisp/gram2.el:   ;  to roots of conjugations 1,4,6,10. It applies when guna
+../grammar/lisp/gram2.el:   ;#45.2 Final and short medial vowels take guna in the strong forms
+../grammar/lisp/gram2.el:   ; #48: Final 'aa' does not take guna (it remains 'aa' in all forms)
+../grammar/lisp/gram2.el:      (setq v (guna v0))
+../grammar/lisp/gram2.el:      ; only gunate when v0 is a short simple vowel AND
+../grammar/lisp/gram2.el:       (setq v (guna v0))
+../grammar/lisp/gram2.el:      ;#59. mRij takes vrddhi (not guna) in strong form
+../grammar/lisp/gram2.el:     ; (if it were regular, then the 'u' would be gunated.)
+../grammar/lisp/gram2.el:     ;#52. 'shii' (2A) (to lie down) takes guna all through. The 3P of
+../grammar/lisp/gram2.el:      (setq base s-atok) ; gunated form
+../grammar/lisp/gram2.el:	; in la~N 3P, gunate before adding ending [u H]
+../grammar/lisp/gram2.el:	  (setq base (vconcat atok0 (guna a)))
+../grammar/lisp/gram2.el:  ; take guna in reduplication
+../grammar/lisp/gram2.el:   (setq rtok (gunate-final-vowel rtok))
+../grammar/lisp/gram2.el:   ;#69.2 Final and short medial vowels take guna in the strong forms   
+../grammar/lisp/gram2.el:   (setq s-atok (gunate-final-vowel dtok))
+../grammar/lisp/gram2.el:   ; the strong bases keep 'aa' (rather than gunate to 'a')
+../grammar/lisp/gram2.el:     ; (b) a final 'i' 'u' or 'Ri' (short or long) takes guna
+../grammar/lisp/gram2.el:	(setq a (guna a)) ; now a vector
+../grammar/lisp/gram2.el:     ; (a) take guna in reduplication (done earlier in routine)
+../grammar/lisp/gram2.el:     ; (b) the radical vowel does not take guna before strong
+../grammar/lisp/kta.el:  - 'jaagRi' gunates its final vowel: with 'pra' -> 'prajaagarya'
+../grammar/lisp/kta.el:   - any penultimate vowel but 'a' generally takes guna.
+../grammar/lisp/kta.el:      ; satisfies kale-463-P, but is gunated
+../grammar/lisp/kta.el:      (setq bases (list (gunate-final-vowel tok)))
+../grammar/lisp/kta.el:      (setq bases (list tok (gunate-final-vowel tok))) ; Kale 746(a)
+../grammar/lisp/kta.el:      (setq bases (list (gunate-final-vowel tok))) ; Kale 746
+../grammar/lisp/kta.el:      (setq bases (list tok (gunate-final-vowel tok))) ; Kale 746(a)
+../grammar/lisp/kta.el:      (setq bases (list (gunate-final-vowel tok))) ; Kale 746
+../grammar/lisp/kta.el:    (setq ans (vconcat (gunate-final-vowel tok) ending))
+../grammar/lisp/kta.el:    ; causing guna or vrddhi.
+../grammar/lisp/kta.el:    ; guna or vrddhi.
+../grammar/lisp/kta.el:    (setq base (gunate-final-vowel tok))
+../grammar/lisp/kta.el:    (setq base (gunate-final-vowel tok))
+../grammar/lisp/kta.el:    (setq base (gunate-final-vowel tok))
+../grammar/lisp/kta.el:    (setq base (gunate-final-vowel tok))
+../grammar/lisp/kta.el:    (setq base (gunate-final-vowel tok t)) ; vrddhi
+../grammar/lisp/kta.el:;    (setq base (gunate-final-vowel tok t))
+../grammar/lisp/kta.el:     (setq base (gunate-final-vowel tok t)) ; vrddhi
+../grammar/lisp/kta.el:     (setq base (gunate-final-vowel tok)) ; guna
+../grammar/lisp/sandhi.el:(defun guna (sym)
+../grammar/lisp/sandhi.el: (if (simplevowel-P sym) (sanget sym 'guna) (vector sym))
+../grammar/lisp/sandhi.el:    (setq v (guna v2)) ; a tokarr
+../grammar/lisp/sandhi.el:      (setq w1 (guna v2)) ; a tokarr
+../grammar/lisp/sandhi.el:(defun gunate-final-vowel (tok &optional vrddhiP parts)
+../grammar/lisp/sandhi.el: (let (ans gunaP)
+../grammar/lisp/sandhi.el:   ; when vrddhiP is nil (or absent) gunaP = t (so we gunate vowel)
+../grammar/lisp/sandhi.el:   ; when vrddhiP is 't', gunaP = nil (so we vrddhate vowel)
+../grammar/lisp/sandhi.el:  (setq gunaP (not vrddhiP))
+../grammar/lisp/sandhi.el:      (setq v (if gunaP (guna v0) (vrddhi v0)))
+../grammar/lisp/sandhi.el:      ; only gunate when v0 is a short simple vowel AND
+../grammar/lisp/sandhi.el:       (setq v (if gunaP (guna v0) (vrddhi v0)))

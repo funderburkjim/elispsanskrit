@@ -1,0 +1,26 @@
+sanload...
+init-sanskrit1...
+init-sanskrit1 begins...Mon Jun 27 21:59:51 2016
+BEGIN construct-init...
+fol-ob-init
+init-transliteration
+init-Sangram
+init-sets
+init-properties
+init-vowelstrength
+init-semivowels
+Sandhi-load-init
+Sandhi 6378
+Sandhi-Inverse-join 4552
+Sandhi-Inverse-nojoin 1474
+Sandhi-Inverse 5060
+Sandhi-Length 98
+Subanta-initAll
+init-sup
+init-vsup
+irregs-init
+END construct-init
+init-sanskrit1 ends...Mon Jun 27 21:59:52 2016
+line=dityavah : S m : <MW=ditya-vah,118797,1>
+error((args-out-of-range [] -1 0))
+error in file-init @ line= 'dityavah : S m : <MW=ditya-vah,118797,1>'

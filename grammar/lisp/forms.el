@@ -2203,6 +2203,7 @@
      (setq outputs nil)
      ;(setq tab (downcase (buffer-substring (point) (+ (point) npfx))))
      (setq line (current-line))
+     (fol-msg (format "line=%s\n" line))
      (setq nin (1+ nin))
      (when (and (<= n1 nin) (<= nin n2))
      (when dbg
@@ -2294,6 +2295,8 @@
     (setq subwords (vector subanta))
    )
    (setq lword (elt (substring subwords -1) 0)) ; string
+   ; Feb 28, 2016. Argument 'subanta' in next seems wrong. 
+   ; Shouldn't it be 'lword' ?
    (setq forms (s-file-init-genform  subanta fg))
    (when dbg
     (fol-msg (format "forms: %s %s -> %s\n" subanta fg forms)))
@@ -2448,7 +2451,7 @@
        )
       )
       (when (not dtab)
-       (fol-msg (format "Warning %s %s %s: %s %s\n"
+       (fol-msg (format "Warning2 %s %s %s: %s %s\n"
 	 subanta fg mw-word (elt ans 0) g))
       )
      )
@@ -2498,6 +2501,7 @@
    (SL-construct-subanta1 <subanta> <g> <f>)
  "
  (let (ans tmp1 isubanta lexinfo forms form gender tmp ans formx)
+ ;(fol-msg (format "s-file-init-genform: %s\n" (list subanta fg)))
    (setq tmp1 fg) ; a string
    (setq isubanta (translate-SLP1-ITRANS (intern subanta)))
    (setq lexinfo (list 'S (intern tmp1)))
@@ -3692,11 +3696,13 @@
   t
  )
 )
-(defun v-file-init-alt1-pre-helper (root class voice tenses &optional dbg)
+(defun v-file-init-alt1-pre-helper (root class voice tenses &optional dtypein dbg)
  "get conjugations per 'tenses'
   Returns  list of strings, or nil
   root, class and voice are string
   tenses is a list of symbols
+  June 24, 2016. added 'dtype' as optional. Unless nil, dtype should have
+  value 'c', meaning causal.
  "
 (let (err outline outlines)
   (when dbg 
@@ -3705,21 +3711,31 @@
   )
   (setq err nil)
   (condition-case err
-   (let (tense ctabs ctab root1 class1 voice1 tense1 outline-pfx)
+   (let (tense ctabs ctab root1 class1 voice1 tense1 outline-pfx dtype)
     (setq root1 (intern root))
     (setq voice1 (intern voice))
     (setq class1 (string-to-number class))
+    ;(fol-msg (format "chk1\n"))
+    (if (string= dtypein "c")
+     (setq dtype 'c) ; symbol
+     (setq dtype nil)
+    )
+    ;(fol-msg (format "chk2\n"))
     (while tenses
      (setq tense (car tenses))
      (setq tenses (cdr tenses))
-     (setq ctabs (SL-conjtab root1 class1 voice1 nil tense nil))
+     (setq ctabs (SL-conjtab root1 class1 voice1 nil tense dtype dbg))
      ; Could ctabs be nil? If so, need a warning
      (when (not ctabs)
       (fol-msg (format "v-file-init-alt1-pre-helper: No conjugation for %s\n"
-               (list root1 class1 voice1 tense)))
+               (list root1 class1 voice1 tense dtype)))
      )
      (if (not (listp ctabs)) (setq ctabs (list ctabs)))
-     (setq outline-pfx (format ":%s %s %s%s" root tense class voice))
+     (if (equal dtype 'c)
+      (setq dtype " c")
+      (setq dtype "")
+     )
+     (setq outline-pfx (format ":%s %s %s%s%s" root tense class voice dtype))
      (while ctabs
       (setq ctab (car ctabs))
       (setq ctabs (cdr ctabs))
@@ -4056,19 +4072,21 @@ and the voice and class provided in
    (setq roots (cdr roots))
    (setq nin (1+ nin))
    (when (and (<= n1 nin) (<= nin n2))
-    (let (multi-class class10 class0 cvs cv voices classid)
+    (let (multi-class class10 class0 cvs cv voices classid root2)
      (setq outputs nil)
      ; determine multi-class, class10, class0 
      ; cvs is only a temporary variable for this section
      (setq multi-class "")
      (setq root1 (intern root))
+     ; Must convert root1 to ITRANS form reduplicative-liT-P to work 
+     (setq root2 (translate-SLP1-ITRANS root1))
      (setq classes (plist-get plist root1))
      (while classes
       (setq class (car classes)) ; a string
       (setq classes (cdr classes))
       (setq class (string-to-number class))
       (when (and (not (member class cvs))
-		(reduplicative-liT-P root1 class)
+		(reduplicative-liT-P root2 class)
 	     )
        (if cvs
         (setq multi-class (concat multi-class "/" (format "%s" class)))
@@ -4262,5 +4280,126 @@ and the voice and class provided in
   (with-current-buffer bufout (save-buffer 0))
   (kill-buffer bufout)
   t
+ )
+)
+; July 10, 2016
+(defun v-file-init-alt1-aorvar (intab indir outtab outdir n1 n2 &optional dbg)
+" Read from file like construct/dcpforms-MW.txt, and write aorist varieties
+  for each line to output outdir/outtab
+  Use the the voice and class provided in 
+  dcpforms-MW.txt
+  Sample records are:
+  (Ap 5 P <MW=Ap,35737,1>)
+  (As 2 A <MW=As,39445,1>)
+  (BA 2 A <MW=vy-ati-BA,262287,1>)
+  Output is constructed by routine v-file-init-alt1-aorvar-helper.
+ "
+ (let (filein bufin bufout fileout outputs output nin nout
+       words root class pada dict voice tenses)
+  (setq nin 0)
+  (setq nout 0)
+  (setq filein (sangram-filename intab indir))
+  (setq bufin (find-file-noselect filein 't)) ; 't suppresses warning
+  (setq fileout (sangram-filename outtab outdir))
+;  (fol-msg (format "fileout=%s\n" fileout))
+  (setq bufout (find-file-noselect fileout 't)) ; 't suppresses warning
+  (with-current-buffer bufout ; empty fileout, in case it already existed
+   (erase-buffer)
+  )
+  (with-current-buffer bufin
+   (goto-char 1)
+   (while (< (point) (point-max))
+    (let (line root class pada err)
+     (setq outputs nil)
+     (setq line (current-line))
+     (setq nin (1+ nin))
+     (when (and (<= n1 nin) (<= nin n2))
+     (when dbg
+      (fol-msg (format "%s line=%s\n" intab line)))
+     (condition-case err
+      (progn  
+       ; as in v-file-init2a
+       ;  skip initial and final parens in current line
+       (setq line (substring line 1 -1))
+       (setq words (gen-word-list line " ")) ; space for dcpforms-MW.txt
+       (setq root (elt words 0))
+       (setq class (elt words 1))
+       (setq pada (elt words 2))
+       (setq dict (string-trim (elt words 3))) ; unused
+       ; as in v-file-init2a-helper. Change Pada to 'voice', per Scharf
+       (setq voice (if (equal pada "P") "a" "m"))
+       ; next words -> ; ["MW" "gaRi-mat" "83017" "1"]
+       (setq outputs (v-file-init-alt1-aorvar-helper root class voice dbg))
+       (if (not outputs)
+        (fol-msg (format "error@line: %s\n" line))
+       )
+      )
+      (error
+       (fol-msg (format "error(%s)\n" err))
+       (fol-msg (format "error in file-init @ line= '%s'\n" line))
+      )
+     )
+     )
+     ; append output to bufout
+     (when outputs
+      (setq nout (1+ nout))
+     )
+     (with-current-buffer bufout
+      (while outputs
+       (setq output (car outputs)) 
+       (setq outputs (cdr outputs))
+       (insert output)
+      )
+     )
+    )
+    (forward-line)
+   )
+  )
+  (kill-buffer bufin)
+  (with-current-buffer bufout (save-buffer 0))
+  (kill-buffer bufout)
+  t
+ )
+)
+(defun v-file-init-alt1-aorvar-helper (root class voice &optional dbg)
+ "get aorist varieties
+  Returns  list of strings, or nil
+  root, class and voice are string
+  root is spelled with SLP1 transliteration
+ "
+(let (err outline outlines)
+  (when dbg 
+   (fol-msg (format "v-file-init-alt1-aorvar-helper: %s\n"
+		  (list root class voice tenses)))
+  )
+  (setq err nil)
+  (condition-case err
+   (let (aorvars dhaatu root1 class1 voice1 upasargas outline-pfx )
+    (setq root1 (intern root))
+    (if (equal voice "a")
+     (setq voice1 'P)
+     (setq voice1 'A)
+    )
+    (setq class1 (string-to-number class))
+    (setq dhaatu (translate-SLP1-ITRANS root1))
+    (setq upasargas nil)
+     (setq aorvars (aorist-varieties dhaatu class1 voice1 nil))
+     (when (not aorvars)
+      (fol-msg (format "v-file-init-alt1-aorvar-helper: No aorist varieties for %s\n"
+               (list root1 class1 voice1 )))
+     )
+     (if (not (listp aorvars)) (setq aorvars (list aorvars)))
+     (setq outline-pfx (format ":%s %s %s%s" root "aorvars" class voice ))
+      (setq outline (format "%s:%s\n" outline-pfx aorvars))
+      (setq outlines (append outlines (list outline))) ; add to end of outlines
+     
+   
+  )
+  (error1
+   (fol-msg (format "v-file-init-alt1-aorvar helper: error1(%s)\n" err))
+   (fol-msg (format "inputs: %s\n" (list root class voice)))
+  )
+  )
+  (if err nil outlines)
  )
 )

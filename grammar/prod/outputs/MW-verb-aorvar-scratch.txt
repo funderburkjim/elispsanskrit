@@ -1,0 +1,24 @@
+sanload...
+init-sanskrit1...
+init-sanskrit1 begins...Sun Jul 10 15:16:30 2016
+BEGIN construct-init...
+fol-ob-init
+init-transliteration
+init-Sangram
+init-sets
+init-properties
+init-vowelstrength
+init-semivowels
+Sandhi-load-init
+Sandhi 6378
+Sandhi-Inverse-join 4552
+Sandhi-Inverse-nojoin 1474
+Sandhi-Inverse 5060
+Sandhi-Length 98
+Subanta-initAll
+init-sup
+init-vsup
+irregs-init
+ans=[puuShaa puuShaNau puuShaNaH puuShaNam puuShaNau puuShNaH puuShNaa puuShabhyaam puuShabhiH puuShNe puuShabhyaam puuShabhyaH puuShNaH puuShabhyaam puuShabhyaH puuShNaH puuShNoH puuShNaam (puuShNi puuShaNi) puuShNoH puuShasu puuShan puuShaNau puuShaNaH]
+END construct-init
+init-sanskrit1 ends...Sun Jul 10 15:16:31 2016

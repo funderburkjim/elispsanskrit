@@ -1098,10 +1098,11 @@
   ans
  )
 )
-(defun construct-conjtab-base1a (tense dhaatu class pada upasargas voice)
+(defun construct-conjtab-base1a (tense dhaatu class pada upasargas voice &optional dbg)
  (let (keyval)
+  
   (setq keyval
-    (construct-conjbase1a dhaatu class pada upasargas voice)
+    (construct-conjbase1a dhaatu class pada upasargas voice dbg)
    )
   (when keyval
    (when (equal tense 'la~N)
@@ -1119,18 +1120,22 @@
  )
 )
 (defun construct-conjtab1a (dhaatu class pada upasargas tense 
-   &optional voice derived-type)
+   &optional voice derived-type &optional dbg)
  (let ()
+  (when dbg
+   (fol-msg (format "construct-conjtab1a %s\n" (list dhaatu class pada upasargas tense 
+    voice derived-type)))
+  )
   (cond
    ((equal derived-type 'CAUSAL)
-    (causal-conjtab1a dhaatu class pada upasargas tense voice)
+    (causal-conjtab1a dhaatu class pada upasargas tense voice dbg)
    )
    ((member tense '(laT la~N loT vidhili~N))
-    (construct-conjtab1a-spcltense dhaatu class pada upasargas tense voice)
+    (construct-conjtab1a-spcltense dhaatu class pada upasargas tense voice dbg)
    )
    ((member tense '(liT-p liT-r lRiT lRi~N luT aashiirli~N
 		    lu~N1 lu~N2 lu~N3 lu~N4 lu~N5 lu~N6 lu~N7))
-    (construct-conjtab1a-gentense dhaatu class pada upasargas tense voice)
+    (construct-conjtab1a-gentense dhaatu class pada upasargas tense voice dbg)
    )
    (t
     nil
@@ -1139,85 +1144,93 @@
  )
 )
 
-(defun construct-conjtab1a-spcltense (dhaatu class pada upasargas tense voice)
+(defun construct-conjtab1a-spcltense (dhaatu class pada upasargas tense voice &optional dbg)
  (let (bases b ctabs ctab)
-  (setq bases (construct-conjbase1a dhaatu class pada upasargas voice))
+  (setq bases (construct-conjbase1a dhaatu class pada upasargas voice dbg))
+  (when dbg
+   (fol-msg (format " construct-conjtab1a-spcltense %s\nbase=%s\n" (list dhaatu class pada upasargas tense voice ) bases))
+  )
   (if (not (listp bases)) (setq bases (list bases)))
   (while bases
    (setq b (car bases))
    (setq bases (cdr bases))
    (if (arrayp b) (setq b (sym-without-space b)))
    (setq ctab
-    (conjugation-tab b tense class pada dhaatu voice))
+    (conjugation-tab b tense class pada dhaatu voice dbg))
 ;   (setq ctabs (append-if-new ctabs ctab))
    (if ctab (setq ctabs (construct-join-arrays ctabs ctab)))
   )
   ctabs
  )
 )
-(defun construct-conjtab1a-gentense (dhaatu class pada upasargas tense voice)
-; (fol-msg (format "construct-conjtab1a-gentense: %s %s\n" tense voice))
+(defun construct-conjtab1a-gentense (dhaatu class pada upasargas tense voice &optional dbg)
+  (when dbg
+   (fol-msg (format "construct-conjtab1a-gentense %s\n" (list dhaatu class pada upasargas tense voice )))
+  )
  (let (ctabs lc lcnum)
   (setq lc (substring (symbol-name tense) -1)) ; last letter, as string
   (setq lcnum (string-to-number lc)) ; 0 except for lu~N1..7
   (cond
    ((equal lc "p") ; periphrastic perfect
-    (if (periphrastic-liT-P dhaatu class)
+    (if (periphrastic-liT-P dhaatu class dbg)
      (setq ctabs
-      (conjugation-tab-liT-p upasargas class pada dhaatu voice))
+      (conjugation-tab-liT-p upasargas class pada dhaatu voice dbg))
     )
    )
    ((equal lc "r") ; reduplicative perfect
     (if (reduplicative-liT-P dhaatu class)
      (setq ctabs
-	 (conjugation-tab-liT-r upasargas class pada dhaatu voice))
+	 (conjugation-tab-liT-r upasargas class pada dhaatu voice dbg))
      )
     )
     ((member lcnum '(1 2 3 4 5 6 7)) ; aorist variety
      (setq ctabs
-      (conjugation-tab-aorist upasargas class pada dhaatu lcnum voice))
+      (conjugation-tab-aorist upasargas class pada dhaatu lcnum voice dbg))
     )
     ((equal tense 'lRiT)
      (setq ctabs
-       (conjugation-tab-lRiT upasargas class pada dhaatu voice))
+       (conjugation-tab-lRiT upasargas class pada dhaatu voice dbg))
     )
     ((equal tense 'lRi~N)
        (setq ctabs
 	(conjugation-tab-lRi~N
-	 upasargas class pada dhaatu voice))
+	 upasargas class pada dhaatu voice dbg))
       )
       ((equal tense 'luT)
        (setq ctabs
 	(conjugation-tab-luT
-	 upasargas class pada dhaatu voice))
+	 upasargas class pada dhaatu voice dbg))
       )
       ((equal tense 'aashiirli~N)
        (setq ctabs
 	(conjugation-tab-aashiirli~N
-	 upasargas class pada dhaatu voice))
+	 upasargas class pada dhaatu voice dbg))
       )
      )
   ctabs
  )
 )
-(defun construct-conjbase1a (dhaatu class pada upasargas &optional voice)
+(defun construct-conjbase1a (dhaatu class pada upasargas &optional voice dbg)
  (let (base)
+  (when dbg
+   (fol-msg (format " construct-conjbase1a %s\n" (list dhaatu class pada upasargas voice )))
+  )
   (cond
    ((equal voice 'PASSIVE)
-    (setq base (construct-conjpassbase1a dhaatu class pada upasargas))
+    (setq base (construct-conjpassbase1a dhaatu class pada upasargas dbg))
     (if (not (listp base)) (setq base (list base)))
    )
    (t
     (cond
      ((member class '(1 4 6 10))
-      (setq base (class-a-base dhaatu class pada))
+      (setq base (class-a-base dhaatu class pada dbg))
       (setq base (mapcar 'sym-without-space base))
      )
      ((member class '(2))
       (setq base (list upasargas)) ; ??? 06-10-04 What weirdness is this?
      )
      (t
-      (setq base (class-b-base dhaatu class pada upasargas))
+      (setq base (class-b-base dhaatu class pada upasargas dbg))
       (setq base (mapcar 'sym-without-space base))
      )
     )
@@ -1279,7 +1292,7 @@
  )
 )
 (defun causal-conjtab1a (dhaatu class pada upasargas tense 
-   &optional voice)
+   &optional voice dbg)
  (let (ans)
   (setq ans (cond
    ((member tense '(laT la~N loT vidhili~N))
@@ -1406,6 +1419,9 @@
   (setq thefunc (intern-soft (format "conjugation-tab-%s" tense)))
   (setq bases (causal-bases-gentense
     dhaatu class pada upasargas tense voice))
+  (when nil
+   (fol-msg (format "bases=%s\n" bases))
+  )
   ; now, get the conj tables
   (when (member tense '(liT-p luT lRiT lRi~N aashiirli~N lu~N3))
    (setq causalclass 11)
@@ -1424,7 +1440,9 @@
       (funcall thefunc upasargas causalclass pada base voice)
      )
     )
-;    (fol-msg (format "ctab=%s\n" ctab))
+    (when nil
+     (fol-msg (format "base=%s => ctab=%s\n" base ctab))
+    )
     (setq ctabs (construct-join-arrays ctabs ctab))
    )
   )
@@ -1501,8 +1519,7 @@
      )
      (setq ctab3s (elt ctab 0))
      (when (listp ctab3s)
-      (fol-msg (format "warning: dropping extra lu~N3: %s %s -> %s\n"
-		       dhaatu pada ctab3s))
+      ;(fol-msg (format "warning: dropping extra lu~N3: %s %s -> %s\n" dhaatu pada ctab3s))
       (setq ctab3s (car ctab3s))
      )
      (setq tok (car (ITRANS-parse-words-1 (symbol-name ctab3s))))
@@ -1533,7 +1550,9 @@
     )
    )
   )
-
+  (when nil
+   (fol-msg (format " from causal-base1b, bases=%s\n" bases))
+  )
   ; In some cases, Kale shows an alternate form with the causal 'ay'
   ; dropped
   (cond
@@ -1596,7 +1615,7 @@
  )
 )
 
-(defun construct-seT-code1a (dhaatu class pada upasargas &optional dtype)
+(defun construct-seT-code1a (dhaatu class pada upasargas &optional dtype dbg)
 ; (fol-msg (format "construct-seT-code1a: %s\n" dhaatu))
 ; This is from Antoine2#134. Compare Kale#458
 ; (1) First general rule.
@@ -1638,6 +1657,9 @@
 ;  vah:  from aniT to veT (ref Whitney, example Scharf)
 ; shii: removed from 'seT-exceptions', put in 'veT-exceptions' (Whitney)
  (let (ans seT-exceptions aniT-exceptions veT-exceptions)
+ (when dbg
+  (fol-msg (format "construct-seT-code1a %s\n" (list dhaatu class pada upasargas  dtype)))
+ )
   (setq seT-exceptions '(daridraa shri shvi Dii yu ru nu snu kShu
 	                 kShNu uurNu jaagRi vRi))
   (setq aniT-exceptions '(shak pach much rich vach vich sich prachCh tyaj
@@ -1685,14 +1707,17 @@
       )
     )
   )
-  (when nil ; dbg
+  (when dbg ; dbg
    (fol-msg (format "construct-seT-code1a : %s %s %s %s %s -> %s\n"
 	     dhaatu class pada upasargas dtype ans))
+  )
+  (when nil
+   (fol-msg (format "construct-seT-code1a %s => %s\n" (list dhaatu class pada upasargas dtype) ans))
   )
   ans
  )
 )
-(defun construct-seTPERF-code1a (dhaatu class pada upasargas)
+(defun construct-seTPERF-code1a (dhaatu class pada upasargas &optional dbg)
 ; it is assumed that the 8 exceptional roots (kRi ... shru) are
 ; handled elsewhere. This routine does not check for them
 ; Kale #495. Compare Antoine2#109
@@ -1745,6 +1770,9 @@
 ; Kale #512, p. 325
 
  (let (tok n lc ans0 ans seT-codes ans1 ans2 exception-plist)
+  (when dbg
+   (fol-msg (format "construct-seTPERF-code1a %s\n" (list dhaatu class pada upasargas)))
+  )
   ; ans1 pertains to all endings other than 'tha'
   ; ans2 pertains to the ending 'tha'
   (setq exception-plist '(
@@ -1801,12 +1829,13 @@
   (setq ans1 'seT)
   (setq ans2 'seT) ; some overrides to this below
 ;  (setq seT-codes (sanget2 dhaatu '(dhaatu seT-code)))
-  (setq seT-codes (construct-seT-code1a dhaatu class pada upasargas))
+  (setq seT-codes (construct-seT-code1a dhaatu class pada upasargas nil dbg))
   (setq seT-codes (solution seT-codes))
   (if (not (listp seT-codes)) (setq seT-codes (list seT-codes)))
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (setq lc (elt (substring tok -1) 0)) ; last character
   (setq n (length tok))
+  ;(fol-msg (format "check: sew_codes=%s, tok=%s,lc=%s,n=%s\n" seT-codes tok lc n))
   (cond
    ((and (member 'aniT seT-codes) (equal lc 'Ri) (not (equal dhaatu 'Ri)))
     (setq ans2 'aniT)
@@ -1818,6 +1847,7 @@
 	 (< 1 n)
 	 (equal (elt (substring tok -2) 0) 'a))
     (setq ans2 'veT)
+    ;(fol-msg (format "check: ans2=%s\n" ans2))
    )
    ; 08-02-03 : ends with : consonant(s) + 'a' +  Compound final consonant
    ((and (member 'aniT seT-codes)
@@ -1831,6 +1861,7 @@
    )
   )
   (setq ans (list ans1 ans2))
+  ;(fol-msg (format "check: ans=%s\n" ans))
   (let (excep)
    (setq excep (plist-get exception-plist dhaatu))
    (when excep (setq ans excep))
@@ -1838,7 +1869,7 @@
   ans
  )
 )
-(defun construct-conjpassbase1a (dhaatu class pada upasargas)
+(defun construct-conjpassbase1a (dhaatu class pada upasargas &optional dbg)
 ; Kale 591.
 ; (a) 'ya' is added to the root, which is weak, i.e., no
 ;    guna or vrddhi substitute takes place before it
@@ -1878,6 +1909,10 @@
 ; by (a) forming the class10 conjugational base,
 ;    (b) changing the ending 'ay' to 'y'
  (let (ans tok base)
+  (when dbg
+   (fol-msg (format "construct-conjpassbase1a %s\n" (list dhaatu class pada upasargas )))
+  )
+
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (cond
    ((member dhaatu '(khan jan tan san))
@@ -1930,7 +1965,7 @@
 ;     (setq base (vconcat (substring tok 0 -1) [aa]))
 ;    )
    (t
-    (setq base (benedictive-base dhaatu class 'P upasargas))
+    (setq base (benedictive-base dhaatu class 'P upasargas nil dbg))
     ; This will be a list of length 2 only in case of
     ;Kale 585. final 'aa' (original or substituted), if it be
     ; preceded by a conjunct consonant, is changed to 'e' optionally:
@@ -2590,11 +2625,14 @@
   ans
  )
 )
-(defun construct-prespart1a-alt (dhaatu class pada upasargas)
+(defun construct-prespart1a-alt (dhaatu class pada upasargas &optional dbg)
  (let (ans praatipadikas dtab gender genders thisans ps p dtabs)
+  (when dbg
+   (fol-msg (format "construct-prespart1a-alt %s\n" (list dhaatu class pada upasargas)))
+  )
   (setq praatipadikas
 	(construct-prespart-base-alt dhaatu class pada upasargas))
-  (when nil ; dbg
+  (when dbg
    (fol-msg (format "construct-prespart1a-alt: praatipadikas=%s\n"
 		    praatipadikas))
   )
@@ -4337,7 +4375,7 @@
 
 (defun construct-subanta (intab &optional indir outtab outdir dbg)
  ; 01-30-04: assume input transliteration form is SLP.
- ; Output is constructed with translateration form SLP.
+ ; Output is constructed with transliteration form SLP.
  (let (nrec irec recs fields nfields procname ok subantas fileout bufout
        bufin filein)
   (setq procname "construct-subanta")
@@ -4480,6 +4518,7 @@
 )
 (defun convert-subanta-lexinfo (subanta lexinfo)
  (let (forms form gender)
+  ;(fol-msg (format "convert-subanta-lexinfo: subanta=%s, lexinfo=%s\n" subanta lexinfo))
     (let (formin tmp formsin forminfo)
      (setq forminfo (cdr lexinfo))
      (setq formin (elt forminfo 0))
@@ -4523,6 +4562,7 @@
 )
 (defun subanta-convert-form (subanta formin)
  (let (tok len lc form type subanta-type-data monosyllabicp)
+  ;(fol-msg (format "subanta-convert-form subanta=%s, formin=%s\n" subanta formin))
   (setq subanta-type-data (init-subanta-type-data))
   (setq form formin)
   (setq type (plist-get subanta-type-data subanta))
@@ -4974,7 +5014,7 @@
   )
  )
 )
-(defun subanta-base (citation-sym gender form)
+(defun subanta-base (citation-sym gender form &optional dbg)
  (let (praatipadikas citation-tok n gf ans len )
   (setq gf (list gender form))
   (setq citation-tok
@@ -5202,6 +5242,7 @@
  )
 )
 (defun construct-subanta1 (subanta gen-or-mtype form &optional dbg)
+ ;(setq dbg t)
  (when dbg
   (fol-msg (format "construct-subanta1: %s %s %s\n"
 		   subanta gen-or-mtype form))
@@ -5223,7 +5264,7 @@
   )
   (if (and (equal gen-or-mtype 'ADJ) (equal form 'at))
    (setq info (construct-subanta2-ADJ-at subanta gen-or-mtype form)) 
-   (setq info (construct-subanta2 subanta gen-or-mtype form))
+   (setq info (construct-subanta2 subanta gen-or-mtype form dbg))
   )
   (when dbg
    (fol-msg (format "construct-subanta1: info=%s\n" info))
@@ -5232,6 +5273,7 @@
    (setq type 'NOUN)
    (setq type gen-or-mtype)
   )
+  
   (while info
    (setq info1 (car info))
    (setq info (cdr info))
@@ -5265,18 +5307,23 @@
    )
    (setq thisans (list gender dtab))
    (setq ans (append ans thisans))
+   (when dbg
+    (fol-msg (format "construct-subanta1\n  thisans=%s\n  ans=%s\n\n" thisans ans))
+   )
   )
   (setq ans (list (list type form) ans))
  )
 )
-(defun construct-subanta2 (citation-sym  genderin form)
+(defun construct-subanta2 (citation-sym  genderin form &optional dbg)
  (let (genders gender iform irregs x-new other-info praatipadikas)
-  (when nil ; dbg
-   (fol-msg (format "construct-subanta2: %s %s %s\n"
-		    citation-sym  genderin form))
+  (when dbg ; dbg
+   (fol-msg (format "construct-subanta2: %s %s %s\n" citation-sym  genderin form))
   )
   (setq praatipadikas
-     (subanta-base citation-sym genderin form))
+     (subanta-base citation-sym genderin form dbg))
+  (when dbg
+   (fol-msg (format "construct-subanta2: %s %s %s, praatipadikas=%s \n" citation-sym  genderin form praatipadikas))
+  )
   (when (and (equal citation-sym 'bhavat) (equal genderin 'PRON))
     (setq praatipadikas 'bhav)
   )
@@ -5302,7 +5349,7 @@
    (setq x-new (list praatipadikas gender form irregs))
    (setq other-info (append-if-new other-info x-new))
   )
-  (when nil ; dbg
+  (when dbg ; dbg
    (fol-msg (format "construct-subanta2: %s %s %s -> %s\n"
 		    citation-sym  genderin form other-info))
   )
@@ -5355,12 +5402,16 @@
   SL-form (if present) is a string
 
  "
+ ;(setq dbg t)
  (when dbg
   (fol-msg (format "SL-construct-subanta1: %s %s %s\n"
 		   SL-subanta SL-gender SL-form))
  )
  (let (subanta gender form ans1 ans temp1 temp x)
   (setq subanta (translate-SLP1-ITRANS SL-subanta))
+  (when nil
+   (fol-msg (format "SL-subanta=%s -> subanta=%s\n" SL-subanta subanta))
+  )
   (setq gender (intern (upcase (symbol-name SL-gender))))
   (if (equal gender 'ADJT) (setq gender 'ADJt))
   (setq form SL-form)
@@ -5799,13 +5850,16 @@
 
 )
 
-(defun SL-conjtab (root class evoice upas sltense dtype)
+(defun SL-conjtab (root class evoice upas sltense dtype &optional dbg)
  "arguments are symbols, except 'class', which is a number.
   dtype = derived root type. Meaningful values are:
    c = causal
  "
  (let (dhaatu pada upasargas tenses voice derived-type ans err
 	      tense ctab)
+  (when dbg
+   (fol-msg (format "SL-conjtab %s\n" (list root class evoice upas sltense dtype)))
+  )
   (setq dhaatu (translate-SLP1-ITRANS root))
   (setq upasargas (mapcar 'translate-SLP1-ITRANS upas))
   (cond 
@@ -5830,7 +5884,7 @@
    (setq upasargas nil)
    (setq ctab
       (construct-conjtab1a dhaatu class pada upasargas tense voice
-			   derived-type)
+			   derived-type dbg)
    )
    (setq ctab (solution ctab))
    (setq ctab (mapcar-LE 'translate-ITRANS-SLP1 ctab))
@@ -5928,7 +5982,7 @@
    ((equal evoice 'm)
     (setq bases (construct-prespart-base-alt-A-1 ctabelt dhaatu class))
     (setq ans (mapcar 'translate-ITRANS-SLP1 bases))
-    (when t ; dbg
+    (when nil
      (fol-msg (format "chk: %s %s %s -> %s %s\n"
 		     ctabelt dhaatu class bases ans))
     )

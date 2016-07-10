@@ -766,6 +766,7 @@
   mathi  mathoH mathiShu
   manthaaH manthaanau manthaanaH]
 )
+
 (subanta-irreg 'RibhukShin'M-in 'name-of-Indra
  ; Kale p. 79. Like 'pathin'
  ; but does NOT insert the 'n' in the first five inflections.
@@ -865,6 +866,7 @@
   ans
  )
 )
+
 (subanta-irreg 'puuShan 'M-an 'sun
  ; Kale#111, p. 111. 
  ; 'puuShan', 'aryaman', and nouns ending in 'han' lengthen their 'a'
@@ -872,6 +874,7 @@
  ; the 'n' of 'han' is changed to 'N' after 'h'.
  (let (ans i)
   (setq ans (declension-general-an 'puuShan 'puuSh 'M 'an nil))
+  (fol-msg (format "ans=%s\n" ans))
   (aset ans 1 'puuShaNau)
   (aset ans 2 'puuShaNaH)
   (aset ans 3 'puuShaNam)
@@ -882,6 +885,7 @@
   ans
  )
 )
+
 (subanta-irreg 'aryaman 'M-an 'deity-name
  ; Kale#111, p. 111. 
  ; 'puuShan', 'aryaman', and nouns ending in 'han' lengthen their 'a'
@@ -961,6 +965,7 @@
   ans
  )
 )
+
 (subanta-irreg 'anehas 'M-1cons 'time
  ;Kale#109, p.68. The nom. sing of the m. nouns
  ; 'anehas' (time), 'purudaMsas' (name of Indra), and 
@@ -1191,6 +1196,7 @@
 (dhaatu-irreg 'kRi 'loT-8-P 'do
  [karotu kurutaam kurvantu kuru kurutam kuruta karavaaNi karavaava karavaama]
 )
+
 (dhaatu-irreg 'kRi 'vidhili~N-8-P 'do
  [kuryaat kuryaataam kuryuH kuryaaH kuryaatam kuryaata kuryaam kuryaava kuryaama]
 )

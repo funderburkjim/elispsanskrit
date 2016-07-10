@@ -15,6 +15,9 @@
      citation-sym praatipadika gender form irregs))
  )
  (setq praatipadika (solution praatipadika))
+ (when dbg 
+  (fol-msg (format "praatipadika = %s\n" praatipadika))
+ )
  (cond
   ((equal form 'ach)
    (declension-general-cons citation-sym praatipadika gender 'ach-ADJ irregs dbg)
@@ -155,13 +158,16 @@
 (defvar declension-general-save nil)
 
 (defun declension-general (praatipadika gender form irregs &optional dbg)
+ ;(setq dbg t)
  (when dbg
   (fol-msg (format "declension-general: %s %s %s %s\n"
  		  praatipadika gender form irregs))
  )
  (let (ans sups)
   (setq sups (sup-get gender form)) ; an array
-;  (fol-msg (format "chk0: %s %s %s\n" gender form sups))
+  (when dbg
+   (fol-msg (format "declension-general:gender=%s, form=%s, sups=%s\n" gender form sups))
+  )
   (cond 
    (sups
     (let (base-tok n i  sup irreg)
@@ -239,7 +245,7 @@
    ((member last '(p ph b bh))
     (declension-1cons-p citation-sym gender irregs dbg)
    )
-   ((member last '(k k  g gh))
+   ((member last '(k k  g gh)) ; looks like a bug. should be (k kh g gh)
     (declension-1cons-k citation-sym gender irregs dbg)
    )
    (t
@@ -251,9 +257,18 @@
 )
 (defun declension-1cons-finish (base-toks gender irregs &optional dbg)
  (let (ans sups n)
+  (when dbg
+   (fol-msg (format "declension-1cons-finish %s\n:" (list base-toks gender irregs)))
+  )
   (and
    ; 1
    (setq sups (sup-get gender '1cons)) ; an array
+   (progn
+    (when dbg
+     (fol-msg (format "declension-1cons-finish: sups=%s\n" sups))
+    )
+    t
+   )
    (setq n (length sups))
    (let (i sup irreg base-tok)
     (setq ans (make-vector n nil))
@@ -513,6 +528,7 @@
     ; SL. Not sure why this is done
     (setq y1 (list y (vconcat (substring y 0 -1) [~N])))
   )
+  ;(fol-msg (format "x=%s, y=%s, y1=%s\n" x y y1))
   (setq base-toks (vector
        y1 x x
        x x x
@@ -523,7 +539,7 @@
        x x y
        y1 x x
   ))
-  (setq ans (declension-1cons-finish base-toks gender irregs))
+  (setq ans (declension-1cons-finish base-toks gender irregs dbg))
   ans
  )
 )
@@ -706,6 +722,8 @@
        x x z
        y x x
       ))
+   ;(fol-msg (format "chk: v=%s, z=%s\nbase-toks=%s\n" v z base-toks))
+
    )
   )
   (setq ans (declension-1cons-finish base-toks gender irregs))
@@ -748,7 +766,7 @@
      (symbol-name citation-sym)
     )
     ; Kale #94(c) p. 56.
-    ; The 'Sh' of 'daDhRiSh' (bold or impudent man) is changed to 'k'
+    ; The 'Sh' of 'dadhRiSh' (bold or impudent man) is changed to 'k'
     ; 'kSh' of such words as 'vipakSh' is changed to 'k'
     ; NOTE: SL has 'k' for masc., 'T' for neut.
     (if (equal gender 'N)
@@ -923,7 +941,7 @@
        x x y
        y x1 y2
   ))
-  (setq ans (declension-1cons-finish base-toks gender irregs))
+  (setq ans (declension-1cons-finish base-toks gender irregs dbg))
   ans
  )
 )
@@ -966,7 +984,7 @@
        x x z
        y x x
       ))
-  (setq ans (declension-1cons-finish base-toks gender irregs))
+  (setq ans (declension-1cons-finish base-toks gender irregs dbg))
   (cond
    ((and (string-match "div$" (symbol-name citation-sym))
 	 (member gender '(M F))
@@ -1535,7 +1553,7 @@
 ; note: citation-sym IS used, praatipadikas is not used
  (let (procname ans sups base-toks n ptok wtok stok mtok ptok1 wtok1 stok1)
   (setq procname (format "declension-general-%s" form))
-  (when nil
+  (when dbg
    (fol-msg (format "%s: %s %s %s %s\n"
 		   procname citation-sym praatipadikas gender form))
   )
@@ -1607,6 +1625,12 @@
     (setq wtok wtok1)
     t ; (so encompassing 'and' does not fail)
    )
+   (if dbg
+    (progn 
+     (fol-msg (format "wtok=%s, wtok1=%s, ptok=%s, ptok1=%s\n" wtok wtok1 ptok ptok1))
+     t)
+    t  ; sot the 'and' succeeds
+   )
    ; 3
    (cond 
     ((equal gender 'M)
@@ -1658,7 +1682,12 @@
      nil
     )
    )
-   
+   (if dbg
+    (progn
+     (fol-msg (format "declension-general-an: base-toks = %s, sups=%s\n" base-toks sups))
+    )
+    t ; for enclosing and
+   )
    (let (i sup irreg base-tok val)
     (setq ans (make-vector n nil))
     (setq i 0)
@@ -1921,7 +1950,8 @@
  (let (procname ans sups base-toks n ptok wtok stok mtok ptok1 wtok1
 	citation-tok len last sym1 sym2)
   (setq procname (format "declension-general-M-uu"))
-  (when nil;dbg
+  ;(setq dbg t)
+  (when dbg
     (fol-msg (format "%s: %s %s %s %s %s\n" procname
 		    citation-sym praatipadikas gender form irregs))
   )
@@ -1932,6 +1962,9 @@
   (setq last (elt (substring citation-tok -1) 0))
   (setq praatipadikas
      (subanta-base citation-sym gender form))
+  (when dbg
+    (fol-msg (format "%s: praatipadikas = %s\n" procname praatipadikas))
+  )
   (if (and (not (listp praatipadikas)) (symbolp praatipadikas))
     (setq praatipadikas (list praatipadikas praatipadikas))
   )
@@ -1943,6 +1976,9 @@
    (setq sym2 (elt praatipadikas 1))
    (setq sym2 (solution (sym-delete-last sym2)))
    (setq praatipadikas (list sym1 sym2))
+   (when dbg
+    (fol-msg (format "%s: praatipadikas = %s\n" procname praatipadikas))
+   )
   )
   (when nil;dbg
    (fol-msg (format "%s: %s %s %s %s %s\n" procname
@@ -2145,7 +2181,14 @@
 (defun declension-general-1 (base-tok sup)
  (cond 
   ((listp sup)
-   (mapcar (lambda (x) (declension-join base-tok x)) sup))
+   (let (ans)
+    (setq ans (mapcar (lambda (x) (declension-join base-tok x)) sup))
+    (when (not sup)  ; sup is empty list, and ans also is nil
+     ;(fol-msg (format "declension-general-1(%s,%s) => %s\n" base-tok sup ans))
+    )
+    ans
+   )
+  )
   ((listp base-tok)
    (mapcar (lambda (x) (declension-join x sup)) base-tok))
   (t (declension-join base-tok sup))
@@ -2153,7 +2196,9 @@
 )
 (defun declension-join (base-tok sup)
  (let (ans len)
-;  (fol-msg (format "base-tok=%s, sup=%s\n" base-tok sup))
+  (when nil ;(equal base-tok nil)
+   (fol-msg (format "base-tok=%s, sup=%s\n" base-tok sup))
+  )
   (sandhi-pair-skiprefs-set (list 'Antoine72-4))
   (setq ans (cond
    ((solution (sandhi-pair base-tok sup 'internal 'join)))
@@ -2194,9 +2239,12 @@
   (when nil; dbg
    (fol-msg (format "chkx: %s %s -> " base-tok ans))
   )
+  (when nil; dbg
+   (fol-msg (format "declension-join 1: %s + %s => %s\n" base-tok sup ans))
+  )
   (setq ans (or (sandhi-single ans) ans))
-  (when nil ; dbg
-   (fol-msg (format "%s\n" ans))
+  (when nil; dbg
+   (fol-msg (format "declension-join 2: %s + %s => %s\n" base-tok sup ans))
   )
   (sandhi-n-N-ifirst-set nil)
   ans
@@ -2462,7 +2510,7 @@
 ; The declension tables so formed are joined, element-wise,
 ; to form the answer (an array)
 ; Each symbol ends in 'y'; 
-;  to get the decelension table in a particular gender for
+;  to get the declension table in a particular gender for
 ;  the future participle from one of these symbols, say x,  ending in 'y':
 ;     (say, x = 'gamiShy)
 ;   (a) (setq p (pres-part-praatipadikas (sym-concat x 'ante) 6 'P x))
@@ -3165,7 +3213,7 @@
 ; 'senaany' is used before vowel endings
  (let (procname ans sups base-toks n ptok wtok stok mtok ptok1 wtok1)
   (setq procname (format "declension-general-M-ii"))
-  (when t ;dbg
+  (when nil ;dbg
    (fol-msg (format "%s: %s %s %s %s %s\n" procname
 		    citation-sym praatipadikas gender form irregs))
   )

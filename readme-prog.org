@@ -1,0 +1,640 @@
+
+Notes to programmers aiming to understand the Elisp code, or to convert this
+code to another form.  My main objective is to convert to a Python code base.
+Begun Feb 13, 2016.
+* ---------------------------------------------------------------------------
+* INITIALIZATION STEPS 
+* ---------------------------------------------------------------------------
+* grammar/lisp/start.el
+ I won't mention all the defun functions. 
+ The location of any function definition can be found in the
+ static-code-analysis/defuna_xref.txt file.
+
+** global variables
+fol-default-directory "the 'home' directory for sanskrit, the 'parent' of 'grammar' directory"
+san-tables-dir "grammar/tables/"
+san-validation-dir "grammar/validation/"
+san-explain-dir "grammar/explain/"
+fol-ob nil "the 'obarray' for fol"  -  This variable is used to keep Elisp
+  symbols in a hash table (peculiar to Emacs).  The symbols have properties
+fol-read-err nil -  not sure of purpose
+fol-msg-buffer "*scratch*"   similar to 'stdout' for this Elisp system.
+
+* sansession1
+ This function is evaluated in start.el.  It does many things to initialize
+ the system for a given session.
+** load-start0
+ loads the functions in grammar/lisp/start0.el
+** sanload: module loader
+All these 'modules'; are in grammar/lisp/ directory
+See below for the list of modules loaded here
+** init-sanskrit1
+ function defined in inits.el
+ Evaluaters 4 other functions (see sections for each of these below)
+ construct-init
+ MW-init
+ init-gender-form-data
+ init-explain-forms
+** That's the end of sansession1
+* modules loaded by sanload, in order
+This also mentions the defvars of the various modules
+** start0  (reloads a 2nd time!)
+** inits  
+** itrans
+In addition to loading functions, it defines some global variables.
+Generally, these variables are used to convert among different transliterations
+of Sanskrit.
+single-quote-sym  = "'"
+ITRANS_PARSE = nil
+NITRANS_PARSE 256 
+ITRANS-ordering nil
+ITRANS-alphabet nil
+SLP1-alphabet nil
+SLP1-ordering nil
+HK-alphabet nil
+HK-ordering nil
+HK_PARSE nil
+NHK_PARSE 256
+HKMW_PARSE nil
+NHKMW_PARSE 256
+SLP1_PARSE nil
+NSLP1_PARSE 256
+SLP1-ITRANS-parser ni
+ITRANS-SLP1-parser nil
+AS_PARSE nil
+NAS_PARSE 256
+SLP1-AS-parser nil
+AS-SLP1-parser nil
+** fileutil - functions to read, parse, write various files
+** gram1.el 
+Define many global variables to be sets of Sanskrit letters, as  well
+as functions to initialize the sets, and set membership functions.
+The letters are spelled using ITRANS.
+Here are the set variables:
+shortsimplevowel-set
+longsimplevowel-set
+simplevowel-set
+diphthong-set
+vowel-set
+K-set
+CH-set
+TT-set
+T-set
+P-set
+semivowel-set
+sibilant-set
+consonant-set
+guttural-set
+palatal-set
+cerebral-set
+dental-set
+labial-set
+hardnonaspirate-set
+hardaspirate-set
+softnonaspirate-set
+softaspirate-set
+nasal-set
+hard-set
+soft-set
+mute-set
+** endings
+**** defvars: These set to nil
+at-endings
+PRESPART-endings
+PASSPART-endings
+PPPART-endings
+ADJ-a-endings
+ADJ-a-endings-nN
+RPPART-P-endings
+conjtab-endings
+causal-endings
+explain-subanta-endings
+vsup-list
+sup-list
+gender-form-data-0
+gender-form-data-1
+gender-form-data-2
+gender-form-data-3
+gender-form-data-4
+gender-form-data-all
+ending-consonants-1cons nil
+declension-cons-forms nil
+
+**** defvars: These set explicitly
+laT-1-P-endings 
+laT-1-A-endings 
+laT-2-P-endings
+la~N-1-P-endings
+la~N-1-A-endings
+la~N-2-P-endings
+la~N-2-A-endings
+loT-1-P-endings
+loT-1-A-endings
+loT-2-P-endings
+loT-2-A-endings
+vidhili~N-1-P-endings
+vidhili~N-1-A-endings
+vidhili~N-2-P-endings
+vidhili~N-2-A-endings
+laT-2-P-strengths
+la~N-2-P-strengths
+loT-2-P-strengths
+vidhili~N-2-P-strengths
+laT-2-A-strengths
+la~N-2-A-strengths
+loT-2-A-strengths
+vidhili~N-2-A-strengths
+laT-1-P-endings-Goldman
+laT-1-A-endings-Goldman
+laT-2-P-endings-Goldman
+laT-2-A-endings-Goldman
+li~Nga-set
+gender-set
+vachana-set
+vibhakti-set
+case-set
+case-number-set
+sup-M-normal
+sup-F-normal
+sup-N-normal
+sup-M-a
+sup-N-a
+sup-F-aa
+sup-M-i
+sup-M-u
+sup-F-ii
+sup-F-i
+sup-F-u
+sup-M-Ri-A
+sup-M-Ri-R
+sup-F-Ri-R
+sup-F-Ri-A
+sup-F-uu
+sup-N-i
+sup-N-u
+sup-N-Ri
+sup-M-a-ADJ
+sup-F-a-ADJ
+sup-N-a-ADJ
+sup-M-i-ADJ
+sup-F-i-ADJ
+sup-N-i-ADJ
+sup-M-u-ADJ
+sup-F-u-ADJ
+sup-N-u-ADJ
+sup-M-Ri-ADJ
+sup-F-Ri-ADJ
+sup-N-Ri-ADJ
+sup-M-aI-ADJ
+sup-F-aI-ADJ
+sup-N-aI-ADJ
+sup-M-adj-PRON
+sup-N-adj-PRON
+sup-F-adj-PRON
+sup-M-a-PRON
+sup-N-a-PRON
+sup-F-a-PRON
+sup-M-c-PRON
+sup-N-c-PRON
+sup-F-c-PRON
+sup-M-d-PRON
+sup-N-d-PRON
+sup-F-d-PRON
+old-sup-M-a-PRON
+old-sup-N-a-PRON
+old-sup-F-a-PRON
+sup-M-b-PRON
+sup-F-b-PRON
+sup-N-b-PRON
+sup-empty
+sup-M-IRR-PRON
+sup-F-IRR-PRON
+sup-N-IRR-PRON
+sup-M-CARD-PRON
+sup-F-CARD-PRON
+sup-N-CARD-PRON
+sup-M-ORDa-PRON
+sup-F-ORDa-PRON
+sup-N-ORDa-PRON
+sup-M-ORDb-PRON
+sup-F-ORDb-PRON
+sup-N-ORDb-PRON
+sup-M-ORD-PRON
+sup-F-ORD-PRON
+sup-N-ORD-PRON
+sup-M-1cons
+sup-F-1cons
+sup-N-1cons
+sup-M-2cons
+sup-F-2cons
+sup-N-2cons
+sup-M-vat
+sup-F-vat
+sup-N-vat
+sup-M-vat-ADJ
+sup-F-vat-ADJ
+sup-N-vat-ADJ
+sup-M-mat
+sup-F-mat
+sup-N-mat
+sup-M-mat-ADJ
+sup-F-mat-ADJ
+sup-N-mat-ADJ
+sup-M-at-ADJ
+sup-F-at-ADJ
+sup-N-at-ADJ
+sup-M-iiyas-ADJ
+sup-F-iiyas-ADJ
+sup-N-iiyas-ADJ
+sup-M-in
+sup-F-in
+sup-N-in
+sup-M-in-ADJ
+sup-F-in-ADJ
+sup-N-in-ADJ
+sup-M-an
+sup-F-an
+sup-N-an
+sup-M-an-ADJ
+sup-F-an-ADJ
+sup-N-an-ADJ
+sup-M-vas-ADJ
+sup-F-vas-ADJ
+sup-N-vas-ADJ
+sup-M-ach-ADJ
+sup-F-ach-ADJ
+sup-N-ach-ADJ
+sup-M-aach-ADJ
+sup-F-aach-ADJ
+sup-N-aach-ADJ
+sup-M-3cons
+sup-F-3cons
+sup-N-3cons
+sup-M-IRR
+sup-F-IRR
+sup-N-IRR
+sup-M-aa
+sup-M-ii0
+sup-M-uu
+sup-M-ii
+sup-M-ii1
+sup-M-uu1
+sup-F-ii1
+sup-F-ii2
+sup-F-ii3
+sup-F-uu1
+sup-N-i1
+sup-M-o
+sup-F-o
+sup-F-au
+sup-M-au
+sup-M-ai
+sup-F-ai
+luT-1-P-endings
+luT-1-A-endings
+luT-1-P-strengths
+luT-1-A-strengths
+lRiT-1-P-endings
+lRiT-1-A-endings
+lRiT-1-P-strengths
+lRiT-1-A-strengths
+lRi~N-1-P-endings
+lRi~N-1-A-endings
+lRi~N-1-P-strengths
+lRi~N-1-A-strengths
+aashiirli~N-1-P-endings
+aashiirli~N-1-A-endings
+aashiirli~N-1-P-strengths
+aashiirli~N-1-A-strengths
+lu~N1-1-P-endings
+lu~N1-1-P-strengths
+lu~N2-1-P-endings
+lu~N2-1-A-endings
+lu~N2-1-P-strengths
+lu~N2-1-A-strengths
+lu~N3-1-P-endings
+lu~N3-1-A-endings
+lu~N3-1-P-strengths
+lu~N3-1-A-strengths
+lu~N4-1-P-endings
+lu~N4-1-A-endings
+lu~N4-1-P-strengths
+lu~N4-1-A-strengths
+lu~N5-1-P-endings
+lu~N5-1-A-endings
+lu~N5-1-P-strengths
+lu~N5-1-A-strengths
+lu~N6-1-P-endings
+lu~N6-1-P-strengths
+lu~N7-1-P-endings
+lu~N7-1-A-endings
+lu~N7-1-P-strengths
+lu~N7-1-A-strengths
+
+**** The construct-endings-all function 
+ writes a file
+ grammar/construct/endings.txt; however, this file is not present.
+So, apparently this function is not required for the system.
+** sandhi
+defvar: sandhi-pair-skiprefs, sandhi-n-N-ifirst
+functions do various spelling modifications.
+** gram2
+defvars:
+all-special-tenses 
+passive-irregs
+passive-data
+participle-list
+person-number-set
+1-P-properties-set
+1-A-properties-set
+2-P-properties-set
+2-A-properties-set
+Sangram-types
+** gram2-liT
+defvars
+liT-1-P-endings
+liT-1-A-endings
+liT-1-P-strengths
+liT-doc-Passive
+liT-r-bitab
+liT-r-endings
+periphrastic-suffix-P
+periphrastic-suffix-A
+periphrastic-suffix-PASSIVE
+
+** gram2-future
+(defvar ForC-sym nil) 
+** gram2-aorist
+defvars: aorist-tok, aorist-id
+(defvar aorist-voice nil)
+(defvar aorist-passive-P nil)
+(defvar aorist-sym nil) 
+(defvar aorist-pada nil)
+** causal
+** gram3  declension
+defvar:  declension-general-save
+** kta
+** irreg
+defvars: nil-declension, nil-conjugation
+Has functions which specify irregular declensions, conjugations.
+e.g., pronouns.
+** construct
+defvars: noisy-load, join-array-method
+  all-voices, all-tenses, all-tenses-SL-plist,
+  participle-data, participle-data-1, perppart1a-data,
+  construct-verb-one-data, 
+** validation
+devfars:
+ SL-dtab-directory "SL/dtabs"
+ SL-dtab-tabnames
+ SL-ITRANS-genders
+ SL-ITRANS-forms
+** explain
+Many defvars.  Not sure what this module does.
+** Mbh.el
+  Note uses SL/Ramopakhyana
+  Not sure of purpose
+** forms.el
+ This constructs various declensions and conjugations, and
+ writes them to output files in an idiosyncratic way.
+ May not be of further use.
+** sxmw
+ Load data based on an older version of Cologne Monier-Williams dictionary
+
+* construct-init
+  in construct.el 
+Evaluates the following functions, in order:
+** fol-ob-init in start0.el
+   initializes global fol-ob, a hash for other symbols. Peculiar to Elisp
+** init-transliteration in itrans.el
+  Sets up various things regarding transliterations. Again, peculiar to
+  this implementation.  Probably can use transcoder.py (or .php) per
+  https://github.com/funderburkjim/sanskrit-transcoding repository
+** init-Sangram in gram1.el
+  This is weird, as it appears to use an undefined global variable 'obarray',
+   when, as in construct-init, it is evaluated with no arguments.  However,
+   this 'obarray' is an Elisp variable.
+  So, this again is some Elisp-specific step
+** init-sets in gram1.el
+ See init-sets.el in pyconvert directory
+** init-properties  in gram1.el
+ Another form of the set constants of init-sets
+** init-vowelstrength in gram1.el
+ Establish data structures representing the guRa and vfdDi of vowels.
+** init-semivowels in gram1.el
+Association between vowels and semivowels.
+ For instance, 'y' is semivowel associated to 'i'
+** Sandhi-load-init in sandhi.el
+ sandhi.el has programs that 
+  (a) embody sandhi rules in data structures and serialize those data structures
+      to a file (grammar/construct/Sandhi.txt)
+  (b) load the serialized structures into memory structures
+There are 5 named structures:
+  Sandhi, Sandhi-Inverse-join, Sandhi-Inverse-nojoin,
+  Sandhi-Inverse, Sandhi-Length
+The loaded structures are available via (get 'Sandhi 'Sangram), etc.
+  (i.e., they are on the property list of the 'Sangram symbol.)
+For the Sandhi structure, the properties have the form "x-y", where 
+  x and y are (ITRANS) character codes. And the property value is
+  a list of records. Each record has 4 fields:
+   - x1  (an array of characters that replace x)
+   - y1  (an array of characters that replace y)
+   - a 'method' code (join or nojoin)
+   - a property list with 2 elements:
+     type:  (often "cons")
+     ref :  A reference to a section of Antoine or Kale grammar
+(convert-sandhi) in init-sandhi-string.el  provides a Python string that
+  serializes the Sandhi structure.
+
+** Subanta-initAll in endings.el
+  A trivial technicality. Not the real thing.
+** init-sup  in endings.el
+ (get 'Subanta 'Sangram) => a property list, 
+  whose properties are names of form 'sup-<gender>-<code>', where
+  <gender> = M, F, or N
+  <code> varies
+ and whose values are declension table endings (an array of length 24)
+pyconvert/init-Subanta-string.el generates a python serialization of these.
+
+** init-vsup in endings.el
+(get 'Sup 'Sangram)  => a property list, 
+  whose properties are names of form '<conj>-<class>-<pada>', where
+  <conj> is Sanskrit name of one of 10(?) conjugation forms (laT, etc.)
+  <class> is an integer (1-10), the 'class' of the verb to be conjugated
+  <pada> is  P or A (parasmEpada, Atmanepada) (voice)
+ and whose values are declension table endings (an array of length 9)
+ There is also another possible form '<conj>-<class>-<pada>-strengths',
+  whose property value is a vector containing 'W' or 'S' for 'Weak' or 'Strong'.
+
+pyconvert/init-Sup-string.el generates a python serialization of these.
+** irregs-init in irreg.el
+(get 'Subanta-irreg 'Sangram) = property list.
+ The property names are headwords
+ The property value is again a property list.
+  Whose property names are of form <gender>-IRR-<code>
+  and whose property values are declension tables, this time coded 
+   as a 24-length vector, an entry of which is either an ITRANS string
+   or a list of ITRANS strings (for alternates).
+pyconvert/init-Subanta-irreg-string.el generates a python serialization of these.
+* MW-init in sxmw.el
+ This sets the values of some global variables which are file names:
+ (setq MW-orig-mwindx "mwindx.txt")
+ (setq MW-orig-mwtot2 "mwtot2.txt")
+ (setq MW-dir "mw")
+ (setq MW-mwindx "mwindx.txt")
+ (setq MW-mwtot2 "mwtot2.txt")
+ (setq SL-mwtot2 "SL-mwtot2.txt")
+ (setq SL-mwtot3 "SL-mwtot3.txt")
+ (setq SL-mwindx "SL-mwindx.txt")
+ 
+* init-gender-form-data in endings.el
+ This is already caled by init-sup (see above in construct-init)
+ Not sure whether the global constants here are required or not
+ declension-cons-forms
+ gender-form-data-all  which contains
+  gender-form-data-0
+  gender-form-data-1
+  gender-form-data-2
+  gender-form-data-3
+  gender-form-data-4 
+  NOTE: these are used externally in construct.subanta-base function
+  Python conversion code:
+  gender-form-data-string.el
+
+* init-explain-forms in explain.el
+  At this point, I've forgotten the purpose of this explain module,
+  so will not bother to convert these constants now.
+* END OF INITIALIZATION STEPS (I hope!)
+* ---------------------------------------------------------------------------
+* Logic of SL-dtab-construct (in validation.el)
+  The arguments are called 'subanta', 'form', 'gender'
+  'subanta' is the citation form, in SLP1 coding.
+  The gender is a (lower case) m,f or n
+  form: use one of the following as abbreviation for the SL 'lexid':
+    noun  -> noun/adjective
+    compadj -> comparative adjective
+    card -> cardinal number
+    pron -> pronoun/pronominal adj
+    prap1 -> present active participle, class 1, 4, or 10
+    prap2 -> present active participle, class 2
+    prap3 -> present active participle, class 3 or other reduplicating
+    prap5 -> present active participle, class 5, 7, 8, or 9
+    prap6 -> present active participle, class 6
+    fap -> future active participle
+    pfap -> perfect active participle
+    adj  -> adjective.  (NOTE pfap is same as 'adj' in the ITRANS system?)
+(noun compadj card pron prap1 prap2 prap3 prap5 prap6 fap pfap adj)
+  Note SL-dtab-construct is an SLP1 interface to functions and symbols
+   written in an 'earlier' ITRANS based system.
+
+SL-dtab-construct calls  SL-construct-subanta1a with same arguments
+   Then, reformats the result
+SL-construct-subanta1a converts to ITRANS , then calls either
+ construct-prap   for form = prap1,...,prap6 or fap
+ construct-subanta1a  for the other forms.
+* construct-prap
+  Defer for now
+* construct-subanta1a
+ 'subanta', 'form', 'gender'
+ 'form' is (ITRANS spelling of) noun, compadj, card, pron, pfap, adj
+ (a) Construct gen-or-type and form1
+    if form == 'noun':
+     (form2,form1) = (subanta-convert-form subanta gender)
+     gen-or-type=gender
+    else:
+     (form2,form1) = (subanta-convert-form subanta form)
+     gen-or-type=form2
+ (b) dtab1 = (construct-subanta1 subanta gen-or-type form1)
+       structure: ((form form1) (M dtab-M F dtab-F N dtab-N))
+ (c) dtab = (plist-get (elt dtab1 1) gender)
+
+Here is how (subanta-convert-form subanta x) works:
+ Example: (subanta-convert-form 'raama 'M) => (M a)
+
+ computes and returns a pair (form type) (or possibily nil), compute
+ set lc = last character of subanta
+ set type = value of subanta in the property list (init-subanta-type-data)
+   [may be nil]
+ Then, recode type in some cases:
+  if lc='a' and (x is m,f,n,or adj) and (type is c or d)
+   reset type=a
+  ir subanta='sama' and x is adj,
+   reset type=nil
+ If type is nil at this point (the usual situation), 
+  consider many cases.  This is complicated.
+* construct-subanta1 subanta gen-or-mtype form
+ The most common path is:
+  info = (construct-subanta2 subanta gen-or-mtype form)
+   Example: (construct-subanta2 'raama 'M 'a) => ((raam M a nil))
+   See next section for construct-subanta2 details
+  dtab = declension-citation1 subanta info
+   Example (declension-citation1 'raama 'raam 'M 'a nil)=>
+       [raamaH raamau raamaaH raamam raamau raamaan raameNa raamaabhyaam raamaiH raamaaya raamaabhyaam raamebhyaH raamaat raamaabhyaam raamebhyaH raamasya raamayoH raamaaNaam raame raamayoH raameShu raama raamau raamaaH]
+* construct-subanta2
+  prAtipadika: the crude form or base of a noun, a noun in its uninflected state
+  praatipadikas = (subanta-base citation-sym genderin form)
+    Example: (subanta-base 'raama 'M 'a') => raam
+* declension-citation1 in gram3.el
+* ---------------------------------------------------------------------------
+* Feb 27, 2016  s-file-init-alt1 (in forms.el)
+This constructs and displays declension tables (in SLP1) from an input file
+like one of three files in grammar/prod/inputs:
+   MW-noun.txt, MW-adj.txt, and MW-PCO.txt
+Exemplary lines from these files are, respectively,
+gaRimat : S m : <MW=gaRi-mat,83017,1>
+aMSaBAgin : S adj : <MW=aMSa-BAgin,29,1>
+anya : S PRON : <MW=anya,12297,1>
+azwAdaSan : S CARD : <MW=azwA-daSan,29547,1>
+azwAviMSa : S ORD : <MW=azwA-viMSa,29581,1>
+
+Each line has 3 parts:
+1. <subanta>  (the citation form of a word; similar to 'prAtipadika')
+2. S <fg>  
+  For MW-noun, this is a sequence of one or more genders 'm','f','n'
+        (but not mfn)
+  For MW-adj, this is one of 'adj' or 'adjI'.   These would be shown
+     as 'mfn' in MW dictionary.  Probably 'adjI' indicates that the
+     feminine stem ends in 'I'
+  For MW-PCO, this is one of 'PRON', 'CARD', 'ORD'
+3. <mw={KEY2},{L},K>
+  'KEY2' often uses a '-' to separate the last 'pada' of the subanta.
+   This last pada is declined by rules, and then the declension for the
+   subanta concatenates the first part to these inflected last parts.
+  'mw-word' is Elisp program variable for 'KEY2'
+  'L' is an MW dictionary L-number. Not sure whether it is consistent
+  with current dictionary L-numbers in those files.
+  'K': Not sure what this number represents. Possibly a homonym number?
+   Neither L nor K play a part in the declension algorithm.
+Notes:
+ 1. The word 'subanta' used in much of the Elisp code is not appropriate.
+    prAtipadika: the crude form or base of a noun, a noun in its uninflected state
+    subanta: an inflected noun as ending with a case-termination
+ 2. <fg> provides metadata used to decide how to decline
+    There are probably some other values of <fg> that are handled by the
+    declension process. Notably, PRAP1, FAP, etc. for various participle.
+ 3. 'fg' is acronym for 'form or gender'
+* s-file-init-alt-helper (subanta fg mw-word)  (in forms.el)
+  called by s-file-init-alt1.
+  lword = last pada of mw-word
+  Example:
+ (s-file-init-alt-helper "rAma" "m" "rAma")
+(":noun a m:rAma:rAma:[rAmaH rAmO rAmAH rAmam rAmO rAmAn rAmeRa rAmAByAm rAmEH rAmAya rAmAByAm rAmeByaH rAmAt rAmAByAm rAmeByaH rAmasya rAmayoH rAmARAm rAme rAmayoH rAmezu rAma rAmO rAmAH]
+")
+
+**  forms = (s-file-init-genform  subanta fg)
+  Returned is a list of pairs, each of the form (<f> <g>), where
+  <g> and <f> are Elisp symbols,
+  <g> is a gender (cap M/F/N), and 
+  <f> is a subanta type (a,u,vat, etc).
+  Each such pair is appropriate for calls:
+   (SL-construct-subanta1 <subanta> <g> <f>)
+  Example:
+ (s-file-init-genform  "rAma" "m") => ((a M))
+ (s-file-init-genform  "guru" "adj") => ((u ADJ))
+ (s-file-init-genform  "guru" "mf") => ((u F) (u M))
+
+  Converts subanta to isubanta (ITRANS citataion)
+  forms = (convert-subanta-lexinfo isubanta '(S fg)))  (in construct.el)
+
+* THE VERY END
+

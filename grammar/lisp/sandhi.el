@@ -2125,6 +2125,9 @@
     (setq more nil)
    )
   )
+  (when nil
+   (fol-msg (format "sandhi-one-final-cons: tokar=%s, n0=%s,n1=%s,n2=%s\n" tokar n0 n1 n2))
+  )
   (cond
    ((not n2) (setq ans nil)) ; does not end in consonant
    ((= n1 n2) (setq ans nil)) ; ends a single consonant
@@ -2154,8 +2157,12 @@
   4. Labials are redueced to 'p' : kakubh -> kakup
   5. 's' and 'r' are reduced to H: kavis -> kaviH ; pitar -> pitaH
  "
- (let (ans pfx e)
+ (let (ans pfx e dbg)
+  (setq dbg nil)
   (setq ans (or (sandhi-one-final-cons tokar) tokar))
+  (when dbg
+   (fol-msg (format "sandhi_legalise_final_cons. base=%s, sandhi_one_final_cons=%s\n" tokar ans))
+  )
   (setq pfx (substring ans 0 -1)) ; all but last
 ;  (fol-msg (format "pfx=%s\n" pfx))
   (setq e (elt (substring ans -1) 0)) ; last char

@@ -25,7 +25,7 @@ cases of 'obsolete' code, even for emacs-23.2.  It is possible
 that some of these obsolete features have been entirely removed in
 newer versions of Emacs.
 * Batches for MW-noun.txt
-prods/inputs/MW-noun.txt has 106890 lines. 
+grammar/prod/inputs/MW-noun.txt has 106890 lines. 
 Run 1 batch files, of 10000 lines each. 
 Time per batch varies, normally about 5-6 minutes.
 Run these from the grammar/prod/outputs directory.
@@ -79,7 +79,7 @@ So run 5 batch files, of 10000 lines each
 ** batch 05 6 min
 /c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-adj.txt" "prod/inputs" "MW-adj-05.txt" "prod/outputs" 40000 49999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-adj-05-scratch.txt"))'  >& MW-adj-05-log.txt
 
-* Batche for MW-PCO.txt
+* Batches for MW-PCO.txt
 "pco" is local acronym for "pronouns, cardinals and ordinals".
 
  /c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(s-file-init-alt1 "MW-PCO.txt" "prod/inputs" "MW-pco.txt" "prod/outputs" 1 9999)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-pco-scratch.txt"))'  >& MW-pco-log.txt
@@ -142,6 +142,30 @@ note on coverage
   a root has a role in the computation, although the lower level routines take a
   pada as an argument.
 
+** MW-verb-aorvar.txt (July 10, 2016)
+Compute the list of aorist varieties of verbs.  For a given root, class and
+pada (Parasmaipada or Atmanepada), compute a list of number (1-7) representing
+the types of aorist forms that are appropriate. The numbers are (I think) those
+used by Kale; and they correspond to the categories menthioned by Deshpande.
+Here is a summary of the correspondence 
+(See aorist.el for further documentation.)
+Deshpande #37.
+  SUMMARY :
+  7 : 'a' + root + 'sa' + final termination : few roots ending in 'sh' and 'h'
+  4 : 'a' + root + 's' + final termination : roots ending in cons or non-aa
+  5 : 'a' + root + 'iSh' + final termination : roots ending in cons or non-aa
+  6 : 'a' + root + 'siSh' + final termination : (P) roots ending in 'aa'
+  2 : 'a' + root + 'a' + final termination : 
+  1 : 'a' + root  + final termination : (P)
+  3 : 'a' + reduplicated-root + 'a' + final termination : conj. 10
+
+In a terminal session, with prod/outputs as current directory, run:
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-
+buffer)' --eval='(v-file-init-alt1-aorvar "dcpforms-MW-verb.txt" "prod/inputs"
+"MW-verb-aorvar.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "
+*scratch*") (write-file "MW-verb-aorvar-scratch.txt"))'  >& MW-verb-aorvar-log.
+txt
+The output is prod/outputs/MW-verb-aorvar.txt
 
 * Recompile everything 
  You probably won't need this, unless you start tinkering with the

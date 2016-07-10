@@ -151,11 +151,14 @@
   )
  )
 )
-(defun dhaatu-a~Nga-1 (tokar)
+(defun dhaatu-a~Nga-1 (tokar &optional dbg)
  ; following Antoine I.7 and Kale 388
  ; tokar is an array of alphabetical tokens
  ; the function returns a token array
  (let (ans x c1 v c2 type  )
+  (when dbg
+   (fol-msg (format "dhaatu-a~Nga-1 %s\n" tokar))
+  )
   (setq x (dhaatu-parts tokar))
   (setq c1 (elt x 0)) (setq v (elt x 1)) (setq c2 (elt x 2))
   (setq type (elt x 3))
@@ -202,11 +205,14 @@
   )
  )
 )
-(defun dhaatu-a~Nga-4 (tokar)
+(defun dhaatu-a~Nga-4 (tokar &optional dbg)
  ; following Antoine I.16 and Kale 389
  ; tokar is assumed to be an array of alphabetical tokens
  ; the function returns a token array
  (let (ans x c1 v c2 type tokar1)
+  (when dbg
+   (fol-msg (format "dhaatu-a~Nga-4 %s\n" tokar))
+  )
   ; "y" is added to root
   (setq tokar1 (vconcat tokar [y]))
   (setq x (dhaatu-parts tokar1))
@@ -224,12 +230,15 @@
  (vconcat c1 v c2)
  )
 )
-(defun dhaatu-a~Nga-6 (tokar)
+(defun dhaatu-a~Nga-6 (tokar &optional dbg)
  ; following Antoine I.23, Kale 390
  ; tokar is assumed to be an array of alphabetical tokens
  ; the function returns a token array
  ; 05-13-04: bruu has base bru (Whitney) when in class 6.
  (let (ans x c1 v c2 type tokar1 v0)
+  (when dbg
+   (fol-msg (format "dhaatu-a~Nga-6 %s\n" tokar))
+  )
   (setq tokar1 tokar)
   (setq x (dhaatu-parts tokar1))
   (setq c1 (elt x 0)) (setq v (elt x 1)) (setq c2 (elt x 2))
@@ -260,7 +269,7 @@
   (vconcat c1 v c2)
  )
 )
-(defun dhaatu-a~Nga-10 (tokar)
+(defun dhaatu-a~Nga-10 (tokar &optional dbg)
  ; following Antoine I.32, Kale 391 p. 243
  ; tokar is assumed to be an array of alphabetical tokens
  ; the function returns a token array
@@ -277,8 +286,12 @@
  ;  Note: By Kale 11 (p. 14), a short vowel is prosodially long when
  ;   followed by a conjunct consonant.
  (let (ans x c1 v c2 type tokar1 v0)
+  (when dbg
+   (fol-msg (format "dhaatu-a~Nga-10 %s\n" tokar))
+  )
   (setq tokar1 tokar)
   (setq x (dhaatu-parts tokar1))
+  ;(fol-msg (format "dhaatu-parts = %s\n" x))
   (setq c1 (elt x 0)) (setq v (elt x 1)) (setq c2 (elt x 2))
   (setq type (elt x 3))
   (cond
@@ -323,7 +336,7 @@
   (vconcat c1 v c2 [a y])
  )
 )
-(defun class10-base (tok &optional Eng-def)
+(defun class10-base (tok &optional Eng-def dbg)
  ; Given the token representation 'tok' of a root,
  ; construct a list of token arrays, representing 
  ; the base(s) (ending in '[a y]') of the root as
@@ -333,6 +346,9 @@
  ; Eng-def is assumed to be a list of definitions,
  ; each of which is itself a list of words
  (let (b1 b2 ans dhaatu def)
+  (when dbg
+   (fol-msg (format "class10-base %s\n" (list tok Eng-def)))
+  )
   (setq dhaatu (sym-without-space tok))
   (setq def (modify-Eng-def Eng-def))
   (cond 
@@ -434,7 +450,7 @@
  )
 )
 
-(defun class-a-base (dhaatu class pada)
+(defun class-a-base (dhaatu class pada &optional dbg)
  ;dhaatu is a symbol
  ;class is a number (conjugation class 1, 4, 6, or 10)
  ;pada is a symbol ('P or 'A)
@@ -444,11 +460,11 @@
   (setq dhaatu-tokar (car (ITRANS-parse-words-1 dhaatu-string)))
   (setq base
    (cond
-    ((class-a-base-irreg dhaatu class pada))
-    ((= class 1) (dhaatu-a~Nga-1 dhaatu-tokar))
-    ((= class 4) (dhaatu-a~Nga-4 dhaatu-tokar))
-    ((= class 6) (dhaatu-a~Nga-6 dhaatu-tokar))
-    ((= class 10) (class10-base dhaatu-tokar))
+    ((class-a-base-irreg dhaatu class pada dbg))
+    ((= class 1) (dhaatu-a~Nga-1 dhaatu-tokar dbg))
+    ((= class 4) (dhaatu-a~Nga-4 dhaatu-tokar dbg))
+    ((= class 6) (dhaatu-a~Nga-6 dhaatu-tokar dbg))
+    ((= class 10) (class10-base dhaatu-tokar nil dbg))
     
     (t 
      nil
@@ -459,8 +475,11 @@
   base
  )
 )
-(defun class-a-base-irreg (dhaatu class pada)
+(defun class-a-base-irreg (dhaatu class pada &optional dbg)
  (let (ans)
+  (when dbg
+   (fol-msg (format "class-a-base-irreg %s\n" (list dhaatu class pada )))
+  )
   (cond
    ((= class 1)
     (cond 
@@ -611,9 +630,12 @@
   ans
  )
 )
-(defun class-b-base (dhaatu class pada upasargas)
+(defun class-b-base (dhaatu class pada upasargas &optional dbg)
  ; return a list of token arrays
  (let (ans tok pc lc)
+  (when dbg
+   (fol-msg (format "class-b-base %s\n" (list dhaatu class pada upasargas )))
+  )
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (setq lc (elt (substring tok -1) 0))
   (if (< 1 (length tok))
@@ -652,7 +674,8 @@
        (let (tok1)
         (setq lc (shorten-vowel lc))
         (setq tok1 (vconcat (substring tok 0 -1) (vector lc)))
-	(list tok tok1)
+        ; # this is probably error. should be (setq tok (list tok tok1))
+	(list tok tok1) 
        )
      )
      ((and (longvowel-P lc)
@@ -789,69 +812,75 @@
  )
  t
 )
-(defun conjugation-tab (a~Nga-sym tense-sym class pada dhaatu &optional voice)
+(defun conjugation-tab (a~Nga-sym tense-sym class pada dhaatu &optional voice dbg)
+ (when dbg
+  (fol-msg (format "conjugation-tab %s\n" (list a~Nga-sym tense-sym class pada dhaatu voice)))
+ )
  (if (member tense-sym all-special-tenses)
  ;1. present-system conjugations : depend on class of root
  (cond
   ((equal voice 'PASSIVE)
    ; a~Nga-sym assumed to have (a) passive base
-   (conjugation-tab-1 a~Nga-sym tense-sym 4 'A)
+   (conjugation-tab-1 a~Nga-sym tense-sym 4 'A dbg)
   )
   ((member class '(1 4 6 10))
-   (conjugation-tab-1 a~Nga-sym tense-sym class pada))
+   (conjugation-tab-1 a~Nga-sym tense-sym class pada dbg))
   ((equal class 5)
-   (conjugation-tab-5 a~Nga-sym tense-sym class pada))
+   (conjugation-tab-5 a~Nga-sym tense-sym class pada dbg))
   ((equal class 8)
    (cond 
     ((equal dhaatu 'kRi)
-     (conjugation-citation-irreg dhaatu tense-sym class pada)
+     (conjugation-citation-irreg dhaatu tense-sym class pada dbg)
     )
     (t
-     (conjugation-tab-8 a~Nga-sym tense-sym class pada)
+     (conjugation-tab-8 a~Nga-sym tense-sym class pada dbg)
    ))
   )
   ((equal class 9)
-   (conjugation-tab-9 a~Nga-sym tense-sym class pada))
+   (conjugation-tab-9 a~Nga-sym tense-sym class pada dbg))
   ((equal class 2)
    (cond 
     ((equal dhaatu 'as)
-     (conjugation-citation-irreg dhaatu tense-sym class pada)
+     (conjugation-citation-irreg dhaatu tense-sym class pada dbg)
     )
     ((equal dhaatu 'vid) ; vid 2P (to know)
-     (conjugation-citation-irreg dhaatu tense-sym class pada)
+     (conjugation-citation-irreg dhaatu tense-sym class pada dbg)
     )
     ((and (equal dhaatu 'bruu) (equal class 2) (equal pada 'P)
 	  (equal tense-sym 'laT))
-     (conjugation-citation-irreg dhaatu tense-sym class pada)
+     (conjugation-citation-irreg dhaatu tense-sym class pada dbg)
     )
     (t
-     (conjugation-tab-2 a~Nga-sym tense-sym class pada dhaatu)
+     (conjugation-tab-2 a~Nga-sym tense-sym class pada dhaatu dbg)
    ))
   )
   ((equal class 3)
-   (conjugation-tab-3 a~Nga-sym tense-sym class pada dhaatu))
+   (conjugation-tab-3 a~Nga-sym tense-sym class pada dhaatu dbg))
   ((equal class 7)
-   (conjugation-tab-7 a~Nga-sym tense-sym class pada dhaatu))
+   (conjugation-tab-7 a~Nga-sym tense-sym class pada dhaatu dbg))
   (t nil)
  )
  ;2. other tenses 
  (cond
   ((equal tense-sym 'liT) ; perfect tense
-   (conjugation-tab-liT a~Nga-sym class pada dhaatu)
+   (conjugation-tab-liT a~Nga-sym class pada dhaatu nil dbg)
   )
   ((equal tense-sym 'luT) ; periphrastic future
-   (conjugation-tab-luT a~Nga-sym class pada dhaatu)
+   (conjugation-tab-luT a~Nga-sym class pada dhaatu nil dbg)
   )
   ((equal tense-sym 'lRiT) ; simple future
-   (conjugation-tab-lRiT a~Nga-sym class pada dhaatu)
+   (conjugation-tab-lRiT a~Nga-sym class pada dhaatu nil dbg)
   )
   (t nil)
  )
  )
 )
-(defun conjugation-tab-1 (a~Nga-sym tense-sym class pada)
+(defun conjugation-tab-1 (a~Nga-sym tense-sym class pada &optional dbg)
  ; a~Nga is a token array
  (let (ending endings u a~Nga0 a~Nga1 w ans a~Nga i1 i2 n)
+  (when dbg
+   (fol-msg (format "conjugation-tab-1 %s\n" (list a~Nga-sym tense-sym class pada)))
+  )
   (setq a~Nga (car (ITRANS-parse-words-1 (symbol-name a~Nga-sym))))
   ;--- construct array of endings
   
@@ -918,8 +947,11 @@
   ans
  )
 )
-(defun conjugation-tab-5 (a~Nga-sym tense-sym class pada)
+(defun conjugation-tab-5 (a~Nga-sym tense-sym class pada &optional dbg)
  (let (endings strengths ans n atok)
+  (when dbg
+   (fol-msg (format "conjugation-tab-5 %s\n" (list a~Nga-sym tense-sym class pada)))
+  )
   ;--- 1. construct endings and strengths
   (setq endings (conj-endings tense-sym class pada))
   (setq strengths (conj-strengths tense-sym class pada))
@@ -987,8 +1019,11 @@
   ans
  )
 )
-(defun conjugation-tab-8 (a~Nga-sym tense-sym class pada)
+(defun conjugation-tab-8 (a~Nga-sym tense-sym class pada &optional dbg)
  (let (endings strengths ans n atok)
+  (when dbg
+   (fol-msg (format "conjugation-tab-8 %s\n" (list a~Nga-sym tense-sym class pada)))
+  )
   ;--- 1. construct endings and strengths
   (setq endings (conj-endings tense-sym class pada))
   (setq strengths (conj-strengths tense-sym class pada))
@@ -1041,8 +1076,11 @@
   ans
  )
 )
-(defun conjugation-tab-9 (a~Nga-sym tense-sym class pada)
+(defun conjugation-tab-9 (a~Nga-sym tense-sym class pada &optional dbg)
  (let (endings strengths ans n atok)
+  (when dbg
+   (fol-msg (format "conjugation-tab-9 %s\n" (list a~Nga-sym tense-sym class pada)))
+  )
   ;--- 1. construct endings and strengths
   (setq endings (conj-endings tense-sym class pada))
   (setq strengths (conj-strengths tense-sym class pada))
@@ -1098,10 +1136,14 @@
   ans
  )
 )
-(defun conjugation-tab-2 (a~Nga-sym tense-sym class pada dhaatu)
+(defun conjugation-tab-2 (a~Nga-sym tense-sym class pada dhaatu &optional dbg)
  ; a~Nga-sym is used for 'i' (as upasargas)
  (let (endings strengths ans n atok ibeg dhaatu-ending upasargas)
+  (when dbg
+   (fol-msg (format "conjugation-tab-2 %s\n" (list a~Nga-sym tense-sym class pada dhaatu)))
+  )
   (setq upasargas a~Nga-sym)
+  ;(setq dbg 't)
   ;--- 1. construct endings and strengths
   (setq endings (conj-endings tense-sym class pada))
   (setq strengths (conj-strengths tense-sym class pada))
@@ -1196,6 +1238,10 @@
     (setq e (elt ending 0))
     (setq base (copy-sequence atok))
     (setq ending0 ending) (setq base0 atok)
+    (when dbg
+     (fol-msg (format "i=%s,strength=%s, ending=%s\n" i strength ending))
+     (fol-msg (format "atok=%s,atok0=%s,asave=%s,\ndasave=%s,ibeg=%s,abeg=%s,aspabeg=%s,a=%s,e=%s\n" atok atok0 a-save da-save ibeg abeg asp-abeg a e))
+    )
 ;    (fol-msg (format "CHK: %s %s %s %s %s \n"
 ;		     i ending0 strength base atok))
     (cond
@@ -1261,6 +1307,9 @@
         (setq da-save (de-aspirate a-save)) ; deaspirated version of last char
         (setq base (vconcat atok0 (vector a)))
 	(setq atok base)
+        (when dbg
+         (fol-msg (format "RESETTING: a=%s,asave=%s,dasave=%s,base=%s,atok=%s" a a-save da-save base atok))
+        )
 ;	(fol-msg (format "#40. a-save, da-save changed: %s %s\n"
 ;			 a-save da-save))
        )
@@ -1297,6 +1346,9 @@
       (when (not (equal da-save a-save))
        (setq a da-save)
        (aset base ibeg asp-abeg)
+       (when dbg
+        (fol-msg (format "RESETTING: a=%s,base=%s, ibeg=%s asp-abeg=%s\n" a base ibeg asp-abeg))
+       )
       )
       ;2. case of 3S
       (when (equal ending [t])
@@ -1306,6 +1358,7 @@
         (setq base (sandhi-legalise-final-cons base))
        )
       )
+
       ;3. case of 2S
       (when (equal ending [s])
        (setq ending [])
@@ -1395,7 +1448,9 @@
     )
     (setq thisans-tok (conjugation-join base ending))
     (setq thisans (sym-without-space thisans-tok))
-;    (fol-msg (format "%s + %s -> %s = %s\n" base ending thisans-tok thisans))
+    (when dbg
+     (fol-msg (format "before irreg: %s + %s ->  %s\n" base ending  thisans))
+    )
     ;
     ;----- irregularity overrides
     ;
@@ -1702,6 +1757,9 @@
 	  (setq base (vconcat (substring atok0 0 -1) [i Sh]))
 	  (setq thisans-tok (conjugation-join base ending))
 	  (setq thisans (sym-without-space thisans-tok))
+          (when dbg
+           (fol-msg (format "base=%s, ending=%s => thisans=%s\n" base ending thisans))
+          )
 	 )
 	)
        )
@@ -1711,6 +1769,9 @@
      ; I fail this step (thus to pass word on) to further
      ; processing.
      ((progn
+       (when dbg
+        (fol-msg (format "CHK @434: i=%s, thisans=%s" i thisans))
+       )
        (when (equal dhaatu 'vach)
         (when (and (equal tense-sym 'laT) (= i 2))
          (setq thisans nil)
@@ -1745,17 +1806,24 @@
     )
     (if (listp thisans) (setq thisans (flatten thisans)))
     (aset ans i thisans)
+    (when dbg
+     (fol-msg (format "thisans[%s] = %s\n" i thisans))
+    )
     (setq i (1+ i))
    )
   )
   ans
  )
 )
-(defun conjugation-tab-3 (a~Nga-sym tense-sym class pada dhaatu)
+(defun conjugation-tab-3 (a~Nga-sym tense-sym class pada dhaatu &optional dbg)
  ; a~Nga-sym is unused. 
  ; Antoine#69.
  ; The verbal base is formed by reduplication
  (let (endings strengths ans n atok ibeg dhaatu-ending rtok dtok)
+  (when dbg
+   (fol-msg (format "conjugation-tab-3 %s\n" (list a~Nga-sym tense-sym class pada dhaatu)))
+  )
+  ;(setq dbg 't)
   ;--- 1. construct endings and strengths
   (setq endings (conj-endings tense-sym class pada))
   (setq strengths (conj-strengths tense-sym class pada))
@@ -1845,6 +1913,9 @@
 ;   (setq w-parts (word-parts w-atok))
    (setq parts (word-parts
      (car (ITRANS-parse-words-1 (symbol-name dhaatu)))))
+   (when dbg
+    (fol-msg (format "conjugation-tab-3: s-atok=%s, w-atok=%s\n" s-atok w-atok))
+   )
    (setq i 0)
    (while (< i n)
     (setq strength (elt strengths i)) ; S or W
@@ -2053,7 +2124,9 @@
     )
     (setq thisans-tok (conjugation-join base ending))
     (setq thisans (sym-without-space thisans-tok))
-;    (fol-msg (format "%s + %s -> %s = %s\n" base ending thisans-tok thisans))
+    (when dbg
+     (fol-msg (format "conjugation-tab-3 (%s) %s + %s -> %s \n" i base ending thisans))
+    )
     ;
     ;----- irregularity overrides
     ;
@@ -2186,6 +2259,9 @@
      )
     )
     (if (listp thisans) (setq thisans (flatten thisans)))
+    (when dbg
+     (fol-msg (format "conjugation-tab-3 FINAL (%s) %s + %s -> %s \n" i base ending thisans))
+    )
     (aset ans i thisans)
     (setq i (1+ i))
    )
@@ -2193,7 +2269,7 @@
   ans
  )
 )
-(defun conjugation-tab-7 (a~Nga-sym tense-sym class pada dhaatu)
+(defun conjugation-tab-7 (a~Nga-sym tense-sym class pada dhaatu &optional dbg)
  ; a~Nga-sym is unused. 
  ; Antoine#84.
  ; (1) All the verbs of the 7th conjugation end with a consonant
@@ -2204,6 +2280,9 @@
  ; (4) In the weak forms, 'n' is inserted between the radical vowel 
  ;      and the final consonant.
  (let (endings strengths ans n atok ibeg dhaatu-ending rtok dtok)
+  (when dbg
+   (fol-msg (format "conjugation-tab-7 %s\n" (list a~Nga-sym tense-sym class pada dhaatu)))
+  )
   ;--- 1. construct endings and strengths
   (setq endings (conj-endings tense-sym class pada))
   (setq strengths (conj-strengths tense-sym class pada))
@@ -2376,7 +2455,10 @@
       ;3. case of imperf. 2S
       (when (equal ending [s])
        (setq ending [])
+       ;(fol-msg (format "before sandhi-legalise-final-cons: %s\n" base))
+       
        (setq base (sandhi-legalise-final-cons base)) ; a list
+       ;(fol-msg (format "after sandhi-legalise-final-cons: %s\n" base))
        (cond
         ((equal a 'd) 
 	 (setq base (append-if-new base (vconcat atok0 [H]))))
@@ -2705,8 +2787,11 @@
   (sym-without-space ans)
  )
 )
-(defun conjugation-citation-irreg (dhaatu tense-sym class pada)
+(defun conjugation-citation-irreg (dhaatu tense-sym class pada &optional dbg)
  (let (form form-sym)
+  (when dbg
+   (fol-msg (format "conjugation-citation-irreg %s\n" (list dhaaty tense-sym class pada )))
+  )
   (setq form (format "%s-%s-%s" tense-sym class pada))
   (setq form-sym (intern form))
   (sanget2 'Dhaatu-irreg (list dhaatu form-sym))

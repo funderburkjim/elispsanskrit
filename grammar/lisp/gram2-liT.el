@@ -24,17 +24,20 @@
 )
 (defvar liT-r-bitab nil)
 (defvar liT-r-endings nil)
-(defun conjugation-tab-liT (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-liT (upa-syms class pada dhaatu &optional voice dbg)
  ; Perfect tense.
  ; both reduplicative and periphrastic
  ; voice should be 'ACTIVE or 'PASSIVE
 ; (if (equal voice 'PASSIVE) (setq pada 'A))
  (setq liT-r-bitab nil)
  (let (ans1 ans2 ans)
+  (when dbg
+   (fol-msg (format "conjugation-tab-liT %s\n" (list upa-syms class pada dhaatu voice)))
+  )
   (when (reduplicative-liT-P dhaatu class)
-   (setq ans1 (conjugation-tab-liT-r upa-syms class pada dhaatu voice)))
+   (setq ans1 (conjugation-tab-liT-r upa-syms class pada dhaatu voice dbg)))
   (when (periphrastic-liT-P dhaatu class)
-   (setq ans2 (conjugation-tab-liT-p upa-syms class pada dhaatu voice)))
+   (setq ans2 (conjugation-tab-liT-p upa-syms class pada dhaatu voice dbg)))
   (cond
    ((and ans1 (not ans2)) ; reduplicative only
     (setq ans ans1)
@@ -48,7 +51,7 @@
   )
  )
 ) 
-(defun conjugation-tab-liT-r (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-liT-r (upa-syms class pada dhaatu &optional voice dbg)
  ; reduplicative perfect tense.
  ; A few roots have two optional forms. In this routine,
  ; the main perfect routine is called for two roots,
@@ -58,6 +61,10 @@
  ; Some other irregular forms, algorithmically problematic,
  ; are also included here.
  ; voice should be 'ACTIVE or 'PASSIVE or nil
+  (when dbg
+   (fol-msg (format "conjugation-liT-r %s\n" (list upa-syms class pada dhaatu  voice)))
+  )
+
  (if (equal voice 'PASSIVE) (setq pada 'A))
  (setq liT-r-bitab nil)
  (let (ans)
@@ -71,8 +78,8 @@
       ((equal dhaatu 'shvi)
        ;Kale p. 318
        ; 'shvi' is to be optionally considered as 'shu' in the Perfect
-       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
-       (setq ans2 (conjugation-tab-liT-r-main upa-syms class pada 'shu))
+       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
+       (setq ans2 (conjugation-tab-liT-r-main upa-syms class pada 'shu nil dbg))
       )
       ((equal dhaatu 've)
        ;Kale p. 318
@@ -80,7 +87,7 @@
        ; In the irregular form,
        ;  it is considered 'uvay' before strong forms,
        ;  and it is considered either 'uuy' or 'uuv' before weak forms.
-       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
        (if (equal pada 'P)
         (setq ans2 
          [uvaaya (uuyatuH uuvatuH) (uuyuH uuvuH)
@@ -104,7 +111,7 @@
       ; 'shranth', 'granth', 'dambh' obey #500, even before the strong
       ; terminations
       ((member dhaatu '(shranth granth dambh sva~nj))
-       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
        (let (tok seTPerfCodes tok1 dhaatu1)
 	(setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
 	(setq tok1 (vconcat (substring tok 0 -2) (substring tok -1)))
@@ -114,14 +121,14 @@
 ;			tok1 dhaatu1 seTPerfCodes))
 	(setq ans2
 	 (conjugation-tab-liT-r-main upa-syms
-			           class pada dhaatu1 seTPerfCodes))
+			           class pada dhaatu1 seTPerfCodes dbg))
        )
       )
       ((equal dhaatu 'ad)
        ;Kale #511, p. 324
        ; 'ghas' (1P) is to be optionally substituted for 'ad' in the Perfect
-       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
-       (setq ans2 (conjugation-tab-liT-r-main upa-syms 1 pada 'ghas))
+       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
+       (setq ans2 (conjugation-tab-liT-r-main upa-syms 1 pada 'ghas nil dbg))
       )
       ((equal dhaatu 'chi)
        ;Kale #514, p. 326
@@ -129,7 +136,7 @@
        ; syllable in the Perfect and the Desiderative.
        ; The change to 'ki' appears in the basic algorithm in ans1.
        ; We simply assert the value in 'ans2'
-       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+       (setq ans1 (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
        (setq ans2
 	[chichaaya chichyatuH chichyuH
 	 (chichetha chichayitha) chichyathuH chichya
@@ -144,10 +151,12 @@
        ; begin with any consonant except 'y':
        ;   'vetaa  ajitaa'
        ;   'veShyati ajiShyati'
-       (setq ans1 (conjugation-tab-liT-r-main upa-syms 2 pada 'vii))
+       (setq ans1 (conjugation-tab-liT-r-main upa-syms 2 pada 'vii nil dbg))
+       ;(fol-msg (format "ans1=%s\n" ans1))
        (let (i n)
         ; only the 'i' forms of 'aj' provide optional answers
-        (setq ans2 (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+        (setq ans2 (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))     
+        ;(fol-msg (format "ans2(a)=%s\n" ans2))
         (setq n (length ans2))
         (setq i 0)
         (while (< i n)
@@ -156,25 +165,27 @@
 	 )
 	 (setq i (1+ i))
         )
+        ;(fol-msg (format "ans2(b)=%s\n" ans2))
        )
       )
+      ; July 2, 2016. corrected 'kshaa' to 'kShaa' 
       ((equal dhaatu 'chakSh)
        (let (C)
 	(setq C (construct-seTPERF-code1a dhaatu class pada upa-syms))
 	(cond
          ((equal pada 'P)
 	  (setq ans1
-	    (conjugation-tab-liT-r-main upa-syms class pada 'khyaa C))
+	    (conjugation-tab-liT-r-main upa-syms class pada 'khyaa C dbg))
 	  (setq ans2
-	    (conjugation-tab-liT-r-main upa-syms class pada 'kshaa C))
+	    (conjugation-tab-liT-r-main upa-syms class pada 'kShaa C dbg))
 	 )
          ((equal pada 'A)
 	  (setq ans1
-	    (conjugation-tab-liT-r-main upa-syms class pada dhaatu C))
+	    (conjugation-tab-liT-r-main upa-syms class pada dhaatu C dbg))
 	  (setq ans2
-	    (conjugation-tab-liT-r-main upa-syms class pada 'khyaa C))
+	    (conjugation-tab-liT-r-main upa-syms class pada 'khyaa C dbg))
 	  (setq ans3
-	    (conjugation-tab-liT-r-main upa-syms class pada 'kshaa C))
+	    (conjugation-tab-liT-r-main upa-syms class pada 'kShaa C dbg))
 	 )
 	)
        )
@@ -187,7 +198,7 @@
        ; ans1 gives the Vedic form.
        ; ans2 gives the classical form
        (setq ans1
-	    (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+	    (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
        (setq ans2
 	 [viveda vividatuH vividuH
 	  viveditha vividathuH vivida
@@ -201,7 +212,7 @@
        ; 'P' root, since the passive is just the 'A' form conjugation
        ; ans2 to ans1
        (setq ans1
-	    (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+	    (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
        (setq ans2 ans1)
       )
      )
@@ -234,14 +245,14 @@
     ; Kale 506, p. 319.
     ; 'hve' (to call) is to be considered 'hu' (to sacrifice) in the Perfect
     ; class is changed to that of 'hu' (namely, 3)
-    (setq ans (conjugation-tab-liT-r-main upa-syms 3 pada 'hu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms 3 pada 'hu nil dbg))
    )
    ((and (equal pada 'P) (equal dhaatu 'ta~nch))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     (aset ans 4 (list (elt ans 4) 'tata~NkthuH))
    )
    ((and (equal pada 'P) (equal dhaatu 'mRij))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; otherwise 1D and 2D are
     ; (mamaarjva mamaarjiva mamRijva mamRijiva) and
     ; (mamaarjma mamaarjima mamRijma mamRijima).
@@ -251,7 +262,7 @@
    )
    ; Kale p. 320
    ((and (equal pada 'P) (equal dhaatu 'tRip))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     (let (tmp)
      (setq tmp (elt ans 3))
      (if (not (listp tmp)) (setq tmp (list tmp)))
@@ -260,7 +271,7 @@
    )
    ; Kale p. 320
    ((and (equal pada 'P) (equal dhaatu 'dRip))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     (let (tmp)
      (setq tmp (elt ans 3))
      (if (not (listp tmp)) (setq tmp (list tmp)))
@@ -269,17 +280,17 @@
    )
    ; Kale p. 321
    ((and (equal pada 'A) (equal dhaatu 'trap))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     (aset ans 5 '(trebdhve trepidhve)) ; was (trepdhve trepidhve)
    )
    ; Kale p. 321
    ((and (equal pada 'A) (equal dhaatu 'ash))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     (aset ans 5 '(aana~NDhve aanashidhve)) ; was (aanashdhve aanashidhve)
    )
    ; Kale p. 322
    ((and (equal pada 'A) (equal dhaatu 'gaah))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (jagaakShe jagaahiShe)
     (aset ans 3 '(jaghaakShe jagaahiShe))
     ; was (jagaahdhve jagaahidhve)
@@ -287,7 +298,7 @@
    )
    ; Kale p. 322
    ((and (equal pada 'A) (equal dhaatu 'gRih))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (jagRikShe jagRihiShe)
     (aset ans 3 '(jaghRikShe jagRihiShe))
     ; was (jagRihdhve jagRihidhve)
@@ -295,7 +306,7 @@
    )
    ; Kale p. 322
    ((and (equal pada 'A) (equal dhaatu 'guh))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (juguhse juguhiShe)
     (aset ans 3 '(jughukShe juguhiShe))
     ; was (juguhdhve juguhidhve)
@@ -305,7 +316,7 @@
    )
    ; Kale p. 322
    ((and (equal pada 'P) (equal dhaatu 'guh))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was jugoha
     (aset ans 0 'juguuha)
     (aset ans 6 'juguuha)
@@ -315,7 +326,7 @@
    )
    ; Kale p. 322
    ((and (equal pada 'P) (equal dhaatu 'druh))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (dudroDha dudrohitha)
     ; The final 'h' of roots 'druh', 'muh', 'snih', and 'snuh' is
     ; changed to 'gh' or to 'Dh' when followed by
@@ -325,7 +336,7 @@
    )
    ; Kale p. 322
    ((and (equal pada 'P) (equal dhaatu 'muh))
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (mumoDha mumohitha)
     ; The final 'h' of roots 'druh', 'muh', 'snih', and 'snuh' is
     ; changed to 'gh' or to 'Dh' when followed by
@@ -335,7 +346,7 @@
    )
    ; Kale p. 323
    ((and (equal dhaatu 'snih) (equal pada 'P) )
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (siShNeDha siShNehitha)
     ; The final 'h' of roots 'druh', 'muh', 'snih', and 'snuh' is
     ; changed to 'gh' or to 'Dh' when followed by
@@ -345,7 +356,7 @@
    )
    ; Kale p. 323
    ((and (equal dhaatu 'snuh) (equal pada 'P) )
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was (suShNoDha suShNohitha)
     ; The final 'h' of roots 'druh', 'muh', 'snih', and 'snuh' is
     ; changed to 'gh' or to 'Dh' when followed by
@@ -359,12 +370,12 @@
     (let (seTPerfCodes)
      (setq seTPerfCodes (construct-seTPERF-code1a dhaatu class pada upa-syms))
      (setq ans (conjugation-tab-liT-r-main upa-syms class pada 'jag
-					 seTPerfCodes))
+					 seTPerfCodes dbg))
     )
    )
    ; Kale 518, p. 327
    ((and (equal dhaatu 'uurNu) (equal pada 'P) )
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was uurNunavitha
     (aset ans 3 '(uurNunavitha  uurNunuvitha))
    )
@@ -375,7 +386,7 @@
     (let (seTPerfCodes)
      (setq seTPerfCodes (construct-seTPERF-code1a dhaatu class pada upa-syms))
      (setq ans (conjugation-tab-liT-r-main upa-syms class pada 'pii
-					 seTPerfCodes))
+					 seTPerfCodes dbg))
     )
    )
    ((and (equal dhaatu 'vij) (equal pada 'P))
@@ -383,13 +394,14 @@
     ; 'viveja' 1S, 'vivijitha' 2S, 'vivijathuH' 2D, 'vivija' 2P
     ; Kale #466: The intermediate 'i' is weak in the case of
     ; the root 'vij' (6 A 7 P); and optionally so in the case of 'uurNu'
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
     ; was vivejitha
     (aset ans 3 'vivijitha)
    )
    (t
     ; the usual case. liT-main provides the answer
-    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-liT-r-main upa-syms class pada dhaatu nil dbg))
+    ;(fol-msg (format "check1: ans=%s\n" ans))
    )
   )
   ans
@@ -431,12 +443,15 @@
  )
 )
 (defun conjugation-tab-liT-r-main (upa-syms class pada dhaatu
-			    &optional seTPerfCodes)
+			    &optional seTPerfCodes dbg)
  ; perfect conjugation, Main routine
  ; note 'upa-syms is actually 'upa-syms'.  This is needed 
  ; for the case of 'sam-kRi'
  (let (endings strengths ans n atok seT-gen seT-th seT-upa btab itab
        bitab wparts parts types redups redup redup2 lc)
+ (when dbg
+  (fol-msg (format "conjugation-tab-liT-r-main %s\n" (list upa-syms class pada dhaatu seTPerfCodes)))
+ )
   ;--- 1. construct endings and strengths; init ans
   (let (conj-class sym name tense-sym )
    (setq conj-class 1) (setq tense-sym 'liT)
@@ -456,8 +471,8 @@
   (setq n (length endings))
   (setq ans (make-vector n nil))
   ;--- 3. Get bitab, which will be joined to endings
-  (setq bitab (liT-main-get-bitab upa-syms class pada dhaatu seTPerfCodes))
-
+  (setq bitab (liT-main-get-bitab upa-syms class pada dhaatu seTPerfCodes dbg))
+  ;(fol-msg (format "check: bitab=%s\n" bitab))
   ; one modification to 'endings'
   (when (equal pada 'P)
    (setq atok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
@@ -476,7 +491,7 @@
   )
   ;--- 6. combine base and endings to get ans
   ; Note: ans, a vector, has its values reset in perfect-bitab-join
-  (perfect-bitab-join bitab endings ans) 
+  (perfect-bitab-join bitab endings ans dbg) 
   ;--- 7. Irregularities not yet covered
   (cond
    ((equal dhaatu 'ah)
@@ -535,9 +550,12 @@
  )
 )
 (defun liT-main-get-bitab (upa-syms class pada dhaatu
-			    &optional seTPerfCodes)
+			    &optional seTPerfCodes dbg)
  (let (atok seT-gen seT-th seT-upa btab itab
        bitab wparts parts types redups redup redup2 n)
+  (when dbg
+   (fol-msg (format "liT-main-get-bitab %s\n" (list upa-syms class pada dhaatu seTPerfCodes)))
+  )
   ;--- 3a. atok
   (cond
    ((and (equal dhaatu 'kRi) (member upa-syms '((sam) (saMs))))
@@ -555,6 +573,7 @@
   ;--- 3c. redups
   ; redups is a list. 
   (setq redups (reduplicate-perfect atok wparts))
+  ;(fol-msg (format "check: redups=%s\n" redups))
   (setq redup (elt redups 0))
   (setq redup2 (elt redups 1))
   (if (not redup2) (setq redup2 redup))
@@ -562,9 +581,10 @@
   (let (temp)
    (if seTPerfCodes
     (setq temp seTPerfCodes)
-    (setq temp (construct-seTPERF-code1a dhaatu class pada upa-syms))
+    (setq temp (construct-seTPERF-code1a dhaatu class pada upa-syms dbg))
    )
    (setq temp (solution temp))
+   ;(fol-msg (format "check: temp=%s\n" temp))
    (if (and temp (not (listp temp))) (setq temp (list temp)))
    (when (equal dhaatu 'vid)
     (setq temp '(aniT aniT)) ; Antoine2#120
@@ -580,6 +600,7 @@
    (setq seT-gen (elt temp 0))
    (setq seT-th (elt temp 1))
    (setq seT-upa (elt temp 2))
+   ;(fol-msg (format "check: sew_gen=%s,sew_th=%s,sew_upa=%s\n" seT-gen seT-th seT-upa))
   )
   ;--- 5a. get default table of i-inserts
   (if (equal pada 'P)
@@ -596,6 +617,7 @@
      'NA seT-gen seT-gen
     ))
   )
+  ;(fol-msg (format "check: itab=%s\n" itab))
   (setq n (length itab))
   (let (i x)
    (setq i 0)
@@ -631,7 +653,7 @@
     (when (member lc '(aa e ai o))
      (setq bw (substring b 0 -1)) ; Antoine2#112
     )
-;    (fol-msg (format "chk: b=%s, bw=%s\n" b bw))
+   ;(fol-msg (format "check: b=%s, bw=%s, lc=%s,pc=%s\n" b bw lc pc))
    (if (equal pada 'P)
    ;---- parasmaipada
     (cond
@@ -656,7 +678,7 @@
          bth bw bw
          b1s bw bw)
         )
-        (setq bitab (perfect-bitab btab itab))
+        (setq bitab (perfect-bitab btab itab dbg))
         ; override 2S
         (aset bitab 3
 	     (list (list b 'NA) (list bw 'seT)))
@@ -749,7 +771,7 @@
         )
        )
 ;       (fol-msg (format "check: btab=%s\n" btab))
-       (setq bitab (perfect-bitab btab itab))
+       (setq bitab (perfect-bitab btab itab dbg))
        (when (not (member dhaatu '(tRI raadh shrath grath dabh phal
              jRI bhram tras phaN raaj bhraaj bhraash
 			bhlaash syam svan)))
@@ -768,7 +790,7 @@
 	 b b b
 	 b b b
        ))
-       (setq bitab (perfect-bitab btab itab))
+       (setq bitab (perfect-bitab btab itab dbg))
      )
      ((kuTaadi-P dhaatu)
       ; Kale 463; Kale 505 p. 316
@@ -808,13 +830,14 @@
          bth bw bw
          b1s bw bw)
         )
-        (setq bitab (perfect-bitab btab itab))
+        (setq bitab (perfect-bitab btab itab dbg))
        )
      )
      ((or (equal pc 'a) ; medial 'a'
 	  (vowel-P lc)) ; final vowel
 ;      (fol-msg (format "chk. b=%s\n" b))
       (let (bth b1s b3s vrddhi guna)
+       ;(fol-msg (format "check: pc = a\n"))
        (when (member dhaatu '(i Ri)) ;07-25-03
 	 (setq b redup2)
 	 (setq bw redup)
@@ -846,7 +869,8 @@
          bth bw bw
          b1s bw bw)
         )
-        (setq bitab (perfect-bitab btab itab))
+        (setq bitab (perfect-bitab btab itab dbg))
+        ;(fol-msg (format "check2. bitab=%s\n" bitab))
        )
       )
 ;      ((and (shortsimplevowel-P pc) ; medial short vowel (other than a)
@@ -863,7 +887,7 @@
          )
         )
 ;        (fol-msg (format "short-simple-vowel case: %s\n" dhaatu b bs bw))
-        (setq bitab (perfect-bitab btab itab))
+        (setq bitab (perfect-bitab btab itab dbg))
        )
        (t
 	; default situation, rarely encountered!  (e.g. 'raadh', 'uSh')
@@ -877,7 +901,7 @@
            bs bw bw)
           )
 	 )
-	 (setq bitab (perfect-bitab btab itab))
+	 (setq bitab (perfect-bitab btab itab dbg))
         )
        )
    ;---- atmanepada
@@ -891,7 +915,7 @@
          b b b
         )
        )
-      (setq bitab (perfect-bitab btab itab))
+      (setq bitab (perfect-bitab btab itab dbg))
      )
      ((or
        (and (equal pc 'a) ; medial 'a'
@@ -950,7 +974,7 @@
           (list b bw) (list b bw) (list b bw))
         )
        )
-       (setq bitab (perfect-bitab btab itab))
+       (setq bitab (perfect-bitab btab itab dbg))
       )
      )
      ((equal dhaatu 'bhrasj)
@@ -961,7 +985,7 @@
 	 b b b
 	 b b b
        ))
-       (setq bitab (perfect-bitab btab itab))
+       (setq bitab (perfect-bitab btab itab dbg))
      )
      (t ; default
       (let ()
@@ -970,7 +994,7 @@
          bw bw bw
          bw bw bw)
        )
-       (setq bitab (perfect-bitab btab itab))
+       (setq bitab (perfect-bitab btab itab dbg))
       )
      )
     )
@@ -982,8 +1006,11 @@
   bitab
  )
 )
-(defun perfect-bitab-join (bitab endings &optional ans)
+(defun perfect-bitab-join (bitab endings &optional ans dbg)
  (let (i n y thisans base ending strength e a seT-code bi thisbi thisans1)
+  (when dbg
+   (fol-msg (format "perfect-bitab-join %s\n" (list bitab endings ans)))
+  )
   (setq n (length bitab))
   (if (not ans) (setq ans (make-vector n nil)))
    (setq i 0)
@@ -996,7 +1023,7 @@
      (setq bi (cdr bi))
      (setq base (elt thisbi 0))
      (setq seT-code (elt thisbi 1))
-     (setq thisans1 (perfect-join base seT-code ending))
+     (setq thisans1 (perfect-join base seT-code ending dbg))
      (setq thisans1 (sym-without-space thisans1))
      (setq thisans (append-if-new thisans thisans1))
     )
@@ -1008,8 +1035,11 @@
    ans
   )
 )
-(defun perfect-bitab (btab itab)
+(defun perfect-bitab (btab itab &optional dbg)
  (let (n i ans b c thisans b1 c1 c0)
+  (when dbg
+   (fol-msg (format "perfect-bitab %s\n" (list btab itab)))
+  )
   (setq n (length btab))
   (setq ans (make-vector n nil))
   (setq i 0)
@@ -1033,10 +1063,13 @@
    (aset ans i thisans)
    (setq i (1+ i))
   )
+  (when nil
+   (fol-msg (format "perfect-bitab:\nbtab = %s\nitab = %s\nresult=%s\n" btab itab ans))
+  )
   ans
  )
 )
-(defun perfect-join (base-tok seT-code sup)
+(defun perfect-join (base-tok seT-code sup &optional dbg)
  (cond 
   ((listp sup)
    (mapcar (lambda (x) (perfect-join base-tok seT-code x)) sup))
@@ -1045,10 +1078,10 @@
   ((equal seT-code 'veT)
    (mapcar (lambda (x) (perfect-join base-tok x sup)) '(seT aniT))
   )
-  (t (perfect-join1 base-tok seT-code sup))
+  (t (perfect-join1 base-tok seT-code sup dbg))
  )
 )
-(defun perfect-join1 (y seT-code ending0)
+(defun perfect-join1 (y seT-code ending0 &optional dbg)
  ; based on 'conjugation-join'
  ; seT-code is either nil, 'seT' or 'aniT'
  (let (ans skiprefs ylast efirst ending y0 ny)
@@ -1063,10 +1096,8 @@
   (setq ny (length y))
   (setq ylast (elt (substring y -1) 0)) ;last char
   (setq efirst (elt ending 0))
-  (when nil  ;dbg
-   (when (equal efirst 'm)
-    (fol-msg (format "y = %s ylast=%s efirst=%s\n" y ylast efirst))
-   )
+  (when dbg; nil  ;dbg
+    (fol-msg (format "y = %s, ending=%s ylast=%s efirst=%s\n" y ending ylast efirst))
   )
   ;Kale 476. nash
   ; 'n' is inserted before the ending consonant of 'nash' when
@@ -1096,7 +1127,7 @@
       (setq ans
        (cond
         ((equal ylast 'i) (vconcat y0 [i y] ending))
-        ((equal ylast 'ii) (vconcat y0 [i y] ending))
+        ((equal ylast 'ii) (fol-msg (format "check\n")) (vconcat y0 [i y] ending))
         ((equal ylast 'Ri) (vconcat y0 [a r] ending))
        )
       )
@@ -1224,6 +1255,7 @@
    (t
     ; joining for other cases like 'conjugation-join'
     (sandhi-pair-skiprefs-set (list 'Antoine72-4 'Antoine72-5))
+    
     (setq ans
      (or
       (solution (sandhi-pair y ending 'internal 'join))
@@ -1232,6 +1264,9 @@
      )   
     )
     (sandhi-pair-skiprefs-set nil)
+    (when nil
+     (fol-msg (format "from sandhi-pair, ans=%s\n" ans))
+    )
    )
   )
   (setq ans (or (sandhi-single ans) ans))
@@ -1239,6 +1274,9 @@
 ;   (setq ans (or (sandhi-single ans) ans))
 ;  )
   (setq ans (solution ans))
+  (when dbg
+   (fol-msg (format "perfect-join1 %s => %s\n" (list y seT-code ending0) ans))
+  )
   ans
  )
 )
@@ -1640,7 +1678,7 @@
  )
 )
 
-(defun conjugation-tab-liT-p (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-liT-p (upa-syms class pada dhaatu &optional voice dbg)
  ; periphrastic perfect
  ; NOTE: It is assumed that the arguments provide an instance to
  ; which the periphrastic perfect is applicable.
@@ -1678,6 +1716,9 @@
 ; (if (equal voice 'PASSIVE) (setq pada 'A))
 
  (let (ans base sfxtab n i xar yar j m sfxpada)
+  (when dbg
+   (fol-msg (format "periphrastic-liT-p %s\n" (list upa-syms class pada dhaatu  voice)))
+  )
   (setq sfxpada (if (equal voice 'PASSIVE) 'PASSIVE pada))
   (setq sfxtab (periphrastic-suffix sfxpada))
   (setq base (periphrastic-base dhaatu class pada))
@@ -1834,7 +1875,7 @@
   ans
  )
 )
-(defun periphrastic-liT-P (dhaatu class &optional dtype)
+(defun periphrastic-liT-P (dhaatu class &optional dtype dbg)
   ; Antoine#106 The reduplicative perfect is common to all
   ; monosyllabic roots beginning with a consonant or with
   ; 'a', 'aa', or short 'i', 'u', or 'Ri'
@@ -1852,6 +1893,9 @@
   ; 'jaagRi' (to awake), and 'daridraa' (to be poor) take both
   ; forms of the perfect
  (let (ans tok wparts types)
+  (when dbg
+   (fol-msg (format "periphrastic-liT-P %s\n" (list dhaatu class)))
+  )
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (setq wparts (word-parts tok))
   (setq types (elt wparts 1))

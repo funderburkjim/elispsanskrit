@@ -339,27 +339,30 @@
  "
 )
 (defvar ForC-sym nil) 
-(defun conjugation-tab-lRiT (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-lRiT (upa-syms class pada dhaatu &optional voice dbg)
  (setq ForC-sym 'lRiT)
- (conjugation-tab-ForC upa-syms class pada dhaatu voice)
+ (conjugation-tab-ForC upa-syms class pada dhaatu voice dbg)
 )
-(defun conjugation-tab-lRi~N (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-lRi~N (upa-syms class pada dhaatu &optional voice dbg)
  (setq ForC-sym 'lRi~N)
- (conjugation-tab-ForC upa-syms class pada dhaatu voice)
+ (conjugation-tab-ForC upa-syms class pada dhaatu voice dbg)
 )
-(defun conjugation-tab-luT (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-luT (upa-syms class pada dhaatu &optional voice dbg)
  (setq ForC-sym 'luT)
- (conjugation-tab-ForC upa-syms class pada dhaatu voice)
+ (conjugation-tab-ForC upa-syms class pada dhaatu voice dbg)
 )
 (defun conjugation-tab-aashiirli~N (upa-syms class pada dhaatu
-    &optional voice)
+    &optional voice dbg)
  (setq ForC-sym 'aashiirli~N)
- (conjugation-tab-ForC upa-syms class pada dhaatu voice)
+ (conjugation-tab-ForC upa-syms class pada dhaatu voice dbg)
 )
-(defun conjugation-tab-ForC (upa-syms class pada dhaatu &optional voice)
+(defun conjugation-tab-ForC (upa-syms class pada dhaatu &optional voice dbg)
  ; first future, second future, and conditional
  ; Some  irregular forms are  included here
  (let (ans  tok ylast seT-code types pc parts)
+  (when dbg
+   (fol-msg (format "conjugation-tab-ForC%s, ForC-sym=%s\n" (list upa-syms class pada dhaatu voice) ForC-sym))
+  )
   (let ( wparts)
    (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
    (setq ylast (elt (substring tok -1) 0))
@@ -381,7 +384,7 @@
   (cond
    ((or (equal pada 'PASSIVE) (equal voice 'PASSIVE))
     (let (ans1 ans2 tok2 dhaatu2 i)
-     (setq ans1 (conjugation-tab-ForC upa-syms class 'A dhaatu ))
+     (setq ans1 (conjugation-tab-ForC upa-syms class 'A dhaatu nil dbg))
      (cond
       ((equal ylast 'aa)
        (setq tok2 (vconcat tok [y]))
@@ -405,7 +408,7 @@
        ; In the benedictive, the 'ay' has already been dropped;
        ; so to get the alternate form, it must be added
        (let (cb)
-	(setq cb (causal-base dhaatu class pada upa-syms nil))
+	(setq cb (causal-base dhaatu class pada upa-syms nil dbg))
 	(setq cb (solution cb))
 	(cond
 	 ((not (arrayp cb))) ; can't handle multiple values for cb now
@@ -430,7 +433,7 @@
      )
      (when dhaatu2
       (setq ans2
-	(conjugation-tab-ForC-main upa-syms class 'PASSIVE dhaatu2 '(seT)))
+	(conjugation-tab-ForC-main upa-syms class 'PASSIVE dhaatu2 '(seT) nil dbg))
      )
      (if ans2
       (setq ans (join-arrays ans1 ans2))
@@ -450,8 +453,8 @@
     ; (b) inserts 'i'.
     ; Since 'han' is an 'aniT', this also must be adjusted
     ; By Kale 483, 'han' admits 'i' in lRiT, lRi~N (handled elsewhere)
-    (setq ans
-	(conjugation-tab-ForC-main upa-syms class 'A 'vagh '(seT)))
+    (setq ans 
+	(conjugation-tab-ForC-main upa-syms class 'A 'vagh '(seT) nil dbg))
    )
    
    ((and (equal dhaatu 'aj) (equal pada 'P))
@@ -463,10 +466,10 @@
     ;   'veShyati ajiShyati'
     (let (ans1 ans2)
      (setq ans1
-	 (conjugation-tab-ForC-main upa-syms 2 pada 'vii ))
+	 (conjugation-tab-ForC-main upa-syms 2 pada 'vii nil nil dbg))
      ;all forms of 'aj' have optional answers with 'vii'
      (setq ans2
-         (conjugation-tab-ForC-main upa-syms class pada dhaatu ))
+         (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -478,7 +481,7 @@
     ; formation of passive, the change of Kale 465 (below)
     ; does not occur (Kale p. 364, example)
     (setq ans
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
    )
    ((member dhaatu '(sRij dRish))
     ; Kale 465. The penultimate 'Ri' of 'sRij' and of 'dRish'
@@ -491,7 +494,7 @@
      (setq c2 (elt parts 2)) ; final consonant
      (setq dhaatu2 (sym-without-space (vconcat c1 v c2)))
      (setq ans
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 seT-code))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 seT-code nil dbg))
     )
    )
    ((equal dhaatu 'tRip)
@@ -503,13 +506,13 @@
     ; Note: 'tRip' has seT-code 'veT'
     (let (ans1 ans2 dhaatu2 c1 v c2)
      (setq ans1
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
      (setq c1 (elt parts 0)) ; initial consonant
      (setq v [r a]) ; replace [Ri] with [r a]
      (setq c2 (elt parts 2)) ; final consonant
      (setq dhaatu2 (sym-without-space (vconcat c1 v c2)))
      (setq ans2
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 '(aniT)))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 '(aniT) nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -524,13 +527,13 @@
     ; with any consonant except a nasal or a semi-vowel.
     (let (ans1 ans2 dhaatu2 c1 v c2 ans3)
      (setq ans1
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu seT-code))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu seT-code nil dbg))
      (setq c1 (elt parts 0)) ; initial consonant
      (setq v [r a]) ; replace [Ri] with [r a]
      (setq c2 (elt parts 2)) ; final consonant
      (setq dhaatu2 (sym-without-space (vconcat c1 v c2)))
      (setq ans2
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 seT-code))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 seT-code nil dbg))
      (setq ans (join-arrays ans1 ans2))
      ans
     )
@@ -547,13 +550,13 @@
     ; with any consonant except a nasal or a semi-vowel.
     (let (ans1 ans2 dhaatu2 c1 v c2)
      (setq ans1
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
      (setq c1 (elt parts 0)) ; initial consonant
      (setq v [r a]) ; replace [Ri] with [r a]
      (setq c2 (elt parts 2)) ; final consonant
      (setq dhaatu2 (sym-without-space (vconcat c1 v c2)))
      (setq ans2
-	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 seT-code))
+	    (conjugation-tab-ForC-main upa-syms class pada dhaatu2 seT-code nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -564,19 +567,20 @@
     )
     ;Kale 472. These roots admit 'i' optionally in the First Future
     (setq ans
-	(conjugation-tab-ForC-main upa-syms class pada dhaatu  '(veT)))
+	(conjugation-tab-ForC-main upa-syms class pada dhaatu  '(veT) nil dbg))
    )
    ((and (equal dhaatu 'kLip) (equal pada 'P))
     ; Kale 473. 'kLip' is optionally 'P' in the futures and conditional,
     ; and when so it rejects 'i'
     (setq ans
-      (conjugation-tab-ForC-main upa-syms class pada dhaatu  '(aniT)))
+      (conjugation-tab-ForC-main upa-syms class pada dhaatu  '(aniT) nil dbg))
+    ;(fol-msg (format "chk 473 for kLip\n"))
    )
    ((equal dhaatu 'grah)
     ; Kale 474. The augment 'i' as added to 'grah' is long
     ; in all non-conjugational tenses, except in the Perfect
     (setq ans
-      (conjugation-tab-ForC-main upa-syms class pada dhaatu nil [ii]))
+      (conjugation-tab-ForC-main upa-syms class pada dhaatu nil [ii] dbg))
    )
    ((and (or (equal dhaatu 'vRi)
 	     (equal ylast 'RI)
@@ -589,9 +593,9 @@
     ; call '..-main' with aniT and with seT
     (let (ans1 ans2) 
      (setq ans1
-      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(aniT)))
+      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(aniT) nil dbg))
      (setq ans2
-      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT)))
+      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT) nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -599,9 +603,9 @@
     ; For logic to work properly, 'veT' must be separated here
     (let (ans1 ans2) 
      (setq ans1
-      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(aniT)))
+      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(aniT) nil dbg))
      (setq ans2
-      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT)))
+      (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT) nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -615,9 +619,9 @@
     ; Perfect, the Benedictive atmanepada, and the Aorist parasmaipada
     (let (ans1 ans2)
      (setq ans1
-       (conjugation-tab-ForC-main upa-syms class pada dhaatu nil [i]))
+       (conjugation-tab-ForC-main upa-syms class pada dhaatu nil [i] dbg))
      (setq ans2
-       (conjugation-tab-ForC-main upa-syms class pada dhaatu nil [ii]))
+       (conjugation-tab-ForC-main upa-syms class pada dhaatu nil [ii] dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -646,7 +650,7 @@
       (fol-msg (format "ForC-warning: %s %s %s %s\n"
 		       dhaatu class pada seT-code))
     )
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT)))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT) nil dbg))
    )
    ((and (member dhaatu '(kLip vRit vRidh shRidh syand))
 	 (equal pada 'A)
@@ -659,10 +663,11 @@
     ; Note: the present logic (implicitly) assumes this applies
     ; in the passive voice (whose form is 'A'), as well as active voice
     (let (ans1 ans2)
-     (setq ans1 (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+     (setq ans1 (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
      (setq ans2
-	   (conjugation-tab-ForC-main upa-syms class 'P dhaatu '(aniT)))
+	   (conjugation-tab-ForC-main upa-syms class 'P dhaatu '(aniT) nil dbg))
      (setq ans (join-arrays ans1 ans2))
+     ;(fol-msg (format "Kale 484 chk\n"))
     )
    )
    ((and (member dhaatu '(kRit chRit ChRid tRid nRit))
@@ -674,14 +679,14 @@
     ; with an 's' except in the Aorist
     ; By the examples on p. 305 and on p. 306, I inferred that
     ; this rule does not apply for the 'luT'.
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(veT)))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(veT) nil dbg))
    )
    ((and (equal dhaatu 'nRit) (equal ForC-sym 'luT))
     ; 'nRit' is classed as 'veT'
     ; however, from Kale dhaatukosha, its 'luT' (periphrastic future)
     ; is 'seT' (inserts 'i'). Also, on p. 306, Kale says 'nRit P' is
     ; to be conjugated like 'Chrid'
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT)))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT) nil dbg))
    )
    ((and (equal dhaatu 'i)
 	 (equal upa-syms '(adhi))
@@ -697,8 +702,8 @@
     ; of 'gaa' as a 'seT' verb
     ; NOTE: By the example, actually 'ii' is substituted for 'aa'
     (let (ans1 ans2)
-     (setq ans1 (conjugation-tab-ForC-main upa-syms class pada dhaatu))
-     (setq ans2 (conjugation-tab-ForC-main upa-syms class pada 'gaa '(seT)))
+     (setq ans1 (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
+     (setq ans2 (conjugation-tab-ForC-main upa-syms class pada 'gaa '(seT) nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
@@ -710,12 +715,12 @@
     ; before a consonantal weak termination.
     ; Note: for lRiT and lRi~N, all terminations are consonantal but
     ;  strong, thus these changes do not apply
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
    )
-   ((member dhaatu '(a~nj ash))
+   ((member dhaatu '(a~nj ash)) ; xxx
     ; Kale p. 304. Roots which are 'veT' in luT, lRit, lRi~N
     (setq ans
-       (conjugation-tab-ForC-main upa-syms class pada dhaatu '(veT)))
+       (conjugation-tab-ForC-main upa-syms class pada dhaatu '(veT) nil dbg))
    )
    ((member dhaatu '(gup dhuup vichCh paN pan kam Rit))
     ; Kale 461.
@@ -739,33 +744,33 @@
       )
      )
      (setq ans1
-       (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+       (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
      (setq ans2
-       (conjugation-tab-ForC-main upa-syms class pada dhaatu2 '(seT)))
+       (conjugation-tab-ForC-main upa-syms class pada dhaatu2 '(seT) nil dbg))
      (setq ans (join-arrays ans1 ans2))
     )
    )
    ((and (equal dhaatu 'dhuu) (equal class 6))
     ; Kale example p. 305
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT)))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(seT) nil dbg))
    )
    ((and (equal dhaatu 'dhuu) (equal class 1))
     ; Kale example p. 305
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(veT)))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu '(veT) nil dbg))
    )
    (t
-    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu))
+    (setq ans (conjugation-tab-ForC-main upa-syms class pada dhaatu nil nil dbg))
    )
   )
   ans
  )
 )
 (defun conjugation-tab-ForC-main (upa-syms class pada dhaatu 
-					  &optional seTCode i-insert)
+					  &optional seTCode i-insert dbg)
  (let (endings strengths ans n atok seT-gen btab itab
        bitab wparts parts types tense-sym)
-  (when nil
-   (fol-msg (format "ForC-main: %s %s %s %s %s %s\n"
+  (when dbg
+   (fol-msg (format "conjugation-tab-ForC-main: %s %s %s %s %s %s\n"
 		    upa-syms class pada dhaatu seTCode i-insert))
   )
   ;--- 1. construct endings and strengths; init ans
@@ -787,7 +792,7 @@
    (setq strengths (sanget 'Sup sym))
    (setq strengths (copy-sequence strengths))
   )
-  ;--- 3a. atok
+  ;--- 3a. atok ;; May 22, 2016 stopped here.
   (setq atok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   ;--- 3b. wparts , parts , types
   (setq wparts (word-parts atok))
@@ -862,10 +867,11 @@
       ; do no adjustments to 'b'. They have been done already
      )
      ((equal ForC-sym 'aashiirli~N)
-      (setq b (benedictive-base dhaatu class pada upa-syms seT-gen))
+      (setq b (benedictive-base dhaatu class pada upa-syms seT-gen dbg))
      )
      (t
-      (setq b (future-base dhaatu class pada upa-syms seT-gen))
+      (setq b (future-base dhaatu class pada upa-syms tense-sym seT-gen dbg))
+      ;(fol-msg (format "from future-base, b=%s, dbg=%s\n" b dbg))
      )
     )
     ;-- step1a: In case of 'lRi~N', join prefix 'a' to b
@@ -891,12 +897,15 @@
     (setq bitab (ForC-bitab btab itab))
    )
 
-  (when nil ; 't' for debug
-   (fol-msg (format "bitab=%s\n" bitab))
-   (fol-msg (format "endings=%s\n" endings))
+  (when dbg; 't' for debug
+   (fol-msg (format "conjugation-tab-ForC-main: bitab=%s\n" bitab))
+   (fol-msg (format "conjugation-tab-ForC-main:endings=%s\n" endings))
   )
   ;--- 6. combine base and endings to get ans
-   (setq ans (ForC-bitab-join bitab endings dhaatu strengths i-insert))
+   (setq ans (ForC-bitab-join bitab endings dhaatu strengths i-insert dbg))
+  (when dbg
+   (fol-msg (format "conjugation-tab-ForC-main:ans=%s\n" ans))
+  )
   ;--- 7. Irregularities not yet covered
   ; None of these for luT, lRiT, lRi~N
   (when (and (equal ForC-sym 'aashiirli~N) (equal pada 'A))
@@ -909,11 +918,18 @@
     )
    )
   )
+  (when dbg
+   (fol-msg (format "conjugation-tab-ForC-main: %s %s %s %s %s %s\n  ans = %s\n\n"
+		    upa-syms class pada dhaatu seTCode i-insert ans))
+  )
   ans
  )
 )
-(defun ForC-bitab (btab itab)
+(defun ForC-bitab (btab itab &optional dbg)
  (let (n i ans b c thisans b1 c1 c0)
+  (when dbg
+   (fol-msg (format "ForC-bitab %s\n" (list btab itab)))
+  )
   (setq n (length btab))
   (setq ans (make-vector n nil))
   (setq i 0)
@@ -940,9 +956,12 @@
   ans
  )
 )
-(defun ForC-bitab-join (bitab endings dhaatu strengths i-insert)
+(defun ForC-bitab-join (bitab endings dhaatu strengths i-insert &optional dbg)
  (let (ans i n y thisans base ending strength e a seT-code bi thisbi thisans1
 	   thisans2 strength)
+  (when dbg
+   (fol-msg (format "ForC-bitab-join %s\n" (list bitab endings dhaatu strengths i-insert)))
+  )
   (setq n (length bitab))
   (setq ans (make-vector n nil))
    (setq i 0)
@@ -999,6 +1018,9 @@
 (defun ForC-join1 (y seT-code ending0 dhaatu strength i-insert)
  ; based on 'conjugation-join'
  ; seT-code is either nil, 'seT' or 'aniT'
+ (when nil
+  (fol-msg (format "ForC-join1: %s %s %s %s %s %s\n" y seT-code ending0 dhaatu strength i-insert))
+ )
  (let (ans skiprefs ylast efirst ending y0 ny yfirst)
   ; insert 'i' if needed
   ; Note 'ending' may then be either a token, or a list of 2 tokens
@@ -1251,6 +1273,7 @@
       ; Kale p. 321. based on example of 'ash'
       (setq y0 (substring y 0 -1))
       (setq ans (vconcat y0 [k Sh] (substring ending 1))) 
+      ;(fol-msg (format "CHK kale p. 321. %s + %s -> %s\n" y ending ans))
      )
      ((member ylast '(bh b))
       ; case of 'labh': Kale p. 301
@@ -1292,6 +1315,7 @@
        (t
 ;        (setq ans (vconcat y ending))
         (setq ans (vconcat y0 [k Sh] (substring ending 1)))
+       ;(fol-msg (format "CHK join default. %s + %s -> %s\n" y ending ans))
        )
       )
      )
@@ -1322,6 +1346,8 @@
        )
       )
       (setq ans (vconcat y0 [k Sh] (substring ending 1)))
+      ;(fol-msg (format "CHK2 %s + %s => %s\n" y ending ans))
+      t
      )
     )
    ))
@@ -1341,6 +1367,7 @@
      )   
     )
     (sandhi-pair-skiprefs-set nil)
+    ;(fol-msg (format "CHK join default.2 %s + %s -> %s\n" y ending ans))
    )
   )
   (setq ans (or (sandhi-single ans) ans))
@@ -1505,8 +1532,11 @@
  )
 )
 
-(defun benedictive-base (dhaatu class pada upa-syms &optional seT-gen)
+(defun benedictive-base (dhaatu class pada upa-syms &optional seT-gen dbg)
  (let (atok types parts wparts tense b)
+  (when dbg
+   (fol-msg (format "benedictive_base %s\n" (list dhaatu class pada upasargas seT-gen )))
+  )
   (setq tense 'aashiirli~N)
   (setq atok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (setq wparts (word-parts atok))
@@ -1527,6 +1557,9 @@
       (t (setq pc (elt b (- nb 2))) ; penultimate char
       )
      )
+    )
+    (when dbg
+     (fol-msg (format "benedictive-base chk: parts=%s, types=%s,pada=%s,lc=%s,pc=%s,b=%s\n" parts types pada lc pc b))
     )
     ;-- step1: modify 'b' as appropriate for this general tense
     (cond
@@ -1578,6 +1611,9 @@
        ((and (samprasaaraNa-P dhaatu class) (not (equal dhaatu 'jyaa)))
 	 ; Kale 583. Roots capable of taking samprasaaraNa take it
 	(setq b (samprasaaraNa b))
+        (when dbg
+         (fol-msg (format "benedictive_base via samprasaaraNa=%s\n" b))
+        )
        )
        ((equal dhaatu 'shaas)
 	; 583. 'shaas' substitutes 'i' for its vowel
@@ -1600,6 +1636,7 @@
 	 (setq b1 (vconcat (substring b 0 -1) [e]))
 	 (setq b2 (vconcat (substring b 0 -1) [aa]))
 	 (setq b (list b1 b2))
+         ;(fol-msg (format "benedictive-base chk: FOUND THE base here, b=%s\n" b))
 	)
        )
        ((equal dhaatu 'han)
@@ -1662,11 +1699,18 @@
      )              
     )
    )
+  (when dbg
+   (fol-msg (format "benedictive_base returns %s\n" b))
+  )
   b
  )
 )
-(defun future-base (dhaatu class pada upa-syms tense &optional seT-gen)
+(defun future-base (dhaatu class pada upa-syms tense &optional seT-gen dbg)
  (let (atok types parts wparts b)
+  (when dbg
+   (fol-msg (format "future-base %s\n" (list dhaatu class pada upa-syms tense  seT-gen)))
+  )
+
   (if (not seT-gen)
    (setq seT-gen (ForC-seTCode dhaatu class pada upa-syms tense))
   )
@@ -1705,7 +1749,7 @@
 ;       )
      )
      ((equal dhaatu 'daridraa)
-      ; Kale 467. 'daridraa' drops its 'aa' before a non-conjugation
+      ; Kale 467. 'daridraa' drops its 'aa' before a non-conjUgation
       ; termination except in the Desiderative and the Aorist where
       ; it retains it optionally
       (setq b (substring b 0 -1))
@@ -1827,7 +1871,7 @@
   b
  )
 )
-(defun ForC-seTCode (dhaatu class pada upa-syms &optional tense)
+(defun ForC-seTCode (dhaatu class pada upa-syms &optional tense dbg)
  (let (temp)
   (if (not tense) (setq tense ForC-sym))
   (cond
@@ -1849,7 +1893,11 @@
     )
    )
   )
-  (solution temp) ; returned
+  (setq ans (solution temp))
+  (when dbg
+   (fol-msg (format "ForC-seTCode %s => %s\n" (list dhaatu class pada upa-syms tense) ans))
+  )
+  ans  ; returned
  )
 )
 (defun kale-584-P (dhaatu)
