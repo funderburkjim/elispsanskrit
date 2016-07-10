@@ -4282,7 +4282,7 @@ and the voice and class provided in
   t
  )
 )
-; July 10, 2016
+; July 10, 2016 
 (defun v-file-init-alt1-aorvar (intab indir outtab outdir n1 n2 &optional dbg)
 " Read from file like construct/dcpforms-MW.txt, and write aorist varieties
   for each line to output outdir/outtab

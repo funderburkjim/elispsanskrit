@@ -166,7 +166,7 @@ buffer)' --eval='(v-file-init-alt1-aorvar "dcpforms-MW-verb.txt" "prod/inputs"
 *scratch*") (write-file "MW-verb-aorvar-scratch.txt"))'  >& MW-verb-aorvar-log.
 txt
 The output is prod/outputs/MW-verb-aorvar.txt
-
+ 
 * Recompile everything 
  You probably won't need this, unless you start tinkering with the
  code.
