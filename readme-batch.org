@@ -160,12 +160,16 @@ Deshpande #37.
   3 : 'a' + reduplicated-root + 'a' + final termination : conj. 10
 
 In a terminal session, with prod/outputs as current directory, run:
-/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-
-buffer)' --eval='(v-file-init-alt1-aorvar "dcpforms-MW-verb.txt" "prod/inputs"
-"MW-verb-aorvar.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "
-*scratch*") (write-file "MW-verb-aorvar-scratch.txt"))'  >& MW-verb-aorvar-log.
-txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-aorvar "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-aorvar.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-aorvar-scratch.txt"))'  >& MW-verb-aorvar-log.txt
 The output is prod/outputs/MW-verb-aorvar.txt
+ 
+** MW-verb-aor.txt (July 10, 2016)
+Compute aorist conjugations for all aorist varieties of a verb.
+
+In a terminal session, with prod/outputs as current directory, run:
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-aor "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-aor.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer "*scratch*") (write-file "MW-verb-aor-scratch.txt"))'  >& MW-verb-aor-log.txt
+
+The output is prod/outputs/MW-verb-aor.txt
  
 * Recompile everything 
  You probably won't need this, unless you start tinkering with the

@@ -530,7 +530,7 @@
 (defvar aorist-sym nil) 
 (defvar aorist-pada nil)
 
-(defun aorist-varieties (dhaatu class pada upasargas)
+(defun aorist-varieties (dhaatu class pada upasargas &optional dbg)
  ; returns a list of numbers from 1 to 7, indicating
  ; which of the seven varieties of aorist apply.
  (let (ans  i n fname)
@@ -1046,8 +1046,10 @@
   [1 2 3 4 5 6 7]
  )
 )
-(defun conjugation-tab-aorist (upasargas class pada dhaatu
-				    &optional variety voice)
+(defun conjugation-tab-aorist (upasargas class pada dhaatu &optional variety voice dbg)
+ (when dbg
+  (fol-msg (format "conjugation-tab-aorist %s\n" (list upasargas class pada dhaatu variety voice)))
+ )
 ; When 'variety' is non-nil, the answer is nil or 
 ;   an array which is the conjugation table for this variety of the aorist.
 ; When 'variety' is nil and 'voice' is 'ACTIVE', 
@@ -1457,8 +1459,9 @@
 (defun conjugation-tab-aorist3-main (upasargas class pada dhaatux
 					  &optional seTCode i-insert)
  (let (dhaatu base endings strengths ans n atok seT-gen btab
-       wparts parts types tense-sym Eng-def)
-  (when nil
+       wparts parts types tense-sym Eng-def dbg)
+  ;(setq dbg t)
+  (when dbg
    (fol-msg (format "aorist3-main: %s %s %s %s %s %s\n"
 		    upasargas class pada dhaatux seTCode i-insert))
   )
@@ -1526,8 +1529,11 @@
      )
     )
     ;-- step2: construct btab
-;    (fol-msg (format "b1=%s\n" b1))
+    (when dbg
+     (fol-msg (format "aorist3-main: b1=%s\n" b1))
+    )
     (setq b1 (solution b1))
+    
     (if (not (listp b1)) ; usual case
      (setq btab (aorist3-make-btab b1 endings))
      (progn ; alternate case : 2 options
@@ -1795,8 +1801,9 @@
 (defun conjugation-tab-aorist4-main (upasargas class pada dhaatu 
 					  &optional seTCode i-insert)
  (let (endings strengths ans n atok seT-gen btab 
-       wparts parts types tense-sym)
-  (when nil
+       wparts parts types tense-sym dbg)
+  (setq dbg nil)
+  (when dbg
    (fol-msg (format "aorist-main4: %s %s %s %s %s %s\n"
 		    upasargas class pada dhaatu seTCode i-insert))
   )
@@ -1938,12 +1945,14 @@
      )
      ; reset lc as last letter of 'x'
      (setq lc (elt (substring x -1) 0))
+     (when dbg
+      (fol-msg (format "lc=%s,lcalt=%s,x=%s,xalt=%s\n" lc lcalt x xalt))
+     )
      ;loop through combining base with endings, and prefixing 'a'
 ;     (fol-msg (format "%s %s %s\n" dhaatu class pada))
      (setq i 0)
      (while (< i n)
       (setq ending (elt endings i))
-      
 	
 ;      (fol-msg (format "lc=%s, ending=%s\n" lc ending))
       (when (and
@@ -2555,7 +2564,7 @@
    )
    ((and (equal efirst 's)
 	(setq ans (aorist-join1-s y ending dhaatu)))
-;    (fol-msg (format "y ending ans=%s %s %s\n" y ending ans))
+    ;(fol-msg (format "ans from aorist-join1-s: y=%s, ending=%s, ans=%s \n" y ending ans))
     ans
    )
    ((and (equal efirst 'm) (equal ylast 'ch))
@@ -2582,6 +2591,7 @@
       (vconcat y ending)
      )   
     )
+    ;(fol-msg (format "aorist-join1. sandhi. %s + %s => %s\n" y ending ans))
     (sandhi-pair-skiprefs-set nil)
    )
   )
@@ -3790,7 +3800,8 @@
  ; get the base for aorist3 for the causal of the given dhaatu
  ; Also gets the base for class-10 roots
  ; Returns a list of token arrays.
- (let (ans b b1 b2 tok nb pc cb lc parts types i cb0)
+ (let (ans b b1 b2 tok nb pc cb lc parts types i cb0 dbg)
+  ;(setq dbg t)
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (let ( wparts)
    (setq lc (elt (substring tok -1) 0))
@@ -3805,16 +3816,23 @@
    (setq cb (class10-base tok))
   )
   (setq cb0 cb)
-;  (fol-msg (format "before: cb=%s\n" cb))
+  (when dbg
+   (fol-msg (format "before: cb=%s\n" cb))
+  )
   ; implement Kale 550
-  (let (cb1 cbnew cb2)
+  (let (cb1 cbnew cb2 cb1a)
    (while cb
-    (setq cb1 (car cb))
+    (setq cb1a (car cb))
     (setq cb (cdr cb))
-    (setq cb1 (aorist3-alter10 cb1 dhaatu))
+    (setq cb1 (aorist3-alter10 cb1a dhaatu))
+    (when dbg
+     (fol-msg (format "after aorist3-alter10(%s,%s), cb1=%s\n" cb1a dhaatu cb1))
+    )
     (when (member lc '(u uu))
      (setq cb2 (aorist3-alter10a cb1))
-;     (fol-msg (format "cb1=%s, cb2=%s\n" cb1 cb2))
+     (when dbg
+      (fol-msg (format "after aorist3-alter10a: cb1=%s, cb2=%s\n" cb1 cb2))
+     )
      (if (member dhaatu '(sru shru dru pru plu chyu)) ;Kale 550(a)
       (setq cb1 (list cb1 cb2))
       (setq cb1 cb2)
@@ -3824,7 +3842,9 @@
    )
    (setq cb cbnew)
   )
-;  (fol-msg (format "after 550: cb=%s\n" cb))
+  (when dbg
+   (fol-msg (format "after 550: cb=%s\n" cb))
+  )
   ; implement Kale 551
   (let (cb1 cbnew)
    (when (member dhaatu '(bhraaj bhaas bhaaSh diip jiiv miil piiD
@@ -3843,6 +3863,7 @@
      )
      ((member dhaatu '(lup luT luTh))
       ; based on examples, the initial 'u' is lengthened in the first form
+       '(fol-msg (format "chk: cb=%s\n" cb))
        (aset (car cb) 1 'uu)
      )
     )
@@ -3853,7 +3874,7 @@
     )
    )
   )
-'    (fol-msg (format "after 551: cb=%s\n" cb))
+  ;(fol-msg (format "after 551: cb=%s\n" cb))
 
   ; 'shvi' is exceptional (it optionally takes samprasaaraNa
   (when (equal dhaatu 'shvi)
@@ -3872,7 +3893,7 @@
     ; kale 554: preserve vowel unchanged (no 'i' substituted)
     (let (tok i n v v1 all ans1 this this1)
      (if (not (listp cb)) (setq all (list cb)) (setq all cb))
-;     (fol-msg (format "dhaatu=%s cb=%s\n" dhaatu cb))
+;     (fol-msg (format "Kale-400: dhaatu=%s cb=%s\n" dhaatu cb))
      (while all
       (setq this (car all))
       (setq all (cdr all))
@@ -3918,6 +3939,10 @@
        )
        (setq n1 (vector n1))
        (setq ans (vconcat v (substring c1 0 -2) n1 c2 i (substring c1 1)))
+       (when dbg
+        (fol-msg (format "Kale 549 (b). ans =%s\n" ans))
+       )
+       ans
       )
      )
      ((equal (length (elt parts 1)) 1) ; simple cons
@@ -3944,9 +3969,15 @@
     ; Kale 548(c) p. 341
     ; Roots having a penultimate 'Ri' or 'RI' optionally preserve it,
     ; with 'RI' being changed to 'Ri'
-    (setq b (vconcat (substring b 0 -2) [Ri] (substring b -1))); 'Ri'
-    (setq b (vconcat b [a y])) ; base preserving 'Ri'
-    (setq b (aorist3-alter10 b))
+    (let (b0)
+     (setq b0 b)
+     (setq b (vconcat (substring b 0 -2) [Ri] (substring b -1))); 'Ri'
+     (setq b (vconcat b [a y])) ; base preserving 'Ri'
+     (setq b (aorist3-alter10 b))
+     (when dbg
+      (fol-msg (format "Kale 548(c), after aorist3-alter10. b0=%s,b=%s\n" b0 b))
+     )
+    )
     ; make two options
     (setq ans (append cb (list b)))
    )
@@ -3954,7 +3985,7 @@
     (setq ans cb)
    )
   )
-;  (fol-msg (format "after: cb=%s\n" cb))
+  ;(fol-msg (format "aorist-causal-base: after: cb=%s, ans=%s\n" cb ans))
   (if (not (listp ans)) (setq ans (list ans)))
   ans
  )
@@ -3985,9 +4016,13 @@
  ; carry out the alterations of Kale 548(a), applicable to
  ; roots of the 10th class and of causals. Includes reduplication
  ; Assumes, if class 10, the conjugation-10 base already reflected in 'tok'.
- (let (ans b wparts parts types ntypes ivowel jvowel b1)
+ (let (ans b wparts parts types ntypes ivowel jvowel b1 dbg)
 ;   (fol-msg (format "tok=%s\n" tok))
   (setq b (aorist3-reduplicate tok dhaatu))
+  ;(setq dbg t)
+  (when dbg
+   (fol-msg (format "aorist3-alter10(%s,%s) after aorist3-reduplicate, b=%s\n" tok dhaatu b))
+  )
   ; Kale 548 b.
   ; If the vowel of the reduplicative syllable is 'a',
   ; it is changed to 'i' if the syllable following it
@@ -4012,8 +4047,6 @@
   (setq parts (elt wparts 0))
   (setq types (elt wparts 1))
   (setq ntypes (length types)) 
-;  (fol-msg (format "chk: %s %s\n" (substring parts 2 4) (elt parts 1)))
-
   (cond
    ((and (<= 5 ntypes) (equal (substring types 0 5) "CVCVC"))
     (setq ivowel 1)
@@ -4022,7 +4055,9 @@
     (setq ivowel 0)
    )
   )
-;  (fol-msg (format "parts=%s, types=%s, ivowel=%s\n" parts types ivowel))
+  (when dbg
+   (fol-msg (format "chk: parts=%s, types=%s, ivowel=%s\n" parts types ivowel))
+  )
   (cond
    (ivowel
     (setq jvowel (+ ivowel 2))
@@ -4038,6 +4073,9 @@
 		(not (prosodially-long-P parts ivowel))
 	   )
       (aset parts ivowel [ii]) ; lengthen 'i'
+      (when dbg
+       (fol-msg (format "chk: parts now =%s\n" parts))
+      )
      )
      (when (and (equal (elt parts ivowel) [u])
 	        (shortvowel-P (elt (elt parts jvowel) 0))
@@ -4111,7 +4149,11 @@
 		(consonant-P (elt (substring b -2 -1) 0))
            )
       )
+    (progn
+    ;(fol-msg (format "aorist3-reduplicate chk: b before=%s\n" b))
     (setq b (aorist3-shorten-1st-vowel b))
+    ;(fol-msg (format "aorist3-reduplicate chk: b  after=%s\n" b))
+    )
    )
   )
   ; reduplicate in 'usual' way

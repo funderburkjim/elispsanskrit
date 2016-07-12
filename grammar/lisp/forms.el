@@ -4374,7 +4374,7 @@ and the voice and class provided in
   )
   (setq err nil)
   (condition-case err
-   (let (aorvars dhaatu root1 class1 voice1 upasargas outline-pfx )
+   (let (aorvars dhaatu root1 class1 voice1 upasargas outline-pfx aorvar tenses )
     (setq root1 (intern root))
     (if (equal voice "a")
      (setq voice1 'P)
@@ -4401,5 +4401,99 @@ and the voice and class provided in
   )
   )
   (if err nil outlines)
+ )
+)
+(defun v-file-init-alt1-aor (intab indir outtab outdir n1 n2 &optional dbg)
+" Read from file like construct/dcpforms-MW.txt, 
+  compute aorist varieties, and, for each variety, output the conjugation,
+  use the the voice and class provided in 
+  dcpforms-MW.txt
+  Sample records are:
+  (Ap 5 P <MW=Ap,35737,1>)
+  (As 2 A <MW=As,39445,1>)
+  (BA 2 A <MW=vy-ati-BA,262287,1>)
+  Output is constructed by routine v-file-init-alt1-aorvar-helper.
+ "
+ (let (filein bufin bufout fileout outputs output nin nout
+       words root class pada dict voice tense)
+  (setq nin 0)
+  (setq nout 0)
+  (setq filein (sangram-filename intab indir))
+  (setq bufin (find-file-noselect filein 't)) ; 't suppresses warning
+  (setq fileout (sangram-filename outtab outdir))
+  ;(fol-msg (format "fileout=%s\n" fileout))
+  ;(fol-msg (format "filein=%s\n" filein))
+  (setq bufout (find-file-noselect fileout 't)) ; 't suppresses warning
+  (with-current-buffer bufout ; empty fileout, in case it already existed
+   (erase-buffer)
+  )
+  (with-current-buffer bufin
+   (goto-char 1)
+   (while (< (point) (point-max))
+    (let (line root class pada err)
+     (setq outputs nil)
+     (setq line (current-line))
+     (setq nin (1+ nin))
+     (when (and (<= n1 nin) (<= nin n2))
+     (when dbg ;dbg
+      (fol-msg (format "%s line=%s\n" intab line)))
+     (condition-case err
+      (progn  
+       ; as in v-file-init2a
+       ;  skip initial and final parens in current line
+       (setq line (substring line 1 -1))
+       (setq words (gen-word-list line " ")) ; space for dcpforms-MW.txt
+       (setq root (elt words 0))
+       (setq class (elt words 1))
+       (setq pada (elt words 2))
+       (setq dict (string-trim (elt words 3))) ; unused
+       ; as in v-file-init2a-helper. Change Pada to 'voice', per Scharf
+       (setq voice (if (equal pada "P") "a" "m"))
+       ; next words -> ; ["MW" "gaRi-mat" "83017" "1"]
+       (let (root1 voice1 class1 upasargas aorvars dhaatu aorvar tenses)
+        (if (equal voice "a")
+         (setq voice1 'P)
+	 (setq voice1 'A)
+	)
+	(setq root1 (intern root))
+	(setq class1 (string-to-number class))
+	(setq dhaatu (translate-SLP1-ITRANS root1))
+	(setq upasargas nil)
+	(setq aorvars (aorist-varieties dhaatu class1 voice1 nil))
+        (setq tenses (mapcar (lambda (x) (intern (format "aor%s" x))) aorvars))
+        ;(setq dbg t)
+        (setq outputs (v-file-init-alt1-pre-helper root class voice tenses nil dbg))
+        ;(setq outputs nil)
+        ;(fol-msg (format "%s has %s outputs\n" (list root class voice tenses) (length outputs)))
+        (if (not outputs)
+         (fol-msg (format "error@line: %s\n" line))
+        )
+       )
+      )
+      (error
+       (fol-msg (format "error(%s)\n" err))
+       (fol-msg (format "error in file-init @ line= '%s'\n" line))
+      )
+     )
+     ; append output to bufout
+     (when outputs
+      (setq nout (1+ nout))
+     )
+     (with-current-buffer bufout
+      (while outputs
+       (setq output (car outputs)) 
+       (setq outputs (cdr outputs))
+       (insert output)
+      )
+     )
+     )
+    )
+    (forward-line)
+   )
+  )
+  (kill-buffer bufin)
+  (with-current-buffer bufout (save-buffer 0))
+  (kill-buffer bufout)
+  t
  )
 )

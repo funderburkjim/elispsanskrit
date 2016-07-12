@@ -1184,6 +1184,8 @@
      )
     )
     ((member lcnum '(1 2 3 4 5 6 7)) ; aorist variety
+     (when dbg (fol-msg (format "construct-conjtab1a-gentense calling conjugation-tab-aorist\n"))
+     )
      (setq ctabs
       (conjugation-tab-aorist upasargas class pada dhaatu lcnum voice dbg))
     )
@@ -1409,8 +1411,11 @@
   ans
  )
 )
-(defun causal-conjtab1a-gentense (dhaatu class pada upasargas tense voice)
+(defun causal-conjtab1a-gentense (dhaatu class pada upasargas tense voice &optional dbg)
  (let (ctabs ctab lc lcnum bases base nilpada causalclass thefunc base1)
+  (if dbg
+   (fol-msg (format "causal-conjtab1a-gentense %s\n" (list dhaatu class pada upasargas tense voice)))
+  )
   (if (not (member voice '(ACTIVE PASSIVE)))
     (setq voice 'ACTIVE)
   )
@@ -1432,9 +1437,13 @@
     (setq bases (cdr bases))
 ;    (fol-msg (format "base=%s\n" base))
     (if (equal tense 'lu~N3)
-     (setq ctab
-      (conjugation-tab-aorist upasargas causalclass pada 
+     (progn
+      ;(fol-msg (format "calling conjugation-tab-aorist\n"))
+      (setq ctab
+       (conjugation-tab-aorist upasargas causalclass pada 
 	     dhaatu lcnum  voice)
+      )
+      ;(fol-msg (format "back from calling conjugation-tab-aorist\n"))
      )
      (setq ctab
       (funcall thefunc upasargas causalclass pada base voice)
