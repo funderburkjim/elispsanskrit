@@ -171,6 +171,152 @@ In a terminal session, with prod/outputs as current directory, run:
 
 The output is prod/outputs/MW-verb-aor.txt
  
+* Batches for Verbal derivative stems
+** MW-verb-inf.txt (July 13, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-inf "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-inf.txt" "prod/outputs" 1 3000)' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-inf-scratch.txt"))'  >& MW-verb-inf-log.txt
+The output is prod/outputs/MW-verb-inf.txt
+
+** MW-verb-ppp.txt (July 14, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-ppp.txt" "prod/outputs" 1 3000 "ppp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-ppp-scratch.txt"))'  >& MW-verb-ppp-log.txt
+The output is prod/outputs/MW-verb-ppp.txt
+** MW-verb-ipp.txt (July 16, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+indeclineable past participle (-tvA)
+The output is prod/outputs/MW-verb-ipp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-ipp.txt" "prod/outputs" 1 3000 "ipp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-ipp-scratch.txt"))'  >& MW-verb-ipp-log.txt
+** MW-verb-ippa.txt (July 17, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+indeclineable past participle for prefixed verbs
+The output is prod/outputs/MW-verb-ippa.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-ippa.txt" "prod/outputs" 1 3000 "ippa")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-ippa-scratch.txt"))'  >& MW-verb-ippa-log.txt
+
+** MW-verb-pap.txt (July 17, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+past active participle
+The output is prod/outputs/MW-verb-pap.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-pap.txt" "prod/outputs" 1 3000 "pap")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-pap-scratch.txt"))'  >& MW-verb-pap-log.txt
+
+** MW-verb-prap.txt (July 18, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+present active participle
+The output is prod/outputs/MW-verb-prap.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prap.txt" "prod/outputs" 1 3000 "prap")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-prap-scratch.txt"))'  >& MW-verb-prap-log.txt
+** MW-verb-prmp.txt (July 18, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+present middle participle
+The output is prod/outputs/MW-verb-prmp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prmp.txt" "prod/outputs" 1 3000 "prmp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-prmp-scratch.txt"))'  >& MW-verb-prmp-log.txt
+** MW-verb-prpp.txt (July 18, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+present passive participle
+The output is prod/outputs/MW-verb-prpp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prpp.txt" "prod/outputs" 1 3000 "prpp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-prpp-scratch.txt"))'  >& MW-verb-prpp-log.txt
+** MW-verb-potp.txt (July 18, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+potential passive participle (gerundive)
+The output is prod/outputs/MW-verb-potp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-potp.txt" "prod/outputs" 1 3000 "potp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-potp-scratch.txt"))'  >& MW-verb-potp-log.txt
+
+** MW-verb-rpp.txt (July 18, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+reduplicate past participle
+The output is prod/outputs/MW-verb-rpp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-rpp.txt" "prod/outputs" 1 3000 "rpp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-rpp-scratch.txt"))'  >& MW-verb-rpp-log.txt
+** MW-verb-fap.txt (July 19, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+future active participle
+The output is prod/outputs/MW-verb-fap.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fap.txt" "prod/outputs" 1 3000 "fap")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-fap-scratch.txt"))'  >& MW-verb-fap-log.txt
+
+** MW-verb-fmp.txt (July 19, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+future middle participle
+The output is prod/outputs/MW-verb-fmp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fmp.txt" "prod/outputs" 1 3000 "fmp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-fmp-scratch.txt"))'  >& MW-verb-fmp-log.txt
+** MW-verb-fpp.txt (July 19, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+future passive participle
+The output is prod/outputs/MW-verb-fpp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fpp.txt" "prod/outputs" 1 3000 "fpp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-fpp-scratch.txt"))'  >& MW-verb-fpp-log.txt
+
+* Batches for participle declensions
+** MW-verb-ppp.txt (July ?, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-ppp.txt" "prod/outputs" 1 3000 "ppp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-ppp-scratch.txt"))'  >& MW-verb-ppp-log.txt
+The output is prod/outputs/MW-verb-ppp.txt
+** MW-verb-pap.txt (July ?, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+past active participle
+The output is prod/outputs/MW-verb-pap.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-pap.txt" "prod/outputs" 1 3000 "pap")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-pap-scratch.txt"))'  >& MW-verb-pap-log.txt
+
+** MW-verb-prap.txt (July 19, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+present active participle declension
+The output is prod/outputs/MW-verb-prap-decl.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle-decl "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prap-decl.txt" "prod/outputs" 1 3000 "prap")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-prap-decl-scratch.txt"))'  >& MW-verb-prap-decl-log.txt
+** MW-verb-prmp.txt (July 20, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+present active participle declension
+The output is prod/outputs/MW-verb-prmp-decl.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle-decl "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prmp-decl.txt" "prod/outputs" 1 3000 "prmp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-prmp-decl-scratch.txt"))'  >& MW-verb-prmp-decl-log.txt
+** MW-verb-prpp.txt (July 20, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+present passive participle declension
+The output is prod/outputs/MW-verb-prpp-decl.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle-decl "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-prpp-decl.txt" "prod/outputs" 1 3000 "prpp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-prpp-decl-scratch.txt"))'  >& MW-verb-prpp-decl-log.txt
+** MW-verb-potp.txt (July ?, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+potential passive participle (gerundive)
+The output is prod/outputs/MW-verb-potp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-potp.txt" "prod/outputs" 1 3000 "potp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-potp-scratch.txt"))'  >& MW-verb-potp-log.txt
+
+** MW-verb-rpp.txt (July ?, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+reduplicate past participle
+The output is prod/outputs/MW-verb-rpp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-rpp.txt" "prod/outputs" 1 3000 "rpp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-rpp-scratch.txt"))'  >& MW-verb-rpp-log.txt
+** MW-verb-fap.txt (July 20, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+future active participle declension
+The output is prod/outputs/MW-verb-fap-decl.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle-decl "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fap-decl.txt" "prod/outputs" 1 3000 "fap")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-fap-decl-scratch.txt"))'  >& MW-verb-fap-decl-log.txt
+** MW-verb-fmp.txt (July 20, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+future middle participle declension
+The output is prod/outputs/MW-verb-fmp-decl.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle-decl "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fmp-decl.txt" "prod/outputs" 1 3000 "fmp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-fmp-decl-scratch.txt"))'  >& MW-verb-fmp-decl-log.txt
+** MW-verb-fpp.txt (July ?, 2016)
+In a terminal session, with prod/outputs as current directory, run:
+Note uses: v-file-init-alt1-participle
+future passive participle
+The output is prod/outputs/MW-verb-fpp.txt
+/c/emacs-23.2/bin/emacs.exe --batch --file=../../lisp/start.el --eval='(eval-buffer)' --eval='(v-file-init-alt1-participle "dcpforms-MW-verb.txt" "prod/inputs" "MW-verb-fpp.txt" "prod/outputs" 1 3000 "fpp")' --eval='(progn (switch-to-buffer " *scratch*") (write-file "MW-verb-fpp-scratch.txt"))'  >& MW-verb-fpp-log.txt
+
+
 * Recompile everything 
  You probably won't need this, unless you start tinkering with the
  code.

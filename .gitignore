@@ -4,4 +4,7 @@
 ejfnotes.txt
 # Python byte code
 *.pyc
-
+# scratch files from batch constructions (see readme-batch.org)
+MW-*-scratch.txt
+MW-*-log.txt
+temp*.txt

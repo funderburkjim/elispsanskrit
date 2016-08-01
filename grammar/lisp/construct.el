@@ -3206,7 +3206,18 @@
     (lambda (x)
      ; x is a symbol (ending in 'y', e.g. 'budhy'
      ; we append 'amaan' to get the base
-     (declension-join x 'amaan)
+     ; July 20, 2016. declension-join uses token arrays as arguments,
+     ; not symbols.
+     ; thus, we first change x and 'amaan to token arrays,
+     ; apply declension-join, then revert the token array to a symbol
+     (let (xtok etok atok e)
+     ; (declension-join x 'amaan)
+      (setq xtok (car (ITRANS-parse-words-1 (symbol-name x))))
+      (setq e 'amaan)
+      (setq etok (car (ITRANS-parse-words-1 (symbol-name e))))
+      (setq atok (declension-join xtok etok))
+      (sym-without-space atok)
+     )
     )
     praatipadikas
    )

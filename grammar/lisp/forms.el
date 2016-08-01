@@ -1833,10 +1833,10 @@
   ; put 'root' line in file
   (with-current-buffer bufout
    (goto-char 1)
-   (when (equal (buffer-substring 1 5) "root")  ; be sure file is ok
-     nil
+   ;(when (equal (buffer-substring 1 5) "root")  ; be sure file is ok
+   ;  nil
 ;    (fol-msg (format "unknown root file: %s %s %s %s\n" root class pada dict))
-   )
+  ; )
    (save-buffer 0) ; don't make duplicate
   )
   (kill-buffer bufout)
@@ -4370,7 +4370,7 @@ and the voice and class provided in
 (let (err outline outlines)
   (when dbg 
    (fol-msg (format "v-file-init-alt1-aorvar-helper: %s\n"
-		  (list root class voice tenses)))
+		  (list root class voice )))
   )
   (setq err nil)
   (condition-case err
@@ -4486,6 +4486,819 @@ and the voice and class provided in
        (insert output)
       )
      )
+     )
+    )
+    (forward-line)
+   )
+  )
+  (kill-buffer bufin)
+  (with-current-buffer bufout (save-buffer 0))
+  (kill-buffer bufout)
+  t
+ )
+)
+; July 13, 2016
+(defun v-file-init-alt1-inf (intab indir outtab outdir n1 n2 &optional dbg)
+" Read from file like construct/dcpforms-MW.txt, and write 
+  infinitives  for each line to output outdir/outtab
+  Use the the voice and class provided in 
+  dcpforms-MW.txt
+  Sample records are:
+  (Ap 5 P <MW=Ap,35737,1>)
+  (As 2 A <MW=As,39445,1>)
+  (BA 2 A <MW=vy-ati-BA,262287,1>)
+  Output is constructed by routine v-file-init-alt1-inf-helper.
+ "
+ (let (filein bufin bufout fileout outputs output nin nout
+       words root class pada dict voice tenses)
+  (setq nin 0)
+  (setq nout 0)
+  (setq filein (sangram-filename intab indir))
+  (setq bufin (find-file-noselect filein 't)) ; 't suppresses warning
+  (setq fileout (sangram-filename outtab outdir))
+;  (fol-msg (format "fileout=%s\n" fileout))
+  (setq bufout (find-file-noselect fileout 't)) ; 't suppresses warning
+  (with-current-buffer bufout ; empty fileout, in case it already existed
+   (erase-buffer)
+  )
+  (with-current-buffer bufin
+   (goto-char 1)
+   (while (< (point) (point-max))
+    (let (line root class pada err)
+     (setq outputs nil)
+     (setq line (current-line))
+     (setq nin (1+ nin))
+     (when (and (<= n1 nin) (<= nin n2))
+     (when dbg
+      (fol-msg (format "%s line=%s\n" intab line)))
+     (condition-case err
+      (progn  
+       ; as in v-file-init2a
+       ;  skip initial and final parens in current line
+       (setq line (substring line 1 -1))
+       (setq words (gen-word-list line " ")) ; space for dcpforms-MW.txt
+       (setq root (elt words 0))
+       (setq class (elt words 1))
+       (setq pada (elt words 2))
+       (setq dict (string-trim (elt words 3))) ; unused
+       ; as in v-file-init2a-helper. Change Pada to 'voice', per Scharf
+       (setq voice (if (equal pada "P") "a" "m"))
+       ; next words -> ; ["MW" "gaRi-mat" "83017" "1"]
+       (let (root1 class1 voice1 upasargas infs dtype outline-pfx outline)
+        ;(setq outputs (v-file-init-alt1-inf-helper root class voice dbg))
+        (setq root1 (intern root))
+	(setq class1 (string-to-number class))
+	(setq voice1 (intern voice))
+        (setq infs (SL-inf root1 class1 voice1 dtype))
+        (setq outputs nil)
+	(when infs
+         (setq outline-pfx (format ":%s %s %s%s" root "inf" class voice ))
+	 ; for uniformity of output
+         (if (not (listp infs)) (setq infs (list infs))) 
+         (setq outline (format "%s:%s\n" outline-pfx infs))
+	 (setq outputs (list outline))
+        )
+        (if (not outputs)
+         (fol-msg (format "error@line: %s\n" line))
+        )
+       )
+      )
+      (error
+       (fol-msg (format "error(%s)\n" err))
+       (fol-msg (format "error in file-init @ line= '%s'\n" line))
+      )
+     )
+     )
+     ; append output to bufout
+     (when outputs
+      (setq nout (1+ nout))
+     )
+     (with-current-buffer bufout
+      (while outputs
+       (setq output (car outputs)) 
+       (setq outputs (cdr outputs))
+       (insert output)
+      )
+     )
+    )
+    (forward-line)
+   )
+  )
+  (kill-buffer bufin)
+  (with-current-buffer bufout (save-buffer 0))
+  (kill-buffer bufout)
+  t
+ )
+)
+; July 14, 2016
+(defun v-file-init-alt1-participle (intab indir outtab outdir n1 n2 partcode &optional dbg)
+" Read from file like construct/dcpforms-MW.txt, and write 
+  the participles according to 'partcode'  for each line to output outdir/outtab
+  Use the the voice and class provided in 
+  dcpforms-MW.txt
+  Sample records are:
+  (Ap 5 P <MW=Ap,35737,1>)
+  (As 2 A <MW=As,39445,1>)
+  (BA 2 A <MW=vy-ati-BA,262287,1>)
+  Output is constructed by routine v-file-init-alt1-inf-helper.
+ "
+ (let (filein bufin bufout fileout outputs output nin nout
+       words root class pada dict voice tenses)
+  (setq nin 0)
+  (setq nout 0)
+  (setq filein (sangram-filename intab indir))
+  (setq bufin (find-file-noselect filein 't)) ; 't suppresses warning
+  (setq fileout (sangram-filename outtab outdir))
+;  (fol-msg (format "fileout=%s\n" fileout))
+  (setq bufout (find-file-noselect fileout 't)) ; 't suppresses warning
+  (with-current-buffer bufout ; empty fileout, in case it already existed
+   (erase-buffer)
+  )
+  (with-current-buffer bufin
+   (goto-char 1)
+   (while (< (point) (point-max))
+    (let (line root class pada err)
+     (setq outputs nil)
+     (setq line (current-line))
+     (setq nin (1+ nin))
+     (when (and (<= n1 nin) (<= nin n2))
+     (when dbg
+      (fol-msg (format "%s line=%s\n" intab line)))
+     (condition-case err
+      (progn  
+       ; as in v-file-init2a
+       ;  skip initial and final parens in current line
+       (setq line (substring line 1 -1))
+       (setq words (gen-word-list line " ")) ; space for dcpforms-MW.txt
+       (setq root (elt words 0))
+       (setq class (elt words 1))
+       (setq pada (elt words 2))
+       (setq dict (string-trim (elt words 3))) ; unused
+       ; as in v-file-init2a-helper. Change Pada to 'voice', per Scharf
+       (setq voice (if (equal pada "P") "a" "m"))
+       ; next words -> ; ["MW" "gaRi-mat" "83017" "1"]
+       (let (root1 class1 voice1 upasargas infs dtype dhaatu val sl-val pada1 
+            outline-pfx outline)
+        ;(setq outputs (v-file-init-alt1-inf-helper root class voice dbg))
+        (setq root1 (intern root))
+	(setq class1 (string-to-number class))
+	(setq voice1 (intern voice))
+        (setq pada1 (intern pada))
+        (setq dhaatu (translate-SLP1-ITRANS root1))
+        ;(setq infs (SL-inf root1 class1 voice1 dtype))
+        (setq outputs nil)
+        (cond
+         ((equal partcode "ppp")
+          (setq val (construct-pppart1a dhaatu class1 pada1 upasargas))
+          (if (not (listp val)) (setq val (list val)))
+	  (setq sl-val (translate-ITRANS-SLP1 val))
+	  (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+          (setq outline (format "%s:%s\n" outline-pfx sl-val))
+          (setq outputs (list outline))
+         )
+         ((equal partcode "pap") ; past active participle
+          (setq val (construct-pppart1a dhaatu class1 pada1 upasargas))
+          ; Refer Deshpande p. 176.
+          (if (not (listp val)) (setq val (list val)))
+ 	  (setq sl-val (translate-ITRANS-SLP1 val))
+          ; append 'vat' to the past passive participle
+          (setq sl-val 
+           (mapcar (lambda (v) (format "%svat" v)) sl-val)
+          )
+	  (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+          (setq outline (format "%s:%s\n" outline-pfx sl-val))
+          (setq outputs (list outline))
+         )
+         ((equal partcode "ipp")
+          (setq val (construct-ippart1a-tvaa dhaatu class1 pada1 upasargas))
+          (if (not (listp val)) (setq val (list val)))
+	  (setq sl-val (translate-ITRANS-SLP1 val))
+	  (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+          (setq outline (format "%s:%s\n" outline-pfx sl-val))
+          (setq outputs (list outline))
+         )
+         ((equal partcode "ippa")
+          (setq val (construct-ippart1a-ya dhaatu class1 pada1 upasargas))
+          (if (not (listp val)) (setq val (list val)))
+	  (setq sl-val (translate-ITRANS-SLP1 val))
+	  (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+          (setq outline (format "%s:%s\n" outline-pfx sl-val))
+          (setq outputs (list outline))
+         )
+         ((equal partcode "prap") ; only for ParasmaiPada
+          (when (equal pada1 'P)
+           (setq val (construct-prespart-base-alt-P dhaatu class1 pada1 upasargas))
+           ;(if (not (listp val)) (setq val (list val)))
+           ; val is a list of pairs (x y), where
+           ; x is the prap stem, BUT without the ending 't', and
+	   ; y is a 'strength' code for the feminine type
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 (car v)))
+             (format "%st" v)
+            )
+            val
+           ))
+           (when val ; val may be nil, example vac 2 a (vach 2 'P nil)
+            ;(setq sl-val (translate-ITRANS-SLP1 val))
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "prmp") ; only for AtmanePada
+          (when (equal pada1 'A)
+           (setq val (construct-prespart-base-alt-A dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  BUT without the ending 'a'
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "prpp") ; present passive participle
+          (when t ; for both padas
+           (setq val (construct-passpart-base-alt dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  BUT without the ending 'a'
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "potp") ; potentia passive participle (gerundive)
+          (when t ; for both padas
+           (setq val (construct-potpart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  no further adjustment required
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%s" v)
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "rpp") ; reduplicate past participle
+          (when t ; for both padas
+           (setq val (construct-rppart1a dhaatu class1 pada1 upasargas))
+           ; there are two forms of val.
+           ; when pada is P, a list of pairs (strong/weak) needed for
+	   ;  declensions in 'vas'.  In this case, we list the 'headword'
+	   ;  form by appending 'as' to the first element of pair.
+	   ; when pada is A, there is a list of singletons, to each of which
+	   ; we add an 'a', so the heaword form ends in Ana (or ARa)
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (when (equal pada1 'P)
+              (setq v (translate-ITRANS-SLP1 (car v)))
+              (setq v (format "%sas" v))
+             )
+             (when (equal pada1 'A)
+              (setq v (translate-ITRANS-SLP1 v))
+              (setq v (format "%sa" v))
+             )
+             v             
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "fap") ; only for ParasmaiPada
+          (when (equal pada1 'P)
+           (setq val (construct-futpart1a dhaatu class1 pada1 upasargas))
+	   ;(fol-msg (format "val=%s\n" val))
+           (if (not (listp val)) (setq val (list val)))
+           ; val is a list of forms ending in y.
+	   ; example gam 1 P.  val = (gamiShy)
+	   ; We want to return the 'citation form', (gamiShyat)
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sat" v)
+            )
+            val
+           ))
+           (when val ; val may be nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "fmp") ; only for Atmanepada
+          (when (equal pada1 'A)
+           (setq val (construct-futpart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of forms 
+	   ; example gam 1 A.  val = (gamsyamaan)
+	   ; We want to return the 'citation form', (gamsyamaana)
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; 
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+	 ((equal partcode "fpp") ; 
+          (when t ; for either parasmaipada or atmanepada. duplicates welcomed
+           (setq val (construct-futppart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of forms 
+	   ; example gam 1 A.  val = (gamsyamaan)
+	   ; We want to return the 'citation form', (gamsyamaana)
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; 
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         (t
+          (fol-msg (format "partcode unknown: %s\n" partcode))
+          (goto-char (point-max)) ; end
+         )
+        )
+       )
+      )
+      (error
+       (fol-msg (format "error(%s)\n" err))
+       (fol-msg (format "error in file-init @ line= '%s'\n" line))
+      )
+     )
+     )
+     ; append output to bufout
+     (when outputs
+      (setq nout (1+ nout))
+     )
+     (with-current-buffer bufout
+      (while outputs
+       (setq output (car outputs)) 
+       (setq outputs (cdr outputs))
+       (insert output)
+      )
+     )
+    )
+    (forward-line)
+   )
+  )
+  (kill-buffer bufin)
+  (with-current-buffer bufout (save-buffer 0))
+  (kill-buffer bufout)
+  t
+ )
+)
+; July 19, 2016
+; Declension tables for participles
+(defun v-file-init-alt1-participle-decl (intab indir outtab outdir n1 n2 partcode &optional dbg)
+" Read from file like construct/dcpforms-MW.txt, and write 
+  the participle declensions according to 'partcode'  for each line to output outdir/outtab
+  Use the the voice and class provided in dcpforms-MW.txt
+  decline for all 3 genders
+  Sample records are:
+  (Ap 5 P <MW=Ap,35737,1>)
+  (As 2 A <MW=As,39445,1>)
+  (BA 2 A <MW=vy-ati-BA,262287,1>)
+  Output is constructed by routine v-file-init-alt1-inf-helper.
+ "
+ (let (filein bufin bufout fileout outputs output nin nout
+       words root class pada dict voice tenses)
+  (setq nin 0)
+  (setq nout 0)
+  (setq filein (sangram-filename intab indir))
+  (setq bufin (find-file-noselect filein 't)) ; 't suppresses warning
+  (setq fileout (sangram-filename outtab outdir))
+;  (fol-msg (format "fileout=%s\n" fileout))
+  (setq bufout (find-file-noselect fileout 't)) ; 't suppresses warning
+  (with-current-buffer bufout ; empty fileout, in case it already existed
+   (erase-buffer)
+  )
+  (with-current-buffer bufin
+   (goto-char 1)
+   (while (< (point) (point-max))
+    (let (line root class pada err)
+     (setq outputs nil)
+     (setq line (current-line))
+     (setq nin (1+ nin))
+     (when (and (<= n1 nin) (<= nin n2))
+     (when dbg
+      (fol-msg (format "%s line=%s\n" intab line)))
+     (condition-case err
+      (progn  
+       ; as in v-file-init2a
+       ;  skip initial and final parens in current line
+       (setq line (substring line 1 -1))
+       (setq words (gen-word-list line " ")) ; space for dcpforms-MW.txt
+       (setq root (elt words 0))
+       (setq class (elt words 1))
+       (setq pada (elt words 2))
+       (setq dict (string-trim (elt words 3))) ; unused
+       ; as in v-file-init2a-helper. Change Pada to 'voice', per Scharf
+       (setq voice (if (equal pada "P") "a" "m"))
+       ; next words -> ; ["MW" "gaRi-mat" "83017" "1"]
+       (let (root1 class1 voice1 upasargas infs dtype dhaatu val sl-val pada1 vals gender outline-pfx  outline)
+        ;(setq outputs (v-file-init-alt1-inf-helper root class voice dbg))
+        (setq root1 (intern root))
+	(setq class1 (string-to-number class))
+	(setq voice1 (intern voice))
+        (setq pada1 (intern pada))
+        (setq dhaatu (translate-SLP1-ITRANS root1))
+        ;(setq infs (SL-inf root1 class1 voice1 dtype))
+        (setq outputs nil)
+        (cond
+         ((equal partcode "ppp")
+          (setq val (construct-pppart1a dhaatu class1 pada1 upasargas))
+          (if (not (listp val)) (setq val (list val)))
+	  (setq sl-val (translate-ITRANS-SLP1 val))
+	  (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+          (setq outline (format "%s:%s\n" outline-pfx sl-val))
+          (setq outputs (list outline))
+         )
+         ((equal partcode "pap") ; past active participle
+          (setq val (construct-pppart1a dhaatu class1 pada1 upasargas))
+          ; Refer Deshpande p. 176.
+          (if (not (listp val)) (setq val (list val)))
+ 	  (setq sl-val (translate-ITRANS-SLP1 val))
+          ; append 'vat' to the past passive participle
+          (setq sl-val 
+           (mapcar (lambda (v) (format "%svat" v)) sl-val)
+          )
+	  (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+          (setq outline (format "%s:%s\n" outline-pfx sl-val))
+          (setq outputs (list outline))
+         )
+         ((equal partcode "prap") ; only for ParasmaiPada
+          (when (equal pada1 'P)
+	   ; modeled after construct-prespart1a-alt
+           (setq val (construct-prespart-base-alt-P dhaatu class1 pada1 upasargas))
+	   (setq outputs nil)
+           (mapc
+            (lambda (v)
+             (mapc
+              (lambda (g)
+               (let (dtab key1 key2)
+                (setq dtab (declension-pres-part-alt v g class1 pada1))
+		; dtab is an array, in ITRANS. convert to SLP1
+		(setq dtab (translate-ITRANS-SLP1 dtab))
+		; generate an output line
+		(setq key1 (translate-ITRANS-SLP1 (car v)))
+                (if (member g '(M N))
+ 		 (setq key1 (format "%st" key1)) ; make citation form
+		 (setq key1 (elt dtab 0)) ; F nom sing.
+		)
+		(setq key2 key1)
+		; model after declensions:
+		; :prap <root-class> <g>:<key1>:<key2>:<dtab>
+		(setq g (downcase (format "%s" g))) ; gender in lower case
+		(setq outline-pfx (format ":prap %s-%s %s:%s:%s" root1 class1 g key1 key2))
+		(setq outline (format "%s:%s\n" outline-pfx dtab))
+		(setq outputs (append outputs (list outline)))
+               )
+              )
+              '(M F N)
+             )
+            )
+            val
+           )
+          )
+         )
+         ((equal partcode "prmp") ; only for AtmanePada
+          (when (equal pada1 'A)
+           (setq val (construct-prespart-base-alt-A dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  BUT without the ending 'a'
+	   (setq outputs nil)
+           (mapc
+            (lambda (v)
+             (mapc
+              (lambda (g)
+               (let (dtab key1 key2)
+                (setq dtab (declension-pres-part-alt v g class1 pada1))
+		; dtab is an array, in ITRANS. convert to SLP1
+		(setq dtab (translate-ITRANS-SLP1 dtab))
+		; generate an output line
+		(setq key1 (translate-ITRANS-SLP1 v))
+                (if (member g '(M N))
+ 		 (setq key1 (format "%sa" key1)) ; make citation form
+		 (setq key1 (elt dtab 0)) ; F nom sing.
+		)
+		(setq key2 key1)
+		; model after declensions:
+		; :prap <root-class> <g>:<key1>:<key2>:<dtab>
+		(setq g (downcase (format "%s" g))) ; gender in lower case
+		(setq outline-pfx (format ":prmp %s-%s %s:%s:%s" root1 class1 g key1 key2))
+		(setq outline (format "%s:%s\n" outline-pfx dtab))
+		(setq outputs (append outputs (list outline)))
+               )
+              )
+              '(M F N)
+             )
+            )
+            val
+           )
+          )
+         )
+	 ((equal partcode "prpp") ; present passive participle
+          (when ; for both padas
+           (setq val (construct-passpart-base-alt dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  BUT without the ending 'a'
+	   (setq outputs nil)
+           (mapc
+            (lambda (v)
+             (mapc
+              (lambda (g)
+               (let (dtab key1 key2 cp)
+                ;(setq dtab (declension-pass-part-alt v g class1 pada1))
+		; per construct-passpart1a
+		(setq dtab (declension-pres-part-alt v g 4 'A))
+		; dtab is an array, in ITRANS. convert to SLP1
+		(setq dtab (translate-ITRANS-SLP1 dtab))
+		; generate an output line
+		(setq key1 (translate-ITRANS-SLP1 v))
+                (if (member g '(M N))
+ 		 (setq key1 (format "%sa" key1)) ; make citation form
+		 (setq key1 (elt dtab 0)) ; F nom sing.
+		)
+		(setq key2 key1)
+		; model after declensions:
+		; :prap <root-class> <g>:<key1>:<key2>:<dtab>
+		(setq g (downcase (format "%s" g))) ; gender in lower case
+                (setq cp (downcase (format "%s%s" class1 pada1)))
+		(setq outline-pfx (format ":prpp %s-%s %s:%s:%s" root1 cp g key1 key2))
+		(setq outline (format "%s:%s\n" outline-pfx dtab))
+		(setq outputs (append outputs (list outline)))
+               )
+              )
+              '(M F N)
+             )
+            )
+            val
+           )
+          )
+         )
+         ((equal partcode "prpp") ; present passive participle
+          (when t ; for both padas
+           (setq val (construct-passpart-base-alt dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  BUT without the ending 'a'
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "potp") ; potentia passive participle (gerundive)
+          (when t ; for both padas
+           (setq val (construct-potpart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  no further adjustment required
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%s" v)
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "rpp") ; reduplicate past participle
+          (when t ; for both padas
+           (setq val (construct-rppart1a dhaatu class1 pada1 upasargas))
+           ; there are two forms of val.
+           ; when pada is P, a list of pairs (strong/weak) needed for
+	   ;  declensions in 'vas'.  In this case, we list the 'headword'
+	   ;  form by appending 'as' to the first element of pair.
+	   ; when pada is A, there is a list of singletons, to each of which
+	   ; we add an 'a', so the heaword form ends in Ana (or ARa)
+           (if (not (listp val)) (setq val (list val)))
+           (setq val (mapcar
+            (lambda (v)
+             (when (equal pada1 'P)
+              (setq v (translate-ITRANS-SLP1 (car v)))
+              (setq v (format "%sas" v))
+             )
+             (when (equal pada1 'A)
+              (setq v (translate-ITRANS-SLP1 v))
+              (setq v (format "%sa" v))
+             )
+             v             
+            )
+            val
+           ))
+           (when val ; in case val is nil
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         ((equal partcode "fap") ; only for ParasmaiPada
+          (when (equal pada1 'P)
+	   ; modeled after construct-prespart1a-alt
+           (setq val (construct-futpart1a dhaatu class1 pada1 upasargas))
+	   (setq outputs nil)
+	   ; According to AntoineII,section 193
+	   ; We use the 'SW for the endings, since this is the
+	   ; ending for class 6 present participles
+           (mapc
+            (lambda (v)
+             (mapc
+              (lambda (g)
+               (let (dtab key1 key2 vpart class2 va)
+		(setq va (intern (format "%sa" v)))
+		(setq vpart (list va 'SW))
+		(setq class2 6)
+                (setq dtab (declension-pres-part-alt vpart g class2 pada1))
+		; dtab is an array, in ITRANS. convert to SLP1
+		(setq dtab (translate-ITRANS-SLP1 dtab))
+		; generate an output line
+		(setq key1 (translate-ITRANS-SLP1 v))
+                (if (member g '(M N))
+ 		 (setq key1 (format "%sat" key1)) ; make citation form
+		 (setq key1 (elt dtab 0)) ; F nom sing. may be multiple
+		)
+		(setq key2 key1)
+		; model after declensions:
+		; :prap <root-class> <g>:<key1>:<key2>:<dtab>
+		(setq g (downcase (format "%s" g))) ; gender in lower case
+		(setq outline-pfx (format ":fap %s-%s %s:%s:%s" root1 class1 g key1 key2))
+		(setq outline (format "%s:%s\n" outline-pfx dtab))
+		(setq outputs (append outputs (list outline)))
+               )
+              )
+              '(M F N)
+             )
+            )
+            val
+           )
+          )
+         )
+         ((equal partcode "fmp") ; only for AtmanePada
+          (when (equal pada1 'A)
+           (setq val (construct-futpart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of stems,  BUT without the ending 'a'
+	   (setq outputs nil)
+           (mapc
+            (lambda (v)
+             (mapc
+              (lambda (g)
+               (let (dtab key1 key2)
+                (setq dtab (declension-pres-part-alt v g class1 pada1))
+		; dtab is an array, in ITRANS. convert to SLP1
+		(setq dtab (translate-ITRANS-SLP1 dtab))
+		; generate an output line
+		(setq key1 (translate-ITRANS-SLP1 v))
+                (if (member g '(M N))
+ 		 (setq key1 (format "%sa" key1)) ; make citation form
+		 (setq key1 (elt dtab 0)) ; F nom sing.
+		)
+		(setq key2 key1)
+		; model after declensions:
+		; :prap <root-class> <g>:<key1>:<key2>:<dtab>
+		(setq g (downcase (format "%s" g))) ; gender in lower case
+		(setq outline-pfx (format ":fmp %s-%s %s:%s:%s" root1 class1 g key1 key2))
+		(setq outline (format "%s:%s\n" outline-pfx dtab))
+		(setq outputs (append outputs (list outline)))
+               )
+              )
+              '(M F N)
+             )
+            )
+            val
+           )
+          )
+         )
+         ((equal partcode "fmpx") ; only for Atmanepada
+          (when (equal pada1 'A)
+           (setq val (construct-futpart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of forms 
+	   ; example gam 1 A.  val = (gamsyamaan)
+	   ; We want to return the 'citation form', (gamsyamaana)
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; 
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+	 ((equal partcode "fpp") ; 
+          (when t ; for either parasmaipada or atmanepada. duplicates welcomed
+           (setq val (construct-futppart1a dhaatu class1 pada1 upasargas))
+           ; val is a list of forms 
+	   ; example gam 1 A.  val = (gamsyamaan)
+	   ; We want to return the 'citation form', (gamsyamaana)
+           (setq val (mapcar
+            (lambda (v)
+             (setq v (translate-ITRANS-SLP1 v))
+             (format "%sa" v)
+            )
+            val
+           ))
+           (when val ; 
+            (setq sl-val val)
+	    (setq outline-pfx (format ":%s %s %s%s" root partcode class voice ))
+            (setq outline (format "%s:%s\n" outline-pfx sl-val))
+            (setq outputs (list outline))
+           )
+          )
+         )
+         (t
+          (fol-msg (format "partcode unknown: %s\n" partcode))
+          (goto-char (point-max)) ; end
+         )
+        )
+       )
+      )
+      (error
+       (fol-msg (format "error(%s)\n" err))
+       (fol-msg (format "error in file-init @ line= '%s'\n" line))
+      )
+     )
+     )
+     ; append output to bufout
+     (when outputs
+      (setq nout (1+ nout))
+     )
+     (with-current-buffer bufout
+      (while outputs
+       (setq output (car outputs)) 
+       (setq outputs (cdr outputs))
+       (insert output)
+      )
      )
     )
     (forward-line)

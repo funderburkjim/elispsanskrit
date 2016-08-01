@@ -526,7 +526,11 @@
 )
 
 (defun construct-pppart1a (dhaatu class pada upasargas &optional dtype)
- (let (ans ending tok base seT-kta ntok lc pc ans1)
+ (let (ans ending tok base seT-kta ntok lc pc ans1 dbg)
+  ;(setq dbg t)
+  (when dbg
+   (fol-msg (format "construct-pppart1a %s\n" (list dhaatu class pada upasargas  dtype)))
+  )
   (setq ending [t a])
   (setq tok (car (ITRANS-parse-words-1 (symbol-name dhaatu))))
   (setq ntok (length tok))
@@ -565,21 +569,26 @@
   )
   (setq ans (kta-join base seT-kta ending dhaatu))
   (when ans (setq ans (sym-without-space ans)))
-  (when nil
-   (fol-msg (format "chk: %s %s %s -> %s\n" dhaatu base seT-kta ans))
+  (when dbg
+   (fol-msg (format "chk: base=%s, sew_kta=%s, ending=%s, root=%s => ans=%s\n" base seT-kta ending dhaatu ans))
   )
   (when (not (member dtype '(c)))
    ; exceptions
    (setq ans1 
     (construct-pppart1a-exception dhaatu class pada upasargas))
    (if ans1 (setq ans ans1))
+   (when (and ans1 dbg)
+    (fol-msg (format "exception: ans now=%s\n" ans))
+   )
   )
+  
   (setq ans (solution ans))
   ans
  )
 )
 (defun construct-pppart1a-exception (dhaatu class pada upasargas)
  (let (ans)
+  ;(fol-msg (format "enter construct-pppart1a-exception %s\n" (list dhaatu class pada upasargas)))
   (cond
    ((equal dhaatu 'shaas) (setq ans 'shiShTa))
    ((equal dhaatu 'muh) (setq ans '(mugdha muuDha))) ; Kale p.423
@@ -719,6 +728,7 @@
    ((equal dhaatu 'RiSh) (setq ans '(RiShTa))) ; was '(RiShita)
 ;   ((equal dhaatu ') (setq ans '))
   )
+;(fol-msg (format "leave construct-pppart1a-exception %s => %s\n" (list dhaatu class pada upasargas) ans))
   ans
  )
 )
