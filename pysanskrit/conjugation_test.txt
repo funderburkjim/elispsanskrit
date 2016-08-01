@@ -1,0 +1,760 @@
+; these test are in the format expected by test_v_file_init_alt1_pre_helper
+; in test2.py. They are conjugation comparisons.
+; Summary:
+; tenses pre, ipf, opt, ipv for 
+;   class 1, active, middle, passive voice
+;   class 4, active, middle
+;   class 6, active, middle
+;   class 10, active, middle
+;   class 3 , passive (?)
+;   class 2 active, middle
+;   class 3 active, middle
+;   class 5 active, middle
+;   class 7 active, middle
+;   class 8 active, middle
+;   class 9 active, middle
+; ---
+; fut simple future tense, active, middle and passive(?)
+; prf perfect tense, active and middle voice
+; pft periphrastic future tense, active and middle voice
+; con conditional 'tense', active and middle voice
+; ben benedictive 'tense', active and middle voice\
+; ppf periphrastic perfect tense.
+; I think these are all the conjugational tenses.
+;  aorist
+;  causal
+; Remaining:
+;  intensive
+;  desiderative
+;  DERIVED nominals:
+;  prap, fap, prmp
+;  gerunds
+;  ppp  (perfect participles)
+;  action nouns
+;------------------------------------------------
+; Class 1, active
+BU,1,a,pre=:BU pre 1a:[Bavati BavataH Bavanti Bavasi BavaTaH BavaTa BavAmi BavAvaH BavAmaH]
+BU,1,a,ipf=:BU ipf 1a:[aBavat aBavatAm aBavan aBavaH aBavatam aBavata aBavam aBavAva aBavAma]
+BU,1,a,opt=:BU opt 1a:[Bavet BavetAm BaveyuH BaveH Bavetam Baveta Baveyam Baveva Bavema]
+BU,1,a,ipv=:BU ipv 1a:[Bavatu BavatAm Bavantu Bava Bavatam Bavata BavAni BavAva BavAma]
+; gam -  two bases
+gam,1,a,pre=:gam pre 1a:[(gacCati gamati) (gacCataH gamataH) (gacCanti gamanti) (gacCasi gamasi) (gacCaTaH gamaTaH) (gacCaTa gamaTa) (gacCAmi gamAmi) (gacCAvaH gamAvaH) (gacCAmaH gamAmaH)]
+;------------------------------------------------
+; Class 1, middle
+laB,1,m,pre=:laB pre 1m:[laBate laBete laBante laBase laBeTe laBaDve laBe laBAvahe laBAmahe]
+laB,1,m,ipf=:laB ipf 1m:[alaBata alaBetAm alaBanta alaBaTAH alaBeTAm alaBaDvam alaBe alaBAvahi alaBAmahi]
+laB,1,m,opt=:laB opt 1m:[laBeta laBeyAtAm laBeran laBeTAH laBeyATAm laBeDvam laBeya laBevahi laBemahi]
+laB,1,m,ipv=:laB ipv 1m:[laBatAm laBetAm laBantAm laBasva laBeTAm laBaDvam laBE laBAvahE laBAmahE]
+;------------------------------------------------
+; Class 1, passive
+gam,1,p,pre=:gam pre 1p:[gamyate gamyete gamyante gamyase gamyeTe gamyaDve gamye gamyAvahe gamyAmahe]
+gam,1,p,ipf=:gam ipf 1p:[agamyata agamyetAm agamyanta agamyaTAH agamyeTAm agamyaDvam agamye agamyAvahi agamyAmahi]
+gam,1,p,opt=:gam opt 1p:[gamyeta gamyeyAtAm gamyeran gamyeTAH gamyeyATAm gamyeDvam gamyeya gamyevahi gamyemahi]
+gam,1,p,ipv=:gam ipv 1p:[gamyatAm gamyetAm gamyantAm gamyasva gamyeTAm gamyaDvam gamyE gamyAvahE gamyAmahE]
+;------------------------------------------------
+; Class 1, passive
+nI,1,p,pre=:nI pre 1p:[nIyate nIyete nIyante nIyase nIyeTe nIyaDve nIye nIyAvahe nIyAmahe]
+nI,1,p,ipf=:nI ipf 1p:[anIyata anIyetAm anIyanta anIyaTAH anIyeTAm anIyaDvam anIye anIyAvahi anIyAmahi]
+nI,1,p,opt=:nI opt 1p:[nIyeta nIyeyAtAm nIyeran nIyeTAH nIyeyATAm nIyeDvam nIyeya nIyevahi nIyemahi]
+nI,1,p,ipv=:nI ipv 1p:[nIyatAm nIyetAm nIyantAm nIyasva nIyeTAm nIyaDvam nIyE nIyAvahE nIyAmahE]
+;------------------------------------------------
+; Class 1, passive
+ji,1,p,pre=:ji pre 1p:[jIyate jIyete jIyante jIyase jIyeTe jIyaDve jIye jIyAvahe jIyAmahe]
+ji,1,p,ipf=:ji ipf 1p:[ajIyata ajIyetAm ajIyanta ajIyaTAH ajIyeTAm ajIyaDvam ajIye ajIyAvahi ajIyAmahi]
+ji,1,p,opt=:ji opt 1p:[jIyeta jIyeyAtAm jIyeran jIyeTAH jIyeyATAm jIyeDvam jIyeya jIyevahi jIyemahi]
+ji,1,p,ipv=:ji ipv 1p:[jIyatAm jIyetAm jIyantAm jIyasva jIyeTAm jIyaDvam jIyE jIyAvahE jIyAmahE]
+;------------------------------------------------
+; Class 4, active
+kram,1,a,pre=:kram pre 1a:[krAmati krAmataH krAmanti krAmasi krAmaTaH krAmaTa krAmAmi krAmAvaH krAmAmaH]
+kram,1,a,ipf=:kram ipf 1a:[akrAmat akrAmatAm akrAman akrAmaH akrAmatam akrAmata akrAmam akrAmAva akrAmAma]
+kram,1,a,opt=:kram opt 1a:[krAmet krAmetAm krAmeyuH krAmeH krAmetam krAmeta krAmeyam krAmeva krAmema]
+kram,1,a,ipv=:kram ipv 1a:[krAmatu krAmatAm krAmantu krAma krAmatam krAmata krAmARi krAmAva krAmAma]
+nft,4,a,pre=:nft pre 4a:[nftyati nftyataH nftyanti nftyasi nftyaTaH nftyaTa nftyAmi nftyAvaH nftyAmaH]
+nft,4,a,ipf=:nft ipf 4a:[anftyat anftyatAm anftyan anftyaH anftyatam anftyata anftyam anftyAva anftyAma]
+nft,4,a,opt=:nft opt 4a:[nftyet nftyetAm nftyeyuH nftyeH nftyetam nftyeta nftyeyam nftyeva nftyema]
+nft,4,a,ipv=:nft ipv 4a:[nftyatu nftyatAm nftyantu nftya nftyatam nftyata nftyAni nftyAva nftyAma]
+;------------------------------------------------
+; Class 4, middle
+man,4,m,pre=:man pre 4m:[manyate manyete manyante manyase manyeTe manyaDve manye manyAvahe manyAmahe]
+man,4,m,ipf=:man ipf 4m:[amanyata amanyetAm amanyanta amanyaTAH amanyeTAm amanyaDvam amanye amanyAvahi amanyAmahi]
+man,4,m,opt=:man opt 4m:[manyeta manyeyAtAm manyeran manyeTAH manyeyATAm manyeDvam manyeya manyevahi manyemahi]
+man,4,m,ipv=:man ipv 4m:[manyatAm manyetAm manyantAm manyasva manyeTAm manyaDvam manyE manyAvahE manyAmahE]
+;------------------------------------------------
+; Class 6, active
+tud,6,a,pre=:tud pre 6a:[tudati tudataH tudanti tudasi tudaTaH tudaTa tudAmi tudAvaH tudAmaH]
+tud,6,a,ipf=:tud ipf 6a:[atudat atudatAm atudan atudaH atudatam atudata atudam atudAva atudAma]
+tud,6,a,opt=:tud opt 6a:[tudet tudetAm tudeyuH tudeH tudetam tudeta tudeyam tudeva tudema]
+tud,6,a,ipv=:tud ipv 6a:[tudatu tudatAm tudantu tuda tudatam tudata tudAni tudAva tudAma]
+;------------------------------------------------
+; Class 6, middle
+nud,6,m,pre=:nud pre 6m:[nudate nudete nudante nudase nudeTe nudaDve nude nudAvahe nudAmahe]
+nud,6,m,ipf=:nud ipf 6m:[anudata anudetAm anudanta anudaTAH anudeTAm anudaDvam anude anudAvahi anudAmahi]
+nud,6,m,opt=:nud opt 6m:[nudeta nudeyAtAm nuderan nudeTAH nudeyATAm nudeDvam nudeya nudevahi nudemahi]
+nud,6,m,ipv=:nud ipv 6m:[nudatAm nudetAm nudantAm nudasva nudeTAm nudaDvam nudE nudAvahE nudAmahE]
+;------------------------------------------------
+; Class 10, active
+cur,10,a,pre=:cur pre 10a:[corayati corayataH corayanti corayasi corayaTaH corayaTa corayAmi corayAvaH corayAmaH]
+cur,10,a,ipf=:cur ipf 10a:[acorayat acorayatAm acorayan acorayaH acorayatam acorayata acorayam acorayAva acorayAma]
+cur,10,a,opt=:cur opt 10a:[corayet corayetAm corayeyuH corayeH corayetam corayeta corayeyam corayeva corayema]
+cur,10,a,ipv=:cur ipv 10a:[corayatu corayatAm corayantu coraya corayatam corayata corayARi corayAva corayAma]
+;------------------------------------------------
+; Class 10, middle
+mantr,10,m,pre=:mantr pre 10m:[mantrayate mantrayete mantrayante mantrayase mantrayeTe mantrayaDve mantraye mantrayAvahe mantrayAmahe]
+mantr,10,m,ipf=:mantr ipf 10m:[amantrayata amantrayetAm amantrayanta amantrayaTAH amantrayeTAm amantrayaDvam amantraye amantrayAvahi amantrayAmahi]
+mantr,10,m,opt=:mantr opt 10m:[mantrayeta mantrayeyAtAm mantrayeran mantrayeTAH mantrayeyATAm mantrayeDvam mantrayeya mantrayevahi mantrayemahi]
+mantr,10,m,ipv=:mantr ipv 10m:[mantrayatAm mantrayetAm mantrayantAm mantrayasva mantrayeTAm mantrayaDvam mantrayE mantrayAvahE mantrayAmahE]
+;------------------------------------------------
+; Class 3, passive
+dA,3,p,pre=:dA pre 3p:[dIyate dIyete dIyante dIyase dIyeTe dIyaDve dIye dIyAvahe dIyAmahe]
+dA,3,p,ipf=:dA ipf 3p:[adIyata adIyetAm adIyanta adIyaTAH adIyeTAm adIyaDvam adIye adIyAvahi adIyAmahi]
+dA,3,p,opt=:dA opt 3p:[dIyeta dIyeyAtAm dIyeran dIyeTAH dIyeyATAm dIyeDvam dIyeya dIyevahi dIyemahi]
+dA,3,p,ipv=:dA ipv 3p:[dIyatAm dIyetAm dIyantAm dIyasva dIyeTAm dIyaDvam dIyE dIyAvahE dIyAmahE]
+;------------------------------------------------
+; fut, active
+BU,1,a,fut=:BU fut 1a:[Bavizyati BavizyataH Bavizyanti Bavizyasi BavizyaTaH BavizyaTa BavizyAmi BavizyAvaH BavizyAmaH]
+; fut, middle
+BU,1,m,fut=:BU fut 1m:[Bavizyate Bavizyete Bavizyante Bavizyase BavizyeTe BavizyaDve Bavizye BavizyAvahe BavizyAmahe]
+; fut, passive (Not sure this is right)
+BU,1,p,fut=:BU fut 1p:[(Bavizyate BAvizyate) (Bavizyete BAvizyete) (Bavizyante BAvizyante) (Bavizyase BAvizyase) (BavizyeTe BAvizyeTe) (BavizyaDve BAvizyaDve) (Bavizye BAvizye) (BavizyAvahe BAvizyAvahe) (BavizyAmahe BAvizyAmahe)]
+;
+gam,1,a,fut=:gam fut 1a:[gamizyati gamizyataH gamizyanti gamizyasi gamizyaTaH gamizyaTa gamizyAmi gamizyAvaH gamizyAmaH]
+gam,1,a,pft=:gam pft 1a:[gantA gantArO gantAraH gantAsi gantAsTaH gantAsTa gantAsmi gantAsvaH gantAsmaH]
+gam,1,a,con=:gam con 1a:[agamizyat agamizyatAm agamizyan agamizyaH agamizyatam agamizyata agamizyam agamizyAva agamizyAma]
+gam,1,a,ben=:gam ben 1a:[gamyAt gamyAstAm gamyAsuH gamyAH gamyAstam gamyAsta gamyAsam gamyAsva gamyAsma]
+; Irreg class 2 (as)
+as,2,a,pre=:as pre 2a:[asti staH santi asi sTaH sTa asmi svaH smaH]
+as,2,a,ipf=:as ipf 2a:[AsIt AstAm Asan AsIH Astam Asta Asam Asva Asma]
+as,2,a,ipv=:as ipv 2a:[astu stAm santu eDi stam sta asAni asAva asAma]
+as,2,a,opt=:as opt 2a:[syAt syAtAm syuH syAH syAtam syAta syAm syAva syAma]
+; class 2 yA, active
+yA,2,a,pre=:yA pre 2a:[yAti yAtaH yAnti yAsi yATaH yATa yAmi yAvaH yAmaH]
+yA,2,a,ipf=:yA ipf 2a:[ayAt ayAtAm (ayAn ayuH) ayAH ayAtam ayAta ayAm ayAva ayAma]
+yA,2,a,ipv=:yA ipv 2a:[yAtu yAtAm yAntu yAhi yAtam yAta yAni yAva yAma]
+yA,2,a,opt=:yA opt 2a:[yAyAt yAyAtAm yAyuH yAyAH yAyAtam yAyAta yAyAm yAyAva yAyAma]
+; class 2 ad, active
+ad,2,a,pre=:ad pre 2a:[atti attaH adanti atsi atTaH atTa admi advaH admaH]
+ad,2,a,ipf=:ad ipf 2a:[Adat AttAm Adan AdaH Attam Atta Adam Adva Adma]
+ad,2,a,ipv=:ad ipv 2a:[attu attAm adantu adDi attam atta adAni adAva adAma]
+ad,2,a,opt=:ad opt 2a:[adyAt adyAtAm adyuH adyAH adyAtam adyAta adyAm adyAva adyAma]
+; class 2 duh, active and middle
+duh,2,a,pre=:duh pre 2a:[dogDi dugDaH duhanti Dokzi dugDaH dugDa dohmi duhvaH duhmaH]
+duh,2,a,ipf=:duh ipf 2a:[aDok adugDAm aduhan aDok adugDam adugDa adoham aduhva aduhma]
+duh,2,a,ipv=:duh ipv 2a:[dogDu dugDAm duhantu dugDi dugDam dugDa dohAni dohAva dohAma]
+duh,2,a,opt=:duh opt 2a:[duhyAt duhyAtAm duhyuH duhyAH duhyAtam duhyAta duhyAm duhyAva duhyAma]
+duh,2,m,pre=:duh pre 2m:[dugDe duhAte duhate Dukze duhATe DugDve duhe duhvahe duhmahe]
+duh,2,m,ipf=:duh ipf 2m:[adugDa aduhAtAm aduhata adugDAH aduhATAm aDugDvam aduhi aduhvahi aduhmahi]
+duh,2,m,ipv=:duh ipv 2m:[dugDAm duhAtAm duhatAm Dukzva duhATAm DugDvam dohE dohAvahE dohAmahE]
+duh,2,m,opt=:duh opt 2m:[duhIta duhIyAtAm duhIran duhITAH duhIyATAm duhIDvam duhIya duhIvahi duhImahi]
+; class 2, lih active and middle
+lih,2,a,pre=:lih pre 2a:[leQi lIQaH lihanti lekzi lIQaH lIQa lehmi lihvaH lihmaH]
+lih,2,a,ipf=:lih ipf 2a:[alew alIQAm alihan alew alIQam alIQa aleham alihva alihma]
+lih,2,a,ipv=:lih ipv 2a:[leQu lIQAm lihantu lIQi lIQam lIQa lehAni lehAva lehAma]
+lih,2,a,opt=:lih opt 2a:[lihyAt lihyAtAm lihyuH lihyAH lihyAtam lihyAta lihyAm lihyAva lihyAma]
+lih,2,m,pre=:lih pre 2m:[lIQe lihAte lihate likze lihATe lIQve lihe lihvahe lihmahe]
+lih,2,m,ipf=:lih ipf 2m:[alIQa alihAtAm alihata alIQAH alihATAm alIQvam alihi alihvahi alihmahi]
+lih,2,m,ipv=:lih ipv 2m:[lIQAm lihAtAm lihatAm likzva lihATAm lIQvam lehE lehAvahE lehAmahE]
+lih,2,m,opt=:lih opt 2m:[lihIta lihIyAtAm lihIran lihITAH lihIyATAm lihIDvam lihIya lihIvahi lihImahi]
+; nu (to praise), active
+nu,2,a,pre=:nu pre 2a:[nOti nutaH nuvanti nOzi nuTaH nuTa nOmi nuvaH numaH]
+nu,2,a,ipf=:nu ipf 2a:[anOt anutAm anuvan anOH anutam anuta anavam anuva anuma]
+nu,2,a,ipv=:nu ipv 2a:[nOtu nutAm nuvantu nuhi nutam nuta navAni navAva navAma]
+nu,2,a,opt=:nu opt 2a:[nuyAt nuyAtAm nuyuH nuyAH nuyAtam nuyAta nuyAm nuyAva nuyAma]
+; stu (to praise), active
+stu,2,a,pre=:stu pre 2a:[(stOti stavIti) (stutaH stuvItaH) stuvanti (stOzi stavIzi) (stuTaH stuvITaH) (stuTa stuvITa) (stOmi stavImi) (stuvaH stuvIvaH) (stumaH stuvImaH)]
+stu,2,a,ipf=:stu ipf 2a:[(astOt astavIt) (astutAm astuvItAm) astuvan (astOH astavIH) (astutam astuvItam) (astuta astuvIta) astavam (astuva astuvIva) (astuma astuvIma)]
+stu,2,a,ipv=:stu ipv 2a:[(stOtu stavItu) (stutAm stuvItAm) stuvantu (stuhi stuvIhi) (stutam stuvItam) (stuta stuvIta) stavAni stavAva stavAma]
+stu,2,a,opt=:stu opt 2a:[(stuyAt stuvIyAt) (stuyAtAm stuvIyAtAm) (stuyuH stuvIyuH) (stuyAH stuvIyAH) (stuyAtam stuvIyAtam) (stuyAta stuvIyAta) (stuyAm stuvIyAm) (stuyAva stuvIyAva) (stuyAma stuvIyAma)]
+; stu, middle
+stu,2,m,pre=:stu pre 2m:[(stute stuvIte) stuvAte stuvate (stuze stuvIze) stuvATe (stuDve stuvIDve) stuve (stuvahe stuvIvahe) (stumahe stuvImahe)]
+stu,2,m,ipf=:stu ipf 2m:[(astuta astuvIta) astuvAtAm astuvata (astuTAH astuvITAH) astuvATAm (astuDvam astuvIDvam) astuvi (astuvahi astuvIvahi) (astumahi astuvImahi)]
+stu,2,m,ipv=:stu ipv 2m:[(stutAm stuvItAm) stuvAtAm stuvatAm (stuzva stuvIzva) stuvATAm (stuDvam stuvIDvam) stavE stavAvahE stavAmahE]
+stu,2,m,opt=:stu opt 2m:[stuvIta stuvIyAtAm stuvIran stuvITAH stuvIyATAm stuvIDvam stuvIya stuvIvahi stuvImahi]
+; vac (to speak), active
+vac,2,a,pre=:vac pre 2a:[vakti vaktaH nil vakzi vakTaH vakTa vacmi vacvaH vacmaH]
+vac,2,a,ipf=:vac ipf 2a:[avak avaktAm avacan avak avaktam avakta avacam avacva avacma]
+vac,2,a,ipv=:vac ipv 2a:[vaktu vaktAm vacantu vagDi vaktam vakta vacAni vacAva vacAma]
+vac,2,a,opt=:vac opt 2a:[vacyAt vacyAtAm vacyuH vacyAH vacyAtam vacyAta vacyAm vacyAva vacyAma]
+; cakz (to speak) 2 middle
+cakz,2,m,pre=:cakz pre 2m:[cazwe cakzAte cakzate cakkze cakzATe cazQve cakze cakzvahe cakzmahe]
+cakz,2,m,ipf=:cakz ipf 2m:[acazwa acakzAtAm acakzata acazWAH acakzATAm acazQvam acakzi acakzvahi acakzmahi]
+cakz,2,m,ipv=:cakz ipv 2m:[cazwAm cakzAtAm cakzatAm cakkzva cakzATAm cazQvam cakzE cakzAvahE cakzAmahE]
+cakz,2,m,opt=:cakz opt 2m:[cakzIta cakzIyAtAm cakzIran cakzITAH cakzIyATAm cakzIDvam cakzIya cakzIvahi cakzImahi]
+; i (to go), class 2 active
+i,2,a,pre=:i pre 2a:[eti itaH yanti ezi iTaH iTa emi ivaH imaH]
+i,2,a,ipf=:i ipf 2a:[Et EtAm Ayan EH Etam Eta Ayam Eva Ema]
+i,2,a,ipv=:i ipv 2a:[etu itAm yantu ihi itam ita ayAni ayAva ayAma]
+i,2,a,opt=:i opt 2a:[iyAt iyAtAm iyuH iyAH iyAtam iyAta iyAm iyAva iyAma]
+; aDi+i (to study), class 2 middle
+; NOTE: THIS IS NOT RIGHT (cf. Deshpande, p. 214.
+; The problem is to make use of upasarga aDi properly
+; However, this DOES test the equivalence of the Python and Elisp code.
+aDI,2,m,pre=:aDI pre 2m:[aDIte aDiyAte aDiyate aDIze aDiyATe aDIDve aDiye aDIvahe aDImahe]
+aDI,2,m,ipf=:aDI ipf 2m:[ADIta ADiyAtAm ADiyata ADITAH ADiyATAm ADIDvam ADiyi ADIvahi ADImahi]
+aDI,2,m,ipv=:aDI ipv 2m:[aDItAm aDiyAtAm aDiyatAm aDIzva aDiyATAm aDIDvam aDayE aDayAvahE aDayAmahE]
+aDI,2,m,opt=:aDI opt 2m:[aDiyIta aDiyIyAtAm aDiyIran aDiyITAH aDiyIyATAm aDiyIDvam aDiyIya aDiyIvahi aDiyImahi]
+; brU (to speak) class 2, active
+brU,2,a,pre=:brU pre 2a:[(bravIti Aha) (brUtaH AhatuH) (bruvanti AhuH) (bravIzi AtTa) (brUTaH AhaTuH) brUTa bravImi brUvaH brUmaH]
+brU,2,a,ipf=:brU ipf 2a:[abravIt abrUtAm abruvan abravIH abrUtam abrUta abravam abrUva abrUma]
+brU,2,a,ipv=:brU ipv 2a:[bravItu brUtAm bruvantu brUhi brUtam brUta bravARi bravAva bravAma]
+brU,2,a,opt=:brU opt 2a:[brUyAt brUyAtAm brUyuH brUyAH brUyAtam brUyAta brUyAm brUyAva brUyAma]
+; brU (to speak) class 2, middle
+brU,2,m,pre=:brU pre 2m:[brUte bruvAte bruvate brUze bruvATe brUDve bruve brUvahe brUmahe]
+brU,2,m,ipf=:brU ipf 2m:[abrUta abruvAtAm abruvata abrUTAH abruvATAm abrUDvam abruvi abrUvahi abrUmahi]
+brU,2,m,ipv=:brU ipv 2m:[brUtAm bruvAtAm bruvatAm brUzva bruvATAm brUDvam bravE bravAvahE bravAmahE]
+brU,2,m,opt=:brU opt 2m:[bruvIta bruvIyAtAm bruvIran bruvITAH bruvIyATAm bruvIDvam bruvIya bruvIvahi bruvImahi]
+; As (to sit) class 2, middle
+As,2,m,pre=:As pre 2m:[Aste AsAte Asate Asse AsATe ADve Ase Asvahe Asmahe]
+As,2,m,ipf=:As ipf 2m:[Asta AsAtAm Asata AsTAH AsATAm ADvam Asi Asvahi Asmahi]
+As,2,m,ipv=:As ipv 2m:[AstAm AsAtAm AsatAm Assva AsATAm ADvam AsE AsAvahE AsAmahE]
+As,2,m,opt=:As opt 2m:[AsIta AsIyAtAm AsIran AsITAH AsIyATAm AsIDvam AsIya AsIvahi AsImahi]
+; SI (to sleep), class2, middle
+SI,2,m,pre=:SI pre 2m:[Sete SayAte Serate Seze SayATe SeDve Saye Sevahe Semahe]
+SI,2,m,ipf=:SI ipf 2m:[aSeta aSayAtAm aSerata aSeTAH aSayATAm aSeDvam aSayi aSevahi aSemahi]
+SI,2,m,ipv=:SI ipv 2m:[SetAm SayAtAm SeratAm Sezva SayATAm SeDvam SayE SayAvahE SayAmahE]
+SI,2,m,opt=:SI opt 2m:[SayIta SayIyAtAm SayIran SayITAH SayIyATAm SayIDvam SayIya SayIvahi SayImahi]
+; SAs (to rule, instruct, teach) class 2, active
+SAs,2,a,pre=:SAs pre 2a:[SAsti SizwaH SAsati SAssi SizWaH SizWa SAsmi SizvaH SizmaH]
+SAs,2,a,ipf=:SAs ipf 2a:[aSAt aSizwAm aSAsuH (aSAH aSAt) aSizwam aSizwa aSAsam aSizva aSizma]
+SAs,2,a,ipv=:SAs ipv 2a:[SAstu SizwAm SAsatu SADi Sizwam Sizwa SAsAni SAsAva SAsAma]
+SAs,2,a,opt=:SAs opt 2a:[SizyAt SizyAtAm SizyuH SizyAH SizyAtam SizyAta SizyAm SizyAva SizyAma]
+; SAs 2 middle.  in A+SAs (to hope)
+SAs,2,m,pre=:SAs pre 2m:[Sizwe SAsAte SAsati Sizse SAsATe SizQve SAse Sizvahe Sizmahe]
+SAs,2,m,ipf=:SAs ipf 2m:[aSizwa aSAsAtAm aSAsuH aSizWAH aSAsATAm aSizQvam aSAsi aSizvahi aSizmahi]
+SAs,2,m,ipv=:SAs ipv 2m:[SizwAm SAsAtAm SAsatu Sizsva SAsATAm SizQvam SAsE SAsAvahE SAsAmahE]
+SAs,2,m,opt=:SAs opt 2m:[SAsIta SAsIyAtAm SAsIran SAsITAH SAsIyATAm SAsIDvam SAsIya SAsIvahi SAsImahi]
+; dviz (to hate) class 2, active
+dviz,2,a,pre=:dviz pre 2a:[dvezwi dvizwaH dvizanti dvekzi dvizWaH dvizWa dvezmi dvizvaH dvizmaH]
+dviz,2,a,ipf=:dviz ipf 2a:[advew advizwAm (advizan advizuH) advew advizwam advizwa advezam advizva advizma]
+dviz,2,a,ipv=:dviz ipv 2a:[dvezwu dvizwAm dvizantu dviqQi dvizwam dvizwa dvezARi dvezAva dvezAma]
+dviz,2,a,opt=:dviz opt 2a:[dvizyAt dvizyAtAm dvizyuH dvizyAH dvizyAtam dvizyAta dvizyAm dvizyAva dvizyAma]
+; dviz (to hate) class 2, middle
+dviz,2,m,pre=:dviz pre 2m:[dvizwe dvizAte dvizate dvikze dvizATe dviqQve dvize dvizvahe dvizmahe]
+dviz,2,m,ipf=:dviz ipf 2m:[advizwa advizAtAm advizata advizWAH advizATAm adviqQvam advizi advizvahi advizmahi]
+dviz,2,m,ipv=:dviz ipv 2m:[dvizwAm dvizAtAm dvizatAm dvikzva dvizATAm dviqQvam dvezE dvezAvahE dvezAmahE]
+dviz,2,m,opt=:dviz opt 2m:[dvizIta dvizIyAtAm dvizIran dvizITAH dvizIyATAm dvizIDvam dvizIya dvizIvahi dvizImahi]
+; rud (to weep, to cry), class 2 active
+rud,2,a,pre=:rud pre 2a:[roditi ruditaH rudanti rodizi rudiTaH rudiTa rodimi rudivaH rudimaH]
+rud,2,a,ipf=:rud ipf 2a:[(arodIt arodat) aruditAm arudan (arodIH arodaH) aruditam arudita arodam arudiva arudima]
+rud,2,a,ipv=:rud ipv 2a:[roditu ruditAm rudantu rudihi ruditam rudita rodAni rodAva rodAma]
+rud,2,a,opt=:rud opt 2a:[rudyAt rudyAtAm rudyuH rudyAH rudyAtam rudyAta rudyAm rudyAva rudyAma]
+; svap (to sleep) class 2, active
+svap,2,a,pre=:svap pre 2a:[svapiti svapitaH svapanti svapizi svapiTaH svapiTa svapimi svapivaH svapimaH]
+svap,2,a,ipf=:svap ipf 2a:[(asvapIt asvapat) asvapitAm asvapan (asvapIH asvapaH) asvapitam asvapita asvapam asvapiva asvapima]
+svap,2,a,ipv=:svap ipv 2a:[svapitu svapitAm svapantu svapihi svapitam svapita svapAni svapAva svapAma]
+svap,2,a,opt=:svap opt 2a:[svapyAt svapyAtAm svapyuH svapyAH svapyAtam svapyAta svapyAm svapyAva svapyAma]
+; han (to kill) class 2, active
+han,2,a,pre=:han pre 2a:[hanti hataH Gnanti haMsi haTaH haTa hanmi hanvaH hanmaH]
+han,2,a,ipf=:han ipf 2a:[ahan ahatAm aGnan ahan ahatam ahata ahanam ahanva ahanma]
+han,2,a,ipv=:han ipv 2a:[hantu hatAm Gnantu jahi hatam hata hanAni hanAva hanAma]
+han,2,a,opt=:han opt 2a:[hanyAt hanyAtAm hanyuH hanyAH hanyAtam hanyAta hanyAm hanyAva hanyAma]
+; Svas (to breathe) class 2 active
+Svas,2,a,pre=:Svas pre 2a:[Svasiti SvasitaH Svasanti Svasizi SvasiTaH SvasiTa Svasimi SvasivaH SvasimaH]
+Svas,2,a,ipf=:Svas ipf 2a:[(aSvasIt aSvasat) aSvasitAm aSvasan (aSvasIH aSvasaH) aSvasitam aSvasita aSvasam aSvasiva aSvasima]
+Svas,2,a,ipv=:Svas ipv 2a:[Svasitu SvasitAm Svasantu Svasihi Svasitam Svasita SvasAni SvasAva SvasAma]
+Svas,2,a,opt=:Svas opt 2a:[SvasyAt SvasyAtAm SvasyuH SvasyAH SvasyAtam SvasyAta SvasyAm SvasyAva SvasyAma]
+; vid (to know) class 2 active
+vid,2,a,pre=:vid pre 2a:[(vetti veda) (vittaH vidatuH) (vidanti viduH) (vetsi vetTa) (vitTaH vidaTuH) (vitTa vida) (vedmi veda) (vidvaH vidva) (vidmaH vidma)]
+vid,2,a,ipf=:vid ipf 2a:[avet avittAm avidan (aveH aved) avittam avitta avedam avidva avidma]
+vid,2,a,ipv=:vid ipv 2a:[(vettu vidANkarotu) (vittAm vidANkurutAm) (vidantu vidANkurvantu) (vidDi vidANkuru) (vittam vidANkurutam) (vitta vidANkuruta) (vedAni vidANkaravARi) (vedAva vidANkaravAva) (vedAma vidANkaravAma)]
+vid,2,a,opt=:vid opt 2a:[vidyAt vidyAtAm vidyuH vidyAH vidyAtam vidyAta vidyAm vidyAva vidyAma]
+; -----------------------------------------------------------------------------
+; Class 3
+; -----------------------------------------------------------------------------
+; hu (to offer oblations) class 3, active
+hu,3,a,pre=:hu pre 3a:[juhoti juhutaH juhvati juhozi juhuTaH juhuTa juhomi juhuvaH juhumaH]
+hu,3,a,ipf=:hu ipf 3a:[ajuhot ajuhutAm ajuhavuH ajuhoH ajuhutam ajuhuta ajuhavam ajuhuva ajuhuma]
+hu,3,a,ipv=:hu ipv 3a:[juhotu juhutAm juhvatu juhuDi juhutam juhuta juhavAni juhavAva juhavAma]
+hu,3,a,opt=:hu opt 3a:[juhuyAt juhuyAtAm juhuyuH juhuyAH juhuyAtam juhuyAta juhuyAm juhuyAva juhuyAma]
+; Bf (to support) class 3, active
+Bf,3,a,pre=:Bf pre 3a:[biBarti biBftaH biBrati biBarzi biBfTaH biBfTa biBarmi biBfvaH biBfmaH]
+Bf,3,a,ipf=:Bf ipf 3a:[abiBaH abiBftAm abiBaruH abiBaH abiBftam abiBfta abiBaram abiBfva abiBfma]
+Bf,3,a,ipv=:Bf ipv 3a:[biBartu biBftAm biBratu biBfhi biBftam biBfta biBarARi biBarAva biBarAma]
+Bf,3,a,opt=:Bf opt 3a:[biBfyAt biBfyAtAm biBfyuH biBfyAH biBfyAtam biBfyAta biBfyAm biBfyAva biBfyAma]
+; Bf (to support) class 3, middle
+Bf,3,m,pre=:Bf pre 3m:[biBfte biBrAte biBrate biBfze biBrATe biBfDve biBre biBfvahe biBfmahe]
+Bf,3,m,ipf=:Bf ipf 3m:[abiBfta abiBrAtAm abiBrata abiBfTAH abiBrATAm abiBfDvam abiBri abiBfvahi abiBfmahi]
+Bf,3,m,ipv=:Bf ipv 3m:[biBftAm biBrAtAm biBratAm biBfzva biBrATAm biBfDvam biBarE biBarAvahE biBarAmahE]
+Bf,3,m,opt=:Bf opt 3m:[biBrIta biBrIyAtAm biBrIran biBrITAH biBrIyATAm biBrIDvam biBrIya biBrIvahi biBrImahi]
+; dA (to give) class 3, active
+dA,3,a,pre=:dA pre 3a:[dadAti dattaH dadati dadAsi datTaH datTa dadAmi dadvaH dadmaH]
+dA,3,a,ipf=:dA ipf 3a:[adadAt adattAm adaduH adadAH adattam adatta adadAm adadva adadma]
+dA,3,a,ipv=:dA ipv 3a:[dadAtu dattAm dadatu dehi dattam datta dadAni dadAva dadAma]
+dA,3,a,opt=:dA opt 3a:[dadyAt dadyAtAm dadyuH dadyAH dadyAtam dadyAta dadyAm dadyAva dadyAma]
+; dA (to give) class 3, active
+dA,3,m,pre=:dA pre 3m:[datte dadAte dadate datse dadATe dadDve dade dadvahe dadmahe]
+dA,3,m,ipf=:dA ipf 3m:[adatta adadAtAm adadata adatTAH adadATAm adadDvam adadi adadvahi adadmahi]
+dA,3,m,ipv=:dA ipv 3m:[dattAm dadAtAm dadatAm datsva dadATAm dadDvam dadE dadAvahE dadAmahE]
+dA,3,m,opt=:dA opt 3m:[dadIta dadIyAtAm dadIran dadITAH dadIyATAm dadIDvam dadIya dadIvahi dadImahi]
+; DA (to place, put) class 3, active
+DA,3,a,pre=:DA pre 3a:[daDAti DattaH daDati daDAsi DatTaH DatTa daDAmi daDvaH daDmaH]
+DA,3,a,ipf=:DA ipf 3a:[adaDAt aDattAm adaDuH adaDAH aDattam aDatta adaDAm adaDva adaDma]
+DA,3,a,ipv=:DA ipv 3a:[daDAtu DattAm daDatu Dehi Dattam Datta daDAni daDAva daDAma]
+DA,3,a,opt=:DA opt 3a:[daDyAt daDyAtAm daDyuH daDyAH daDyAtam daDyAta daDyAm daDyAva daDyAma]
+; DA (to place, put) class 3, middle
+DA,3,m,pre=:DA pre 3m:[Datte daDAte daDate Datse daDATe DadDve daDe daDvahe daDmahe]
+DA,3,m,ipf=:DA ipf 3m:[aDatta adaDAtAm adaData aDatTAH adaDATAm aDadDvam adaDi adaDvahi adaDmahi]
+DA,3,m,ipv=:DA ipv 3m:[DattAm daDAtAm daDatAm Datsva daDATAm DadDvam daDE daDAvahE daDAmahE]
+DA,3,m,opt=:DA opt 3m:[daDIta daDIyAtAm daDIran daDITAH daDIyATAm daDIDvam daDIya daDIvahi daDImahi]
+; mA (to measure), class 3, middle
+mA,3,m,pre=:mA pre 3m:[mimIte mimAte mimate mimIze mimATe mimIDve mime mimIvahe mimImahe]
+mA,3,m,ipf=:mA ipf 3m:[amimIta amimAtAm amimata amimITAH amimATAm amimIDvam amimi amimIvahi amimImahi]
+mA,3,m,ipv=:mA ipv 3m:[mimItAm mimAtAm mimatAm mimIzva mimATAm mimIDvam mimE mimAvahE mimAmahE]
+mA,3,m,opt=:mA opt 3m:[mimIta mimIyAtAm mimIran mimITAH mimIyATAm mimIDvam mimIya mimIvahi mimImahi]
+; hA (to leave) class 3, active
+hA,3,a,pre=:hA pre 3a:[jahAti (jahItaH jahitaH) jahati jahAsi (jahITaH jahiTaH) (jahITa jahiTa) jahAmi (jahIvaH jahivaH) (jahImaH jahimaH)]
+hA,3,a,ipf=:hA ipf 3a:[ajahAt (ajahItAm ajahitAm) ajahuH ajahAH (ajahItam ajahitam) (ajahIta ajahita) ajahAm (ajahIva ajahiva) (ajahIma ajahima)]
+hA,3,a,ipv=:hA ipv 3a:[jahAtu (jahItAm jahitAm) jahatu (jahAhi jahIhi jahihi) (jahItam jahitam) (jahIta jahita) jahAni jahAva jahAma]
+hA,3,a,opt=:hA opt 3a:[jahyAt jahyAtAm jahyuH jahyAH jahyAtam jahyAta jahyAm jahyAva jahyAma]
+; hA (to leave) class 3, middle
+hA,3,m,pre=:hA pre 3m:[jihIte jihAte jihate jihIze jihATe jihIDve jihe jihIvahe jihImahe]
+hA,3,m,ipf=:hA ipf 3m:[ajihIta ajihAtAm ajihata ajihITAH ajihATAm ajihIDvam ajihi ajihIvahi ajihImahi]
+hA,3,m,ipv=:hA ipv 3m:[jihItAm jihAtAm jihatAm jihIzva jihATAm jihIDvam jihE jihAvahE jihAmahE]
+hA,3,m,opt=:hA opt 3m:[jihIta jihIyAtAm jihIran jihITAH jihIyATAm jihIDvam jihIya jihIvahi jihImahi]
+; BI (to fear)  class 3, active
+BI,3,a,pre=:BI pre 3a:[biBeti (biBItaH biBitaH) biByati biBezi (biBITaH biBiTaH) (biBITa biBiTa) biBemi (biBIvaH biBivaH) (biBImaH biBimaH)]
+BI,3,a,ipf=:BI ipf 3a:[abiBet (abiBItAm abiBitAm) abiBayuH abiBeH (abiBItam abiBitam) (abiBIta abiBita) abiBayam (abiBIva abiBiva) (abiBIma abiBima)]
+BI,3,a,ipv=:BI ipv 3a:[biBetu (biBItAm biBitAm) biByatu (biBIhi biBihi) (biBItam biBitam) (biBIta biBita) biBayAni biBayAva biBayAma]
+BI,3,a,opt=:BI opt 3a:[(biBIyAt biBiyAt) (biBIyAtAm biBiyAtAm) (biBIyuH biBiyuH) (biBIyAH biBiyAH) (biBIyAtam biBiyAtam) (biBIyAta biBiyAta) (biBIyAm biBiyAm) (biBIyAva biBiyAva) (biBIyAma biBiyAma)]
+; -----------------------------------------------------------------------------
+; Class 5
+; -----------------------------------------------------------------------------
+; su (to press juice) class=5, active
+su,5,a,pre=:su pre 5a:[sunoti sunutaH sunvanti sunozi sunuTaH sunuTa sunomi (sunuvaH sunvaH) (sunumaH sunmaH)]
+su,5,a,ipf=:su ipf 5a:[asunot asunutAm asunvan asunoH asunutam asunuta asunavam (asunuva asunva) (asunuma asunma)]
+su,5,a,ipv=:su ipv 5a:[sunotu sunutAm sunvantu sunu sunutam sunuta sunavAni sunavAva sunavAma]
+su,5,a,opt=:su opt 5a:[sunuyAt sunuyAtAm sunuyuH sunuyAH sunuyAtam sunuyAta sunuyAm sunuyAva sunuyAma]
+; su (to press juice) class=5, middle
+su,5,m,pre=:su pre 5m:[sunute sunvAte sunvate sunuze sunvATe sunuDve sunve (sunuvahe sunvahe) (sunumahe sunmahe)]
+su,5,m,ipf=:su ipf 5m:[asunuta asunvAtAm asunvata asunuTAH asunvATAm asunuDvam asunvi (asunuvahi asunvahi) (asunumahi asunmahi)]
+su,5,m,ipv=:su ipv 5m:[sunutAm sunvAtAm sunvatAm sunuzva sunvATAm sunuDvam sunavE sunavAvahE sunavAmahE]
+su,5,m,opt=:su opt 5m:[sunvIta sunvIyAtAm sunvIran sunvITAH sunvIyATAm sunvIDvam sunvIya sunvIvahi sunvImahi]
+; Ap (to obtain) class 5, active
+Ap,5,a,pre=:Ap pre 5a:[Apnoti ApnutaH Apnuvanti Apnozi ApnuTaH ApnuTa Apnomi ApnuvaH ApnumaH]
+Ap,5,a,ipf=:Ap ipf 5a:[Apnot ApnutAm Apnuvan ApnoH Apnutam Apnuta Apnavam Apnuva Apnuma]
+Ap,5,a,ipv=:Ap ipv 5a:[Apnotu ApnutAm Apnuvantu Apnuhi Apnutam Apnuta ApnavAni ApnavAva ApnavAma]
+Ap,5,a,opt=:Ap opt 5a:[ApnuyAt ApnuyAtAm ApnuyuH ApnuyAH ApnuyAtam ApnuyAta ApnuyAm ApnuyAva ApnuyAma]
+; Sak (to be able)  class 5, active
+Sak,5,a,pre=:Sak pre 5a:[Saknoti SaknutaH Saknuvanti Saknozi SaknuTaH SaknuTa Saknomi SaknuvaH SaknumaH]
+Sak,5,a,ipf=:Sak ipf 5a:[aSaknot aSaknutAm aSaknuvan aSaknoH aSaknutam aSaknuta aSaknavam aSaknuva aSaknuma]
+Sak,5,a,ipv=:Sak ipv 5a:[Saknotu SaknutAm Saknuvantu Saknuhi Saknutam Saknuta SaknavAni SaknavAva SaknavAma]
+Sak,5,a,opt=:Sak opt 5a:[SaknuyAt SaknuyAtAm SaknuyuH SaknuyAH SaknuyAtam SaknuyAta SaknuyAm SaknuyAva SaknuyAma]
+; aS (to get, to enjoy, to pervade) class 5, middle
+aS,5,m,pre=:aS pre 5m:[aSnute aSnuvAte aSnuvate aSnuze aSnuvATe aSnuDve aSnuve aSnuvahe aSnumahe]
+aS,5,m,ipf=:aS ipf 5m:[ASnuta ASnuvAtAm ASnuvata ASnuTAH ASnuvATAm ASnuDvam ASnuvi ASnuvahi ASnumahi]
+aS,5,m,ipv=:aS ipv 5m:[aSnutAm aSnuvAtAm aSnuvatAm aSnuzva aSnuvATAm aSnuDvam aSnavE aSnavAvahE aSnavAmahE]
+aS,5,m,opt=:aS opt 5m:[aSnuvIta aSnuvIyAtAm aSnuvIran aSnuvITAH aSnuvIyATAm aSnuvIDvam aSnuvIya aSnuvIvahi aSnuvImahi]
+; -----------------------------------------------------------------------------
+; Class 7
+; -----------------------------------------------------------------------------
+; Bid (to break) class 7, active
+Bid,7,a,pre=:Bid pre 7a:[Binatti BinttaH Bindanti Binatsi BintTaH BintTa Binadmi BindvaH BindmaH]
+Bid,7,a,ipf=:Bid ipf 7a:[aBinat aBinttAm aBindan (aBinat aBinaH) aBinttam aBintta aBinadam aBindva aBindma]
+Bid,7,a,ipv=:Bid ipv 7a:[Binattu BinttAm Bindantu BindDi Binttam Bintta BinadAni BinadAva BinadAma]
+Bid,7,a,opt=:Bid opt 7a:[BindyAt BindyAtAm BindyuH BindyAH BindyAtam BindyAta BindyAm BindyAva BindyAma]
+; ruD (to obstruct) class 7, active
+ruD,7,a,pre=:ruD pre 7a:[ruRadDi rundDaH runDanti ruRatsi rundDaH rundDa ruRaDmi runDvaH runDmaH]
+ruD,7,a,ipf=:ruD ipf 7a:[aruRat arundDAm arunDan (aruRat aruRaH) arundDam arundDa aruRaDam arunDva arunDma]
+ruD,7,a,ipv=:ruD ipv 7a:[ruRadDu rundDAm runDantu rundDi rundDam rundDa ruRaDAni ruRaDAva ruRaDAma]
+ruD,7,a,opt=:ruD opt 7a:[runDyAt runDyAtAm runDyuH runDyAH runDyAtam runDyAta runDyAm runDyAva runDyAma]
+; ruD (to obstruct) class 7, middle
+ruD,7,m,pre=:ruD pre 7m:[rundDe runDAte runDate runtse runDATe rundDve runDe runDvahe runDmahe]
+ruD,7,m,ipf=:ruD ipf 7m:[arundDa arunDAtAm arunData arundDAH arunDATAm arundDvam arunDi arunDvahi arunDmahi]
+ruD,7,m,ipv=:ruD ipv 7m:[rundDAm runDAtAm runDatAm runtsva runDATAm rundDvam ruRaDE ruRaDAvahE ruRaDAmahE]
+ruD,7,m,opt=:ruD opt 7m:[runDIta runDIyAtAm runDIran runDITAH runDIyATAm runDIDvam runDIya runDIvahi runDImahi]
+; yuj (to join) class 7, active
+yuj,7,a,pre=:yuj pre 7a:[yunakti yuNktaH yuYjanti yunakzi yuNkTaH yuNkTa yunajmi yuYjvaH yuYjmaH]
+yuj,7,a,ipf=:yuj ipf 7a:[ayunak ayuNktAm ayuYjan ayunak ayuNktam ayuNkta ayunajam ayuYjva ayuYjma]
+yuj,7,a,ipv=:yuj ipv 7a:[yunaktu yuNktAm yuYjantu yuNgDi yuNktam yuNkta yunajAni yunajAva yunajAma]
+yuj,7,a,opt=:yuj opt 7a:[yuYjyAt yuYjyAtAm yuYjyuH yuYjyAH yuYjyAtam yuYjyAta yuYjyAm yuYjyAva yuYjyAma]
+; yuj (to join) class 7, middle
+yuj,7,m,pre=:yuj pre 7m:[yuNkte yuYjAte yuYjate yuNkze yuYjATe yuNgDve yuYje yuYjvahe yuYjmahe]
+yuj,7,m,ipf=:yuj ipf 7m:[ayuNkta ayuYjAtAm ayuYjata ayuNkTAH ayuYjATAm ayuNgDvam ayuYji ayuYjvahi ayuYjmahi]
+yuj,7,m,ipv=:yuj ipv 7m:[yuNktAm yuYjAtAm yuYjatAm yuNkzva yuYjATAm yuNgDvam yunajE yunajAvahE yunajAmahE]
+yuj,7,m,opt=:yuj opt 7m:[yuYjIta yuYjIyAtAm yuYjIran yuYjITAH yuYjIyATAm yuYjIDvam yuYjIya yuYjIvahi yuYjImahi]
+; piz (to grind) class 7, active
+piz,7,a,pre=:piz pre 7a:[pinazwi piRzwaH piRzanti pinakzi piRzWaH piRzWa pinazmi piRzvaH piRzmaH]
+piz,7,a,ipf=:piz ipf 7a:[apinaw apiRzwAm apiRzan apinaw apiRzwam apiRzwa apinazam apiRzva apiRzma]
+piz,7,a,ipv=:piz ipv 7a:[pinazwu piRzwAm piRzantu piRqQi piRzwam piRzwa pinazARi pinazAva pinazAma]
+piz,7,a,opt=:piz opt 7a:[piRzyAt piRzyAtAm piRzyuH piRzyAH piRzyAtam piRzyAta piRzyAm piRzyAva piRzyAma]
+; hiMs (to kill) class 7, active
+hiMs,7,a,pre=:hiMs pre 7a:[hinasti hinstaH hinsanti hinassi hinsTaH hinsTa hinasmi hinsvaH hinsmaH]
+hiMs,7,a,ipf=:hiMs ipf 7a:[ahinat ahinstAm ahinsan (ahinaH ahinat) ahinstam ahinsta ahinasam ahinsva ahinsma]
+hiMs,7,a,ipv=:hiMs ipv 7a:[hinastu hinstAm hinsantu hiMDi hinstam hinsta hinasAni hinasAva hinasAma]
+hiMs,7,a,opt=:hiMs opt 7a:[hinsyAt hinsyAtAm hinsyuH hinsyAH hinsyAtam hinsyAta hinsyAm hinsyAva hinsyAma]
+; ric (to evacuate) class 7, active
+ric,7,a,pre=:ric pre 7a:[riRakti riNktaH riYcanti riRakzi riNkTaH riNkTa riRacmi riYcvaH riYcmaH]
+ric,7,a,ipf=:ric ipf 7a:[ariRak ariNktAm ariYcan ariRak ariNktam ariNkta ariRacam ariYcva ariYcma]
+ric,7,a,ipv=:ric ipv 7a:[riRaktu riNktAm riYcantu riNgDi riNktam riNkta riRacAni riRacAva riRacAma]
+ric,7,a,opt=:ric opt 7a:[riYcyAt riYcyAtAm riYcyuH riYcyAH riYcyAtam riYcyAta riYcyAm riYcyAva riYcyAma]
+; ric (to evacuate) class 7, middle
+ric,7,m,pre=:ric pre 7m:[riNkte riYcAte riYcate riNkze riYcATe riNgDve riYce riYcvahe riYcmahe]
+ric,7,m,ipf=:ric ipf 7m:[ariNkta ariYcAtAm ariYcata ariNkTAH ariYcATAm ariNgDvam ariYci ariYcvahi ariYcmahi]
+ric,7,m,ipv=:ric ipv 7m:[riNktAm riYcAtAm riYcatAm riNkzva riYcATAm riNgDvam riRacE riRacAvahE riRacAmahE]
+ric,7,m,opt=:ric opt 7m:[riYcIta riYcIyAtAm riYcIran riYcITAH riYcIyATAm riYcIDvam riYcIya riYcIvahi riYcImahi]
+; Cid (to cut) class 7, active
+Cid,7,a,pre=:Cid pre 7a:[Cinatti CinttaH Cindanti Cinatsi CintTaH CintTa Cinadmi CindvaH CindmaH]
+Cid,7,a,ipf=:Cid ipf 7a:[aCinat aCinttAm aCindan (aCinat aCinaH) aCinttam aCintta aCinadam aCindva aCindma]
+Cid,7,a,ipv=:Cid ipv 7a:[Cinattu CinttAm Cindantu CindDi Cinttam Cintta CinadAni CinadAva CinadAma]
+Cid,7,a,opt=:Cid opt 7a:[CindyAt CindyAtAm CindyuH CindyAH CindyAtam CindyAta CindyAm CindyAva CindyAma]
+; Cid (to cut) class 7, middle
+Cid,7,m,pre=:Cid pre 7m:[Cintte CindAte Cindate Cintse CindATe CindDve Cinde Cindvahe Cindmahe]
+Cid,7,m,ipf=:Cid ipf 7m:[aCintta aCindAtAm aCindata aCintTAH aCindATAm aCindDvam aCindi aCindvahi aCindmahi]
+Cid,7,m,ipv=:Cid ipv 7m:[CinttAm CindAtAm CindatAm Cintsva CindATAm CindDvam CinadE CinadAvahE CinadAmahE]
+Cid,7,m,opt=:Cid opt 7m:[CindIta CindIyAtAm CindIran CindITAH CindIyATAm CindIDvam CindIya CindIvahi CindImahi]
+; Buj (to protect) class 7, active
+Buj,7,a,pre=:Buj pre 7a:[Bunakti BuNktaH BuYjanti Bunakzi BuNkTaH BuNkTa Bunajmi BuYjvaH BuYjmaH]
+Buj,7,a,ipf=:Buj ipf 7a:[aBunak aBuNktAm aBuYjan aBunak aBuNktam aBuNkta aBunajam aBuYjva aBuYjma]
+Buj,7,a,ipv=:Buj ipv 7a:[Bunaktu BuNktAm BuYjantu BuNgDi BuNktam BuNkta BunajAni BunajAva BunajAma]
+Buj,7,a,opt=:Buj opt 7a:[BuYjyAt BuYjyAtAm BuYjyuH BuYjyAH BuYjyAtam BuYjyAta BuYjyAm BuYjyAva BuYjyAma]
+; Buj (to eat) class 7, middle
+Buj,7,m,pre=:Buj pre 7m:[BuNkte BuYjAte BuYjate BuNkze BuYjATe BuNgDve BuYje BuYjvahe BuYjmahe]
+Buj,7,m,ipf=:Buj ipf 7m:[aBuNkta aBuYjAtAm aBuYjata aBuNkTAH aBuYjATAm aBuNgDvam aBuYji aBuYjvahi aBuYjmahi]
+Buj,7,m,ipv=:Buj ipv 7m:[BuNktAm BuYjAtAm BuYjatAm BuNkzva BuYjATAm BuNgDvam BunajE BunajAvahE BunajAmahE]
+Buj,7,m,opt=:Buj opt 7m:[BuYjIta BuYjIyAtAm BuYjIran BuYjITAH BuYjIyATAm BuYjIDvam BuYjIya BuYjIvahi BuYjImahi]
+; BaYj (to break), class 7, active
+BaYj,7,a,pre=:BaYj pre 7a:[Banakti BaNktaH BaYjanti Banakzi BaNkTaH BaNkTa Banajmi BaYjvaH BaYjmaH]
+BaYj,7,a,ipf=:BaYj ipf 7a:[aBanak aBaNktAm aBaYjan aBanak aBaNktam aBaNkta aBanajam aBaYjva aBaYjma]
+BaYj,7,a,ipv=:BaYj ipv 7a:[Banaktu BaNktAm BaYjantu BaNgDi BaNktam BaNkta BanajAni BanajAva BanajAma]
+BaYj,7,a,opt=:BaYj opt 7a:[BaYjyAt BaYjyAtAm BaYjyuH BaYjyAH BaYjyAtam BaYjyAta BaYjyAm BaYjyAva BaYjyAma]
+; -----------------------------------------------------------------------------
+; Class 8
+; -----------------------------------------------------------------------------
+; tan (to stretch, extend) class 8, active
+tan,8,a,pre=:tan pre 8a:[tanoti tanutaH tanvanti tanozi tanuTaH tanuTa tanomi (tanuvaH tanvaH) (tanumaH tanmaH)]
+tan,8,a,ipf=:tan ipf 8a:[atanot atanutAm atanvan atanoH atanutam atanuta atanavam (atanuva atanva) (atanuma atanma)]
+tan,8,a,ipv=:tan ipv 8a:[tanotu tanutAm tanvantu tanu tanutam tanuta tanavAni tanavAva tanavAma]
+tan,8,a,opt=:tan opt 8a:[tanuyAt tanuyAtAm tanuyuH tanuyAH tanuyAtam tanuyAta tanuyAm tanuyAva tanuyAma]
+; tan (to stretch, extend) class 8, middle
+tan,8,m,pre=:tan pre 8m:[tanute tanvAte tanvate tanuze tanvATe tanuDve tanve (tanuvahe tanvahe) (tanumahe tanmahe)]
+tan,8,m,ipf=:tan ipf 8m:[atanuta atanvAtAm atanvata atanuTAH atanvATAm atanuDvam atanvi (atanuvahi atanvahi) (atanumahi atanmahi)]
+tan,8,m,ipv=:tan ipv 8m:[tanutAm tanvAtAm tanvatAm tanuzva tanvATAm tanuDvam tanavE tanavAvahE tanavAmahE]
+tan,8,m,opt=:tan opt 8m:[tanvIta tanvIyAtAm tanvIran tanvITAH tanvIyATAm tanvIDvam tanvIya tanvIvahi tanvImahi]
+; man (to think, consider) class 8, middle
+man,8,m,pre=:man pre 8m:[manute manvAte manvate manuze manvATe manuDve manve (manuvahe manvahe) (manumahe manmahe)]
+man,8,m,ipf=:man ipf 8m:[amanuta amanvAtAm amanvata amanuTAH amanvATAm amanuDvam amanvi (amanuvahi amanvahi) (amanumahi amanmahi)]
+man,8,m,ipv=:man ipv 8m:[manutAm manvAtAm manvatAm manuzva manvATAm manuDvam manavE manavAvahE manavAmahE]
+man,8,m,opt=:man opt 8m:[manvIta manvIyAtAm manvIran manvITAH manvIyATAm manvIDvam manvIya manvIvahi manvImahi]
+; kf (to do) class 8, active
+kf,8,a,pre=:kf pre 8a:[karoti kurutaH kurvanti karozi kuruTaH kuruTa karomi kurvaH kurmaH]
+kf,8,a,ipf=:kf ipf 8a:[akarot akurutAm akurvan akaroH akurutam akuruta akaravam akurva akurma]
+kf,8,a,ipv=:kf ipv 8a:[karotu kurutAm kurvantu kuru kurutam kuruta karavARi karavAva karavAma]
+kf,8,a,opt=:kf opt 8a:[kuryAt kuryAtAm kuryuH kuryAH kuryAtam kuryAta kuryAm kuryAva kuryAma]
+; kf (to do) class 8, middle
+kf,8,m,pre=:kf pre 8m:[kurute kurvAte kurvate kuruze kurvATe kuruDve kurve kurvahe kurmahe]
+kf,8,m,ipf=:kf ipf 8m:[akuruta akurvAtAm akurvata akuruTAH akurvATAm akuruDvam akurvi akurvahi akurmahi]
+kf,8,m,ipv=:kf ipv 8m:[kurutam kurvAtAm kurvatAm kuruzva kurvATAm kuruDvam karavE karavAvahE karavAmahE]
+kf,8,m,opt=:kf opt 8m:[kurvIta kurvIyAtAm kurvIran kurvITAH kurvIyATAm kurvIDvam kurvIya kurvIvahi kurvImahi]
+; -----------------------------------------------------------------------------
+; Class 9
+; -----------------------------------------------------------------------------
+; krI (to buy) class 9, active
+krI,9,a,pre=:krI pre 9a:[krIRAti krIRItaH krIRanti krIRAsi krIRITaH krIRITa krIRAmi krIRIvaH krIRImaH]
+krI,9,a,ipf=:krI ipf 9a:[akrIRAt akrIRItAm akrIRan akrIRAH akrIRItam akrIRIta akrIRAm akrIRIva akrIRIma]
+krI,9,a,ipv=:krI ipv 9a:[krIRAtu krIRItAm krIRantu krIRIhi krIRItam krIRIta krIRAni krIRAva krIRAma]
+krI,9,a,opt=:krI opt 9a:[krIRIyAt krIRIyAtAm krIRIyuH krIRIyAH krIRIyAtam krIRIyAta krIRIyAm krIRIyAva krIRIyAma]
+; krI (to buy) class 9, middle
+krI,9,m,pre=:krI pre 9m:[krIRIte krIRAte krIRate krIRIze krIRATe krIRIDve krIRe krIRIvahe krIRImahe]
+krI,9,m,ipf=:krI ipf 9m:[akrIRIta akrIRAtAm akrIRata akrIRITAH akrIRATAm akrIRIDvam akrIRi akrIRIvahi akrIRImahi]
+krI,9,m,ipv=:krI ipv 9m:[krIRItAm krIRAtAm krIRatAm krIRIzva krIRATAm krIRIDvam krIRE krIRAvahE krIRAmahE]
+krI,9,m,opt=:krI opt 9m:[krIRIta krIRIyAtAm krIRIran krIRITAH krIRIyATAm krIRIDvam krIRIya krIRIvahi krIRImahi]
+; pU (to purify) class 9, active
+pU,9,a,pre=:pU pre 9a:[punAti punItaH punanti punAsi punITaH punITa punAmi punIvaH punImaH]
+pU,9,a,ipf=:pU ipf 9a:[apunAt apunItAm apunan apunAH apunItam apunIta apunAm apunIva apunIma]
+pU,9,a,ipv=:pU ipv 9a:[punAtu punItAm punantu punIhi punItam punIta punAni punAva punAma]
+pU,9,a,opt=:pU opt 9a:[punIyAt punIyAtAm punIyuH punIyAH punIyAtam punIyAta punIyAm punIyAva punIyAma]
+; pU (to purify) class 9, middle
+pU,9,m,pre=:pU pre 9m:[punIte punAte punate punIze punATe punIDve pune punIvahe punImahe]
+pU,9,m,ipf=:pU ipf 9m:[apunIta apunAtAm apunata apunITAH apunATAm apunIDvam apuni apunIvahi apunImahi]
+pU,9,m,ipv=:pU ipv 9m:[punItAm punAtAm punatAm punIzva punATAm punIDvam punE punAvahE punAmahE]
+pU,9,m,opt=:pU opt 9m:[punIta punIyAtAm punIran punITAH punIyATAm punIDvam punIya punIvahi punImahi]
+; jYA (to know) class 9, active
+jYA,9,a,pre=:jYA pre 9a:[jAnAti jAnItaH jAnanti jAnAsi jAnITaH jAnITa jAnAmi jAnIvaH jAnImaH]
+jYA,9,a,ipf=:jYA ipf 9a:[ajAnAt ajAnItAm ajAnan ajAnAH ajAnItam ajAnIta ajAnAm ajAnIva ajAnIma]
+jYA,9,a,ipv=:jYA ipv 9a:[jAnAtu jAnItAm jAnantu jAnIhi jAnItam jAnIta jAnAni jAnAva jAnAma]
+jYA,9,a,opt=:jYA opt 9a:[jAnIyAt jAnIyAtAm jAnIyuH jAnIyAH jAnIyAtam jAnIyAta jAnIyAm jAnIyAva jAnIyAma]
+; jYA (to know) class 9, middle
+jYA,9,m,pre=:jYA pre 9m:[jAnIte jAnAte jAnate jAnIze jAnATe jAnIDve jAne jAnIvahe jAnImahe]
+jYA,9,m,ipf=:jYA ipf 9m:[ajAnIta ajAnAtAm ajAnata ajAnITAH ajAnATAm ajAnIDvam ajAni ajAnIvahi ajAnImahi]
+jYA,9,m,ipv=:jYA ipv 9m:[jAnItAm jAnAtAm jAnatAm jAnIzva jAnATAm jAnIDvam jAnE jAnAvahE jAnAmahE]
+jYA,9,m,opt=:jYA opt 9m:[jAnIta jAnIyAtAm jAnIran jAnITAH jAnIyATAm jAnIDvam jAnIya jAnIvahi jAnImahi]
+; vf (to choose) class 9, active
+vf,9,a,pre=:vf pre 9a:[vfRAti vfRItaH vfRanti vfRAsi vfRITaH vfRITa vfRAmi vfRIvaH vfRImaH]
+vf,9,a,ipf=:vf ipf 9a:[avfRAt avfRItAm avfRan avfRAH avfRItam avfRIta avfRAm avfRIva avfRIma]
+vf,9,a,ipv=:vf ipv 9a:[vfRAtu vfRItAm vfRantu vfRIhi vfRItam vfRIta vfRAni vfRAva vfRAma]
+vf,9,a,opt=:vf opt 9a:[vfRIyAt vfRIyAtAm vfRIyuH vfRIyAH vfRIyAtam vfRIyAta vfRIyAm vfRIyAva vfRIyAma]
+; vf (to choose) class 9, middle
+vf,9,m,pre=:vf pre 9m:[vfRIte vfRAte vfRate vfRIze vfRATe vfRIDve vfRe vfRIvahe vfRImahe]
+vf,9,m,ipf=:vf ipf 9m:[avfRIta avfRAtAm avfRata avfRITAH avfRATAm avfRIDvam avfRi avfRIvahi avfRImahi]
+vf,9,m,ipv=:vf ipv 9m:[vfRItAm vfRAtAm vfRatAm vfRIzva vfRATAm vfRIDvam vfRE vfRAvahE vfRAmahE]
+vf,9,m,opt=:vf opt 9m:[vfRIta vfRIyAtAm vfRIran vfRITAH vfRIyATAm vfRIDvam vfRIya vfRIvahi vfRImahi]
+; grah (to grab) class 9, active
+grah,9,a,pre=:grah pre 9a:[gfhRAti gfhRItaH gfhRanti gfhRAsi gfhRITaH gfhRITa gfhRAmi gfhRIvaH gfhRImaH]
+grah,9,a,ipf=:grah ipf 9a:[agfhRAt agfhRItAm agfhRan agfhRAH agfhRItam agfhRIta agfhRAm agfhRIva agfhRIma]
+grah,9,a,ipv=:grah ipv 9a:[gfhRAtu gfhRItAm gfhRantu gfhARa gfhRItam gfhRIta gfhRAni gfhRAva gfhRAma]
+grah,9,a,opt=:grah opt 9a:[gfhRIyAt gfhRIyAtAm gfhRIyuH gfhRIyAH gfhRIyAtam gfhRIyAta gfhRIyAm gfhRIyAva gfhRIyAma]
+; grah (to grab) class 9, middle
+grah,9,m,pre=:grah pre 9m:[gfhRIte gfhRAte gfhRate gfhRIze gfhRATe gfhRIDve gfhRe gfhRIvahe gfhRImahe]
+grah,9,m,ipf=:grah ipf 9m:[agfhRIta agfhRAtAm agfhRata agfhRITAH agfhRATAm agfhRIDvam agfhRi agfhRIvahi agfhRImahi]
+grah,9,m,ipv=:grah ipv 9m:[gfhRItAm gfhRAtAm gfhRatAm gfhRIzva gfhRATAm gfhRIDvam gfhRE gfhRAvahE gfhRAmahE]
+grah,9,m,opt=:grah opt 9m:[gfhRIta gfhRIyAtAm gfhRIran gfhRITAH gfhRIyATAm gfhRIDvam gfhRIya gfhRIvahi gfhRImahi]
+; banD (to bind) class 9, active
+banD,9,a,pre=:banD pre 9a:[baDnAti baDnItaH baDnanti baDnAsi baDnITaH baDnITa baDnAmi baDnIvaH baDnImaH]
+banD,9,a,ipf=:banD ipf 9a:[abaDnAt abaDnItAm abaDnan abaDnAH abaDnItam abaDnIta abaDnAm abaDnIva abaDnIma]
+banD,9,a,ipv=:banD ipv 9a:[baDnAtu baDnItAm baDnantu baDAna baDnItam baDnIta baDnAni baDnAva baDnAma]
+banD,9,a,opt=:banD opt 9a:[baDnIyAt baDnIyAtAm baDnIyuH baDnIyAH baDnIyAtam baDnIyAta baDnIyAm baDnIyAva baDnIyAma]
+; manT (to churn) class 9, active
+manT,9,a,pre=:manT pre 9a:[maTnAti maTnItaH maTnanti maTnAsi maTnITaH maTnITa maTnAmi maTnIvaH maTnImaH]
+manT,9,a,ipf=:manT ipf 9a:[amaTnAt amaTnItAm amaTnan amaTnAH amaTnItam amaTnIta amaTnAm amaTnIva amaTnIma]
+manT,9,a,ipv=:manT ipv 9a:[maTnAtu maTnItAm maTnantu maTAna maTnItam maTnIta maTnAni maTnAva maTnAma]
+manT,9,a,opt=:manT opt 9a:[maTnIyAt maTnIyAtAm maTnIyuH maTnIyAH maTnIyAtam maTnIyAta maTnIyAm maTnIyAva maTnIyAma]
+; kliS (to tease, torment) class 9, active
+kliS,9,a,pre=:kliS pre 9a:[kliSnAti kliSnItaH kliSnanti kliSnAsi kliSnITaH kliSnITa kliSnAmi kliSnIvaH kliSnImaH]
+kliS,9,a,ipf=:kliS ipf 9a:[akliSnAt akliSnItAm akliSnan akliSnAH akliSnItam akliSnIta akliSnAm akliSnIva akliSnIma]
+kliS,9,a,ipv=:kliS ipv 9a:[kliSnAtu kliSnItAm kliSnantu kliSAna kliSnItam kliSnIta kliSnAni kliSnAva kliSnAma]
+kliS,9,a,opt=:kliS opt 9a:[kliSnIyAt kliSnIyAtAm kliSnIyuH kliSnIyAH kliSnIyAtam kliSnIyAta kliSnIyAm kliSnIyAva kliSnIyAma]
+; aS (to eat, enjoy) class 9, active
+aS,9,a,pre=:aS pre 9a:[aSnAti aSnItaH aSnanti aSnAsi aSnITaH aSnITa aSnAmi aSnIvaH aSnImaH]
+aS,9,a,ipf=:aS ipf 9a:[ASnAt ASnItAm ASnan ASnAH ASnItam ASnIta ASnAm ASnIva ASnIma]
+aS,9,a,ipv=:aS ipv 9a:[aSnAtu aSnItAm aSnantu aSAna aSnItam aSnIta aSnAni aSnAva aSnAma]
+aS,9,a,opt=:aS opt 9a:[aSnIyAt aSnIyAtAm aSnIyuH aSnIyAH aSnIyAtam aSnIyAta aSnIyAm aSnIyAva aSnIyAma]
+; muz (to rob, remove) class 9, active
+muz,9,a,pre=:muz pre 9a:[muzRAti muzRItaH muzRanti muzRAsi muzRITaH muzRITa muzRAmi muzRIvaH muzRImaH]
+muz,9,a,ipf=:muz ipf 9a:[amuzRAt amuzRItAm amuzRan amuzRAH amuzRItam amuzRIta amuzRAm amuzRIva amuzRIma]
+muz,9,a,ipv=:muz ipv 9a:[muzRAtu muzRItAm muzRantu muzARa muzRItam muzRIta muzRAni muzRAva muzRAma]
+muz,9,a,opt=:muz opt 9a:[muzRIyAt muzRIyAtAm muzRIyuH muzRIyAH muzRIyAtam muzRIyAta muzRIyAm muzRIyAva muzRIyAma]
+; puz (to strengthen, nourish) class 9, active
+puz,9,a,pre=:puz pre 9a:[puzRAti puzRItaH puzRanti puzRAsi puzRITaH puzRITa puzRAmi puzRIvaH puzRImaH]
+puz,9,a,ipf=:puz ipf 9a:[apuzRAt apuzRItAm apuzRan apuzRAH apuzRItam apuzRIta apuzRAm apuzRIva apuzRIma]
+puz,9,a,ipv=:puz ipv 9a:[puzRAtu puzRItAm puzRantu puzARa puzRItam puzRIta puzRAni puzRAva puzRAma]
+puz,9,a,opt=:puz opt 9a:[puzRIyAt puzRIyAtAm puzRIyuH puzRIyAH puzRIyAtam puzRIyAta puzRIyAm puzRIyAva puzRIyAma]
+; stamB (to obstruct, stop) class 9, active
+stamB,9,a,pre=:stamB pre 9a:[staBnAti staBnItaH staBnanti staBnAsi staBnITaH staBnITa staBnAmi staBnIvaH staBnImaH]
+stamB,9,a,ipf=:stamB ipf 9a:[astaBnAt astaBnItAm astaBnan astaBnAH astaBnItam astaBnIta astaBnAm astaBnIva astaBnIma]
+stamB,9,a,ipv=:stamB ipv 9a:[staBnAtu staBnItAm staBnantu staBAna staBnItam staBnIta staBnAni staBnAva staBnAma]
+stamB,9,a,opt=:stamB opt 9a:[staBnIyAt staBnIyAtAm staBnIyuH staBnIyAH staBnIyAtam staBnIyAta staBnIyAm staBnIyAva staBnIyAma]
+;-----------------------------------------------------------------
+; Perfect
+;-----------------------------------------------------------------
+;
+gam,1,a,prf=:gam prf 1a:[jagAma jagmatuH jagmuH (jaganTa jagamiTa) jagmaTuH jagma (jagama jagAma) jagmiva jagmima]
+gam,1,m,prf=:gam prf 1m:[jagme jagmAte jagmire jagmize jagmATe jagmiDve jagme jagmivahe jagmimahe]
+buD,1,a,prf=:buD prf 1a:[buboDa bubuDatuH bubuDuH buboDiTa bubuDaTuH bubuDa buboDa bubuDiva bubuDima]
+buD,1,m,prf=:buD prf 1m:[bubuDe bubuDAte bubuDire bubuDize bubuDATe bubuDiDve bubuDe bubuDivahe bubuDimahe]
+dA,2,a,prf=:dA prf 2a:[dadO dadatuH daduH (dadATa dadiTa) dadaTuH dada dadO dadiva dadima]
+dA,2,m,prf=:dA prf 2m:[dade dadAte dadire dadize dadATe dadiDve dade dadivahe dadimahe]
+brU,2,a,prf=:brU prf 2a:[bubrAva bubruvatuH bubruvuH bubraviTa bubruvaTuH bubruva (bubrava bubrAva) bubruviva bubruvima]
+brU,2,m,prf=:brU prf 2m:[bubruve bubruvAte bubruvire bubruvize bubruvATe bubruviDve bubruve bubruvivahe bubruvimahe]
+;-----------------------------------------------------------------
+; Periphrastic future
+;-----------------------------------------------------------------
+
+kzip,6,a,pft=:kzip pft 6a:[kzeptA kzeptArO kzeptAraH kzeptAsi kzeptAsTaH kzeptAsTa kzeptAsmi kzeptAsvaH kzeptAsmaH]
+kzip,6,m,pft=:kzip pft 6m:[kzeptA kzeptArO kzeptAraH kzeptAse kzeptAsATe kzeptADve kzeptAhe kzeptAsvahe kzeptAsmahe]
+BU,1,a,pft=:BU pft 1a:[BavitA BavitArO BavitAraH BavitAsi BavitAsTaH BavitAsTa BavitAsmi BavitAsvaH BavitAsmaH]
+BU,1,m,pft=:BU pft 1m:[BavitA BavitArO BavitAraH BavitAse BavitAsATe BavitADve BavitAhe BavitAsvahe BavitAsmahe]
+dA,3,a,pft=:dA pft 3a:[dAtA dAtArO dAtAraH dAtAsi dAtAsTaH dAtAsTa dAtAsmi dAtAsvaH dAtAsmaH]
+dA,3,m,pft=:dA pft 3m:[dAtA dAtArO dAtAraH dAtAse dAtAsATe dAtADve dAtAhe dAtAsvahe dAtAsmahe]
+nI,1,a,pft=:nI pft 1a:[netA netArO netAraH netAsi netAsTaH netAsTa netAsmi netAsvaH netAsmaH]
+nI,1,m,pft=:nI pft 1m:[netA netArO netAraH netAse netAsATe netADve netAhe netAsvahe netAsmahe]
+;-----------------------------------------------------------------
+; Conditional 'tense' (Deshpande calls it a 'mood)
+;-----------------------------------------------------------------
+gam,1,a,con=:gam con 1a:[agamizyat agamizyatAm agamizyan agamizyaH agamizyatam agamizyata agamizyam agamizyAva agamizyAma]
+BAz,1,m,con=:BAz con 1m:[aBAzizyata aBAzizyetAm aBAzizyanta aBAzizyaTAH aBAzizyeTAm aBAzizyaDvam aBAzizye aBAzizyAvahi aBAzizyAmahi]
+;-----------------------------------------------------------------
+; Benedictive 'tense' (Deshpande calls it a 'mood)
+;-----------------------------------------------------------------
+kf,8,a,ben=:kf ben 8a:[kriyAt kriyAstAm kriyAsuH kriyAH kriyAstam kriyAsta kriyAsam kriyAsva kriyAsma]
+kf,8,m,ben=:kf ben 8m:[kfzIzwa kfzIyAstAm kfzIran kfzIzWAH kfzIyAsTAm kfzIQvam kfzIya kfzIvahi kfzImahi]
+nI,1,a,ben=:nI ben 1a:[nIyAt nIyAstAm nIyAsuH nIyAH nIyAstam nIyAsta nIyAsam nIyAsva nIyAsma]
+smf,1,a,ben=:smf ben 1a:[smaryAt smaryAstAm smaryAsuH smaryAH smaryAstam smaryAsta smaryAsam smaryAsva smaryAsma]
+BU,1,a,ben=:BU ben 1a:[BUyAt BUyAstAm BUyAsuH BUyAH BUyAstam BUyAsta BUyAsam BUyAsva BUyAsma]
+ji,1,a,ben=:ji ben 1a:[jIyAt jIyAstAm jIyAsuH jIyAH jIyAstam jIyAsta jIyAsam jIyAsva jIyAsma]
+;-----------------------------------------------------------------
+; Periphrastic Perfect
+; Note for 'middle' voice, the 'active' voice is used for 'as' and 'BU'
+;   Is this right? (It agrees with Elisp)
+;-----------------------------------------------------------------
+gaR,10,a,ppf=:gaR ppf 10a:[(gaRayAmAsa gaRayAMcakAra gaRayAMbaBUva) (gaRayAmAsatuH gaRayAMcakratuH gaRayAMbaBUvatuH) (gaRayAmAsuH gaRayAMcakruH gaRayAMbaBUvuH) (gaRayAmAsiTa gaRayAMcakarTa gaRayAMbaBUviTa) (gaRayAmAsaTuH gaRayAMcakraTuH gaRayAMbaBUvaTuH) (gaRayAmAsa gaRayAMcakra gaRayAMbaBUva) (gaRayAmAsa gaRayAMcakara gaRayAMcakAra gaRayAMbaBUva) (gaRayAmAsiva gaRayAMcakfva gaRayAMbaBUviva) (gaRayAmAsima gaRayAMcakfma gaRayAMbaBUvima)]
+;
+Ikz,1,m,ppf=:Ikz ppf 1m:[(IkzAmAsa IkzAMcakre IkzAMbaBUva) (IkzAmAsatuH IkzAMcakrAte IkzAMbaBUvatuH) (IkzAmAsuH IkzAMcakrire IkzAMbaBUvuH) (IkzAmAsiTa IkzAMcakfze IkzAMbaBUviTa) (IkzAmAsaTuH IkzAMcakrATe IkzAMbaBUvaTuH) (IkzAmAsa IkzAMcakfQve IkzAMbaBUva) (IkzAmAsa IkzAMcakre IkzAMbaBUva) (IkzAmAsiva IkzAMcakfvahe IkzAMbaBUviva) (IkzAmAsima IkzAMcakfmahe IkzAMbaBUvima)]
+;
+kaT,10,a,ppf=:kaT ppf 10a:[(kaTayAmAsa kaTayAMcakAra kaTayAMbaBUva) (kaTayAmAsatuH kaTayAMcakratuH kaTayAMbaBUvatuH) (kaTayAmAsuH kaTayAMcakruH kaTayAMbaBUvuH) (kaTayAmAsiTa kaTayAMcakarTa kaTayAMbaBUviTa) (kaTayAmAsaTuH kaTayAMcakraTuH kaTayAMbaBUvaTuH) (kaTayAmAsa kaTayAMcakra kaTayAMbaBUva) (kaTayAmAsa kaTayAMcakara kaTayAMcakAra kaTayAMbaBUva) (kaTayAmAsiva kaTayAMcakfva kaTayAMbaBUviva) (kaTayAmAsima kaTayAMcakfma kaTayAMbaBUvima)]
+;
+kaT,10,m,ppf=:kaT ppf 10m:[(kaTayAmAsa kaTayAMcakre kaTayAMbaBUva) (kaTayAmAsatuH kaTayAMcakrAte kaTayAMbaBUvatuH) (kaTayAmAsuH kaTayAMcakrire kaTayAMbaBUvuH) (kaTayAmAsiTa kaTayAMcakfze kaTayAMbaBUviTa) (kaTayAmAsaTuH kaTayAMcakrATe kaTayAMbaBUvaTuH) (kaTayAmAsa kaTayAMcakfQve kaTayAMbaBUva) (kaTayAmAsa kaTayAMcakre kaTayAMbaBUva) (kaTayAmAsiva kaTayAMcakfvahe kaTayAMbaBUviva) (kaTayAmAsima kaTayAMcakfmahe kaTayAMbaBUvima)]
+;
+;=========================================================================
+; Aorist tests.  Examples primarily drawn from Deshpande.
+;=========================================================================
+; -----------------------------------------------
+; aorist 7:  Deshpande 'a' + root + 'sa' + ending
+; -----------------------------------------------
+; Example 7.1: diS,1,a,aor7
+; diS,1,a varieties = 5,7
+; Confirmed Deshpande.  
+; Also, one of the forms in Huet
+diS,1,a,aor7=:diS aor7 1a:[adikzat adikzatAm adikzan adikzaH adikzatam adikzata adikzam adikzAva adikzAma]
+;
+; Example 7.2: duh,2,m,aor7
+; duh,2,m varieties 4,5,7
+; This partially agrees with Deshpande.  The difference is that the
+; alternate 2nd forms are not shown by D.
+duh,2,m,aor7=:duh aor7 2m:[(aDukzata adugDa) aDukzAtAm aDukzanta (aDukzaTAH adugDAH) aDukzATAm (aDukzaDvam aDugDvam) aDukzi (aDukzAvahi aduhvahi) aDukzAmahi]
+;
+; -----------------------------------------------
+; aorist 4:  Deshpande 'a' + root + 's' + ending
+; -----------------------------------------------
+; Example 4.1: kf,8,a,aor4
+; kf,8,a varieties 4,5
+; kf,8,a,aor4 Deshpande  Confirmed
+kf,8,a,aor4=:kf aor4 8a:[akArzIt akArzwAm akArzuH akArzIH akArzwam akArzwa akArzam akArzva akArzma]
+; kf,8,a also shows variety 5. NOT CONFIRMED
+kf,8,a,aor5=:kf aor5 8a:[akArIt akArizwAm akArizuH akArIH akArizwam akArizwa akArizam akArizva akArizma]
+;
+; Example 4.2: Sap,1,m,aor4
+; Sap,1,m varieties 4,5
+; Sap,1,m,aor4 Deshpande  Confirmed with 1 exception:
+;  aSapDvam should be aSabDvam.
+Sap,1,m,aor4=:Sap aor4 1m:[aSapta aSapsAtAm aSapsata aSapTAH aSapsATAm aSapDvam aSapsi aSapsvahi aSapsmahi]
+; Sap,1,m also shows form 5. NOT CONFIRMED
+Sap,1,m,aor5=:Sap aor5 1m:[aSapizwa aSapizAtAm aSapizata aSapizWAH aSapizATAm aSapiDvam aSapizi aSapizvahi aSapizmahi]
+; -----------------------------------------------
+; aorist 5:  Deshpande 'a' + root + 'iz' + ending
+; -----------------------------------------------
+; Example 5.1: buD,1,a,aor5
+; buD,1,a varieties = 2,4,5
+; buD,1,a,aor5 Deshpande  Confirmed
+buD,1,a,aor5=:buD aor5 1a:[aboDIt aboDizwAm aboDizuH aboDIH aboDizwam aboDizwa aboDizam aboDizva aboDizma]
+;
+; Example 5.2: SI,2,m,aor5
+; SI,2,m varieties = 4,5
+; SI,2,m,aor5 Deshpande confirmed.
+SI,2,m,aor5=:SI aor5 2m:[aSayizwa aSayizAtAm aSayizata aSayizWAH aSayizATAm aSayiDvam aSayizi aSayizvahi aSayizmahi]
+; -----------------------------------------------
+; aorist 6:  Deshpande 'a' + root + 'siz' + ending
+; -----------------------------------------------
+; Example 6.1: yA,2,a,aor6
+; yA,2,a,aor6 varieties = 6
+; yA,2,a,aor6 Deshpande confirmed.
+yA,2,a,aor6=:yA aor6 2a:[ayAsIt ayAsizwAm ayAsizuH ayAsIH ayAsizwam ayAsizwa ayAsizam ayAsizva ayAsizma]
+; -----------------------------------------------
+; aorist 1  Deshpande 'a' + root + ending  (also called 'root aorist')
+; -----------------------------------------------
+; Example 1.1 dA,3,a,aor1
+; dA,3,a aorist-varieties = 1
+; dA,3,a,aor1 Deshpande confirmed
+dA,3,a,aor1=:dA aor1 3a:[adAt adAtAm aduH adAH adAtam adAta adAm adAva adAma]
+; Example 1.2 BU,1,a aor1
+; BU,1,a aorist-varieties = 1,5
+; BU,1,a,aor1 Deshpande confirmed.
+BU,1,a,aor1=:BU aor1 1a:[aBUt aBUtAm aBUvan aBUH aBUtam aBUta aBUvam aBUva aBUma]
+; -----------------------------------------------
+; aorist 2  Deshpande 'a' + root + 'a' + ending
+; -----------------------------------------------
+; Example 2.1 gam,1,a
+; gam,1,a aorist-varieties = 2,5
+; gam,1,a,aor2 Deshpande confirmed
+gam,1,a,aor2=:gam aor2 1a:[agamat agamatAm agaman agamaH agamatam agamata agamam agamAva agamAma]
+;
+; Example 2.2 vac,2,m
+; vac,2,m aorist-varieties = 2,5
+; vac,2,m,aor2 Deshpande confirmed
+vac,2,m,aor2=:vac aor2 2m:[avocata avocetAm avocanta avocaTAH avoceTAm avocaDvam avoce avocAvahi avocAmahi]
+; -----------------------------------------------
+; aorist 3  Deshpande 'a' + reduplicated-root + 'a' + final termination 
+; mostly for conjugation 10, causatives and other derivative verbs.
+; In our software, causative is indicated by an 11 for the class
+; -----------------------------------------------
+; 
+; Example 3.1 muc,11,a
+; muc,11,a aorist-varieties 2,3
+; muc,11,a,aor3  Deshpande confirmed
+muc,11,a,aor3=:muc aor3 11a:[amUmucat amUmucatAm amUmucan amUmucaH amUmucatam amUmucata amUmucam amUmucAva amUmucAma]
+;
+; Example 3.1 muc,11,m
+; muc,11,m aorist-varieties 3
+; muc,11,m,aor3  Deshpande confirmed
+muc,11,m,aor3=:muc aor3 11m:[amUmucata amUmucetAm amUmucanta amUmucaTAH amUmuceTAm amUmucaDvam amUmuce amUmucAvahi amUmucAmahi]
+; -----------------------------------------------
+; aorist passive.
+; (Deshpande) identical with aorist middle forms, EXCEPT for 3s, 
+; which is formed with affix '-i'
+; diS,1,p,aor7  compare to diS,1,m
+; adeSi confirmed Deshpande
+diS,1,p,aor7=:diS aor7 1p:[adeSi adikzAtAm adikzanta adikzaTAH adikzATAm adikzaDvam adikzi adikzAvahi adikzAmahi]
+; Sru 5 has aorist-varieties = 4,5
+; aSrAvi is confirmed in Deshpande.  But note there are other differences
+; between the middle and passive - currently, no source for comparison.
+Sru,5,a,aor4=:Sru aor4 5a:[aSrOzIt aSrOzwAm aSrOzuH aSrOzIH aSrOzwam aSrOzwa aSrOzam aSrOzva aSrOzma]
+Sru,5,m,aor4=:Sru aor4 5m:[aSrozwa aSrozAtAm aSrozata aSrozWAH aSrozATAm aSroQvam aSrozi aSrozvahi aSrozmahi]
+Sru,5,p,aor4=:Sru aor4 5p:[aSrAvi (aSrozAtAm aSrAvizAtAm) (aSrozata aSrAvizata) (aSrozWAH aSrAvizWAH) (aSrozATAm aSrAvizATAm) (aSroQvam aSrAviDvam) (aSrozi aSrAvizi) (aSrozvahi aSrAvizvahi) (aSrozmahi aSrAvizmahi)]
+;
+; kf,8 has varieties 4,5.  
+; The 3s form akAri of passive is confirmed by Deshpande. Note that
+; there are alternate forms for the passive acc. to this computation.
+kf,8,a,aor4=:kf aor4 8a:[akArzIt akArzwAm akArzuH akArzIH akArzwam akArzwa akArzam akArzva akArzma]
+kf,8,m,aor4=:kf aor4 8m:[akfta akfzAtAm akfzata akfTAH akfzATAm akfQvam akfzi akfzvahi akfzmahi]
+kf,8,p,aor4=:kf aor4 8p:[akAri (akfzAtAm akArizAtAm) (akfzata akArizata) (akfzWAH akArizWAH) (akfzATAm akArizATAm) (akfQvam akAriDvam) (akfzi akArizi) (akfzvahi akArizvahi) (akfzmahi akArizmahi)]
+;
+; jYA 9 has aorist variety 5
+; 3s passive 'ajYAyi' confirmed by Deshpande.
+; Note passive shows optional forms compared to middle
+jYA,9,a,aor5=:jYA aor5 9a:[ajYet ajYezwAm ajYezuH ajYeH ajYezwam ajYezwa ajYezam ajYezva ajYezma]
+jYA,9,m,aor5=:jYA aor5 9m:[ajYezwa ajYezAtAm ajYezata ajYezWAH ajYezATAm ajYeDvam ajYezi ajYezvahi ajYezmahi]
+jYA,9,p,aor5=:jYA aor5 9p:[ajYAyi (ajYezAtAm ajYAyizAtAm) (ajYezata ajYAyizata) (ajYezWAH ajYAyizWAH) (ajYezATAm ajYAyizATAm) (ajYeDvam ajYAyiDvam) (ajYezi ajYAyizi) (ajYezvahi ajYAyizvahi) (ajYezmahi ajYAyizmahi)]
+
+;-------------------------------------------
+; examples not confirmed.
+; (aorist-varieties 'dish 1 'P nil) => (5 7)
+; the other form (5th) is quite different from Huet's other form, 
+; and is not in Deshpande
+; http://sanskrit.inria.fr/cgi-bin/SKT/sktconjug?lex=SH&q=diS&t=SL&c=1&font=roma
+diS,1,a,aor5=:diS aor5 1a:[adeSIt adeSizwAm adeSizuH adeSIH adeSizwam adeSizwa adeSizam adeSizva adeSizma]
+; HUET: adIdiSat adIdiSatAm,  etc.
+
+; 
+duh,2,m,aor5=:duh aor5 2m:[adohizwa adohizAtAm adohizata adohizWAH adohizATAm adohiDvam adohizi adohizvahi adohizmahi]
+;==========================================================================
+; Causal
+;==========================================================================
+;------------------------------------------------------------------
+; causal for all conjugations of gam.  Compare 3s to Deshpande, p. 341
+;------------------------------------------------------------------
+; causal, active voice for gam 1 and all the conjugations.
+; Note that aor3 is the appropriate aorist variet for causals,
+; and the ppf is the appropriate perfect
+gam,1,a,pre,c=:gam pre 1a c:[gamayati gamayataH gamayanti gamayasi gamayaTaH gamayaTa gamayAmi gamayAvaH gamayAmaH]
+gam,1,a,ipf,c=:gam ipf 1a c:[agamayat agamayatAm agamayan agamayaH agamayatam agamayata agamayam agamayAva agamayAma]
+gam,1,a,ppf,c=:gam ppf 1a c:[(gamayAmAsa gamayAMcakAra gamayAMbaBUva) (gamayAmAsatuH gamayAMcakratuH gamayAMbaBUvatuH) (gamayAmAsuH gamayAMcakruH gamayAMbaBUvuH) (gamayAmAsiTa gamayAMcakarTa gamayAMbaBUviTa) (gamayAmAsaTuH gamayAMcakraTuH gamayAMbaBUvaTuH) (gamayAmAsa gamayAMcakra gamayAMbaBUva) (gamayAmAsa gamayAMcakara gamayAMcakAra gamayAMbaBUva) (gamayAmAsiva gamayAMcakfva gamayAMbaBUviva) (gamayAmAsima gamayAMcakfma gamayAMbaBUvima)]
+gam,1,a,aor3,c=:gam aor3 1a c:[ajIgamat ajIgamatAm ajIgaman ajIgamaH ajIgamatam ajIgamata ajIgamam ajIgamAva ajIgamAma]
+gam,1,a,fut,c=:gam fut 1a c:[gamayizyati gamayizyataH gamayizyanti gamayizyasi gamayizyaTaH gamayizyaTa gamayizyAmi gamayizyAvaH gamayizyAmaH]
+gam,1,a,pft,c=:gam pft 1a c:[gamayitA gamayitArO gamayitAraH gamayitAsi gamayitAsTaH gamayitAsTa gamayitAsmi gamayitAsvaH gamayitAsmaH]
+gam,1,a,ipv,c=:gam ipv 1a c:[gamayatu gamayatAm gamayantu gamaya gamayatam gamayata gamayAni gamayAva gamayAma]
+gam,1,a,opt,c=:gam opt 1a c:[gamayet gamayetAm gamayeyuH gamayeH gamayetam gamayeta gamayeyam gamayeva gamayema]
+gam,1,a,con,c=:gam con 1a c:[agamayizyat agamayizyatAm agamayizyan agamayizyaH agamayizyatam agamayizyata agamayizyam agamayizyAva agamayizyAma]
+gam,1,a,ben,c=:gam ben 1a c:[gamyAt gamyAstAm gamyAsuH gamyAH gamyAstam gamyAsta gamyAsam gamyAsva gamyAsma]
+;
+; causal middle voice for all the conjugations
+gam,1,m,pre,c=:gam pre 1m c:[gamayate gamayete gamayante gamayase gamayeTe gamayaDve gamaye gamayAvahe gamayAmahe]
+gam,1,m,ipf,c=:gam ipf 1m c:[agamayata agamayetAm agamayanta agamayaTAH agamayeTAm agamayaDvam agamaye agamayAvahi agamayAmahi]
+gam,1,m,ppf,c=:gam ppf 1m c:[(gamayAmAsa gamayAMcakre gamayAMbaBUva) (gamayAmAsatuH gamayAMcakrAte gamayAMbaBUvatuH) (gamayAmAsuH gamayAMcakrire gamayAMbaBUvuH) (gamayAmAsiTa gamayAMcakfze gamayAMbaBUviTa) (gamayAmAsaTuH gamayAMcakrATe gamayAMbaBUvaTuH) (gamayAmAsa gamayAMcakfQve gamayAMbaBUva) (gamayAmAsa gamayAMcakre gamayAMbaBUva) (gamayAmAsiva gamayAMcakfvahe gamayAMbaBUviva) (gamayAmAsima gamayAMcakfmahe gamayAMbaBUvima)]
+gam,1,m,aor3,c=:gam aor3 1m c:[ajIgamata ajIgametAm ajIgamanta ajIgamaTAH ajIgameTAm ajIgamaDvam ajIgame ajIgamAvahi ajIgamAmahi]
+gam,1,m,fut,c=:gam fut 1m c:[gamayizyate gamayizyete gamayizyante gamayizyase gamayizyeTe gamayizyaDve gamayizye gamayizyAvahe gamayizyAmahe]
+gam,1,m,pft,c=:gam pft 1m c:[gamayitA gamayitArO gamayitAraH gamayitAse gamayitAsATe gamayitADve gamayitAhe gamayitAsvahe gamayitAsmahe]
+gam,1,m,ipv,c=:gam ipv 1m c:[gamayatAm gamayetAm gamayantAm gamayasva gamayeTAm gamayaDvam gamayE gamayAvahE gamayAmahE]
+gam,1,m,opt,c=:gam opt 1m c:[gamayeta gamayeyAtAm gamayeran gamayeTAH gamayeyATAm gamayeDvam gamayeya gamayevahi gamayemahi]
+gam,1,m,con,c=:gam con 1m c:[agamayizyata agamayizyetAm agamayizyanta agamayizyaTAH agamayizyeTAm agamayizyaDvam agamayizye agamayizyAvahi agamayizyAmahi]
+gam,1,m,ben,c=:gam ben 1m c:[gamayizIzwa gamayizIyAstAm gamayizIran gamayizIzWAH gamayizIyAsTAm gamayizIDvam gamayizIya gamayizIvahi gamayizImahi]
+;
+; causal passive voice for all the conjugations
+gam,1,p,pre,c=:gam pre 1p c:[gamyate gamyete gamyante gamyase gamyeTe gamyaDve gamye gamyAvahe gamyAmahe]
+gam,1,p,ipf,c=:gam ipf 1p c:[agamyata agamyetAm agamyanta agamyaTAH agamyeTAm agamyaDvam agamye agamyAvahi agamyAmahi]
+gam,1,p,ppf,c=:gam ppf 1p c:[(gamayAmAse gamayAMcakre gamayAMbaBUve) (gamayAmAsAte gamayAMcakrAte gamayAMbaBUvAte) (gamayAmAsire gamayAMcakrire gamayAMbaBUvire) (gamayAmAsize gamayAMcakfze gamayAMbaBUvize) (gamayAmAsATe gamayAMcakrATe gamayAMbaBUvATe) (gamayAmAsiDve gamayAMcakfQve gamayAMbaBUviDve) (gamayAmAse gamayAMcakre gamayAMbaBUve) (gamayAmAsivahe gamayAMcakfvahe gamayAMbaBUvivahe) (gamayAmAsimahe gamayAMcakfmahe gamayAMbaBUvimahe)]
+;warning: dropping extra lu~N3: gam P -> (agaami agami)
+gam,1,p,aor3,c=:gam aor3 1p c:[(agAmi agami) (agamizAtAm agamayizAtAm) (agamizata agamayizata) (agamizWAH agamayizWAH) (agamizATAm agamayizATAm) (agamiDvam agamayiDvam) (agamizi agamayizi) (agamizvahi agamayizvahi) (agamizmahi agamayizmahi)]
+gam,1,p,fut,c=:gam fut 1p c:[(gamayizyate gaMsyate gamizyate) (gamayizyete gaMsyete gamizyete) (gamayizyante gaMsyante gamizyante) (gamayizyase gaMsyase gamizyase) (gamayizyeTe gaMsyeTe gamizyeTe) (gamayizyaDve gaMsyaDve gamizyaDve) (gamayizye gaMsye gamizye) (gamayizyAvahe gaMsyAvahe gamizyAvahe) (gamayizyAmahe gaMsyAmahe gamizyAmahe)]
+gam,1,p,pft,c=:gam pft 1p c:[(gamayitA gantA gamitA) (gamayitArO gantArO gamitArO) (gamayitAraH gantAraH gamitAraH) (gamayitAse gantAse gamitAse) (gamayitAsATe gantAsATe gamitAsATe) (gamayitADve gantADve gamitADve) (gamayitAhe gantAhe gamitAhe) (gamayitAsvahe gantAsvahe gamitAsvahe) (gamayitAsmahe gantAsmahe gamitAsmahe)]
+gam,1,p,ipv,c=:gam ipv 1p c:[gamyatAm gamyetAm gamyantAm gamyasva gamyeTAm gamyaDvam gamyE gamyAvahE gamyAmahE]
+gam,1,p,opt,c=:gam opt 1p c:[gamyeta gamyeyAtAm gamyeran gamyeTAH gamyeyATAm gamyeDvam gamyeya gamyevahi gamyemahi]
+gam,1,p,con,c=:gam con 1p c:[(agamayizyata agaMsyata agamizyata) (agamayizyetAm agaMsyetAm agamizyetAm) (agamayizyanta agaMsyanta agamizyanta) (agamayizyaTAH agaMsyaTAH agamizyaTAH) (agamayizyeTAm agaMsyeTAm agamizyeTAm) (agamayizyaDvam agaMsyaDvam agamizyaDvam) (agamayizye agaMsye agamizye) (agamayizyAvahi agaMsyAvahi agamizyAvahi) (agamayizyAmahi agaMsyAmahi agamizyAmahi)]
+gam,1,p,ben,c=:gam ben 1p c:[(gamayizIzwa gaMsIzwa) (gamayizIyAstAm gaMsIyAstAm) (gamayizIran gaMsIran) (gamayizIzWAH gaMsIzWAH) (gamayizIyAsTAm gaMsIyAsTAm) (gamayizIDvam gaMsIDvam) (gamayizIya gaMsIya) (gamayizIvahi gaMsIvahi) (gamayizImahi gaMsImahi)]

@@ -48,5 +48,13 @@ For someone interested in examining the code base itself, the
 files in the static-code-analysis directory would be useful; a brief
 explanation appears in the readme file therein.
 
+## pysanskrit
+
+The pysanskrit directory contains a rewriting of the elispsanskrit functions
+in the Python programming language.  There is a comprehensive set of 
+tests to confirm the code equivalence.  See the readme.md file of 
+pysanskrit directory for details.
+
+
 
 
