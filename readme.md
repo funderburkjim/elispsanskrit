@@ -56,5 +56,8 @@ tests to confirm the code equivalence.  See the readme.md file of
 pysanskrit directory for details.
 
 
+## huetcompare
 
+Compare the inflected forms of elispsanskrit/grammar/prod/outputs to 
+reference material from Gerard Huet.
 

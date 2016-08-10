@@ -11,3 +11,4 @@ temp*.txt
 pysanskrit/prodchk/outputs/*.txt
 pysanskrit/old/*
 pysanskrit/test2_aorvar.py
+huetcompare/huet/*

@@ -1,0 +1,51 @@
+--------------------------------------------------
+14 cases of IDENTICAL GENDERS
+--------------------------------------------------
+Case 01: adas:f,m,n identical in BOTH
+Case 02: anya:f,m,n identical in BOTH
+Case 03: itara:f,m,n identical in BOTH
+Case 04: ayam:f,m,n identical in BOTH
+Case 05: eka:f,m,n identical in BOTH
+Case 06: etad:f,m,n identical in BOTH
+Case 07: katama:f,m,n identical in BOTH
+Case 08: katara:f,m,n identical in BOTH
+Case 09: kim:f,m,n identical in BOTH
+Case 10: tad:f,m,n identical in BOTH
+Case 11: dakziRa:f,m,n identical in BOTH
+Case 12: yad:f,m,n identical in BOTH
+Case 13: viSva:f,m,n identical in BOTH
+Case 14: sarva:f,m,n identical in BOTH
+--------------------------------------------------
+10 cases of DIFFERENT GENDERS
+--------------------------------------------------
+Case 01: aDara has f(huet) != f,m,n(pysan)
+Case 02: antara has f(huet) != f,m,n(pysan)
+Case 03: apara has f(huet) != f,m,n(pysan)
+Case 04: avara has f(huet) != f,m,n(pysan)
+Case 05: asmad has d(huet) != f,m,n(pysan)
+Case 06: uttara has f(huet) != f,m,n(pysan)
+Case 07: para has f(huet) != f,m,n(pysan)
+Case 08: pUrva has f(huet) != f,m,n(pysan)
+Case 09: yuzmad has d(huet) != f,m,n(pysan)
+Case 10: sva has f(huet) != f,m,n(pysan)
+--------------------------------------------------
+11 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: anyatara:f,m,n in pysan
+Case 02: uBa:f,m,n in pysan
+Case 03: uBaya:f,m,n in pysan
+Case 04: tatama:f,m,n in pysan
+Case 05: tatara:f,m,n in pysan
+Case 06: nema:f,m,n in pysan
+Case 07: Bavat:f,m,n in pysan
+Case 08: yatama:f,m,n in pysan
+Case 09: yatara:f,m,n in pysan
+Case 10: sama:f,m,n in pysan
+Case 11: sima:f,m,n in pysan
+--------------------------------------------------
+04 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: aneka:f in huet
+Case 02: ekatara:f,m,n in huet
+Case 03: ena:f,m,n in huet
+Case 04: paScima:f in huet

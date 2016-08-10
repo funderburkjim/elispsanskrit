@@ -1,0 +1,259 @@
+--------------------------------------------------
+28 cases of IDENTICAL GENDERS
+--------------------------------------------------
+Case 01: adas f identical declensions
+Case 02: adas m identical declensions
+Case 03: adas n identical declensions
+Case 04: anya f declension differences
+     8s (huet) _ != anye (pysan)
+     8d (huet) _ != anye (pysan)
+     8p (huet) _ != anyAH (pysan)
+Case 05: anya m declension differences
+     8s (huet) _ != anya (pysan)
+     8d (huet) _ != anyO (pysan)
+     8p (huet) _ != anye (pysan)
+Case 06: anya n declension differences
+     8s (huet) _ != anyat (pysan)
+     8d (huet) _ != anye (pysan)
+     8p (huet) _ != anyAni (pysan)
+Case 07: itara f declension differences
+     8s (huet) _ != itare (pysan)
+     8d (huet) _ != itare (pysan)
+     8p (huet) _ != itarAH (pysan)
+Case 08: itara m declension differences
+     8s (huet) _ != itara (pysan)
+     8d (huet) _ != itarO (pysan)
+     8p (huet) _ != itare (pysan)
+Case 09: itara n declension differences
+     8s (huet) _ != itarat (pysan)
+     8d (huet) _ != itare (pysan)
+     8p (huet) _ != itarARi (pysan)
+Case 10: idam f declension differences
+     2s (huet) imAm != imAm,enAm (pysan)
+     2d (huet) ime != ime,ene (pysan)
+     2p (huet) imAH != imAH,enAH (pysan)
+     3s (huet) anayA != anayA,enayA (pysan)
+     6d (huet) anayoH != anayoH,enayoH (pysan)
+     7d (huet) anayoH != anayoH,enayoH (pysan)
+Case 11: idam m declension differences
+     2s (huet) imam != imam,enam (pysan)
+     2d (huet) imO != imO,enO (pysan)
+     2p (huet) imAn != imAn,enAn (pysan)
+     3s (huet) anena != anena,enena (pysan)
+     6d (huet) anayoH != anayoH,enayoH (pysan)
+     7d (huet) anayoH != anayoH,enayoH (pysan)
+Case 12: idam n declension differences
+     2s (huet) idam != idam,enat (pysan)
+     2d (huet) ime != ime,ene (pysan)
+     2p (huet) imAni != imAni,enAni (pysan)
+     3s (huet) anena != anena,enena (pysan)
+     6d (huet) anayoH != anayoH,enayoH (pysan)
+     7d (huet) anayoH != anayoH,enayoH (pysan)
+Case 13: eka f declension differences
+     8s (huet) _ != eke (pysan)
+     8d (huet) _ != eke (pysan)
+     8p (huet) _ != ekAH (pysan)
+Case 14: eka m declension differences
+     8s (huet) _ != eka (pysan)
+     8d (huet) _ != ekO (pysan)
+     8p (huet) _ != eke (pysan)
+Case 15: eka n declension differences
+     8s (huet) _ != eka (pysan)
+     8d (huet) _ != eke (pysan)
+     8p (huet) _ != ekAni (pysan)
+Case 16: etad f declension differences
+     2s (huet) etAm != etAm,enAm (pysan)
+     2d (huet) ete != ete,ene (pysan)
+     2p (huet) etAH != etAH,enAH (pysan)
+     3s (huet) etayA != etayA,enayA (pysan)
+     5s (huet) etataH,etasyAH != etasyAH (pysan)
+     5d (huet) etataH,etAByAm != etAByAm (pysan)
+     5p (huet) etataH,etAByaH != etAByaH (pysan)
+     6d (huet) etayoH != etayoH,enayoH (pysan)
+     7d (huet) etayoH != etayoH,enayoH (pysan)
+     8s (huet) _ != ete (pysan)
+     8d (huet) _ != ete (pysan)
+     8p (huet) _ != etAH (pysan)
+Case 17: etad m declension differences
+     1s (huet) eza,ezaH != ezaH (pysan)
+     2s (huet) etam != etam,enam (pysan)
+     2d (huet) etO != etO,enO (pysan)
+     2p (huet) etAn != etAn,enAn (pysan)
+     3s (huet) etena != etena,enena (pysan)
+     5s (huet) etataH,etasmAt != etasmAt (pysan)
+     5d (huet) etataH,etAByAm != etAByAm (pysan)
+     5p (huet) etataH,eteByaH != eteByaH (pysan)
+     6d (huet) etayoH != etayoH,enayoH (pysan)
+     7d (huet) etayoH != etayoH,enayoH (pysan)
+     8s (huet) _ != eta (pysan)
+     8d (huet) _ != etO (pysan)
+     8p (huet) _ != ete (pysan)
+Case 18: etad n declension differences
+     2s (huet) etat != etat,enat (pysan)
+     2d (huet) ete != ete,ene (pysan)
+     2p (huet) etAni != etAni,enAni (pysan)
+     3s (huet) etena != etena,enena (pysan)
+     5s (huet) etataH,etasmAt != etasmAt (pysan)
+     5d (huet) etataH,etAByAm != etAByAm (pysan)
+     5p (huet) etataH,eteByaH != eteByaH (pysan)
+     6d (huet) etayoH != etayoH,enayoH (pysan)
+     7d (huet) etayoH != etayoH,enayoH (pysan)
+     8s (huet) _ != etat (pysan)
+     8d (huet) _ != ete (pysan)
+     8p (huet) _ != etAni (pysan)
+Case 19: katama f declension differences
+     8s (huet) _ != katame (pysan)
+     8d (huet) _ != katame (pysan)
+     8p (huet) _ != katamAH (pysan)
+Case 20: katama m declension differences
+     8s (huet) _ != katama (pysan)
+     8d (huet) _ != katamO (pysan)
+     8p (huet) _ != katame (pysan)
+Case 21: katama n declension differences
+     8s (huet) _ != katamat (pysan)
+     8d (huet) _ != katame (pysan)
+     8p (huet) _ != katamAni (pysan)
+Case 22: katara f declension differences
+     8s (huet) _ != katare (pysan)
+     8d (huet) _ != katare (pysan)
+     8p (huet) _ != katarAH (pysan)
+Case 23: katara m declension differences
+     8s (huet) _ != katara (pysan)
+     8d (huet) _ != katarO (pysan)
+     8p (huet) _ != katare (pysan)
+Case 24: katara n declension differences
+     8s (huet) _ != katarat (pysan)
+     8d (huet) _ != katare (pysan)
+     8p (huet) _ != katarARi (pysan)
+Case 25: kim f declension differences
+     8s (huet) _ != ke (pysan)
+     8d (huet) _ != ke (pysan)
+     8p (huet) _ != kAH (pysan)
+Case 26: kim m declension differences
+     8s (huet) _ != ka (pysan)
+     8d (huet) _ != kO (pysan)
+     8p (huet) _ != ke (pysan)
+Case 27: kim n declension differences
+     8s (huet) _ != kat (pysan)
+     8d (huet) _ != ke (pysan)
+     8p (huet) _ != kAni (pysan)
+Case 28: tad f declension differences
+     5s (huet) tataH,tasyAH != tasyAH (pysan)
+     5d (huet) tataH,tAByAm != tAByAm (pysan)
+     5p (huet) tataH,tAByaH != tAByaH (pysan)
+     8s (huet) _ != te (pysan)
+     8d (huet) _ != te (pysan)
+     8p (huet) _ != tAH (pysan)
+Case 29: tad m declension differences
+     1s (huet) sa,saH != saH (pysan)
+     5s (huet) tataH,tasmAt != tasmAt (pysan)
+     5d (huet) tataH,tAByAm != tAByAm (pysan)
+     5p (huet) tataH,teByaH != teByaH (pysan)
+     8s (huet) _ != ta (pysan)
+     8d (huet) _ != tO (pysan)
+     8p (huet) _ != te (pysan)
+Case 30: tad n declension differences
+     5s (huet) tataH,tasmAt != tasmAt (pysan)
+     5d (huet) tataH,tAByAm != tAByAm (pysan)
+     5p (huet) tataH,teByaH != teByaH (pysan)
+     8s (huet) _ != tat (pysan)
+     8d (huet) _ != te (pysan)
+     8p (huet) _ != tAni (pysan)
+Case 31: dakziRa f declension differences
+     8s (huet) _ != dakziRe (pysan)
+     8d (huet) _ != dakziRe (pysan)
+     8p (huet) _ != dakziRAH (pysan)
+Case 32: dakziRa m declension differences
+     1p (huet) dakziRe != dakziRe,dakziRAH (pysan)
+     5s (huet) dakziRasmAt != dakziRasmAt,dakziRAt (pysan)
+     7s (huet) dakziRasmin != dakziRasmin,dakziRe (pysan)
+     8s (huet) _ != dakziRa (pysan)
+     8d (huet) _ != dakziRO (pysan)
+     8p (huet) _ != dakziRe,dakziRAH (pysan)
+Case 33: dakziRa n declension differences
+     5s (huet) dakziRasmAt != dakziRasmAt,dakziRAt (pysan)
+     7s (huet) dakziRasmin != dakziRasmin,dakziRe (pysan)
+     8s (huet) _ != dakziRa (pysan)
+     8d (huet) _ != dakziRe (pysan)
+     8p (huet) _ != dakziRAni (pysan)
+Case 34: yad f declension differences
+     8s (huet) _ != ye (pysan)
+     8d (huet) _ != ye (pysan)
+     8p (huet) _ != yAH (pysan)
+Case 35: yad m declension differences
+     8s (huet) _ != ya (pysan)
+     8d (huet) _ != yO (pysan)
+     8p (huet) _ != ye (pysan)
+Case 36: yad n declension differences
+     8s (huet) _ != yat (pysan)
+     8d (huet) _ != ye (pysan)
+     8p (huet) _ != yAni (pysan)
+Case 37: viSva f declension differences
+     8s (huet) _ != viSve (pysan)
+     8d (huet) _ != viSve (pysan)
+     8p (huet) _ != viSvAH (pysan)
+Case 38: viSva m declension differences
+     8s (huet) _ != viSva (pysan)
+     8d (huet) _ != viSvO (pysan)
+     8p (huet) _ != viSve (pysan)
+Case 39: viSva n declension differences
+     8s (huet) _ != viSva (pysan)
+     8d (huet) _ != viSve (pysan)
+     8p (huet) _ != viSvAni (pysan)
+Case 40: sarva f declension differences
+     8s (huet) _ != sarve (pysan)
+     8d (huet) _ != sarve (pysan)
+     8p (huet) _ != sarvAH (pysan)
+Case 41: sarva m declension differences
+     8s (huet) _ != sarva (pysan)
+     8d (huet) _ != sarvO (pysan)
+     8p (huet) _ != sarve (pysan)
+Case 42: sarva n declension differences
+     8s (huet) _ != sarva (pysan)
+     8d (huet) _ != sarve (pysan)
+     8p (huet) _ != sarvARi (pysan)
+--------------------------------------------------
+20 cases of DIFFERENT GENDERS
+--------------------------------------------------
+Case 01: aDara f declension differences
+     8s (huet) _ != aDare (pysan)
+     8d (huet) _ != aDare (pysan)
+     8p (huet) _ != aDarAH (pysan)
+Case 02: antara f declension differences
+     8s (huet) _ != antare (pysan)
+     8d (huet) _ != antare (pysan)
+     8p (huet) _ != antarAH (pysan)
+Case 03: apara f declension differences
+     8s (huet) _ != apare (pysan)
+     8d (huet) _ != apare (pysan)
+     8p (huet) _ != aparAH (pysan)
+Case 04: avara f declension differences
+     8s (huet) _ != avare (pysan)
+     8d (huet) _ != avare (pysan)
+     8p (huet) _ != avarAH (pysan)
+Case 05: asmad m declension differences
+     1d (huet) AvAm != AvAm,Avam (pysan)
+     2s (huet) mA,mAm != mAm,mA (pysan)
+     5s (huet) mat,mattaH != mat (pysan)
+     5p (huet) asmat,asmattaH != asmat (pysan)
+Case 06: uttara f declension differences
+     8s (huet) _ != uttare (pysan)
+     8d (huet) _ != uttare (pysan)
+     8p (huet) _ != uttarAH (pysan)
+Case 07: para f declension differences
+     8s (huet) _ != pare (pysan)
+     8d (huet) _ != pare (pysan)
+     8p (huet) _ != parAH (pysan)
+Case 08: pUrva f declension differences
+     8s (huet) _ != pUrve (pysan)
+     8d (huet) _ != pUrve (pysan)
+     8p (huet) _ != pUrvAH (pysan)
+Case 09: yuzmad m declension differences
+     1d (huet) yuvAm != yuvAm,yuvam (pysan)
+     2s (huet) tvA,tvAm != tvAm,tvA (pysan)
+     5s (huet) tvat,tvattaH != tvat (pysan)
+     5p (huet) yuzmat,yuzmattaH != yuzmat (pysan)
+Case 10: sva f declension differences
+     8s (huet) _ != sve (pysan)
+     8d (huet) _ != sve (pysan)
+     8p (huet) _ != svAH (pysan)
