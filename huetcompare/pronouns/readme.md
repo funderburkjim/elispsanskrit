@@ -5,7 +5,7 @@ elispsanskrit/pysanskrit.
 ## step1: interpret Huet's pronoun declensions
 
 ```
-python pronouns.py ../SL/SL_pronouns.xml huet_pron_stems_genders.txt huet_pron_tables.txt
+python pronouns.py ../huet/SL_pronouns.xml huet_pron_stems_genders.txt huet_pron_tables.txt
 ```
 
 From Huet's SL_pronouns.xml file, we derive the set of all stems for which

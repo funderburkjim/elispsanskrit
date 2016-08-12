@@ -18,4 +18,5 @@ The key to the xml file structures of Huet's data is SL_morph.dtd.
 The comparisons are made in various subdirectories.
 See the readme file in these directories.
 
-* pronouns  (the only comparison thus far)
+* pronouns  
+* nouns

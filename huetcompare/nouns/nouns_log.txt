@@ -1,0 +1,266 @@
+9822 stems found in ../huet/SL_nouns.xml
+NORMDUPLICATE 001=aja#2:f,m,n
+                 aja f:[ajA aje ajAH ajAm aje ajAH ajayA ajAByAm ajABiH ajAyE ajAByAm ajAByaH ajAyAH ajAByAm ajAByaH ajAyAH ajayoH ajAnAm ajAyAm ajayoH ajAsu nil nil nil]
+                 aja m:[ajaH ajO ajAH ajam ajO ajAn ajena ajAByAm ajEH ajAya ajAByAm ajeByaH ajAt ajAByAm ajeByaH ajasya ajayoH ajAnAm aje ajayoH ajezu nil nil nil]
+                 aja n:[ajam aje ajAni ajam aje ajAni ajena ajAByAm ajEH ajAya ajAByAm ajeByaH ajAt ajAByAm ajeByaH ajasya ajayoH ajAnAm aje ajayoH ajezu nil nil nil]
+NORMDUPLICATE 002=aDivAsa#2:m,n
+                 aDivAsa m:[aDivAsaH aDivAsO aDivAsAH aDivAsam aDivAsO aDivAsAn aDivAsena aDivAsAByAm aDivAsEH aDivAsAya aDivAsAByAm aDivAseByaH aDivAsAt aDivAsAByAm aDivAseByaH aDivAsasya aDivAsayoH aDivAsAnAm aDivAse aDivAsayoH aDivAsezu nil nil nil]
+                 aDivAsa n:[aDivAsaH aDivAsasI aDivAsAMsi aDivAsaH aDivAsasI aDivAsAMsi aDivAsasA aDivAsoByAm aDivAsoBiH aDivAsase aDivAsoByAm aDivAsoByaH aDivAsasaH aDivAsoByAm aDivAsoByaH aDivAsasaH aDivAsasoH aDivAsasAm aDivAsasi aDivAsasoH aDivAsaHsu nil nil nil]
+NORMDUPLICATE 003=anDas#2:n
+                 anDas n:[anDaH anDasI anDAMsi anDaH anDasI anDAMsi anDasA anDoByAm anDoBiH anDase anDoByAm anDoByaH anDasaH anDoByAm anDoByaH anDasaH anDasoH anDasAm anDasi anDasoH anDaHsu nil nil nil]
+NORMDUPLICATE 004=aBIka#2:f,m,n
+                 aBIka f:[aBIkA aBIke aBIkAH aBIkAm aBIke aBIkAH aBIkayA aBIkAByAm aBIkABiH aBIkAyE aBIkAByAm aBIkAByaH aBIkAyAH aBIkAByAm aBIkAByaH aBIkAyAH aBIkayoH aBIkAnAm aBIkAyAm aBIkayoH aBIkAsu nil nil nil]
+                 aBIka m:[aBIkaH aBIkO aBIkAH aBIkam aBIkO aBIkAn aBIkena aBIkAByAm aBIkEH aBIkAya aBIkAByAm aBIkeByaH aBIkAt aBIkAByAm aBIkeByaH aBIkasya aBIkayoH aBIkAnAm aBIke aBIkayoH aBIkezu nil nil nil]
+                 aBIka n:[aBIkam aBIke aBIkAni aBIkam aBIke aBIkAni aBIkena aBIkAByAm aBIkEH aBIkAya aBIkAByAm aBIkeByaH aBIkAt aBIkAByAm aBIkeByaH aBIkasya aBIkayoH aBIkAnAm aBIke aBIkayoH aBIkezu nil nil nil]
+NORMDUPLICATE 005=aBIka#3:n
+                 aBIka n:[aBIkam aBIke aBIkAni aBIkam aBIke aBIkAni aBIkena aBIkAByAm aBIkEH aBIkAya aBIkAByAm aBIkeByaH aBIkAt aBIkAByAm aBIkeByaH aBIkasya aBIkayoH aBIkAnAm aBIke aBIkayoH aBIkezu nil nil nil]
+NORMDUPLICATE 006=avadAna#2:n
+                 avadAna n:[avadAnam avadAne avadAnAni avadAnam avadAne avadAnAni avadAnena avadAnAByAm avadAnEH avadAnAya avadAnAByAm avadAneByaH avadAnAt avadAnAByAm avadAneByaH avadAnasya avadAnayoH avadAnAnAm avadAne avadAnayoH avadAnezu nil nil nil]
+NORMDUPLICATE 007=aSana#2:n
+                 aSana n:[aSanam aSane aSanAni aSanam aSane aSanAni aSanena aSanAByAm aSanEH aSanAya aSanAByAm aSaneByaH aSanAt aSanAByAm aSaneByaH aSanasya aSanayoH aSanAnAm aSane aSanayoH aSanezu nil nil nil]
+NORMDUPLICATE 008=AkAra#2:m
+                 AkAra m:[AkAraH AkArO AkArAH AkAram AkArO AkArAn AkAreRa AkArAByAm AkArEH AkArAya AkArAByAm AkAreByaH AkArAt AkArAByAm AkAreByaH AkArasya AkArayoH AkArARAm AkAre AkArayoH AkArezu nil nil nil]
+NORMDUPLICATE 009=ADi#2:f
+                 ADi f:[ADiH ADI ADayaH ADim ADI ADIH ADyA ADiByAm ADiBiH (ADaye ADyE) ADiByAm ADiByaH (ADeH ADyAH) ADiByAm ADiByaH (ADeH ADyAH) ADyoH ADInAm (ADO ADyAm) ADyoH ADizu nil nil nil]
+NORMDUPLICATE 010=ABoga#2:f,m,n
+                 ABoga f:[ABogA ABoge ABogAH ABogAm ABoge ABogAH ABogayA ABogAByAm ABogABiH ABogAyE ABogAByAm ABogAByaH ABogAyAH ABogAByAm ABogAByaH ABogAyAH ABogayoH ABogAnAm ABogAyAm ABogayoH ABogAsu nil nil nil]
+                 ABoga m:[ABogaH ABogO ABogAH ABogam ABogO ABogAn ABogena ABogAByAm ABogEH ABogAya ABogAByAm ABogeByaH ABogAt ABogAByAm ABogeByaH ABogasya ABogayoH ABogAnAm ABoge ABogayoH ABogezu nil nil nil]
+                 ABoga n:[ABogam ABoge ABogAni ABogam ABoge ABogAni ABogena ABogAByAm ABogEH ABogAya ABogAByAm ABogeByaH ABogAt ABogAByAm ABogeByaH ABogasya ABogayoH ABogAnAm ABoge ABogayoH ABogezu nil nil nil]
+NORMDUPLICATE 011=Ayana#2:f,m,n
+                 Ayana f:[AyanA Ayane AyanAH AyanAm Ayane AyanAH AyanayA AyanAByAm AyanABiH AyanAyE AyanAByAm AyanAByaH AyanAyAH AyanAByAm AyanAByaH AyanAyAH AyanayoH AyanAnAm AyanAyAm AyanayoH AyanAsu nil nil nil]
+                 Ayana m:[AyanaH AyanO AyanAH Ayanam AyanO AyanAn Ayanena AyanAByAm AyanEH AyanAya AyanAByAm AyaneByaH AyanAt AyanAByAm AyaneByaH Ayanasya AyanayoH AyanAnAm Ayane AyanayoH Ayanezu nil nil nil]
+                 Ayana n:[Ayanam Ayane AyanAni Ayanam Ayane AyanAni Ayanena AyanAByAm AyanEH AyanAya AyanAByAm AyaneByaH AyanAt AyanAByAm AyaneByaH Ayanasya AyanayoH AyanAnAm Ayane AyanayoH Ayanezu nil nil nil]
+NORMDUPLICATE 012=ASa#2:m
+                 ASa m:[ASaH ASO ASAH ASam ASO ASAn ASena ASAByAm ASEH ASAya ASAByAm ASeByaH ASAt ASAByAm ASeByaH ASasya ASayoH ASAnAm ASe ASayoH ASezu nil nil nil]
+NORMDUPLICATE 013=ASis#2:f
+                 ASis f:[ASIH ASizO ASizaH ASizam ASizO ASizaH ASizA ASIrByAm ASIrBiH ASize ASIrByAm ASIrByaH ASizaH ASIrByAm ASIrByaH ASizaH ASizoH ASizAm ASizi ASizoH (ASIHzu ASIzzu) nil nil nil]
+NORMDUPLICATE 014=Ahava#2:m
+                 Ahava m:[AhavaH AhavO AhavAH Ahavam AhavO AhavAn Ahavena AhavAByAm AhavEH AhavAya AhavAByAm AhaveByaH AhavAt AhavAByAm AhaveByaH Ahavasya AhavayoH AhavAnAm Ahave AhavayoH Ahavezu nil nil nil]
+NORMDUPLICATE 015=izwi#2:f
+                 izwi f:[izwiH izwI izwayaH izwim izwI izwIH izwyA izwiByAm izwiBiH (izwaye izwyE) izwiByAm izwiByaH (izweH izwyAH) izwiByAm izwiByaH (izweH izwyAH) izwyoH izwInAm (izwO izwyAm) izwyoH izwizu nil nil nil]
+NORMDUPLICATE 016=uttara#2:m,n
+                 uttara m:[uttaraH uttarO (uttarAH uttare) uttaram uttarO uttarAn uttareRa uttarAByAm uttarEH uttarasmE uttarAByAm uttareByaH (uttarasmAt uttarAt) uttarAByAm uttareByaH uttarasya uttarayoH uttarezAm (uttarasmin uttare) uttarayoH uttarezu nil nil nil]
+                 uttara n:[uttaram uttare uttarARi uttaram uttare uttarARi uttareRa uttarAByAm uttarEH uttarasmE uttarAByAm uttareByaH (uttarasmAt uttarAt) uttarAByAm uttareByaH uttarasya uttarayoH uttarezAm (uttarasmin uttare) uttarayoH uttarezu nil nil nil]
+NORMDUPLICATE 017=udAsa#2:m
+                 udAsa m:[udAsaH udAsO udAsAH udAsam udAsO udAsAn udAsena udAsAByAm udAsEH udAsAya udAsAByAm udAseByaH udAsAt udAsAByAm udAseByaH udAsasya udAsayoH udAsAnAm udAse udAsayoH udAsezu nil nil nil]
+NORMDUPLICATE 018=kara#2:m
+                 kara m:[karaH karO karAH karam karO karAn kareRa karAByAm karEH karAya karAByAm kareByaH karAt karAByAm kareByaH karasya karayoH karARAm kare karayoH karezu nil nil nil]
+NORMDUPLICATE 019=karada#2:f,m,n
+                 karada f:[karadA karade karadAH karadAm karade karadAH karadayA karadAByAm karadABiH karadAyE karadAByAm karadAByaH karadAyAH karadAByAm karadAByaH karadAyAH karadayoH karadAnAm karadAyAm karadayoH karadAsu nil nil nil]
+                 karada m:[karadaH karadO karadAH karadam karadO karadAn karadena karadAByAm karadEH karadAya karadAByAm karadeByaH karadAt karadAByAm karadeByaH karadasya karadayoH karadAnAm karade karadayoH karadezu nil nil nil]
+                 karada n:[karadam karade karadAni karadam karade karadAni karadena karadAByAm karadEH karadAya karadAByAm karadeByaH karadAt karadAByAm karadeByaH karadasya karadayoH karadAnAm karade karadayoH karadezu nil nil nil]
+NORMDUPLICATE 020=kAla#2:f,m,n
+                 kAla f:[kAlI kAlyO kAlyaH kAlIm kAlyO kAlIH kAlyA kAlIByAm kAlIBiH kAlyE kAlIByAm kAlIByaH kAlyAH kAlIByAm kAlIByaH kAlyAH kAlyoH kAlInAm kAlyAm kAlyoH kAlIzu nil nil nil]
+                 kAla m:[kAlaH kAlO kAlAH kAlam kAlO kAlAn kAlena kAlAByAm kAlEH kAlAya kAlAByAm kAleByaH kAlAt kAlAByAm kAleByaH kAlasya kAlayoH kAlAnAm kAle kAlayoH kAlezu nil nil nil]
+                 kAla n:[kAlam kAle kAlAni kAlam kAle kAlAni kAlena kAlAByAm kAlEH kAlAya kAlAByAm kAleByaH kAlAt kAlAByAm kAleByaH kAlasya kAlayoH kAlAnAm kAle kAlayoH kAlezu nil nil nil]
+NORMDUPLICATE 021=kOSa#2:f,m,n
+                 kOSa f:[kOSA kOSe kOSAH kOSAm kOSe kOSAH kOSayA kOSAByAm kOSABiH kOSAyE kOSAByAm kOSAByaH kOSAyAH kOSAByAm kOSAByaH kOSAyAH kOSayoH kOSAnAm kOSAyAm kOSayoH kOSAsu nil nil nil]
+                 kOSa m:[kOSaH kOSO kOSAH kOSam kOSO kOSAn kOSena kOSAByAm kOSEH kOSAya kOSAByAm kOSeByaH kOSAt kOSAByAm kOSeByaH kOSasya kOSayoH kOSAnAm kOSe kOSayoH kOSezu nil nil nil]
+                 kOSa n:[kOSam kOSe kOSAni kOSam kOSe kOSAni kOSena kOSAByAm kOSEH kOSAya kOSAByAm kOSeByaH kOSAt kOSAByAm kOSeByaH kOSasya kOSayoH kOSAnAm kOSe kOSayoH kOSezu nil nil nil]
+NORMDUPLICATE 022=kOSika#2:f,m,n
+                 kOSika f:[kOSikI kOSikyO kOSikyaH kOSikIm kOSikyO kOSikIH kOSikyA kOSikIByAm kOSikIBiH kOSikyE kOSikIByAm kOSikIByaH kOSikyAH kOSikIByAm kOSikIByaH kOSikyAH kOSikyoH kOSikInAm kOSikyAm kOSikyoH kOSikIzu nil nil nil]
+                 kOSika m:[kOSikaH kOSikO kOSikAH kOSikam kOSikO kOSikAn kOSikena kOSikAByAm kOSikEH kOSikAya kOSikAByAm kOSikeByaH kOSikAt kOSikAByAm kOSikeByaH kOSikasya kOSikayoH kOSikAnAm kOSike kOSikayoH kOSikezu nil nil nil]
+                 kOSika n:[kOSikam kOSike kOSikAni kOSikam kOSike kOSikAni kOSikena kOSikAByAm kOSikEH kOSikAya kOSikAByAm kOSikeByaH kOSikAt kOSikAByAm kOSikeByaH kOSikasya kOSikayoH kOSikAnAm kOSike kOSikayoH kOSikezu nil nil nil]
+NORMDUPLICATE 023=kOSika#3:m
+                 kOSika m:[kOSikaH kOSikO kOSikAH kOSikam kOSikO kOSikAn kOSikena kOSikAByAm kOSikEH kOSikAya kOSikAByAm kOSikeByaH kOSikAt kOSikAByAm kOSikeByaH kOSikasya kOSikayoH kOSikAnAm kOSike kOSikayoH kOSikezu nil nil nil]
+NORMDUPLICATE 024=kzaya#2:m
+                 kzaya m:[kzayaH kzayO kzayAH kzayam kzayO kzayAn kzayeRa kzayAByAm kzayEH kzayAya kzayAByAm kzayeByaH kzayAt kzayAByAm kzayeByaH kzayasya kzayayoH kzayARAm kzaye kzayayoH kzayezu nil nil nil]
+NORMDUPLICATE 025=kziti#2:f
+                 kziti f:[kzitiH kzitI kzitayaH kzitim kzitI kzitIH kzityA kzitiByAm kzitiBiH (kzitaye kzityE) kzitiByAm kzitiByaH (kziteH kzityAH) kzitiByAm kzitiByaH (kziteH kzityAH) kzityoH kzitInAm (kzitO kzityAm) kzityoH kzitizu nil nil nil]
+NORMDUPLICATE 026=gada#2:f,m,n
+                 gada f:[gadA gade gadAH gadAm gade gadAH gadayA gadAByAm gadABiH gadAyE gadAByAm gadAByaH gadAyAH gadAByAm gadAByaH gadAyAH gadayoH gadAnAm gadAyAm gadayoH gadAsu nil nil nil]
+                 gada m:[gadaH gadO gadAH gadam gadO gadAn gadena gadAByAm gadEH gadAya gadAByAm gadeByaH gadAt gadAByAm gadeByaH gadasya gadayoH gadAnAm gade gadayoH gadezu nil nil nil]
+                 gada n:[gadam gade gadAni gadam gade gadAni gadena gadAByAm gadEH gadAya gadAByAm gadeByaH gadAt gadAByAm gadeByaH gadasya gadayoH gadAnAm gade gadayoH gadezu nil nil nil]
+NORMDUPLICATE 027=citi#2:f,m
+                 citi f:[citiH citI citayaH citim citI citIH cityA citiByAm citiBiH (citaye cityE) citiByAm citiByaH (citeH cityAH) citiByAm citiByaH (citeH cityAH) cityoH citInAm (citO cityAm) cityoH citizu nil nil nil]
+                 citi m:[citiH citI citayaH citim citI citIn citinA citiByAm citiBiH citaye citiByAm citiByaH citeH citiByAm citiByaH citeH cityoH citInAm citO cityoH citizu nil nil nil]
+NORMDUPLICATE 028=cEtya#2:m,n
+                 cEtya m:[cEtyaH cEtyO cEtyAH cEtyam cEtyO cEtyAn cEtyena cEtyAByAm cEtyEH cEtyAya cEtyAByAm cEtyeByaH cEtyAt cEtyAByAm cEtyeByaH cEtyasya cEtyayoH cEtyAnAm cEtye cEtyayoH cEtyezu nil nil nil]
+                 cEtya n:[cEtyam cEtye cEtyAni cEtyam cEtye cEtyAni cEtyena cEtyAByAm cEtyEH cEtyAya cEtyAByAm cEtyeByaH cEtyAt cEtyAByAm cEtyeByaH cEtyasya cEtyayoH cEtyAnAm cEtye cEtyayoH cEtyezu nil nil nil]
+NORMDUPLICATE 029=jamBana#2:n
+                 jamBana n:[jamBanam jamBane jamBanAni jamBanam jamBane jamBanAni jamBanena jamBanAByAm jamBanEH jamBanAya jamBanAByAm jamBaneByaH jamBanAt jamBanAByAm jamBaneByaH jamBanasya jamBanayoH jamBanAnAm jamBane jamBanayoH jamBanezu nil nil nil]
+NORMDUPLICATE 030=jIra#2:m
+                 jIra m:[jIraH jIrO jIrAH jIram jIrO jIrAn jIreRa jIrAByAm jIrEH jIrAya jIrAByAm jIreByaH jIrAt jIrAByAm jIreByaH jIrasya jIrayoH jIrARAm jIre jIrayoH jIrezu nil nil nil]
+NORMDUPLICATE 031=jyA#3:f
+                 jyA f:[jyA jye jyAH jyAm jye jyAH jyayA jyAByAm jyABiH jyAyE jyAByAm jyAByaH jyAyAH jyAByAm jyAByaH jyAyAH jyayoH jyAnAm jyAyAm jyayoH jyAsu nil nil nil]
+NORMDUPLICATE 032=dAman#2:n
+                 dAman n:[dAma (dAmanI dAmnI) dAmAni dAma (dAmanI dAmnI) dAmAni dAmnA dAmaByAm dAmaBiH dAmne dAmaByAm dAmaByaH dAmnaH dAmaByAm dAmaByaH dAmnaH dAmnoH dAmnAm (dAmani dAmni) dAmnoH dAmasu nil nil nil]
+NORMDUPLICATE 033=dAya#2:m
+                 dAya m:[dAyaH dAyO dAyAH dAyam dAyO dAyAn dAyena dAyAByAm dAyEH dAyAya dAyAByAm dAyeByaH dAyAt dAyAByAm dAyeByaH dAyasya dAyayoH dAyAnAm dAye dAyayoH dAyezu nil nil nil]
+NORMDUPLICATE 034=DAvana#2:n
+                 DAvana n:[DAvanam DAvane DAvanAni DAvanam DAvane DAvanAni DAvanena DAvanAByAm DAvanEH DAvanAya DAvanAByAm DAvaneByaH DAvanAt DAvanAByAm DAvaneByaH DAvanasya DAvanayoH DAvanAnAm DAvane DAvanayoH DAvanezu nil nil nil]
+NORMDUPLICATE 035=DIra#2:f,m,n
+                 DIra f:[DIrA DIre DIrAH DIrAm DIre DIrAH DIrayA DIrAByAm DIrABiH DIrAyE DIrAByAm DIrAByaH DIrAyAH DIrAByAm DIrAByaH DIrAyAH DIrayoH DIrARAm DIrAyAm DIrayoH DIrAsu nil nil nil]
+                 DIra m:[DIraH DIrO DIrAH DIram DIrO DIrAn DIreRa DIrAByAm DIrEH DIrAya DIrAByAm DIreByaH DIrAt DIrAByAm DIreByaH DIrasya DIrayoH DIrARAm DIre DIrayoH DIrezu nil nil nil]
+                 DIra n:[DIram DIre DIrARi DIram DIre DIrARi DIreRa DIrAByAm DIrEH DIrAya DIrAByAm DIreByaH DIrAt DIrAByAm DIreByaH DIrasya DIrayoH DIrARAm DIre DIrayoH DIrezu nil nil nil]
+NORMDUPLICATE 036=nirAsa#2:m
+                 nirAsa m:[nirAsaH nirAsO nirAsAH nirAsam nirAsO nirAsAn nirAsena nirAsAByAm nirAsEH nirAsAya nirAsAByAm nirAseByaH nirAsAt nirAsAByAm nirAseByaH nirAsasya nirAsayoH nirAsAnAm nirAse nirAsayoH nirAsezu nil nil nil]
+NORMDUPLICATE 037=nirvacana#2:n
+                 nirvacana n:[nirvacanam nirvacane nirvacanAni nirvacanam nirvacane nirvacanAni nirvacanena nirvacanAByAm nirvacanEH nirvacanAya nirvacanAByAm nirvacaneByaH nirvacanAt nirvacanAByAm nirvacaneByaH nirvacanasya nirvacanayoH nirvacanAnAm nirvacane nirvacanayoH nirvacanezu nil nil nil]
+NORMDUPLICATE 038=niSA#1:f,n
+                 niSA f:[niSA niSe niSAH niSAm niSe niSAH niSayA niSAByAm niSABiH niSAyE niSAByAm niSAByaH niSAyAH niSAByAm niSAByaH niSAyAH niSayoH niSAnAm niSAyAm niSayoH niSAsu nil nil nil]
+                 niSA n:[niSam niSe niSAni niSam niSe niSAni niSena niSAByAm niSEH niSAya niSAByAm niSeByaH niSAt niSAByAm niSeByaH niSasya niSayoH niSAnAm niSe niSayoH niSezu nil nil nil]
+NORMDUPLICATE 039=pAdapa#2:f,m
+                 pAdapa f:[pAdapA pAdape pAdapAH pAdapAm pAdape pAdapAH pAdapayA pAdapAByAm pAdapABiH pAdapAyE pAdapAByAm pAdapAByaH pAdapAyAH pAdapAByAm pAdapAByaH pAdapAyAH pAdapayoH pAdapAnAm pAdapAyAm pAdapayoH pAdapAsu nil nil nil]
+                 pAdapa m:[pAdapaH pAdapO pAdapAH pAdapam pAdapO pAdapAn pAdapena pAdapAByAm pAdapEH pAdapAya pAdapAByAm pAdapeByaH pAdapAt pAdapAByAm pAdapeByaH pAdapasya pAdapayoH pAdapAnAm pAdape pAdapayoH pAdapezu nil nil nil]
+NORMDUPLICATE 040=prakara#2:m
+                 prakara m:[prakaraH prakarO prakarAH prakaram prakarO prakarAn prakareRa prakarAByAm prakarEH prakarAya prakarAByAm prakareByaH prakarAt prakarAByAm prakareByaH prakarasya prakarayoH prakarARAm prakare prakarayoH prakarezu nil nil nil]
+NORMDUPLICATE 041=pravara#2:m
+                 pravara m:[pravaraH pravarO pravarAH pravaram pravarO pravarAn pravareRa pravarAByAm pravarEH pravarAya pravarAByAm pravareByaH pravarAt pravarAByAm pravareByaH pravarasya pravarayoH pravarARAm pravare pravarayoH pravarezu nil nil nil]
+NORMDUPLICATE 042=pravara#3:m
+                 pravara m:[pravaraH pravarO pravarAH pravaram pravarO pravarAn pravareRa pravarAByAm pravarEH pravarAya pravarAByAm pravareByaH pravarAt pravarAByAm pravareByaH pravarasya pravarayoH pravarARAm pravare pravarayoH pravarezu nil nil nil]
+NORMDUPLICATE 043=bandin#2:f,m,n
+                 bandin f:[bandI bandyO bandyaH bandIm bandyO bandIH bandyA bandIByAm bandIBiH bandyE bandIByAm bandIByaH bandyAH bandIByAm bandIByaH bandyAH bandyoH bandInAm bandyAm bandyoH bandIzu nil nil nil]
+                 bandin m:[bandI bandinO bandinaH bandinam bandinO bandinaH bandinA bandiByAm bandiBiH bandine bandiByAm bandiByaH bandinaH bandiByAm bandiByaH bandinaH bandinoH bandinAm bandini bandinoH bandizu nil nil nil]
+                 bandin n:[bandi bandinI bandIni bandi bandinI bandIni bandinA bandiByAm bandiBiH bandine bandiByAm bandiByaH bandinaH bandiByAm bandiByaH bandinaH bandinoH bandinAm bandini bandinoH bandizu nil nil nil]
+NORMDUPLICATE 044=BAma#2:f,m
+                 BAma f:[BAmA BAme BAmAH BAmAm BAme BAmAH BAmayA BAmAByAm BAmABiH BAmAyE BAmAByAm BAmAByaH BAmAyAH BAmAByAm BAmAByaH BAmAyAH BAmayoH BAmAnAm BAmAyAm BAmayoH BAmAsu nil nil nil]
+                 BAma m:[BAmaH BAmO BAmAH BAmam BAmO BAmAn BAmena BAmAByAm BAmEH BAmAya BAmAByAm BAmeByaH BAmAt BAmAByAm BAmeByaH BAmasya BAmayoH BAmAnAm BAme BAmayoH BAmezu nil nil nil]
+NORMDUPLICATE 045=Boga#2:m
+                 Boga m:[BogaH BogO BogAH Bogam BogO BogAn Bogena BogAByAm BogEH BogAya BogAByAm BogeByaH BogAt BogAByAm BogeByaH Bogasya BogayoH BogAnAm Boge BogayoH Bogezu nil nil nil]
+NORMDUPLICATE 046=Bogin#2:f,m,n
+                 Bogin f:[BoginI BoginyO BoginyaH BoginIm BoginyO BoginIH BoginyA BoginIByAm BoginIBiH BoginyE BoginIByAm BoginIByaH BoginyAH BoginIByAm BoginIByaH BoginyAH BoginyoH BoginInAm BoginyAm BoginyoH BoginIzu nil nil nil]
+                 Bogin m:[BogI BoginO BoginaH Boginam BoginO BoginaH BoginA BogiByAm BogiBiH Bogine BogiByAm BogiByaH BoginaH BogiByAm BogiByaH BoginaH BoginoH BoginAm Bogini BoginoH Bogizu nil nil nil]
+                 Bogin n:[Bogi BoginI BogIni Bogi BoginI BogIni BoginA BogiByAm BogiBiH Bogine BogiByAm BogiByaH BoginaH BogiByAm BogiByaH BoginaH BoginoH BoginAm Bogini BoginoH Bogizu nil nil nil]
+NORMDUPLICATE 047=mfzwi#2:f
+                 mfzwi f:[mfzwiH mfzwI mfzwayaH mfzwim mfzwI mfzwIH mfzwyA mfzwiByAm mfzwiBiH (mfzwaye mfzwyE) mfzwiByAm mfzwiByaH (mfzweH mfzwyAH) mfzwiByAm mfzwiByaH (mfzweH mfzwyAH) mfzwyoH mfzwInAm (mfzwO mfzwyAm) mfzwyoH mfzwizu nil nil nil]
+NORMDUPLICATE 048=yati#3:f
+                 yati f:[(yatiH yatI) (yatI yatyO) (yatayaH yatyaH) (yatim yatIm) (yatI yatyO) yatIH yatyA (yatiByAm yatIByAm) (yatiBiH yatIBiH) (yataye yatyE) (yatiByAm yatIByAm) (yatiByaH yatIByaH) (yateH yatyAH) (yatiByAm yatIByAm) (yatiByaH yatIByaH) (yateH yatyAH) yatyoH yatInAm (yatO yatyAm) yatyoH (yatizu yatIzu) nil nil nil]
+NORMDUPLICATE 049=yama#2:f,m,n
+                 yama f:[(yamA yamI) (yame yamyO) (yamAH yamyaH) (yamAm yamIm) (yame yamyO) (yamAH yamIH) (yamayA yamyA) (yamAByAm yamIByAm) (yamABiH yamIBiH) (yamAyE yamyE) (yamAByAm yamIByAm) (yamAByaH yamIByaH) (yamAyAH yamyAH) (yamAByAm yamIByAm) (yamAByaH yamIByaH) (yamAyAH yamyAH) (yamayoH yamyoH) (yamAnAm yamInAm) (yamAyAm yamyAm) (yamayoH yamyoH) (yamAsu yamIzu) nil nil nil]
+                 yama m:[yamaH yamO yamAH yamam yamO yamAn yamena yamAByAm yamEH yamAya yamAByAm yameByaH yamAt yamAByAm yameByaH yamasya yamayoH yamAnAm yame yamayoH yamezu nil nil nil]
+                 yama n:[yamam yame yamAni yamam yame yamAni yamena yamAByAm yamEH yamAya yamAByAm yameByaH yamAt yamAByAm yameByaH yamasya yamayoH yamAnAm yame yamayoH yamezu nil nil nil]
+NORMDUPLICATE 050=vayas#2:n
+                 vayas n:[vayaH vayasI vayAMsi vayaH vayasI vayAMsi vayasA vayoByAm vayoBiH vayase vayoByAm vayoByaH vayasaH vayoByAm vayoByaH vayasaH vayasoH vayasAm vayasi vayasoH vayaHsu nil nil nil]
+NORMDUPLICATE 051=vara#2:f,m,n
+                 vara f:[varA vare varAH varAm vare varAH varayA varAByAm varABiH varAyE varAByAm varAByaH varAyAH varAByAm varAByaH varAyAH varayoH varARAm varAyAm varayoH varAsu nil nil nil]
+                 vara m:[varaH varO varAH varam varO varAn vareRa varAByAm varEH varAya varAByAm vareByaH varAt varAByAm vareByaH varasya varayoH varARAm vare varayoH varezu nil nil nil]
+                 vara n:[varam vare varARi varam vare varARi vareRa varAByAm varEH varAya varAByAm vareByaH varAt varAByAm vareByaH varasya varayoH varARAm vare varayoH varezu nil nil nil]
+NORMDUPLICATE 052=varaka#2:m
+                 varaka m:[varakaH varakO varakAH varakam varakO varakAn varakeRa varakAByAm varakEH varakAya varakAByAm varakeByaH varakAt varakAByAm varakeByaH varakasya varakayoH varakARAm varake varakayoH varakezu nil nil nil]
+NORMDUPLICATE 053=varaRa#2:n
+                 varaRa n:[varaRam varaRe varaRAni varaRam varaRe varaRAni varaRena varaRAByAm varaREH varaRAya varaRAByAm varaReByaH varaRAt varaRAByAm varaReByaH varaRasya varaRayoH varaRAnAm varaRe varaRayoH varaRezu nil nil nil]
+NORMDUPLICATE 054=varizWa#2:f,m,n
+                 varizWa f:[varizWA varizWe varizWAH varizWAm varizWe varizWAH varizWayA varizWAByAm varizWABiH varizWAyE varizWAByAm varizWAByaH varizWAyAH varizWAByAm varizWAByaH varizWAyAH varizWayoH varizWAnAm varizWAyAm varizWayoH varizWAsu nil nil nil]
+                 varizWa m:[varizWaH varizWO varizWAH varizWam varizWO varizWAn varizWena varizWAByAm varizWEH varizWAya varizWAByAm varizWeByaH varizWAt varizWAByAm varizWeByaH varizWasya varizWayoH varizWAnAm varizWe varizWayoH varizWezu nil nil nil]
+                 varizWa n:[varizWam varizWe varizWAni varizWam varizWe varizWAni varizWena varizWAByAm varizWEH varizWAya varizWAByAm varizWeByaH varizWAt varizWAByAm varizWeByaH varizWasya varizWayoH varizWAnAm varizWe varizWayoH varizWezu nil nil nil]
+NORMDUPLICATE 055=varIyas#2:f,m,n
+                 varIyas f:[varIyasI varIyasyO varIyasyaH varIyasIm varIyasyO varIyasIH varIyasyA varIyasIByAm varIyasIBiH varIyasyE varIyasIByAm varIyasIByaH varIyasyAH varIyasIByAm varIyasIByaH varIyasyAH varIyasyoH varIyasInAm varIyasyAm varIyasyoH varIyasIzu nil nil nil]
+                 varIyas m:[varIyAn varIyAMsO varIyAMsaH varIyAMsam varIyAMsO varIyasaH varIyasA varIyoByAm varIyoBiH varIyase varIyoByAm varIyoByaH varIyasaH varIyoByAm varIyoByaH varIyasaH varIyasoH varIyasAm varIyasi varIyasoH varIyaHsu nil nil nil]
+                 varIyas n:[varIyaH varIyasI varIyAMsi varIyaH varIyasI varIyAMsi varIyasA varIyoByAm varIyoBiH varIyase varIyoByAm varIyoByaH varIyasaH varIyoByAm varIyoByaH varIyasaH varIyasoH varIyasAm varIyasi varIyasoH varIyaHsu nil nil nil]
+NORMDUPLICATE 056=vasana#2:n
+                 vasana n:[vasanam vasane vasanAni vasanam vasane vasanAni vasanena vasanAByAm vasanEH vasanAya vasanAByAm vasaneByaH vasanAt vasanAByAm vasaneByaH vasanasya vasanayoH vasanAnAm vasane vasanayoH vasanezu nil nil nil]
+NORMDUPLICATE 057=vastu#2:f
+                 vastu f:[vastuH vastU vastavaH vastum vastU vastUH vastvA vastuByAm vastuBiH (vastave vastvE) vastuByAm vastuByaH (vastoH vastvAH) vastuByAm vastuByaH (vastoH vastvAH) vastvoH vastUnAm (vastO vastvAm) vastvoH vastuzu nil nil nil]
+NORMDUPLICATE 058=vAna#2:n
+                 vAna n:[vAnam vAne vAnAni vAnam vAne vAnAni vAnena vAnAByAm vAnEH vAnAya vAnAByAm vAneByaH vAnAt vAnAByAm vAneByaH vAnasya vAnayoH vAnAnAm vAne vAnayoH vAnezu nil nil nil]
+NORMDUPLICATE 059=vApa#2:m
+                 vApa m:[vApaH vApO vApAH vApam vApO vApAn vApena vApAByAm vApEH vApAya vApAByAm vApeByaH vApAt vApAByAm vApeByaH vApasya vApayoH vApAnAm vApe vApayoH vApezu nil nil nil]
+NORMDUPLICATE 060=vAma#2:f,m,n
+                 vAma f:[(vAmA vAmI) (vAme vAmyO) (vAmAH vAmyaH) (vAmAm vAmIm) (vAme vAmyO) (vAmAH vAmIH) (vAmayA vAmyA) (vAmAByAm vAmIByAm) (vAmABiH vAmIBiH) (vAmAyE vAmyE) (vAmAByAm vAmIByAm) (vAmAByaH vAmIByaH) (vAmAyAH vAmyAH) (vAmAByAm vAmIByAm) (vAmAByaH vAmIByaH) (vAmAyAH vAmyAH) (vAmayoH vAmyoH) (vAmAnAm vAmInAm) (vAmAyAm vAmyAm) (vAmayoH vAmyoH) (vAmAsu vAmIzu) nil nil nil]
+                 vAma m:[vAmaH vAmO vAmAH vAmam vAmO vAmAn vAmena vAmAByAm vAmEH vAmAya vAmAByAm vAmeByaH vAmAt vAmAByAm vAmeByaH vAmasya vAmayoH vAmAnAm vAme vAmayoH vAmezu nil nil nil]
+                 vAma n:[vAmam vAme vAmAni vAmam vAme vAmAni vAmena vAmAByAm vAmEH vAmAya vAmAByAm vAmeByaH vAmAt vAmAByAm vAmeByaH vAmasya vAmayoH vAmAnAm vAme vAmayoH vAmezu nil nil nil]
+NORMDUPLICATE 061=vAma#3:m
+                 vAma m:[vAmaH vAmO vAmAH vAmam vAmO vAmAn vAmena vAmAByAm vAmEH vAmAya vAmAByAm vAmeByaH vAmAt vAmAByAm vAmeByaH vAmasya vAmayoH vAmAnAm vAme vAmayoH vAmezu nil nil nil]
+NORMDUPLICATE 062=vAmaka#2:f,m,n
+                 vAmaka f:[vAmikA vAmike vAmikAH vAmikAm vAmike vAmikAH vAmikayA vAmikAByAm vAmikABiH vAmikAyE vAmikAByAm vAmikAByaH vAmikAyAH vAmikAByAm vAmikAByaH vAmikAyAH vAmikayoH vAmikAnAm vAmikAyAm vAmikayoH vAmikAsu nil nil nil]
+                 vAmaka m:[vAmakaH vAmakO vAmakAH vAmakam vAmakO vAmakAn vAmakena vAmakAByAm vAmakEH vAmakAya vAmakAByAm vAmakeByaH vAmakAt vAmakAByAm vAmakeByaH vAmakasya vAmakayoH vAmakAnAm vAmake vAmakayoH vAmakezu nil nil nil]
+                 vAmaka n:[vAmakam vAmake vAmakAni vAmakam vAmake vAmakAni vAmakena vAmakAByAm vAmakEH vAmakAya vAmakAByAm vAmakeByaH vAmakAt vAmakAByAm vAmakeByaH vAmakasya vAmakayoH vAmakAnAm vAmake vAmakayoH vAmakezu nil nil nil]
+NORMDUPLICATE 063=vAsa#2:m
+                 vAsa m:[vAsaH vAsO vAsAH vAsam vAsO vAsAn vAsena vAsAByAm vAsEH vAsAya vAsAByAm vAseByaH vAsAt vAsAByAm vAseByaH vAsasya vAsayoH vAsAnAm vAse vAsayoH vAsezu nil nil nil]
+NORMDUPLICATE 064=vAsa#3:m
+                 vAsa m:[vAsaH vAsO vAsAH vAsam vAsO vAsAn vAsena vAsAByAm vAsEH vAsAya vAsAByAm vAseByaH vAsAt vAsAByAm vAseByaH vAsasya vAsayoH vAsAnAm vAse vAsayoH vAsezu nil nil nil]
+NORMDUPLICATE 065=vAsana#2:n
+                 vAsana n:[vAsanam vAsane vAsanAni vAsanam vAsane vAsanAni vAsanena vAsanAByAm vAsanEH vAsanAya vAsanAByAm vAsaneByaH vAsanAt vAsanAByAm vAsaneByaH vAsanasya vAsanayoH vAsanAnAm vAsane vAsanayoH vAsanezu nil nil nil]
+NORMDUPLICATE 066=vikaraRa#2:m
+                 vikaraRa m:[vikaraRaH vikaraRO vikaraRAH vikaraRam vikaraRO vikaraRAn vikaraRena vikaraRAByAm vikaraREH vikaraRAya vikaraRAByAm vikaraReByaH vikaraRAt vikaraRAByAm vikaraReByaH vikaraRasya vikaraRayoH vikaraRAnAm vikaraRe vikaraRayoH vikaraRezu nil nil nil]
+NORMDUPLICATE 067=vikASa#2:m
+                 vikASa m:[vikASaH vikASO vikASAH vikASam vikASO vikASAn vikASena vikASAByAm vikASEH vikASAya vikASAByAm vikASeByaH vikASAt vikASAByAm vikASeByaH vikASasya vikASayoH vikASAnAm vikASe vikASayoH vikASezu nil nil nil]
+NORMDUPLICATE 068=vibuDa#2:f,m,n
+                 vibuDa f:[vibuDA vibuDe vibuDAH vibuDAm vibuDe vibuDAH vibuDayA vibuDAByAm vibuDABiH vibuDAyE vibuDAByAm vibuDAByaH vibuDAyAH vibuDAByAm vibuDAByaH vibuDAyAH vibuDayoH vibuDAnAm vibuDAyAm vibuDayoH vibuDAsu nil nil nil]
+                 vibuDa m:[vibuDaH vibuDO vibuDAH vibuDam vibuDO vibuDAn vibuDena vibuDAByAm vibuDEH vibuDAya vibuDAByAm vibuDeByaH vibuDAt vibuDAByAm vibuDeByaH vibuDasya vibuDayoH vibuDAnAm vibuDe vibuDayoH vibuDezu nil nil nil]
+                 vibuDa n:[vibuDam vibuDe vibuDAni vibuDam vibuDe vibuDAni vibuDena vibuDAByAm vibuDEH vibuDAya vibuDAByAm vibuDeByaH vibuDAt vibuDAByAm vibuDeByaH vibuDasya vibuDayoH vibuDAnAm vibuDe vibuDayoH vibuDezu nil nil nil]
+NORMDUPLICATE 069=viboDa#2:m
+                 viboDa m:[viboDaH viboDO viboDAH viboDam viboDO viboDAn viboDena viboDAByAm viboDEH viboDAya viboDAByAm viboDeByaH viboDAt viboDAByAm viboDeByaH viboDasya viboDayoH viboDAnAm viboDe viboDayoH viboDezu nil nil nil]
+NORMDUPLICATE 070=vimAna#2:f,m,n
+                 vimAna f:[vimAnA vimAne vimAnAH vimAnAm vimAne vimAnAH vimAnayA vimAnAByAm vimAnABiH vimAnAyE vimAnAByAm vimAnAByaH vimAnAyAH vimAnAByAm vimAnAByaH vimAnAyAH vimAnayoH vimAnAnAm vimAnAyAm vimAnayoH vimAnAsu nil nil nil]
+                 vimAna m:[vimAnaH vimAnO vimAnAH vimAnam vimAnO vimAnAn vimAnena vimAnAByAm vimAnEH vimAnAya vimAnAByAm vimAneByaH vimAnAt vimAnAByAm vimAneByaH vimAnasya vimAnayoH vimAnAnAm vimAne vimAnayoH vimAnezu nil nil nil]
+                 vimAna n:[vimAnam vimAne vimAnAni vimAnam vimAne vimAnAni vimAnena vimAnAByAm vimAnEH vimAnAya vimAnAByAm vimAneByaH vimAnAt vimAnAByAm vimAneByaH vimAnasya vimAnayoH vimAnAnAm vimAne vimAnayoH vimAnezu nil nil nil]
+NORMDUPLICATE 071=vedana#2:f,m,n
+                 vedana f:[vedanA vedane vedanAH vedanAm vedane vedanAH vedanayA vedanAByAm vedanABiH vedanAyE vedanAByAm vedanAByaH vedanAyAH vedanAByAm vedanAByaH vedanAyAH vedanayoH vedanAnAm vedanAyAm vedanayoH vedanAsu nil nil nil]
+                 vedana m:[vedanaH vedanO vedanAH vedanam vedanO vedanAn vedanena vedanAByAm vedanEH vedanAya vedanAByAm vedaneByaH vedanAt vedanAByAm vedaneByaH vedanasya vedanayoH vedanAnAm vedane vedanayoH vedanezu nil nil nil]
+                 vedana n:[vedanam vedane vedanAni vedanam vedane vedanAni vedanena vedanAByAm vedanEH vedanAya vedanAByAm vedaneByaH vedanAt vedanAByAm vedaneByaH vedanasya vedanayoH vedanAnAm vedane vedanayoH vedanezu nil nil nil]
+NORMDUPLICATE 072=vedas#2:n
+                 vedas n:[vedaH vedasI vedAMsi vedaH vedasI vedAMsi vedasA vedoByAm vedoBiH vedase vedoByAm vedoByaH vedasaH vedoByAm vedoByaH vedasaH vedasoH vedasAm vedasi vedasoH vedaHsu nil nil nil]
+NORMDUPLICATE 073=SAka#2:m
+                 SAka m:[SAkaH SAkO SAkAH SAkam SAkO SAkAn SAkena SAkAByAm SAkEH SAkAya SAkAByAm SAkeByaH SAkAt SAkAByAm SAkeByaH SAkasya SAkayoH SAkAnAm SAke SAkayoH SAkezu nil nil nil]
+NORMDUPLICATE 074=SAka#3:f,m,n
+                 SAka f:[SAkA SAke SAkAH SAkAm SAke SAkAH SAkayA SAkAByAm SAkABiH SAkAyE SAkAByAm SAkAByaH SAkAyAH SAkAByAm SAkAByaH SAkAyAH SAkayoH SAkAnAm SAkAyAm SAkayoH SAkAsu nil nil nil]
+                 SAka m:[SAkaH SAkO SAkAH SAkam SAkO SAkAn SAkena SAkAByAm SAkEH SAkAya SAkAByAm SAkeByaH SAkAt SAkAByAm SAkeByaH SAkasya SAkayoH SAkAnAm SAke SAkayoH SAkezu nil nil nil]
+                 SAka n:[SAkam SAke SAkAni SAkam SAke SAkAni SAkena SAkAByAm SAkEH SAkAya SAkAByAm SAkeByaH SAkAt SAkAByAm SAkeByaH SAkasya SAkayoH SAkAnAm SAke SAkayoH SAkezu nil nil nil]
+NORMDUPLICATE 075=SARa#2:f,m,n
+                 SARa f:[SARA SARe SARAH SARAm SARe SARAH SARayA SARAByAm SARABiH SARAyE SARAByAm SARAByaH SARAyAH SARAByAm SARAByaH SARAyAH SARayoH SARAnAm SARAyAm SARayoH SARAsu nil nil nil]
+                 SARa m:[SARaH SARO SARAH SARam SARO SARAn SARena SARAByAm SAREH SARAya SARAByAm SAReByaH SARAt SARAByAm SAReByaH SARasya SARayoH SARAnAm SARe SARayoH SARezu nil nil nil]
+                 SARa n:[SARam SARe SARAni SARam SARe SARAni SARena SARAByAm SAREH SARAya SARAByAm SAReByaH SARAt SARAByAm SAReByaH SARasya SARayoH SARAnAm SARe SARayoH SARezu nil nil nil]
+NORMDUPLICATE 076=SAtana#2:n
+                 SAtana n:[SAtanam SAtane SAtanAni SAtanam SAtane SAtanAni SAtanena SAtanAByAm SAtanEH SAtanAya SAtanAByAm SAtaneByaH SAtanAt SAtanAByAm SAtaneByaH SAtanasya SAtanayoH SAtanAnAm SAtane SAtanayoH SAtanezu nil nil nil]
+NORMDUPLICATE 077=SAva#2:f,m,n
+                 SAva f:[SAvA SAve SAvAH SAvAm SAve SAvAH SAvayA SAvAByAm SAvABiH SAvAyE SAvAByAm SAvAByaH SAvAyAH SAvAByAm SAvAByaH SAvAyAH SAvayoH SAvAnAm SAvAyAm SAvayoH SAvAsu nil nil nil]
+                 SAva m:[SAvaH SAvO SAvAH SAvam SAvO SAvAn SAvena SAvAByAm SAvEH SAvAya SAvAByAm SAveByaH SAvAt SAvAByAm SAveByaH SAvasya SAvayoH SAvAnAm SAve SAvayoH SAvezu nil nil nil]
+                 SAva n:[SAvam SAve SAvAni SAvam SAve SAvAni SAvena SAvAByAm SAvEH SAvAya SAvAByAm SAveByaH SAvAt SAvAByAm SAveByaH SAvasya SAvayoH SAvAnAm SAve SAvayoH SAvezu nil nil nil]
+NORMDUPLICATE 078=SAsa#2:m
+                 SAsa m:[SAsaH SAsO SAsAH SAsam SAsO SAsAn SAsena SAsAByAm SAsEH SAsAya SAsAByAm SAseByaH SAsAt SAsAByAm SAseByaH SAsasya SAsayoH SAsAnAm SAse SAsayoH SAsezu nil nil nil]
+NORMDUPLICATE 079=SravaRa#2:f,m,n
+                 SravaRa f:[SravaRA SravaRe SravaRAH SravaRAm SravaRe SravaRAH SravaRayA SravaRAByAm SravaRABiH SravaRAyE SravaRAByAm SravaRAByaH SravaRAyAH SravaRAByAm SravaRAByaH SravaRAyAH SravaRayoH SravaRAnAm SravaRAyAm SravaRayoH SravaRAsu nil nil nil]
+                 SravaRa m:[SravaRaH SravaRO SravaRAH SravaRam SravaRO SravaRAn SravaRena SravaRAByAm SravaREH SravaRAya SravaRAByAm SravaReByaH SravaRAt SravaRAByAm SravaReByaH SravaRasya SravaRayoH SravaRAnAm SravaRe SravaRayoH SravaRezu nil nil nil]
+                 SravaRa n:[SravaRam SravaRe SravaRAni SravaRam SravaRe SravaRAni SravaRena SravaRAByAm SravaREH SravaRAya SravaRAByAm SravaReByaH SravaRAt SravaRAByAm SravaReByaH SravaRasya SravaRayoH SravaRAnAm SravaRe SravaRayoH SravaRezu nil nil nil]
+NORMDUPLICATE 080=SrAvaRa#2:f,m,n
+                 SrAvaRa f:[(SrAvaRA SrAvaRI) (SrAvaRe SrAvaRyO) (SrAvaRAH SrAvaRyaH) (SrAvaRAm SrAvaRIm) (SrAvaRe SrAvaRyO) (SrAvaRAH SrAvaRIH) (SrAvaRayA SrAvaRyA) (SrAvaRAByAm SrAvaRIByAm) (SrAvaRABiH SrAvaRIBiH) (SrAvaRAyE SrAvaRyE) (SrAvaRAByAm SrAvaRIByAm) (SrAvaRAByaH SrAvaRIByaH) (SrAvaRAyAH SrAvaRyAH) (SrAvaRAByAm SrAvaRIByAm) (SrAvaRAByaH SrAvaRIByaH) (SrAvaRAyAH SrAvaRyAH) (SrAvaRayoH SrAvaRyoH) (SrAvaRAnAm SrAvaRInAm) (SrAvaRAyAm SrAvaRyAm) (SrAvaRayoH SrAvaRyoH) (SrAvaRAsu SrAvaRIzu) nil nil nil]
+                 SrAvaRa m:[SrAvaRaH SrAvaRO SrAvaRAH SrAvaRam SrAvaRO SrAvaRAn SrAvaRena SrAvaRAByAm SrAvaREH SrAvaRAya SrAvaRAByAm SrAvaReByaH SrAvaRAt SrAvaRAByAm SrAvaReByaH SrAvaRasya SrAvaRayoH SrAvaRAnAm SrAvaRe SrAvaRayoH SrAvaRezu nil nil nil]
+                 SrAvaRa n:[SrAvaRam SrAvaRe SrAvaRAni SrAvaRam SrAvaRe SrAvaRAni SrAvaRena SrAvaRAByAm SrAvaREH SrAvaRAya SrAvaRAByAm SrAvaReByaH SrAvaRAt SrAvaRAByAm SrAvaReByaH SrAvaRasya SrAvaRayoH SrAvaRAnAm SrAvaRe SrAvaRayoH SrAvaRezu nil nil nil]
+NORMDUPLICATE 081=saNgara#2:m
+                 saNgara m:[saNgaraH saNgarO saNgarAH saNgaram saNgarO saNgarAn saNgareRa saNgarAByAm saNgarEH saNgarAya saNgarAByAm saNgareByaH saNgarAt saNgarAByAm saNgareByaH saNgarasya saNgarayoH saNgarARAm saNgare saNgarayoH saNgarezu nil nil nil]
+NORMDUPLICATE 082=sana#2:f,m,n
+                 sana f:[sanA sane sanAH sanAm sane sanAH sanayA sanAByAm sanABiH sanAyE sanAByAm sanAByaH sanAyAH sanAByAm sanAByaH sanAyAH sanayoH sanAnAm sanAyAm sanayoH sanAsu nil nil nil]
+                 sana m:[sanaH sanO sanAH sanam sanO sanAn sanena sanAByAm sanEH sanAya sanAByAm saneByaH sanAt sanAByAm saneByaH sanasya sanayoH sanAnAm sane sanayoH sanezu nil nil nil]
+                 sana n:[sanam sane sanAni sanam sane sanAni sanena sanAByAm sanEH sanAya sanAByAm saneByaH sanAt sanAByAm saneByaH sanasya sanayoH sanAnAm sane sanayoH sanezu nil nil nil]
+NORMDUPLICATE 083=samAna#2:f,m,n
+                 samAna f:[(samAnA samAnI) (samAne samAnyO) (samAnAH samAnyaH) (samAnAm samAnIm) (samAne samAnyO) (samAnAH samAnIH) (samAnayA samAnyA) (samAnAByAm samAnIByAm) (samAnABiH samAnIBiH) (samAnAyE samAnyE) (samAnAByAm samAnIByAm) (samAnAByaH samAnIByaH) (samAnAyAH samAnyAH) (samAnAByAm samAnIByAm) (samAnAByaH samAnIByaH) (samAnAyAH samAnyAH) (samAnayoH samAnyoH) (samAnAnAm samAnInAm) (samAnAyAm samAnyAm) (samAnayoH samAnyoH) (samAnAsu samAnIzu) nil nil nil]
+                 samAna m:[samAnaH samAnO samAnAH samAnam samAnO samAnAn samAnena samAnAByAm samAnEH samAnAya samAnAByAm samAneByaH samAnAt samAnAByAm samAneByaH samAnasya samAnayoH samAnAnAm samAne samAnayoH samAnezu nil nil nil]
+                 samAna n:[samAnam samAne samAnAni samAnam samAne samAnAni samAnena samAnAByAm samAnEH samAnAya samAnAByAm samAneByaH samAnAt samAnAByAm samAneByaH samAnasya samAnayoH samAnAnAm samAne samAnayoH samAnezu nil nil nil]
+NORMDUPLICATE 084=samAna#3:f,m,n
+                 samAna f:[samAnA samAne samAnAH samAnAm samAne samAnAH samAnayA samAnAByAm samAnABiH samAnAyE samAnAByAm samAnAByaH samAnAyAH samAnAByAm samAnAByaH samAnAyAH samAnayoH samAnAnAm samAnAyAm samAnayoH samAnAsu nil nil nil]
+                 samAna m:[samAnaH samAnO samAnAH samAnam samAnO samAnAn samAnena samAnAByAm samAnEH samAnAya samAnAByAm samAneByaH samAnAt samAnAByAm samAneByaH samAnasya samAnayoH samAnAnAm samAne samAnayoH samAnezu nil nil nil]
+                 samAna n:[samAnam samAne samAnAni samAnam samAne samAnAni samAnena samAnAByAm samAnEH samAnAya samAnAByAm samAneByaH samAnAt samAnAByAm samAneByaH samAnasya samAnayoH samAnAnAm samAne samAnayoH samAnezu nil nil nil]
+NORMDUPLICATE 085=samAna#4:f,m,n
+                 samAna f:[samAnA samAne samAnAH samAnAm samAne samAnAH samAnayA samAnAByAm samAnABiH samAnAyE samAnAByAm samAnAByaH samAnAyAH samAnAByAm samAnAByaH samAnAyAH samAnayoH samAnAnAm samAnAyAm samAnayoH samAnAsu nil nil nil]
+                 samAna m:[samAnaH samAnO samAnAH samAnam samAnO samAnAn samAnena samAnAByAm samAnEH samAnAya samAnAByAm samAneByaH samAnAt samAnAByAm samAneByaH samAnasya samAnayoH samAnAnAm samAne samAnayoH samAnezu nil nil nil]
+                 samAna n:[samAnam samAne samAnAni samAnam samAne samAnAni samAnena samAnAByAm samAnEH samAnAya samAnAByAm samAneByaH samAnAt samAnAByAm samAneByaH samAnasya samAnayoH samAnAnAm samAne samAnayoH samAnezu nil nil nil]
+NORMDUPLICATE 086=samudra#2:f,m,n
+                 samudra f:[samudrA samudre samudrAH samudrAm samudre samudrAH samudrayA samudrAByAm samudrABiH samudrAyE samudrAByAm samudrAByaH samudrAyAH samudrAByAm samudrAByaH samudrAyAH samudrayoH samudrARAm samudrAyAm samudrayoH samudrAsu nil nil nil]
+                 samudra m:[samudraH samudrO samudrAH samudram samudrO samudrAn samudreRa samudrAByAm samudrEH samudrAya samudrAByAm samudreByaH samudrAt samudrAByAm samudreByaH samudrasya samudrayoH samudrARAm samudre samudrayoH samudrezu nil nil nil]
+                 samudra n:[samudram samudre samudrARi samudram samudre samudrARi samudreRa samudrAByAm samudrEH samudrAya samudrAByAm samudreByaH samudrAt samudrAByAm samudreByaH samudrasya samudrayoH samudrARAm samudre samudrayoH samudrezu nil nil nil]
+NORMDUPLICATE 087=sava#2:m
+                 sava m:[savaH savO savAH savam savO savAn savena savAByAm savEH savAya savAByAm saveByaH savAt savAByAm saveByaH savasya savayoH savAnAm save savayoH savezu nil nil nil]
+NORMDUPLICATE 088=savana#2:n
+                 savana n:[savanam savane savanAni savanam savane savanAni savanena savanAByAm savanEH savanAya savanAByAm savaneByaH savanAt savanAByAm savaneByaH savanasya savanayoH savanAnAm savane savanayoH savanezu nil nil nil]
+NORMDUPLICATE 089=sahakAra#2:f,m,n
+                 sahakAra f:[sahakArA sahakAre sahakArAH sahakArAm sahakAre sahakArAH sahakArayA sahakArAByAm sahakArABiH sahakArAyE sahakArAByAm sahakArAByaH sahakArAyAH sahakArAByAm sahakArAByaH sahakArAyAH sahakArayoH sahakArARAm sahakArAyAm sahakArayoH sahakArAsu nil nil nil]
+                 sahakAra m:[sahakAraH sahakArO sahakArAH sahakAram sahakArO sahakArAn sahakAreRa sahakArAByAm sahakArEH sahakArAya sahakArAByAm sahakAreByaH sahakArAt sahakArAByAm sahakAreByaH sahakArasya sahakArayoH sahakArARAm sahakAre sahakArayoH sahakArezu nil nil nil]
+                 sahakAra n:[sahakAram sahakAre sahakArARi sahakAram sahakAre sahakArARi sahakAreRa sahakArAByAm sahakArEH sahakArAya sahakArAByAm sahakAreByaH sahakArAt sahakArAByAm sahakAreByaH sahakArasya sahakArayoH sahakArARAm sahakAre sahakArayoH sahakArezu nil nil nil]
+NORMDUPLICATE 090=sAmudra#2:n
+                 sAmudra n:[sAmudram sAmudre sAmudrARi sAmudram sAmudre sAmudrARi sAmudreRa sAmudrAByAm sAmudrEH sAmudrAya sAmudrAByAm sAmudreByaH sAmudrAt sAmudrAByAm sAmudreByaH sAmudrasya sAmudrayoH sAmudrARAm sAmudre sAmudrayoH sAmudrezu nil nil nil]
+NORMDUPLICATE 091=sutapa#2:m
+                 sutapa m:[sutapaH sutapO sutapAH sutapam sutapO sutapAn sutapena sutapAByAm sutapEH sutapAya sutapAByAm sutapeByaH sutapAt sutapAByAm sutapeByaH sutapasya sutapayoH sutapAnAm sutape sutapayoH sutapezu nil nil nil]
+NORMDUPLICATE 092=hari#2:f,m,n
+                 hari f:[(hariH harI) (harI haryO) (harayaH haryaH) (harim harIm) (harI haryO) harIH haryA (hariByAm harIByAm) (hariBiH harIBiH) (haraye haryE) (hariByAm harIByAm) (hariByaH harIByaH) (hareH haryAH) (hariByAm harIByAm) (hariByaH harIByaH) (hareH haryAH) haryoH harIRAm (harO haryAm) haryoH (harizu harIzu) nil nil nil]
+                 hari m:[hariH harI harayaH harim harI harIn hariRA hariByAm hariBiH haraye hariByAm hariByaH hareH hariByAm hariByaH hareH haryoH harIRAm harO haryoH harizu nil nil nil]
+                 hari n:[hari hariRI harIRi hari hariRI harIRi hariRA hariByAm hariBiH hariRe hariByAm hariByaH hariRaH hariByAm hariByaH hariRaH hariRoH harIRAm hariRi hariRoH harizu nil nil nil]
+NORMDUPLICATE 093=hAra#2:f,m,n
+                 hAra f:[hArA hAre hArAH hArAm hAre hArAH hArayA hArAByAm hArABiH hArAyE hArAByAm hArAByaH hArAyAH hArAByAm hArAByaH hArAyAH hArayoH hArARAm hArAyAm hArayoH hArAsu nil nil nil]
+                 hAra m:[hAraH hArO hArAH hAram hArO hArAn hAreRa hArAByAm hArEH hArAya hArAByAm hAreByaH hArAt hArAByAm hAreByaH hArasya hArayoH hArARAm hAre hArayoH hArezu nil nil nil]
+                 hAra n:[hAram hAre hArARi hAram hAre hArARi hAreRa hArAByAm hArEH hArAya hArAByAm hAreByaH hArAt hArAByAm hAreByaH hArasya hArayoH hArARAm hAre hArayoH hArezu nil nil nil]
+NORMDUPLICATE 094=hEma#2:f,m,n
+                 hEma f:[(hEmA hEmI) (hEme hEmyO) (hEmAH hEmyaH) (hEmAm hEmIm) (hEme hEmyO) (hEmAH hEmIH) (hEmayA hEmyA) (hEmAByAm hEmIByAm) (hEmABiH hEmIBiH) (hEmAyE hEmyE) (hEmAByAm hEmIByAm) (hEmAByaH hEmIByaH) (hEmAyAH hEmyAH) (hEmAByAm hEmIByAm) (hEmAByaH hEmIByaH) (hEmAyAH hEmyAH) (hEmayoH hEmyoH) (hEmAnAm hEmInAm) (hEmAyAm hEmyAm) (hEmayoH hEmyoH) (hEmAsu hEmIzu) nil nil nil]
+                 hEma m:[hEmaH hEmO hEmAH hEmam hEmO hEmAn hEmena hEmAByAm hEmEH hEmAya hEmAByAm hEmeByaH hEmAt hEmAByAm hEmeByaH hEmasya hEmayoH hEmAnAm hEme hEmayoH hEmezu nil nil nil]
+                 hEma n:[hEmam hEme hEmAni hEmam hEme hEmAni hEmena hEmAByAm hEmEH hEmAya hEmAByAm hEmeByaH hEmAt hEmAByAm hEmeByaH hEmasya hEmayoH hEmAnAm hEme hEmayoH hEmezu nil nil nil]
