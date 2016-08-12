@@ -90,6 +90,6 @@ The programmatic comparison are in files
 * [huet_mwstems.txt](https://github.com/funderburkjim/elispsanskrit/blob/master/huetcompare/nouns/huet_mwstems.txt) is based on all the noun stems from Huet's SL_nouns.xml document. For each of Huet's stems, a matching record from either MW-noun.txt or MW-adj.txt is summarized.  For non-matching stems, an identifiable phrase is shown.
 * [compare_noun_tables.txt](https://github.com/funderburkjim/elispsanskrit/blob/master/huetcompare/nouns/compare_noun_tables.txt) summarizes the differences in declension for the stems and genders of huet_mwstems.txt.  
 
-See [issue#7](https://github.com/funderburkjim/elispsanskrit/issues/7) for some discussion of the comparison.
+See [issue#6](https://github.com/funderburkjim/elispsanskrit/issues/6) for some discussion of the comparison.
 
 * THE END
