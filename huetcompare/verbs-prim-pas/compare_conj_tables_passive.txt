@@ -1,0 +1,4327 @@
+akz im PASSIVE: identical
+akz ip PASSIVE: identical
+akz op PASSIVE: identical
+akz pr PASSIVE: identical
+aNg im PASSIVE: identical
+aNg ip PASSIVE: identical
+aNg op PASSIVE: identical
+aNg pr PASSIVE: identical
+aj im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Ajyata != avIyata (pysan)
+     3d (huet) AjyetAm != avIyetAm (pysan)
+     3p (huet) Ajyanta != avIyanta (pysan)
+     2s (huet) AjyaTAH != avIyaTAH (pysan)
+     2d (huet) AjyeTAm != avIyeTAm (pysan)
+     2p (huet) AjyaDvam != avIyaDvam (pysan)
+     1s (huet) Ajye != avIye (pysan)
+     1d (huet) AjyAvahi != avIyAvahi (pysan)
+     1p (huet) AjyAmahi != avIyAmahi (pysan)
+aj ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajyatAm != vIyatAm (pysan)
+     3d (huet) ajyetAm != vIyetAm (pysan)
+     3p (huet) ajyantAm != vIyantAm (pysan)
+     2s (huet) ajyasva != vIyasva (pysan)
+     2d (huet) ajyeTAm != vIyeTAm (pysan)
+     2p (huet) ajyaDvam != vIyaDvam (pysan)
+     1s (huet) ajyE != vIyE (pysan)
+     1d (huet) ajyAvahE != vIyAvahE (pysan)
+     1p (huet) ajyAmahE != vIyAmahE (pysan)
+aj op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajyeta != vIyeta (pysan)
+     3d (huet) ajyeyAtAm != vIyeyAtAm (pysan)
+     3p (huet) ajyeran != vIyeran (pysan)
+     2s (huet) ajyeTAH != vIyeTAH (pysan)
+     2d (huet) ajyeyATAm != vIyeyATAm (pysan)
+     2p (huet) ajyeDvam != vIyeDvam (pysan)
+     1s (huet) ajyeya != vIyeya (pysan)
+     1d (huet) ajyevahi != vIyevahi (pysan)
+     1p (huet) ajyemahi != vIyemahi (pysan)
+aj pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajyate != vIyate (pysan)
+     3d (huet) ajyete != vIyete (pysan)
+     3p (huet) ajyante != vIyante (pysan)
+     2s (huet) ajyase != vIyase (pysan)
+     2d (huet) ajyeTe != vIyeTe (pysan)
+     2p (huet) ajyaDve != vIyaDve (pysan)
+     1s (huet) ajye != vIye (pysan)
+     1d (huet) ajyAvahe != vIyAvahe (pysan)
+     1p (huet) ajyAmahe != vIyAmahe (pysan)
+aYc im PASSIVE: identical
+aYc ip PASSIVE: identical
+aYc op PASSIVE: identical
+aYc pr PASSIVE: identical
+aYj im PASSIVE: identical
+aYj ip PASSIVE: identical
+aYj op PASSIVE: identical
+aYj pr PASSIVE: identical
+aw im PASSIVE: identical
+aw ip PASSIVE: identical
+aw op PASSIVE: identical
+aw pr PASSIVE: identical
+at im PASSIVE: identical
+at ip PASSIVE: identical
+at op PASSIVE: identical
+at pr PASSIVE: identical
+ad im PASSIVE: identical
+ad ip PASSIVE: identical
+ad op PASSIVE: identical
+ad pr PASSIVE: identical
+am im PASSIVE: identical
+am ip PASSIVE: identical
+am op PASSIVE: identical
+am pr PASSIVE: identical
+arT im PASSIVE: identical
+arT ip PASSIVE: identical
+arT op PASSIVE: identical
+arT pr PASSIVE: identical
+ard im PASSIVE: identical
+ard ip PASSIVE: identical
+ard op PASSIVE: identical
+ard pr PASSIVE: identical
+arh im PASSIVE: identical
+arh ip PASSIVE: identical
+arh op PASSIVE: identical
+arh pr PASSIVE: identical
+av im PASSIVE: identical
+av ip PASSIVE: identical
+av op PASSIVE: identical
+av pr PASSIVE: identical
+aS im PASSIVE: identical
+aS ip PASSIVE: identical
+aS op PASSIVE: identical
+aS pr PASSIVE: identical
+as im PASSIVE: identical
+as ip PASSIVE: identical
+as op PASSIVE: identical
+as pr PASSIVE: identical
+Ap im PASSIVE: identical
+Ap ip PASSIVE: identical
+Ap op PASSIVE: identical
+Ap pr PASSIVE: identical
+As im PASSIVE: identical
+As ip PASSIVE: identical
+As op PASSIVE: identical
+As pr PASSIVE: identical
+i im PASSIVE: identical
+i ip PASSIVE: identical
+i op PASSIVE: identical
+i pr PASSIVE: identical
+iNg im PASSIVE: identical
+iNg ip PASSIVE: identical
+iNg op PASSIVE: identical
+iNg pr PASSIVE: identical
+in im PASSIVE: identical
+in ip PASSIVE: identical
+in op PASSIVE: identical
+in pr PASSIVE: identical
+ind im PASSIVE: identical
+ind ip PASSIVE: identical
+ind op PASSIVE: identical
+ind pr PASSIVE: identical
+inD im PASSIVE: identical
+inD ip PASSIVE: identical
+inD op PASSIVE: identical
+inD pr PASSIVE: identical
+inv im PASSIVE: identical
+inv ip PASSIVE: identical
+inv op PASSIVE: identical
+inv pr PASSIVE: identical
+il im PASSIVE: identical
+il ip PASSIVE: identical
+il op PASSIVE: identical
+il pr PASSIVE: identical
+iz im PASSIVE: identical
+iz ip PASSIVE: identical
+iz op PASSIVE: identical
+iz pr PASSIVE: identical
+Ikz im PASSIVE: identical
+Ikz ip PASSIVE: identical
+Ikz op PASSIVE: identical
+Ikz pr PASSIVE: identical
+INK im PASSIVE: identical
+INK ip PASSIVE: identical
+INK op PASSIVE: identical
+INK pr PASSIVE: identical
+Iq im PASSIVE: identical
+Iq ip PASSIVE: identical
+Iq op PASSIVE: identical
+Iq pr PASSIVE: identical
+Ir im PASSIVE: identical
+Ir ip PASSIVE: identical
+Ir op PASSIVE: identical
+Ir pr PASSIVE: identical
+Irz im PASSIVE: identical
+Irz ip PASSIVE: identical
+Irz op PASSIVE: identical
+Irz pr PASSIVE: identical
+Iz im PASSIVE: identical
+Iz ip PASSIVE: identical
+Iz op PASSIVE: identical
+Iz pr PASSIVE: identical
+Ih im PASSIVE: identical
+Ih ip PASSIVE: identical
+Ih op PASSIVE: identical
+Ih pr PASSIVE: identical
+ukz im PASSIVE: identical
+ukz ip PASSIVE: identical
+ukz op PASSIVE: identical
+ukz pr PASSIVE: identical
+ujJ im PASSIVE: identical
+ujJ ip PASSIVE: identical
+ujJ op PASSIVE: identical
+ujJ pr PASSIVE: identical
+uYC im PASSIVE: identical
+uYC ip PASSIVE: identical
+uYC op PASSIVE: identical
+uYC pr PASSIVE: identical
+utkaRW im PASSIVE: identical
+utkaRW ip PASSIVE: identical
+utkaRW op PASSIVE: identical
+utkaRW pr PASSIVE: identical
+und im PASSIVE: identical
+und ip PASSIVE: identical
+und op PASSIVE: identical
+und pr PASSIVE: identical
+umB im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) OByata != OmByata (pysan)
+     3d (huet) OByetAm != OmByetAm (pysan)
+     3p (huet) OByanta != OmByanta (pysan)
+     2s (huet) OByaTAH != OmByaTAH (pysan)
+     2d (huet) OByeTAm != OmByeTAm (pysan)
+     2p (huet) OByaDvam != OmByaDvam (pysan)
+     1s (huet) OBye != OmBye (pysan)
+     1d (huet) OByAvahi != OmByAvahi (pysan)
+     1p (huet) OByAmahi != OmByAmahi (pysan)
+umB ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uByatAm != umByatAm (pysan)
+     3d (huet) uByetAm != umByetAm (pysan)
+     3p (huet) uByantAm != umByantAm (pysan)
+     2s (huet) uByasva != umByasva (pysan)
+     2d (huet) uByeTAm != umByeTAm (pysan)
+     2p (huet) uByaDvam != umByaDvam (pysan)
+     1s (huet) uByE != umByE (pysan)
+     1d (huet) uByAvahE != umByAvahE (pysan)
+     1p (huet) uByAmahE != umByAmahE (pysan)
+umB op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uByeta != umByeta (pysan)
+     3d (huet) uByeyAtAm != umByeyAtAm (pysan)
+     3p (huet) uByeran != umByeran (pysan)
+     2s (huet) uByeTAH != umByeTAH (pysan)
+     2d (huet) uByeyATAm != umByeyATAm (pysan)
+     2p (huet) uByeDvam != umByeDvam (pysan)
+     1s (huet) uByeya != umByeya (pysan)
+     1d (huet) uByevahi != umByevahi (pysan)
+     1p (huet) uByemahi != umByemahi (pysan)
+umB pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uByate != umByate (pysan)
+     3d (huet) uByete != umByete (pysan)
+     3p (huet) uByante != umByante (pysan)
+     2s (huet) uByase != umByase (pysan)
+     2d (huet) uByeTe != umByeTe (pysan)
+     2p (huet) uByaDve != umByaDve (pysan)
+     1s (huet) uBye != umBye (pysan)
+     1d (huet) uByAvahe != umByAvahe (pysan)
+     1p (huet) uByAmahe != umByAmahe (pysan)
+uruz im PASSIVE: identical
+uruz ip PASSIVE: identical
+uruz op PASSIVE: identical
+uruz pr PASSIVE: identical
+uz im PASSIVE: identical
+uz ip PASSIVE: identical
+uz op PASSIVE: identical
+uz pr PASSIVE: identical
+Uh im PASSIVE: identical
+Uh ip PASSIVE: identical
+Uh op PASSIVE: identical
+Uh pr PASSIVE: identical
+f im PASSIVE: identical
+f ip PASSIVE: identical
+f op PASSIVE: identical
+f pr PASSIVE: identical
+fc im PASSIVE: identical
+fc ip PASSIVE: identical
+fc op PASSIVE: identical
+fc pr PASSIVE: identical
+fj im PASSIVE: identical
+fj ip PASSIVE: identical
+fj op PASSIVE: identical
+fj pr PASSIVE: identical
+fD im PASSIVE: identical
+fD ip PASSIVE: identical
+fD op PASSIVE: identical
+fD pr PASSIVE: identical
+fz im PASSIVE: identical
+fz ip PASSIVE: identical
+fz op PASSIVE: identical
+fz pr PASSIVE: identical
+ej im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Ejyata != ejyata (pysan)
+     3d (huet) EjyetAm != ejyetAm (pysan)
+     3p (huet) Ejyanta != ejyanta (pysan)
+     2s (huet) EjyaTAH != ejyaTAH (pysan)
+     2d (huet) EjyeTAm != ejyeTAm (pysan)
+     2p (huet) EjyaDvam != ejyaDvam (pysan)
+     1s (huet) Ejye != ejye (pysan)
+     1d (huet) EjyAvahi != ejyAvahi (pysan)
+     1p (huet) EjyAmahi != ejyAmahi (pysan)
+ej ip PASSIVE: identical
+ej op PASSIVE: identical
+ej pr PASSIVE: identical
+eD im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) EDyata != eDyata (pysan)
+     3d (huet) EDyetAm != eDyetAm (pysan)
+     3p (huet) EDyanta != eDyanta (pysan)
+     2s (huet) EDyaTAH != eDyaTAH (pysan)
+     2d (huet) EDyeTAm != eDyeTAm (pysan)
+     2p (huet) EDyaDvam != eDyaDvam (pysan)
+     1s (huet) EDye != eDye (pysan)
+     1d (huet) EDyAvahi != eDyAvahi (pysan)
+     1p (huet) EDyAmahi != eDyAmahi (pysan)
+eD ip PASSIVE: identical
+eD op PASSIVE: identical
+eD pr PASSIVE: identical
+kaRq im PASSIVE: identical
+kaRq ip PASSIVE: identical
+kaRq op PASSIVE: identical
+kaRq pr PASSIVE: identical
+katT im PASSIVE: identical
+katT ip PASSIVE: identical
+katT op PASSIVE: identical
+katT pr PASSIVE: identical
+kaT im PASSIVE: identical
+kaT ip PASSIVE: identical
+kaT op PASSIVE: identical
+kaT pr PASSIVE: identical
+kamp im PASSIVE: identical
+kamp ip PASSIVE: identical
+kamp op PASSIVE: identical
+kamp pr PASSIVE: identical
+kal im PASSIVE: identical
+kal ip PASSIVE: identical
+kal op PASSIVE: identical
+kal pr PASSIVE: identical
+kaz im PASSIVE: identical
+kaz ip PASSIVE: identical
+kaz op PASSIVE: identical
+kaz pr PASSIVE: identical
+kas im PASSIVE: identical
+kas ip PASSIVE: identical
+kas op PASSIVE: identical
+kas pr PASSIVE: identical
+kANkz im PASSIVE: identical
+kANkz ip PASSIVE: identical
+kANkz op PASSIVE: identical
+kANkz pr PASSIVE: identical
+kAS im PASSIVE: identical
+kAS ip PASSIVE: identical
+kAS op PASSIVE: identical
+kAS pr PASSIVE: identical
+kIrt im PASSIVE: identical
+kIrt ip PASSIVE: identical
+kIrt op PASSIVE: identical
+kIrt pr PASSIVE: identical
+kIl im PASSIVE: identical
+kIl ip PASSIVE: identical
+kIl op PASSIVE: identical
+kIl pr PASSIVE: identical
+kuc im PASSIVE: identical
+kuc ip PASSIVE: identical
+kuc op PASSIVE: identical
+kuc pr PASSIVE: identical
+kuw im PASSIVE: identical
+kuw ip PASSIVE: identical
+kuw op PASSIVE: identical
+kuw pr PASSIVE: identical
+kuRW im PASSIVE: identical
+kuRW ip PASSIVE: identical
+kuRW op PASSIVE: identical
+kuRW pr PASSIVE: identical
+kuRq im PASSIVE: identical
+kuRq ip PASSIVE: identical
+kuRq op PASSIVE: identical
+kuRq pr PASSIVE: identical
+kuts im PASSIVE: identical
+kuts ip PASSIVE: identical
+kuts op PASSIVE: identical
+kuts pr PASSIVE: identical
+kunT im PASSIVE: identical
+kunT ip PASSIVE: identical
+kunT op PASSIVE: identical
+kunT pr PASSIVE: identical
+kup im PASSIVE: identical
+kup ip PASSIVE: identical
+kup op PASSIVE: identical
+kup pr PASSIVE: identical
+kul im PASSIVE: identical
+kul ip PASSIVE: identical
+kul op PASSIVE: identical
+kul pr PASSIVE: identical
+kUj im PASSIVE: identical
+kUj ip PASSIVE: identical
+kUj op PASSIVE: identical
+kUj pr PASSIVE: identical
+kf im PASSIVE: identical
+kf ip PASSIVE: identical
+kf op PASSIVE: identical
+kf pr PASSIVE: identical
+kft im PASSIVE: identical
+kft ip PASSIVE: identical
+kft op PASSIVE: identical
+kft pr PASSIVE: identical
+kfp im PASSIVE: identical
+kfp ip PASSIVE: identical
+kfp op PASSIVE: identical
+kfp pr PASSIVE: identical
+kfS im PASSIVE: identical
+kfS ip PASSIVE: identical
+kfS op PASSIVE: identical
+kfS pr PASSIVE: identical
+kfz im PASSIVE: identical
+kfz ip PASSIVE: identical
+kfz op PASSIVE: identical
+kfz pr PASSIVE: identical
+kF im PASSIVE: identical
+kF ip PASSIVE: identical
+kF op PASSIVE: identical
+kF pr PASSIVE: identical
+krand im PASSIVE: identical
+krand ip PASSIVE: identical
+krand op PASSIVE: identical
+krand pr PASSIVE: identical
+kram im PASSIVE: identical
+kram ip PASSIVE: identical
+kram op PASSIVE: identical
+kram pr PASSIVE: identical
+krI im PASSIVE: identical
+krI ip PASSIVE: identical
+krI op PASSIVE: identical
+krI pr PASSIVE: identical
+krIq im PASSIVE: identical
+krIq ip PASSIVE: identical
+krIq op PASSIVE: identical
+krIq pr PASSIVE: identical
+kruYc im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) akrucyata != akruYcyata (pysan)
+     3d (huet) akrucyetAm != akruYcyetAm (pysan)
+     3p (huet) akrucyanta != akruYcyanta (pysan)
+     2s (huet) akrucyaTAH != akruYcyaTAH (pysan)
+     2d (huet) akrucyeTAm != akruYcyeTAm (pysan)
+     2p (huet) akrucyaDvam != akruYcyaDvam (pysan)
+     1s (huet) akrucye != akruYcye (pysan)
+     1d (huet) akrucyAvahi != akruYcyAvahi (pysan)
+     1p (huet) akrucyAmahi != akruYcyAmahi (pysan)
+kruYc ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) krucyatAm != kruYcyatAm (pysan)
+     3d (huet) krucyetAm != kruYcyetAm (pysan)
+     3p (huet) krucyantAm != kruYcyantAm (pysan)
+     2s (huet) krucyasva != kruYcyasva (pysan)
+     2d (huet) krucyeTAm != kruYcyeTAm (pysan)
+     2p (huet) krucyaDvam != kruYcyaDvam (pysan)
+     1s (huet) krucyE != kruYcyE (pysan)
+     1d (huet) krucyAvahE != kruYcyAvahE (pysan)
+     1p (huet) krucyAmahE != kruYcyAmahE (pysan)
+kruYc op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) krucyeta != kruYcyeta (pysan)
+     3d (huet) krucyeyAtAm != kruYcyeyAtAm (pysan)
+     3p (huet) krucyeran != kruYcyeran (pysan)
+     2s (huet) krucyeTAH != kruYcyeTAH (pysan)
+     2d (huet) krucyeyATAm != kruYcyeyATAm (pysan)
+     2p (huet) krucyeDvam != kruYcyeDvam (pysan)
+     1s (huet) krucyeya != kruYcyeya (pysan)
+     1d (huet) krucyevahi != kruYcyevahi (pysan)
+     1p (huet) krucyemahi != kruYcyemahi (pysan)
+kruYc pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) krucyate != kruYcyate (pysan)
+     3d (huet) krucyete != kruYcyete (pysan)
+     3p (huet) krucyante != kruYcyante (pysan)
+     2s (huet) krucyase != kruYcyase (pysan)
+     2d (huet) krucyeTe != kruYcyeTe (pysan)
+     2p (huet) krucyaDve != kruYcyaDve (pysan)
+     1s (huet) krucye != kruYcye (pysan)
+     1d (huet) krucyAvahe != kruYcyAvahe (pysan)
+     1p (huet) krucyAmahe != kruYcyAmahe (pysan)
+kruD im PASSIVE: identical
+kruD ip PASSIVE: identical
+kruD op PASSIVE: identical
+kruD pr PASSIVE: identical
+kruS im PASSIVE: identical
+kruS ip PASSIVE: identical
+kruS op PASSIVE: identical
+kruS pr PASSIVE: identical
+klam im PASSIVE: identical
+klam ip PASSIVE: identical
+klam op PASSIVE: identical
+klam pr PASSIVE: identical
+klav im PASSIVE: identical
+klav ip PASSIVE: identical
+klav op PASSIVE: identical
+klav pr PASSIVE: identical
+klid im PASSIVE: identical
+klid ip PASSIVE: identical
+klid op PASSIVE: identical
+klid pr PASSIVE: identical
+kliS im PASSIVE: identical
+kliS ip PASSIVE: identical
+kliS op PASSIVE: identical
+kliS pr PASSIVE: identical
+klIba im PASSIVE: identical
+klIba ip PASSIVE: identical
+klIba op PASSIVE: identical
+klIba pr PASSIVE: identical
+kvaT im PASSIVE: identical
+kvaT ip PASSIVE: identical
+kvaT op PASSIVE: identical
+kvaT pr PASSIVE: identical
+kzad im PASSIVE: identical
+kzad ip PASSIVE: identical
+kzad op PASSIVE: identical
+kzad pr PASSIVE: identical
+kzan im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) akzanyata != akzaRyata (pysan)
+     3d (huet) akzanyetAm != akzaRyetAm (pysan)
+     3p (huet) akzanyanta != akzaRyanta (pysan)
+     2s (huet) akzanyaTAH != akzaRyaTAH (pysan)
+     2d (huet) akzanyeTAm != akzaRyeTAm (pysan)
+     2p (huet) akzanyaDvam != akzaRyaDvam (pysan)
+     1s (huet) akzanye != akzaRye (pysan)
+     1d (huet) akzanyAvahi != akzaRyAvahi (pysan)
+     1p (huet) akzanyAmahi != akzaRyAmahi (pysan)
+kzan ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzanyatAm != kzaRyatAm (pysan)
+     3d (huet) kzanyetAm != kzaRyetAm (pysan)
+     3p (huet) kzanyantAm != kzaRyantAm (pysan)
+     2s (huet) kzanyasva != kzaRyasva (pysan)
+     2d (huet) kzanyeTAm != kzaRyeTAm (pysan)
+     2p (huet) kzanyaDvam != kzaRyaDvam (pysan)
+     1s (huet) kzanyE != kzaRyE (pysan)
+     1d (huet) kzanyAvahE != kzaRyAvahE (pysan)
+     1p (huet) kzanyAmahE != kzaRyAmahE (pysan)
+kzan op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzanyeta != kzaRyeta (pysan)
+     3d (huet) kzanyeyAtAm != kzaRyeyAtAm (pysan)
+     3p (huet) kzanyeran != kzaRyeran (pysan)
+     2s (huet) kzanyeTAH != kzaRyeTAH (pysan)
+     2d (huet) kzanyeyATAm != kzaRyeyATAm (pysan)
+     2p (huet) kzanyeDvam != kzaRyeDvam (pysan)
+     1s (huet) kzanyeya != kzaRyeya (pysan)
+     1d (huet) kzanyevahi != kzaRyevahi (pysan)
+     1p (huet) kzanyemahi != kzaRyemahi (pysan)
+kzan pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzanyate != kzaRyate (pysan)
+     3d (huet) kzanyete != kzaRyete (pysan)
+     3p (huet) kzanyante != kzaRyante (pysan)
+     2s (huet) kzanyase != kzaRyase (pysan)
+     2d (huet) kzanyeTe != kzaRyeTe (pysan)
+     2p (huet) kzanyaDve != kzaRyaDve (pysan)
+     1s (huet) kzanye != kzaRye (pysan)
+     1d (huet) kzanyAvahe != kzaRyAvahe (pysan)
+     1p (huet) kzanyAmahe != kzaRyAmahe (pysan)
+kzap im PASSIVE: identical
+kzap ip PASSIVE: identical
+kzap op PASSIVE: identical
+kzap pr PASSIVE: identical
+kzam im PASSIVE: identical
+kzam ip PASSIVE: identical
+kzam op PASSIVE: identical
+kzam pr PASSIVE: identical
+kzar im PASSIVE: identical
+kzar ip PASSIVE: identical
+kzar op PASSIVE: identical
+kzar pr PASSIVE: identical
+kzip im PASSIVE: identical
+kzip ip PASSIVE: identical
+kzip op PASSIVE: identical
+kzip pr PASSIVE: identical
+kzI im PASSIVE: identical
+kzI ip PASSIVE: identical
+kzI op PASSIVE: identical
+kzI pr PASSIVE: identical
+kzu im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) akzuyata != akzUyata (pysan)
+     3d (huet) akzuyetAm != akzUyetAm (pysan)
+     3p (huet) akzuyanta != akzUyanta (pysan)
+     2s (huet) akzuyaTAH != akzUyaTAH (pysan)
+     2d (huet) akzuyeTAm != akzUyeTAm (pysan)
+     2p (huet) akzuyaDvam != akzUyaDvam (pysan)
+     1s (huet) akzuye != akzUye (pysan)
+     1d (huet) akzuyAvahi != akzUyAvahi (pysan)
+     1p (huet) akzuyAmahi != akzUyAmahi (pysan)
+kzu ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzuyatAm != kzUyatAm (pysan)
+     3d (huet) kzuyetAm != kzUyetAm (pysan)
+     3p (huet) kzuyantAm != kzUyantAm (pysan)
+     2s (huet) kzuyasva != kzUyasva (pysan)
+     2d (huet) kzuyeTAm != kzUyeTAm (pysan)
+     2p (huet) kzuyaDvam != kzUyaDvam (pysan)
+     1s (huet) kzuyE != kzUyE (pysan)
+     1d (huet) kzuyAvahE != kzUyAvahE (pysan)
+     1p (huet) kzuyAmahE != kzUyAmahE (pysan)
+kzu op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzuyeta != kzUyeta (pysan)
+     3d (huet) kzuyeyAtAm != kzUyeyAtAm (pysan)
+     3p (huet) kzuyeran != kzUyeran (pysan)
+     2s (huet) kzuyeTAH != kzUyeTAH (pysan)
+     2d (huet) kzuyeyATAm != kzUyeyATAm (pysan)
+     2p (huet) kzuyeDvam != kzUyeDvam (pysan)
+     1s (huet) kzuyeya != kzUyeya (pysan)
+     1d (huet) kzuyevahi != kzUyevahi (pysan)
+     1p (huet) kzuyemahi != kzUyemahi (pysan)
+kzu pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzuyate != kzUyate (pysan)
+     3d (huet) kzuyete != kzUyete (pysan)
+     3p (huet) kzuyante != kzUyante (pysan)
+     2s (huet) kzuyase != kzUyase (pysan)
+     2d (huet) kzuyeTe != kzUyeTe (pysan)
+     2p (huet) kzuyaDve != kzUyaDve (pysan)
+     1s (huet) kzuye != kzUye (pysan)
+     1d (huet) kzuyAvahe != kzUyAvahe (pysan)
+     1p (huet) kzuyAmahe != kzUyAmahe (pysan)
+kzud im PASSIVE: identical
+kzud ip PASSIVE: identical
+kzud op PASSIVE: identical
+kzud pr PASSIVE: identical
+kzuD im PASSIVE: identical
+kzuD ip PASSIVE: identical
+kzuD op PASSIVE: identical
+kzuD pr PASSIVE: identical
+kzuB im PASSIVE: identical
+kzuB ip PASSIVE: identical
+kzuB op PASSIVE: identical
+kzuB pr PASSIVE: identical
+kzviq im PASSIVE: identical
+kzviq ip PASSIVE: identical
+kzviq op PASSIVE: identical
+kzviq pr PASSIVE: identical
+Kan im PASSIVE: identical
+Kan ip PASSIVE: identical
+Kan op PASSIVE: identical
+Kan pr PASSIVE: identical
+KAd im PASSIVE: identical
+KAd ip PASSIVE: identical
+KAd op PASSIVE: identical
+KAd pr PASSIVE: identical
+Kid im PASSIVE: identical
+Kid ip PASSIVE: identical
+Kid op PASSIVE: identical
+Kid pr PASSIVE: identical
+Kel im PASSIVE: identical
+Kel ip PASSIVE: identical
+Kel op PASSIVE: identical
+Kel pr PASSIVE: identical
+KyA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aKIyata != aKyAyata (pysan)
+     3d (huet) aKIyetAm != aKyAyetAm (pysan)
+     3p (huet) aKIyanta != aKyAyanta (pysan)
+     2s (huet) aKIyaTAH != aKyAyaTAH (pysan)
+     2d (huet) aKIyeTAm != aKyAyeTAm (pysan)
+     2p (huet) aKIyaDvam != aKyAyaDvam (pysan)
+     1s (huet) aKIye != aKyAye (pysan)
+     1d (huet) aKIyAvahi != aKyAyAvahi (pysan)
+     1p (huet) aKIyAmahi != aKyAyAmahi (pysan)
+KyA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) KIyatAm != KyAyatAm (pysan)
+     3d (huet) KIyetAm != KyAyetAm (pysan)
+     3p (huet) KIyantAm != KyAyantAm (pysan)
+     2s (huet) KIyasva != KyAyasva (pysan)
+     2d (huet) KIyeTAm != KyAyeTAm (pysan)
+     2p (huet) KIyaDvam != KyAyaDvam (pysan)
+     1s (huet) KIyE != KyAyE (pysan)
+     1d (huet) KIyAvahE != KyAyAvahE (pysan)
+     1p (huet) KIyAmahE != KyAyAmahE (pysan)
+KyA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) KIyeta != KyAyeta (pysan)
+     3d (huet) KIyeyAtAm != KyAyeyAtAm (pysan)
+     3p (huet) KIyeran != KyAyeran (pysan)
+     2s (huet) KIyeTAH != KyAyeTAH (pysan)
+     2d (huet) KIyeyATAm != KyAyeyATAm (pysan)
+     2p (huet) KIyeDvam != KyAyeDvam (pysan)
+     1s (huet) KIyeya != KyAyeya (pysan)
+     1d (huet) KIyevahi != KyAyevahi (pysan)
+     1p (huet) KIyemahi != KyAyemahi (pysan)
+KyA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) KIyate != KyAyate (pysan)
+     3d (huet) KIyete != KyAyete (pysan)
+     3p (huet) KIyante != KyAyante (pysan)
+     2s (huet) KIyase != KyAyase (pysan)
+     2d (huet) KIyeTe != KyAyeTe (pysan)
+     2p (huet) KIyaDve != KyAyaDve (pysan)
+     1s (huet) KIye != KyAye (pysan)
+     1d (huet) KIyAvahe != KyAyAvahe (pysan)
+     1p (huet) KIyAmahe != KyAyAmahe (pysan)
+gaj im PASSIVE: identical
+gaj ip PASSIVE: identical
+gaj op PASSIVE: identical
+gaj pr PASSIVE: identical
+gaR im PASSIVE: identical
+gaR ip PASSIVE: identical
+gaR op PASSIVE: identical
+gaR pr PASSIVE: identical
+gad im PASSIVE: identical
+gad ip PASSIVE: identical
+gad op PASSIVE: identical
+gad pr PASSIVE: identical
+gam im PASSIVE: identical
+gam ip PASSIVE: identical
+gam op PASSIVE: identical
+gam pr PASSIVE: identical
+garj im PASSIVE: identical
+garj ip PASSIVE: identical
+garj op PASSIVE: identical
+garj pr PASSIVE: identical
+gard im PASSIVE: identical
+gard ip PASSIVE: identical
+gard op PASSIVE: identical
+gard pr PASSIVE: identical
+garh im PASSIVE: identical
+garh ip PASSIVE: identical
+garh op PASSIVE: identical
+garh pr PASSIVE: identical
+gal im PASSIVE: identical
+gal ip PASSIVE: identical
+gal op PASSIVE: identical
+gal pr PASSIVE: identical
+galB im PASSIVE: identical
+galB ip PASSIVE: identical
+galB op PASSIVE: identical
+galB pr PASSIVE: identical
+gavez im PASSIVE: identical
+gavez ip PASSIVE: identical
+gavez op PASSIVE: identical
+gavez pr PASSIVE: identical
+gA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) agIyata != agAyata (pysan)
+     3d (huet) agIyetAm != agAyetAm (pysan)
+     3p (huet) agIyanta != agAyanta (pysan)
+     2s (huet) agIyaTAH != agAyaTAH (pysan)
+     2d (huet) agIyeTAm != agAyeTAm (pysan)
+     2p (huet) agIyaDvam != agAyaDvam (pysan)
+     1s (huet) agIye != agAye (pysan)
+     1d (huet) agIyAvahi != agAyAvahi (pysan)
+     1p (huet) agIyAmahi != agAyAmahi (pysan)
+gA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gIyatAm != gAyatAm (pysan)
+     3d (huet) gIyetAm != gAyetAm (pysan)
+     3p (huet) gIyantAm != gAyantAm (pysan)
+     2s (huet) gIyasva != gAyasva (pysan)
+     2d (huet) gIyeTAm != gAyeTAm (pysan)
+     2p (huet) gIyaDvam != gAyaDvam (pysan)
+     1s (huet) gIyE != gAyE (pysan)
+     1d (huet) gIyAvahE != gAyAvahE (pysan)
+     1p (huet) gIyAmahE != gAyAmahE (pysan)
+gA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gIyeta != gAyeta (pysan)
+     3d (huet) gIyeyAtAm != gAyeyAtAm (pysan)
+     3p (huet) gIyeran != gAyeran (pysan)
+     2s (huet) gIyeTAH != gAyeTAH (pysan)
+     2d (huet) gIyeyATAm != gAyeyATAm (pysan)
+     2p (huet) gIyeDvam != gAyeDvam (pysan)
+     1s (huet) gIyeya != gAyeya (pysan)
+     1d (huet) gIyevahi != gAyevahi (pysan)
+     1p (huet) gIyemahi != gAyemahi (pysan)
+gA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gIyate != gAyate (pysan)
+     3d (huet) gIyete != gAyete (pysan)
+     3p (huet) gIyante != gAyante (pysan)
+     2s (huet) gIyase != gAyase (pysan)
+     2d (huet) gIyeTe != gAyeTe (pysan)
+     2p (huet) gIyaDve != gAyaDve (pysan)
+     1s (huet) gIye != gAye (pysan)
+     1d (huet) gIyAvahe != gAyAvahe (pysan)
+     1p (huet) gIyAmahe != gAyAmahe (pysan)
+gAh im PASSIVE: identical
+gAh ip PASSIVE: identical
+gAh op PASSIVE: identical
+gAh pr PASSIVE: identical
+guYj im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) agujyata != aguYjyata (pysan)
+     3d (huet) agujyetAm != aguYjyetAm (pysan)
+     3p (huet) agujyanta != aguYjyanta (pysan)
+     2s (huet) agujyaTAH != aguYjyaTAH (pysan)
+     2d (huet) agujyeTAm != aguYjyeTAm (pysan)
+     2p (huet) agujyaDvam != aguYjyaDvam (pysan)
+     1s (huet) agujye != aguYjye (pysan)
+     1d (huet) agujyAvahi != aguYjyAvahi (pysan)
+     1p (huet) agujyAmahi != aguYjyAmahi (pysan)
+guYj ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gujyatAm != guYjyatAm (pysan)
+     3d (huet) gujyetAm != guYjyetAm (pysan)
+     3p (huet) gujyantAm != guYjyantAm (pysan)
+     2s (huet) gujyasva != guYjyasva (pysan)
+     2d (huet) gujyeTAm != guYjyeTAm (pysan)
+     2p (huet) gujyaDvam != guYjyaDvam (pysan)
+     1s (huet) gujyE != guYjyE (pysan)
+     1d (huet) gujyAvahE != guYjyAvahE (pysan)
+     1p (huet) gujyAmahE != guYjyAmahE (pysan)
+guYj op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gujyeta != guYjyeta (pysan)
+     3d (huet) gujyeyAtAm != guYjyeyAtAm (pysan)
+     3p (huet) gujyeran != guYjyeran (pysan)
+     2s (huet) gujyeTAH != guYjyeTAH (pysan)
+     2d (huet) gujyeyATAm != guYjyeyATAm (pysan)
+     2p (huet) gujyeDvam != guYjyeDvam (pysan)
+     1s (huet) gujyeya != guYjyeya (pysan)
+     1d (huet) gujyevahi != guYjyevahi (pysan)
+     1p (huet) gujyemahi != guYjyemahi (pysan)
+guYj pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gujyate != guYjyate (pysan)
+     3d (huet) gujyete != guYjyete (pysan)
+     3p (huet) gujyante != guYjyante (pysan)
+     2s (huet) gujyase != guYjyase (pysan)
+     2d (huet) gujyeTe != guYjyeTe (pysan)
+     2p (huet) gujyaDve != guYjyaDve (pysan)
+     1s (huet) gujye != guYjye (pysan)
+     1d (huet) gujyAvahe != guYjyAvahe (pysan)
+     1p (huet) gujyAmahe != guYjyAmahe (pysan)
+gup im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) agopyata != agopAyyata,agopyata,agupyata (pysan)
+     3d (huet) agopyetAm != agopAyyetAm,agopyetAm,agupyetAm (pysan)
+     3p (huet) agopyanta != agopAyyanta,agopyanta,agupyanta (pysan)
+     2s (huet) agopyaTAH != agopAyyaTAH,agopyaTAH,agupyaTAH (pysan)
+     2d (huet) agopyeTAm != agopAyyeTAm,agopyeTAm,agupyeTAm (pysan)
+     2p (huet) agopyaDvam != agopAyyaDvam,agopyaDvam,agupyaDvam (pysan)
+     1s (huet) agopye != agopAyye,agopye,agupye (pysan)
+     1d (huet) agopyAvahi != agopAyyAvahi,agopyAvahi,agupyAvahi (pysan)
+     1p (huet) agopyAmahi != agopAyyAmahi,agopyAmahi,agupyAmahi (pysan)
+gup ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gopyatAm != gopAyyatAm,gopyatAm,gupyatAm (pysan)
+     3d (huet) gopyetAm != gopAyyetAm,gopyetAm,gupyetAm (pysan)
+     3p (huet) gopyantAm != gopAyyantAm,gopyantAm,gupyantAm (pysan)
+     2s (huet) gopyasva != gopAyyasva,gopyasva,gupyasva (pysan)
+     2d (huet) gopyeTAm != gopAyyeTAm,gopyeTAm,gupyeTAm (pysan)
+     2p (huet) gopyaDvam != gopAyyaDvam,gopyaDvam,gupyaDvam (pysan)
+     1s (huet) gopyE != gopAyyE,gopyE,gupyE (pysan)
+     1d (huet) gopyAvahE != gopAyyAvahE,gopyAvahE,gupyAvahE (pysan)
+     1p (huet) gopyAmahE != gopAyyAmahE,gopyAmahE,gupyAmahE (pysan)
+gup op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gopyeta != gopAyyeta,gopyeta,gupyeta (pysan)
+     3d (huet) gopyeyAtAm != gopAyyeyAtAm,gopyeyAtAm,gupyeyAtAm (pysan)
+     3p (huet) gopyeran != gopAyyeran,gopyeran,gupyeran (pysan)
+     2s (huet) gopyeTAH != gopAyyeTAH,gopyeTAH,gupyeTAH (pysan)
+     2d (huet) gopyeyATAm != gopAyyeyATAm,gopyeyATAm,gupyeyATAm (pysan)
+     2p (huet) gopyeDvam != gopAyyeDvam,gopyeDvam,gupyeDvam (pysan)
+     1s (huet) gopyeya != gopAyyeya,gopyeya,gupyeya (pysan)
+     1d (huet) gopyevahi != gopAyyevahi,gopyevahi,gupyevahi (pysan)
+     1p (huet) gopyemahi != gopAyyemahi,gopyemahi,gupyemahi (pysan)
+gup pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gopyate != gopAyyate,gopyate,gupyate (pysan)
+     3d (huet) gopyete != gopAyyete,gopyete,gupyete (pysan)
+     3p (huet) gopyante != gopAyyante,gopyante,gupyante (pysan)
+     2s (huet) gopyase != gopAyyase,gopyase,gupyase (pysan)
+     2d (huet) gopyeTe != gopAyyeTe,gopyeTe,gupyeTe (pysan)
+     2p (huet) gopyaDve != gopAyyaDve,gopyaDve,gupyaDve (pysan)
+     1s (huet) gopye != gopAyye,gopye,gupye (pysan)
+     1d (huet) gopyAvahe != gopAyyAvahe,gopyAvahe,gupyAvahe (pysan)
+     1p (huet) gopyAmahe != gopAyyAmahe,gopyAmahe,gupyAmahe (pysan)
+gumP im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aguPyata != agumPyata (pysan)
+     3d (huet) aguPyetAm != agumPyetAm (pysan)
+     3p (huet) aguPyanta != agumPyanta (pysan)
+     2s (huet) aguPyaTAH != agumPyaTAH (pysan)
+     2d (huet) aguPyeTAm != agumPyeTAm (pysan)
+     2p (huet) aguPyaDvam != agumPyaDvam (pysan)
+     1s (huet) aguPye != agumPye (pysan)
+     1d (huet) aguPyAvahi != agumPyAvahi (pysan)
+     1p (huet) aguPyAmahi != agumPyAmahi (pysan)
+gumP ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) guPyatAm != gumPyatAm (pysan)
+     3d (huet) guPyetAm != gumPyetAm (pysan)
+     3p (huet) guPyantAm != gumPyantAm (pysan)
+     2s (huet) guPyasva != gumPyasva (pysan)
+     2d (huet) guPyeTAm != gumPyeTAm (pysan)
+     2p (huet) guPyaDvam != gumPyaDvam (pysan)
+     1s (huet) guPyE != gumPyE (pysan)
+     1d (huet) guPyAvahE != gumPyAvahE (pysan)
+     1p (huet) guPyAmahE != gumPyAmahE (pysan)
+gumP op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) guPyeta != gumPyeta (pysan)
+     3d (huet) guPyeyAtAm != gumPyeyAtAm (pysan)
+     3p (huet) guPyeran != gumPyeran (pysan)
+     2s (huet) guPyeTAH != gumPyeTAH (pysan)
+     2d (huet) guPyeyATAm != gumPyeyATAm (pysan)
+     2p (huet) guPyeDvam != gumPyeDvam (pysan)
+     1s (huet) guPyeya != gumPyeya (pysan)
+     1d (huet) guPyevahi != gumPyevahi (pysan)
+     1p (huet) guPyemahi != gumPyemahi (pysan)
+gumP pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) guPyate != gumPyate (pysan)
+     3d (huet) guPyete != gumPyete (pysan)
+     3p (huet) guPyante != gumPyante (pysan)
+     2s (huet) guPyase != gumPyase (pysan)
+     2d (huet) guPyeTe != gumPyeTe (pysan)
+     2p (huet) guPyaDve != gumPyaDve (pysan)
+     1s (huet) guPye != gumPye (pysan)
+     1d (huet) guPyAvahe != gumPyAvahe (pysan)
+     1p (huet) guPyAmahe != gumPyAmahe (pysan)
+gur im PASSIVE: identical
+gur ip PASSIVE: identical
+gur op PASSIVE: identical
+gur pr PASSIVE: identical
+guh im PASSIVE: identical
+guh ip PASSIVE: identical
+guh op PASSIVE: identical
+guh pr PASSIVE: identical
+gfD im PASSIVE: identical
+gfD ip PASSIVE: identical
+gfD op PASSIVE: identical
+gfD pr PASSIVE: identical
+gF im PASSIVE: identical
+gF ip PASSIVE: identical
+gF op PASSIVE: identical
+gF pr PASSIVE: identical
+granT im PASSIVE: identical
+granT ip PASSIVE: identical
+granT op PASSIVE: identical
+granT pr PASSIVE: identical
+gras im PASSIVE: identical
+gras ip PASSIVE: identical
+gras op PASSIVE: identical
+gras pr PASSIVE: identical
+grah im PASSIVE: identical
+grah ip PASSIVE: identical
+grah op PASSIVE: identical
+grah pr PASSIVE: identical
+glE im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aglIyata != aglAyata (pysan)
+     3d (huet) aglIyetAm != aglAyetAm (pysan)
+     3p (huet) aglIyanta != aglAyanta (pysan)
+     2s (huet) aglIyaTAH != aglAyaTAH (pysan)
+     2d (huet) aglIyeTAm != aglAyeTAm (pysan)
+     2p (huet) aglIyaDvam != aglAyaDvam (pysan)
+     1s (huet) aglIye != aglAye (pysan)
+     1d (huet) aglIyAvahi != aglAyAvahi (pysan)
+     1p (huet) aglIyAmahi != aglAyAmahi (pysan)
+glE ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) glIyatAm != glAyatAm (pysan)
+     3d (huet) glIyetAm != glAyetAm (pysan)
+     3p (huet) glIyantAm != glAyantAm (pysan)
+     2s (huet) glIyasva != glAyasva (pysan)
+     2d (huet) glIyeTAm != glAyeTAm (pysan)
+     2p (huet) glIyaDvam != glAyaDvam (pysan)
+     1s (huet) glIyE != glAyE (pysan)
+     1d (huet) glIyAvahE != glAyAvahE (pysan)
+     1p (huet) glIyAmahE != glAyAmahE (pysan)
+glE op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) glIyeta != glAyeta (pysan)
+     3d (huet) glIyeyAtAm != glAyeyAtAm (pysan)
+     3p (huet) glIyeran != glAyeran (pysan)
+     2s (huet) glIyeTAH != glAyeTAH (pysan)
+     2d (huet) glIyeyATAm != glAyeyATAm (pysan)
+     2p (huet) glIyeDvam != glAyeDvam (pysan)
+     1s (huet) glIyeya != glAyeya (pysan)
+     1d (huet) glIyevahi != glAyevahi (pysan)
+     1p (huet) glIyemahi != glAyemahi (pysan)
+glE pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) glIyate != glAyate (pysan)
+     3d (huet) glIyete != glAyete (pysan)
+     3p (huet) glIyante != glAyante (pysan)
+     2s (huet) glIyase != glAyase (pysan)
+     2d (huet) glIyeTe != glAyeTe (pysan)
+     2p (huet) glIyaDve != glAyaDve (pysan)
+     1s (huet) glIye != glAye (pysan)
+     1d (huet) glIyAvahe != glAyAvahe (pysan)
+     1p (huet) glIyAmahe != glAyAmahe (pysan)
+Gaw im PASSIVE: identical
+Gaw ip PASSIVE: identical
+Gaw op PASSIVE: identical
+Gaw pr PASSIVE: identical
+Gaww im PASSIVE: identical
+Gaww ip PASSIVE: identical
+Gaww op PASSIVE: identical
+Gaww pr PASSIVE: identical
+Guz im PASSIVE: identical
+Guz ip PASSIVE: identical
+Guz op PASSIVE: identical
+Guz pr PASSIVE: identical
+GUrR im PASSIVE: identical
+GUrR ip PASSIVE: identical
+GUrR op PASSIVE: identical
+GUrR pr PASSIVE: identical
+Gf im PASSIVE: identical
+Gf ip PASSIVE: identical
+Gf op PASSIVE: identical
+Gf pr PASSIVE: identical
+Gfz im PASSIVE: identical
+Gfz ip PASSIVE: identical
+Gfz op PASSIVE: identical
+Gfz pr PASSIVE: identical
+GrA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aGrIyata != aGrAyata (pysan)
+     3d (huet) aGrIyetAm != aGrAyetAm (pysan)
+     3p (huet) aGrIyanta != aGrAyanta (pysan)
+     2s (huet) aGrIyaTAH != aGrAyaTAH (pysan)
+     2d (huet) aGrIyeTAm != aGrAyeTAm (pysan)
+     2p (huet) aGrIyaDvam != aGrAyaDvam (pysan)
+     1s (huet) aGrIye != aGrAye (pysan)
+     1d (huet) aGrIyAvahi != aGrAyAvahi (pysan)
+     1p (huet) aGrIyAmahi != aGrAyAmahi (pysan)
+GrA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) GrIyatAm != GrAyatAm (pysan)
+     3d (huet) GrIyetAm != GrAyetAm (pysan)
+     3p (huet) GrIyantAm != GrAyantAm (pysan)
+     2s (huet) GrIyasva != GrAyasva (pysan)
+     2d (huet) GrIyeTAm != GrAyeTAm (pysan)
+     2p (huet) GrIyaDvam != GrAyaDvam (pysan)
+     1s (huet) GrIyE != GrAyE (pysan)
+     1d (huet) GrIyAvahE != GrAyAvahE (pysan)
+     1p (huet) GrIyAmahE != GrAyAmahE (pysan)
+GrA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) GrIyeta != GrAyeta (pysan)
+     3d (huet) GrIyeyAtAm != GrAyeyAtAm (pysan)
+     3p (huet) GrIyeran != GrAyeran (pysan)
+     2s (huet) GrIyeTAH != GrAyeTAH (pysan)
+     2d (huet) GrIyeyATAm != GrAyeyATAm (pysan)
+     2p (huet) GrIyeDvam != GrAyeDvam (pysan)
+     1s (huet) GrIyeya != GrAyeya (pysan)
+     1d (huet) GrIyevahi != GrAyevahi (pysan)
+     1p (huet) GrIyemahi != GrAyemahi (pysan)
+GrA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) GrIyate != GrAyate (pysan)
+     3d (huet) GrIyete != GrAyete (pysan)
+     3p (huet) GrIyante != GrAyante (pysan)
+     2s (huet) GrIyase != GrAyase (pysan)
+     2d (huet) GrIyeTe != GrAyeTe (pysan)
+     2p (huet) GrIyaDve != GrAyaDve (pysan)
+     1s (huet) GrIye != GrAye (pysan)
+     1d (huet) GrIyAvahe != GrAyAvahe (pysan)
+     1p (huet) GrIyAmahe != GrAyAmahe (pysan)
+cakAs im PASSIVE: identical
+cakAs ip PASSIVE: identical
+cakAs op PASSIVE: identical
+cakAs pr PASSIVE: identical
+cakz im PASSIVE: identical
+cakz ip PASSIVE: identical
+cakz op PASSIVE: identical
+cakz pr PASSIVE: identical
+caYc im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) acacyata != acaYcyata (pysan)
+     3d (huet) acacyetAm != acaYcyetAm (pysan)
+     3p (huet) acacyanta != acaYcyanta (pysan)
+     2s (huet) acacyaTAH != acaYcyaTAH (pysan)
+     2d (huet) acacyeTAm != acaYcyeTAm (pysan)
+     2p (huet) acacyaDvam != acaYcyaDvam (pysan)
+     1s (huet) acacye != acaYcye (pysan)
+     1d (huet) acacyAvahi != acaYcyAvahi (pysan)
+     1p (huet) acacyAmahi != acaYcyAmahi (pysan)
+caYc ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacyatAm != caYcyatAm (pysan)
+     3d (huet) cacyetAm != caYcyetAm (pysan)
+     3p (huet) cacyantAm != caYcyantAm (pysan)
+     2s (huet) cacyasva != caYcyasva (pysan)
+     2d (huet) cacyeTAm != caYcyeTAm (pysan)
+     2p (huet) cacyaDvam != caYcyaDvam (pysan)
+     1s (huet) cacyE != caYcyE (pysan)
+     1d (huet) cacyAvahE != caYcyAvahE (pysan)
+     1p (huet) cacyAmahE != caYcyAmahE (pysan)
+caYc op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacyeta != caYcyeta (pysan)
+     3d (huet) cacyeyAtAm != caYcyeyAtAm (pysan)
+     3p (huet) cacyeran != caYcyeran (pysan)
+     2s (huet) cacyeTAH != caYcyeTAH (pysan)
+     2d (huet) cacyeyATAm != caYcyeyATAm (pysan)
+     2p (huet) cacyeDvam != caYcyeDvam (pysan)
+     1s (huet) cacyeya != caYcyeya (pysan)
+     1d (huet) cacyevahi != caYcyevahi (pysan)
+     1p (huet) cacyemahi != caYcyemahi (pysan)
+caYc pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacyate != caYcyate (pysan)
+     3d (huet) cacyete != caYcyete (pysan)
+     3p (huet) cacyante != caYcyante (pysan)
+     2s (huet) cacyase != caYcyase (pysan)
+     2d (huet) cacyeTe != caYcyeTe (pysan)
+     2p (huet) cacyaDve != caYcyaDve (pysan)
+     1s (huet) cacye != caYcye (pysan)
+     1d (huet) cacyAvahe != caYcyAvahe (pysan)
+     1p (huet) cacyAmahe != caYcyAmahe (pysan)
+caw im PASSIVE: identical
+caw ip PASSIVE: identical
+caw op PASSIVE: identical
+caw pr PASSIVE: identical
+cat im PASSIVE: identical
+cat ip PASSIVE: identical
+cat op PASSIVE: identical
+cat pr PASSIVE: identical
+cand im PASSIVE: identical
+cand ip PASSIVE: identical
+cand op PASSIVE: identical
+cand pr PASSIVE: identical
+cam im PASSIVE: identical
+cam ip PASSIVE: identical
+cam op PASSIVE: identical
+cam pr PASSIVE: identical
+car im PASSIVE: identical
+car ip PASSIVE: identical
+car op PASSIVE: identical
+car pr PASSIVE: identical
+cal im PASSIVE: identical
+cal ip PASSIVE: identical
+cal op PASSIVE: identical
+cal pr PASSIVE: identical
+ci im PASSIVE: identical
+ci ip PASSIVE: identical
+ci op PASSIVE: identical
+ci pr PASSIVE: identical
+cit im PASSIVE: identical
+cit ip PASSIVE: identical
+cit op PASSIVE: identical
+cit pr PASSIVE: identical
+cint im PASSIVE: identical
+cint ip PASSIVE: identical
+cint op PASSIVE: identical
+cint pr PASSIVE: identical
+cud im PASSIVE: identical
+cud ip PASSIVE: identical
+cud op PASSIVE: identical
+cud pr PASSIVE: identical
+cumb im PASSIVE: identical
+cumb ip PASSIVE: identical
+cumb op PASSIVE: identical
+cumb pr PASSIVE: identical
+cur im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) acoryata,acuryata != acuryata (pysan)
+     3d (huet) acoryetAm,acuryetAm != acuryetAm (pysan)
+     3p (huet) acoryanta,acuryanta != acuryanta (pysan)
+     2s (huet) acoryaTAH,acuryaTAH != acuryaTAH (pysan)
+     2d (huet) acoryeTAm,acuryeTAm != acuryeTAm (pysan)
+     2p (huet) acoryaDvam,acuryaDvam != acuryaDvam (pysan)
+     1s (huet) acorye,acurye != acurye (pysan)
+     1d (huet) acoryAvahi,acuryAvahi != acuryAvahi (pysan)
+     1p (huet) acoryAmahi,acuryAmahi != acuryAmahi (pysan)
+cur ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) coryatAm,curyatAm != curyatAm (pysan)
+     3d (huet) coryetAm,curyetAm != curyetAm (pysan)
+     3p (huet) coryantAm,curyantAm != curyantAm (pysan)
+     2s (huet) coryasva,curyasva != curyasva (pysan)
+     2d (huet) coryeTAm,curyeTAm != curyeTAm (pysan)
+     2p (huet) coryaDvam,curyaDvam != curyaDvam (pysan)
+     1s (huet) coryE,curyE != curyE (pysan)
+     1d (huet) coryAvahE,curyAvahE != curyAvahE (pysan)
+     1p (huet) coryAmahE,curyAmahE != curyAmahE (pysan)
+cur op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) coryeta,curyeta != curyeta (pysan)
+     3d (huet) coryeyAtAm,curyeyAtAm != curyeyAtAm (pysan)
+     3p (huet) coryeran,curyeran != curyeran (pysan)
+     2s (huet) coryeTAH,curyeTAH != curyeTAH (pysan)
+     2d (huet) coryeyATAm,curyeyATAm != curyeyATAm (pysan)
+     2p (huet) coryeDvam,curyeDvam != curyeDvam (pysan)
+     1s (huet) coryeya,curyeya != curyeya (pysan)
+     1d (huet) coryevahi,curyevahi != curyevahi (pysan)
+     1p (huet) coryemahi,curyemahi != curyemahi (pysan)
+cur pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) coryate,curyate != curyate (pysan)
+     3d (huet) coryete,curyete != curyete (pysan)
+     3p (huet) coryante,curyante != curyante (pysan)
+     2s (huet) coryase,curyase != curyase (pysan)
+     2d (huet) coryeTe,curyeTe != curyeTe (pysan)
+     2p (huet) coryaDve,curyaDve != curyaDve (pysan)
+     1s (huet) corye,curye != curye (pysan)
+     1d (huet) coryAvahe,curyAvahe != curyAvahe (pysan)
+     1p (huet) coryAmahe,curyAmahe != curyAmahe (pysan)
+cUz im PASSIVE: identical
+cUz ip PASSIVE: identical
+cUz op PASSIVE: identical
+cUz pr PASSIVE: identical
+cezw im PASSIVE: identical
+cezw ip PASSIVE: identical
+cezw op PASSIVE: identical
+cezw pr PASSIVE: identical
+cyu im PASSIVE: identical
+cyu ip PASSIVE: identical
+cyu op PASSIVE: identical
+cyu pr PASSIVE: identical
+Cad im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) acCadyata != aCadyata (pysan)
+     3d (huet) acCadyetAm != aCadyetAm (pysan)
+     3p (huet) acCadyanta != aCadyanta (pysan)
+     2s (huet) acCadyaTAH != aCadyaTAH (pysan)
+     2d (huet) acCadyeTAm != aCadyeTAm (pysan)
+     2p (huet) acCadyaDvam != aCadyaDvam (pysan)
+     1s (huet) acCadye != aCadye (pysan)
+     1d (huet) acCadyAvahi != aCadyAvahi (pysan)
+     1p (huet) acCadyAmahi != aCadyAmahi (pysan)
+Cad ip PASSIVE: identical
+Cad op PASSIVE: identical
+Cad pr PASSIVE: identical
+Cand im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) acCandyata != aCandyata (pysan)
+     3d (huet) acCandyetAm != aCandyetAm (pysan)
+     3p (huet) acCandyanta != aCandyanta (pysan)
+     2s (huet) acCandyaTAH != aCandyaTAH (pysan)
+     2d (huet) acCandyeTAm != aCandyeTAm (pysan)
+     2p (huet) acCandyaDvam != aCandyaDvam (pysan)
+     1s (huet) acCandye != aCandye (pysan)
+     1d (huet) acCandyAvahi != aCandyAvahi (pysan)
+     1p (huet) acCandyAmahi != aCandyAmahi (pysan)
+Cand ip PASSIVE: identical
+Cand op PASSIVE: identical
+Cand pr PASSIVE: identical
+Cid im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) acCidyata != aCidyata (pysan)
+     3d (huet) acCidyetAm != aCidyetAm (pysan)
+     3p (huet) acCidyanta != aCidyanta (pysan)
+     2s (huet) acCidyaTAH != aCidyaTAH (pysan)
+     2d (huet) acCidyeTAm != aCidyeTAm (pysan)
+     2p (huet) acCidyaDvam != aCidyaDvam (pysan)
+     1s (huet) acCidye != aCidye (pysan)
+     1d (huet) acCidyAvahi != aCidyAvahi (pysan)
+     1p (huet) acCidyAmahi != aCidyAmahi (pysan)
+Cid ip PASSIVE: identical
+Cid op PASSIVE: identical
+Cid pr PASSIVE: identical
+jakz im PASSIVE: identical
+jakz ip PASSIVE: identical
+jakz op PASSIVE: identical
+jakz pr PASSIVE: identical
+jan im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajanyata != ajAyata,ajanyata (pysan)
+     3d (huet) ajanyetAm != ajAyetAm,ajanyetAm (pysan)
+     3p (huet) ajanyanta != ajAyanta,ajanyanta (pysan)
+     2s (huet) ajanyaTAH != ajAyaTAH,ajanyaTAH (pysan)
+     2d (huet) ajanyeTAm != ajAyeTAm,ajanyeTAm (pysan)
+     2p (huet) ajanyaDvam != ajAyaDvam,ajanyaDvam (pysan)
+     1s (huet) ajanye != ajAye,ajanye (pysan)
+     1d (huet) ajanyAvahi != ajAyAvahi,ajanyAvahi (pysan)
+     1p (huet) ajanyAmahi != ajAyAmahi,ajanyAmahi (pysan)
+jan ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) janyatAm != jAyatAm,janyatAm (pysan)
+     3d (huet) janyetAm != jAyetAm,janyetAm (pysan)
+     3p (huet) janyantAm != jAyantAm,janyantAm (pysan)
+     2s (huet) janyasva != jAyasva,janyasva (pysan)
+     2d (huet) janyeTAm != jAyeTAm,janyeTAm (pysan)
+     2p (huet) janyaDvam != jAyaDvam,janyaDvam (pysan)
+     1s (huet) janyE != jAyE,janyE (pysan)
+     1d (huet) janyAvahE != jAyAvahE,janyAvahE (pysan)
+     1p (huet) janyAmahE != jAyAmahE,janyAmahE (pysan)
+jan op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) janyeta != jAyeta,janyeta (pysan)
+     3d (huet) janyeyAtAm != jAyeyAtAm,janyeyAtAm (pysan)
+     3p (huet) janyeran != jAyeran,janyeran (pysan)
+     2s (huet) janyeTAH != jAyeTAH,janyeTAH (pysan)
+     2d (huet) janyeyATAm != jAyeyATAm,janyeyATAm (pysan)
+     2p (huet) janyeDvam != jAyeDvam,janyeDvam (pysan)
+     1s (huet) janyeya != jAyeya,janyeya (pysan)
+     1d (huet) janyevahi != jAyevahi,janyevahi (pysan)
+     1p (huet) janyemahi != jAyemahi,janyemahi (pysan)
+jan pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) janyate != jAyate,janyate (pysan)
+     3d (huet) janyete != jAyete,janyete (pysan)
+     3p (huet) janyante != jAyante,janyante (pysan)
+     2s (huet) janyase != jAyase,janyase (pysan)
+     2d (huet) janyeTe != jAyeTe,janyeTe (pysan)
+     2p (huet) janyaDve != jAyaDve,janyaDve (pysan)
+     1s (huet) janye != jAye,janye (pysan)
+     1d (huet) janyAvahe != jAyAvahe,janyAvahe (pysan)
+     1p (huet) janyAmahe != jAyAmahe,janyAmahe (pysan)
+jap im PASSIVE: identical
+jap ip PASSIVE: identical
+jap op PASSIVE: identical
+jap pr PASSIVE: identical
+jaB im PASSIVE: identical
+jaB ip PASSIVE: identical
+jaB op PASSIVE: identical
+jaB pr PASSIVE: identical
+jam im PASSIVE: identical
+jam ip PASSIVE: identical
+jam op PASSIVE: identical
+jam pr PASSIVE: identical
+jalp im PASSIVE: identical
+jalp ip PASSIVE: identical
+jalp op PASSIVE: identical
+jalp pr PASSIVE: identical
+jas im PASSIVE: identical
+jas ip PASSIVE: identical
+jas op PASSIVE: identical
+jas pr PASSIVE: identical
+jAgf im PASSIVE: identical
+jAgf ip PASSIVE: identical
+jAgf op PASSIVE: identical
+jAgf pr PASSIVE: identical
+ji im PASSIVE: identical
+ji ip PASSIVE: identical
+ji op PASSIVE: identical
+ji pr PASSIVE: identical
+jinv im PASSIVE: identical
+jinv ip PASSIVE: identical
+jinv op PASSIVE: identical
+jinv pr PASSIVE: identical
+jIv im PASSIVE: identical
+jIv ip PASSIVE: identical
+jIv op PASSIVE: identical
+jIv pr PASSIVE: identical
+juz im PASSIVE: identical
+juz ip PASSIVE: identical
+juz op PASSIVE: identical
+juz pr PASSIVE: identical
+jU im PASSIVE: identical
+jU ip PASSIVE: identical
+jU op PASSIVE: identical
+jU pr PASSIVE: identical
+jfmB im PASSIVE: identical
+jfmB ip PASSIVE: identical
+jfmB op PASSIVE: identical
+jfmB pr PASSIVE: identical
+jF im PASSIVE: identical
+jF ip PASSIVE: identical
+jF op PASSIVE: identical
+jF pr PASSIVE: identical
+jYA im PASSIVE: identical
+jYA ip PASSIVE: identical
+jYA op PASSIVE: identical
+jYA pr PASSIVE: identical
+jyA im PASSIVE: identical
+jyA ip PASSIVE: identical
+jyA op PASSIVE: identical
+jyA pr PASSIVE: identical
+jyut im PASSIVE: identical
+jyut ip PASSIVE: identical
+jyut op PASSIVE: identical
+jyut pr PASSIVE: identical
+jvar im PASSIVE: identical
+jvar ip PASSIVE: identical
+jvar op PASSIVE: identical
+jvar pr PASSIVE: identical
+jval im PASSIVE: identical
+jval ip PASSIVE: identical
+jval op PASSIVE: identical
+jval pr PASSIVE: identical
+qamb im PASSIVE: identical
+qamb ip PASSIVE: identical
+qamb op PASSIVE: identical
+qamb pr PASSIVE: identical
+qI im PASSIVE: identical
+qI ip PASSIVE: identical
+qI op PASSIVE: identical
+qI pr PASSIVE: identical
+tak im PASSIVE: identical
+tak ip PASSIVE: identical
+tak op PASSIVE: identical
+tak pr PASSIVE: identical
+takz im PASSIVE: identical
+takz ip PASSIVE: identical
+takz op PASSIVE: identical
+takz pr PASSIVE: identical
+taYc im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atacyata != ataYcyata (pysan)
+     3d (huet) atacyetAm != ataYcyetAm (pysan)
+     3p (huet) atacyanta != ataYcyanta (pysan)
+     2s (huet) atacyaTAH != ataYcyaTAH (pysan)
+     2d (huet) atacyeTAm != ataYcyeTAm (pysan)
+     2p (huet) atacyaDvam != ataYcyaDvam (pysan)
+     1s (huet) atacye != ataYcye (pysan)
+     1d (huet) atacyAvahi != ataYcyAvahi (pysan)
+     1p (huet) atacyAmahi != ataYcyAmahi (pysan)
+taYc ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tacyatAm != taYcyatAm (pysan)
+     3d (huet) tacyetAm != taYcyetAm (pysan)
+     3p (huet) tacyantAm != taYcyantAm (pysan)
+     2s (huet) tacyasva != taYcyasva (pysan)
+     2d (huet) tacyeTAm != taYcyeTAm (pysan)
+     2p (huet) tacyaDvam != taYcyaDvam (pysan)
+     1s (huet) tacyE != taYcyE (pysan)
+     1d (huet) tacyAvahE != taYcyAvahE (pysan)
+     1p (huet) tacyAmahE != taYcyAmahE (pysan)
+taYc op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tacyeta != taYcyeta (pysan)
+     3d (huet) tacyeyAtAm != taYcyeyAtAm (pysan)
+     3p (huet) tacyeran != taYcyeran (pysan)
+     2s (huet) tacyeTAH != taYcyeTAH (pysan)
+     2d (huet) tacyeyATAm != taYcyeyATAm (pysan)
+     2p (huet) tacyeDvam != taYcyeDvam (pysan)
+     1s (huet) tacyeya != taYcyeya (pysan)
+     1d (huet) tacyevahi != taYcyevahi (pysan)
+     1p (huet) tacyemahi != taYcyemahi (pysan)
+taYc pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tacyate != taYcyate (pysan)
+     3d (huet) tacyete != taYcyete (pysan)
+     3p (huet) tacyante != taYcyante (pysan)
+     2s (huet) tacyase != taYcyase (pysan)
+     2d (huet) tacyeTe != taYcyeTe (pysan)
+     2p (huet) tacyaDve != taYcyaDve (pysan)
+     1s (huet) tacye != taYcye (pysan)
+     1d (huet) tacyAvahe != taYcyAvahe (pysan)
+     1p (huet) tacyAmahe != taYcyAmahe (pysan)
+tan im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atanyata != atAyata,atanyata (pysan)
+     3d (huet) atanyetAm != atAyetAm,atanyetAm (pysan)
+     3p (huet) atanyanta != atAyanta,atanyanta (pysan)
+     2s (huet) atanyaTAH != atAyaTAH,atanyaTAH (pysan)
+     2d (huet) atanyeTAm != atAyeTAm,atanyeTAm (pysan)
+     2p (huet) atanyaDvam != atAyaDvam,atanyaDvam (pysan)
+     1s (huet) atanye != atAye,atanye (pysan)
+     1d (huet) atanyAvahi != atAyAvahi,atanyAvahi (pysan)
+     1p (huet) atanyAmahi != atAyAmahi,atanyAmahi (pysan)
+tan ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tanyatAm != tAyatAm,tanyatAm (pysan)
+     3d (huet) tanyetAm != tAyetAm,tanyetAm (pysan)
+     3p (huet) tanyantAm != tAyantAm,tanyantAm (pysan)
+     2s (huet) tanyasva != tAyasva,tanyasva (pysan)
+     2d (huet) tanyeTAm != tAyeTAm,tanyeTAm (pysan)
+     2p (huet) tanyaDvam != tAyaDvam,tanyaDvam (pysan)
+     1s (huet) tanyE != tAyE,tanyE (pysan)
+     1d (huet) tanyAvahE != tAyAvahE,tanyAvahE (pysan)
+     1p (huet) tanyAmahE != tAyAmahE,tanyAmahE (pysan)
+tan op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tanyeta != tAyeta,tanyeta (pysan)
+     3d (huet) tanyeyAtAm != tAyeyAtAm,tanyeyAtAm (pysan)
+     3p (huet) tanyeran != tAyeran,tanyeran (pysan)
+     2s (huet) tanyeTAH != tAyeTAH,tanyeTAH (pysan)
+     2d (huet) tanyeyATAm != tAyeyATAm,tanyeyATAm (pysan)
+     2p (huet) tanyeDvam != tAyeDvam,tanyeDvam (pysan)
+     1s (huet) tanyeya != tAyeya,tanyeya (pysan)
+     1d (huet) tanyevahi != tAyevahi,tanyevahi (pysan)
+     1p (huet) tanyemahi != tAyemahi,tanyemahi (pysan)
+tan pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tanyate != tAyate,tanyate (pysan)
+     3d (huet) tanyete != tAyete,tanyete (pysan)
+     3p (huet) tanyante != tAyante,tanyante (pysan)
+     2s (huet) tanyase != tAyase,tanyase (pysan)
+     2d (huet) tanyeTe != tAyeTe,tanyeTe (pysan)
+     2p (huet) tanyaDve != tAyaDve,tanyaDve (pysan)
+     1s (huet) tanye != tAye,tanye (pysan)
+     1d (huet) tanyAvahe != tAyAvahe,tanyAvahe (pysan)
+     1p (huet) tanyAmahe != tAyAmahe,tanyAmahe (pysan)
+tandr im PASSIVE: identical
+tandr ip PASSIVE: identical
+tandr op PASSIVE: identical
+tandr pr PASSIVE: identical
+tap im PASSIVE: identical
+tap ip PASSIVE: identical
+tap op PASSIVE: identical
+tap pr PASSIVE: conjugation differences @ 3s 
+     3s (huet) tapyate,tapyati != tapyate (pysan)
+tam im PASSIVE: identical
+tam ip PASSIVE: identical
+tam op PASSIVE: identical
+tam pr PASSIVE: identical
+tark im PASSIVE: identical
+tark ip PASSIVE: identical
+tark op PASSIVE: identical
+tark pr PASSIVE: identical
+tarj im PASSIVE: identical
+tarj ip PASSIVE: identical
+tarj op PASSIVE: identical
+tarj pr PASSIVE: identical
+tij im PASSIVE: identical
+tij ip PASSIVE: identical
+tij op PASSIVE: identical
+tij pr PASSIVE: identical
+tud im PASSIVE: identical
+tud ip PASSIVE: identical
+tud op PASSIVE: identical
+tud pr PASSIVE: identical
+tup im PASSIVE: identical
+tup ip PASSIVE: identical
+tup op PASSIVE: identical
+tup pr PASSIVE: identical
+tuz im PASSIVE: identical
+tuz ip PASSIVE: identical
+tuz op PASSIVE: identical
+tuz pr PASSIVE: identical
+tfd im PASSIVE: identical
+tfd ip PASSIVE: identical
+tfd op PASSIVE: identical
+tfd pr PASSIVE: identical
+tfp im PASSIVE: identical
+tfp ip PASSIVE: identical
+tfp op PASSIVE: identical
+tfp pr PASSIVE: identical
+tfz im PASSIVE: identical
+tfz ip PASSIVE: identical
+tfz op PASSIVE: identical
+tfz pr PASSIVE: identical
+tF im PASSIVE: identical
+tF ip PASSIVE: identical
+tF op PASSIVE: identical
+tF pr PASSIVE: identical
+tyaj im PASSIVE: identical
+tyaj ip PASSIVE: identical
+tyaj op PASSIVE: identical
+tyaj pr PASSIVE: identical
+trap im PASSIVE: identical
+trap ip PASSIVE: identical
+trap op PASSIVE: identical
+trap pr PASSIVE: identical
+tras im PASSIVE: identical
+tras ip PASSIVE: identical
+tras op PASSIVE: identical
+tras pr PASSIVE: identical
+truw im PASSIVE: identical
+truw ip PASSIVE: identical
+truw op PASSIVE: identical
+truw pr PASSIVE: identical
+trE im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atrIyata != atrAyata (pysan)
+     3d (huet) atrIyetAm != atrAyetAm (pysan)
+     3p (huet) atrIyanta != atrAyanta (pysan)
+     2s (huet) atrIyaTAH != atrAyaTAH (pysan)
+     2d (huet) atrIyeTAm != atrAyeTAm (pysan)
+     2p (huet) atrIyaDvam != atrAyaDvam (pysan)
+     1s (huet) atrIye != atrAye (pysan)
+     1d (huet) atrIyAvahi != atrAyAvahi (pysan)
+     1p (huet) atrIyAmahi != atrAyAmahi (pysan)
+trE ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trIyatAm != trAyatAm (pysan)
+     3d (huet) trIyetAm != trAyetAm (pysan)
+     3p (huet) trIyantAm != trAyantAm (pysan)
+     2s (huet) trIyasva != trAyasva (pysan)
+     2d (huet) trIyeTAm != trAyeTAm (pysan)
+     2p (huet) trIyaDvam != trAyaDvam (pysan)
+     1s (huet) trIyE != trAyE (pysan)
+     1d (huet) trIyAvahE != trAyAvahE (pysan)
+     1p (huet) trIyAmahE != trAyAmahE (pysan)
+trE op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trIyeta != trAyeta (pysan)
+     3d (huet) trIyeyAtAm != trAyeyAtAm (pysan)
+     3p (huet) trIyeran != trAyeran (pysan)
+     2s (huet) trIyeTAH != trAyeTAH (pysan)
+     2d (huet) trIyeyATAm != trAyeyATAm (pysan)
+     2p (huet) trIyeDvam != trAyeDvam (pysan)
+     1s (huet) trIyeya != trAyeya (pysan)
+     1d (huet) trIyevahi != trAyevahi (pysan)
+     1p (huet) trIyemahi != trAyemahi (pysan)
+trE pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trIyate != trAyate (pysan)
+     3d (huet) trIyete != trAyete (pysan)
+     3p (huet) trIyante != trAyante (pysan)
+     2s (huet) trIyase != trAyase (pysan)
+     2d (huet) trIyeTe != trAyeTe (pysan)
+     2p (huet) trIyaDve != trAyaDve (pysan)
+     1s (huet) trIye != trAye (pysan)
+     1d (huet) trIyAvahe != trAyAvahe (pysan)
+     1p (huet) trIyAmahe != trAyAmahe (pysan)
+tvakz im PASSIVE: identical
+tvakz ip PASSIVE: identical
+tvakz op PASSIVE: identical
+tvakz pr PASSIVE: identical
+tvar im PASSIVE: identical
+tvar ip PASSIVE: identical
+tvar op PASSIVE: identical
+tvar pr PASSIVE: identical
+tviz im PASSIVE: identical
+tviz ip PASSIVE: identical
+tviz op PASSIVE: identical
+tviz pr PASSIVE: identical
+tsar im PASSIVE: identical
+tsar ip PASSIVE: identical
+tsar op PASSIVE: identical
+tsar pr PASSIVE: identical
+daMS im PASSIVE: identical
+daMS ip PASSIVE: identical
+daMS op PASSIVE: identical
+daMS pr PASSIVE: identical
+dakz im PASSIVE: identical
+dakz ip PASSIVE: identical
+dakz op PASSIVE: identical
+dakz pr PASSIVE: identical
+daG im PASSIVE: identical
+daG ip PASSIVE: identical
+daG op PASSIVE: identical
+daG pr PASSIVE: identical
+daB im PASSIVE: identical
+daB ip PASSIVE: identical
+daB op PASSIVE: identical
+daB pr PASSIVE: identical
+dam im PASSIVE: identical
+dam ip PASSIVE: identical
+dam op PASSIVE: identical
+dam pr PASSIVE: identical
+day im PASSIVE: identical
+day ip PASSIVE: identical
+day op PASSIVE: identical
+day pr PASSIVE: identical
+dal im PASSIVE: identical
+dal ip PASSIVE: identical
+dal op PASSIVE: identical
+dal pr PASSIVE: identical
+das im PASSIVE: identical
+das ip PASSIVE: identical
+das op PASSIVE: identical
+das pr PASSIVE: identical
+dah im PASSIVE: identical
+dah ip PASSIVE: identical
+dah op PASSIVE: identical
+dah pr PASSIVE: identical
+dA im PASSIVE: identical
+dA ip PASSIVE: identical
+dA op PASSIVE: identical
+dA pr PASSIVE: identical
+dAS im PASSIVE: identical
+dAS ip PASSIVE: identical
+dAS op PASSIVE: identical
+dAS pr PASSIVE: identical
+diS im PASSIVE: identical
+diS ip PASSIVE: identical
+diS op PASSIVE: identical
+diS pr PASSIVE: identical
+dih im PASSIVE: identical
+dih ip PASSIVE: identical
+dih op PASSIVE: identical
+dih pr PASSIVE: identical
+dIkz im PASSIVE: identical
+dIkz ip PASSIVE: identical
+dIkz op PASSIVE: identical
+dIkz pr PASSIVE: identical
+dIp im PASSIVE: identical
+dIp ip PASSIVE: identical
+dIp op PASSIVE: identical
+dIp pr PASSIVE: identical
+dIv im PASSIVE: identical
+dIv ip PASSIVE: identical
+dIv op PASSIVE: identical
+dIv pr PASSIVE: identical
+du im PASSIVE: identical
+du ip PASSIVE: identical
+du op PASSIVE: identical
+du pr PASSIVE: identical
+duz im PASSIVE: identical
+duz ip PASSIVE: identical
+duz op PASSIVE: identical
+duz pr PASSIVE: identical
+duh im PASSIVE: identical
+duh ip PASSIVE: identical
+duh op PASSIVE: identical
+duh pr PASSIVE: identical
+df im PASSIVE: identical
+df ip PASSIVE: identical
+df op PASSIVE: identical
+df pr PASSIVE: identical
+dfp im PASSIVE: identical
+dfp ip PASSIVE: identical
+dfp op PASSIVE: identical
+dfp pr PASSIVE: identical
+dfB im PASSIVE: identical
+dfB ip PASSIVE: identical
+dfB op PASSIVE: identical
+dfB pr PASSIVE: identical
+dfS im PASSIVE: identical
+dfS ip PASSIVE: identical
+dfS op PASSIVE: identical
+dfS pr PASSIVE: identical
+dfh im PASSIVE: identical
+dfh ip PASSIVE: identical
+dfh op PASSIVE: identical
+dfh pr PASSIVE: identical
+dF im PASSIVE: identical
+dF ip PASSIVE: identical
+dF op PASSIVE: identical
+dF pr PASSIVE: identical
+dev im PASSIVE: identical
+dev ip PASSIVE: identical
+dev op PASSIVE: identical
+dev pr PASSIVE: identical
+drA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) adrIyata != adrAyata (pysan)
+     3d (huet) adrIyetAm != adrAyetAm (pysan)
+     3p (huet) adrIyanta != adrAyanta (pysan)
+     2s (huet) adrIyaTAH != adrAyaTAH (pysan)
+     2d (huet) adrIyeTAm != adrAyeTAm (pysan)
+     2p (huet) adrIyaDvam != adrAyaDvam (pysan)
+     1s (huet) adrIye != adrAye (pysan)
+     1d (huet) adrIyAvahi != adrAyAvahi (pysan)
+     1p (huet) adrIyAmahi != adrAyAmahi (pysan)
+drA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) drIyatAm != drAyatAm (pysan)
+     3d (huet) drIyetAm != drAyetAm (pysan)
+     3p (huet) drIyantAm != drAyantAm (pysan)
+     2s (huet) drIyasva != drAyasva (pysan)
+     2d (huet) drIyeTAm != drAyeTAm (pysan)
+     2p (huet) drIyaDvam != drAyaDvam (pysan)
+     1s (huet) drIyE != drAyE (pysan)
+     1d (huet) drIyAvahE != drAyAvahE (pysan)
+     1p (huet) drIyAmahE != drAyAmahE (pysan)
+drA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) drIyeta != drAyeta (pysan)
+     3d (huet) drIyeyAtAm != drAyeyAtAm (pysan)
+     3p (huet) drIyeran != drAyeran (pysan)
+     2s (huet) drIyeTAH != drAyeTAH (pysan)
+     2d (huet) drIyeyATAm != drAyeyATAm (pysan)
+     2p (huet) drIyeDvam != drAyeDvam (pysan)
+     1s (huet) drIyeya != drAyeya (pysan)
+     1d (huet) drIyevahi != drAyevahi (pysan)
+     1p (huet) drIyemahi != drAyemahi (pysan)
+drA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) drIyate != drAyate (pysan)
+     3d (huet) drIyete != drAyete (pysan)
+     3p (huet) drIyante != drAyante (pysan)
+     2s (huet) drIyase != drAyase (pysan)
+     2d (huet) drIyeTe != drAyeTe (pysan)
+     2p (huet) drIyaDve != drAyaDve (pysan)
+     1s (huet) drIye != drAye (pysan)
+     1d (huet) drIyAvahe != drAyAvahe (pysan)
+     1p (huet) drIyAmahe != drAyAmahe (pysan)
+druh im PASSIVE: identical
+druh ip PASSIVE: identical
+druh op PASSIVE: identical
+druh pr PASSIVE: identical
+dviz im PASSIVE: identical
+dviz ip PASSIVE: identical
+dviz op PASSIVE: identical
+dviz pr PASSIVE: identical
+Dam im PASSIVE: identical
+Dam ip PASSIVE: identical
+Dam op PASSIVE: identical
+Dam pr PASSIVE: identical
+DA im PASSIVE: identical
+DA ip PASSIVE: identical
+DA op PASSIVE: identical
+DA pr PASSIVE: identical
+DAv im PASSIVE: identical
+DAv ip PASSIVE: identical
+DAv op PASSIVE: identical
+DAv pr PASSIVE: identical
+DI im PASSIVE: identical
+DI ip PASSIVE: identical
+DI op PASSIVE: identical
+DI pr PASSIVE: identical
+Dukz im PASSIVE: identical
+Dukz ip PASSIVE: identical
+Dukz op PASSIVE: identical
+Dukz pr PASSIVE: identical
+DU im PASSIVE: identical
+DU ip PASSIVE: identical
+DU op PASSIVE: identical
+DU pr PASSIVE: identical
+Df im PASSIVE: identical
+Df ip PASSIVE: identical
+Df op PASSIVE: identical
+Df pr PASSIVE: identical
+Dfz im PASSIVE: identical
+Dfz ip PASSIVE: identical
+Dfz op PASSIVE: identical
+Dfz pr PASSIVE: identical
+DyA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aDIyata != aDyAyata (pysan)
+     3d (huet) aDIyetAm != aDyAyetAm (pysan)
+     3p (huet) aDIyanta != aDyAyanta (pysan)
+     2s (huet) aDIyaTAH != aDyAyaTAH (pysan)
+     2d (huet) aDIyeTAm != aDyAyeTAm (pysan)
+     2p (huet) aDIyaDvam != aDyAyaDvam (pysan)
+     1s (huet) aDIye != aDyAye (pysan)
+     1d (huet) aDIyAvahi != aDyAyAvahi (pysan)
+     1p (huet) aDIyAmahi != aDyAyAmahi (pysan)
+DyA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) DIyatAm != DyAyatAm (pysan)
+     3d (huet) DIyetAm != DyAyetAm (pysan)
+     3p (huet) DIyantAm != DyAyantAm (pysan)
+     2s (huet) DIyasva != DyAyasva (pysan)
+     2d (huet) DIyeTAm != DyAyeTAm (pysan)
+     2p (huet) DIyaDvam != DyAyaDvam (pysan)
+     1s (huet) DIyE != DyAyE (pysan)
+     1d (huet) DIyAvahE != DyAyAvahE (pysan)
+     1p (huet) DIyAmahE != DyAyAmahE (pysan)
+DyA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) DIyeta != DyAyeta (pysan)
+     3d (huet) DIyeyAtAm != DyAyeyAtAm (pysan)
+     3p (huet) DIyeran != DyAyeran (pysan)
+     2s (huet) DIyeTAH != DyAyeTAH (pysan)
+     2d (huet) DIyeyATAm != DyAyeyATAm (pysan)
+     2p (huet) DIyeDvam != DyAyeDvam (pysan)
+     1s (huet) DIyeya != DyAyeya (pysan)
+     1d (huet) DIyevahi != DyAyevahi (pysan)
+     1p (huet) DIyemahi != DyAyemahi (pysan)
+DyA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) DIyate != DyAyate (pysan)
+     3d (huet) DIyete != DyAyete (pysan)
+     3p (huet) DIyante != DyAyante (pysan)
+     2s (huet) DIyase != DyAyase (pysan)
+     2d (huet) DIyeTe != DyAyeTe (pysan)
+     2p (huet) DIyaDve != DyAyaDve (pysan)
+     1s (huet) DIye != DyAye (pysan)
+     1d (huet) DIyAvahe != DyAyAvahe (pysan)
+     1p (huet) DIyAmahe != DyAyAmahe (pysan)
+Dru im PASSIVE: identical
+Dru ip PASSIVE: identical
+Dru op PASSIVE: identical
+Dru pr PASSIVE: identical
+DvaMs im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aDvasyata != aDvaMsyata (pysan)
+     3d (huet) aDvasyetAm != aDvaMsyetAm (pysan)
+     3p (huet) aDvasyanta != aDvaMsyanta (pysan)
+     2s (huet) aDvasyaTAH != aDvaMsyaTAH (pysan)
+     2d (huet) aDvasyeTAm != aDvaMsyeTAm (pysan)
+     2p (huet) aDvasyaDvam != aDvaMsyaDvam (pysan)
+     1s (huet) aDvasye != aDvaMsye (pysan)
+     1d (huet) aDvasyAvahi != aDvaMsyAvahi (pysan)
+     1p (huet) aDvasyAmahi != aDvaMsyAmahi (pysan)
+DvaMs ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) DvasyatAm != DvaMsyatAm (pysan)
+     3d (huet) DvasyetAm != DvaMsyetAm (pysan)
+     3p (huet) DvasyantAm != DvaMsyantAm (pysan)
+     2s (huet) Dvasyasva != DvaMsyasva (pysan)
+     2d (huet) DvasyeTAm != DvaMsyeTAm (pysan)
+     2p (huet) DvasyaDvam != DvaMsyaDvam (pysan)
+     1s (huet) DvasyE != DvaMsyE (pysan)
+     1d (huet) DvasyAvahE != DvaMsyAvahE (pysan)
+     1p (huet) DvasyAmahE != DvaMsyAmahE (pysan)
+DvaMs op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Dvasyeta != DvaMsyeta (pysan)
+     3d (huet) DvasyeyAtAm != DvaMsyeyAtAm (pysan)
+     3p (huet) Dvasyeran != DvaMsyeran (pysan)
+     2s (huet) DvasyeTAH != DvaMsyeTAH (pysan)
+     2d (huet) DvasyeyATAm != DvaMsyeyATAm (pysan)
+     2p (huet) DvasyeDvam != DvaMsyeDvam (pysan)
+     1s (huet) Dvasyeya != DvaMsyeya (pysan)
+     1d (huet) Dvasyevahi != DvaMsyevahi (pysan)
+     1p (huet) Dvasyemahi != DvaMsyemahi (pysan)
+DvaMs pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Dvasyate != DvaMsyate (pysan)
+     3d (huet) Dvasyete != DvaMsyete (pysan)
+     3p (huet) Dvasyante != DvaMsyante (pysan)
+     2s (huet) Dvasyase != DvaMsyase (pysan)
+     2d (huet) DvasyeTe != DvaMsyeTe (pysan)
+     2p (huet) DvasyaDve != DvaMsyaDve (pysan)
+     1s (huet) Dvasye != DvaMsye (pysan)
+     1d (huet) DvasyAvahe != DvaMsyAvahe (pysan)
+     1p (huet) DvasyAmahe != DvaMsyAmahe (pysan)
+Dvan im PASSIVE: identical
+Dvan ip PASSIVE: identical
+Dvan op PASSIVE: identical
+Dvan pr PASSIVE: identical
+DvANkz im PASSIVE: identical
+DvANkz ip PASSIVE: identical
+DvANkz op PASSIVE: identical
+DvANkz pr PASSIVE: identical
+Dvf im PASSIVE: identical
+Dvf ip PASSIVE: identical
+Dvf op PASSIVE: identical
+Dvf pr PASSIVE: identical
+nakz im PASSIVE: identical
+nakz ip PASSIVE: identical
+nakz op PASSIVE: identical
+nakz pr PASSIVE: identical
+naw im PASSIVE: identical
+naw ip PASSIVE: identical
+naw op PASSIVE: identical
+naw pr PASSIVE: identical
+nad im PASSIVE: identical
+nad ip PASSIVE: identical
+nad op PASSIVE: identical
+nad pr PASSIVE: identical
+nand im PASSIVE: identical
+nand ip PASSIVE: identical
+nand op PASSIVE: identical
+nand pr PASSIVE: identical
+nam im PASSIVE: identical
+nam ip PASSIVE: identical
+nam op PASSIVE: identical
+nam pr PASSIVE: identical
+nard im PASSIVE: identical
+nard ip PASSIVE: identical
+nard op PASSIVE: identical
+nard pr PASSIVE: identical
+naS im PASSIVE: identical
+naS ip PASSIVE: identical
+naS op PASSIVE: identical
+naS pr PASSIVE: identical
+nah im PASSIVE: identical
+nah ip PASSIVE: identical
+nah op PASSIVE: identical
+nah pr PASSIVE: identical
+nAT im PASSIVE: identical
+nAT ip PASSIVE: identical
+nAT op PASSIVE: identical
+nAT pr PASSIVE: identical
+nij im PASSIVE: identical
+nij ip PASSIVE: identical
+nij op PASSIVE: identical
+nij pr PASSIVE: identical
+nind im PASSIVE: identical
+nind ip PASSIVE: identical
+nind op PASSIVE: identical
+nind pr PASSIVE: identical
+nI im PASSIVE: identical
+nI ip PASSIVE: identical
+nI op PASSIVE: identical
+nI pr PASSIVE: identical
+nu im PASSIVE: identical
+nu ip PASSIVE: identical
+nu op PASSIVE: identical
+nu pr PASSIVE: identical
+nud im PASSIVE: identical
+nud ip PASSIVE: identical
+nud op PASSIVE: identical
+nud pr PASSIVE: identical
+nft im PASSIVE: identical
+nft ip PASSIVE: identical
+nft op PASSIVE: identical
+nft pr PASSIVE: identical
+pac im PASSIVE: identical
+pac ip PASSIVE: identical
+pac op PASSIVE: identical
+pac pr PASSIVE: identical
+paw im PASSIVE: identical
+paw ip PASSIVE: identical
+paw op PASSIVE: identical
+paw pr PASSIVE: identical
+paW im PASSIVE: identical
+paW ip PASSIVE: identical
+paW op PASSIVE: identical
+paW pr PASSIVE: identical
+paR im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apaRyata != apaRAyyata,apaRyata (pysan)
+     3d (huet) apaRyetAm != apaRAyyetAm,apaRyetAm (pysan)
+     3p (huet) apaRyanta != apaRAyyanta,apaRyanta (pysan)
+     2s (huet) apaRyaTAH != apaRAyyaTAH,apaRyaTAH (pysan)
+     2d (huet) apaRyeTAm != apaRAyyeTAm,apaRyeTAm (pysan)
+     2p (huet) apaRyaDvam != apaRAyyaDvam,apaRyaDvam (pysan)
+     1s (huet) apaRye != apaRAyye,apaRye (pysan)
+     1d (huet) apaRyAvahi != apaRAyyAvahi,apaRyAvahi (pysan)
+     1p (huet) apaRyAmahi != apaRAyyAmahi,apaRyAmahi (pysan)
+paR ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) paRyatAm != paRAyyatAm,paRyatAm (pysan)
+     3d (huet) paRyetAm != paRAyyetAm,paRyetAm (pysan)
+     3p (huet) paRyantAm != paRAyyantAm,paRyantAm (pysan)
+     2s (huet) paRyasva != paRAyyasva,paRyasva (pysan)
+     2d (huet) paRyeTAm != paRAyyeTAm,paRyeTAm (pysan)
+     2p (huet) paRyaDvam != paRAyyaDvam,paRyaDvam (pysan)
+     1s (huet) paRyE != paRAyyE,paRyE (pysan)
+     1d (huet) paRyAvahE != paRAyyAvahE,paRyAvahE (pysan)
+     1p (huet) paRyAmahE != paRAyyAmahE,paRyAmahE (pysan)
+paR op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) paRyeta != paRAyyeta,paRyeta (pysan)
+     3d (huet) paRyeyAtAm != paRAyyeyAtAm,paRyeyAtAm (pysan)
+     3p (huet) paRyeran != paRAyyeran,paRyeran (pysan)
+     2s (huet) paRyeTAH != paRAyyeTAH,paRyeTAH (pysan)
+     2d (huet) paRyeyATAm != paRAyyeyATAm,paRyeyATAm (pysan)
+     2p (huet) paRyeDvam != paRAyyeDvam,paRyeDvam (pysan)
+     1s (huet) paRyeya != paRAyyeya,paRyeya (pysan)
+     1d (huet) paRyevahi != paRAyyevahi,paRyevahi (pysan)
+     1p (huet) paRyemahi != paRAyyemahi,paRyemahi (pysan)
+paR pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) paRyate != paRAyyate,paRyate (pysan)
+     3d (huet) paRyete != paRAyyete,paRyete (pysan)
+     3p (huet) paRyante != paRAyyante,paRyante (pysan)
+     2s (huet) paRyase != paRAyyase,paRyase (pysan)
+     2d (huet) paRyeTe != paRAyyeTe,paRyeTe (pysan)
+     2p (huet) paRyaDve != paRAyyaDve,paRyaDve (pysan)
+     1s (huet) paRye != paRAyye,paRye (pysan)
+     1d (huet) paRyAvahe != paRAyyAvahe,paRyAvahe (pysan)
+     1p (huet) paRyAmahe != paRAyyAmahe,paRyAmahe (pysan)
+pat im PASSIVE: identical
+pat ip PASSIVE: identical
+pat op PASSIVE: identical
+pat pr PASSIVE: identical
+paT im PASSIVE: identical
+paT ip PASSIVE: identical
+paT op PASSIVE: identical
+paT pr PASSIVE: identical
+pad im PASSIVE: identical
+pad ip PASSIVE: identical
+pad op PASSIVE: identical
+pad pr PASSIVE: identical
+palAy im PASSIVE: identical
+palAy ip PASSIVE: identical
+palAy op PASSIVE: identical
+palAy pr PASSIVE: identical
+pA im PASSIVE: identical
+pA ip PASSIVE: identical
+pA op PASSIVE: identical
+pA pr PASSIVE: identical
+piYj im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apijyata != apiYjyata (pysan)
+     3d (huet) apijyetAm != apiYjyetAm (pysan)
+     3p (huet) apijyanta != apiYjyanta (pysan)
+     2s (huet) apijyaTAH != apiYjyaTAH (pysan)
+     2d (huet) apijyeTAm != apiYjyeTAm (pysan)
+     2p (huet) apijyaDvam != apiYjyaDvam (pysan)
+     1s (huet) apijye != apiYjye (pysan)
+     1d (huet) apijyAvahi != apiYjyAvahi (pysan)
+     1p (huet) apijyAmahi != apiYjyAmahi (pysan)
+piYj ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pijyatAm != piYjyatAm (pysan)
+     3d (huet) pijyetAm != piYjyetAm (pysan)
+     3p (huet) pijyantAm != piYjyantAm (pysan)
+     2s (huet) pijyasva != piYjyasva (pysan)
+     2d (huet) pijyeTAm != piYjyeTAm (pysan)
+     2p (huet) pijyaDvam != piYjyaDvam (pysan)
+     1s (huet) pijyE != piYjyE (pysan)
+     1d (huet) pijyAvahE != piYjyAvahE (pysan)
+     1p (huet) pijyAmahE != piYjyAmahE (pysan)
+piYj op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pijyeta != piYjyeta (pysan)
+     3d (huet) pijyeyAtAm != piYjyeyAtAm (pysan)
+     3p (huet) pijyeran != piYjyeran (pysan)
+     2s (huet) pijyeTAH != piYjyeTAH (pysan)
+     2d (huet) pijyeyATAm != piYjyeyATAm (pysan)
+     2p (huet) pijyeDvam != piYjyeDvam (pysan)
+     1s (huet) pijyeya != piYjyeya (pysan)
+     1d (huet) pijyevahi != piYjyevahi (pysan)
+     1p (huet) pijyemahi != piYjyemahi (pysan)
+piYj pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pijyate != piYjyate (pysan)
+     3d (huet) pijyete != piYjyete (pysan)
+     3p (huet) pijyante != piYjyante (pysan)
+     2s (huet) pijyase != piYjyase (pysan)
+     2d (huet) pijyeTe != piYjyeTe (pysan)
+     2p (huet) pijyaDve != piYjyaDve (pysan)
+     1s (huet) pijye != piYjye (pysan)
+     1d (huet) pijyAvahe != piYjyAvahe (pysan)
+     1p (huet) pijyAmahe != piYjyAmahe (pysan)
+piS im PASSIVE: identical
+piS ip PASSIVE: identical
+piS op PASSIVE: identical
+piS pr PASSIVE: identical
+piz im PASSIVE: identical
+piz ip PASSIVE: identical
+piz op PASSIVE: identical
+piz pr PASSIVE: identical
+pIq im PASSIVE: identical
+pIq ip PASSIVE: identical
+pIq op PASSIVE: identical
+pIq pr PASSIVE: identical
+puT im PASSIVE: identical
+puT ip PASSIVE: identical
+puT op PASSIVE: identical
+puT pr PASSIVE: identical
+puz im PASSIVE: identical
+puz ip PASSIVE: identical
+puz op PASSIVE: identical
+puz pr PASSIVE: identical
+pU im PASSIVE: identical
+pU ip PASSIVE: identical
+pU op PASSIVE: identical
+pU pr PASSIVE: identical
+pUj im PASSIVE: identical
+pUj ip PASSIVE: identical
+pUj op PASSIVE: identical
+pUj pr PASSIVE: identical
+pUy im PASSIVE: identical
+pUy ip PASSIVE: identical
+pUy op PASSIVE: identical
+pUy pr PASSIVE: identical
+pUla im PASSIVE: identical
+pUla ip PASSIVE: identical
+pUla op PASSIVE: identical
+pUla pr PASSIVE: identical
+pf im PASSIVE: identical
+pf ip PASSIVE: identical
+pf op PASSIVE: identical
+pf pr PASSIVE: identical
+pfc im PASSIVE: identical
+pfc ip PASSIVE: identical
+pfc op PASSIVE: identical
+pfc pr PASSIVE: identical
+pfT im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aparTyata != apfTyata (pysan)
+     3d (huet) aparTyetAm != apfTyetAm (pysan)
+     3p (huet) aparTyanta != apfTyanta (pysan)
+     2s (huet) aparTyaTAH != apfTyaTAH (pysan)
+     2d (huet) aparTyeTAm != apfTyeTAm (pysan)
+     2p (huet) aparTyaDvam != apfTyaDvam (pysan)
+     1s (huet) aparTye != apfTye (pysan)
+     1d (huet) aparTyAvahi != apfTyAvahi (pysan)
+     1p (huet) aparTyAmahi != apfTyAmahi (pysan)
+pfT ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) parTyatAm != pfTyatAm (pysan)
+     3d (huet) parTyetAm != pfTyetAm (pysan)
+     3p (huet) parTyantAm != pfTyantAm (pysan)
+     2s (huet) parTyasva != pfTyasva (pysan)
+     2d (huet) parTyeTAm != pfTyeTAm (pysan)
+     2p (huet) parTyaDvam != pfTyaDvam (pysan)
+     1s (huet) parTyE != pfTyE (pysan)
+     1d (huet) parTyAvahE != pfTyAvahE (pysan)
+     1p (huet) parTyAmahE != pfTyAmahE (pysan)
+pfT op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) parTyeta != pfTyeta (pysan)
+     3d (huet) parTyeyAtAm != pfTyeyAtAm (pysan)
+     3p (huet) parTyeran != pfTyeran (pysan)
+     2s (huet) parTyeTAH != pfTyeTAH (pysan)
+     2d (huet) parTyeyATAm != pfTyeyATAm (pysan)
+     2p (huet) parTyeDvam != pfTyeDvam (pysan)
+     1s (huet) parTyeya != pfTyeya (pysan)
+     1d (huet) parTyevahi != pfTyevahi (pysan)
+     1p (huet) parTyemahi != pfTyemahi (pysan)
+pfT pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) parTyate != pfTyate (pysan)
+     3d (huet) parTyete != pfTyete (pysan)
+     3p (huet) parTyante != pfTyante (pysan)
+     2s (huet) parTyase != pfTyase (pysan)
+     2d (huet) parTyeTe != pfTyeTe (pysan)
+     2p (huet) parTyaDve != pfTyaDve (pysan)
+     1s (huet) parTye != pfTye (pysan)
+     1d (huet) parTyAvahe != pfTyAvahe (pysan)
+     1p (huet) parTyAmahe != pfTyAmahe (pysan)
+pfz im PASSIVE: identical
+pfz ip PASSIVE: identical
+pfz op PASSIVE: identical
+pfz pr PASSIVE: identical
+pF im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apAryata,apUryata != apUryata (pysan)
+     3d (huet) apAryetAm,apUryetAm != apUryetAm (pysan)
+     3p (huet) apAryanta,apUryanta != apUryanta (pysan)
+     2s (huet) apAryaTAH,apUryaTAH != apUryaTAH (pysan)
+     2d (huet) apAryeTAm,apUryeTAm != apUryeTAm (pysan)
+     2p (huet) apAryaDvam,apUryaDvam != apUryaDvam (pysan)
+     1s (huet) apArye,apUrye != apUrye (pysan)
+     1d (huet) apAryAvahi,apUryAvahi != apUryAvahi (pysan)
+     1p (huet) apAryAmahi,apUryAmahi != apUryAmahi (pysan)
+pF ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pAryatAm,pUryatAm != pUryatAm (pysan)
+     3d (huet) pAryetAm,pUryetAm != pUryetAm (pysan)
+     3p (huet) pAryantAm,pUryantAm != pUryantAm (pysan)
+     2s (huet) pAryasva,pUryasva != pUryasva (pysan)
+     2d (huet) pAryeTAm,pUryeTAm != pUryeTAm (pysan)
+     2p (huet) pAryaDvam,pUryaDvam != pUryaDvam (pysan)
+     1s (huet) pAryE,pUryE != pUryE (pysan)
+     1d (huet) pAryAvahE,pUryAvahE != pUryAvahE (pysan)
+     1p (huet) pAryAmahE,pUryAmahE != pUryAmahE (pysan)
+pF op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pAryeta,pUryeta != pUryeta (pysan)
+     3d (huet) pAryeyAtAm,pUryeyAtAm != pUryeyAtAm (pysan)
+     3p (huet) pAryeran,pUryeran != pUryeran (pysan)
+     2s (huet) pAryeTAH,pUryeTAH != pUryeTAH (pysan)
+     2d (huet) pAryeyATAm,pUryeyATAm != pUryeyATAm (pysan)
+     2p (huet) pAryeDvam,pUryeDvam != pUryeDvam (pysan)
+     1s (huet) pAryeya,pUryeya != pUryeya (pysan)
+     1d (huet) pAryevahi,pUryevahi != pUryevahi (pysan)
+     1p (huet) pAryemahi,pUryemahi != pUryemahi (pysan)
+pF pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pAryate,pUryate != pUryate (pysan)
+     3d (huet) pAryete,pUryete != pUryete (pysan)
+     3p (huet) pAryante,pUryante != pUryante (pysan)
+     2s (huet) pAryase,pUryase != pUryase (pysan)
+     2d (huet) pAryeTe,pUryeTe != pUryeTe (pysan)
+     2p (huet) pAryaDve,pUryaDve != pUryaDve (pysan)
+     1s (huet) pArye,pUrye != pUrye (pysan)
+     1d (huet) pAryAvahe,pUryAvahe != pUryAvahe (pysan)
+     1p (huet) pAryAmahe,pUryAmahe != pUryAmahe (pysan)
+pyA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apyAyyata != apyAyata (pysan)
+     3d (huet) apyAyyetAm != apyAyetAm (pysan)
+     3p (huet) apyAyyanta != apyAyanta (pysan)
+     2s (huet) apyAyyaTAH != apyAyaTAH (pysan)
+     2d (huet) apyAyyeTAm != apyAyeTAm (pysan)
+     2p (huet) apyAyyaDvam != apyAyaDvam (pysan)
+     1s (huet) apyAyye != apyAye (pysan)
+     1d (huet) apyAyyAvahi != apyAyAvahi (pysan)
+     1p (huet) apyAyyAmahi != apyAyAmahi (pysan)
+pyA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pyAyyatAm != pyAyatAm (pysan)
+     3d (huet) pyAyyetAm != pyAyetAm (pysan)
+     3p (huet) pyAyyantAm != pyAyantAm (pysan)
+     2s (huet) pyAyyasva != pyAyasva (pysan)
+     2d (huet) pyAyyeTAm != pyAyeTAm (pysan)
+     2p (huet) pyAyyaDvam != pyAyaDvam (pysan)
+     1s (huet) pyAyyE != pyAyE (pysan)
+     1d (huet) pyAyyAvahE != pyAyAvahE (pysan)
+     1p (huet) pyAyyAmahE != pyAyAmahE (pysan)
+pyA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pyAyyeta != pyAyeta (pysan)
+     3d (huet) pyAyyeyAtAm != pyAyeyAtAm (pysan)
+     3p (huet) pyAyyeran != pyAyeran (pysan)
+     2s (huet) pyAyyeTAH != pyAyeTAH (pysan)
+     2d (huet) pyAyyeyATAm != pyAyeyATAm (pysan)
+     2p (huet) pyAyyeDvam != pyAyeDvam (pysan)
+     1s (huet) pyAyyeya != pyAyeya (pysan)
+     1d (huet) pyAyyevahi != pyAyevahi (pysan)
+     1p (huet) pyAyyemahi != pyAyemahi (pysan)
+pyA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pyAyyate != pyAyate (pysan)
+     3d (huet) pyAyyete != pyAyete (pysan)
+     3p (huet) pyAyyante != pyAyante (pysan)
+     2s (huet) pyAyyase != pyAyase (pysan)
+     2d (huet) pyAyyeTe != pyAyeTe (pysan)
+     2p (huet) pyAyyaDve != pyAyaDve (pysan)
+     1s (huet) pyAyye != pyAye (pysan)
+     1d (huet) pyAyyAvahe != pyAyAvahe (pysan)
+     1p (huet) pyAyyAmahe != pyAyAmahe (pysan)
+praT im PASSIVE: identical
+praT ip PASSIVE: identical
+praT op PASSIVE: identical
+praT pr PASSIVE: identical
+praS im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apfcCyata != apraSyata (pysan)
+     3d (huet) apfcCyetAm != apraSyetAm (pysan)
+     3p (huet) apfcCyanta != apraSyanta (pysan)
+     2s (huet) apfcCyaTAH != apraSyaTAH (pysan)
+     2d (huet) apfcCyeTAm != apraSyeTAm (pysan)
+     2p (huet) apfcCyaDvam != apraSyaDvam (pysan)
+     1s (huet) apfcCye != apraSye (pysan)
+     1d (huet) apfcCyAvahi != apraSyAvahi (pysan)
+     1p (huet) apfcCyAmahi != apraSyAmahi (pysan)
+praS ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pfcCyatAm != praSyatAm (pysan)
+     3d (huet) pfcCyetAm != praSyetAm (pysan)
+     3p (huet) pfcCyantAm != praSyantAm (pysan)
+     2s (huet) pfcCyasva != praSyasva (pysan)
+     2d (huet) pfcCyeTAm != praSyeTAm (pysan)
+     2p (huet) pfcCyaDvam != praSyaDvam (pysan)
+     1s (huet) pfcCyE != praSyE (pysan)
+     1d (huet) pfcCyAvahE != praSyAvahE (pysan)
+     1p (huet) pfcCyAmahE != praSyAmahE (pysan)
+praS op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pfcCyeta != praSyeta (pysan)
+     3d (huet) pfcCyeyAtAm != praSyeyAtAm (pysan)
+     3p (huet) pfcCyeran != praSyeran (pysan)
+     2s (huet) pfcCyeTAH != praSyeTAH (pysan)
+     2d (huet) pfcCyeyATAm != praSyeyATAm (pysan)
+     2p (huet) pfcCyeDvam != praSyeDvam (pysan)
+     1s (huet) pfcCyeya != praSyeya (pysan)
+     1d (huet) pfcCyevahi != praSyevahi (pysan)
+     1p (huet) pfcCyemahi != praSyemahi (pysan)
+praS pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pfcCyate != praSyate (pysan)
+     3d (huet) pfcCyete != praSyete (pysan)
+     3p (huet) pfcCyante != praSyante (pysan)
+     2s (huet) pfcCyase != praSyase (pysan)
+     2d (huet) pfcCyeTe != praSyeTe (pysan)
+     2p (huet) pfcCyaDve != praSyaDve (pysan)
+     1s (huet) pfcCye != praSye (pysan)
+     1d (huet) pfcCyAvahe != praSyAvahe (pysan)
+     1p (huet) pfcCyAmahe != praSyAmahe (pysan)
+prI im PASSIVE: identical
+prI ip PASSIVE: identical
+prI op PASSIVE: identical
+prI pr PASSIVE: identical
+pru im PASSIVE: identical
+pru ip PASSIVE: identical
+pru op PASSIVE: identical
+pru pr PASSIVE: identical
+plu im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apluyata != aplUyata (pysan)
+     3d (huet) apluyetAm != aplUyetAm (pysan)
+     3p (huet) apluyanta != aplUyanta (pysan)
+     2s (huet) apluyaTAH != aplUyaTAH (pysan)
+     2d (huet) apluyeTAm != aplUyeTAm (pysan)
+     2p (huet) apluyaDvam != aplUyaDvam (pysan)
+     1s (huet) apluye != aplUye (pysan)
+     1d (huet) apluyAvahi != aplUyAvahi (pysan)
+     1p (huet) apluyAmahi != aplUyAmahi (pysan)
+plu ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pluyatAm != plUyatAm (pysan)
+     3d (huet) pluyetAm != plUyetAm (pysan)
+     3p (huet) pluyantAm != plUyantAm (pysan)
+     2s (huet) pluyasva != plUyasva (pysan)
+     2d (huet) pluyeTAm != plUyeTAm (pysan)
+     2p (huet) pluyaDvam != plUyaDvam (pysan)
+     1s (huet) pluyE != plUyE (pysan)
+     1d (huet) pluyAvahE != plUyAvahE (pysan)
+     1p (huet) pluyAmahE != plUyAmahE (pysan)
+plu op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pluyeta != plUyeta (pysan)
+     3d (huet) pluyeyAtAm != plUyeyAtAm (pysan)
+     3p (huet) pluyeran != plUyeran (pysan)
+     2s (huet) pluyeTAH != plUyeTAH (pysan)
+     2d (huet) pluyeyATAm != plUyeyATAm (pysan)
+     2p (huet) pluyeDvam != plUyeDvam (pysan)
+     1s (huet) pluyeya != plUyeya (pysan)
+     1d (huet) pluyevahi != plUyevahi (pysan)
+     1p (huet) pluyemahi != plUyemahi (pysan)
+plu pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pluyate != plUyate (pysan)
+     3d (huet) pluyete != plUyete (pysan)
+     3p (huet) pluyante != plUyante (pysan)
+     2s (huet) pluyase != plUyase (pysan)
+     2d (huet) pluyeTe != plUyeTe (pysan)
+     2p (huet) pluyaDve != plUyaDve (pysan)
+     1s (huet) pluye != plUye (pysan)
+     1d (huet) pluyAvahe != plUyAvahe (pysan)
+     1p (huet) pluyAmahe != plUyAmahe (pysan)
+pluz im PASSIVE: identical
+pluz ip PASSIVE: identical
+pluz op PASSIVE: identical
+pluz pr PASSIVE: identical
+Pal im PASSIVE: identical
+Pal ip PASSIVE: identical
+Pal op PASSIVE: identical
+Pal pr PASSIVE: identical
+Pull im PASSIVE: identical
+Pull ip PASSIVE: identical
+Pull op PASSIVE: identical
+Pull pr PASSIVE: identical
+baMh im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) abahyata != abaMhyata (pysan)
+     3d (huet) abahyetAm != abaMhyetAm (pysan)
+     3p (huet) abahyanta != abaMhyanta (pysan)
+     2s (huet) abahyaTAH != abaMhyaTAH (pysan)
+     2d (huet) abahyeTAm != abaMhyeTAm (pysan)
+     2p (huet) abahyaDvam != abaMhyaDvam (pysan)
+     1s (huet) abahye != abaMhye (pysan)
+     1d (huet) abahyAvahi != abaMhyAvahi (pysan)
+     1p (huet) abahyAmahi != abaMhyAmahi (pysan)
+baMh ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) bahyatAm != baMhyatAm (pysan)
+     3d (huet) bahyetAm != baMhyetAm (pysan)
+     3p (huet) bahyantAm != baMhyantAm (pysan)
+     2s (huet) bahyasva != baMhyasva (pysan)
+     2d (huet) bahyeTAm != baMhyeTAm (pysan)
+     2p (huet) bahyaDvam != baMhyaDvam (pysan)
+     1s (huet) bahyE != baMhyE (pysan)
+     1d (huet) bahyAvahE != baMhyAvahE (pysan)
+     1p (huet) bahyAmahE != baMhyAmahE (pysan)
+baMh op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) bahyeta != baMhyeta (pysan)
+     3d (huet) bahyeyAtAm != baMhyeyAtAm (pysan)
+     3p (huet) bahyeran != baMhyeran (pysan)
+     2s (huet) bahyeTAH != baMhyeTAH (pysan)
+     2d (huet) bahyeyATAm != baMhyeyATAm (pysan)
+     2p (huet) bahyeDvam != baMhyeDvam (pysan)
+     1s (huet) bahyeya != baMhyeya (pysan)
+     1d (huet) bahyevahi != baMhyevahi (pysan)
+     1p (huet) bahyemahi != baMhyemahi (pysan)
+baMh pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) bahyate != baMhyate (pysan)
+     3d (huet) bahyete != baMhyete (pysan)
+     3p (huet) bahyante != baMhyante (pysan)
+     2s (huet) bahyase != baMhyase (pysan)
+     2d (huet) bahyeTe != baMhyeTe (pysan)
+     2p (huet) bahyaDve != baMhyaDve (pysan)
+     1s (huet) bahye != baMhye (pysan)
+     1d (huet) bahyAvahe != baMhyAvahe (pysan)
+     1p (huet) bahyAmahe != baMhyAmahe (pysan)
+banD im PASSIVE: identical
+banD ip PASSIVE: identical
+banD op PASSIVE: identical
+banD pr PASSIVE: identical
+bal im PASSIVE: identical
+bal ip PASSIVE: identical
+bal op PASSIVE: identical
+bal pr PASSIVE: identical
+bAD im PASSIVE: identical
+bAD ip PASSIVE: identical
+bAD op PASSIVE: identical
+bAD pr PASSIVE: identical
+buD im PASSIVE: identical
+buD ip PASSIVE: identical
+buD op PASSIVE: identical
+buD pr PASSIVE: identical
+bfh im PASSIVE: identical
+bfh ip PASSIVE: identical
+bfh op PASSIVE: identical
+bfh pr PASSIVE: identical
+brU im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) abrUyata != Ocyata (pysan)
+     3d (huet) abrUyetAm != OcyetAm (pysan)
+     3p (huet) abrUyanta != Ocyanta (pysan)
+     2s (huet) abrUyaTAH != OcyaTAH (pysan)
+     2d (huet) abrUyeTAm != OcyeTAm (pysan)
+     2p (huet) abrUyaDvam != OcyaDvam (pysan)
+     1s (huet) abrUye != Ocye (pysan)
+     1d (huet) abrUyAvahi != OcyAvahi (pysan)
+     1p (huet) abrUyAmahi != OcyAmahi (pysan)
+brU ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) brUyatAm != ucyatAm (pysan)
+     3d (huet) brUyetAm != ucyetAm (pysan)
+     3p (huet) brUyantAm != ucyantAm (pysan)
+     2s (huet) brUyasva != ucyasva (pysan)
+     2d (huet) brUyeTAm != ucyeTAm (pysan)
+     2p (huet) brUyaDvam != ucyaDvam (pysan)
+     1s (huet) brUyE != ucyE (pysan)
+     1d (huet) brUyAvahE != ucyAvahE (pysan)
+     1p (huet) brUyAmahE != ucyAmahE (pysan)
+brU op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) brUyeta != ucyeta (pysan)
+     3d (huet) brUyeyAtAm != ucyeyAtAm (pysan)
+     3p (huet) brUyeran != ucyeran (pysan)
+     2s (huet) brUyeTAH != ucyeTAH (pysan)
+     2d (huet) brUyeyATAm != ucyeyATAm (pysan)
+     2p (huet) brUyeDvam != ucyeDvam (pysan)
+     1s (huet) brUyeya != ucyeya (pysan)
+     1d (huet) brUyevahi != ucyevahi (pysan)
+     1p (huet) brUyemahi != ucyemahi (pysan)
+brU pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) brUyate != ucyate (pysan)
+     3d (huet) brUyete != ucyete (pysan)
+     3p (huet) brUyante != ucyante (pysan)
+     2s (huet) brUyase != ucyase (pysan)
+     2d (huet) brUyeTe != ucyeTe (pysan)
+     2p (huet) brUyaDve != ucyaDve (pysan)
+     1s (huet) brUye != ucye (pysan)
+     1d (huet) brUyAvahe != ucyAvahe (pysan)
+     1p (huet) brUyAmahe != ucyAmahe (pysan)
+Bakz im PASSIVE: identical
+Bakz ip PASSIVE: identical
+Bakz op PASSIVE: identical
+Bakz pr PASSIVE: identical
+Baj im PASSIVE: identical
+Baj ip PASSIVE: identical
+Baj op PASSIVE: identical
+Baj pr PASSIVE: identical
+BaYj im PASSIVE: identical
+BaYj ip PASSIVE: identical
+BaYj op PASSIVE: identical
+BaYj pr PASSIVE: identical
+BaR im PASSIVE: identical
+BaR ip PASSIVE: identical
+BaR op PASSIVE: identical
+BaR pr PASSIVE: identical
+BaRq im PASSIVE: identical
+BaRq ip PASSIVE: identical
+BaRq op PASSIVE: identical
+BaRq pr PASSIVE: identical
+Band im PASSIVE: identical
+Band ip PASSIVE: identical
+Band op PASSIVE: identical
+Band pr PASSIVE: identical
+Barts im PASSIVE: identical
+Barts ip PASSIVE: identical
+Barts op PASSIVE: identical
+Barts pr PASSIVE: identical
+Baz im PASSIVE: identical
+Baz ip PASSIVE: identical
+Baz op PASSIVE: identical
+Baz pr PASSIVE: identical
+Bas im PASSIVE: identical
+Bas ip PASSIVE: identical
+Bas op PASSIVE: identical
+Bas pr PASSIVE: identical
+BA im PASSIVE: identical
+BA ip PASSIVE: identical
+BA op PASSIVE: identical
+BA pr PASSIVE: identical
+BAz im PASSIVE: identical
+BAz ip PASSIVE: identical
+BAz op PASSIVE: identical
+BAz pr PASSIVE: identical
+BAs im PASSIVE: identical
+BAs ip PASSIVE: identical
+BAs op PASSIVE: identical
+BAs pr PASSIVE: identical
+Bid im PASSIVE: identical
+Bid ip PASSIVE: identical
+Bid op PASSIVE: identical
+Bid pr PASSIVE: identical
+BI im PASSIVE: identical
+BI ip PASSIVE: identical
+BI op PASSIVE: identical
+BI pr PASSIVE: identical
+Buj im PASSIVE: identical
+Buj ip PASSIVE: identical
+Buj op PASSIVE: identical
+Buj pr PASSIVE: identical
+BU im PASSIVE: identical
+BU ip PASSIVE: identical
+BU op PASSIVE: identical
+BU pr PASSIVE: identical
+BUz im PASSIVE: identical
+BUz ip PASSIVE: identical
+BUz op PASSIVE: identical
+BUz pr PASSIVE: identical
+Bf im PASSIVE: identical
+Bf ip PASSIVE: conjugation differences @ 3p 
+     3p (huet) BriyantAm,Briyantu != BriyantAm (pysan)
+Bf op PASSIVE: identical
+Bf pr PASSIVE: identical
+Bfjj im PASSIVE: identical
+Bfjj ip PASSIVE: identical
+Bfjj op PASSIVE: identical
+Bfjj pr PASSIVE: identical
+BraMS im PASSIVE: identical
+BraMS ip PASSIVE: identical
+BraMS op PASSIVE: identical
+BraMS pr PASSIVE: identical
+Bram im PASSIVE: identical
+Bram ip PASSIVE: identical
+Bram op PASSIVE: identical
+Bram pr PASSIVE: identical
+BrAj im PASSIVE: identical
+BrAj ip PASSIVE: identical
+BrAj op PASSIVE: identical
+BrAj pr PASSIVE: identical
+maMh im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amahyata != amaMhyata (pysan)
+     3d (huet) amahyetAm != amaMhyetAm (pysan)
+     3p (huet) amahyanta != amaMhyanta (pysan)
+     2s (huet) amahyaTAH != amaMhyaTAH (pysan)
+     2d (huet) amahyeTAm != amaMhyeTAm (pysan)
+     2p (huet) amahyaDvam != amaMhyaDvam (pysan)
+     1s (huet) amahye != amaMhye (pysan)
+     1d (huet) amahyAvahi != amaMhyAvahi (pysan)
+     1p (huet) amahyAmahi != amaMhyAmahi (pysan)
+maMh ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mahyatAm != maMhyatAm (pysan)
+     3d (huet) mahyetAm != maMhyetAm (pysan)
+     3p (huet) mahyantAm != maMhyantAm (pysan)
+     2s (huet) mahyasva != maMhyasva (pysan)
+     2d (huet) mahyeTAm != maMhyeTAm (pysan)
+     2p (huet) mahyaDvam != maMhyaDvam (pysan)
+     1s (huet) mahyE != maMhyE (pysan)
+     1d (huet) mahyAvahE != maMhyAvahE (pysan)
+     1p (huet) mahyAmahE != maMhyAmahE (pysan)
+maMh op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mahyeta != maMhyeta (pysan)
+     3d (huet) mahyeyAtAm != maMhyeyAtAm (pysan)
+     3p (huet) mahyeran != maMhyeran (pysan)
+     2s (huet) mahyeTAH != maMhyeTAH (pysan)
+     2d (huet) mahyeyATAm != maMhyeyATAm (pysan)
+     2p (huet) mahyeDvam != maMhyeDvam (pysan)
+     1s (huet) mahyeya != maMhyeya (pysan)
+     1d (huet) mahyevahi != maMhyevahi (pysan)
+     1p (huet) mahyemahi != maMhyemahi (pysan)
+maMh pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mahyate != maMhyate (pysan)
+     3d (huet) mahyete != maMhyete (pysan)
+     3p (huet) mahyante != maMhyante (pysan)
+     2s (huet) mahyase != maMhyase (pysan)
+     2d (huet) mahyeTe != maMhyeTe (pysan)
+     2p (huet) mahyaDve != maMhyaDve (pysan)
+     1s (huet) mahye != maMhye (pysan)
+     1d (huet) mahyAvahe != maMhyAvahe (pysan)
+     1p (huet) mahyAmahe != maMhyAmahe (pysan)
+majj im PASSIVE: identical
+majj ip PASSIVE: identical
+majj op PASSIVE: identical
+majj pr PASSIVE: identical
+maRq im PASSIVE: identical
+maRq ip PASSIVE: identical
+maRq op PASSIVE: identical
+maRq pr PASSIVE: identical
+mad im PASSIVE: identical
+mad ip PASSIVE: identical
+mad op PASSIVE: identical
+mad pr PASSIVE: identical
+man im PASSIVE: identical
+man ip PASSIVE: identical
+man op PASSIVE: identical
+man pr PASSIVE: identical
+manT im PASSIVE: identical
+manT ip PASSIVE: identical
+manT op PASSIVE: identical
+manT pr PASSIVE: identical
+mand im PASSIVE: identical
+mand ip PASSIVE: identical
+mand op PASSIVE: identical
+mand pr PASSIVE: identical
+mah im PASSIVE: identical
+mah ip PASSIVE: identical
+mah op PASSIVE: identical
+mah pr PASSIVE: identical
+mA im PASSIVE: identical
+mA ip PASSIVE: identical
+mA op PASSIVE: identical
+mA pr PASSIVE: identical
+mArg im PASSIVE: identical
+mArg ip PASSIVE: identical
+mArg op PASSIVE: identical
+mArg pr PASSIVE: identical
+mi im PASSIVE: identical
+mi ip PASSIVE: identical
+mi op PASSIVE: identical
+mi pr PASSIVE: identical
+miT im PASSIVE: identical
+miT ip PASSIVE: identical
+miT op PASSIVE: identical
+miT pr PASSIVE: identical
+mid im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amedyata,amidyata != amidyata (pysan)
+     3d (huet) amedyetAm,amidyetAm != amidyetAm (pysan)
+     3p (huet) amedyanta,amidyanta != amidyanta (pysan)
+     2s (huet) amedyaTAH,amidyaTAH != amidyaTAH (pysan)
+     2d (huet) amedyeTAm,amidyeTAm != amidyeTAm (pysan)
+     2p (huet) amedyaDvam,amidyaDvam != amidyaDvam (pysan)
+     1s (huet) amedye,amidye != amidye (pysan)
+     1d (huet) amedyAvahi,amidyAvahi != amidyAvahi (pysan)
+     1p (huet) amedyAmahi,amidyAmahi != amidyAmahi (pysan)
+mid ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) medyatAm,midyatAm != midyatAm (pysan)
+     3d (huet) medyetAm,midyetAm != midyetAm (pysan)
+     3p (huet) medyantAm,midyantAm != midyantAm (pysan)
+     2s (huet) medyasva,midyasva != midyasva (pysan)
+     2d (huet) medyeTAm,midyeTAm != midyeTAm (pysan)
+     2p (huet) medyaDvam,midyaDvam != midyaDvam (pysan)
+     1s (huet) medyE,midyE != midyE (pysan)
+     1d (huet) medyAvahE,midyAvahE != midyAvahE (pysan)
+     1p (huet) medyAmahE,midyAmahE != midyAmahE (pysan)
+mid op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) medyeta,midyeta != midyeta (pysan)
+     3d (huet) medyeyAtAm,midyeyAtAm != midyeyAtAm (pysan)
+     3p (huet) medyeran,midyeran != midyeran (pysan)
+     2s (huet) medyeTAH,midyeTAH != midyeTAH (pysan)
+     2d (huet) medyeyATAm,midyeyATAm != midyeyATAm (pysan)
+     2p (huet) medyeDvam,midyeDvam != midyeDvam (pysan)
+     1s (huet) medyeya,midyeya != midyeya (pysan)
+     1d (huet) medyevahi,midyevahi != midyevahi (pysan)
+     1p (huet) medyemahi,midyemahi != midyemahi (pysan)
+mid pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) medyate,midyate != midyate (pysan)
+     3d (huet) medyete,midyete != midyete (pysan)
+     3p (huet) medyante,midyante != midyante (pysan)
+     2s (huet) medyase,midyase != midyase (pysan)
+     2d (huet) medyeTe,midyeTe != midyeTe (pysan)
+     2p (huet) medyaDve,midyaDve != midyaDve (pysan)
+     1s (huet) medye,midye != midye (pysan)
+     1d (huet) medyAvahe,midyAvahe != midyAvahe (pysan)
+     1p (huet) medyAmahe,midyAmahe != midyAmahe (pysan)
+mil im PASSIVE: identical
+mil ip PASSIVE: identical
+mil op PASSIVE: identical
+mil pr PASSIVE: identical
+miz im PASSIVE: identical
+miz ip PASSIVE: identical
+miz op PASSIVE: identical
+miz pr PASSIVE: identical
+mih im PASSIVE: identical
+mih ip PASSIVE: identical
+mih op PASSIVE: identical
+mih pr PASSIVE: identical
+mI im PASSIVE: identical
+mI ip PASSIVE: identical
+mI op PASSIVE: identical
+mI pr PASSIVE: identical
+mIl im PASSIVE: identical
+mIl ip PASSIVE: identical
+mIl op PASSIVE: identical
+mIl pr PASSIVE: identical
+muc im PASSIVE: identical
+muc ip PASSIVE: identical
+muc op PASSIVE: identical
+muc pr PASSIVE: identical
+mud im PASSIVE: identical
+mud ip PASSIVE: identical
+mud op PASSIVE: identical
+mud pr PASSIVE: identical
+muz im PASSIVE: identical
+muz ip PASSIVE: identical
+muz op PASSIVE: identical
+muz pr PASSIVE: identical
+muh im PASSIVE: identical
+muh ip PASSIVE: identical
+muh op PASSIVE: identical
+muh pr PASSIVE: identical
+mUrC im PASSIVE: identical
+mUrC ip PASSIVE: identical
+mUrC op PASSIVE: identical
+mUrC pr PASSIVE: identical
+mUz im PASSIVE: identical
+mUz ip PASSIVE: identical
+mUz op PASSIVE: identical
+mUz pr PASSIVE: identical
+mf im PASSIVE: identical
+mf ip PASSIVE: identical
+mf op PASSIVE: identical
+mf pr PASSIVE: identical
+mfj im PASSIVE: identical
+mfj ip PASSIVE: identical
+mfj op PASSIVE: identical
+mfj pr PASSIVE: identical
+mfq im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amarqyata,amfqyata != amfqyata (pysan)
+     3d (huet) amarqyetAm,amfqyetAm != amfqyetAm (pysan)
+     3p (huet) amarqyanta,amfqyanta != amfqyanta (pysan)
+     2s (huet) amarqyaTAH,amfqyaTAH != amfqyaTAH (pysan)
+     2d (huet) amarqyeTAm,amfqyeTAm != amfqyeTAm (pysan)
+     2p (huet) amarqyaDvam,amfqyaDvam != amfqyaDvam (pysan)
+     1s (huet) amarqye,amfqye != amfqye (pysan)
+     1d (huet) amarqyAvahi,amfqyAvahi != amfqyAvahi (pysan)
+     1p (huet) amarqyAmahi,amfqyAmahi != amfqyAmahi (pysan)
+mfq ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marqyatAm,mfqyatAm != mfqyatAm (pysan)
+     3d (huet) marqyetAm,mfqyetAm != mfqyetAm (pysan)
+     3p (huet) marqyantAm,mfqyantAm != mfqyantAm (pysan)
+     2s (huet) marqyasva,mfqyasva != mfqyasva (pysan)
+     2d (huet) marqyeTAm,mfqyeTAm != mfqyeTAm (pysan)
+     2p (huet) marqyaDvam,mfqyaDvam != mfqyaDvam (pysan)
+     1s (huet) marqyE,mfqyE != mfqyE (pysan)
+     1d (huet) marqyAvahE,mfqyAvahE != mfqyAvahE (pysan)
+     1p (huet) marqyAmahE,mfqyAmahE != mfqyAmahE (pysan)
+mfq op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marqyeta,mfqyeta != mfqyeta (pysan)
+     3d (huet) marqyeyAtAm,mfqyeyAtAm != mfqyeyAtAm (pysan)
+     3p (huet) marqyeran,mfqyeran != mfqyeran (pysan)
+     2s (huet) marqyeTAH,mfqyeTAH != mfqyeTAH (pysan)
+     2d (huet) marqyeyATAm,mfqyeyATAm != mfqyeyATAm (pysan)
+     2p (huet) marqyeDvam,mfqyeDvam != mfqyeDvam (pysan)
+     1s (huet) marqyeya,mfqyeya != mfqyeya (pysan)
+     1d (huet) marqyevahi,mfqyevahi != mfqyevahi (pysan)
+     1p (huet) marqyemahi,mfqyemahi != mfqyemahi (pysan)
+mfq pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marqyate,mfqyate != mfqyate (pysan)
+     3d (huet) marqyete,mfqyete != mfqyete (pysan)
+     3p (huet) marqyante,mfqyante != mfqyante (pysan)
+     2s (huet) marqyase,mfqyase != mfqyase (pysan)
+     2d (huet) marqyeTe,mfqyeTe != mfqyeTe (pysan)
+     2p (huet) marqyaDve,mfqyaDve != mfqyaDve (pysan)
+     1s (huet) marqye,mfqye != mfqye (pysan)
+     1d (huet) marqyAvahe,mfqyAvahe != mfqyAvahe (pysan)
+     1p (huet) marqyAmahe,mfqyAmahe != mfqyAmahe (pysan)
+mfd im PASSIVE: identical
+mfd ip PASSIVE: identical
+mfd op PASSIVE: identical
+mfd pr PASSIVE: identical
+mfD im PASSIVE: identical
+mfD ip PASSIVE: identical
+mfD op PASSIVE: identical
+mfD pr PASSIVE: identical
+mfS im PASSIVE: identical
+mfS ip PASSIVE: identical
+mfS op PASSIVE: identical
+mfS pr PASSIVE: identical
+mfz im PASSIVE: identical
+mfz ip PASSIVE: identical
+mfz op PASSIVE: identical
+mfz pr PASSIVE: identical
+mokz im PASSIVE: identical
+mokz ip PASSIVE: identical
+mokz op PASSIVE: identical
+mokz pr PASSIVE: identical
+mnA im PASSIVE: identical
+mnA ip PASSIVE: identical
+mnA op PASSIVE: identical
+mnA pr PASSIVE: identical
+mlA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amlIyata != amlAyata (pysan)
+     3d (huet) amlIyetAm != amlAyetAm (pysan)
+     3p (huet) amlIyanta != amlAyanta (pysan)
+     2s (huet) amlIyaTAH != amlAyaTAH (pysan)
+     2d (huet) amlIyeTAm != amlAyeTAm (pysan)
+     2p (huet) amlIyaDvam != amlAyaDvam (pysan)
+     1s (huet) amlIye != amlAye (pysan)
+     1d (huet) amlIyAvahi != amlAyAvahi (pysan)
+     1p (huet) amlIyAmahi != amlAyAmahi (pysan)
+mlA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mlIyatAm != mlAyatAm (pysan)
+     3d (huet) mlIyetAm != mlAyetAm (pysan)
+     3p (huet) mlIyantAm != mlAyantAm (pysan)
+     2s (huet) mlIyasva != mlAyasva (pysan)
+     2d (huet) mlIyeTAm != mlAyeTAm (pysan)
+     2p (huet) mlIyaDvam != mlAyaDvam (pysan)
+     1s (huet) mlIyE != mlAyE (pysan)
+     1d (huet) mlIyAvahE != mlAyAvahE (pysan)
+     1p (huet) mlIyAmahE != mlAyAmahE (pysan)
+mlA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mlIyeta != mlAyeta (pysan)
+     3d (huet) mlIyeyAtAm != mlAyeyAtAm (pysan)
+     3p (huet) mlIyeran != mlAyeran (pysan)
+     2s (huet) mlIyeTAH != mlAyeTAH (pysan)
+     2d (huet) mlIyeyATAm != mlAyeyATAm (pysan)
+     2p (huet) mlIyeDvam != mlAyeDvam (pysan)
+     1s (huet) mlIyeya != mlAyeya (pysan)
+     1d (huet) mlIyevahi != mlAyevahi (pysan)
+     1p (huet) mlIyemahi != mlAyemahi (pysan)
+mlA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mlIyate != mlAyate (pysan)
+     3d (huet) mlIyete != mlAyete (pysan)
+     3p (huet) mlIyante != mlAyante (pysan)
+     2s (huet) mlIyase != mlAyase (pysan)
+     2d (huet) mlIyeTe != mlAyeTe (pysan)
+     2p (huet) mlIyaDve != mlAyaDve (pysan)
+     1s (huet) mlIye != mlAye (pysan)
+     1d (huet) mlIyAvahe != mlAyAvahe (pysan)
+     1p (huet) mlIyAmahe != mlAyAmahe (pysan)
+mlecC im PASSIVE: identical
+mlecC ip PASSIVE: identical
+mlecC op PASSIVE: identical
+mlecC pr PASSIVE: identical
+yaj im PASSIVE: identical
+yaj ip PASSIVE: identical
+yaj op PASSIVE: identical
+yaj pr PASSIVE: identical
+yat im PASSIVE: identical
+yat ip PASSIVE: identical
+yat op PASSIVE: identical
+yat pr PASSIVE: identical
+yaB im PASSIVE: identical
+yaB ip PASSIVE: identical
+yaB op PASSIVE: identical
+yaB pr PASSIVE: identical
+yam im PASSIVE: identical
+yam ip PASSIVE: identical
+yam op PASSIVE: identical
+yam pr PASSIVE: identical
+yas im PASSIVE: identical
+yas ip PASSIVE: identical
+yas op PASSIVE: identical
+yas pr PASSIVE: identical
+yA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Eyata != ayAyata (pysan)
+     3d (huet) EyetAm != ayAyetAm (pysan)
+     3p (huet) Eyanta != ayAyanta (pysan)
+     2s (huet) EyaTAH != ayAyaTAH (pysan)
+     2d (huet) EyeTAm != ayAyeTAm (pysan)
+     2p (huet) EyaDvam != ayAyaDvam (pysan)
+     1s (huet) Eye != ayAye (pysan)
+     1d (huet) EyAvahi != ayAyAvahi (pysan)
+     1p (huet) EyAmahi != ayAyAmahi (pysan)
+yA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) IyatAm != yAyatAm (pysan)
+     3d (huet) IyetAm != yAyetAm (pysan)
+     3p (huet) IyantAm != yAyantAm (pysan)
+     2s (huet) Iyasva != yAyasva (pysan)
+     2d (huet) IyeTAm != yAyeTAm (pysan)
+     2p (huet) IyaDvam != yAyaDvam (pysan)
+     1s (huet) IyE != yAyE (pysan)
+     1d (huet) IyAvahE != yAyAvahE (pysan)
+     1p (huet) IyAmahE != yAyAmahE (pysan)
+yA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Iyeta != yAyeta (pysan)
+     3d (huet) IyeyAtAm != yAyeyAtAm (pysan)
+     3p (huet) Iyeran != yAyeran (pysan)
+     2s (huet) IyeTAH != yAyeTAH (pysan)
+     2d (huet) IyeyATAm != yAyeyATAm (pysan)
+     2p (huet) IyeDvam != yAyeDvam (pysan)
+     1s (huet) Iyeya != yAyeya (pysan)
+     1d (huet) Iyevahi != yAyevahi (pysan)
+     1p (huet) Iyemahi != yAyemahi (pysan)
+yA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Iyate != yAyate (pysan)
+     3d (huet) Iyete != yAyete (pysan)
+     3p (huet) Iyante != yAyante (pysan)
+     2s (huet) Iyase != yAyase (pysan)
+     2d (huet) IyeTe != yAyeTe (pysan)
+     2p (huet) IyaDve != yAyaDve (pysan)
+     1s (huet) Iye != yAye (pysan)
+     1d (huet) IyAvahe != yAyAvahe (pysan)
+     1p (huet) IyAmahe != yAyAmahe (pysan)
+yAc im PASSIVE: identical
+yAc ip PASSIVE: identical
+yAc op PASSIVE: identical
+yAc pr PASSIVE: identical
+yu im PASSIVE: identical
+yu ip PASSIVE: identical
+yu op PASSIVE: identical
+yu pr PASSIVE: identical
+yuj im PASSIVE: identical
+yuj ip PASSIVE: identical
+yuj op PASSIVE: identical
+yuj pr PASSIVE: identical
+yuD im PASSIVE: identical
+yuD ip PASSIVE: identical
+yuD op PASSIVE: identical
+yuD pr PASSIVE: identical
+raMh im PASSIVE: identical
+raMh ip PASSIVE: identical
+raMh op PASSIVE: identical
+raMh pr PASSIVE: identical
+rakz im PASSIVE: identical
+rakz ip PASSIVE: identical
+rakz op PASSIVE: identical
+rakz pr PASSIVE: identical
+rac im PASSIVE: identical
+rac ip PASSIVE: identical
+rac op PASSIVE: identical
+rac pr PASSIVE: identical
+raYj im PASSIVE: identical
+raYj ip PASSIVE: identical
+raYj op PASSIVE: identical
+raYj pr PASSIVE: identical
+raR im PASSIVE: identical
+raR ip PASSIVE: identical
+raR op PASSIVE: identical
+raR pr PASSIVE: identical
+rad im PASSIVE: identical
+rad ip PASSIVE: identical
+rad op PASSIVE: identical
+rad pr PASSIVE: identical
+raD im PASSIVE: identical
+raD ip PASSIVE: identical
+raD op PASSIVE: identical
+raD pr PASSIVE: identical
+raB im PASSIVE: identical
+raB ip PASSIVE: identical
+raB op PASSIVE: identical
+raB pr PASSIVE: identical
+ram im PASSIVE: identical
+ram ip PASSIVE: identical
+ram op PASSIVE: identical
+ram pr PASSIVE: identical
+rah im PASSIVE: identical
+rah ip PASSIVE: identical
+rah op PASSIVE: identical
+rah pr PASSIVE: identical
+rA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) arIyata != arAyata (pysan)
+     3d (huet) arIyetAm != arAyetAm (pysan)
+     3p (huet) arIyanta != arAyanta (pysan)
+     2s (huet) arIyaTAH != arAyaTAH (pysan)
+     2d (huet) arIyeTAm != arAyeTAm (pysan)
+     2p (huet) arIyaDvam != arAyaDvam (pysan)
+     1s (huet) arIye != arAye (pysan)
+     1d (huet) arIyAvahi != arAyAvahi (pysan)
+     1p (huet) arIyAmahi != arAyAmahi (pysan)
+rA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rIyatAm != rAyatAm (pysan)
+     3d (huet) rIyetAm != rAyetAm (pysan)
+     3p (huet) rIyantAm != rAyantAm (pysan)
+     2s (huet) rIyasva != rAyasva (pysan)
+     2d (huet) rIyeTAm != rAyeTAm (pysan)
+     2p (huet) rIyaDvam != rAyaDvam (pysan)
+     1s (huet) rIyE != rAyE (pysan)
+     1d (huet) rIyAvahE != rAyAvahE (pysan)
+     1p (huet) rIyAmahE != rAyAmahE (pysan)
+rA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rIyeta != rAyeta (pysan)
+     3d (huet) rIyeyAtAm != rAyeyAtAm (pysan)
+     3p (huet) rIyeran != rAyeran (pysan)
+     2s (huet) rIyeTAH != rAyeTAH (pysan)
+     2d (huet) rIyeyATAm != rAyeyATAm (pysan)
+     2p (huet) rIyeDvam != rAyeDvam (pysan)
+     1s (huet) rIyeya != rAyeya (pysan)
+     1d (huet) rIyevahi != rAyevahi (pysan)
+     1p (huet) rIyemahi != rAyemahi (pysan)
+rA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rIyate != rAyate (pysan)
+     3d (huet) rIyete != rAyete (pysan)
+     3p (huet) rIyante != rAyante (pysan)
+     2s (huet) rIyase != rAyase (pysan)
+     2d (huet) rIyeTe != rAyeTe (pysan)
+     2p (huet) rIyaDve != rAyaDve (pysan)
+     1s (huet) rIye != rAye (pysan)
+     1d (huet) rIyAvahe != rAyAvahe (pysan)
+     1p (huet) rIyAmahe != rAyAmahe (pysan)
+rAj im PASSIVE: identical
+rAj ip PASSIVE: identical
+rAj op PASSIVE: identical
+rAj pr PASSIVE: identical
+rAD im PASSIVE: identical
+rAD ip PASSIVE: identical
+rAD op PASSIVE: identical
+rAD pr PASSIVE: identical
+ri im PASSIVE: identical
+ri ip PASSIVE: identical
+ri op PASSIVE: identical
+ri pr PASSIVE: identical
+ric im PASSIVE: identical
+ric ip PASSIVE: identical
+ric op PASSIVE: identical
+ric pr PASSIVE: identical
+riz im PASSIVE: identical
+riz ip PASSIVE: identical
+riz op PASSIVE: identical
+riz pr PASSIVE: identical
+ru im PASSIVE: identical
+ru ip PASSIVE: identical
+ru op PASSIVE: identical
+ru pr PASSIVE: identical
+ruj im PASSIVE: identical
+ruj ip PASSIVE: identical
+ruj op PASSIVE: identical
+ruj pr PASSIVE: identical
+rud im PASSIVE: identical
+rud ip PASSIVE: identical
+rud op PASSIVE: identical
+rud pr PASSIVE: identical
+ruD im PASSIVE: identical
+ruD ip PASSIVE: identical
+ruD op PASSIVE: identical
+ruD pr PASSIVE: identical
+ruz im PASSIVE: identical
+ruz ip PASSIVE: identical
+ruz op PASSIVE: identical
+ruz pr PASSIVE: identical
+ruh im PASSIVE: identical
+ruh ip PASSIVE: identical
+ruh op PASSIVE: identical
+ruh pr PASSIVE: identical
+rUp im PASSIVE: identical
+rUp ip PASSIVE: identical
+rUp op PASSIVE: identical
+rUp pr PASSIVE: identical
+lakz im PASSIVE: identical
+lakz ip PASSIVE: identical
+lakz op PASSIVE: identical
+lakz pr PASSIVE: identical
+lag im PASSIVE: identical
+lag ip PASSIVE: identical
+lag op PASSIVE: identical
+lag pr PASSIVE: identical
+laNg im PASSIVE: identical
+laNg ip PASSIVE: identical
+laNg op PASSIVE: identical
+laNg pr PASSIVE: identical
+laNG im PASSIVE: identical
+laNG ip PASSIVE: identical
+laNG op PASSIVE: identical
+laNG pr PASSIVE: identical
+lajj im PASSIVE: identical
+lajj ip PASSIVE: identical
+lajj op PASSIVE: identical
+lajj pr PASSIVE: identical
+lap im PASSIVE: identical
+lap ip PASSIVE: identical
+lap op PASSIVE: identical
+lap pr PASSIVE: identical
+laB im PASSIVE: identical
+laB ip PASSIVE: identical
+laB op PASSIVE: identical
+laB pr PASSIVE: identical
+lamb im PASSIVE: identical
+lamb ip PASSIVE: identical
+lamb op PASSIVE: identical
+lamb pr PASSIVE: identical
+lal im PASSIVE: identical
+lal ip PASSIVE: identical
+lal op PASSIVE: identical
+lal pr PASSIVE: identical
+laz im PASSIVE: identical
+laz ip PASSIVE: identical
+laz op PASSIVE: identical
+laz pr PASSIVE: identical
+las im PASSIVE: identical
+las ip PASSIVE: identical
+las op PASSIVE: identical
+las pr PASSIVE: identical
+lAYC im PASSIVE: identical
+lAYC ip PASSIVE: identical
+lAYC op PASSIVE: identical
+lAYC pr PASSIVE: identical
+liK im PASSIVE: identical
+liK ip PASSIVE: identical
+liK op PASSIVE: identical
+liK pr PASSIVE: identical
+lip im PASSIVE: identical
+lip ip PASSIVE: identical
+lip op PASSIVE: identical
+lip pr PASSIVE: identical
+liS im PASSIVE: identical
+liS ip PASSIVE: identical
+liS op PASSIVE: identical
+liS pr PASSIVE: identical
+lih im PASSIVE: identical
+lih ip PASSIVE: identical
+lih op PASSIVE: identical
+lih pr PASSIVE: identical
+lI im PASSIVE: identical
+lI ip PASSIVE: identical
+lI op PASSIVE: identical
+lI pr PASSIVE: identical
+luYc im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) alucyata != aluYcyata (pysan)
+     3d (huet) alucyetAm != aluYcyetAm (pysan)
+     3p (huet) alucyanta != aluYcyanta (pysan)
+     2s (huet) alucyaTAH != aluYcyaTAH (pysan)
+     2d (huet) alucyeTAm != aluYcyeTAm (pysan)
+     2p (huet) alucyaDvam != aluYcyaDvam (pysan)
+     1s (huet) alucye != aluYcye (pysan)
+     1d (huet) alucyAvahi != aluYcyAvahi (pysan)
+     1p (huet) alucyAmahi != aluYcyAmahi (pysan)
+luYc ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lucyatAm != luYcyatAm (pysan)
+     3d (huet) lucyetAm != luYcyetAm (pysan)
+     3p (huet) lucyantAm != luYcyantAm (pysan)
+     2s (huet) lucyasva != luYcyasva (pysan)
+     2d (huet) lucyeTAm != luYcyeTAm (pysan)
+     2p (huet) lucyaDvam != luYcyaDvam (pysan)
+     1s (huet) lucyE != luYcyE (pysan)
+     1d (huet) lucyAvahE != luYcyAvahE (pysan)
+     1p (huet) lucyAmahE != luYcyAmahE (pysan)
+luYc op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lucyeta != luYcyeta (pysan)
+     3d (huet) lucyeyAtAm != luYcyeyAtAm (pysan)
+     3p (huet) lucyeran != luYcyeran (pysan)
+     2s (huet) lucyeTAH != luYcyeTAH (pysan)
+     2d (huet) lucyeyATAm != luYcyeyATAm (pysan)
+     2p (huet) lucyeDvam != luYcyeDvam (pysan)
+     1s (huet) lucyeya != luYcyeya (pysan)
+     1d (huet) lucyevahi != luYcyevahi (pysan)
+     1p (huet) lucyemahi != luYcyemahi (pysan)
+luYc pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lucyate != luYcyate (pysan)
+     3d (huet) lucyete != luYcyete (pysan)
+     3p (huet) lucyante != luYcyante (pysan)
+     2s (huet) lucyase != luYcyase (pysan)
+     2d (huet) lucyeTe != luYcyeTe (pysan)
+     2p (huet) lucyaDve != luYcyaDve (pysan)
+     1s (huet) lucye != luYcye (pysan)
+     1d (huet) lucyAvahe != luYcyAvahe (pysan)
+     1p (huet) lucyAmahe != luYcyAmahe (pysan)
+luW im PASSIVE: identical
+luW ip PASSIVE: identical
+luW op PASSIVE: identical
+luW pr PASSIVE: identical
+luRW im PASSIVE: identical
+luRW ip PASSIVE: identical
+luRW op PASSIVE: identical
+luRW pr PASSIVE: identical
+lup im PASSIVE: identical
+lup ip PASSIVE: identical
+lup op PASSIVE: identical
+lup pr PASSIVE: identical
+luB im PASSIVE: identical
+luB ip PASSIVE: identical
+luB op PASSIVE: identical
+luB pr PASSIVE: identical
+lul im PASSIVE: identical
+lul ip PASSIVE: identical
+lul op PASSIVE: identical
+lul pr PASSIVE: identical
+lU im PASSIVE: identical
+lU ip PASSIVE: identical
+lU op PASSIVE: identical
+lU pr PASSIVE: identical
+lelA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aleleyata != alelAyata (pysan)
+     3d (huet) aleleyetAm != alelAyetAm (pysan)
+     3p (huet) aleleyanta != alelAyanta (pysan)
+     2s (huet) aleleyaTAH != alelAyaTAH (pysan)
+     2d (huet) aleleyeTAm != alelAyeTAm (pysan)
+     2p (huet) aleleyaDvam != alelAyaDvam (pysan)
+     1s (huet) aleleye != alelAye (pysan)
+     1d (huet) aleleyAvahi != alelAyAvahi (pysan)
+     1p (huet) aleleyAmahi != alelAyAmahi (pysan)
+lelA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) leleyatAm != lelAyatAm (pysan)
+     3d (huet) leleyetAm != lelAyetAm (pysan)
+     3p (huet) leleyantAm != lelAyantAm (pysan)
+     2s (huet) leleyasva != lelAyasva (pysan)
+     2d (huet) leleyeTAm != lelAyeTAm (pysan)
+     2p (huet) leleyaDvam != lelAyaDvam (pysan)
+     1s (huet) leleyE != lelAyE (pysan)
+     1d (huet) leleyAvahE != lelAyAvahE (pysan)
+     1p (huet) leleyAmahE != lelAyAmahE (pysan)
+lelA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) leleyeta != lelAyeta (pysan)
+     3d (huet) leleyeyAtAm != lelAyeyAtAm (pysan)
+     3p (huet) leleyeran != lelAyeran (pysan)
+     2s (huet) leleyeTAH != lelAyeTAH (pysan)
+     2d (huet) leleyeyATAm != lelAyeyATAm (pysan)
+     2p (huet) leleyeDvam != lelAyeDvam (pysan)
+     1s (huet) leleyeya != lelAyeya (pysan)
+     1d (huet) leleyevahi != lelAyevahi (pysan)
+     1p (huet) leleyemahi != lelAyemahi (pysan)
+lelA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) leleyate != lelAyate (pysan)
+     3d (huet) leleyete != lelAyete (pysan)
+     3p (huet) leleyante != lelAyante (pysan)
+     2s (huet) leleyase != lelAyase (pysan)
+     2d (huet) leleyeTe != lelAyeTe (pysan)
+     2p (huet) leleyaDve != lelAyaDve (pysan)
+     1s (huet) leleye != lelAye (pysan)
+     1d (huet) leleyAvahe != lelAyAvahe (pysan)
+     1p (huet) leleyAmahe != lelAyAmahe (pysan)
+lok im PASSIVE: identical
+lok ip PASSIVE: identical
+lok op PASSIVE: identical
+lok pr PASSIVE: identical
+loc im PASSIVE: identical
+loc ip PASSIVE: identical
+loc op PASSIVE: identical
+loc pr PASSIVE: identical
+vac im PASSIVE: identical
+vac ip PASSIVE: identical
+vac op PASSIVE: identical
+vac pr PASSIVE: identical
+vaYc im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) avacyata != avaYcyata (pysan)
+     3d (huet) avacyetAm != avaYcyetAm (pysan)
+     3p (huet) avacyanta != avaYcyanta (pysan)
+     2s (huet) avacyaTAH != avaYcyaTAH (pysan)
+     2d (huet) avacyeTAm != avaYcyeTAm (pysan)
+     2p (huet) avacyaDvam != avaYcyaDvam (pysan)
+     1s (huet) avacye != avaYcye (pysan)
+     1d (huet) avacyAvahi != avaYcyAvahi (pysan)
+     1p (huet) avacyAmahi != avaYcyAmahi (pysan)
+vaYc ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vacyatAm != vaYcyatAm (pysan)
+     3d (huet) vacyetAm != vaYcyetAm (pysan)
+     3p (huet) vacyantAm != vaYcyantAm (pysan)
+     2s (huet) vacyasva != vaYcyasva (pysan)
+     2d (huet) vacyeTAm != vaYcyeTAm (pysan)
+     2p (huet) vacyaDvam != vaYcyaDvam (pysan)
+     1s (huet) vacyE != vaYcyE (pysan)
+     1d (huet) vacyAvahE != vaYcyAvahE (pysan)
+     1p (huet) vacyAmahE != vaYcyAmahE (pysan)
+vaYc op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vacyeta != vaYcyeta (pysan)
+     3d (huet) vacyeyAtAm != vaYcyeyAtAm (pysan)
+     3p (huet) vacyeran != vaYcyeran (pysan)
+     2s (huet) vacyeTAH != vaYcyeTAH (pysan)
+     2d (huet) vacyeyATAm != vaYcyeyATAm (pysan)
+     2p (huet) vacyeDvam != vaYcyeDvam (pysan)
+     1s (huet) vacyeya != vaYcyeya (pysan)
+     1d (huet) vacyevahi != vaYcyevahi (pysan)
+     1p (huet) vacyemahi != vaYcyemahi (pysan)
+vaYc pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vacyate != vaYcyate (pysan)
+     3d (huet) vacyete != vaYcyete (pysan)
+     3p (huet) vacyante != vaYcyante (pysan)
+     2s (huet) vacyase != vaYcyase (pysan)
+     2d (huet) vacyeTe != vaYcyeTe (pysan)
+     2p (huet) vacyaDve != vaYcyaDve (pysan)
+     1s (huet) vacye != vaYcye (pysan)
+     1d (huet) vacyAvahe != vaYcyAvahe (pysan)
+     1p (huet) vacyAmahe != vaYcyAmahe (pysan)
+vad im PASSIVE: identical
+vad ip PASSIVE: identical
+vad op PASSIVE: identical
+vad pr PASSIVE: identical
+vaD im PASSIVE: identical
+vaD ip PASSIVE: identical
+vaD op PASSIVE: identical
+vaD pr PASSIVE: identical
+van im PASSIVE: identical
+van ip PASSIVE: identical
+van op PASSIVE: identical
+van pr PASSIVE: identical
+vand im PASSIVE: identical
+vand ip PASSIVE: identical
+vand op PASSIVE: identical
+vand pr PASSIVE: identical
+vap im PASSIVE: identical
+vap ip PASSIVE: identical
+vap op PASSIVE: identical
+vap pr PASSIVE: identical
+vam im PASSIVE: identical
+vam ip PASSIVE: identical
+vam op PASSIVE: identical
+vam pr PASSIVE: identical
+val im PASSIVE: identical
+val ip PASSIVE: identical
+val op PASSIVE: identical
+val pr PASSIVE: identical
+valg im PASSIVE: identical
+valg ip PASSIVE: identical
+valg op PASSIVE: identical
+valg pr PASSIVE: identical
+vaS im PASSIVE: identical
+vaS ip PASSIVE: identical
+vaS op PASSIVE: identical
+vaS pr PASSIVE: identical
+vas im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Ozyata,avasyata != Ozyata (pysan)
+     3d (huet) OzyetAm,avasyetAm != OzyetAm (pysan)
+     3p (huet) Ozyanta,avasyanta != Ozyanta (pysan)
+     2s (huet) OzyaTAH,avasyaTAH != OzyaTAH (pysan)
+     2d (huet) OzyeTAm,avasyeTAm != OzyeTAm (pysan)
+     2p (huet) OzyaDvam,avasyaDvam != OzyaDvam (pysan)
+     1s (huet) Ozye,avasye != Ozye (pysan)
+     1d (huet) OzyAvahi,avasyAvahi != OzyAvahi (pysan)
+     1p (huet) OzyAmahi,avasyAmahi != OzyAmahi (pysan)
+vas ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uzyatAm,vasyatAm != uzyatAm (pysan)
+     3d (huet) uzyetAm,vasyetAm != uzyetAm (pysan)
+     3p (huet) uzyantAm,vasyantAm != uzyantAm (pysan)
+     2s (huet) uzyasva,vasyasva != uzyasva (pysan)
+     2d (huet) uzyeTAm,vasyeTAm != uzyeTAm (pysan)
+     2p (huet) uzyaDvam,vasyaDvam != uzyaDvam (pysan)
+     1s (huet) uzyE,vasyE != uzyE (pysan)
+     1d (huet) uzyAvahE,vasyAvahE != uzyAvahE (pysan)
+     1p (huet) uzyAmahE,vasyAmahE != uzyAmahE (pysan)
+vas op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uzyeta,vasyeta != uzyeta (pysan)
+     3d (huet) uzyeyAtAm,vasyeyAtAm != uzyeyAtAm (pysan)
+     3p (huet) uzyeran,vasyeran != uzyeran (pysan)
+     2s (huet) uzyeTAH,vasyeTAH != uzyeTAH (pysan)
+     2d (huet) uzyeyATAm,vasyeyATAm != uzyeyATAm (pysan)
+     2p (huet) uzyeDvam,vasyeDvam != uzyeDvam (pysan)
+     1s (huet) uzyeya,vasyeya != uzyeya (pysan)
+     1d (huet) uzyevahi,vasyevahi != uzyevahi (pysan)
+     1p (huet) uzyemahi,vasyemahi != uzyemahi (pysan)
+vas pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uzyate,vasyate != uzyate (pysan)
+     3d (huet) uzyete,vasyete != uzyete (pysan)
+     3p (huet) uzyante,vasyante != uzyante (pysan)
+     2s (huet) uzyase,vasyase != uzyase (pysan)
+     2d (huet) uzyeTe,vasyeTe != uzyeTe (pysan)
+     2p (huet) uzyaDve,vasyaDve != uzyaDve (pysan)
+     1s (huet) uzye,vasye != uzye (pysan)
+     1d (huet) uzyAvahe,vasyAvahe != uzyAvahe (pysan)
+     1p (huet) uzyAmahe,vasyAmahe != uzyAmahe (pysan)
+vah im PASSIVE: identical
+vah ip PASSIVE: identical
+vah op PASSIVE: identical
+vah pr PASSIVE: identical
+vA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Oyata,avIyata != avAyata (pysan)
+     3d (huet) OyetAm,avIyetAm != avAyetAm (pysan)
+     3p (huet) Oyanta,avIyanta != avAyanta (pysan)
+     2s (huet) OyaTAH,avIyaTAH != avAyaTAH (pysan)
+     2d (huet) OyeTAm,avIyeTAm != avAyeTAm (pysan)
+     2p (huet) OyaDvam,avIyaDvam != avAyaDvam (pysan)
+     1s (huet) Oye,avIye != avAye (pysan)
+     1d (huet) OyAvahi,avIyAvahi != avAyAvahi (pysan)
+     1p (huet) OyAmahi,avIyAmahi != avAyAmahi (pysan)
+vA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) UyatAm,vIyatAm != vAyatAm (pysan)
+     3d (huet) UyetAm,vIyetAm != vAyetAm (pysan)
+     3p (huet) UyantAm,vIyantAm != vAyantAm (pysan)
+     2s (huet) Uyasva,vIyasva != vAyasva (pysan)
+     2d (huet) UyeTAm,vIyeTAm != vAyeTAm (pysan)
+     2p (huet) UyaDvam,vIyaDvam != vAyaDvam (pysan)
+     1s (huet) UyE,vIyE != vAyE (pysan)
+     1d (huet) UyAvahE,vIyAvahE != vAyAvahE (pysan)
+     1p (huet) UyAmahE,vIyAmahE != vAyAmahE (pysan)
+vA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Uyeta,vIyeta != vAyeta (pysan)
+     3d (huet) UyeyAtAm,vIyeyAtAm != vAyeyAtAm (pysan)
+     3p (huet) Uyeran,vIyeran != vAyeran (pysan)
+     2s (huet) UyeTAH,vIyeTAH != vAyeTAH (pysan)
+     2d (huet) UyeyATAm,vIyeyATAm != vAyeyATAm (pysan)
+     2p (huet) UyeDvam,vIyeDvam != vAyeDvam (pysan)
+     1s (huet) Uyeya,vIyeya != vAyeya (pysan)
+     1d (huet) Uyevahi,vIyevahi != vAyevahi (pysan)
+     1p (huet) Uyemahi,vIyemahi != vAyemahi (pysan)
+vA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Uyate,vIyate != vAyate (pysan)
+     3d (huet) Uyete,vIyete != vAyete (pysan)
+     3p (huet) Uyante,vIyante != vAyante (pysan)
+     2s (huet) Uyase,vIyase != vAyase (pysan)
+     2d (huet) UyeTe,vIyeTe != vAyeTe (pysan)
+     2p (huet) UyaDve,vIyaDve != vAyaDve (pysan)
+     1s (huet) Uye,vIye != vAye (pysan)
+     1d (huet) UyAvahe,vIyAvahe != vAyAvahe (pysan)
+     1p (huet) UyAmahe,vIyAmahe != vAyAmahe (pysan)
+vAYC im PASSIVE: identical
+vAYC ip PASSIVE: identical
+vAYC op PASSIVE: identical
+vAYC pr PASSIVE: identical
+vAS im PASSIVE: identical
+vAS ip PASSIVE: identical
+vAS op PASSIVE: identical
+vAS pr PASSIVE: identical
+vic im PASSIVE: identical
+vic ip PASSIVE: identical
+vic op PASSIVE: identical
+vic pr PASSIVE: identical
+vij im PASSIVE: identical
+vij ip PASSIVE: identical
+vij op PASSIVE: identical
+vij pr PASSIVE: identical
+vid im PASSIVE: identical
+vid ip PASSIVE: identical
+vid op PASSIVE: identical
+vid pr PASSIVE: identical
+viS im PASSIVE: identical
+viS ip PASSIVE: identical
+viS op PASSIVE: identical
+viS pr PASSIVE: identical
+viz im PASSIVE: identical
+viz ip PASSIVE: identical
+viz op PASSIVE: identical
+viz pr PASSIVE: identical
+vI im PASSIVE: identical
+vI ip PASSIVE: identical
+vI op PASSIVE: identical
+vI pr PASSIVE: identical
+vIj im PASSIVE: identical
+vIj ip PASSIVE: identical
+vIj op PASSIVE: identical
+vIj pr PASSIVE: identical
+vf im PASSIVE: identical
+vf ip PASSIVE: identical
+vf op PASSIVE: identical
+vf pr PASSIVE: identical
+vfj im PASSIVE: identical
+vfj ip PASSIVE: identical
+vfj op PASSIVE: identical
+vfj pr PASSIVE: identical
+vft im PASSIVE: identical
+vft ip PASSIVE: identical
+vft op PASSIVE: identical
+vft pr PASSIVE: identical
+vfD im PASSIVE: identical
+vfD ip PASSIVE: identical
+vfD op PASSIVE: identical
+vfD pr PASSIVE: identical
+vfz im PASSIVE: identical
+vfz ip PASSIVE: identical
+vfz op PASSIVE: identical
+vfz pr PASSIVE: identical
+vfh im PASSIVE: identical
+vfh ip PASSIVE: identical
+vfh op PASSIVE: identical
+vfh pr PASSIVE: identical
+ven im PASSIVE: identical
+ven ip PASSIVE: identical
+ven op PASSIVE: identical
+ven pr PASSIVE: identical
+vezw im PASSIVE: identical
+vezw ip PASSIVE: identical
+vezw op PASSIVE: identical
+vezw pr PASSIVE: identical
+vyaT im PASSIVE: identical
+vyaT ip PASSIVE: identical
+vyaT op PASSIVE: identical
+vyaT pr PASSIVE: identical
+vyaD im PASSIVE: identical
+vyaD ip PASSIVE: identical
+vyaD op PASSIVE: identical
+vyaD pr PASSIVE: identical
+vyA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) avIyata != avyAyata (pysan)
+     3d (huet) avIyetAm != avyAyetAm (pysan)
+     3p (huet) avIyanta != avyAyanta (pysan)
+     2s (huet) avIyaTAH != avyAyaTAH (pysan)
+     2d (huet) avIyeTAm != avyAyeTAm (pysan)
+     2p (huet) avIyaDvam != avyAyaDvam (pysan)
+     1s (huet) avIye != avyAye (pysan)
+     1d (huet) avIyAvahi != avyAyAvahi (pysan)
+     1p (huet) avIyAmahi != avyAyAmahi (pysan)
+vyA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vIyatAm != vyAyatAm (pysan)
+     3d (huet) vIyetAm != vyAyetAm (pysan)
+     3p (huet) vIyantAm != vyAyantAm (pysan)
+     2s (huet) vIyasva != vyAyasva (pysan)
+     2d (huet) vIyeTAm != vyAyeTAm (pysan)
+     2p (huet) vIyaDvam != vyAyaDvam (pysan)
+     1s (huet) vIyE != vyAyE (pysan)
+     1d (huet) vIyAvahE != vyAyAvahE (pysan)
+     1p (huet) vIyAmahE != vyAyAmahE (pysan)
+vyA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vIyeta != vyAyeta (pysan)
+     3d (huet) vIyeyAtAm != vyAyeyAtAm (pysan)
+     3p (huet) vIyeran != vyAyeran (pysan)
+     2s (huet) vIyeTAH != vyAyeTAH (pysan)
+     2d (huet) vIyeyATAm != vyAyeyATAm (pysan)
+     2p (huet) vIyeDvam != vyAyeDvam (pysan)
+     1s (huet) vIyeya != vyAyeya (pysan)
+     1d (huet) vIyevahi != vyAyevahi (pysan)
+     1p (huet) vIyemahi != vyAyemahi (pysan)
+vyA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vIyate != vyAyate (pysan)
+     3d (huet) vIyete != vyAyete (pysan)
+     3p (huet) vIyante != vyAyante (pysan)
+     2s (huet) vIyase != vyAyase (pysan)
+     2d (huet) vIyeTe != vyAyeTe (pysan)
+     2p (huet) vIyaDve != vyAyaDve (pysan)
+     1s (huet) vIye != vyAye (pysan)
+     1d (huet) vIyAvahe != vyAyAvahe (pysan)
+     1p (huet) vIyAmahe != vyAyAmahe (pysan)
+vraj im PASSIVE: identical
+vraj ip PASSIVE: identical
+vraj op PASSIVE: identical
+vraj pr PASSIVE: identical
+vraSc im PASSIVE: identical
+vraSc ip PASSIVE: identical
+vraSc op PASSIVE: identical
+vraSc pr PASSIVE: identical
+vrIq im PASSIVE: identical
+vrIq ip PASSIVE: identical
+vrIq op PASSIVE: identical
+vrIq pr PASSIVE: identical
+SaMs im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSasyata != aSaMsyata (pysan)
+     3d (huet) aSasyetAm != aSaMsyetAm (pysan)
+     3p (huet) aSasyanta != aSaMsyanta (pysan)
+     2s (huet) aSasyaTAH != aSaMsyaTAH (pysan)
+     2d (huet) aSasyeTAm != aSaMsyeTAm (pysan)
+     2p (huet) aSasyaDvam != aSaMsyaDvam (pysan)
+     1s (huet) aSasye != aSaMsye (pysan)
+     1d (huet) aSasyAvahi != aSaMsyAvahi (pysan)
+     1p (huet) aSasyAmahi != aSaMsyAmahi (pysan)
+SaMs ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SasyatAm != SaMsyatAm (pysan)
+     3d (huet) SasyetAm != SaMsyetAm (pysan)
+     3p (huet) SasyantAm != SaMsyantAm (pysan)
+     2s (huet) Sasyasva != SaMsyasva (pysan)
+     2d (huet) SasyeTAm != SaMsyeTAm (pysan)
+     2p (huet) SasyaDvam != SaMsyaDvam (pysan)
+     1s (huet) SasyE != SaMsyE (pysan)
+     1d (huet) SasyAvahE != SaMsyAvahE (pysan)
+     1p (huet) SasyAmahE != SaMsyAmahE (pysan)
+SaMs op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Sasyeta != SaMsyeta (pysan)
+     3d (huet) SasyeyAtAm != SaMsyeyAtAm (pysan)
+     3p (huet) Sasyeran != SaMsyeran (pysan)
+     2s (huet) SasyeTAH != SaMsyeTAH (pysan)
+     2d (huet) SasyeyATAm != SaMsyeyATAm (pysan)
+     2p (huet) SasyeDvam != SaMsyeDvam (pysan)
+     1s (huet) Sasyeya != SaMsyeya (pysan)
+     1d (huet) Sasyevahi != SaMsyevahi (pysan)
+     1p (huet) Sasyemahi != SaMsyemahi (pysan)
+SaMs pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Sasyate != SaMsyate (pysan)
+     3d (huet) Sasyete != SaMsyete (pysan)
+     3p (huet) Sasyante != SaMsyante (pysan)
+     2s (huet) Sasyase != SaMsyase (pysan)
+     2d (huet) SasyeTe != SaMsyeTe (pysan)
+     2p (huet) SasyaDve != SaMsyaDve (pysan)
+     1s (huet) Sasye != SaMsye (pysan)
+     1d (huet) SasyAvahe != SaMsyAvahe (pysan)
+     1p (huet) SasyAmahe != SaMsyAmahe (pysan)
+Sak im PASSIVE: identical
+Sak ip PASSIVE: identical
+Sak op PASSIVE: identical
+Sak pr PASSIVE: identical
+SaNk im PASSIVE: identical
+SaNk ip PASSIVE: identical
+SaNk op PASSIVE: identical
+SaNk pr PASSIVE: identical
+Sad im PASSIVE: identical
+Sad ip PASSIVE: identical
+Sad op PASSIVE: identical
+Sad pr PASSIVE: identical
+Sap im PASSIVE: identical
+Sap ip PASSIVE: identical
+Sap op PASSIVE: identical
+Sap pr PASSIVE: identical
+Sam im PASSIVE: identical
+Sam ip PASSIVE: identical
+Sam op PASSIVE: identical
+Sam pr PASSIVE: identical
+Sal im PASSIVE: identical
+Sal ip PASSIVE: identical
+Sal op PASSIVE: identical
+Sal pr PASSIVE: identical
+SaS im PASSIVE: identical
+SaS ip PASSIVE: identical
+SaS op PASSIVE: identical
+SaS pr PASSIVE: identical
+Sas im PASSIVE: identical
+Sas ip PASSIVE: identical
+Sas op PASSIVE: identical
+Sas pr PASSIVE: identical
+SA im PASSIVE: identical
+SA ip PASSIVE: identical
+SA op PASSIVE: identical
+SA pr PASSIVE: identical
+SAs im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSAsyata,aSizyata != aSizyata (pysan)
+     3d (huet) aSAsyetAm,aSizyetAm != aSizyetAm (pysan)
+     3p (huet) aSAsyanta,aSizyanta != aSizyanta (pysan)
+     2s (huet) aSAsyaTAH,aSizyaTAH != aSizyaTAH (pysan)
+     2d (huet) aSAsyeTAm,aSizyeTAm != aSizyeTAm (pysan)
+     2p (huet) aSAsyaDvam,aSizyaDvam != aSizyaDvam (pysan)
+     1s (huet) aSAsye,aSizye != aSizye (pysan)
+     1d (huet) aSAsyAvahi,aSizyAvahi != aSizyAvahi (pysan)
+     1p (huet) aSAsyAmahi,aSizyAmahi != aSizyAmahi (pysan)
+SAs ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SAsyatAm,SizyatAm != SizyatAm (pysan)
+     3d (huet) SAsyetAm,SizyetAm != SizyetAm (pysan)
+     3p (huet) SAsyantAm,SizyantAm != SizyantAm (pysan)
+     2s (huet) SAsyasva,Sizyasva != Sizyasva (pysan)
+     2d (huet) SAsyeTAm,SizyeTAm != SizyeTAm (pysan)
+     2p (huet) SAsyaDvam,SizyaDvam != SizyaDvam (pysan)
+     1s (huet) SAsyE,SizyE != SizyE (pysan)
+     1d (huet) SAsyAvahE,SizyAvahE != SizyAvahE (pysan)
+     1p (huet) SAsyAmahE,SizyAmahE != SizyAmahE (pysan)
+SAs op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SAsyeta,Sizyeta != Sizyeta (pysan)
+     3d (huet) SAsyeyAtAm,SizyeyAtAm != SizyeyAtAm (pysan)
+     3p (huet) SAsyeran,Sizyeran != Sizyeran (pysan)
+     2s (huet) SAsyeTAH,SizyeTAH != SizyeTAH (pysan)
+     2d (huet) SAsyeyATAm,SizyeyATAm != SizyeyATAm (pysan)
+     2p (huet) SAsyeDvam,SizyeDvam != SizyeDvam (pysan)
+     1s (huet) SAsyeya,Sizyeya != Sizyeya (pysan)
+     1d (huet) SAsyevahi,Sizyevahi != Sizyevahi (pysan)
+     1p (huet) SAsyemahi,Sizyemahi != Sizyemahi (pysan)
+SAs pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SAsyate,Sizyate != Sizyate (pysan)
+     3d (huet) SAsyete,Sizyete != Sizyete (pysan)
+     3p (huet) SAsyante,Sizyante != Sizyante (pysan)
+     2s (huet) SAsyase,Sizyase != Sizyase (pysan)
+     2d (huet) SAsyeTe,SizyeTe != SizyeTe (pysan)
+     2p (huet) SAsyaDve,SizyaDve != SizyaDve (pysan)
+     1s (huet) SAsye,Sizye != Sizye (pysan)
+     1d (huet) SAsyAvahe,SizyAvahe != SizyAvahe (pysan)
+     1p (huet) SAsyAmahe,SizyAmahe != SizyAmahe (pysan)
+Sikz im PASSIVE: identical
+Sikz ip PASSIVE: identical
+Sikz op PASSIVE: identical
+Sikz pr PASSIVE: identical
+Siz im PASSIVE: identical
+Siz ip PASSIVE: identical
+Siz op PASSIVE: identical
+Siz pr PASSIVE: identical
+SI im PASSIVE: identical
+SI ip PASSIVE: identical
+SI op PASSIVE: identical
+SI pr PASSIVE: identical
+SIl im PASSIVE: identical
+SIl ip PASSIVE: identical
+SIl op PASSIVE: identical
+SIl pr PASSIVE: identical
+Suc im PASSIVE: identical
+Suc ip PASSIVE: identical
+Suc op PASSIVE: identical
+Suc pr PASSIVE: identical
+SuD im PASSIVE: identical
+SuD ip PASSIVE: identical
+SuD op PASSIVE: identical
+SuD pr PASSIVE: identical
+SuB im PASSIVE: identical
+SuB ip PASSIVE: identical
+SuB op PASSIVE: identical
+SuB pr PASSIVE: identical
+SumB im PASSIVE: identical
+SumB ip PASSIVE: identical
+SumB op PASSIVE: identical
+SumB pr PASSIVE: identical
+Suz im PASSIVE: identical
+Suz ip PASSIVE: identical
+Suz op PASSIVE: identical
+Suz pr PASSIVE: identical
+SU im PASSIVE: identical
+SU ip PASSIVE: identical
+SU op PASSIVE: identical
+SU pr PASSIVE: identical
+SF im PASSIVE: identical
+SF ip PASSIVE: identical
+SF op PASSIVE: identical
+SF pr PASSIVE: identical
+Scut im PASSIVE: identical
+Scut ip PASSIVE: identical
+Scut op PASSIVE: identical
+Scut pr PASSIVE: identical
+SyA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSIyata != aSyAyata (pysan)
+     3d (huet) aSIyetAm != aSyAyetAm (pysan)
+     3p (huet) aSIyanta != aSyAyanta (pysan)
+     2s (huet) aSIyaTAH != aSyAyaTAH (pysan)
+     2d (huet) aSIyeTAm != aSyAyeTAm (pysan)
+     2p (huet) aSIyaDvam != aSyAyaDvam (pysan)
+     1s (huet) aSIye != aSyAye (pysan)
+     1d (huet) aSIyAvahi != aSyAyAvahi (pysan)
+     1p (huet) aSIyAmahi != aSyAyAmahi (pysan)
+SyA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SIyatAm != SyAyatAm (pysan)
+     3d (huet) SIyetAm != SyAyetAm (pysan)
+     3p (huet) SIyantAm != SyAyantAm (pysan)
+     2s (huet) SIyasva != SyAyasva (pysan)
+     2d (huet) SIyeTAm != SyAyeTAm (pysan)
+     2p (huet) SIyaDvam != SyAyaDvam (pysan)
+     1s (huet) SIyE != SyAyE (pysan)
+     1d (huet) SIyAvahE != SyAyAvahE (pysan)
+     1p (huet) SIyAmahE != SyAyAmahE (pysan)
+SyA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SIyeta != SyAyeta (pysan)
+     3d (huet) SIyeyAtAm != SyAyeyAtAm (pysan)
+     3p (huet) SIyeran != SyAyeran (pysan)
+     2s (huet) SIyeTAH != SyAyeTAH (pysan)
+     2d (huet) SIyeyATAm != SyAyeyATAm (pysan)
+     2p (huet) SIyeDvam != SyAyeDvam (pysan)
+     1s (huet) SIyeya != SyAyeya (pysan)
+     1d (huet) SIyevahi != SyAyevahi (pysan)
+     1p (huet) SIyemahi != SyAyemahi (pysan)
+SyA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SIyate != SyAyate (pysan)
+     3d (huet) SIyete != SyAyete (pysan)
+     3p (huet) SIyante != SyAyante (pysan)
+     2s (huet) SIyase != SyAyase (pysan)
+     2d (huet) SIyeTe != SyAyeTe (pysan)
+     2p (huet) SIyaDve != SyAyaDve (pysan)
+     1s (huet) SIye != SyAye (pysan)
+     1d (huet) SIyAvahe != SyAyAvahe (pysan)
+     1p (huet) SIyAmahe != SyAyAmahe (pysan)
+Sram im PASSIVE: identical
+Sram ip PASSIVE: identical
+Sram op PASSIVE: identical
+Sram pr PASSIVE: identical
+Sri im PASSIVE: identical
+Sri ip PASSIVE: identical
+Sri op PASSIVE: identical
+Sri pr PASSIVE: identical
+Sru im PASSIVE: identical
+Sru ip PASSIVE: identical
+Sru op PASSIVE: identical
+Sru pr PASSIVE: identical
+SlAG im PASSIVE: identical
+SlAG ip PASSIVE: identical
+SlAG op PASSIVE: identical
+SlAG pr PASSIVE: identical
+Sliz im PASSIVE: identical
+Sliz ip PASSIVE: identical
+Sliz op PASSIVE: identical
+Sliz pr PASSIVE: identical
+Svas im PASSIVE: identical
+Svas ip PASSIVE: identical
+Svas op PASSIVE: identical
+Svas pr PASSIVE: identical
+Svit im PASSIVE: identical
+Svit ip PASSIVE: identical
+Svit op PASSIVE: identical
+Svit pr PASSIVE: identical
+zWIv im PASSIVE: identical
+zWIv ip PASSIVE: identical
+zWIv op PASSIVE: identical
+zWIv pr PASSIVE: identical
+sac im PASSIVE: identical
+sac ip PASSIVE: identical
+sac op PASSIVE: identical
+sac pr PASSIVE: identical
+saYj im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asajjata,asajyata != asajyata (pysan)
+     3d (huet) asajjetAm,asajyetAm != asajyetAm (pysan)
+     3p (huet) asajjanta,asajyanta != asajyanta (pysan)
+     2s (huet) asajjaTAH,asajyaTAH != asajyaTAH (pysan)
+     2d (huet) asajjeTAm,asajyeTAm != asajyeTAm (pysan)
+     2p (huet) asajjaDvam,asajyaDvam != asajyaDvam (pysan)
+     1s (huet) asajje,asajye != asajye (pysan)
+     1d (huet) asajjAvahi,asajyAvahi != asajyAvahi (pysan)
+     1p (huet) asajjAmahi,asajyAmahi != asajyAmahi (pysan)
+saYj ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sajjatAm,sajyatAm != sajyatAm (pysan)
+     3d (huet) sajjetAm,sajyetAm != sajyetAm (pysan)
+     3p (huet) sajjantAm,sajyantAm != sajyantAm (pysan)
+     2s (huet) sajjasva,sajyasva != sajyasva (pysan)
+     2d (huet) sajjeTAm,sajyeTAm != sajyeTAm (pysan)
+     2p (huet) sajjaDvam,sajyaDvam != sajyaDvam (pysan)
+     1s (huet) sajjE,sajyE != sajyE (pysan)
+     1d (huet) sajjAvahE,sajyAvahE != sajyAvahE (pysan)
+     1p (huet) sajjAmahE,sajyAmahE != sajyAmahE (pysan)
+saYj op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sajjeta,sajyeta != sajyeta (pysan)
+     3d (huet) sajjeyAtAm,sajyeyAtAm != sajyeyAtAm (pysan)
+     3p (huet) sajjeran,sajyeran != sajyeran (pysan)
+     2s (huet) sajjeTAH,sajyeTAH != sajyeTAH (pysan)
+     2d (huet) sajjeyATAm,sajyeyATAm != sajyeyATAm (pysan)
+     2p (huet) sajjeDvam,sajyeDvam != sajyeDvam (pysan)
+     1s (huet) sajjeya,sajyeya != sajyeya (pysan)
+     1d (huet) sajjevahi,sajyevahi != sajyevahi (pysan)
+     1p (huet) sajjemahi,sajyemahi != sajyemahi (pysan)
+saYj pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sajjate,sajyate != sajyate (pysan)
+     3d (huet) sajjete,sajyete != sajyete (pysan)
+     3p (huet) sajjante,sajyante != sajyante (pysan)
+     2s (huet) sajjase,sajyase != sajyase (pysan)
+     2d (huet) sajjeTe,sajyeTe != sajyeTe (pysan)
+     2p (huet) sajjaDve,sajyaDve != sajyaDve (pysan)
+     1s (huet) sajje,sajye != sajye (pysan)
+     1d (huet) sajjAvahe,sajyAvahe != sajyAvahe (pysan)
+     1p (huet) sajjAmahe,sajyAmahe != sajyAmahe (pysan)
+sad im PASSIVE: identical
+sad ip PASSIVE: identical
+sad op PASSIVE: identical
+sad pr PASSIVE: identical
+san im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asanyata != asAyata,asanyata (pysan)
+     3d (huet) asanyetAm != asAyetAm,asanyetAm (pysan)
+     3p (huet) asanyanta != asAyanta,asanyanta (pysan)
+     2s (huet) asanyaTAH != asAyaTAH,asanyaTAH (pysan)
+     2d (huet) asanyeTAm != asAyeTAm,asanyeTAm (pysan)
+     2p (huet) asanyaDvam != asAyaDvam,asanyaDvam (pysan)
+     1s (huet) asanye != asAye,asanye (pysan)
+     1d (huet) asanyAvahi != asAyAvahi,asanyAvahi (pysan)
+     1p (huet) asanyAmahi != asAyAmahi,asanyAmahi (pysan)
+san ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sanyatAm != sAyatAm,sanyatAm (pysan)
+     3d (huet) sanyetAm != sAyetAm,sanyetAm (pysan)
+     3p (huet) sanyantAm != sAyantAm,sanyantAm (pysan)
+     2s (huet) sanyasva != sAyasva,sanyasva (pysan)
+     2d (huet) sanyeTAm != sAyeTAm,sanyeTAm (pysan)
+     2p (huet) sanyaDvam != sAyaDvam,sanyaDvam (pysan)
+     1s (huet) sanyE != sAyE,sanyE (pysan)
+     1d (huet) sanyAvahE != sAyAvahE,sanyAvahE (pysan)
+     1p (huet) sanyAmahE != sAyAmahE,sanyAmahE (pysan)
+san op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sanyeta != sAyeta,sanyeta (pysan)
+     3d (huet) sanyeyAtAm != sAyeyAtAm,sanyeyAtAm (pysan)
+     3p (huet) sanyeran != sAyeran,sanyeran (pysan)
+     2s (huet) sanyeTAH != sAyeTAH,sanyeTAH (pysan)
+     2d (huet) sanyeyATAm != sAyeyATAm,sanyeyATAm (pysan)
+     2p (huet) sanyeDvam != sAyeDvam,sanyeDvam (pysan)
+     1s (huet) sanyeya != sAyeya,sanyeya (pysan)
+     1d (huet) sanyevahi != sAyevahi,sanyevahi (pysan)
+     1p (huet) sanyemahi != sAyemahi,sanyemahi (pysan)
+san pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sanyate != sAyate,sanyate (pysan)
+     3d (huet) sanyete != sAyete,sanyete (pysan)
+     3p (huet) sanyante != sAyante,sanyante (pysan)
+     2s (huet) sanyase != sAyase,sanyase (pysan)
+     2d (huet) sanyeTe != sAyeTe,sanyeTe (pysan)
+     2p (huet) sanyaDve != sAyaDve,sanyaDve (pysan)
+     1s (huet) sanye != sAye,sanye (pysan)
+     1d (huet) sanyAvahe != sAyAvahe,sanyAvahe (pysan)
+     1p (huet) sanyAmahe != sAyAmahe,sanyAmahe (pysan)
+sap im PASSIVE: identical
+sap ip PASSIVE: identical
+sap op PASSIVE: identical
+sap pr PASSIVE: identical
+sah im PASSIVE: identical
+sah ip PASSIVE: identical
+sah op PASSIVE: identical
+sah pr PASSIVE: identical
+sA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asIyata != asAyata (pysan)
+     3d (huet) asIyetAm != asAyetAm (pysan)
+     3p (huet) asIyanta != asAyanta (pysan)
+     2s (huet) asIyaTAH != asAyaTAH (pysan)
+     2d (huet) asIyeTAm != asAyeTAm (pysan)
+     2p (huet) asIyaDvam != asAyaDvam (pysan)
+     1s (huet) asIye != asAye (pysan)
+     1d (huet) asIyAvahi != asAyAvahi (pysan)
+     1p (huet) asIyAmahi != asAyAmahi (pysan)
+sA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sIyatAm != sAyatAm (pysan)
+     3d (huet) sIyetAm != sAyetAm (pysan)
+     3p (huet) sIyantAm != sAyantAm (pysan)
+     2s (huet) sIyasva != sAyasva (pysan)
+     2d (huet) sIyeTAm != sAyeTAm (pysan)
+     2p (huet) sIyaDvam != sAyaDvam (pysan)
+     1s (huet) sIyE != sAyE (pysan)
+     1d (huet) sIyAvahE != sAyAvahE (pysan)
+     1p (huet) sIyAmahE != sAyAmahE (pysan)
+sA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sIyeta != sAyeta (pysan)
+     3d (huet) sIyeyAtAm != sAyeyAtAm (pysan)
+     3p (huet) sIyeran != sAyeran (pysan)
+     2s (huet) sIyeTAH != sAyeTAH (pysan)
+     2d (huet) sIyeyATAm != sAyeyATAm (pysan)
+     2p (huet) sIyeDvam != sAyeDvam (pysan)
+     1s (huet) sIyeya != sAyeya (pysan)
+     1d (huet) sIyevahi != sAyevahi (pysan)
+     1p (huet) sIyemahi != sAyemahi (pysan)
+sA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sIyate != sAyate (pysan)
+     3d (huet) sIyete != sAyete (pysan)
+     3p (huet) sIyante != sAyante (pysan)
+     2s (huet) sIyase != sAyase (pysan)
+     2d (huet) sIyeTe != sAyeTe (pysan)
+     2p (huet) sIyaDve != sAyaDve (pysan)
+     1s (huet) sIye != sAye (pysan)
+     1d (huet) sIyAvahe != sAyAvahe (pysan)
+     1p (huet) sIyAmahe != sAyAmahe (pysan)
+sic im PASSIVE: identical
+sic ip PASSIVE: identical
+sic op PASSIVE: identical
+sic pr PASSIVE: identical
+siD im PASSIVE: identical
+siD ip PASSIVE: identical
+siD op PASSIVE: identical
+siD pr PASSIVE: identical
+su im PASSIVE: identical
+su ip PASSIVE: identical
+su op PASSIVE: identical
+su pr PASSIVE: identical
+sur im PASSIVE: identical
+sur ip PASSIVE: identical
+sur op PASSIVE: identical
+sur pr PASSIVE: identical
+sU im PASSIVE: identical
+sU ip PASSIVE: identical
+sU op PASSIVE: identical
+sU pr PASSIVE: identical
+sUc im PASSIVE: identical
+sUc ip PASSIVE: identical
+sUc op PASSIVE: identical
+sUc pr PASSIVE: identical
+sUd im PASSIVE: identical
+sUd ip PASSIVE: identical
+sUd op PASSIVE: identical
+sUd pr PASSIVE: identical
+sf im PASSIVE: identical
+sf ip PASSIVE: identical
+sf op PASSIVE: identical
+sf pr PASSIVE: identical
+sfj im PASSIVE: identical
+sfj ip PASSIVE: identical
+sfj op PASSIVE: identical
+sfj pr PASSIVE: identical
+sfp im PASSIVE: identical
+sfp ip PASSIVE: identical
+sfp op PASSIVE: identical
+sfp pr PASSIVE: identical
+sev im PASSIVE: identical
+sev ip PASSIVE: identical
+sev op PASSIVE: identical
+sev pr PASSIVE: identical
+skand im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) askandyata != askadyata (pysan)
+     3d (huet) askandyetAm != askadyetAm (pysan)
+     3p (huet) askandyanta != askadyanta (pysan)
+     2s (huet) askandyaTAH != askadyaTAH (pysan)
+     2d (huet) askandyeTAm != askadyeTAm (pysan)
+     2p (huet) askandyaDvam != askadyaDvam (pysan)
+     1s (huet) askandye != askadye (pysan)
+     1d (huet) askandyAvahi != askadyAvahi (pysan)
+     1p (huet) askandyAmahi != askadyAmahi (pysan)
+skand ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) skandyatAm != skadyatAm (pysan)
+     3d (huet) skandyetAm != skadyetAm (pysan)
+     3p (huet) skandyantAm != skadyantAm (pysan)
+     2s (huet) skandyasva != skadyasva (pysan)
+     2d (huet) skandyeTAm != skadyeTAm (pysan)
+     2p (huet) skandyaDvam != skadyaDvam (pysan)
+     1s (huet) skandyE != skadyE (pysan)
+     1d (huet) skandyAvahE != skadyAvahE (pysan)
+     1p (huet) skandyAmahE != skadyAmahE (pysan)
+skand op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) skandyeta != skadyeta (pysan)
+     3d (huet) skandyeyAtAm != skadyeyAtAm (pysan)
+     3p (huet) skandyeran != skadyeran (pysan)
+     2s (huet) skandyeTAH != skadyeTAH (pysan)
+     2d (huet) skandyeyATAm != skadyeyATAm (pysan)
+     2p (huet) skandyeDvam != skadyeDvam (pysan)
+     1s (huet) skandyeya != skadyeya (pysan)
+     1d (huet) skandyevahi != skadyevahi (pysan)
+     1p (huet) skandyemahi != skadyemahi (pysan)
+skand pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) skandyate != skadyate (pysan)
+     3d (huet) skandyete != skadyete (pysan)
+     3p (huet) skandyante != skadyante (pysan)
+     2s (huet) skandyase != skadyase (pysan)
+     2d (huet) skandyeTe != skadyeTe (pysan)
+     2p (huet) skandyaDve != skadyaDve (pysan)
+     1s (huet) skandye != skadye (pysan)
+     1d (huet) skandyAvahe != skadyAvahe (pysan)
+     1p (huet) skandyAmahe != skadyAmahe (pysan)
+skamB im PASSIVE: identical
+skamB ip PASSIVE: identical
+skamB op PASSIVE: identical
+skamB pr PASSIVE: identical
+sKal im PASSIVE: identical
+sKal ip PASSIVE: identical
+sKal op PASSIVE: identical
+sKal pr PASSIVE: identical
+stan im PASSIVE: identical
+stan ip PASSIVE: identical
+stan op PASSIVE: identical
+stan pr PASSIVE: identical
+stamB im PASSIVE: identical
+stamB ip PASSIVE: identical
+stamB op PASSIVE: identical
+stamB pr PASSIVE: identical
+stu im PASSIVE: identical
+stu ip PASSIVE: identical
+stu op PASSIVE: identical
+stu pr PASSIVE: identical
+stuB im PASSIVE: identical
+stuB ip PASSIVE: identical
+stuB op PASSIVE: identical
+stuB pr PASSIVE: identical
+stF im PASSIVE: identical
+stF ip PASSIVE: identical
+stF op PASSIVE: identical
+stF pr PASSIVE: identical
+styA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) astIyata != astyAyata (pysan)
+     3d (huet) astIyetAm != astyAyetAm (pysan)
+     3p (huet) astIyanta != astyAyanta (pysan)
+     2s (huet) astIyaTAH != astyAyaTAH (pysan)
+     2d (huet) astIyeTAm != astyAyeTAm (pysan)
+     2p (huet) astIyaDvam != astyAyaDvam (pysan)
+     1s (huet) astIye != astyAye (pysan)
+     1d (huet) astIyAvahi != astyAyAvahi (pysan)
+     1p (huet) astIyAmahi != astyAyAmahi (pysan)
+styA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) stIyatAm != styAyatAm (pysan)
+     3d (huet) stIyetAm != styAyetAm (pysan)
+     3p (huet) stIyantAm != styAyantAm (pysan)
+     2s (huet) stIyasva != styAyasva (pysan)
+     2d (huet) stIyeTAm != styAyeTAm (pysan)
+     2p (huet) stIyaDvam != styAyaDvam (pysan)
+     1s (huet) stIyE != styAyE (pysan)
+     1d (huet) stIyAvahE != styAyAvahE (pysan)
+     1p (huet) stIyAmahE != styAyAmahE (pysan)
+styA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) stIyeta != styAyeta (pysan)
+     3d (huet) stIyeyAtAm != styAyeyAtAm (pysan)
+     3p (huet) stIyeran != styAyeran (pysan)
+     2s (huet) stIyeTAH != styAyeTAH (pysan)
+     2d (huet) stIyeyATAm != styAyeyATAm (pysan)
+     2p (huet) stIyeDvam != styAyeDvam (pysan)
+     1s (huet) stIyeya != styAyeya (pysan)
+     1d (huet) stIyevahi != styAyevahi (pysan)
+     1p (huet) stIyemahi != styAyemahi (pysan)
+styA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) stIyate != styAyate (pysan)
+     3d (huet) stIyete != styAyete (pysan)
+     3p (huet) stIyante != styAyante (pysan)
+     2s (huet) stIyase != styAyase (pysan)
+     2d (huet) stIyeTe != styAyeTe (pysan)
+     2p (huet) stIyaDve != styAyaDve (pysan)
+     1s (huet) stIye != styAye (pysan)
+     1d (huet) stIyAvahe != styAyAvahe (pysan)
+     1p (huet) stIyAmahe != styAyAmahe (pysan)
+sTA im PASSIVE: identical
+sTA ip PASSIVE: identical
+sTA op PASSIVE: identical
+sTA pr PASSIVE: identical
+snA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asnIyata != asnAyata (pysan)
+     3d (huet) asnIyetAm != asnAyetAm (pysan)
+     3p (huet) asnIyanta != asnAyanta (pysan)
+     2s (huet) asnIyaTAH != asnAyaTAH (pysan)
+     2d (huet) asnIyeTAm != asnAyeTAm (pysan)
+     2p (huet) asnIyaDvam != asnAyaDvam (pysan)
+     1s (huet) asnIye != asnAye (pysan)
+     1d (huet) asnIyAvahi != asnAyAvahi (pysan)
+     1p (huet) asnIyAmahi != asnAyAmahi (pysan)
+snA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) snIyatAm != snAyatAm (pysan)
+     3d (huet) snIyetAm != snAyetAm (pysan)
+     3p (huet) snIyantAm != snAyantAm (pysan)
+     2s (huet) snIyasva != snAyasva (pysan)
+     2d (huet) snIyeTAm != snAyeTAm (pysan)
+     2p (huet) snIyaDvam != snAyaDvam (pysan)
+     1s (huet) snIyE != snAyE (pysan)
+     1d (huet) snIyAvahE != snAyAvahE (pysan)
+     1p (huet) snIyAmahE != snAyAmahE (pysan)
+snA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) snIyeta != snAyeta (pysan)
+     3d (huet) snIyeyAtAm != snAyeyAtAm (pysan)
+     3p (huet) snIyeran != snAyeran (pysan)
+     2s (huet) snIyeTAH != snAyeTAH (pysan)
+     2d (huet) snIyeyATAm != snAyeyATAm (pysan)
+     2p (huet) snIyeDvam != snAyeDvam (pysan)
+     1s (huet) snIyeya != snAyeya (pysan)
+     1d (huet) snIyevahi != snAyevahi (pysan)
+     1p (huet) snIyemahi != snAyemahi (pysan)
+snA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) snIyate != snAyate (pysan)
+     3d (huet) snIyete != snAyete (pysan)
+     3p (huet) snIyante != snAyante (pysan)
+     2s (huet) snIyase != snAyase (pysan)
+     2d (huet) snIyeTe != snAyeTe (pysan)
+     2p (huet) snIyaDve != snAyaDve (pysan)
+     1s (huet) snIye != snAye (pysan)
+     1d (huet) snIyAvahe != snAyAvahe (pysan)
+     1p (huet) snIyAmahe != snAyAmahe (pysan)
+snih im PASSIVE: identical
+snih ip PASSIVE: identical
+snih op PASSIVE: identical
+snih pr PASSIVE: identical
+snu im PASSIVE: identical
+snu ip PASSIVE: identical
+snu op PASSIVE: identical
+snu pr PASSIVE: identical
+snuh im PASSIVE: identical
+snuh ip PASSIVE: identical
+snuh op PASSIVE: identical
+snuh pr PASSIVE: identical
+spand im PASSIVE: identical
+spand ip PASSIVE: identical
+spand op PASSIVE: identical
+spand pr PASSIVE: identical
+sparD im PASSIVE: identical
+sparD ip PASSIVE: identical
+sparD op PASSIVE: identical
+sparD pr PASSIVE: identical
+spfS im PASSIVE: identical
+spfS ip PASSIVE: identical
+spfS op PASSIVE: identical
+spfS pr PASSIVE: identical
+spfh im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asparhyata != aspfhyata (pysan)
+     3d (huet) asparhyetAm != aspfhyetAm (pysan)
+     3p (huet) asparhyanta != aspfhyanta (pysan)
+     2s (huet) asparhyaTAH != aspfhyaTAH (pysan)
+     2d (huet) asparhyeTAm != aspfhyeTAm (pysan)
+     2p (huet) asparhyaDvam != aspfhyaDvam (pysan)
+     1s (huet) asparhye != aspfhye (pysan)
+     1d (huet) asparhyAvahi != aspfhyAvahi (pysan)
+     1p (huet) asparhyAmahi != aspfhyAmahi (pysan)
+spfh ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sparhyatAm != spfhyatAm (pysan)
+     3d (huet) sparhyetAm != spfhyetAm (pysan)
+     3p (huet) sparhyantAm != spfhyantAm (pysan)
+     2s (huet) sparhyasva != spfhyasva (pysan)
+     2d (huet) sparhyeTAm != spfhyeTAm (pysan)
+     2p (huet) sparhyaDvam != spfhyaDvam (pysan)
+     1s (huet) sparhyE != spfhyE (pysan)
+     1d (huet) sparhyAvahE != spfhyAvahE (pysan)
+     1p (huet) sparhyAmahE != spfhyAmahE (pysan)
+spfh op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sparhyeta != spfhyeta (pysan)
+     3d (huet) sparhyeyAtAm != spfhyeyAtAm (pysan)
+     3p (huet) sparhyeran != spfhyeran (pysan)
+     2s (huet) sparhyeTAH != spfhyeTAH (pysan)
+     2d (huet) sparhyeyATAm != spfhyeyATAm (pysan)
+     2p (huet) sparhyeDvam != spfhyeDvam (pysan)
+     1s (huet) sparhyeya != spfhyeya (pysan)
+     1d (huet) sparhyevahi != spfhyevahi (pysan)
+     1p (huet) sparhyemahi != spfhyemahi (pysan)
+spfh pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sparhyate != spfhyate (pysan)
+     3d (huet) sparhyete != spfhyete (pysan)
+     3p (huet) sparhyante != spfhyante (pysan)
+     2s (huet) sparhyase != spfhyase (pysan)
+     2d (huet) sparhyeTe != spfhyeTe (pysan)
+     2p (huet) sparhyaDve != spfhyaDve (pysan)
+     1s (huet) sparhye != spfhye (pysan)
+     1d (huet) sparhyAvahe != spfhyAvahe (pysan)
+     1p (huet) sparhyAmahe != spfhyAmahe (pysan)
+sPal im PASSIVE: identical
+sPal ip PASSIVE: identical
+sPal op PASSIVE: identical
+sPal pr PASSIVE: identical
+sPA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asPIyata != asPAyata (pysan)
+     3d (huet) asPIyetAm != asPAyetAm (pysan)
+     3p (huet) asPIyanta != asPAyanta (pysan)
+     2s (huet) asPIyaTAH != asPAyaTAH (pysan)
+     2d (huet) asPIyeTAm != asPAyeTAm (pysan)
+     2p (huet) asPIyaDvam != asPAyaDvam (pysan)
+     1s (huet) asPIye != asPAye (pysan)
+     1d (huet) asPIyAvahi != asPAyAvahi (pysan)
+     1p (huet) asPIyAmahi != asPAyAmahi (pysan)
+sPA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sPIyatAm != sPAyatAm (pysan)
+     3d (huet) sPIyetAm != sPAyetAm (pysan)
+     3p (huet) sPIyantAm != sPAyantAm (pysan)
+     2s (huet) sPIyasva != sPAyasva (pysan)
+     2d (huet) sPIyeTAm != sPAyeTAm (pysan)
+     2p (huet) sPIyaDvam != sPAyaDvam (pysan)
+     1s (huet) sPIyE != sPAyE (pysan)
+     1d (huet) sPIyAvahE != sPAyAvahE (pysan)
+     1p (huet) sPIyAmahE != sPAyAmahE (pysan)
+sPA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sPIyeta != sPAyeta (pysan)
+     3d (huet) sPIyeyAtAm != sPAyeyAtAm (pysan)
+     3p (huet) sPIyeran != sPAyeran (pysan)
+     2s (huet) sPIyeTAH != sPAyeTAH (pysan)
+     2d (huet) sPIyeyATAm != sPAyeyATAm (pysan)
+     2p (huet) sPIyeDvam != sPAyeDvam (pysan)
+     1s (huet) sPIyeya != sPAyeya (pysan)
+     1d (huet) sPIyevahi != sPAyevahi (pysan)
+     1p (huet) sPIyemahi != sPAyemahi (pysan)
+sPA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sPIyate != sPAyate (pysan)
+     3d (huet) sPIyete != sPAyete (pysan)
+     3p (huet) sPIyante != sPAyante (pysan)
+     2s (huet) sPIyase != sPAyase (pysan)
+     2d (huet) sPIyeTe != sPAyeTe (pysan)
+     2p (huet) sPIyaDve != sPAyaDve (pysan)
+     1s (huet) sPIye != sPAye (pysan)
+     1d (huet) sPIyAvahe != sPAyAvahe (pysan)
+     1p (huet) sPIyAmahe != sPAyAmahe (pysan)
+sPuw im PASSIVE: identical
+sPuw ip PASSIVE: identical
+sPuw op PASSIVE: identical
+sPuw pr PASSIVE: identical
+sPur im PASSIVE: identical
+sPur ip PASSIVE: identical
+sPur op PASSIVE: identical
+sPur pr PASSIVE: identical
+smi im PASSIVE: identical
+smi ip PASSIVE: identical
+smi op PASSIVE: identical
+smi pr PASSIVE: identical
+smf im PASSIVE: identical
+smf ip PASSIVE: identical
+smf op PASSIVE: identical
+smf pr PASSIVE: identical
+syand im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asyandyata != asyadyata (pysan)
+     3d (huet) asyandyetAm != asyadyetAm (pysan)
+     3p (huet) asyandyanta != asyadyanta (pysan)
+     2s (huet) asyandyaTAH != asyadyaTAH (pysan)
+     2d (huet) asyandyeTAm != asyadyeTAm (pysan)
+     2p (huet) asyandyaDvam != asyadyaDvam (pysan)
+     1s (huet) asyandye != asyadye (pysan)
+     1d (huet) asyandyAvahi != asyadyAvahi (pysan)
+     1p (huet) asyandyAmahi != asyadyAmahi (pysan)
+syand ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) syandyatAm != syadyatAm (pysan)
+     3d (huet) syandyetAm != syadyetAm (pysan)
+     3p (huet) syandyantAm != syadyantAm (pysan)
+     2s (huet) syandyasva != syadyasva (pysan)
+     2d (huet) syandyeTAm != syadyeTAm (pysan)
+     2p (huet) syandyaDvam != syadyaDvam (pysan)
+     1s (huet) syandyE != syadyE (pysan)
+     1d (huet) syandyAvahE != syadyAvahE (pysan)
+     1p (huet) syandyAmahE != syadyAmahE (pysan)
+syand op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) syandyeta != syadyeta (pysan)
+     3d (huet) syandyeyAtAm != syadyeyAtAm (pysan)
+     3p (huet) syandyeran != syadyeran (pysan)
+     2s (huet) syandyeTAH != syadyeTAH (pysan)
+     2d (huet) syandyeyATAm != syadyeyATAm (pysan)
+     2p (huet) syandyeDvam != syadyeDvam (pysan)
+     1s (huet) syandyeya != syadyeya (pysan)
+     1d (huet) syandyevahi != syadyevahi (pysan)
+     1p (huet) syandyemahi != syadyemahi (pysan)
+syand pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) syandyate != syadyate (pysan)
+     3d (huet) syandyete != syadyete (pysan)
+     3p (huet) syandyante != syadyante (pysan)
+     2s (huet) syandyase != syadyase (pysan)
+     2d (huet) syandyeTe != syadyeTe (pysan)
+     2p (huet) syandyaDve != syadyaDve (pysan)
+     1s (huet) syandye != syadye (pysan)
+     1d (huet) syandyAvahe != syadyAvahe (pysan)
+     1p (huet) syandyAmahe != syadyAmahe (pysan)
+sraMs im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asraMsyata != asrasyata (pysan)
+     3d (huet) asraMsyetAm != asrasyetAm (pysan)
+     3p (huet) asraMsyanta != asrasyanta (pysan)
+     2s (huet) asraMsyaTAH != asrasyaTAH (pysan)
+     2d (huet) asraMsyeTAm != asrasyeTAm (pysan)
+     2p (huet) asraMsyaDvam != asrasyaDvam (pysan)
+     1s (huet) asraMsye != asrasye (pysan)
+     1d (huet) asraMsyAvahi != asrasyAvahi (pysan)
+     1p (huet) asraMsyAmahi != asrasyAmahi (pysan)
+sraMs ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sraMsyatAm != srasyatAm (pysan)
+     3d (huet) sraMsyetAm != srasyetAm (pysan)
+     3p (huet) sraMsyantAm != srasyantAm (pysan)
+     2s (huet) sraMsyasva != srasyasva (pysan)
+     2d (huet) sraMsyeTAm != srasyeTAm (pysan)
+     2p (huet) sraMsyaDvam != srasyaDvam (pysan)
+     1s (huet) sraMsyE != srasyE (pysan)
+     1d (huet) sraMsyAvahE != srasyAvahE (pysan)
+     1p (huet) sraMsyAmahE != srasyAmahE (pysan)
+sraMs op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sraMsyeta != srasyeta (pysan)
+     3d (huet) sraMsyeyAtAm != srasyeyAtAm (pysan)
+     3p (huet) sraMsyeran != srasyeran (pysan)
+     2s (huet) sraMsyeTAH != srasyeTAH (pysan)
+     2d (huet) sraMsyeyATAm != srasyeyATAm (pysan)
+     2p (huet) sraMsyeDvam != srasyeDvam (pysan)
+     1s (huet) sraMsyeya != srasyeya (pysan)
+     1d (huet) sraMsyevahi != srasyevahi (pysan)
+     1p (huet) sraMsyemahi != srasyemahi (pysan)
+sraMs pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sraMsyate != srasyate (pysan)
+     3d (huet) sraMsyete != srasyete (pysan)
+     3p (huet) sraMsyante != srasyante (pysan)
+     2s (huet) sraMsyase != srasyase (pysan)
+     2d (huet) sraMsyeTe != srasyeTe (pysan)
+     2p (huet) sraMsyaDve != srasyaDve (pysan)
+     1s (huet) sraMsye != srasye (pysan)
+     1d (huet) sraMsyAvahe != srasyAvahe (pysan)
+     1p (huet) sraMsyAmahe != srasyAmahe (pysan)
+sru im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asruyata != asrUyata (pysan)
+     3d (huet) asruyetAm != asrUyetAm (pysan)
+     3p (huet) asruyanta != asrUyanta (pysan)
+     2s (huet) asruyaTAH != asrUyaTAH (pysan)
+     2d (huet) asruyeTAm != asrUyeTAm (pysan)
+     2p (huet) asruyaDvam != asrUyaDvam (pysan)
+     1s (huet) asruye != asrUye (pysan)
+     1d (huet) asruyAvahi != asrUyAvahi (pysan)
+     1p (huet) asruyAmahi != asrUyAmahi (pysan)
+sru ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sruyatAm != srUyatAm (pysan)
+     3d (huet) sruyetAm != srUyetAm (pysan)
+     3p (huet) sruyantAm != srUyantAm (pysan)
+     2s (huet) sruyasva != srUyasva (pysan)
+     2d (huet) sruyeTAm != srUyeTAm (pysan)
+     2p (huet) sruyaDvam != srUyaDvam (pysan)
+     1s (huet) sruyE != srUyE (pysan)
+     1d (huet) sruyAvahE != srUyAvahE (pysan)
+     1p (huet) sruyAmahE != srUyAmahE (pysan)
+sru op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sruyeta != srUyeta (pysan)
+     3d (huet) sruyeyAtAm != srUyeyAtAm (pysan)
+     3p (huet) sruyeran != srUyeran (pysan)
+     2s (huet) sruyeTAH != srUyeTAH (pysan)
+     2d (huet) sruyeyATAm != srUyeyATAm (pysan)
+     2p (huet) sruyeDvam != srUyeDvam (pysan)
+     1s (huet) sruyeya != srUyeya (pysan)
+     1d (huet) sruyevahi != srUyevahi (pysan)
+     1p (huet) sruyemahi != srUyemahi (pysan)
+sru pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sruyate != srUyate (pysan)
+     3d (huet) sruyete != srUyete (pysan)
+     3p (huet) sruyante != srUyante (pysan)
+     2s (huet) sruyase != srUyase (pysan)
+     2d (huet) sruyeTe != srUyeTe (pysan)
+     2p (huet) sruyaDve != srUyaDve (pysan)
+     1s (huet) sruye != srUye (pysan)
+     1d (huet) sruyAvahe != srUyAvahe (pysan)
+     1p (huet) sruyAmahe != srUyAmahe (pysan)
+svaYj im PASSIVE: identical
+svaYj ip PASSIVE: identical
+svaYj op PASSIVE: identical
+svaYj pr PASSIVE: identical
+svad im PASSIVE: identical
+svad ip PASSIVE: identical
+svad op PASSIVE: identical
+svad pr PASSIVE: identical
+svan im PASSIVE: identical
+svan ip PASSIVE: identical
+svan op PASSIVE: identical
+svan pr PASSIVE: identical
+svap im PASSIVE: identical
+svap ip PASSIVE: identical
+svap op PASSIVE: identical
+svap pr PASSIVE: identical
+svar im PASSIVE: identical
+svar ip PASSIVE: identical
+svar op PASSIVE: identical
+svar pr PASSIVE: identical
+svid im PASSIVE: identical
+svid ip PASSIVE: identical
+svid op PASSIVE: identical
+svid pr PASSIVE: identical
+haW im PASSIVE: identical
+haW ip PASSIVE: identical
+haW op PASSIVE: identical
+haW pr PASSIVE: identical
+had im PASSIVE: identical
+had ip PASSIVE: identical
+had op PASSIVE: identical
+had pr PASSIVE: identical
+han im PASSIVE: identical
+han ip PASSIVE: identical
+han op PASSIVE: identical
+han pr PASSIVE: identical
+has im PASSIVE: identical
+has ip PASSIVE: identical
+has op PASSIVE: identical
+has pr PASSIVE: identical
+hA im PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ahAyata,ahIyata != ahAyata (pysan)
+     3d (huet) ahAyetAm,ahIyetAm != ahAyetAm (pysan)
+     3p (huet) ahAyanta,ahIyanta != ahAyanta (pysan)
+     2s (huet) ahAyaTAH,ahIyaTAH != ahAyaTAH (pysan)
+     2d (huet) ahAyeTAm,ahIyeTAm != ahAyeTAm (pysan)
+     2p (huet) ahAyaDvam,ahIyaDvam != ahAyaDvam (pysan)
+     1s (huet) ahAye,ahIye != ahAye (pysan)
+     1d (huet) ahAyAvahi,ahIyAvahi != ahAyAvahi (pysan)
+     1p (huet) ahAyAmahi,ahIyAmahi != ahAyAmahi (pysan)
+hA ip PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hAyatAm,hIyatAm != hAyatAm (pysan)
+     3d (huet) hAyetAm,hIyetAm != hAyetAm (pysan)
+     3p (huet) hAyantAm,hIyantAm != hAyantAm (pysan)
+     2s (huet) hAyasva,hIyasva != hAyasva (pysan)
+     2d (huet) hAyeTAm,hIyeTAm != hAyeTAm (pysan)
+     2p (huet) hAyaDvam,hIyaDvam != hAyaDvam (pysan)
+     1s (huet) hAyE,hIyE != hAyE (pysan)
+     1d (huet) hAyAvahE,hIyAvahE != hAyAvahE (pysan)
+     1p (huet) hAyAmahE,hIyAmahE != hAyAmahE (pysan)
+hA op PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hAyeta,hIyeta != hAyeta (pysan)
+     3d (huet) hAyeyAtAm,hIyeyAtAm != hAyeyAtAm (pysan)
+     3p (huet) hAyeran,hIyeran != hAyeran (pysan)
+     2s (huet) hAyeTAH,hIyeTAH != hAyeTAH (pysan)
+     2d (huet) hAyeyATAm,hIyeyATAm != hAyeyATAm (pysan)
+     2p (huet) hAyeDvam,hIyeDvam != hAyeDvam (pysan)
+     1s (huet) hAyeya,hIyeya != hAyeya (pysan)
+     1d (huet) hAyevahi,hIyevahi != hAyevahi (pysan)
+     1p (huet) hAyemahi,hIyemahi != hAyemahi (pysan)
+hA pr PASSIVE: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hAyate,hIyate != hAyate (pysan)
+     3d (huet) hAyete,hIyete != hAyete (pysan)
+     3p (huet) hAyante,hIyante != hAyante (pysan)
+     2s (huet) hAyase,hIyase != hAyase (pysan)
+     2d (huet) hAyeTe,hIyeTe != hAyeTe (pysan)
+     2p (huet) hAyaDve,hIyaDve != hAyaDve (pysan)
+     1s (huet) hAye,hIye != hAye (pysan)
+     1d (huet) hAyAvahe,hIyAvahe != hAyAvahe (pysan)
+     1p (huet) hAyAmahe,hIyAmahe != hAyAmahe (pysan)
+hi im PASSIVE: identical
+hi ip PASSIVE: identical
+hi op PASSIVE: identical
+hi pr PASSIVE: identical
+hiMs im PASSIVE: identical
+hiMs ip PASSIVE: identical
+hiMs op PASSIVE: identical
+hiMs pr PASSIVE: identical
+hikk im PASSIVE: identical
+hikk ip PASSIVE: identical
+hikk op PASSIVE: identical
+hikk pr PASSIVE: identical
+hu im PASSIVE: identical
+hu ip PASSIVE: identical
+hu op PASSIVE: identical
+hu pr PASSIVE: identical
+huRq im PASSIVE: identical
+huRq ip PASSIVE: identical
+huRq op PASSIVE: identical
+huRq pr PASSIVE: identical
+hU im PASSIVE: identical
+hU ip PASSIVE: identical
+hU op PASSIVE: identical
+hU pr PASSIVE: identical
+hf im PASSIVE: identical
+hf ip PASSIVE: identical
+hf op PASSIVE: identical
+hf pr PASSIVE: identical
+hfz im PASSIVE: identical
+hfz ip PASSIVE: identical
+hfz op PASSIVE: identical
+hfz pr PASSIVE: identical
+hnu im PASSIVE: identical
+hnu ip PASSIVE: identical
+hnu op PASSIVE: identical
+hnu pr PASSIVE: identical
+hras im PASSIVE: identical
+hras ip PASSIVE: identical
+hras op PASSIVE: identical
+hras pr PASSIVE: identical
+hrAd im PASSIVE: identical
+hrAd ip PASSIVE: identical
+hrAd op PASSIVE: identical
+hrAd pr PASSIVE: identical
+hlAd im PASSIVE: identical
+hlAd ip PASSIVE: identical
+hlAd op PASSIVE: identical
+hlAd pr PASSIVE: identical
+hval im PASSIVE: identical
+hval ip PASSIVE: identical
+hval op PASSIVE: identical
+hval pr PASSIVE: identical
+hvf im PASSIVE: identical
+hvf ip PASSIVE: identical
+hvf op PASSIVE: identical
+hvf pr PASSIVE: identical
