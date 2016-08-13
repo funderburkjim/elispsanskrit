@@ -19,7 +19,7 @@ facilitate comparisons.
   `aja#2`.   
 * We drop the homonym distinction, leaving just `aja`.
 
-## generate mw_class_pada.txt
+## generate pysan_class_pada.txt
 
 The data source is the lest of verbs for MW in dcpforms-MW-verb.txt.
 This program just collects the information in this file, and changes
@@ -27,7 +27,7 @@ format to that of huet_class_pada.txt.
 ```
 python pysan_class_pada.py ../../grammar/prod/inputs/dcpforms-MW-verb.txt pysan_class_pada.txt
 ```
-## compare huet and mw class_pada data
+## compare huet and pysan class_pada data
 ```
 python compare_class_pada.py huet pysan compare
 ```
@@ -57,4 +57,4 @@ in 'r' and the pysan form ends in 'H', and the two forms are otherwise identical
 
 See [issue#7](https://github.com/funderburkjim/elispsanskrit/issues/7) for some discussion of the comparison.
 
-* THE END
+
