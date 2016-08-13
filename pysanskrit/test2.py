@@ -81,9 +81,13 @@ def class_a_base_irreg_dict():
   Programming note: For efficiency, rearrange to do this initialization
   just once.
  """
- import codecs
+ import codecs,os
+ thisdir=os.path.dirname(os.path.realpath(__file__))
+ #print "thisdir=",thisdir
  filename="class_a_base_irreg.txt"
- with codecs.open(filename,"r","utf-8") as f:
+ pathname = os.path.join(thisdir,filename)
+ #print "pathname=",pathname
+ with codecs.open(pathname,"r","utf-8") as f:
   lines = f.readlines()
  d = {} # returned
  for line in lines:

@@ -20,3 +20,4 @@ See the readme file in these directories.
 
 * pronouns  
 * nouns
+* verbs-prim-prs   (SL_roots.xml) primary conjugation, present system
