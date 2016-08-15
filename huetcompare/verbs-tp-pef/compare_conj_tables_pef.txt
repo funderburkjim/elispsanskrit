@@ -1,0 +1,1983 @@
+aMSa pef P: pysan NOT FOUND
+akz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) akzitA,azwA != akzitA (pysan)
+     3d (huet) akzitArO,azwArO != akzitArO (pysan)
+     3p (huet) akzitAraH,azwAraH != akzitAraH (pysan)
+     2s (huet) akzitAsi,azwAsi != akzitAsi (pysan)
+     2d (huet) akzitAsTaH,azwAsTaH != akzitAsTaH (pysan)
+     2p (huet) akzitAsTa,azwAsTa != akzitAsTa (pysan)
+     1s (huet) akzitAsmi,azwAsmi != akzitAsmi (pysan)
+     1d (huet) akzitAsvaH,azwAsvaH != akzitAsvaH (pysan)
+     1p (huet) akzitAsmaH,azwAsmaH != akzitAsmaH (pysan)
+agada pef P: pysan NOT FOUND
+aGa pef P: pysan NOT FOUND
+aNka pef P: pysan NOT FOUND
+aNKa pef P: pysan NOT FOUND
+aNg pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aNgitA != aNgayitA (pysan)
+     3d (huet) aNgitArO != aNgayitArO (pysan)
+     3p (huet) aNgitAraH != aNgayitAraH (pysan)
+     2s (huet) aNgitAsi != aNgayitAsi (pysan)
+     2d (huet) aNgitAsTaH != aNgayitAsTaH (pysan)
+     2p (huet) aNgitAsTa != aNgayitAsTa (pysan)
+     1s (huet) aNgitAsmi != aNgayitAsmi (pysan)
+     1d (huet) aNgitAsvaH != aNgayitAsvaH (pysan)
+     1p (huet) aNgitAsmaH != aNgayitAsmaH (pysan)
+aj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajitA != ajitA,vetA (pysan)
+     3d (huet) ajitArO != ajitArO,vetArO (pysan)
+     3p (huet) ajitAraH != ajitAraH,vetAraH (pysan)
+     2s (huet) ajitAsi != ajitAsi,vetAsi (pysan)
+     2d (huet) ajitAsTaH != ajitAsTaH,vetAsTaH (pysan)
+     2p (huet) ajitAsTa != ajitAsTa,vetAsTa (pysan)
+     1s (huet) ajitAsmi != ajitAsmi,vetAsmi (pysan)
+     1d (huet) ajitAsvaH != ajitAsvaH,vetAsvaH (pysan)
+     1p (huet) ajitAsmaH != ajitAsmaH,vetAsmaH (pysan)
+ajira pef P: pysan NOT FOUND
+aYc pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aYcitA != aYcayitA,aYcitA (pysan)
+     3d (huet) aYcitArO != aYcayitArO,aYcitArO (pysan)
+     3p (huet) aYcitAraH != aYcayitAraH,aYcitAraH (pysan)
+     2s (huet) aYcitAsi != aYcayitAsi,aYcitAsi (pysan)
+     2d (huet) aYcitAsTaH != aYcayitAsTaH,aYcitAsTaH (pysan)
+     2p (huet) aYcitAsTa != aYcayitAsTa,aYcitAsTa (pysan)
+     1s (huet) aYcitAsmi != aYcayitAsmi,aYcitAsmi (pysan)
+     1d (huet) aYcitAsvaH != aYcayitAsvaH,aYcitAsvaH (pysan)
+     1p (huet) aYcitAsmaH != aYcayitAsmaH,aYcitAsmaH (pysan)
+aYj pef P: identical
+aw pef P: identical
+at pef P: identical
+ad pef P: identical
+aDvara pef P: pysan NOT FOUND
+an pef P: identical
+anDa pef P: pysan NOT FOUND
+apsaras pef P: pysan NOT FOUND
+aBra pef P: pysan NOT FOUND
+am pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amItA != amitA (pysan)
+     3d (huet) amItArO != amitArO (pysan)
+     3p (huet) amItAraH != amitAraH (pysan)
+     2s (huet) amItAsi != amitAsi (pysan)
+     2d (huet) amItAsTaH != amitAsTaH (pysan)
+     2p (huet) amItAsTa != amitAsTa (pysan)
+     1s (huet) amItAsmi != amitAsmi (pysan)
+     1d (huet) amItAsvaH != amitAsvaH (pysan)
+     1p (huet) amItAsmaH != amitAsmaH (pysan)
+amitra pef P: pysan NOT FOUND
+arT pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) arTayitA != arTayitA,arTitA (pysan)
+     3d (huet) arTayitArO != arTayitArO,arTitArO (pysan)
+     3p (huet) arTayitAraH != arTayitAraH,arTitAraH (pysan)
+     2s (huet) arTayitAsi != arTayitAsi,arTitAsi (pysan)
+     2d (huet) arTayitAsTaH != arTayitAsTaH,arTitAsTaH (pysan)
+     2p (huet) arTayitAsTa != arTayitAsTa,arTitAsTa (pysan)
+     1s (huet) arTayitAsmi != arTayitAsmi,arTitAsmi (pysan)
+     1d (huet) arTayitAsvaH != arTayitAsvaH,arTitAsvaH (pysan)
+     1p (huet) arTayitAsmaH != arTayitAsmaH,arTitAsmaH (pysan)
+arTa pef P: pysan NOT FOUND
+ard pef P: identical
+arh pef P: identical
+av pef P: identical
+aS pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSitA != aSitA,azwA (pysan)
+     3d (huet) aSitArO != aSitArO,azwArO (pysan)
+     3p (huet) aSitAraH != aSitAraH,azwAraH (pysan)
+     2s (huet) aSitAsi != aSitAsi,azwAsi (pysan)
+     2d (huet) aSitAsTaH != aSitAsTaH,azwAsTaH (pysan)
+     2p (huet) aSitAsTa != aSitAsTa,azwAsTa (pysan)
+     1s (huet) aSitAsmi != aSitAsmi,azwAsmi (pysan)
+     1d (huet) aSitAsvaH != aSitAsvaH,azwAsvaH (pysan)
+     1p (huet) aSitAsmaH != aSitAsmaH,azwAsmaH (pysan)
+aSana pef P: pysan NOT FOUND
+aSva pef P: pysan NOT FOUND
+as pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asitA != BavitA (pysan)
+     3d (huet) asitArO != BavitArO (pysan)
+     3p (huet) asitAraH != BavitAraH (pysan)
+     2s (huet) asitAsi != BavitAsi (pysan)
+     2d (huet) asitAsTaH != BavitAsTaH (pysan)
+     2p (huet) asitAsTa != BavitAsTa (pysan)
+     1s (huet) asitAsmi != BavitAsmi (pysan)
+     1d (huet) asitAsvaH != BavitAsvaH (pysan)
+     1p (huet) asitAsmaH != BavitAsmaH (pysan)
+asUya pef P: pysan NOT FOUND
+AkarRa pef P: pysan NOT FOUND
+Akula pef P: pysan NOT FOUND
+Andola pef P: pysan NOT FOUND
+Ap pef P: identical
+Avila pef P: pysan NOT FOUND
+As pef P: identical
+i pef P: identical
+in pef P: pysan NOT FOUND
+ind pef P: identical
+inD pef P: identical
+inv pef P: identical
+iras pef P: pysan NOT FOUND
+il pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) elitA != elayitA,elitA (pysan)
+     3d (huet) elitArO != elayitArO,elitArO (pysan)
+     3p (huet) elitAraH != elayitAraH,elitAraH (pysan)
+     2s (huet) elitAsi != elayitAsi,elitAsi (pysan)
+     2d (huet) elitAsTaH != elayitAsTaH,elitAsTaH (pysan)
+     2p (huet) elitAsTa != elayitAsTa,elitAsTa (pysan)
+     1s (huet) elitAsmi != elayitAsmi,elitAsmi (pysan)
+     1d (huet) elitAsvaH != elayitAsvaH,elitAsvaH (pysan)
+     1p (huet) elitAsmaH != elayitAsmaH,elitAsmaH (pysan)
+iz pef P: identical
+izuDi pef P: pysan NOT FOUND
+Ikz pef P: identical
+INK pef P: identical
+Iq pef P: identical
+Ir pef P: identical
+Irz pef P: pysan NOT FOUND
+IS pef P: identical
+Iz pef P: identical
+Ih pef P: identical
+ukz pef P: identical
+uc pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ucitA != ocitA (pysan)
+     3d (huet) ucitArO != ocitArO (pysan)
+     3p (huet) ucitAraH != ocitAraH (pysan)
+     2s (huet) ucitAsi != ocitAsi (pysan)
+     2d (huet) ucitAsTaH != ocitAsTaH (pysan)
+     2p (huet) ucitAsTa != ocitAsTa (pysan)
+     1s (huet) ucitAsmi != ocitAsmi (pysan)
+     1d (huet) ucitAsvaH != ocitAsvaH (pysan)
+     1p (huet) ucitAsmaH != ocitAsmaH (pysan)
+ujJ pef P: identical
+uYC pef P: identical
+utka pef P: pysan NOT FOUND
+utkaRW pef P: pysan NOT FOUND
+udaka pef P: pysan NOT FOUND
+udan pef P: pysan NOT FOUND
+und pef P: identical
+unmanas pef P: pysan NOT FOUND
+umB pef P: pysan NOT FOUND
+uras pef P: pysan NOT FOUND
+uruz pef P: pysan NOT FOUND
+uz pef P: identical
+uzas pef P: pysan NOT FOUND
+Uzman pef P: pysan NOT FOUND
+Uh pef P: identical
+f pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) artA != astA (pysan)
+     3d (huet) artArO != astArO (pysan)
+     3p (huet) artAraH != astAraH (pysan)
+     2s (huet) artAsi != astAsi (pysan)
+     2d (huet) artAsTaH != astAsTaH (pysan)
+     2p (huet) artAsTa != astAsTa (pysan)
+     1s (huet) artAsmi != astAsmi (pysan)
+     1d (huet) artAsvaH != astAsvaH (pysan)
+     1p (huet) artAsmaH != astAsmaH (pysan)
+fc pef P: identical
+fj pef P: identical
+fD pef P: identical
+fz pef P: identical
+ej pef P: identical
+eD pef P: identical
+kaRq pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kaRqayitA != kaRqayitA,kaRqitA (pysan)
+     3d (huet) kaRqayitArO != kaRqayitArO,kaRqitArO (pysan)
+     3p (huet) kaRqayitAraH != kaRqayitAraH,kaRqitAraH (pysan)
+     2s (huet) kaRqayitAsi != kaRqayitAsi,kaRqitAsi (pysan)
+     2d (huet) kaRqayitAsTaH != kaRqayitAsTaH,kaRqitAsTaH (pysan)
+     2p (huet) kaRqayitAsTa != kaRqayitAsTa,kaRqitAsTa (pysan)
+     1s (huet) kaRqayitAsmi != kaRqayitAsmi,kaRqitAsmi (pysan)
+     1d (huet) kaRqayitAsvaH != kaRqayitAsvaH,kaRqitAsvaH (pysan)
+     1p (huet) kaRqayitAsmaH != kaRqayitAsmaH,kaRqitAsmaH (pysan)
+kaRqu pef P: pysan NOT FOUND
+kaRva pef P: pysan NOT FOUND
+katT pef P: identical
+kaT pef P: identical
+kadarTa pef P: pysan NOT FOUND
+kamp pef P: identical
+karuRa pef P: pysan NOT FOUND
+karRa pef P: pysan NOT FOUND
+kartf pef P: pysan NOT FOUND
+kal pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kalayitA != kAlayitA,kalayitA,kalitA (pysan)
+     3d (huet) kalayitArO != kAlayitArO,kalayitArO,kalitArO (pysan)
+     3p (huet) kalayitAraH != kAlayitAraH,kalayitAraH,kalitAraH (pysan)
+     2s (huet) kalayitAsi != kAlayitAsi,kalayitAsi,kalitAsi (pysan)
+     2d (huet) kalayitAsTaH != kAlayitAsTaH,kalayitAsTaH,kalitAsTaH (pysan)
+     2p (huet) kalayitAsTa != kAlayitAsTa,kalayitAsTa,kalitAsTa (pysan)
+     1s (huet) kalayitAsmi != kAlayitAsmi,kalayitAsmi,kalitAsmi (pysan)
+     1d (huet) kalayitAsvaH != kAlayitAsvaH,kalayitAsvaH,kalitAsvaH (pysan)
+     1p (huet) kalayitAsmaH != kAlayitAsmaH,kalayitAsmaH,kalitAsmaH (pysan)
+kalaNka pef P: pysan NOT FOUND
+kalaha pef P: pysan NOT FOUND
+kaluza pef P: pysan NOT FOUND
+kavala pef P: pysan NOT FOUND
+kavi pef P: pysan NOT FOUND
+kaz pef P: identical
+kazwa pef P: pysan NOT FOUND
+kas pef P: identical
+kANkz pef P: identical
+kAS pef P: identical
+kIrt pef P: identical
+kIl pef P: identical
+kuc pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kocitA != kucitA (pysan)
+     3d (huet) kocitArO != kucitArO (pysan)
+     3p (huet) kocitAraH != kucitAraH (pysan)
+     2s (huet) kocitAsi != kucitAsi (pysan)
+     2d (huet) kocitAsTaH != kucitAsTaH (pysan)
+     2p (huet) kocitAsTa != kucitAsTa (pysan)
+     1s (huet) kocitAsmi != kucitAsmi (pysan)
+     1d (huet) kocitAsvaH != kucitAsvaH (pysan)
+     1p (huet) kocitAsmaH != kucitAsmaH (pysan)
+kuw pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kowitA != kowayitA,kuwitA (pysan)
+     3d (huet) kowitArO != kowayitArO,kuwitArO (pysan)
+     3p (huet) kowitAraH != kowayitAraH,kuwitAraH (pysan)
+     2s (huet) kowitAsi != kowayitAsi,kuwitAsi (pysan)
+     2d (huet) kowitAsTaH != kowayitAsTaH,kuwitAsTaH (pysan)
+     2p (huet) kowitAsTa != kowayitAsTa,kuwitAsTa (pysan)
+     1s (huet) kowitAsmi != kowayitAsmi,kuwitAsmi (pysan)
+     1d (huet) kowitAsvaH != kowayitAsvaH,kuwitAsvaH (pysan)
+     1p (huet) kowitAsmaH != kowayitAsmaH,kuwitAsmaH (pysan)
+kuwwa pef P: pysan NOT FOUND
+kuRW pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kuRWitA != kuRWayitA,kuRWitA (pysan)
+     3d (huet) kuRWitArO != kuRWayitArO,kuRWitArO (pysan)
+     3p (huet) kuRWitAraH != kuRWayitAraH,kuRWitAraH (pysan)
+     2s (huet) kuRWitAsi != kuRWayitAsi,kuRWitAsi (pysan)
+     2d (huet) kuRWitAsTaH != kuRWayitAsTaH,kuRWitAsTaH (pysan)
+     2p (huet) kuRWitAsTa != kuRWayitAsTa,kuRWitAsTa (pysan)
+     1s (huet) kuRWitAsmi != kuRWayitAsmi,kuRWitAsmi (pysan)
+     1d (huet) kuRWitAsvaH != kuRWayitAsvaH,kuRWitAsvaH (pysan)
+     1p (huet) kuRWitAsmaH != kuRWayitAsmaH,kuRWitAsmaH (pysan)
+kuRq pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kuRqitA != kuRqayitA,kuRqitA (pysan)
+     3d (huet) kuRqitArO != kuRqayitArO,kuRqitArO (pysan)
+     3p (huet) kuRqitAraH != kuRqayitAraH,kuRqitAraH (pysan)
+     2s (huet) kuRqitAsi != kuRqayitAsi,kuRqitAsi (pysan)
+     2d (huet) kuRqitAsTaH != kuRqayitAsTaH,kuRqitAsTaH (pysan)
+     2p (huet) kuRqitAsTa != kuRqayitAsTa,kuRqitAsTa (pysan)
+     1s (huet) kuRqitAsmi != kuRqayitAsmi,kuRqitAsmi (pysan)
+     1d (huet) kuRqitAsvaH != kuRqayitAsvaH,kuRqitAsvaH (pysan)
+     1p (huet) kuRqitAsmaH != kuRqayitAsmaH,kuRqitAsmaH (pysan)
+kuts pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kutsayitA,kutsitA != kutsayitA (pysan)
+     3d (huet) kutsayitArO,kutsitArO != kutsayitArO (pysan)
+     3p (huet) kutsayitAraH,kutsitAraH != kutsayitAraH (pysan)
+     2s (huet) kutsayitAsi,kutsitAsi != kutsayitAsi (pysan)
+     2d (huet) kutsayitAsTaH,kutsitAsTaH != kutsayitAsTaH (pysan)
+     2p (huet) kutsayitAsTa,kutsitAsTa != kutsayitAsTa (pysan)
+     1s (huet) kutsayitAsmi,kutsitAsmi != kutsayitAsmi (pysan)
+     1d (huet) kutsayitAsvaH,kutsitAsvaH != kutsayitAsvaH (pysan)
+     1p (huet) kutsayitAsmaH,kutsitAsmaH != kutsayitAsmaH (pysan)
+kunT pef P: identical
+kup pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kopitA != kopayitA,kopitA (pysan)
+     3d (huet) kopitArO != kopayitArO,kopitArO (pysan)
+     3p (huet) kopitAraH != kopayitAraH,kopitAraH (pysan)
+     2s (huet) kopitAsi != kopayitAsi,kopitAsi (pysan)
+     2d (huet) kopitAsTaH != kopayitAsTaH,kopitAsTaH (pysan)
+     2p (huet) kopitAsTa != kopayitAsTa,kopitAsTa (pysan)
+     1s (huet) kopitAsmi != kopayitAsmi,kopitAsmi (pysan)
+     1d (huet) kopitAsvaH != kopayitAsvaH,kopitAsvaH (pysan)
+     1p (huet) kopitAsmaH != kopayitAsmaH,kopitAsmaH (pysan)
+kul pef P: identical
+kusuma pef P: pysan NOT FOUND
+kU pef P: identical
+kUj pef P: identical
+kf pef P: identical
+kfcCra pef P: pysan NOT FOUND
+kft pef P: identical
+kfp pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karpitA,karptA != karpitA,kfpAyitA,kfpayitA (pysan)
+     3d (huet) karpitArO,karptArO != karpitArO,kfpAyitArO,kfpayitArO (pysan)
+     3p (huet) karpitAraH,karptAraH != karpitAraH,kfpAyitAraH,kfpayitAraH (pysan)
+     2s (huet) karpitAsi,karptAsi != karpitAsi,kfpAyitAsi,kfpayitAsi (pysan)
+     2d (huet) karpitAsTaH,karptAsTaH != karpitAsTaH,kfpAyitAsTaH,kfpayitAsTaH (pysan)
+     2p (huet) karpitAsTa,karptAsTa != karpitAsTa,kfpAyitAsTa,kfpayitAsTa (pysan)
+     1s (huet) karpitAsmi,karptAsmi != karpitAsmi,kfpAyitAsmi,kfpayitAsmi (pysan)
+     1d (huet) karpitAsvaH,karptAsvaH != karpitAsvaH,kfpAyitAsvaH,kfpayitAsvaH (pysan)
+     1p (huet) karpitAsmaH,karptAsmaH != karpitAsmaH,kfpAyitAsmaH,kfpayitAsmaH (pysan)
+kfS pef P: identical
+kfz pef P: identical
+kF pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karItA,karitA != kArayItA,kArayitA,karItA,karitA (pysan)
+     3d (huet) karItArO,karitArO != kArayItArO,kArayitArO,karItArO,karitArO (pysan)
+     3p (huet) karItAraH,karitAraH != kArayItAraH,kArayitAraH,karItAraH,karitAraH (pysan)
+     2s (huet) karItAsi,karitAsi != kArayItAsi,kArayitAsi,karItAsi,karitAsi (pysan)
+     2d (huet) karItAsTaH,karitAsTaH != kArayItAsTaH,kArayitAsTaH,karItAsTaH,karitAsTaH (pysan)
+     2p (huet) karItAsTa,karitAsTa != kArayItAsTa,kArayitAsTa,karItAsTa,karitAsTa (pysan)
+     1s (huet) karItAsmi,karitAsmi != kArayItAsmi,kArayitAsmi,karItAsmi,karitAsmi (pysan)
+     1d (huet) karItAsvaH,karitAsvaH != kArayItAsvaH,kArayitAsvaH,karItAsvaH,karitAsvaH (pysan)
+     1p (huet) karItAsmaH,karitAsmaH != kArayItAsmaH,kArayitAsmaH,karItAsmaH,karitAsmaH (pysan)
+kxp pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kalpitA,kalptA != kalptA (pysan)
+     3d (huet) kalpitArO,kalptArO != kalptArO (pysan)
+     3p (huet) kalpitAraH,kalptAraH != kalptAraH (pysan)
+     2s (huet) kalpitAsi,kalptAsi != kalptAsi (pysan)
+     2d (huet) kalpitAsTaH,kalptAsTaH != kalptAsTaH (pysan)
+     2p (huet) kalpitAsTa,kalptAsTa != kalptAsTa (pysan)
+     1s (huet) kalpitAsmi,kalptAsmi != kalptAsmi (pysan)
+     1d (huet) kalpitAsvaH,kalptAsvaH != kalptAsvaH (pysan)
+     1p (huet) kalpitAsmaH,kalptAsmaH != kalptAsmaH (pysan)
+kelA pef P: pysan NOT FOUND
+krand pef P: identical
+kram pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kramitA,krantA != kramitA (pysan)
+     3d (huet) kramitArO,krantArO != kramitArO (pysan)
+     3p (huet) kramitAraH,krantAraH != kramitAraH (pysan)
+     2s (huet) kramitAsi,krantAsi != kramitAsi (pysan)
+     2d (huet) kramitAsTaH,krantAsTaH != kramitAsTaH (pysan)
+     2p (huet) kramitAsTa,krantAsTa != kramitAsTa (pysan)
+     1s (huet) kramitAsmi,krantAsmi != kramitAsmi (pysan)
+     1d (huet) kramitAsvaH,krantAsvaH != kramitAsvaH (pysan)
+     1p (huet) kramitAsmaH,krantAsmaH != kramitAsmaH (pysan)
+krI pef P: identical
+krIq pef P: identical
+kruYc pef P: identical
+kruD pef P: identical
+kruS pef P: identical
+klam pef P: identical
+klav pef P: identical
+klid pef P: identical
+kliS pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kleSitA != kleSitA,klezwA (pysan)
+     3d (huet) kleSitArO != kleSitArO,klezwArO (pysan)
+     3p (huet) kleSitAraH != kleSitAraH,klezwAraH (pysan)
+     2s (huet) kleSitAsi != kleSitAsi,klezwAsi (pysan)
+     2d (huet) kleSitAsTaH != kleSitAsTaH,klezwAsTaH (pysan)
+     2p (huet) kleSitAsTa != kleSitAsTa,klezwAsTa (pysan)
+     1s (huet) kleSitAsmi != kleSitAsmi,klezwAsmi (pysan)
+     1d (huet) kleSitAsvaH != kleSitAsvaH,klezwAsvaH (pysan)
+     1p (huet) kleSitAsmaH != kleSitAsmaH,klezwAsmaH (pysan)
+klIba pef P: pysan NOT FOUND
+kvaT pef P: identical
+kzad pef P: identical
+kzan pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzanitA != kzaRitA (pysan)
+     3d (huet) kzanitArO != kzaRitArO (pysan)
+     3p (huet) kzanitAraH != kzaRitAraH (pysan)
+     2s (huet) kzanitAsi != kzaRitAsi (pysan)
+     2d (huet) kzanitAsTaH != kzaRitAsTaH (pysan)
+     2p (huet) kzanitAsTa != kzaRitAsTa (pysan)
+     1s (huet) kzanitAsmi != kzaRitAsmi (pysan)
+     1d (huet) kzanitAsvaH != kzaRitAsvaH (pysan)
+     1p (huet) kzanitAsmaH != kzaRitAsmaH (pysan)
+kzap pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzapitA != kzapayitA,kzapitA (pysan)
+     3d (huet) kzapitArO != kzapayitArO,kzapitArO (pysan)
+     3p (huet) kzapitAraH != kzapayitAraH,kzapitAraH (pysan)
+     2s (huet) kzapitAsi != kzapayitAsi,kzapitAsi (pysan)
+     2d (huet) kzapitAsTaH != kzapayitAsTaH,kzapitAsTaH (pysan)
+     2p (huet) kzapitAsTa != kzapayitAsTa,kzapitAsTa (pysan)
+     1s (huet) kzapitAsmi != kzapayitAsmi,kzapitAsmi (pysan)
+     1d (huet) kzapitAsvaH != kzapayitAsvaH,kzapitAsvaH (pysan)
+     1p (huet) kzapitAsmaH != kzapayitAsmaH,kzapitAsmaH (pysan)
+kzam pef P: identical
+kzar pef P: identical
+kzi pef P: identical
+kzip pef P: identical
+kzI pef P: pysan NOT FOUND
+kzIra pef P: pysan NOT FOUND
+kzu pef P: identical
+kzud pef P: identical
+kzuD pef P: identical
+kzuB pef P: identical
+kzviq pef P: identical
+Kaqa pef P: pysan NOT FOUND
+KaRq pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) KaRqitA != KaRqayitA,KaRqitA (pysan)
+     3d (huet) KaRqitArO != KaRqayitArO,KaRqitArO (pysan)
+     3p (huet) KaRqitAraH != KaRqayitAraH,KaRqitAraH (pysan)
+     2s (huet) KaRqitAsi != KaRqayitAsi,KaRqitAsi (pysan)
+     2d (huet) KaRqitAsTaH != KaRqayitAsTaH,KaRqitAsTaH (pysan)
+     2p (huet) KaRqitAsTa != KaRqayitAsTa,KaRqitAsTa (pysan)
+     1s (huet) KaRqitAsmi != KaRqayitAsmi,KaRqitAsmi (pysan)
+     1d (huet) KaRqitAsvaH != KaRqayitAsvaH,KaRqitAsvaH (pysan)
+     1p (huet) KaRqitAsmaH != KaRqayitAsmaH,KaRqitAsmaH (pysan)
+Kan pef P: identical
+KAd pef P: identical
+Kid pef P: identical
+Kel pef P: identical
+Kela pef P: pysan NOT FOUND
+KyA pef P: identical
+gaj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gajitA != gAjayitA,gajitA (pysan)
+     3d (huet) gajitArO != gAjayitArO,gajitArO (pysan)
+     3p (huet) gajitAraH != gAjayitAraH,gajitAraH (pysan)
+     2s (huet) gajitAsi != gAjayitAsi,gajitAsi (pysan)
+     2d (huet) gajitAsTaH != gAjayitAsTaH,gajitAsTaH (pysan)
+     2p (huet) gajitAsTa != gAjayitAsTa,gajitAsTa (pysan)
+     1s (huet) gajitAsmi != gAjayitAsmi,gajitAsmi (pysan)
+     1d (huet) gajitAsvaH != gAjayitAsvaH,gajitAsvaH (pysan)
+     1p (huet) gajitAsmaH != gAjayitAsmaH,gajitAsmaH (pysan)
+gaR pef P: identical
+gad pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gaditA != gAdayitA,gadayitA,gaditA (pysan)
+     3d (huet) gaditArO != gAdayitArO,gadayitArO,gaditArO (pysan)
+     3p (huet) gaditAraH != gAdayitAraH,gadayitAraH,gaditAraH (pysan)
+     2s (huet) gaditAsi != gAdayitAsi,gadayitAsi,gaditAsi (pysan)
+     2d (huet) gaditAsTaH != gAdayitAsTaH,gadayitAsTaH,gaditAsTaH (pysan)
+     2p (huet) gaditAsTa != gAdayitAsTa,gadayitAsTa,gaditAsTa (pysan)
+     1s (huet) gaditAsmi != gAdayitAsmi,gadayitAsmi,gaditAsmi (pysan)
+     1d (huet) gaditAsvaH != gAdayitAsvaH,gadayitAsvaH,gaditAsvaH (pysan)
+     1p (huet) gaditAsmaH != gAdayitAsmaH,gadayitAsmaH,gaditAsmaH (pysan)
+gadgada pef P: pysan NOT FOUND
+gam pef P: identical
+garj pef P: identical
+gard pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) garditA != gardayitA,garditA (pysan)
+     3d (huet) garditArO != gardayitArO,garditArO (pysan)
+     3p (huet) garditAraH != gardayitAraH,garditAraH (pysan)
+     2s (huet) garditAsi != gardayitAsi,garditAsi (pysan)
+     2d (huet) garditAsTaH != gardayitAsTaH,garditAsTaH (pysan)
+     2p (huet) garditAsTa != gardayitAsTa,garditAsTa (pysan)
+     1s (huet) garditAsmi != gardayitAsmi,garditAsmi (pysan)
+     1d (huet) garditAsvaH != gardayitAsvaH,garditAsvaH (pysan)
+     1p (huet) garditAsmaH != gardayitAsmaH,garditAsmaH (pysan)
+garva pef P: pysan NOT FOUND
+garh pef P: identical
+gal pef P: identical
+galB pef P: identical
+gavez pef P: pysan NOT FOUND
+gA pef P: identical
+gAh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gAhitA != gAQA,gAhitA (pysan)
+     3d (huet) gAhitArO != gAQArO,gAhitArO (pysan)
+     3p (huet) gAhitAraH != gAQAraH,gAhitAraH (pysan)
+     2s (huet) gAhitAsi != gAQAsi,gAhitAsi (pysan)
+     2d (huet) gAhitAsTaH != gAQAsTaH,gAhitAsTaH (pysan)
+     2p (huet) gAhitAsTa != gAQAsTa,gAhitAsTa (pysan)
+     1s (huet) gAhitAsmi != gAQAsmi,gAhitAsmi (pysan)
+     1d (huet) gAhitAsvaH != gAQAsvaH,gAhitAsvaH (pysan)
+     1p (huet) gAhitAsmaH != gAQAsmaH,gAhitAsmaH (pysan)
+guYj pef P: identical
+gup pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gopayitA != gopAyitA,gopitA,goptA (pysan)
+     3d (huet) gopayitArO != gopAyitArO,gopitArO,goptArO (pysan)
+     3p (huet) gopayitAraH != gopAyitAraH,gopitAraH,goptAraH (pysan)
+     2s (huet) gopayitAsi != gopAyitAsi,gopitAsi,goptAsi (pysan)
+     2d (huet) gopayitAsTaH != gopAyitAsTaH,gopitAsTaH,goptAsTaH (pysan)
+     2p (huet) gopayitAsTa != gopAyitAsTa,gopitAsTa,goptAsTa (pysan)
+     1s (huet) gopayitAsmi != gopAyitAsmi,gopitAsmi,goptAsmi (pysan)
+     1d (huet) gopayitAsvaH != gopAyitAsvaH,gopitAsvaH,goptAsvaH (pysan)
+     1p (huet) gopayitAsmaH != gopAyitAsmaH,gopitAsmaH,goptAsmaH (pysan)
+gumP pef P: identical
+gur pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) goritA != guritA (pysan)
+     3d (huet) goritArO != guritArO (pysan)
+     3p (huet) goritAraH != guritAraH (pysan)
+     2s (huet) goritAsi != guritAsi (pysan)
+     2d (huet) goritAsTaH != guritAsTaH (pysan)
+     2p (huet) goritAsTa != guritAsTa (pysan)
+     1s (huet) goritAsmi != guritAsmi (pysan)
+     1d (huet) goritAsvaH != guritAsvaH (pysan)
+     1p (huet) goritAsmaH != guritAsmaH (pysan)
+guh pef P: identical
+gfD pef P: identical
+gF pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) garItA,garitA != gArayItA,gArayitA,garItA,garitA (pysan)
+     3d (huet) garItArO,garitArO != gArayItArO,gArayitArO,garItArO,garitArO (pysan)
+     3p (huet) garItAraH,garitAraH != gArayItAraH,gArayitAraH,garItAraH,garitAraH (pysan)
+     2s (huet) garItAsi,garitAsi != gArayItAsi,gArayitAsi,garItAsi,garitAsi (pysan)
+     2d (huet) garItAsTaH,garitAsTaH != gArayItAsTaH,gArayitAsTaH,garItAsTaH,garitAsTaH (pysan)
+     2p (huet) garItAsTa,garitAsTa != gArayItAsTa,gArayitAsTa,garItAsTa,garitAsTa (pysan)
+     1s (huet) garItAsmi,garitAsmi != gArayItAsmi,gArayitAsmi,garItAsmi,garitAsmi (pysan)
+     1d (huet) garItAsvaH,garitAsvaH != gArayItAsvaH,gArayitAsvaH,garItAsvaH,garitAsvaH (pysan)
+     1p (huet) garItAsmaH,garitAsmaH != gArayItAsmaH,gArayitAsmaH,garItAsmaH,garitAsmaH (pysan)
+go pef P: pysan NOT FOUND
+gopA pef P: pysan NOT FOUND
+gomaya pef P: pysan NOT FOUND
+granT pef P: pysan NOT FOUND
+gras pef P: identical
+grah pef P: identical
+glE pef P: identical
+Gaw pef P: identical
+Gaww pef P: identical
+Guz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) GozitA,GozwA != GozitA (pysan)
+     3d (huet) GozitArO,GozwArO != GozitArO (pysan)
+     3p (huet) GozitAraH,GozwAraH != GozitAraH (pysan)
+     2s (huet) GozitAsi,GozwAsi != GozitAsi (pysan)
+     2d (huet) GozitAsTaH,GozwAsTaH != GozitAsTaH (pysan)
+     2p (huet) GozitAsTa,GozwAsTa != GozitAsTa (pysan)
+     1s (huet) GozitAsmi,GozwAsmi != GozitAsmi (pysan)
+     1d (huet) GozitAsvaH,GozwAsvaH != GozitAsvaH (pysan)
+     1p (huet) GozitAsmaH,GozwAsmaH != GozitAsmaH (pysan)
+GUrR pef P: identical
+Gf pef P: identical
+Gfz pef P: identical
+GrA pef P: identical
+cakAs pef P: identical
+cakz pef P: identical
+caYc pef P: identical
+caw pef P: identical
+cat pef P: identical
+cand pef P: identical
+cam pef P: identical
+car pef P: identical
+carca pef P: pysan NOT FOUND
+cal pef P: identical
+ci pef P: identical
+cit pef P: identical
+citra pef P: pysan NOT FOUND
+cumb pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cumbitA != cumbayitA,cumbitA (pysan)
+     3d (huet) cumbitArO != cumbayitArO,cumbitArO (pysan)
+     3p (huet) cumbitAraH != cumbayitAraH,cumbitAraH (pysan)
+     2s (huet) cumbitAsi != cumbayitAsi,cumbitAsi (pysan)
+     2d (huet) cumbitAsTaH != cumbayitAsTaH,cumbitAsTaH (pysan)
+     2p (huet) cumbitAsTa != cumbayitAsTa,cumbitAsTa (pysan)
+     1s (huet) cumbitAsmi != cumbayitAsmi,cumbitAsmi (pysan)
+     1d (huet) cumbitAsvaH != cumbayitAsvaH,cumbitAsvaH (pysan)
+     1p (huet) cumbitAsmaH != cumbayitAsmaH,cumbitAsmaH (pysan)
+cur pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) corayitA,coritA != corayitA (pysan)
+     3d (huet) corayitArO,coritArO != corayitArO (pysan)
+     3p (huet) corayitAraH,coritAraH != corayitAraH (pysan)
+     2s (huet) corayitAsi,coritAsi != corayitAsi (pysan)
+     2d (huet) corayitAsTaH,coritAsTaH != corayitAsTaH (pysan)
+     2p (huet) corayitAsTa,coritAsTa != corayitAsTa (pysan)
+     1s (huet) corayitAsmi,coritAsmi != corayitAsmi (pysan)
+     1d (huet) corayitAsvaH,coritAsvaH != corayitAsvaH (pysan)
+     1p (huet) corayitAsmaH,coritAsmaH != corayitAsmaH (pysan)
+cUrRa pef P: pysan NOT FOUND
+cUz pef P: identical
+cezw pef P: identical
+cyu pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cyotA != cyAvayitA (pysan)
+     3d (huet) cyotArO != cyAvayitArO (pysan)
+     3p (huet) cyotAraH != cyAvayitAraH (pysan)
+     2s (huet) cyotAsi != cyAvayitAsi (pysan)
+     2d (huet) cyotAsTaH != cyAvayitAsTaH (pysan)
+     2p (huet) cyotAsTa != cyAvayitAsTa (pysan)
+     1s (huet) cyotAsmi != cyAvayitAsmi (pysan)
+     1d (huet) cyotAsvaH != cyAvayitAsvaH (pysan)
+     1p (huet) cyotAsmaH != cyAvayitAsmaH (pysan)
+Cad pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) CaditA != CAdayitA,CaditA (pysan)
+     3d (huet) CaditArO != CAdayitArO,CaditArO (pysan)
+     3p (huet) CaditAraH != CAdayitAraH,CaditAraH (pysan)
+     2s (huet) CaditAsi != CAdayitAsi,CaditAsi (pysan)
+     2d (huet) CaditAsTaH != CAdayitAsTaH,CaditAsTaH (pysan)
+     2p (huet) CaditAsTa != CAdayitAsTa,CaditAsTa (pysan)
+     1s (huet) CaditAsmi != CAdayitAsmi,CaditAsmi (pysan)
+     1d (huet) CaditAsvaH != CAdayitAsvaH,CaditAsvaH (pysan)
+     1p (huet) CaditAsmaH != CAdayitAsmaH,CaditAsmaH (pysan)
+Cand pef P: pysan NOT FOUND
+Cala pef P: pysan NOT FOUND
+Cid pef P: identical
+Cidra pef P: pysan NOT FOUND
+jakz pef P: identical
+jan pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jAtA,janitA != janitA (pysan)
+     3d (huet) jAtArO,janitArO != janitArO (pysan)
+     3p (huet) jAtAraH,janitAraH != janitAraH (pysan)
+     2s (huet) jAtAsi,janitAsi != janitAsi (pysan)
+     2d (huet) jAtAsTaH,janitAsTaH != janitAsTaH (pysan)
+     2p (huet) jAtAsTa,janitAsTa != janitAsTa (pysan)
+     1s (huet) jAtAsmi,janitAsmi != janitAsmi (pysan)
+     1d (huet) jAtAsvaH,janitAsvaH != janitAsvaH (pysan)
+     1p (huet) jAtAsmaH,janitAsmaH != janitAsmaH (pysan)
+jap pef P: identical
+jaB pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jaBitA != jamBitA (pysan)
+     3d (huet) jaBitArO != jamBitArO (pysan)
+     3p (huet) jaBitAraH != jamBitAraH (pysan)
+     2s (huet) jaBitAsi != jamBitAsi (pysan)
+     2d (huet) jaBitAsTaH != jamBitAsTaH (pysan)
+     2p (huet) jaBitAsTa != jamBitAsTa (pysan)
+     1s (huet) jaBitAsmi != jamBitAsmi (pysan)
+     1d (huet) jaBitAsvaH != jamBitAsvaH (pysan)
+     1p (huet) jaBitAsmaH != jamBitAsmaH (pysan)
+jam pef P: identical
+jala pef P: pysan NOT FOUND
+jalp pef P: identical
+jas pef P: identical
+jAgf pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jAgartA != jAgaritA (pysan)
+     3d (huet) jAgartArO != jAgaritArO (pysan)
+     3p (huet) jAgartAraH != jAgaritAraH (pysan)
+     2s (huet) jAgartAsi != jAgaritAsi (pysan)
+     2d (huet) jAgartAsTaH != jAgaritAsTaH (pysan)
+     2p (huet) jAgartAsTa != jAgaritAsTa (pysan)
+     1s (huet) jAgartAsmi != jAgaritAsmi (pysan)
+     1d (huet) jAgartAsvaH != jAgaritAsvaH (pysan)
+     1p (huet) jAgartAsmaH != jAgaritAsmaH (pysan)
+ji pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jayitA,jetA != jetA (pysan)
+     3d (huet) jayitArO,jetArO != jetArO (pysan)
+     3p (huet) jayitAraH,jetAraH != jetAraH (pysan)
+     2s (huet) jayitAsi,jetAsi != jetAsi (pysan)
+     2d (huet) jayitAsTaH,jetAsTaH != jetAsTaH (pysan)
+     2p (huet) jayitAsTa,jetAsTa != jetAsTa (pysan)
+     1s (huet) jayitAsmi,jetAsmi != jetAsmi (pysan)
+     1d (huet) jayitAsvaH,jetAsvaH != jetAsvaH (pysan)
+     1p (huet) jayitAsmaH,jetAsmaH != jetAsmaH (pysan)
+jinv pef P: identical
+jihma pef P: pysan NOT FOUND
+jIv pef P: identical
+juz pef P: identical
+jU pef P: pysan NOT FOUND
+jfmB pef P: identical
+jF pef P: identical
+jYA pef P: identical
+jyA pef P: identical
+jyut pef P: identical
+jvar pef P: pysan NOT FOUND
+jval pef P: identical
+qamb pef P: identical
+qI pef P: identical
+tak pef P: identical
+takz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) takzitA != takzitA,tazwA (pysan)
+     3d (huet) takzitArO != takzitArO,tazwArO (pysan)
+     3p (huet) takzitAraH != takzitAraH,tazwAraH (pysan)
+     2s (huet) takzitAsi != takzitAsi,tazwAsi (pysan)
+     2d (huet) takzitAsTaH != takzitAsTaH,tazwAsTaH (pysan)
+     2p (huet) takzitAsTa != takzitAsTa,tazwAsTa (pysan)
+     1s (huet) takzitAsmi != takzitAsmi,tazwAsmi (pysan)
+     1d (huet) takzitAsvaH != takzitAsvaH,tazwAsvaH (pysan)
+     1p (huet) takzitAsmaH != takzitAsmaH,tazwAsmaH (pysan)
+taYc pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) taNktA,taYcitA != taYcitA (pysan)
+     3d (huet) taNktArO,taYcitArO != taYcitArO (pysan)
+     3p (huet) taNktAraH,taYcitAraH != taYcitAraH (pysan)
+     2s (huet) taNktAsi,taYcitAsi != taYcitAsi (pysan)
+     2d (huet) taNktAsTaH,taYcitAsTaH != taYcitAsTaH (pysan)
+     2p (huet) taNktAsTa,taYcitAsTa != taYcitAsTa (pysan)
+     1s (huet) taNktAsmi,taYcitAsmi != taYcitAsmi (pysan)
+     1d (huet) taNktAsvaH,taYcitAsvaH != taYcitAsvaH (pysan)
+     1p (huet) taNktAsmaH,taYcitAsmaH != taYcitAsmaH (pysan)
+tan pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tanitA != tAnayitA,tanitA (pysan)
+     3d (huet) tanitArO != tAnayitArO,tanitArO (pysan)
+     3p (huet) tanitAraH != tAnayitAraH,tanitAraH (pysan)
+     2s (huet) tanitAsi != tAnayitAsi,tanitAsi (pysan)
+     2d (huet) tanitAsTaH != tAnayitAsTaH,tanitAsTaH (pysan)
+     2p (huet) tanitAsTa != tAnayitAsTa,tanitAsTa (pysan)
+     1s (huet) tanitAsmi != tAnayitAsmi,tanitAsmi (pysan)
+     1d (huet) tanitAsvaH != tAnayitAsvaH,tanitAsvaH (pysan)
+     1p (huet) tanitAsmaH != tAnayitAsmaH,tanitAsmaH (pysan)
+tantra pef P: pysan NOT FOUND
+tandr pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tandrayitA != tandritA (pysan)
+     3d (huet) tandrayitArO != tandritArO (pysan)
+     3p (huet) tandrayitAraH != tandritAraH (pysan)
+     2s (huet) tandrayitAsi != tandritAsi (pysan)
+     2d (huet) tandrayitAsTaH != tandritAsTaH (pysan)
+     2p (huet) tandrayitAsTa != tandritAsTa (pysan)
+     1s (huet) tandrayitAsmi != tandritAsmi (pysan)
+     1d (huet) tandrayitAsvaH != tandritAsvaH (pysan)
+     1p (huet) tandrayitAsmaH != tandritAsmaH (pysan)
+tap pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tapitA,taptA != taptA (pysan)
+     3d (huet) tapitArO,taptArO != taptArO (pysan)
+     3p (huet) tapitAraH,taptAraH != taptAraH (pysan)
+     2s (huet) tapitAsi,taptAsi != taptAsi (pysan)
+     2d (huet) tapitAsTaH,taptAsTaH != taptAsTaH (pysan)
+     2p (huet) tapitAsTa,taptAsTa != taptAsTa (pysan)
+     1s (huet) tapitAsmi,taptAsmi != taptAsmi (pysan)
+     1d (huet) tapitAsvaH,taptAsvaH != taptAsvaH (pysan)
+     1p (huet) tapitAsmaH,taptAsmaH != taptAsmaH (pysan)
+tapas pef P: pysan NOT FOUND
+tam pef P: identical
+taraNga pef P: pysan NOT FOUND
+taruRa pef P: pysan NOT FOUND
+tark pef P: identical
+tarj pef P: identical
+taviza pef P: pysan NOT FOUND
+tij pef P: identical
+tiras pef P: pysan NOT FOUND
+tud pef P: identical
+tup pef P: identical
+tul pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tolayitA,tulayitA != tolayitA (pysan)
+     3d (huet) tolayitArO,tulayitArO != tolayitArO (pysan)
+     3p (huet) tolayitAraH,tulayitAraH != tolayitAraH (pysan)
+     2s (huet) tolayitAsi,tulayitAsi != tolayitAsi (pysan)
+     2d (huet) tolayitAsTaH,tulayitAsTaH != tolayitAsTaH (pysan)
+     2p (huet) tolayitAsTa,tulayitAsTa != tolayitAsTa (pysan)
+     1s (huet) tolayitAsmi,tulayitAsmi != tolayitAsmi (pysan)
+     1d (huet) tolayitAsvaH,tulayitAsvaH != tolayitAsvaH (pysan)
+     1p (huet) tolayitAsmaH,tulayitAsmaH != tolayitAsmaH (pysan)
+tuz pef P: identical
+tuhina pef P: pysan NOT FOUND
+tfd pef P: identical
+tfp pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tarptA != tarpitA,tarptA,traptA (pysan)
+     3d (huet) tarptArO != tarpitArO,tarptArO,traptArO (pysan)
+     3p (huet) tarptAraH != tarpitAraH,tarptAraH,traptAraH (pysan)
+     2s (huet) tarptAsi != tarpitAsi,tarptAsi,traptAsi (pysan)
+     2d (huet) tarptAsTaH != tarpitAsTaH,tarptAsTaH,traptAsTaH (pysan)
+     2p (huet) tarptAsTa != tarpitAsTa,tarptAsTa,traptAsTa (pysan)
+     1s (huet) tarptAsmi != tarpitAsmi,tarptAsmi,traptAsmi (pysan)
+     1d (huet) tarptAsvaH != tarpitAsvaH,tarptAsvaH,traptAsvaH (pysan)
+     1p (huet) tarptAsmaH != tarpitAsmaH,tarptAsmaH,traptAsmaH (pysan)
+tfz pef P: identical
+tF pef P: identical
+tyaj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tyajitA,tyaktA != tyazwA (pysan)
+     3d (huet) tyajitArO,tyaktArO != tyazwArO (pysan)
+     3p (huet) tyajitAraH,tyaktAraH != tyazwAraH (pysan)
+     2s (huet) tyajitAsi,tyaktAsi != tyazwAsi (pysan)
+     2d (huet) tyajitAsTaH,tyaktAsTaH != tyazwAsTaH (pysan)
+     2p (huet) tyajitAsTa,tyaktAsTa != tyazwAsTa (pysan)
+     1s (huet) tyajitAsmi,tyaktAsmi != tyazwAsmi (pysan)
+     1d (huet) tyajitAsvaH,tyaktAsvaH != tyazwAsvaH (pysan)
+     1p (huet) tyajitAsmaH,tyaktAsmaH != tyazwAsmaH (pysan)
+trap pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trapitA != trapitA,traptA (pysan)
+     3d (huet) trapitArO != trapitArO,traptArO (pysan)
+     3p (huet) trapitAraH != trapitAraH,traptAraH (pysan)
+     2s (huet) trapitAsi != trapitAsi,traptAsi (pysan)
+     2d (huet) trapitAsTaH != trapitAsTaH,traptAsTaH (pysan)
+     2p (huet) trapitAsTa != trapitAsTa,traptAsTa (pysan)
+     1s (huet) trapitAsmi != trapitAsmi,traptAsmi (pysan)
+     1d (huet) trapitAsvaH != trapitAsvaH,traptAsvaH (pysan)
+     1p (huet) trapitAsmaH != trapitAsmaH,traptAsmaH (pysan)
+tras pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trasitA != trAsayitA,trasitA (pysan)
+     3d (huet) trasitArO != trAsayitArO,trasitArO (pysan)
+     3p (huet) trasitAraH != trAsayitAraH,trasitAraH (pysan)
+     2s (huet) trasitAsi != trAsayitAsi,trasitAsi (pysan)
+     2d (huet) trasitAsTaH != trAsayitAsTaH,trasitAsTaH (pysan)
+     2p (huet) trasitAsTa != trAsayitAsTa,trasitAsTa (pysan)
+     1s (huet) trasitAsmi != trAsayitAsmi,trasitAsmi (pysan)
+     1d (huet) trasitAsvaH != trAsayitAsvaH,trasitAsvaH (pysan)
+     1p (huet) trasitAsmaH != trAsayitAsmaH,trasitAsmaH (pysan)
+truw pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trowitA != truwitA (pysan)
+     3d (huet) trowitArO != truwitArO (pysan)
+     3p (huet) trowitAraH != truwitAraH (pysan)
+     2s (huet) trowitAsi != truwitAsi (pysan)
+     2d (huet) trowitAsTaH != truwitAsTaH (pysan)
+     2p (huet) trowitAsTa != truwitAsTa (pysan)
+     1s (huet) trowitAsmi != truwitAsmi (pysan)
+     1d (huet) trowitAsvaH != truwitAsvaH (pysan)
+     1p (huet) trowitAsmaH != truwitAsmaH (pysan)
+trE pef P: identical
+tvakz pef P: identical
+tvar pef P: identical
+tviz pef P: identical
+tsar pef P: identical
+daMS pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) daMSitA != daMSayitA,daMzwA (pysan)
+     3d (huet) daMSitArO != daMSayitArO,daMzwArO (pysan)
+     3p (huet) daMSitAraH != daMSayitAraH,daMzwAraH (pysan)
+     2s (huet) daMSitAsi != daMSayitAsi,daMzwAsi (pysan)
+     2d (huet) daMSitAsTaH != daMSayitAsTaH,daMzwAsTaH (pysan)
+     2p (huet) daMSitAsTa != daMSayitAsTa,daMzwAsTa (pysan)
+     1s (huet) daMSitAsmi != daMSayitAsmi,daMzwAsmi (pysan)
+     1d (huet) daMSitAsvaH != daMSayitAsvaH,daMzwAsvaH (pysan)
+     1p (huet) daMSitAsmaH != daMSayitAsmaH,daMzwAsmaH (pysan)
+dakz pef P: identical
+daG pef P: identical
+daRqa pef P: pysan NOT FOUND
+daB pef P: identical
+dam pef P: identical
+day pef P: identical
+dal pef P: identical
+das pef P: identical
+dah pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) dagDA,dahitA != dagDA (pysan)
+     3d (huet) dagDArO,dahitArO != dagDArO (pysan)
+     3p (huet) dagDAraH,dahitAraH != dagDAraH (pysan)
+     2s (huet) dagDAsi,dahitAsi != dagDAsi (pysan)
+     2d (huet) dagDAsTaH,dahitAsTaH != dagDAsTaH (pysan)
+     2p (huet) dagDAsTa,dahitAsTa != dagDAsTa (pysan)
+     1s (huet) dagDAsmi,dahitAsmi != dagDAsmi (pysan)
+     1d (huet) dagDAsvaH,dahitAsvaH != dagDAsvaH (pysan)
+     1p (huet) dagDAsmaH,dahitAsmaH != dagDAsmaH (pysan)
+dA pef P: identical
+dAS pef P: identical
+diS pef P: identical
+dih pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) degDA != deQA (pysan)
+     3d (huet) degDArO != deQArO (pysan)
+     3p (huet) degDAraH != deQAraH (pysan)
+     2s (huet) degDAsi != deQAsi (pysan)
+     2d (huet) degDAsTaH != deQAsTaH (pysan)
+     2p (huet) degDAsTa != deQAsTa (pysan)
+     1s (huet) degDAsmi != deQAsmi (pysan)
+     1d (huet) degDAsvaH != deQAsvaH (pysan)
+     1p (huet) degDAsmaH != deQAsmaH (pysan)
+dIkz pef P: identical
+dIp pef P: identical
+dIv pef P: pysan NOT FOUND
+du pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) dotA != dutA (pysan)
+     3d (huet) dotArO != dutArO (pysan)
+     3p (huet) dotAraH != dutAraH (pysan)
+     2s (huet) dotAsi != dutAsi (pysan)
+     2d (huet) dotAsTaH != dutAsTaH (pysan)
+     2p (huet) dotAsTa != dutAsTa (pysan)
+     1s (huet) dotAsmi != dutAsmi (pysan)
+     1d (huet) dotAsvaH != dutAsvaH (pysan)
+     1p (huet) dotAsmaH != dutAsmaH (pysan)
+duHKa pef P: pysan NOT FOUND
+durdina pef P: pysan NOT FOUND
+duz pef P: identical
+duh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) dogDA != doQA (pysan)
+     3d (huet) dogDArO != doQArO (pysan)
+     3p (huet) dogDAraH != doQAraH (pysan)
+     2s (huet) dogDAsi != doQAsi (pysan)
+     2d (huet) dogDAsTaH != doQAsTaH (pysan)
+     2p (huet) dogDAsTa != doQAsTa (pysan)
+     1s (huet) dogDAsmi != doQAsmi (pysan)
+     1d (huet) dogDAsvaH != doQAsvaH (pysan)
+     1p (huet) dogDAsmaH != doQAsmaH (pysan)
+dfp pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) darpitA,darptA != darptA,draptA (pysan)
+     3d (huet) darpitArO,darptArO != darptArO,draptArO (pysan)
+     3p (huet) darpitAraH,darptAraH != darptAraH,draptAraH (pysan)
+     2s (huet) darpitAsi,darptAsi != darptAsi,draptAsi (pysan)
+     2d (huet) darpitAsTaH,darptAsTaH != darptAsTaH,draptAsTaH (pysan)
+     2p (huet) darpitAsTa,darptAsTa != darptAsTa,draptAsTa (pysan)
+     1s (huet) darpitAsmi,darptAsmi != darptAsmi,draptAsmi (pysan)
+     1d (huet) darpitAsvaH,darptAsvaH != darptAsvaH,draptAsvaH (pysan)
+     1p (huet) darpitAsmaH,darptAsmaH != darptAsmaH,draptAsmaH (pysan)
+dfB pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) darBitA != darBayitA,darBitA (pysan)
+     3d (huet) darBitArO != darBayitArO,darBitArO (pysan)
+     3p (huet) darBitAraH != darBayitAraH,darBitAraH (pysan)
+     2s (huet) darBitAsi != darBayitAsi,darBitAsi (pysan)
+     2d (huet) darBitAsTaH != darBayitAsTaH,darBitAsTaH (pysan)
+     2p (huet) darBitAsTa != darBayitAsTa,darBitAsTa (pysan)
+     1s (huet) darBitAsmi != darBayitAsmi,darBitAsmi (pysan)
+     1d (huet) darBitAsvaH != darBayitAsvaH,darBitAsvaH (pysan)
+     1p (huet) darBitAsmaH != darBayitAsmaH,darBitAsmaH (pysan)
+dfS pef P: identical
+dfh pef P: identical
+dF pef P: identical
+dev pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) devitA != devayitA,devitA (pysan)
+     3d (huet) devitArO != devayitArO,devitArO (pysan)
+     3p (huet) devitAraH != devayitAraH,devitAraH (pysan)
+     2s (huet) devitAsi != devayitAsi,devitAsi (pysan)
+     2d (huet) devitAsTaH != devayitAsTaH,devitAsTaH (pysan)
+     2p (huet) devitAsTa != devayitAsTa,devitAsTa (pysan)
+     1s (huet) devitAsmi != devayitAsmi,devitAsmi (pysan)
+     1d (huet) devitAsvaH != devayitAsvaH,devitAsvaH (pysan)
+     1p (huet) devitAsmaH != devayitAsmaH,devitAsmaH (pysan)
+deva pef P: pysan NOT FOUND
+dola pef P: pysan NOT FOUND
+dyut pef P: identical
+drA pef P: identical
+dru pef P: identical
+druh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) drogDA,drohitA != droQA,drogDA,drohitA (pysan)
+     3d (huet) drogDArO,drohitArO != droQArO,drogDArO,drohitArO (pysan)
+     3p (huet) drogDAraH,drohitAraH != droQAraH,drogDAraH,drohitAraH (pysan)
+     2s (huet) drogDAsi,drohitAsi != droQAsi,drogDAsi,drohitAsi (pysan)
+     2d (huet) drogDAsTaH,drohitAsTaH != droQAsTaH,drogDAsTaH,drohitAsTaH (pysan)
+     2p (huet) drogDAsTa,drohitAsTa != droQAsTa,drogDAsTa,drohitAsTa (pysan)
+     1s (huet) drogDAsmi,drohitAsmi != droQAsmi,drogDAsmi,drohitAsmi (pysan)
+     1d (huet) drogDAsvaH,drohitAsvaH != droQAsvaH,drogDAsvaH,drohitAsvaH (pysan)
+     1p (huet) drogDAsmaH,drohitAsmaH != droQAsmaH,drogDAsmaH,drohitAsmaH (pysan)
+dviz pef P: identical
+Dana pef P: pysan NOT FOUND
+Dam pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) DmAtA != DamitA (pysan)
+     3d (huet) DmAtArO != DamitArO (pysan)
+     3p (huet) DmAtAraH != DamitAraH (pysan)
+     2s (huet) DmAtAsi != DamitAsi (pysan)
+     2d (huet) DmAtAsTaH != DamitAsTaH (pysan)
+     2p (huet) DmAtAsTa != DamitAsTa (pysan)
+     1s (huet) DmAtAsmi != DamitAsmi (pysan)
+     1d (huet) DmAtAsvaH != DamitAsvaH (pysan)
+     1p (huet) DmAtAsmaH != DamitAsmaH (pysan)
+DA pef P: identical
+DAv pef P: identical
+DI pef P: identical
+DIra pef P: pysan NOT FOUND
+Dukz pef P: identical
+DU pef P: identical
+DUma pef P: pysan NOT FOUND
+Df pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) DartA != DaritA,DartA (pysan)
+     3d (huet) DartArO != DaritArO,DartArO (pysan)
+     3p (huet) DartAraH != DaritAraH,DartAraH (pysan)
+     2s (huet) DartAsi != DaritAsi,DartAsi (pysan)
+     2d (huet) DartAsTaH != DaritAsTaH,DartAsTaH (pysan)
+     2p (huet) DartAsTa != DaritAsTa,DartAsTa (pysan)
+     1s (huet) DartAsmi != DaritAsmi,DartAsmi (pysan)
+     1d (huet) DartAsvaH != DaritAsvaH,DartAsvaH (pysan)
+     1p (huet) DartAsmaH != DaritAsmaH,DartAsmaH (pysan)
+Dfz pef P: identical
+DyA pef P: pysan NOT FOUND
+Dru pef P: identical
+DvaMs pef P: identical
+Dvan pef P: identical
+DvANkz pef P: identical
+Dvf pef P: identical
+nakz pef P: identical
+naw pef P: identical
+nad pef P: identical
+nand pef P: identical
+nam pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) namitA,nantA != nantA (pysan)
+     3d (huet) namitArO,nantArO != nantArO (pysan)
+     3p (huet) namitAraH,nantAraH != nantAraH (pysan)
+     2s (huet) namitAsi,nantAsi != nantAsi (pysan)
+     2d (huet) namitAsTaH,nantAsTaH != nantAsTaH (pysan)
+     2p (huet) namitAsTa,nantAsTa != nantAsTa (pysan)
+     1s (huet) namitAsmi,nantAsmi != nantAsmi (pysan)
+     1d (huet) namitAsvaH,nantAsvaH != nantAsvaH (pysan)
+     1p (huet) namitAsmaH,nantAsmaH != nantAsmaH (pysan)
+namas pef P: pysan NOT FOUND
+nard pef P: identical
+naS pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) naMzwA,naSitA,nazwA != naMzwA,naSitA (pysan)
+     3d (huet) naMzwArO,naSitArO,nazwArO != naMzwArO,naSitArO (pysan)
+     3p (huet) naMzwAraH,naSitAraH,nazwAraH != naMzwAraH,naSitAraH (pysan)
+     2s (huet) naMzwAsi,naSitAsi,nazwAsi != naMzwAsi,naSitAsi (pysan)
+     2d (huet) naMzwAsTaH,naSitAsTaH,nazwAsTaH != naMzwAsTaH,naSitAsTaH (pysan)
+     2p (huet) naMzwAsTa,naSitAsTa,nazwAsTa != naMzwAsTa,naSitAsTa (pysan)
+     1s (huet) naMzwAsmi,naSitAsmi,nazwAsmi != naMzwAsmi,naSitAsmi (pysan)
+     1d (huet) naMzwAsvaH,naSitAsvaH,nazwAsvaH != naMzwAsvaH,naSitAsvaH (pysan)
+     1p (huet) naMzwAsmaH,naSitAsmaH,nazwAsmaH != naMzwAsmaH,naSitAsmaH (pysan)
+nah pef P: identical
+nAT pef P: identical
+nikaza pef P: pysan NOT FOUND
+nij pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nektA,niYjitA != nektA (pysan)
+     3d (huet) nektArO,niYjitArO != nektArO (pysan)
+     3p (huet) nektAraH,niYjitAraH != nektAraH (pysan)
+     2s (huet) nektAsi,niYjitAsi != nektAsi (pysan)
+     2d (huet) nektAsTaH,niYjitAsTaH != nektAsTaH (pysan)
+     2p (huet) nektAsTa,niYjitAsTa != nektAsTa (pysan)
+     1s (huet) nektAsmi,niYjitAsmi != nektAsmi (pysan)
+     1d (huet) nektAsvaH,niYjitAsvaH != nektAsvaH (pysan)
+     1p (huet) nektAsmaH,niYjitAsmaH != nektAsmaH (pysan)
+nind pef P: identical
+nI pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nayitA,netA != netA (pysan)
+     3d (huet) nayitArO,netArO != netArO (pysan)
+     3p (huet) nayitAraH,netAraH != netAraH (pysan)
+     2s (huet) nayitAsi,netAsi != netAsi (pysan)
+     2d (huet) nayitAsTaH,netAsTaH != netAsTaH (pysan)
+     2p (huet) nayitAsTa,netAsTa != netAsTa (pysan)
+     1s (huet) nayitAsmi,netAsmi != netAsmi (pysan)
+     1d (huet) nayitAsvaH,netAsvaH != netAsvaH (pysan)
+     1p (huet) nayitAsmaH,netAsmaH != netAsmaH (pysan)
+nIhAra pef P: pysan NOT FOUND
+nu pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) navitA != nuvitA (pysan)
+     3d (huet) navitArO != nuvitArO (pysan)
+     3p (huet) navitAraH != nuvitAraH (pysan)
+     2s (huet) navitAsi != nuvitAsi (pysan)
+     2d (huet) navitAsTaH != nuvitAsTaH (pysan)
+     2p (huet) navitAsTa != nuvitAsTa (pysan)
+     1s (huet) navitAsmi != nuvitAsmi (pysan)
+     1d (huet) navitAsvaH != nuvitAsvaH (pysan)
+     1p (huet) navitAsmaH != nuvitAsmaH (pysan)
+nud pef P: identical
+nUtana pef P: pysan NOT FOUND
+nft pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nartitA,narttA != nartitA (pysan)
+     3d (huet) nartitArO,narttArO != nartitArO (pysan)
+     3p (huet) nartitAraH,narttAraH != nartitAraH (pysan)
+     2s (huet) nartitAsi,narttAsi != nartitAsi (pysan)
+     2d (huet) nartitAsTaH,narttAsTaH != nartitAsTaH (pysan)
+     2p (huet) nartitAsTa,narttAsTa != nartitAsTa (pysan)
+     1s (huet) nartitAsmi,narttAsmi != nartitAsmi (pysan)
+     1d (huet) nartitAsvaH,narttAsvaH != nartitAsvaH (pysan)
+     1p (huet) nartitAsmaH,narttAsmaH != nartitAsmaH (pysan)
+nO pef P: pysan NOT FOUND
+pac pef P: identical
+paw pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pawitA != pAwayitA,pawayitA,pawitA (pysan)
+     3d (huet) pawitArO != pAwayitArO,pawayitArO,pawitArO (pysan)
+     3p (huet) pawitAraH != pAwayitAraH,pawayitAraH,pawitAraH (pysan)
+     2s (huet) pawitAsi != pAwayitAsi,pawayitAsi,pawitAsi (pysan)
+     2d (huet) pawitAsTaH != pAwayitAsTaH,pawayitAsTaH,pawitAsTaH (pysan)
+     2p (huet) pawitAsTa != pAwayitAsTa,pawayitAsTa,pawitAsTa (pysan)
+     1s (huet) pawitAsmi != pAwayitAsmi,pawayitAsmi,pawitAsmi (pysan)
+     1d (huet) pawitAsvaH != pAwayitAsvaH,pawayitAsvaH,pawitAsvaH (pysan)
+     1p (huet) pawitAsmaH != pAwayitAsmaH,pawayitAsmaH,pawitAsmaH (pysan)
+pawapawA pef P: pysan NOT FOUND
+paW pef P: identical
+paR pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) paRitA != paRAyitA,paRitA (pysan)
+     3d (huet) paRitArO != paRAyitArO,paRitArO (pysan)
+     3p (huet) paRitAraH != paRAyitAraH,paRitAraH (pysan)
+     2s (huet) paRitAsi != paRAyitAsi,paRitAsi (pysan)
+     2d (huet) paRitAsTaH != paRAyitAsTaH,paRitAsTaH (pysan)
+     2p (huet) paRitAsTa != paRAyitAsTa,paRitAsTa (pysan)
+     1s (huet) paRitAsmi != paRAyitAsmi,paRitAsmi (pysan)
+     1d (huet) paRitAsvaH != paRAyitAsvaH,paRitAsvaH (pysan)
+     1p (huet) paRitAsmaH != paRAyitAsmaH,paRitAsmaH (pysan)
+pat pef P: identical
+paT pef P: identical
+pad pef P: identical
+payas pef P: pysan NOT FOUND
+parokza pef P: pysan NOT FOUND
+palAy pef P: identical
+pavitra pef P: pysan NOT FOUND
+pA pef P: identical
+pASa pef P: pysan NOT FOUND
+pi pef P: identical
+piYj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) piYjitA != piYjayitA,piYjitA (pysan)
+     3d (huet) piYjitArO != piYjayitArO,piYjitArO (pysan)
+     3p (huet) piYjitAraH != piYjayitAraH,piYjitAraH (pysan)
+     2s (huet) piYjitAsi != piYjayitAsi,piYjitAsi (pysan)
+     2d (huet) piYjitAsTaH != piYjayitAsTaH,piYjitAsTaH (pysan)
+     2p (huet) piYjitAsTa != piYjayitAsTa,piYjitAsTa (pysan)
+     1s (huet) piYjitAsmi != piYjayitAsmi,piYjitAsmi (pysan)
+     1d (huet) piYjitAsvaH != piYjayitAsvaH,piYjitAsvaH (pysan)
+     1p (huet) piYjitAsmaH != piYjayitAsmaH,piYjitAsmaH (pysan)
+piRqa pef P: pysan NOT FOUND
+piS pef P: identical
+piz pef P: identical
+pIq pef P: identical
+pIyUzavarza pef P: pysan NOT FOUND
+putra pef P: pysan NOT FOUND
+putrakAma pef P: pysan NOT FOUND
+puT pef P: identical
+pulaka pef P: pysan NOT FOUND
+puz pef P: identical
+puzkara pef P: pysan NOT FOUND
+puzpa pef P: pysan NOT FOUND
+pU pef P: identical
+pUj pef P: identical
+pUy pef P: identical
+pUla pef P: pysan NOT FOUND
+pf pef P: identical
+pfc pef P: identical
+pfT pef P: identical
+pfz pef P: identical
+pF pef P: identical
+pyA pef P: pysan NOT FOUND
+pratikUla pef P: pysan NOT FOUND
+praT pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) praTitA != prATayitA,praTitA (pysan)
+     3d (huet) praTitArO != prATayitArO,praTitArO (pysan)
+     3p (huet) praTitAraH != prATayitAraH,praTitAraH (pysan)
+     2s (huet) praTitAsi != prATayitAsi,praTitAsi (pysan)
+     2d (huet) praTitAsTaH != prATayitAsTaH,praTitAsTaH (pysan)
+     2p (huet) praTitAsTa != prATayitAsTa,praTitAsTa (pysan)
+     1s (huet) praTitAsmi != prATayitAsmi,praTitAsmi (pysan)
+     1d (huet) praTitAsvaH != prATayitAsvaH,praTitAsvaH (pysan)
+     1p (huet) praTitAsmaH != prATayitAsmaH,praTitAsmaH (pysan)
+praS pef P: pysan NOT FOUND
+prasAda pef P: pysan NOT FOUND
+prAsAda pef P: pysan NOT FOUND
+priya pef P: pysan NOT FOUND
+prI pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pretA != prayitA,pretA (pysan)
+     3d (huet) pretArO != prayitArO,pretArO (pysan)
+     3p (huet) pretAraH != prayitAraH,pretAraH (pysan)
+     2s (huet) pretAsi != prayitAsi,pretAsi (pysan)
+     2d (huet) pretAsTaH != prayitAsTaH,pretAsTaH (pysan)
+     2p (huet) pretAsTa != prayitAsTa,pretAsTa (pysan)
+     1s (huet) pretAsmi != prayitAsmi,pretAsmi (pysan)
+     1d (huet) pretAsvaH != prayitAsvaH,pretAsvaH (pysan)
+     1p (huet) pretAsmaH != prayitAsmaH,pretAsmaH (pysan)
+pru pef P: identical
+plu pef P: identical
+pluz pef P: identical
+Pal pef P: identical
+Pull pef P: identical
+Pena pef P: pysan NOT FOUND
+baMh pef P: identical
+banD pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) banDitA,bandDA != bandDA (pysan)
+     3d (huet) banDitArO,bandDArO != bandDArO (pysan)
+     3p (huet) banDitAraH,bandDAraH != bandDAraH (pysan)
+     2s (huet) banDitAsi,bandDAsi != bandDAsi (pysan)
+     2d (huet) banDitAsTaH,bandDAsTaH != bandDAsTaH (pysan)
+     2p (huet) banDitAsTa,bandDAsTa != bandDAsTa (pysan)
+     1s (huet) banDitAsmi,bandDAsmi != bandDAsmi (pysan)
+     1d (huet) banDitAsvaH,bandDAsvaH != bandDAsvaH (pysan)
+     1p (huet) banDitAsmaH,bandDAsmaH != bandDAsmaH (pysan)
+bal pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) balitA != bAlayitA,balitA (pysan)
+     3d (huet) balitArO != bAlayitArO,balitArO (pysan)
+     3p (huet) balitAraH != bAlayitAraH,balitAraH (pysan)
+     2s (huet) balitAsi != bAlayitAsi,balitAsi (pysan)
+     2d (huet) balitAsTaH != bAlayitAsTaH,balitAsTaH (pysan)
+     2p (huet) balitAsTa != bAlayitAsTa,balitAsTa (pysan)
+     1s (huet) balitAsmi != bAlayitAsmi,balitAsmi (pysan)
+     1d (huet) balitAsvaH != bAlayitAsvaH,balitAsvaH (pysan)
+     1p (huet) balitAsmaH != bAlayitAsmaH,balitAsmaH (pysan)
+bAD pef P: identical
+bAzpa pef P: pysan NOT FOUND
+buD pef P: identical
+bfh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) barhitA != barQA,barhitA (pysan)
+     3d (huet) barhitArO != barQArO,barhitArO (pysan)
+     3p (huet) barhitAraH != barQAraH,barhitAraH (pysan)
+     2s (huet) barhitAsi != barQAsi,barhitAsi (pysan)
+     2d (huet) barhitAsTaH != barQAsTaH,barhitAsTaH (pysan)
+     2p (huet) barhitAsTa != barQAsTa,barhitAsTa (pysan)
+     1s (huet) barhitAsmi != barQAsmi,barhitAsmi (pysan)
+     1d (huet) barhitAsvaH != barQAsvaH,barhitAsvaH (pysan)
+     1p (huet) barhitAsmaH != barQAsmaH,barhitAsmaH (pysan)
+Bakz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) BakzitA != BakzayitA,BakzitA (pysan)
+     3d (huet) BakzitArO != BakzayitArO,BakzitArO (pysan)
+     3p (huet) BakzitAraH != BakzayitAraH,BakzitAraH (pysan)
+     2s (huet) BakzitAsi != BakzayitAsi,BakzitAsi (pysan)
+     2d (huet) BakzitAsTaH != BakzayitAsTaH,BakzitAsTaH (pysan)
+     2p (huet) BakzitAsTa != BakzayitAsTa,BakzitAsTa (pysan)
+     1s (huet) BakzitAsmi != BakzayitAsmi,BakzitAsmi (pysan)
+     1d (huet) BakzitAsvaH != BakzayitAsvaH,BakzitAsvaH (pysan)
+     1p (huet) BakzitAsmaH != BakzayitAsmaH,BakzitAsmaH (pysan)
+Baj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) BajitA,BaktA != BazwA (pysan)
+     3d (huet) BajitArO,BaktArO != BazwArO (pysan)
+     3p (huet) BajitAraH,BaktAraH != BazwAraH (pysan)
+     2s (huet) BajitAsi,BaktAsi != BazwAsi (pysan)
+     2d (huet) BajitAsTaH,BaktAsTaH != BazwAsTaH (pysan)
+     2p (huet) BajitAsTa,BaktAsTa != BazwAsTa (pysan)
+     1s (huet) BajitAsmi,BaktAsmi != BazwAsmi (pysan)
+     1d (huet) BajitAsvaH,BaktAsvaH != BazwAsvaH (pysan)
+     1p (huet) BajitAsmaH,BaktAsmaH != BazwAsmaH (pysan)
+BaYj pef P: identical
+BaR pef P: identical
+BaRq pef P: identical
+Band pef P: identical
+Barts pef P: identical
+Baz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) BazwA != BazitA (pysan)
+     3d (huet) BazwArO != BazitArO (pysan)
+     3p (huet) BazwAraH != BazitAraH (pysan)
+     2s (huet) BazwAsi != BazitAsi (pysan)
+     2d (huet) BazwAsTaH != BazitAsTaH (pysan)
+     2p (huet) BazwAsTa != BazitAsTa (pysan)
+     1s (huet) BazwAsmi != BazitAsmi (pysan)
+     1d (huet) BazwAsvaH != BazitAsvaH (pysan)
+     1p (huet) BazwAsmaH != BazitAsmaH (pysan)
+Bas pef P: identical
+BA pef P: identical
+BAz pef P: identical
+BAs pef P: identical
+Bid pef P: identical
+Bizaj pef P: pysan NOT FOUND
+BI pef P: identical
+Buj pef P: identical
+BU pef P: identical
+BUz pef P: identical
+Bf pef P: identical
+Bfjj pef P: pysan NOT FOUND
+BfSa pef P: pysan NOT FOUND
+BraMS pef P: identical
+Bram pef P: identical
+BrAj pef P: identical
+maMh pef P: identical
+majj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) maNktA,majjitA != majjitA (pysan)
+     3d (huet) maNktArO,majjitArO != majjitArO (pysan)
+     3p (huet) maNktAraH,majjitAraH != majjitAraH (pysan)
+     2s (huet) maNktAsi,majjitAsi != majjitAsi (pysan)
+     2d (huet) maNktAsTaH,majjitAsTaH != majjitAsTaH (pysan)
+     2p (huet) maNktAsTa,majjitAsTa != majjitAsTa (pysan)
+     1s (huet) maNktAsmi,majjitAsmi != majjitAsmi (pysan)
+     1d (huet) maNktAsvaH,majjitAsvaH != majjitAsvaH (pysan)
+     1p (huet) maNktAsmaH,majjitAsmaH != majjitAsmaH (pysan)
+maRq pef P: identical
+mad pef P: identical
+maDu pef P: pysan NOT FOUND
+man pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) manitA,mantA != mantA (pysan)
+     3d (huet) manitArO,mantArO != mantArO (pysan)
+     3p (huet) manitAraH,mantAraH != mantAraH (pysan)
+     2s (huet) manitAsi,mantAsi != mantAsi (pysan)
+     2d (huet) manitAsTaH,mantAsTaH != mantAsTaH (pysan)
+     2p (huet) manitAsTa,mantAsTa != mantAsTa (pysan)
+     1s (huet) manitAsmi,mantAsmi != mantAsmi (pysan)
+     1d (huet) manitAsvaH,mantAsvaH != mantAsvaH (pysan)
+     1p (huet) manitAsmaH,mantAsmaH != mantAsmaH (pysan)
+mantu pef P: pysan NOT FOUND
+mantra pef P: pysan NOT FOUND
+manT pef P: identical
+mand pef P: identical
+malina pef P: pysan NOT FOUND
+mah pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mahitA != mahayitA,mahitA (pysan)
+     3d (huet) mahitArO != mahayitArO,mahitArO (pysan)
+     3p (huet) mahitAraH != mahayitAraH,mahitAraH (pysan)
+     2s (huet) mahitAsi != mahayitAsi,mahitAsi (pysan)
+     2d (huet) mahitAsTaH != mahayitAsTaH,mahitAsTaH (pysan)
+     2p (huet) mahitAsTa != mahayitAsTa,mahitAsTa (pysan)
+     1s (huet) mahitAsmi != mahayitAsmi,mahitAsmi (pysan)
+     1d (huet) mahitAsvaH != mahayitAsvaH,mahitAsvaH (pysan)
+     1p (huet) mahitAsmaH != mahayitAsmaH,mahitAsmaH (pysan)
+mahI pef P: pysan NOT FOUND
+mA pef P: identical
+mAMsa pef P: pysan NOT FOUND
+mArg pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mArgayitA != mArgayitA,mArgitA (pysan)
+     3d (huet) mArgayitArO != mArgayitArO,mArgitArO (pysan)
+     3p (huet) mArgayitAraH != mArgayitAraH,mArgitAraH (pysan)
+     2s (huet) mArgayitAsi != mArgayitAsi,mArgitAsi (pysan)
+     2d (huet) mArgayitAsTaH != mArgayitAsTaH,mArgitAsTaH (pysan)
+     2p (huet) mArgayitAsTa != mArgayitAsTa,mArgitAsTa (pysan)
+     1s (huet) mArgayitAsmi != mArgayitAsmi,mArgitAsmi (pysan)
+     1d (huet) mArgayitAsvaH != mArgayitAsvaH,mArgitAsvaH (pysan)
+     1p (huet) mArgayitAsmaH != mArgayitAsmaH,mArgitAsmaH (pysan)
+mAlA pef P: pysan NOT FOUND
+mAlyaguRa pef P: pysan NOT FOUND
+mi pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) metA != mAtA (pysan)
+     3d (huet) metArO != mAtArO (pysan)
+     3p (huet) metAraH != mAtAraH (pysan)
+     2s (huet) metAsi != mAtAsi (pysan)
+     2d (huet) metAsTaH != mAtAsTaH (pysan)
+     2p (huet) metAsTa != mAtAsTa (pysan)
+     1s (huet) metAsmi != mAtAsmi (pysan)
+     1d (huet) metAsvaH != mAtAsvaH (pysan)
+     1p (huet) metAsmaH != mAtAsmaH (pysan)
+miT pef P: identical
+mid pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) meditA,mindayitA != medayitA,meditA (pysan)
+     3d (huet) meditArO,mindayitArO != medayitArO,meditArO (pysan)
+     3p (huet) meditAraH,mindayitAraH != medayitAraH,meditAraH (pysan)
+     2s (huet) meditAsi,mindayitAsi != medayitAsi,meditAsi (pysan)
+     2d (huet) meditAsTaH,mindayitAsTaH != medayitAsTaH,meditAsTaH (pysan)
+     2p (huet) meditAsTa,mindayitAsTa != medayitAsTa,meditAsTa (pysan)
+     1s (huet) meditAsmi,mindayitAsmi != medayitAsmi,meditAsmi (pysan)
+     1d (huet) meditAsvaH,mindayitAsvaH != medayitAsvaH,meditAsvaH (pysan)
+     1p (huet) meditAsmaH,mindayitAsmaH != medayitAsmaH,meditAsmaH (pysan)
+mil pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) militA != melitA (pysan)
+     3d (huet) militArO != melitArO (pysan)
+     3p (huet) militAraH != melitAraH (pysan)
+     2s (huet) militAsi != melitAsi (pysan)
+     2d (huet) militAsTaH != melitAsTaH (pysan)
+     2p (huet) militAsTa != melitAsTa (pysan)
+     1s (huet) militAsmi != melitAsmi (pysan)
+     1d (huet) militAsvaH != melitAsvaH (pysan)
+     1p (huet) militAsmaH != melitAsmaH (pysan)
+miSra pef P: pysan NOT FOUND
+miz pef P: identical
+mih pef P: identical
+mI pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) metA != mAtA,metA (pysan)
+     3d (huet) metArO != mAtArO,metArO (pysan)
+     3p (huet) metAraH != mAtAraH,metAraH (pysan)
+     2s (huet) metAsi != mAtAsi,metAsi (pysan)
+     2d (huet) metAsTaH != mAtAsTaH,metAsTaH (pysan)
+     2p (huet) metAsTa != mAtAsTa,metAsTa (pysan)
+     1s (huet) metAsmi != mAtAsmi,metAsmi (pysan)
+     1d (huet) metAsvaH != mAtAsvaH,metAsvaH (pysan)
+     1p (huet) metAsmaH != mAtAsmaH,metAsmaH (pysan)
+mIl pef P: identical
+mukula pef P: pysan NOT FOUND
+muKara pef P: pysan NOT FOUND
+muc pef P: identical
+muRqa pef P: pysan NOT FOUND
+mud pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) moditA != modayitA,moditA (pysan)
+     3d (huet) moditArO != modayitArO,moditArO (pysan)
+     3p (huet) moditAraH != modayitAraH,moditAraH (pysan)
+     2s (huet) moditAsi != modayitAsi,moditAsi (pysan)
+     2d (huet) moditAsTaH != modayitAsTaH,moditAsTaH (pysan)
+     2p (huet) moditAsTa != modayitAsTa,moditAsTa (pysan)
+     1s (huet) moditAsmi != modayitAsmi,moditAsmi (pysan)
+     1d (huet) moditAsvaH != modayitAsvaH,moditAsvaH (pysan)
+     1p (huet) moditAsmaH != modayitAsmaH,moditAsmaH (pysan)
+mudrA pef P: pysan NOT FOUND
+muz pef P: identical
+muh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mogDA,mohitA != moQA,mogDA,mohitA (pysan)
+     3d (huet) mogDArO,mohitArO != moQArO,mogDArO,mohitArO (pysan)
+     3p (huet) mogDAraH,mohitAraH != moQAraH,mogDAraH,mohitAraH (pysan)
+     2s (huet) mogDAsi,mohitAsi != moQAsi,mogDAsi,mohitAsi (pysan)
+     2d (huet) mogDAsTaH,mohitAsTaH != moQAsTaH,mogDAsTaH,mohitAsTaH (pysan)
+     2p (huet) mogDAsTa,mohitAsTa != moQAsTa,mogDAsTa,mohitAsTa (pysan)
+     1s (huet) mogDAsmi,mohitAsmi != moQAsmi,mogDAsmi,mohitAsmi (pysan)
+     1d (huet) mogDAsvaH,mohitAsvaH != moQAsvaH,mogDAsvaH,mohitAsvaH (pysan)
+     1p (huet) mogDAsmaH,mohitAsmaH != moQAsmaH,mogDAsmaH,mohitAsmaH (pysan)
+mUtra pef P: pysan NOT FOUND
+mUrC pef P: pysan NOT FOUND
+mUz pef P: identical
+mf pef P: identical
+mfga pef P: pysan NOT FOUND
+mfj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mArjitA,mArzwA != marjayitA,marjitA,marzwA (pysan)
+     3d (huet) mArjitArO,mArzwArO != marjayitArO,marjitArO,marzwArO (pysan)
+     3p (huet) mArjitAraH,mArzwAraH != marjayitAraH,marjitAraH,marzwAraH (pysan)
+     2s (huet) mArjitAsi,mArzwAsi != marjayitAsi,marjitAsi,marzwAsi (pysan)
+     2d (huet) mArjitAsTaH,mArzwAsTaH != marjayitAsTaH,marjitAsTaH,marzwAsTaH (pysan)
+     2p (huet) mArjitAsTa,mArzwAsTa != marjayitAsTa,marjitAsTa,marzwAsTa (pysan)
+     1s (huet) mArjitAsmi,mArzwAsmi != marjayitAsmi,marjitAsmi,marzwAsmi (pysan)
+     1d (huet) mArjitAsvaH,mArzwAsvaH != marjayitAsvaH,marjitAsvaH,marzwAsvaH (pysan)
+     1p (huet) mArjitAsmaH,mArzwAsmaH != marjayitAsmaH,marjitAsmaH,marzwAsmaH (pysan)
+mfq pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marqitA,mfqayitA != marqayitA,marqitA (pysan)
+     3d (huet) marqitArO,mfqayitArO != marqayitArO,marqitArO (pysan)
+     3p (huet) marqitAraH,mfqayitAraH != marqayitAraH,marqitAraH (pysan)
+     2s (huet) marqitAsi,mfqayitAsi != marqayitAsi,marqitAsi (pysan)
+     2d (huet) marqitAsTaH,mfqayitAsTaH != marqayitAsTaH,marqitAsTaH (pysan)
+     2p (huet) marqitAsTa,mfqayitAsTa != marqayitAsTa,marqitAsTa (pysan)
+     1s (huet) marqitAsmi,mfqayitAsmi != marqayitAsmi,marqitAsmi (pysan)
+     1d (huet) marqitAsvaH,mfqayitAsvaH != marqayitAsvaH,marqitAsvaH (pysan)
+     1p (huet) marqitAsmaH,mfqayitAsmaH != marqayitAsmaH,marqitAsmaH (pysan)
+mfd pef P: identical
+mfD pef P: identical
+mfS pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marzwA != marzwA,mrazwA (pysan)
+     3d (huet) marzwArO != marzwArO,mrazwArO (pysan)
+     3p (huet) marzwAraH != marzwAraH,mrazwAraH (pysan)
+     2s (huet) marzwAsi != marzwAsi,mrazwAsi (pysan)
+     2d (huet) marzwAsTaH != marzwAsTaH,mrazwAsTaH (pysan)
+     2p (huet) marzwAsTa != marzwAsTa,mrazwAsTa (pysan)
+     1s (huet) marzwAsmi != marzwAsmi,mrazwAsmi (pysan)
+     1d (huet) marzwAsvaH != marzwAsvaH,mrazwAsvaH (pysan)
+     1p (huet) marzwAsmaH != marzwAsmaH,mrazwAsmaH (pysan)
+mfz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marzitA != marzwA,mrazwA (pysan)
+     3d (huet) marzitArO != marzwArO,mrazwArO (pysan)
+     3p (huet) marzitAraH != marzwAraH,mrazwAraH (pysan)
+     2s (huet) marzitAsi != marzwAsi,mrazwAsi (pysan)
+     2d (huet) marzitAsTaH != marzwAsTaH,mrazwAsTaH (pysan)
+     2p (huet) marzitAsTa != marzwAsTa,mrazwAsTa (pysan)
+     1s (huet) marzitAsmi != marzwAsmi,mrazwAsmi (pysan)
+     1d (huet) marzitAsvaH != marzwAsvaH,mrazwAsvaH (pysan)
+     1p (huet) marzitAsmaH != marzwAsmaH,mrazwAsmaH (pysan)
+mfzA pef P: pysan NOT FOUND
+meGa pef P: pysan NOT FOUND
+mokz pef P: identical
+mnA pef P: identical
+mlA pef P: pysan NOT FOUND
+mlecC pef P: pysan NOT FOUND
+yaj pef P: identical
+yat pef P: identical
+yantra pef P: pysan NOT FOUND
+yaB pef P: identical
+yam pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) yamitA,yantA != yantA (pysan)
+     3d (huet) yamitArO,yantArO != yantArO (pysan)
+     3p (huet) yamitAraH,yantAraH != yantAraH (pysan)
+     2s (huet) yamitAsi,yantAsi != yantAsi (pysan)
+     2d (huet) yamitAsTaH,yantAsTaH != yantAsTaH (pysan)
+     2p (huet) yamitAsTa,yantAsTa != yantAsTa (pysan)
+     1s (huet) yamitAsmi,yantAsmi != yantAsmi (pysan)
+     1d (huet) yamitAsvaH,yantAsvaH != yantAsvaH (pysan)
+     1p (huet) yamitAsmaH,yantAsmaH != yantAsmaH (pysan)
+yas pef P: identical
+yA pef P: identical
+yAc pef P: identical
+yu pef P: identical
+yuga pef P: pysan NOT FOUND
+yuj pef P: identical
+yuD pef P: identical
+raMh pef P: identical
+rakz pef P: identical
+rac pef P: identical
+raYj pef P: identical
+raR pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) raRitA != rARayitA,raRitA (pysan)
+     3d (huet) raRitArO != rARayitArO,raRitArO (pysan)
+     3p (huet) raRitAraH != rARayitAraH,raRitAraH (pysan)
+     2s (huet) raRitAsi != rARayitAsi,raRitAsi (pysan)
+     2d (huet) raRitAsTaH != rARayitAsTaH,raRitAsTaH (pysan)
+     2p (huet) raRitAsTa != rARayitAsTa,raRitAsTa (pysan)
+     1s (huet) raRitAsmi != rARayitAsmi,raRitAsmi (pysan)
+     1d (huet) raRitAsvaH != rARayitAsvaH,raRitAsvaH (pysan)
+     1p (huet) raRitAsmaH != rARayitAsmaH,raRitAsmaH (pysan)
+raTakAma pef P: pysan NOT FOUND
+rad pef P: identical
+raD pef P: identical
+raB pef P: identical
+ram pef P: identical
+rasa pef P: pysan NOT FOUND
+rah pef P: identical
+rA pef P: identical
+rAj pef P: identical
+rAjan pef P: pysan NOT FOUND
+rAD pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rAdDA != rADitA (pysan)
+     3d (huet) rAdDArO != rADitArO (pysan)
+     3p (huet) rAdDAraH != rADitAraH (pysan)
+     2s (huet) rAdDAsi != rADitAsi (pysan)
+     2d (huet) rAdDAsTaH != rADitAsTaH (pysan)
+     2p (huet) rAdDAsTa != rADitAsTa (pysan)
+     1s (huet) rAdDAsmi != rADitAsmi (pysan)
+     1d (huet) rAdDAsvaH != rADitAsvaH (pysan)
+     1p (huet) rAdDAsmaH != rADitAsmaH (pysan)
+ri pef P: pysan NOT FOUND
+ric pef P: identical
+riz pef P: identical
+ru pef P: identical
+ruc pef P: identical
+ruj pef P: identical
+rud pef P: identical
+ruD pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) roDitA,rodDA != rodDA (pysan)
+     3d (huet) roDitArO,rodDArO != rodDArO (pysan)
+     3p (huet) roDitAraH,rodDAraH != rodDAraH (pysan)
+     2s (huet) roDitAsi,rodDAsi != rodDAsi (pysan)
+     2d (huet) roDitAsTaH,rodDAsTaH != rodDAsTaH (pysan)
+     2p (huet) roDitAsTa,rodDAsTa != rodDAsTa (pysan)
+     1s (huet) roDitAsmi,rodDAsmi != rodDAsmi (pysan)
+     1d (huet) roDitAsvaH,rodDAsvaH != rodDAsvaH (pysan)
+     1p (huet) roDitAsmaH,rodDAsmaH != rodDAsmaH (pysan)
+ruz pef P: identical
+ruh pef P: identical
+rUkza pef P: pysan NOT FOUND
+rUp pef P: identical
+romanTa pef P: pysan NOT FOUND
+lakz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lakzayitA != lakzayitA,lakzitA (pysan)
+     3d (huet) lakzayitArO != lakzayitArO,lakzitArO (pysan)
+     3p (huet) lakzayitAraH != lakzayitAraH,lakzitAraH (pysan)
+     2s (huet) lakzayitAsi != lakzayitAsi,lakzitAsi (pysan)
+     2d (huet) lakzayitAsTaH != lakzayitAsTaH,lakzitAsTaH (pysan)
+     2p (huet) lakzayitAsTa != lakzayitAsTa,lakzitAsTa (pysan)
+     1s (huet) lakzayitAsmi != lakzayitAsmi,lakzitAsmi (pysan)
+     1d (huet) lakzayitAsvaH != lakzayitAsvaH,lakzitAsvaH (pysan)
+     1p (huet) lakzayitAsmaH != lakzayitAsmaH,lakzitAsmaH (pysan)
+lag pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lagitA != lAgayitA,lagitA (pysan)
+     3d (huet) lagitArO != lAgayitArO,lagitArO (pysan)
+     3p (huet) lagitAraH != lAgayitAraH,lagitAraH (pysan)
+     2s (huet) lagitAsi != lAgayitAsi,lagitAsi (pysan)
+     2d (huet) lagitAsTaH != lAgayitAsTaH,lagitAsTaH (pysan)
+     2p (huet) lagitAsTa != lAgayitAsTa,lagitAsTa (pysan)
+     1s (huet) lagitAsmi != lAgayitAsmi,lagitAsmi (pysan)
+     1d (huet) lagitAsvaH != lAgayitAsvaH,lagitAsvaH (pysan)
+     1p (huet) lagitAsmaH != lAgayitAsmaH,lagitAsmaH (pysan)
+laGa pef P: pysan NOT FOUND
+laNg pef P: identical
+laNG pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laNGitA != laNGayitA,laNGitA (pysan)
+     3d (huet) laNGitArO != laNGayitArO,laNGitArO (pysan)
+     3p (huet) laNGitAraH != laNGayitAraH,laNGitAraH (pysan)
+     2s (huet) laNGitAsi != laNGayitAsi,laNGitAsi (pysan)
+     2d (huet) laNGitAsTaH != laNGayitAsTaH,laNGitAsTaH (pysan)
+     2p (huet) laNGitAsTa != laNGayitAsTa,laNGitAsTa (pysan)
+     1s (huet) laNGitAsmi != laNGayitAsmi,laNGitAsmi (pysan)
+     1d (huet) laNGitAsvaH != laNGayitAsvaH,laNGitAsvaH (pysan)
+     1p (huet) laNGitAsmaH != laNGayitAsmaH,laNGitAsmaH (pysan)
+lajj pef P: identical
+lap pef P: identical
+laB pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laBitA,labDA != labDA (pysan)
+     3d (huet) laBitArO,labDArO != labDArO (pysan)
+     3p (huet) laBitAraH,labDAraH != labDAraH (pysan)
+     2s (huet) laBitAsi,labDAsi != labDAsi (pysan)
+     2d (huet) laBitAsTaH,labDAsTaH != labDAsTaH (pysan)
+     2p (huet) laBitAsTa,labDAsTa != labDAsTa (pysan)
+     1s (huet) laBitAsmi,labDAsmi != labDAsmi (pysan)
+     1d (huet) laBitAsvaH,labDAsvaH != labDAsvaH (pysan)
+     1p (huet) laBitAsmaH,labDAsmaH != labDAsmaH (pysan)
+lamb pef P: identical
+lal pef P: identical
+lavaRa pef P: pysan NOT FOUND
+laz pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lazitA != lAzayitA,lazitA (pysan)
+     3d (huet) lazitArO != lAzayitArO,lazitArO (pysan)
+     3p (huet) lazitAraH != lAzayitAraH,lazitAraH (pysan)
+     2s (huet) lazitAsi != lAzayitAsi,lazitAsi (pysan)
+     2d (huet) lazitAsTaH != lAzayitAsTaH,lazitAsTaH (pysan)
+     2p (huet) lazitAsTa != lAzayitAsTa,lazitAsTa (pysan)
+     1s (huet) lazitAsmi != lAzayitAsmi,lazitAsmi (pysan)
+     1d (huet) lazitAsvaH != lAzayitAsvaH,lazitAsvaH (pysan)
+     1p (huet) lazitAsmaH != lAzayitAsmaH,lazitAsmaH (pysan)
+las pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lasitA != lAsayitA,lasitA (pysan)
+     3d (huet) lasitArO != lAsayitArO,lasitArO (pysan)
+     3p (huet) lasitAraH != lAsayitAraH,lasitAraH (pysan)
+     2s (huet) lasitAsi != lAsayitAsi,lasitAsi (pysan)
+     2d (huet) lasitAsTaH != lAsayitAsTaH,lasitAsTaH (pysan)
+     2p (huet) lasitAsTa != lAsayitAsTa,lasitAsTa (pysan)
+     1s (huet) lasitAsmi != lAsayitAsmi,lasitAsmi (pysan)
+     1d (huet) lasitAsvaH != lAsayitAsvaH,lasitAsvaH (pysan)
+     1p (huet) lasitAsmaH != lAsayitAsmaH,lasitAsmaH (pysan)
+lAYC pef P: identical
+lAlA pef P: pysan NOT FOUND
+liK pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) leKitA,liKitA != leKitA (pysan)
+     3d (huet) leKitArO,liKitArO != leKitArO (pysan)
+     3p (huet) leKitAraH,liKitAraH != leKitAraH (pysan)
+     2s (huet) leKitAsi,liKitAsi != leKitAsi (pysan)
+     2d (huet) leKitAsTaH,liKitAsTaH != leKitAsTaH (pysan)
+     2p (huet) leKitAsTa,liKitAsTa != leKitAsTa (pysan)
+     1s (huet) leKitAsmi,liKitAsmi != leKitAsmi (pysan)
+     1d (huet) leKitAsvaH,liKitAsvaH != leKitAsvaH (pysan)
+     1p (huet) leKitAsmaH,liKitAsmaH != leKitAsmaH (pysan)
+lip pef P: identical
+liS pef P: identical
+lih pef P: identical
+lI pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) letA != lAtA,letA (pysan)
+     3d (huet) letArO != lAtArO,letArO (pysan)
+     3p (huet) letAraH != lAtAraH,letAraH (pysan)
+     2s (huet) letAsi != lAtAsi,letAsi (pysan)
+     2d (huet) letAsTaH != lAtAsTaH,letAsTaH (pysan)
+     2p (huet) letAsTa != lAtAsTa,letAsTa (pysan)
+     1s (huet) letAsmi != lAtAsmi,letAsmi (pysan)
+     1d (huet) letAsvaH != lAtAsvaH,letAsvaH (pysan)
+     1p (huet) letAsmaH != lAtAsmaH,letAsmaH (pysan)
+luYc pef P: identical
+luW pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) loWitA != loWayitA,loWitA (pysan)
+     3d (huet) loWitArO != loWayitArO,loWitArO (pysan)
+     3p (huet) loWitAraH != loWayitAraH,loWitAraH (pysan)
+     2s (huet) loWitAsi != loWayitAsi,loWitAsi (pysan)
+     2d (huet) loWitAsTaH != loWayitAsTaH,loWitAsTaH (pysan)
+     2p (huet) loWitAsTa != loWayitAsTa,loWitAsTa (pysan)
+     1s (huet) loWitAsmi != loWayitAsmi,loWitAsmi (pysan)
+     1d (huet) loWitAsvaH != loWayitAsvaH,loWitAsvaH (pysan)
+     1p (huet) loWitAsmaH != loWayitAsmaH,loWitAsmaH (pysan)
+luRW pef P: pysan NOT FOUND
+lup pef P: identical
+luB pef P: identical
+lul pef P: pysan NOT FOUND
+lU pef P: identical
+lelA pef P: pysan NOT FOUND
+lok pef P: identical
+loc pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) locitA != locayitA,locitA (pysan)
+     3d (huet) locitArO != locayitArO,locitArO (pysan)
+     3p (huet) locitAraH != locayitAraH,locitAraH (pysan)
+     2s (huet) locitAsi != locayitAsi,locitAsi (pysan)
+     2d (huet) locitAsTaH != locayitAsTaH,locitAsTaH (pysan)
+     2p (huet) locitAsTa != locayitAsTa,locitAsTa (pysan)
+     1s (huet) locitAsmi != locayitAsmi,locitAsmi (pysan)
+     1d (huet) locitAsvaH != locayitAsvaH,locitAsvaH (pysan)
+     1p (huet) locitAsmaH != locayitAsmaH,locitAsmaH (pysan)
+lohita pef P: pysan NOT FOUND
+vac pef P: identical
+vaYc pef P: identical
+vad pef P: identical
+van pef P: identical
+vand pef P: identical
+vap pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vapitA,vaptA != vaptA (pysan)
+     3d (huet) vapitArO,vaptArO != vaptArO (pysan)
+     3p (huet) vapitAraH,vaptAraH != vaptAraH (pysan)
+     2s (huet) vapitAsi,vaptAsi != vaptAsi (pysan)
+     2d (huet) vapitAsTaH,vaptAsTaH != vaptAsTaH (pysan)
+     2p (huet) vapitAsTa,vaptAsTa != vaptAsTa (pysan)
+     1s (huet) vapitAsmi,vaptAsmi != vaptAsmi (pysan)
+     1d (huet) vapitAsvaH,vaptAsvaH != vaptAsvaH (pysan)
+     1p (huet) vapitAsmaH,vaptAsmaH != vaptAsmaH (pysan)
+vam pef P: identical
+varivas pef P: pysan NOT FOUND
+varRa pef P: pysan NOT FOUND
+val pef P: identical
+valg pef P: identical
+valgu pef P: pysan NOT FOUND
+vaS pef P: identical
+vas pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vasitA,vastA != vAsayitA,vasayitA,vastA (pysan)
+     3d (huet) vasitArO,vastArO != vAsayitArO,vasayitArO,vastArO (pysan)
+     3p (huet) vasitAraH,vastAraH != vAsayitAraH,vasayitAraH,vastAraH (pysan)
+     2s (huet) vasitAsi,vastAsi != vAsayitAsi,vasayitAsi,vastAsi (pysan)
+     2d (huet) vasitAsTaH,vastAsTaH != vAsayitAsTaH,vasayitAsTaH,vastAsTaH (pysan)
+     2p (huet) vasitAsTa,vastAsTa != vAsayitAsTa,vasayitAsTa,vastAsTa (pysan)
+     1s (huet) vasitAsmi,vastAsmi != vAsayitAsmi,vasayitAsmi,vastAsmi (pysan)
+     1d (huet) vasitAsvaH,vastAsvaH != vAsayitAsvaH,vasayitAsvaH,vastAsvaH (pysan)
+     1p (huet) vasitAsmaH,vastAsmaH != vAsayitAsmaH,vasayitAsmaH,vastAsmaH (pysan)
+vah pef P: identical
+vA pef P: identical
+vAc pef P: pysan NOT FOUND
+vAYC pef P: identical
+vAS pef P: identical
+vAsa pef P: pysan NOT FOUND
+vic pef P: identical
+vij pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vejitA,vijitA != viktA (pysan)
+     3d (huet) vejitArO,vijitArO != viktArO (pysan)
+     3p (huet) vejitAraH,vijitAraH != viktAraH (pysan)
+     2s (huet) vejitAsi,vijitAsi != viktAsi (pysan)
+     2d (huet) vejitAsTaH,vijitAsTaH != viktAsTaH (pysan)
+     2p (huet) vejitAsTa,vijitAsTa != viktAsTa (pysan)
+     1s (huet) vejitAsmi,vijitAsmi != viktAsmi (pysan)
+     1d (huet) vejitAsvaH,vijitAsvaH != viktAsvaH (pysan)
+     1p (huet) vejitAsmaH,vijitAsmaH != viktAsmaH (pysan)
+vid pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) veditA,vettA != vettA (pysan)
+     3d (huet) veditArO,vettArO != vettArO (pysan)
+     3p (huet) veditAraH,vettAraH != vettAraH (pysan)
+     2s (huet) veditAsi,vettAsi != vettAsi (pysan)
+     2d (huet) veditAsTaH,vettAsTaH != vettAsTaH (pysan)
+     2p (huet) veditAsTa,vettAsTa != vettAsTa (pysan)
+     1s (huet) veditAsmi,vettAsmi != vettAsmi (pysan)
+     1d (huet) veditAsvaH,vettAsvaH != vettAsvaH (pysan)
+     1p (huet) veditAsmaH,vettAsmaH != vettAsmaH (pysan)
+vip pef P: identical
+vimanA pef P: pysan NOT FOUND
+viS pef P: identical
+viSada pef P: pysan NOT FOUND
+viz pef P: identical
+viza pef P: pysan NOT FOUND
+vI pef P: identical
+vIj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vIjitA != vIjayitA,vIjitA (pysan)
+     3d (huet) vIjitArO != vIjayitArO,vIjitArO (pysan)
+     3p (huet) vIjitAraH != vIjayitAraH,vIjitAraH (pysan)
+     2s (huet) vIjitAsi != vIjayitAsi,vIjitAsi (pysan)
+     2d (huet) vIjitAsTaH != vIjayitAsTaH,vIjitAsTaH (pysan)
+     2p (huet) vIjitAsTa != vIjayitAsTa,vIjitAsTa (pysan)
+     1s (huet) vIjitAsmi != vIjayitAsmi,vIjitAsmi (pysan)
+     1d (huet) vIjitAsvaH != vIjayitAsvaH,vIjitAsvaH (pysan)
+     1p (huet) vIjitAsmaH != vIjayitAsmaH,vIjitAsmaH (pysan)
+vf pef P: identical
+vfj pef P: identical
+vft pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vartitA,varttA != vartitA (pysan)
+     3d (huet) vartitArO,varttArO != vartitArO (pysan)
+     3p (huet) vartitAraH,varttAraH != vartitAraH (pysan)
+     2s (huet) vartitAsi,varttAsi != vartitAsi (pysan)
+     2d (huet) vartitAsTaH,varttAsTaH != vartitAsTaH (pysan)
+     2p (huet) vartitAsTa,varttAsTa != vartitAsTa (pysan)
+     1s (huet) vartitAsmi,varttAsmi != vartitAsmi (pysan)
+     1d (huet) vartitAsvaH,varttAsvaH != vartitAsvaH (pysan)
+     1p (huet) vartitAsmaH,varttAsmaH != vartitAsmaH (pysan)
+vfD pef P: identical
+vfz pef P: identical
+vfza pef P: pysan NOT FOUND
+vfh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) varhitA != varQA,varhitA (pysan)
+     3d (huet) varhitArO != varQArO,varhitArO (pysan)
+     3p (huet) varhitAraH != varQAraH,varhitAraH (pysan)
+     2s (huet) varhitAsi != varQAsi,varhitAsi (pysan)
+     2d (huet) varhitAsTaH != varQAsTaH,varhitAsTaH (pysan)
+     2p (huet) varhitAsTa != varQAsTa,varhitAsTa (pysan)
+     1s (huet) varhitAsmi != varQAsmi,varhitAsmi (pysan)
+     1d (huet) varhitAsvaH != varQAsvaH,varhitAsvaH (pysan)
+     1p (huet) varhitAsmaH != varQAsmaH,varhitAsmaH (pysan)
+veda pef P: pysan NOT FOUND
+ven pef P: identical
+vezw pef P: identical
+vEra pef P: pysan NOT FOUND
+vyaT pef P: identical
+vyaD pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vedDA != vyadDA (pysan)
+     3d (huet) vedDArO != vyadDArO (pysan)
+     3p (huet) vedDAraH != vyadDAraH (pysan)
+     2s (huet) vedDAsi != vyadDAsi (pysan)
+     2d (huet) vedDAsTaH != vyadDAsTaH (pysan)
+     2p (huet) vedDAsTa != vyadDAsTa (pysan)
+     1s (huet) vedDAsmi != vyadDAsmi (pysan)
+     1d (huet) vedDAsvaH != vyadDAsvaH (pysan)
+     1p (huet) vedDAsmaH != vyadDAsmaH (pysan)
+vyA pef P: pysan NOT FOUND
+vraj pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vrajitA != vrAjayitA (pysan)
+     3d (huet) vrajitArO != vrAjayitArO (pysan)
+     3p (huet) vrajitAraH != vrAjayitAraH (pysan)
+     2s (huet) vrajitAsi != vrAjayitAsi (pysan)
+     2d (huet) vrajitAsTaH != vrAjayitAsTaH (pysan)
+     2p (huet) vrajitAsTa != vrAjayitAsTa (pysan)
+     1s (huet) vrajitAsmi != vrAjayitAsmi (pysan)
+     1d (huet) vrajitAsvaH != vrAjayitAsvaH (pysan)
+     1p (huet) vrajitAsmaH != vrAjayitAsmaH (pysan)
+vraRa pef P: pysan NOT FOUND
+vraSc pef P: identical
+vrIq pef P: identical
+SaMs pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SastA != SaMsitA (pysan)
+     3d (huet) SastArO != SaMsitArO (pysan)
+     3p (huet) SastAraH != SaMsitAraH (pysan)
+     2s (huet) SastAsi != SaMsitAsi (pysan)
+     2d (huet) SastAsTaH != SaMsitAsTaH (pysan)
+     2p (huet) SastAsTa != SaMsitAsTa (pysan)
+     1s (huet) SastAsmi != SaMsitAsmi (pysan)
+     1d (huet) SastAsvaH != SaMsitAsvaH (pysan)
+     1p (huet) SastAsmaH != SaMsitAsmaH (pysan)
+Sak pef P: identical
+SaNk pef P: identical
+Sad pef P: identical
+Sap pef P: identical
+Sabda pef P: pysan NOT FOUND
+Sam pef P: identical
+Sal pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SalitA != SAlayitA,SalitA (pysan)
+     3d (huet) SalitArO != SAlayitArO,SalitArO (pysan)
+     3p (huet) SalitAraH != SAlayitAraH,SalitAraH (pysan)
+     2s (huet) SalitAsi != SAlayitAsi,SalitAsi (pysan)
+     2d (huet) SalitAsTaH != SAlayitAsTaH,SalitAsTaH (pysan)
+     2p (huet) SalitAsTa != SAlayitAsTa,SalitAsTa (pysan)
+     1s (huet) SalitAsmi != SAlayitAsmi,SalitAsmi (pysan)
+     1d (huet) SalitAsvaH != SAlayitAsvaH,SalitAsvaH (pysan)
+     1p (huet) SalitAsmaH != SAlayitAsmaH,SalitAsmaH (pysan)
+SalaBa pef P: pysan NOT FOUND
+SaS pef P: identical
+Sas pef P: identical
+SA pef P: pysan NOT FOUND
+SAnta pef P: pysan NOT FOUND
+SAs pef P: identical
+Sikz pef P: identical
+SiTila pef P: pysan NOT FOUND
+SiSu pef P: pysan NOT FOUND
+Siz pef P: identical
+SI pef P: identical
+SIGra pef P: pysan NOT FOUND
+SIl pef P: identical
+Suc pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) SocitA,SoktA != SocitA (pysan)
+     3d (huet) SocitArO,SoktArO != SocitArO (pysan)
+     3p (huet) SocitAraH,SoktAraH != SocitAraH (pysan)
+     2s (huet) SocitAsi,SoktAsi != SocitAsi (pysan)
+     2d (huet) SocitAsTaH,SoktAsTaH != SocitAsTaH (pysan)
+     2p (huet) SocitAsTa,SoktAsTa != SocitAsTa (pysan)
+     1s (huet) SocitAsmi,SoktAsmi != SocitAsmi (pysan)
+     1d (huet) SocitAsvaH,SoktAsvaH != SocitAsvaH (pysan)
+     1p (huet) SocitAsmaH,SoktAsmaH != SocitAsmaH (pysan)
+SuD pef P: identical
+SuB pef P: identical
+SumB pef P: identical
+Suz pef P: identical
+SU pef P: pysan NOT FOUND
+SF pef P: identical
+Scut pef P: identical
+SyA pef P: pysan NOT FOUND
+SyAma pef P: pysan NOT FOUND
+Syena pef P: pysan NOT FOUND
+Sram pef P: identical
+SramB pef P: identical
+Sri pef P: identical
+Sru pef P: identical
+SlAG pef P: identical
+Sliz pef P: identical
+Svas pef P: identical
+Svit pef P: identical
+zaRQa pef P: pysan NOT FOUND
+zWIv pef P: pysan NOT FOUND
+saKi pef P: pysan NOT FOUND
+saNkawa pef P: pysan NOT FOUND
+saNgrAma pef P: pysan NOT FOUND
+sac pef P: identical
+sajja pef P: pysan NOT FOUND
+saYj pef P: identical
+satya pef P: pysan NOT FOUND
+sad pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sIditA,sattA != sattA (pysan)
+     3d (huet) sIditArO,sattArO != sattArO (pysan)
+     3p (huet) sIditAraH,sattAraH != sattAraH (pysan)
+     2s (huet) sIditAsi,sattAsi != sattAsi (pysan)
+     2d (huet) sIditAsTaH,sattAsTaH != sattAsTaH (pysan)
+     2p (huet) sIditAsTa,sattAsTa != sattAsTa (pysan)
+     1s (huet) sIditAsmi,sattAsmi != sattAsmi (pysan)
+     1d (huet) sIditAsvaH,sattAsvaH != sattAsvaH (pysan)
+     1p (huet) sIditAsmaH,sattAsmaH != sattAsmaH (pysan)
+san pef P: identical
+sap pef P: identical
+sapiRqa pef P: pysan NOT FOUND
+saPala pef P: pysan NOT FOUND
+samudra pef P: pysan NOT FOUND
+sah pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sAQA,sahitA != sAhayitA,sAhoQA,sahitA,soQA (pysan)
+     3d (huet) sAQArO,sahitArO != sAhayitArO,sAhoQArO,sahitArO,soQArO (pysan)
+     3p (huet) sAQAraH,sahitAraH != sAhayitAraH,sAhoQAraH,sahitAraH,soQAraH (pysan)
+     2s (huet) sAQAsi,sahitAsi != sAhayitAsi,sAhoQAsi,sahitAsi,soQAsi (pysan)
+     2d (huet) sAQAsTaH,sahitAsTaH != sAhayitAsTaH,sAhoQAsTaH,sahitAsTaH,soQAsTaH (pysan)
+     2p (huet) sAQAsTa,sahitAsTa != sAhayitAsTa,sAhoQAsTa,sahitAsTa,soQAsTa (pysan)
+     1s (huet) sAQAsmi,sahitAsmi != sAhayitAsmi,sAhoQAsmi,sahitAsmi,soQAsmi (pysan)
+     1d (huet) sAQAsvaH,sahitAsvaH != sAhayitAsvaH,sAhoQAsvaH,sahitAsvaH,soQAsvaH (pysan)
+     1p (huet) sAQAsmaH,sahitAsmaH != sAhayitAsmaH,sAhoQAsmaH,sahitAsmaH,soQAsmaH (pysan)
+sA pef P: pysan NOT FOUND
+sAntva pef P: pysan NOT FOUND
+sAvaDAna pef P: pysan NOT FOUND
+sic pef P: identical
+siD pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) seDitA,sedDA != sedDA (pysan)
+     3d (huet) seDitArO,sedDArO != sedDArO (pysan)
+     3p (huet) seDitAraH,sedDAraH != sedDAraH (pysan)
+     2s (huet) seDitAsi,sedDAsi != sedDAsi (pysan)
+     2d (huet) seDitAsTaH,sedDAsTaH != sedDAsTaH (pysan)
+     2p (huet) seDitAsTa,sedDAsTa != sedDAsTa (pysan)
+     1s (huet) seDitAsmi,sedDAsmi != sedDAsmi (pysan)
+     1d (huet) seDitAsvaH,sedDAsvaH != sedDAsvaH (pysan)
+     1p (huet) seDitAsmaH,sedDAsmaH != sedDAsmaH (pysan)
+sIv pef P: pysan NOT FOUND
+su pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) savitA,sotA != sotA (pysan)
+     3d (huet) savitArO,sotArO != sotArO (pysan)
+     3p (huet) savitAraH,sotAraH != sotAraH (pysan)
+     2s (huet) savitAsi,sotAsi != sotAsi (pysan)
+     2d (huet) savitAsTaH,sotAsTaH != sotAsTaH (pysan)
+     2p (huet) savitAsTa,sotAsTa != sotAsTa (pysan)
+     1s (huet) savitAsmi,sotAsmi != sotAsmi (pysan)
+     1d (huet) savitAsvaH,sotAsvaH != sotAsvaH (pysan)
+     1p (huet) savitAsmaH,sotAsmaH != sotAsmaH (pysan)
+suKa pef P: pysan NOT FOUND
+sudina pef P: pysan NOT FOUND
+sumanas pef P: pysan NOT FOUND
+sur pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) soritA != sorayitA,soritA (pysan)
+     3d (huet) soritArO != sorayitArO,soritArO (pysan)
+     3p (huet) soritAraH != sorayitAraH,soritAraH (pysan)
+     2s (huet) soritAsi != sorayitAsi,soritAsi (pysan)
+     2d (huet) soritAsTaH != sorayitAsTaH,soritAsTaH (pysan)
+     2p (huet) soritAsTa != sorayitAsTa,soritAsTa (pysan)
+     1s (huet) soritAsmi != sorayitAsmi,soritAsmi (pysan)
+     1d (huet) soritAsvaH != sorayitAsvaH,soritAsvaH (pysan)
+     1p (huet) soritAsmaH != sorayitAsmaH,soritAsmaH (pysan)
+sU pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) savitA,sotA != savitA (pysan)
+     3d (huet) savitArO,sotArO != savitArO (pysan)
+     3p (huet) savitAraH,sotAraH != savitAraH (pysan)
+     2s (huet) savitAsi,sotAsi != savitAsi (pysan)
+     2d (huet) savitAsTaH,sotAsTaH != savitAsTaH (pysan)
+     2p (huet) savitAsTa,sotAsTa != savitAsTa (pysan)
+     1s (huet) savitAsmi,sotAsmi != savitAsmi (pysan)
+     1d (huet) savitAsvaH,sotAsvaH != savitAsvaH (pysan)
+     1p (huet) savitAsmaH,sotAsmaH != savitAsmaH (pysan)
+sUc pef P: identical
+sUtra pef P: pysan NOT FOUND
+sUd pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sUdayitA != sUdayitA,sUditA (pysan)
+     3d (huet) sUdayitArO != sUdayitArO,sUditArO (pysan)
+     3p (huet) sUdayitAraH != sUdayitAraH,sUditAraH (pysan)
+     2s (huet) sUdayitAsi != sUdayitAsi,sUditAsi (pysan)
+     2d (huet) sUdayitAsTaH != sUdayitAsTaH,sUditAsTaH (pysan)
+     2p (huet) sUdayitAsTa != sUdayitAsTa,sUditAsTa (pysan)
+     1s (huet) sUdayitAsmi != sUdayitAsmi,sUditAsmi (pysan)
+     1d (huet) sUdayitAsvaH != sUdayitAsvaH,sUditAsvaH (pysan)
+     1p (huet) sUdayitAsmaH != sUdayitAsmaH,sUditAsmaH (pysan)
+sf pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sartA != sArayitA,sartA (pysan)
+     3d (huet) sartArO != sArayitArO,sartArO (pysan)
+     3p (huet) sartAraH != sArayitAraH,sartAraH (pysan)
+     2s (huet) sartAsi != sArayitAsi,sartAsi (pysan)
+     2d (huet) sartAsTaH != sArayitAsTaH,sartAsTaH (pysan)
+     2p (huet) sartAsTa != sArayitAsTa,sartAsTa (pysan)
+     1s (huet) sartAsmi != sArayitAsmi,sartAsmi (pysan)
+     1d (huet) sartAsvaH != sArayitAsvaH,sartAsvaH (pysan)
+     1p (huet) sartAsmaH != sArayitAsmaH,sartAsmaH (pysan)
+sfj pef P: identical
+sfp pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sarptA != sarptA,sraptA (pysan)
+     3d (huet) sarptArO != sarptArO,sraptArO (pysan)
+     3p (huet) sarptAraH != sarptAraH,sraptAraH (pysan)
+     2s (huet) sarptAsi != sarptAsi,sraptAsi (pysan)
+     2d (huet) sarptAsTaH != sarptAsTaH,sraptAsTaH (pysan)
+     2p (huet) sarptAsTa != sarptAsTa,sraptAsTa (pysan)
+     1s (huet) sarptAsmi != sarptAsmi,sraptAsmi (pysan)
+     1d (huet) sarptAsvaH != sarptAsvaH,sraptAsvaH (pysan)
+     1p (huet) sarptAsmaH != sarptAsmaH,sraptAsmaH (pysan)
+sev pef P: identical
+skand pef P: identical
+skamB pef P: identical
+sKal pef P: identical
+stan pef P: identical
+stamB pef P: identical
+stu pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) stavitA,stotA != stotA (pysan)
+     3d (huet) stavitArO,stotArO != stotArO (pysan)
+     3p (huet) stavitAraH,stotAraH != stotAraH (pysan)
+     2s (huet) stavitAsi,stotAsi != stotAsi (pysan)
+     2d (huet) stavitAsTaH,stotAsTaH != stotAsTaH (pysan)
+     2p (huet) stavitAsTa,stotAsTa != stotAsTa (pysan)
+     1s (huet) stavitAsmi,stotAsmi != stotAsmi (pysan)
+     1d (huet) stavitAsvaH,stotAsvaH != stotAsvaH (pysan)
+     1p (huet) stavitAsmaH,stotAsmaH != stotAsmaH (pysan)
+stuB pef P: identical
+stF pef P: pysan NOT FOUND
+stena pef P: pysan NOT FOUND
+styA pef P: pysan NOT FOUND
+sTaga pef P: pysan NOT FOUND
+sTA pef P: identical
+snA pef P: identical
+snih pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) snegDA,snehitA != sneQA,snegDA,snehitA (pysan)
+     3d (huet) snegDArO,snehitArO != sneQArO,snegDArO,snehitArO (pysan)
+     3p (huet) snegDAraH,snehitAraH != sneQAraH,snegDAraH,snehitAraH (pysan)
+     2s (huet) snegDAsi,snehitAsi != sneQAsi,snegDAsi,snehitAsi (pysan)
+     2d (huet) snegDAsTaH,snehitAsTaH != sneQAsTaH,snegDAsTaH,snehitAsTaH (pysan)
+     2p (huet) snegDAsTa,snehitAsTa != sneQAsTa,snegDAsTa,snehitAsTa (pysan)
+     1s (huet) snegDAsmi,snehitAsmi != sneQAsmi,snegDAsmi,snehitAsmi (pysan)
+     1d (huet) snegDAsvaH,snehitAsvaH != sneQAsvaH,snegDAsvaH,snehitAsvaH (pysan)
+     1p (huet) snegDAsmaH,snehitAsmaH != sneQAsmaH,snegDAsmaH,snehitAsmaH (pysan)
+snu pef P: identical
+snuh pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) snogDA,snohitA != snohitA (pysan)
+     3d (huet) snogDArO,snohitArO != snohitArO (pysan)
+     3p (huet) snogDAraH,snohitAraH != snohitAraH (pysan)
+     2s (huet) snogDAsi,snohitAsi != snohitAsi (pysan)
+     2d (huet) snogDAsTaH,snohitAsTaH != snohitAsTaH (pysan)
+     2p (huet) snogDAsTa,snohitAsTa != snohitAsTa (pysan)
+     1s (huet) snogDAsmi,snohitAsmi != snohitAsmi (pysan)
+     1d (huet) snogDAsvaH,snohitAsvaH != snohitAsvaH (pysan)
+     1p (huet) snogDAsmaH,snohitAsmaH != snohitAsmaH (pysan)
+spand pef P: identical
+sparD pef P: identical
+spfS pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sparzwA != sparzwA,sprazwA (pysan)
+     3d (huet) sparzwArO != sparzwArO,sprazwArO (pysan)
+     3p (huet) sparzwAraH != sparzwAraH,sprazwAraH (pysan)
+     2s (huet) sparzwAsi != sparzwAsi,sprazwAsi (pysan)
+     2d (huet) sparzwAsTaH != sparzwAsTaH,sprazwAsTaH (pysan)
+     2p (huet) sparzwAsTa != sparzwAsTa,sprazwAsTa (pysan)
+     1s (huet) sparzwAsmi != sparzwAsmi,sprazwAsmi (pysan)
+     1d (huet) sparzwAsvaH != sparzwAsvaH,sprazwAsvaH (pysan)
+     1p (huet) sparzwAsmaH != sparzwAsmaH,sprazwAsmaH (pysan)
+spfh pef P: identical
+sPal pef P: identical
+sPA pef P: pysan NOT FOUND
+sPuw pef P: identical
+sPur pef P: identical
+smi pef P: identical
+smf pef P: identical
+syand pef P: identical
+sraMs pef P: identical
+sru pef P: identical
+svaYj pef P: pysan NOT FOUND
+svad pef P: identical
+svan pef P: identical
+svap pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) svapitA,svaptA != svaptA (pysan)
+     3d (huet) svapitArO,svaptArO != svaptArO (pysan)
+     3p (huet) svapitAraH,svaptAraH != svaptAraH (pysan)
+     2s (huet) svapitAsi,svaptAsi != svaptAsi (pysan)
+     2d (huet) svapitAsTaH,svaptAsTaH != svaptAsTaH (pysan)
+     2p (huet) svapitAsTa,svaptAsTa != svaptAsTa (pysan)
+     1s (huet) svapitAsmi,svaptAsmi != svaptAsmi (pysan)
+     1d (huet) svapitAsvaH,svaptAsvaH != svaptAsvaH (pysan)
+     1p (huet) svapitAsmaH,svaptAsmaH != svaptAsmaH (pysan)
+svar pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) svaritA != svarayitA,svaritA (pysan)
+     3d (huet) svaritArO != svarayitArO,svaritArO (pysan)
+     3p (huet) svaritAraH != svarayitAraH,svaritAraH (pysan)
+     2s (huet) svaritAsi != svarayitAsi,svaritAsi (pysan)
+     2d (huet) svaritAsTaH != svarayitAsTaH,svaritAsTaH (pysan)
+     2p (huet) svaritAsTa != svarayitAsTa,svaritAsTa (pysan)
+     1s (huet) svaritAsmi != svarayitAsmi,svaritAsmi (pysan)
+     1d (huet) svaritAsvaH != svarayitAsvaH,svaritAsvaH (pysan)
+     1p (huet) svaritAsmaH != svarayitAsmaH,svaritAsmaH (pysan)
+svalpaSilA pef P: pysan NOT FOUND
+svid pef P: identical
+haW pef P: identical
+had pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hattA != haditA (pysan)
+     3d (huet) hattArO != haditArO (pysan)
+     3p (huet) hattAraH != haditAraH (pysan)
+     2s (huet) hattAsi != haditAsi (pysan)
+     2d (huet) hattAsTaH != haditAsTaH (pysan)
+     2p (huet) hattAsTa != haditAsTa (pysan)
+     1s (huet) hattAsmi != haditAsmi (pysan)
+     1d (huet) hattAsvaH != haditAsvaH (pysan)
+     1p (huet) hattAsmaH != haditAsmaH (pysan)
+han pef P: identical
+has pef P: identical
+hA pef P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hAtA,jahitA != hAtA (pysan)
+     3d (huet) hAtArO,jahitArO != hAtArO (pysan)
+     3p (huet) hAtAraH,jahitAraH != hAtAraH (pysan)
+     2s (huet) hAtAsi,jahitAsi != hAtAsi (pysan)
+     2d (huet) hAtAsTaH,jahitAsTaH != hAtAsTaH (pysan)
+     2p (huet) hAtAsTa,jahitAsTa != hAtAsTa (pysan)
+     1s (huet) hAtAsmi,jahitAsmi != hAtAsmi (pysan)
+     1d (huet) hAtAsvaH,jahitAsvaH != hAtAsvaH (pysan)
+     1p (huet) hAtAsmaH,jahitAsmaH != hAtAsmaH (pysan)
+hi pef P: identical
+hiMs pef P: identical
+hikk pef P: identical
+hu pef P: identical
+huRq pef P: identical
+hU pef P: pysan NOT FOUND
+hf pef P: identical
+hfz pef P: identical
+hnu pef P: identical
+hras pef P: identical
+hrAd pef P: identical
+hrI pef P: identical
+hlAd pef P: identical
+hval pef P: identical
+hvf pef P: identical

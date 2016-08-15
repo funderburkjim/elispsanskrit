@@ -1,0 +1,1831 @@
+--------------------------------------------------
+232 cases of IDENTICAL PADAS
+--------------------------------------------------
+Case 01: aNg:P identical in BOTH
+Case 02: aj:P identical in BOTH
+Case 03: ad:P identical in BOTH
+Case 04: an:P identical in BOTH
+Case 05: am:P identical in BOTH
+Case 06: arh:P identical in BOTH
+Case 07: av:P identical in BOTH
+Case 08: as:P identical in BOTH
+Case 09: Ap:P identical in BOTH
+Case 10: ind:P identical in BOTH
+Case 11: inv:P identical in BOTH
+Case 12: il:P identical in BOTH
+Case 13: iz:P identical in BOTH
+Case 14: INK:P identical in BOTH
+Case 15: uc:P identical in BOTH
+Case 16: ujJ:P identical in BOTH
+Case 17: uYC:P identical in BOTH
+Case 18: und:P identical in BOTH
+Case 19: uz:P identical in BOTH
+Case 20: f:P identical in BOTH
+Case 21: fc:P identical in BOTH
+Case 22: fD:P identical in BOTH
+Case 23: fz:P identical in BOTH
+Case 24: kaT:P identical in BOTH
+Case 25: kas:P identical in BOTH
+Case 26: kANkz:P identical in BOTH
+Case 27: kuc:P identical in BOTH
+Case 28: kuts:P identical in BOTH
+Case 29: kUj:P identical in BOTH
+Case 30: kft:P identical in BOTH
+Case 31: kfS:P identical in BOTH
+Case 32: krIq:P identical in BOTH
+Case 33: kruYc:P identical in BOTH
+Case 34: kruD:P identical in BOTH
+Case 35: kruS:P identical in BOTH
+Case 36: kliS:P identical in BOTH
+Case 37: kzan:P identical in BOTH
+Case 38: kzar:P identical in BOTH
+Case 39: kzi:P identical in BOTH
+Case 40: kzip:P identical in BOTH
+Case 41: kzu:P identical in BOTH
+Case 42: kzuD:P identical in BOTH
+Case 43: Kan:P identical in BOTH
+Case 44: KAd:P identical in BOTH
+Case 45: Kel:P identical in BOTH
+Case 46: KyA:P identical in BOTH
+Case 47: gaj:P identical in BOTH
+Case 48: gaR:P identical in BOTH
+Case 49: gad:P identical in BOTH
+Case 50: gam:P identical in BOTH
+Case 51: garj:P identical in BOTH
+Case 52: gal:P identical in BOTH
+Case 53: gA:P identical in BOTH
+Case 54: guYj:P identical in BOTH
+Case 55: gup:P identical in BOTH
+Case 56: gumP:P identical in BOTH
+Case 57: gfD:P identical in BOTH
+Case 58: grah:P identical in BOTH
+Case 59: glE:P identical in BOTH
+Case 60: Guz:P identical in BOTH
+Case 61: Gfz:P identical in BOTH
+Case 62: cakAs:P identical in BOTH
+Case 63: caYc:P identical in BOTH
+Case 64: caw:P identical in BOTH
+Case 65: jakz:P identical in BOTH
+Case 66: jas:P identical in BOTH
+Case 67: jinv:P identical in BOTH
+Case 68: jval:P identical in BOTH
+Case 69: tandr:P identical in BOTH
+Case 70: tud:P identical in BOTH
+Case 71: dakz:P identical in BOTH
+Case 72: dAS:P identical in BOTH
+Case 73: diS:P identical in BOTH
+Case 74: duz:P identical in BOTH
+Case 75: dfp:P identical in BOTH
+Case 76: dfB:P identical in BOTH
+Case 77: dfh:P identical in BOTH
+Case 78: dev:P identical in BOTH
+Case 79: drA:P identical in BOTH
+Case 80: dru:P identical in BOTH
+Case 81: druh:P identical in BOTH
+Case 82: Dam:P identical in BOTH
+Case 83: Dfz:P identical in BOTH
+Case 84: Dru:P identical in BOTH
+Case 85: Dvan:P identical in BOTH
+Case 86: DvANkz:P identical in BOTH
+Case 87: Dvf:P identical in BOTH
+Case 88: naw:P identical in BOTH
+Case 89: nad:P identical in BOTH
+Case 90: nand:P identical in BOTH
+Case 91: nam:P identical in BOTH
+Case 92: nard:P identical in BOTH
+Case 93: nind:P identical in BOTH
+Case 94: nft:P identical in BOTH
+Case 95: paW:P identical in BOTH
+Case 96: paT:P identical in BOTH
+Case 97: pi:P identical in BOTH
+Case 98: piS:P identical in BOTH
+Case 99: piz:P identical in BOTH
+Case 100: pIq:P identical in BOTH
+Case 101: puT:P identical in BOTH
+Case 102: puz:P identical in BOTH
+Case 103: pUy:P identical in BOTH
+Case 104: pf:P identical in BOTH
+Case 105: pfc:P identical in BOTH
+Case 106: pfT:P identical in BOTH
+Case 107: pF:P identical in BOTH
+Case 108: pluz:P identical in BOTH
+Case 109: Pal:P identical in BOTH
+Case 110: Pull:P identical in BOTH
+Case 111: banD:P identical in BOTH
+Case 112: bal:P identical in BOTH
+Case 113: bfh:P identical in BOTH
+Case 114: BaYj:P identical in BOTH
+Case 115: BaR:P identical in BOTH
+Case 116: Baz:P identical in BOTH
+Case 117: Bas:P identical in BOTH
+Case 118: BA:P identical in BOTH
+Case 119: BU:P identical in BOTH
+Case 120: BUz:P identical in BOTH
+Case 121: Bram:P identical in BOTH
+Case 122: majj:P identical in BOTH
+Case 123: maRq:P identical in BOTH
+Case 124: mad:P identical in BOTH
+Case 125: manT:P identical in BOTH
+Case 126: mah:P identical in BOTH
+Case 127: mArg:P identical in BOTH
+Case 128: miz:P identical in BOTH
+Case 129: mih:P identical in BOTH
+Case 130: mIl:P identical in BOTH
+Case 131: muz:P identical in BOTH
+Case 132: muh:P identical in BOTH
+Case 133: mUz:P identical in BOTH
+Case 134: mfd:P identical in BOTH
+Case 135: mfS:P identical in BOTH
+Case 136: mnA:P identical in BOTH
+Case 137: yaB:P identical in BOTH
+Case 138: yam:P identical in BOTH
+Case 139: yas:P identical in BOTH
+Case 140: yA:P identical in BOTH
+Case 141: yu:P identical in BOTH
+Case 142: raMh:P identical in BOTH
+Case 143: rakz:P identical in BOTH
+Case 144: rac:P identical in BOTH
+Case 145: raR:P identical in BOTH
+Case 146: rad:P identical in BOTH
+Case 147: raD:P identical in BOTH
+Case 148: rah:P identical in BOTH
+Case 149: rA:P identical in BOTH
+Case 150: rAD:P identical in BOTH
+Case 151: riz:P identical in BOTH
+Case 152: ruj:P identical in BOTH
+Case 153: rud:P identical in BOTH
+Case 154: ruz:P identical in BOTH
+Case 155: ruh:P identical in BOTH
+Case 156: rUp:P identical in BOTH
+Case 157: laNg:P identical in BOTH
+Case 158: lap:P identical in BOTH
+Case 159: lal:P identical in BOTH
+Case 160: lAYC:P identical in BOTH
+Case 161: liK:P identical in BOTH
+Case 162: lih:P identical in BOTH
+Case 163: luYc:P identical in BOTH
+Case 164: luW:P identical in BOTH
+Case 165: luB:P identical in BOTH
+Case 166: vac:P identical in BOTH
+Case 167: vaYc:P identical in BOTH
+Case 168: vam:P identical in BOTH
+Case 169: valg:P identical in BOTH
+Case 170: vaS:P identical in BOTH
+Case 171: vA:P identical in BOTH
+Case 172: vAYC:P identical in BOTH
+Case 173: viS:P identical in BOTH
+Case 174: viz:P identical in BOTH
+Case 175: vI:P identical in BOTH
+Case 176: vfz:P identical in BOTH
+Case 177: vfh:P identical in BOTH
+Case 178: ven:P identical in BOTH
+Case 179: vyaD:P identical in BOTH
+Case 180: vraj:P identical in BOTH
+Case 181: vraSc:P identical in BOTH
+Case 182: SaMs:P identical in BOTH
+Case 183: Sak:P identical in BOTH
+Case 184: SaS:P identical in BOTH
+Case 185: Sas:P identical in BOTH
+Case 186: SAs:P identical in BOTH
+Case 187: Siz:P identical in BOTH
+Case 188: SIl:P identical in BOTH
+Case 189: SumB:P identical in BOTH
+Case 190: Suz:P identical in BOTH
+Case 191: SF:P identical in BOTH
+Case 192: Scut:P identical in BOTH
+Case 193: Sram:P identical in BOTH
+Case 194: Sru:P identical in BOTH
+Case 195: Sliz:P identical in BOTH
+Case 196: Svas:P identical in BOTH
+Case 197: saYj:P identical in BOTH
+Case 198: san:P identical in BOTH
+Case 199: sap:P identical in BOTH
+Case 200: siD:P identical in BOTH
+Case 201: sur:P identical in BOTH
+Case 202: sUc:P identical in BOTH
+Case 203: sf:P identical in BOTH
+Case 204: sfj:P identical in BOTH
+Case 205: sfp:P identical in BOTH
+Case 206: skand:P identical in BOTH
+Case 207: skamB:P identical in BOTH
+Case 208: sKal:P identical in BOTH
+Case 209: stan:P identical in BOTH
+Case 210: snA:P identical in BOTH
+Case 211: snih:P identical in BOTH
+Case 212: snu:P identical in BOTH
+Case 213: snuh:P identical in BOTH
+Case 214: spfS:P identical in BOTH
+Case 215: spfh:P identical in BOTH
+Case 216: sPal:P identical in BOTH
+Case 217: sPuw:P identical in BOTH
+Case 218: sPur:P identical in BOTH
+Case 219: smf:P identical in BOTH
+Case 220: sru:P identical in BOTH
+Case 221: svan:P identical in BOTH
+Case 222: svap:P identical in BOTH
+Case 223: svar:P identical in BOTH
+Case 224: haW:P identical in BOTH
+Case 225: han:P identical in BOTH
+Case 226: has:P identical in BOTH
+Case 227: hi:P identical in BOTH
+Case 228: hiMs:P identical in BOTH
+Case 229: hu:P identical in BOTH
+Case 230: hrI:P identical in BOTH
+Case 231: hval:P identical in BOTH
+Case 232: hvf:P identical in BOTH
+--------------------------------------------------
+212 cases of HUET PADAS < PYSAN PADAS
+--------------------------------------------------
+Case 01: akz has P(huet) < P + A(pysan)
+Case 02: aYc has P(huet) < P + A(pysan)
+Case 03: aYj has P(huet) < P + A(pysan)
+Case 04: aw has P(huet) < P + A(pysan)
+Case 05: at has P(huet) < P + A(pysan)
+Case 06: ard has P(huet) < P + A(pysan)
+Case 07: i has P(huet) < P + A(pysan)
+Case 08: ukz has P(huet) < P + A(pysan)
+Case 09: Uh has P(huet) < P + A(pysan)
+Case 10: fj has P(huet) < P + A(pysan)
+Case 11: ej has P(huet) < P + A(pysan)
+Case 12: kaRq has P(huet) < P + A(pysan)
+Case 13: kal has P(huet) < P + A(pysan)
+Case 14: kaz has P(huet) < P + A(pysan)
+Case 15: kAS has P(huet) < P + A(pysan)
+Case 16: kIrt has P(huet) < P + A(pysan)
+Case 17: kIl has P(huet) < P + A(pysan)
+Case 18: kuw has P(huet) < P + A(pysan)
+Case 19: kuRW has P(huet) < P + A(pysan)
+Case 20: kuRq has P(huet) < P + A(pysan)
+Case 21: kunT has P(huet) < P + A(pysan)
+Case 22: kup has P(huet) < P + A(pysan)
+Case 23: kul has P(huet) < P + A(pysan)
+Case 24: kU has P(huet) < P + A(pysan)
+Case 25: kf has P(huet) < P + A(pysan)
+Case 26: kfp has P(huet) < P + A(pysan)
+Case 27: kfz has P(huet) < P + A(pysan)
+Case 28: kF has P(huet) < P + A(pysan)
+Case 29: krand has P(huet) < P + A(pysan)
+Case 30: kram has P(huet) < P + A(pysan)
+Case 31: krI has P(huet) < P + A(pysan)
+Case 32: klam has P(huet) < P + A(pysan)
+Case 33: klid has P(huet) < P + A(pysan)
+Case 34: kzap has P(huet) < P + A(pysan)
+Case 35: kzud has P(huet) < P + A(pysan)
+Case 36: kzuB has P(huet) < P + A(pysan)
+Case 37: kzviq has P(huet) < P + A(pysan)
+Case 38: KaRq has P(huet) < P + A(pysan)
+Case 39: Kid has P(huet) < P + A(pysan)
+Case 40: gard has P(huet) < P + A(pysan)
+Case 41: garh has P(huet) < P + A(pysan)
+Case 42: gAh has P(huet) < P + A(pysan)
+Case 43: gur has P(huet) < P + A(pysan)
+Case 44: guh has P(huet) < P + A(pysan)
+Case 45: gF has P(huet) < P + A(pysan)
+Case 46: gras has P(huet) < P + A(pysan)
+Case 47: Gaww has P(huet) < P + A(pysan)
+Case 48: GUrR has P(huet) < P + A(pysan)
+Case 49: Gf has P(huet) < P + A(pysan)
+Case 50: GrA has P(huet) < P + A(pysan)
+Case 51: cat has P(huet) < P + A(pysan)
+Case 52: cand has P(huet) < P + A(pysan)
+Case 53: cam has P(huet) < P + A(pysan)
+Case 54: car has P(huet) < P + A(pysan)
+Case 55: cal has P(huet) < P + A(pysan)
+Case 56: ci has P(huet) < P + A(pysan)
+Case 57: cit has P(huet) < P + A(pysan)
+Case 58: cumb has P(huet) < P + A(pysan)
+Case 59: cur has P(huet) < P + A(pysan)
+Case 60: cUz has P(huet) < P + A(pysan)
+Case 61: cezw has P(huet) < P + A(pysan)
+Case 62: cyu has P(huet) < P + A(pysan)
+Case 63: Cad has P(huet) < P + A(pysan)
+Case 64: Cid has P(huet) < P + A(pysan)
+Case 65: jan has P(huet) < P + A(pysan)
+Case 66: jap has P(huet) < P + A(pysan)
+Case 67: jaB has P(huet) < P + A(pysan)
+Case 68: jam has P(huet) < P + A(pysan)
+Case 69: jalp has P(huet) < P + A(pysan)
+Case 70: jAgf has P(huet) < P + A(pysan)
+Case 71: ji has P(huet) < P + A(pysan)
+Case 72: jIv has P(huet) < P + A(pysan)
+Case 73: jF has P(huet) < P + A(pysan)
+Case 74: jYA has P(huet) < P + A(pysan)
+Case 75: jyA has P(huet) < P + A(pysan)
+Case 76: qamb has P(huet) < P + A(pysan)
+Case 77: tak has P(huet) < P + A(pysan)
+Case 78: takz has P(huet) < P + A(pysan)
+Case 79: taYc has P(huet) < P + A(pysan)
+Case 80: tan has P(huet) < P + A(pysan)
+Case 81: tap has P(huet) < P + A(pysan)
+Case 82: tam has P(huet) < P + A(pysan)
+Case 83: tark has P(huet) < P + A(pysan)
+Case 84: tarj has P(huet) < P + A(pysan)
+Case 85: tij has P(huet) < P + A(pysan)
+Case 86: tup has P(huet) < P + A(pysan)
+Case 87: tul has P(huet) < P + A(pysan)
+Case 88: tuz has P(huet) < P + A(pysan)
+Case 89: tfd has P(huet) < P + A(pysan)
+Case 90: tfp has P(huet) < P + A(pysan)
+Case 91: tfz has P(huet) < P + A(pysan)
+Case 92: tF has P(huet) < P + A(pysan)
+Case 93: tyaj has P(huet) < P + A(pysan)
+Case 94: trap has P(huet) < P + A(pysan)
+Case 95: tras has P(huet) < P + A(pysan)
+Case 96: truw has P(huet) < P + A(pysan)
+Case 97: tvakz has P(huet) < P + A(pysan)
+Case 98: tvar has P(huet) < P + A(pysan)
+Case 99: tviz has P(huet) < P + A(pysan)
+Case 100: tsar has P(huet) < P + A(pysan)
+Case 101: daMS has P(huet) < P + A(pysan)
+Case 102: daG has P(huet) < P + A(pysan)
+Case 103: daB has P(huet) < P + A(pysan)
+Case 104: dam has P(huet) < P + A(pysan)
+Case 105: dal has P(huet) < P + A(pysan)
+Case 106: das has P(huet) < P + A(pysan)
+Case 107: dah has P(huet) < P + A(pysan)
+Case 108: dA has P(huet) < P + A(pysan)
+Case 109: dih has P(huet) < P + A(pysan)
+Case 110: du has P(huet) < P + A(pysan)
+Case 111: duh has P(huet) < P + A(pysan)
+Case 112: dfS has P(huet) < P + A(pysan)
+Case 113: dF has P(huet) < P + A(pysan)
+Case 114: dviz has P(huet) < P + A(pysan)
+Case 115: DA has P(huet) < P + A(pysan)
+Case 116: DAv has P(huet) < P + A(pysan)
+Case 117: DU has P(huet) < P + A(pysan)
+Case 118: Df has P(huet) < P + A(pysan)
+Case 119: DvaMs has P(huet) < P + A(pysan)
+Case 120: nakz has P(huet) < P + A(pysan)
+Case 121: naS has P(huet) < P + A(pysan)
+Case 122: nah has P(huet) < P + A(pysan)
+Case 123: nI has P(huet) < P + A(pysan)
+Case 124: nu has P(huet) < P + A(pysan)
+Case 125: nud has P(huet) < P + A(pysan)
+Case 126: pac has P(huet) < P + A(pysan)
+Case 127: paw has P(huet) < P + A(pysan)
+Case 128: pat has P(huet) < P + A(pysan)
+Case 129: pad has P(huet) < P + A(pysan)
+Case 130: pA has P(huet) < P + A(pysan)
+Case 131: piYj has P(huet) < P + A(pysan)
+Case 132: pU has P(huet) < P + A(pysan)
+Case 133: pUj has P(huet) < P + A(pysan)
+Case 134: pfz has P(huet) < P + A(pysan)
+Case 135: praT has P(huet) < P + A(pysan)
+Case 136: prI has P(huet) < P + A(pysan)
+Case 137: bAD has P(huet) < P + A(pysan)
+Case 138: Bakz has P(huet) < P + A(pysan)
+Case 139: Baj has P(huet) < P + A(pysan)
+Case 140: Bid has P(huet) < P + A(pysan)
+Case 141: BI has P(huet) < P + A(pysan)
+Case 142: Buj has P(huet) < P + A(pysan)
+Case 143: Bf has P(huet) < P + A(pysan)
+Case 144: BraMS has P(huet) < P + A(pysan)
+Case 145: mA has P(huet) < P + A(pysan)
+Case 146: mi has P(huet) < P + A(pysan)
+Case 147: miT has P(huet) < P + A(pysan)
+Case 148: mid has P(huet) < P + A(pysan)
+Case 149: mil has P(huet) < P + A(pysan)
+Case 150: mI has P(huet) < P + A(pysan)
+Case 151: muc has P(huet) < P + A(pysan)
+Case 152: mud has P(huet) < P + A(pysan)
+Case 153: mfj has P(huet) < P + A(pysan)
+Case 154: mfq has P(huet) < P + A(pysan)
+Case 155: mfD has P(huet) < P + A(pysan)
+Case 156: mfz has P(huet) < P + A(pysan)
+Case 157: mokz has P(huet) < P + A(pysan)
+Case 158: yaj has P(huet) < P + A(pysan)
+Case 159: yAc has P(huet) < P + A(pysan)
+Case 160: yuj has P(huet) < P + A(pysan)
+Case 161: raYj has P(huet) < P + A(pysan)
+Case 162: ram has P(huet) < P + A(pysan)
+Case 163: rAj has P(huet) < P + A(pysan)
+Case 164: ric has P(huet) < P + A(pysan)
+Case 165: ru has P(huet) < P + A(pysan)
+Case 166: ruD has P(huet) < P + A(pysan)
+Case 167: lakz has P(huet) < P + A(pysan)
+Case 168: lag has P(huet) < P + A(pysan)
+Case 169: laNG has P(huet) < P + A(pysan)
+Case 170: laz has P(huet) < P + A(pysan)
+Case 171: las has P(huet) < P + A(pysan)
+Case 172: lip has P(huet) < P + A(pysan)
+Case 173: liS has P(huet) < P + A(pysan)
+Case 174: lI has P(huet) < P + A(pysan)
+Case 175: lup has P(huet) < P + A(pysan)
+Case 176: lU has P(huet) < P + A(pysan)
+Case 177: lok has P(huet) < P + A(pysan)
+Case 178: loc has P(huet) < P + A(pysan)
+Case 179: vad has P(huet) < P + A(pysan)
+Case 180: van has P(huet) < P + A(pysan)
+Case 181: vap has P(huet) < P + A(pysan)
+Case 182: vas has P(huet) < P + A(pysan)
+Case 183: vah has P(huet) < P + A(pysan)
+Case 184: vic has P(huet) < P + A(pysan)
+Case 185: vid has P(huet) < P + A(pysan)
+Case 186: vIj has P(huet) < P + A(pysan)
+Case 187: vf has P(huet) < P + A(pysan)
+Case 188: vfj has P(huet) < P + A(pysan)
+Case 189: Sap has P(huet) < P + A(pysan)
+Case 190: Sam has P(huet) < P + A(pysan)
+Case 191: Sal has P(huet) < P + A(pysan)
+Case 192: Sikz has P(huet) < P + A(pysan)
+Case 193: Suc has P(huet) < P + A(pysan)
+Case 194: SuD has P(huet) < P + A(pysan)
+Case 195: Sri has P(huet) < P + A(pysan)
+Case 196: sad has P(huet) < P + A(pysan)
+Case 197: sah has P(huet) < P + A(pysan)
+Case 198: sic has P(huet) < P + A(pysan)
+Case 199: su has P(huet) < P + A(pysan)
+Case 200: sU has P(huet) < P + A(pysan)
+Case 201: sUd has P(huet) < P + A(pysan)
+Case 202: stamB has P(huet) < P + A(pysan)
+Case 203: stu has P(huet) < P + A(pysan)
+Case 204: stuB has P(huet) < P + A(pysan)
+Case 205: sTA has P(huet) < P + A(pysan)
+Case 206: svid has P(huet) < P + A(pysan)
+Case 207: had has P(huet) < P + A(pysan)
+Case 208: hA has P(huet) < P + A(pysan)
+Case 209: hikk has P(huet) < P + A(pysan)
+Case 210: hf has P(huet) < P + A(pysan)
+Case 211: hfz has P(huet) < P + A(pysan)
+Case 212: hras has P(huet) < P + A(pysan)
+--------------------------------------------------
+86 cases of DIFFERENT PADAS
+--------------------------------------------------
+Case 01: arT has P(huet) != A(pysan)
+Case 02: aS has P(huet) != A(pysan)
+Case 03: As has P(huet) != A(pysan)
+Case 04: inD has P(huet) != A(pysan)
+Case 05: Ikz has P(huet) != A(pysan)
+Case 06: Iq has P(huet) != A(pysan)
+Case 07: Ir has P(huet) != A(pysan)
+Case 08: IS has P(huet) != A(pysan)
+Case 09: Iz has P(huet) != A(pysan)
+Case 10: Ih has P(huet) != A(pysan)
+Case 11: eD has P(huet) != A(pysan)
+Case 12: katT has P(huet) != A(pysan)
+Case 13: kamp has P(huet) != A(pysan)
+Case 14: kxp has P(huet) != A(pysan)
+Case 15: klav has P(huet) != A(pysan)
+Case 16: kvaT has P(huet) != A(pysan)
+Case 17: kzad has P(huet) != A(pysan)
+Case 18: kzam has P(huet) != A(pysan)
+Case 19: galB has P(huet) != A(pysan)
+Case 20: Gaw has P(huet) != A(pysan)
+Case 21: cakz has P(huet) != A(pysan)
+Case 22: juz has P(huet) != A(pysan)
+Case 23: jfmB has P(huet) != A(pysan)
+Case 24: jyut has P(huet) != A(pysan)
+Case 25: qI has P(huet) != A(pysan)
+Case 26: trE has P(huet) != A(pysan)
+Case 27: day has P(huet) != A(pysan)
+Case 28: dIkz has P(huet) != A(pysan)
+Case 29: dIp has P(huet) != A(pysan)
+Case 30: dyut has P(huet) != A(pysan)
+Case 31: DI has P(huet) != A(pysan)
+Case 32: Dukz has P(huet) != A(pysan)
+Case 33: nAT has P(huet) != A(pysan)
+Case 34: nij has P(huet) != A(pysan)
+Case 35: paR has P(huet) != A(pysan)
+Case 36: palAy has P(huet) != A(pysan)
+Case 37: pru has P(huet) != A(pysan)
+Case 38: plu has P(huet) != A(pysan)
+Case 39: baMh has P(huet) != A(pysan)
+Case 40: buD has P(huet) != A(pysan)
+Case 41: BaRq has P(huet) != A(pysan)
+Case 42: Band has P(huet) != A(pysan)
+Case 43: Barts has P(huet) != A(pysan)
+Case 44: BAz has P(huet) != A(pysan)
+Case 45: BAs has P(huet) != A(pysan)
+Case 46: BrAj has P(huet) != A(pysan)
+Case 47: maMh has P(huet) != A(pysan)
+Case 48: man has P(huet) != A(pysan)
+Case 49: mand has P(huet) != A(pysan)
+Case 50: mf has P(huet) != A(pysan)
+Case 51: yat has P(huet) != A(pysan)
+Case 52: yuD has P(huet) != A(pysan)
+Case 53: raB has P(huet) != A(pysan)
+Case 54: ruc has P(huet) != A(pysan)
+Case 55: lajj has P(huet) != A(pysan)
+Case 56: laB has P(huet) != A(pysan)
+Case 57: lamb has P(huet) != A(pysan)
+Case 58: vand has P(huet) != A(pysan)
+Case 59: val has P(huet) != A(pysan)
+Case 60: vAS has P(huet) != A(pysan)
+Case 61: vij has P(huet) != A(pysan)
+Case 62: vip has P(huet) != A(pysan)
+Case 63: vft has P(huet) != A(pysan)
+Case 64: vfD has P(huet) != A(pysan)
+Case 65: vezw has P(huet) != A(pysan)
+Case 66: vyaT has P(huet) != A(pysan)
+Case 67: vrIq has P(huet) != A(pysan)
+Case 68: SaNk has P(huet) != A(pysan)
+Case 69: Sad has P(huet) != A(pysan)
+Case 70: SI has P(huet) != A(pysan)
+Case 71: SuB has P(huet) != A(pysan)
+Case 72: SramB has P(huet) != A(pysan)
+Case 73: SlAG has P(huet) != A(pysan)
+Case 74: Svit has P(huet) != A(pysan)
+Case 75: sac has P(huet) != A(pysan)
+Case 76: sev has P(huet) != A(pysan)
+Case 77: spand has P(huet) != A(pysan)
+Case 78: sparD has P(huet) != A(pysan)
+Case 79: smi has P(huet) != A(pysan)
+Case 80: syand has P(huet) != A(pysan)
+Case 81: sraMs has P(huet) != A(pysan)
+Case 82: svad has P(huet) != A(pysan)
+Case 83: huRq has P(huet) != A(pysan)
+Case 84: hnu has P(huet) != A(pysan)
+Case 85: hrAd has P(huet) != A(pysan)
+Case 86: hlAd has P(huet) != A(pysan)
+--------------------------------------------------
+1084 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMS:P in pysan
+Case 02: aMs:A,P in pysan
+Case 03: aMh:A,P in pysan
+Case 04: ak:P in pysan
+Case 05: ag:P in pysan
+Case 06: aG:P in pysan
+Case 07: aNk:A,P in pysan
+Case 08: aNK:P in pysan
+Case 09: aNG:A in pysan
+Case 10: ac:A,P in pysan
+Case 11: aww:A,P in pysan
+Case 12: aW:A,P in pysan
+Case 13: aq:P in pysan
+Case 14: aqq:P in pysan
+Case 15: aR:A,P in pysan
+Case 16: aRW:A in pysan
+Case 17: ant:P in pysan
+Case 18: and:P in pysan
+Case 19: anD:P in pysan
+Case 20: aBr:P in pysan
+Case 21: amb:A,P in pysan
+Case 22: ay:A,P in pysan
+Case 23: arc:P in pysan
+Case 24: arj:P in pysan
+Case 25: arb:P in pysan
+Case 26: arv:P in pysan
+Case 27: al:P in pysan
+Case 28: avalok:A,P in pysan
+Case 29: az:A,P in pysan
+Case 30: ah:P in pysan
+Case 31: iK:P in pysan
+Case 32: iNK:P in pysan
+Case 33: iNg:P in pysan
+Case 34: iw:P in pysan
+Case 35: ir:P in pysan
+Case 36: I:P in pysan
+Case 37: IK:P in pysan
+Case 38: Ij:P in pysan
+Case 39: Int:P in pysan
+Case 40: Irzy:P in pysan
+Case 41: u:A,P in pysan
+Case 42: uK:P in pysan
+Case 43: uNK:P in pysan
+Case 44: uC:P in pysan
+Case 45: uW:P in pysan
+Case 46: ud:P in pysan
+Case 47: uDras:A,P in pysan
+Case 48: upAr:P in pysan
+Case 49: ubj:P in pysan
+Case 50: uB:P in pysan
+Case 51: ulaq:P in pysan
+Case 52: uh:P in pysan
+Case 53: Uy:A in pysan
+Case 54: UrRu:A,P in pysan
+Case 55: Urd:A in pysan
+Case 56: Urv:P in pysan
+Case 57: Uz:P in pysan
+Case 58: fC:P in pysan
+Case 59: fYj:A,P in pysan
+Case 60: fR:A,P in pysan
+Case 61: ft:A in pysan
+Case 62: fP:P in pysan
+Case 63: eW:A in pysan
+Case 64: ez:A,P in pysan
+Case 65: oK:P in pysan
+Case 66: oj:P in pysan
+Case 67: oR:P in pysan
+Case 68: olaRq:P in pysan
+Case 69: kaMs:A in pysan
+Case 70: kak:A in pysan
+Case 71: kaK:P in pysan
+Case 72: kag:P in pysan
+Case 73: kaNk:A in pysan
+Case 74: kac:P in pysan
+Case 75: kaj:P in pysan
+Case 76: kaYc:A in pysan
+Case 77: kaw:P in pysan
+Case 78: kaww:P in pysan
+Case 79: kaW:P in pysan
+Case 80: kaq:P in pysan
+Case 81: kaqq:P in pysan
+Case 82: kaR:P in pysan
+Case 83: kaRw:P in pysan
+Case 84: kaRW:A,P in pysan
+Case 85: katr:P in pysan
+Case 86: kad:A in pysan
+Case 87: kan:P in pysan
+Case 88: kand:P in pysan
+Case 89: kab:A in pysan
+Case 90: kam:A in pysan
+Case 91: kamb:P in pysan
+Case 92: karj:P in pysan
+Case 93: karR:P in pysan
+Case 94: kartr:P in pysan
+Case 95: kard:P in pysan
+Case 96: karb:P in pysan
+Case 97: karv:P in pysan
+Case 98: kall:A in pysan
+Case 99: kav:A,P in pysan
+Case 100: kaS:P in pysan
+Case 101: kAMs:A in pysan
+Case 102: kAYc:A in pysan
+Case 103: kAs:A in pysan
+Case 104: ki:P in pysan
+Case 105: kiw:P in pysan
+Case 106: kit:A,P in pysan
+Case 107: kil:P in pysan
+Case 108: kizk:A in pysan
+Case 109: kIw:P in pysan
+Case 110: ku:P in pysan
+Case 111: kuMS:A,P in pysan
+Case 112: kuk:A in pysan
+Case 113: kuj:P in pysan
+Case 114: kuYc:P in pysan
+Case 115: kuYj:P in pysan
+Case 116: kuww:A,P in pysan
+Case 117: kuq:P in pysan
+Case 118: kuR:P in pysan
+Case 119: kuT:A,P in pysan
+Case 120: kud:P in pysan
+Case 121: kundr:P in pysan
+Case 122: kumb:A,P in pysan
+Case 123: kur:P in pysan
+Case 124: kuS:P in pysan
+Case 125: kuz:A,P in pysan
+Case 126: kuh:A in pysan
+Case 127: kUw:P in pysan
+Case 128: kUq:P in pysan
+Case 129: kUR:A,P in pysan
+Case 130: kUp:P in pysan
+Case 131: kUrd:A,P in pysan
+Case 132: kUl:P in pysan
+Case 133: kFt:A,P in pysan
+Case 134: kep:A in pysan
+Case 135: kel:P in pysan
+Case 136: kev:A in pysan
+Case 137: kE:P in pysan
+Case 138: knaMs:P in pysan
+Case 139: knaT:P in pysan
+Case 140: knas:P in pysan
+Case 141: knu:A,P in pysan
+Case 142: knUy:A in pysan
+Case 143: kmar:P in pysan
+Case 144: kraMS:P in pysan
+Case 145: kraT:P in pysan
+Case 146: krap:A in pysan
+Case 147: kruq:P in pysan
+Case 148: klaT:P in pysan
+Case 149: kland:P in pysan
+Case 150: klind:A,P in pysan
+Case 151: klIb:A in pysan
+Case 152: kleS:A in pysan
+Case 153: kvaR:P in pysan
+Case 154: kzaj:A,P in pysan
+Case 155: kzaR:P in pysan
+Case 156: kzamp:A,P in pysan
+Case 157: kzal:P in pysan
+Case 158: kziR:A,P in pysan
+Case 159: kziv:P in pysan
+Case 160: kzIj:P in pysan
+Case 161: kzIb:P in pysan
+Case 162: kzIv:A,P in pysan
+Case 163: kzup:P in pysan
+Case 164: kzump:P in pysan
+Case 165: kzur:P in pysan
+Case 166: kzE:P in pysan
+Case 167: kzow:P in pysan
+Case 168: kzRu:P in pysan
+Case 169: kzmAy:A in pysan
+Case 170: kzmIl:P in pysan
+Case 171: kzvid:A,P in pysan
+Case 172: kzvel:P in pysan
+Case 173: Kac:P in pysan
+Case 174: Kaj:P in pysan
+Case 175: KaYj:P in pysan
+Case 176: Kaw:P in pysan
+Case 177: Kaww:P in pysan
+Case 178: Kaq:P in pysan
+Case 179: Kad:P in pysan
+Case 180: Kamb:P in pysan
+Case 181: Karj:P in pysan
+Case 182: Kard:P in pysan
+Case 183: Karb:P in pysan
+Case 184: Karv:P in pysan
+Case 185: Kal:P in pysan
+Case 186: Kall:A in pysan
+Case 187: Kaz:P in pysan
+Case 188: Kiw:P in pysan
+Case 189: Ku:A in pysan
+Case 190: Kuj:A,P in pysan
+Case 191: KuRq:A,P in pysan
+Case 192: Kud:P in pysan
+Case 193: Kur:P in pysan
+Case 194: Kurd:A in pysan
+Case 195: Kew:A,P in pysan
+Case 196: KE:P in pysan
+Case 197: Kow:P in pysan
+Case 198: Koq:P in pysan
+Case 199: Kor:P in pysan
+Case 200: gaYj:P in pysan
+Case 201: gaq:P in pysan
+Case 202: gaRq:P in pysan
+Case 203: gaD:A,P in pysan
+Case 204: ganD:A in pysan
+Case 205: gamb:P in pysan
+Case 206: garb:P in pysan
+Case 207: garv:P in pysan
+Case 208: gah:P in pysan
+Case 209: gAD:A in pysan
+Case 210: gu:A,P in pysan
+Case 211: guj:P in pysan
+Case 212: guq:P in pysan
+Case 213: guRW:P in pysan
+Case 214: guRq:A,P in pysan
+Case 215: gud:A in pysan
+Case 216: guD:A,P in pysan
+Case 217: guP:A,P in pysan
+Case 218: gurd:A,P in pysan
+Case 219: gurv:P in pysan
+Case 220: gUrd:P in pysan
+Case 221: gUrD:P in pysan
+Case 222: gf:P in pysan
+Case 223: gep:A in pysan
+Case 224: gev:A in pysan
+Case 225: gez:A in pysan
+Case 226: gE:A,P in pysan
+Case 227: graT:A,P in pysan
+Case 228: gruc:P in pysan
+Case 229: glas:A in pysan
+Case 230: gluc:P in pysan
+Case 231: gluYc:P in pysan
+Case 232: glep:A in pysan
+Case 233: glev:A in pysan
+Case 234: glez:A in pysan
+Case 235: GaMz:A in pysan
+Case 236: GagG:P in pysan
+Case 237: GaR:A,P in pysan
+Case 238: GaRw:A,P in pysan
+Case 239: Gamb:A in pysan
+Case 240: Gar:P in pysan
+Case 241: Garb:P in pysan
+Case 242: Gas:P in pysan
+Case 243: GiRR:A in pysan
+Case 244: Gu:A in pysan
+Case 245: Guw:A,P in pysan
+Case 246: Guq:P in pysan
+Case 247: GuR:A,P in pysan
+Case 248: GuRR:A in pysan
+Case 249: GUr:A in pysan
+Case 250: GfR:A,P in pysan
+Case 251: GfRR:A in pysan
+Case 252: Gol:P in pysan
+Case 253: Nu:A in pysan
+Case 254: cak:A,P in pysan
+Case 255: cakk:P in pysan
+Case 256: caG:A,P in pysan
+Case 257: caR:P in pysan
+Case 258: caRq:A,P in pysan
+Case 259: cad:A,P in pysan
+Case 260: can:A,P in pysan
+Case 261: cap:A,P in pysan
+Case 262: camp:A,P in pysan
+Case 263: camb:A,P in pysan
+Case 264: cay:A,P in pysan
+Case 265: carG:A,P in pysan
+Case 266: carc:A,P in pysan
+Case 267: carb:A,P in pysan
+Case 268: carv:A,P in pysan
+Case 269: cah:A,P in pysan
+Case 270: cikk:P in pysan
+Case 271: ciw:P in pysan
+Case 272: cint:A,P in pysan
+Case 273: ciri:A,P in pysan
+Case 274: cil:A,P in pysan
+Case 275: cIk:A,P in pysan
+Case 276: cIv:A,P in pysan
+Case 277: cukk:A,P in pysan
+Case 278: cuw:A,P in pysan
+Case 279: cuww:A,P in pysan
+Case 280: cuq:A,P in pysan
+Case 281: cuqq:A,P in pysan
+Case 282: cuR:A,P in pysan
+Case 283: cuRW:A,P in pysan
+Case 284: cut:A,P in pysan
+Case 285: cud:A,P in pysan
+Case 286: cup:A,P in pysan
+Case 287: cul:A,P in pysan
+Case 288: culump:A,P in pysan
+Case 289: cUR:A,P in pysan
+Case 290: cUr:A,P in pysan
+Case 291: cUrR:A,P in pysan
+Case 292: cft:A,P in pysan
+Case 293: cel:A,P in pysan
+Case 294: cyut:A,P in pysan
+Case 295: cyus:A,P in pysan
+Case 296: Cam:A,P in pysan
+Case 297: Camp:A,P in pysan
+Case 298: Cal:A,P in pysan
+Case 299: Caz:A,P in pysan
+Case 300: Cuw:A,P in pysan
+Case 301: Cuq:A,P in pysan
+Case 302: Cup:A,P in pysan
+Case 303: Cur:A,P in pysan
+Case 304: Cfd:A,P in pysan
+Case 305: Cfp:A,P in pysan
+Case 306: Co:A,P in pysan
+Case 307: jaMs:A,P in pysan
+Case 308: jaNkz:P in pysan
+Case 309: jaj:P in pysan
+Case 310: jarc:A,P in pysan
+Case 311: jarC:A,P in pysan
+Case 312: jarj:A,P in pysan
+Case 313: jarts:A,P in pysan
+Case 314: jal:A,P in pysan
+Case 315: jim:A,P in pysan
+Case 316: jiri:P in pysan
+Case 317: jiz:A,P in pysan
+Case 318: juNg:A,P in pysan
+Case 319: juYc:P in pysan
+Case 320: juw:A,P in pysan
+Case 321: juq:A,P in pysan
+Case 322: jun:A,P in pysan
+Case 323: jur:P in pysan
+Case 324: jul:A,P in pysan
+Case 325: jUr:A in pysan
+Case 326: jUrv:P in pysan
+Case 327: jf:A,P in pysan
+Case 328: jez:A in pysan
+Case 329: jeh:A in pysan
+Case 330: jE:A,P in pysan
+Case 331: jyo:A in pysan
+Case 332: jri:A,P in pysan
+Case 333: Jaw:A,P in pysan
+Case 334: Jam:P in pysan
+Case 335: Jarc:A,P in pysan
+Case 336: Jaz:A,P in pysan
+Case 337: Ju:A in pysan
+Case 338: JUz:P in pysan
+Case 339: JF:A,P in pysan
+Case 340: Jyu:A in pysan
+Case 341: waNk:A,P in pysan
+Case 342: wik:A in pysan
+Case 343: wIk:A in pysan
+Case 344: wOk:A in pysan
+Case 345: wval:P in pysan
+Case 346: qap:A in pysan
+Case 347: qam:P in pysan
+Case 348: qamp:A in pysan
+Case 349: qamB:A in pysan
+Case 350: qip:A,P in pysan
+Case 351: QOk:A in pysan
+Case 352: taNk:P in pysan
+Case 353: taNg:A,P in pysan
+Case 354: taw:P in pysan
+Case 355: taq:A,P in pysan
+Case 356: taRq:A in pysan
+Case 357: tand:A in pysan
+Case 358: tay:A,P in pysan
+Case 359: tard:P in pysan
+Case 360: tal:A,P in pysan
+Case 361: tas:A,P in pysan
+Case 362: tAy:A,P in pysan
+Case 363: tik:A,P in pysan
+Case 364: tig:A,P in pysan
+Case 365: tiG:A,P in pysan
+Case 366: tip:P in pysan
+Case 367: tim:P in pysan
+Case 368: til:A,P in pysan
+Case 369: till:P in pysan
+Case 370: tIk:A in pysan
+Case 371: tIm:A,P in pysan
+Case 372: tIv:A,P in pysan
+Case 373: tu:A,P in pysan
+Case 374: tuj:A,P in pysan
+Case 375: tuw:A,P in pysan
+Case 376: tuq:A,P in pysan
+Case 377: tuqq:P in pysan
+Case 378: tuR:P in pysan
+Case 379: tuRq:A in pysan
+Case 380: tund:A,P in pysan
+Case 381: tuB:A,P in pysan
+Case 382: tump:A,P in pysan
+Case 383: tumb:A,P in pysan
+Case 384: tur:A,P in pysan
+Case 385: turv:P in pysan
+Case 386: tuS:A,P in pysan
+Case 387: tus:A,P in pysan
+Case 388: tuh:A,P in pysan
+Case 389: tUq:A,P in pysan
+Case 390: tUR:A,P in pysan
+Case 391: tUl:A,P in pysan
+Case 392: tUz:A,P in pysan
+Case 393: tfkz:A,P in pysan
+Case 394: tfR:A,P in pysan
+Case 395: tfP:A,P in pysan
+Case 396: tfmp:A,P in pysan
+Case 397: tfmP:A,P in pysan
+Case 398: tfh:A,P in pysan
+Case 399: tep:A,P in pysan
+Case 400: tev:A,P in pysan
+Case 401: toq:A,P in pysan
+Case 402: traMs:A,P in pysan
+Case 403: traK:A,P in pysan
+Case 404: trand:A,P in pysan
+Case 405: triNK:P in pysan
+Case 406: trup:A,P in pysan
+Case 407: truP:A,P in pysan
+Case 408: trump:P in pysan
+Case 409: trumP:A,P in pysan
+Case 410: trOk:A in pysan
+Case 411: tvaNg:A,P in pysan
+Case 412: tvac:A,P in pysan
+Case 413: tvaYc:A,P in pysan
+Case 414: Tarv:P in pysan
+Case 415: Tuq:A,P in pysan
+Case 416: Turv:A,P in pysan
+Case 417: daMs:A,P in pysan
+Case 418: daMh:A,P in pysan
+Case 419: daNG:A,P in pysan
+Case 420: dad:A,P in pysan
+Case 421: daD:A in pysan
+Case 422: danv:P in pysan
+Case 423: damB:A,P in pysan
+Case 424: dAn:A,P in pysan
+Case 425: dAy:A in pysan
+Case 426: dAs:A,P in pysan
+Case 427: dinv:P in pysan
+Case 428: dip:A in pysan
+Case 429: dimp:A in pysan
+Case 430: dimB:A in pysan
+Case 431: div:A,P in pysan
+Case 432: dI:A,P in pysan
+Case 433: dIDI:A in pysan
+Case 434: duD:P in pysan
+Case 435: durv:P in pysan
+Case 436: dul:P in pysan
+Case 437: dU:A,P in pysan
+Case 438: df:A in pysan
+Case 439: dfMh:A,P in pysan
+Case 440: de:A in pysan
+Case 441: dE:P in pysan
+Case 442: do:P in pysan
+Case 443: dyu:P in pysan
+Case 444: dyE:P in pysan
+Case 445: dram:P in pysan
+Case 446: drAK:P in pysan
+Case 447: drANkz:P in pysan
+Case 448: drAq:A in pysan
+Case 449: drAh:A in pysan
+Case 450: druq:A,P in pysan
+Case 451: druR:P in pysan
+Case 452: drumm:P in pysan
+Case 453: drU:P in pysan
+Case 454: drUq:A,P in pysan
+Case 455: drek:A in pysan
+Case 456: drE:A,P in pysan
+Case 457: dvf:P in pysan
+Case 458: Dakk:P in pysan
+Case 459: DaR:P in pysan
+Case 460: Dan:P in pysan
+Case 461: Dav:A in pysan
+Case 462: Di:P in pysan
+Case 463: Dikz:A in pysan
+Case 464: Diz:P in pysan
+Case 465: DIkz:A in pysan
+Case 466: Du:A,P in pysan
+Case 467: DUp:P in pysan
+Case 468: DUr:A in pysan
+Case 469: DUrv:P in pysan
+Case 470: DUS:P in pysan
+Case 471: Dfj:P in pysan
+Case 472: DF:P in pysan
+Case 473: De:P in pysan
+Case 474: Dor:P in pysan
+Case 475: DmA:P in pysan
+Case 476: DyE:P in pysan
+Case 477: Draj:P in pysan
+Case 478: DraR:P in pysan
+Case 479: Dras:A,P in pysan
+Case 480: DrA:A,P in pysan
+Case 481: Drij:P in pysan
+Case 482: Drek:A in pysan
+Case 483: DrE:A,P in pysan
+Case 484: Dvaj:P in pysan
+Case 485: DvaR:P in pysan
+Case 486: DvraR:P in pysan
+Case 487: nakk:P in pysan
+Case 488: naK:A,P in pysan
+Case 489: naj:A in pysan
+Case 490: naq:P in pysan
+Case 491: naB:A,P in pysan
+Case 492: namb:P in pysan
+Case 493: nay:A in pysan
+Case 494: narb:P in pysan
+Case 495: nal:P in pysan
+Case 496: nas:A in pysan
+Case 497: nAD:A in pysan
+Case 498: nAs:A in pysan
+Case 499: niMs:A in pysan
+Case 500: nikz:P in pysan
+Case 501: niYj:A in pysan
+Case 502: ninv:A,P in pysan
+Case 503: nil:P in pysan
+Case 504: niS:P in pysan
+Case 505: niz:P in pysan
+Case 506: nizk:A in pysan
+Case 507: nIl:P in pysan
+Case 508: nIv:P in pysan
+Case 509: nuq:P in pysan
+Case 510: nF:P in pysan
+Case 511: ned:P in pysan
+Case 512: nez:A in pysan
+Case 513: paMS:A,P in pysan
+Case 514: pakz:A,P in pysan
+Case 515: paRq:A,P in pysan
+Case 516: pan:A in pysan
+Case 517: panT:P in pysan
+Case 518: pamb:P in pysan
+Case 519: pay:A in pysan
+Case 520: parR:P in pysan
+Case 521: pard:A in pysan
+Case 522: parp:P in pysan
+Case 523: parb:P in pysan
+Case 524: parv:P in pysan
+Case 525: parz:A in pysan
+Case 526: pal:P in pysan
+Case 527: pall:A,P in pysan
+Case 528: pav:A in pysan
+Case 529: paS:P in pysan
+Case 530: paz:A,P in pysan
+Case 531: pas:A,P in pysan
+Case 532: pAy:A in pysan
+Case 533: pAl:P in pysan
+Case 534: piMs:A,P in pysan
+Case 535: picc:P in pysan
+Case 536: piC:P in pysan
+Case 537: piw:P in pysan
+Case 538: piW:P in pysan
+Case 539: piRq:A,P in pysan
+Case 540: pinv:P in pysan
+Case 541: pil:P in pysan
+Case 542: pis:A,P in pysan
+Case 543: pI:A in pysan
+Case 544: pIl:A,P in pysan
+Case 545: puMs:A,P in pysan
+Case 546: puC:P in pysan
+Case 547: puw:P in pysan
+Case 548: puww:P in pysan
+Case 549: puq:P in pysan
+Case 550: puR:P in pysan
+Case 551: puRw:P in pysan
+Case 552: puRq:P in pysan
+Case 553: pur:P in pysan
+Case 554: purv:A,P in pysan
+Case 555: pus:P in pysan
+Case 556: pust:P in pysan
+Case 557: pUR:P in pysan
+Case 558: pUl:P in pysan
+Case 559: pUz:P in pysan
+Case 560: pfj:A in pysan
+Case 561: pfq:P in pysan
+Case 562: pfR:P in pysan
+Case 563: peR:P in pysan
+Case 564: peb:A in pysan
+Case 565: pel:P in pysan
+Case 566: pev:A in pysan
+Case 567: pez:A in pysan
+Case 568: pes:P in pysan
+Case 569: pE:P in pysan
+Case 570: pER:P in pysan
+Case 571: poYC:A in pysan
+Case 572: pyAy:A in pysan
+Case 573: pyuz:P in pysan
+Case 574: pyus:P in pysan
+Case 575: pyE:A in pysan
+Case 576: praC:P in pysan
+Case 577: pras:A in pysan
+Case 578: prA:P in pysan
+Case 579: pruT:A,P in pysan
+Case 580: pruz:A,P in pysan
+Case 581: pre:P in pysan
+Case 582: prez:A in pysan
+Case 583: prER:P in pysan
+Case 584: proT:A,P in pysan
+Case 585: plakz:A,P in pysan
+Case 586: plab:A in pysan
+Case 587: plih:A in pysan
+Case 588: plI:P in pysan
+Case 589: plus:P in pysan
+Case 590: plev:A in pysan
+Case 591: psA:P in pysan
+Case 592: Pakk:P in pysan
+Case 593: PaR:P in pysan
+Case 594: Parv:P in pysan
+Case 595: Pel:P in pysan
+Case 596: bad:P in pysan
+Case 597: barb:P in pysan
+Case 598: barh:A,P in pysan
+Case 599: bAq:A in pysan
+Case 600: biw:P in pysan
+Case 601: bid:P in pysan
+Case 602: bil:P in pysan
+Case 603: biS:P in pysan
+Case 604: bis:A,P in pysan
+Case 605: bIB:A in pysan
+Case 606: bukk:P in pysan
+Case 607: buNg:P in pysan
+Case 608: buw:P in pysan
+Case 609: buq:P in pysan
+Case 610: bud:A,P in pysan
+Case 611: bund:A,P in pysan
+Case 612: bunD:A,P in pysan
+Case 613: bul:P in pysan
+Case 614: bus:P in pysan
+Case 615: bfMh:P in pysan
+Case 616: brahm:P in pysan
+Case 617: brU:A,P in pysan
+Case 618: Baw:P in pysan
+Case 619: BaRw:P in pysan
+Case 620: Ban:P in pysan
+Case 621: Barb:P in pysan
+Case 622: Barv:P in pysan
+Case 623: Bal:A in pysan
+Case 624: BAm:A,P in pysan
+Case 625: Bikz:A in pysan
+Case 626: Bind:P in pysan
+Case 627: BuRq:A in pysan
+Case 628: BfMS:P in pysan
+Case 629: Bfkz:A,P in pysan
+Case 630: Bfj:A in pysan
+Case 631: Bfq:P in pysan
+Case 632: BfS:P in pysan
+Case 633: BF:P in pysan
+Case 634: Bez:A,P in pysan
+Case 635: Byas:A in pysan
+Case 636: Brakz:A,P in pysan
+Case 637: Brajj:A,P in pysan
+Case 638: BraR:P in pysan
+Case 639: BraS:A in pysan
+Case 640: BrAS:A in pysan
+Case 641: BrI:P in pysan
+Case 642: Bruq:P in pysan
+Case 643: BrUR:A in pysan
+Case 644: Brez:A,P in pysan
+Case 645: BlAS:A in pysan
+Case 646: makz:P in pysan
+Case 647: maK:P in pysan
+Case 648: maNk:A in pysan
+Case 649: maNg:A in pysan
+Case 650: maNG:P in pysan
+Case 651: mac:A in pysan
+Case 652: maYc:A in pysan
+Case 653: maYj:P in pysan
+Case 654: maW:P in pysan
+Case 655: maR:P in pysan
+Case 656: maRw:P in pysan
+Case 657: maRW:A in pysan
+Case 658: maT:P in pysan
+Case 659: mantr:A in pysan
+Case 660: maBr:P in pysan
+Case 661: mamb:P in pysan
+Case 662: may:A in pysan
+Case 663: marc:P in pysan
+Case 664: marj:P in pysan
+Case 665: marb:P in pysan
+Case 666: marv:P in pysan
+Case 667: mal:A,P in pysan
+Case 668: mall:A in pysan
+Case 669: mav:P in pysan
+Case 670: mavy:P in pysan
+Case 671: maS:P in pysan
+Case 672: mas:P in pysan
+Case 673: mask:A in pysan
+Case 674: mANkz:P in pysan
+Case 675: mAq:A,P in pysan
+Case 676: mAn:P in pysan
+Case 677: mAnT:P in pysan
+Case 678: mArj:P in pysan
+Case 679: mAh:A,P in pysan
+Case 680: miC:P in pysan
+Case 681: miYj:P in pysan
+Case 682: miD:A,P in pysan
+Case 683: miS:P in pysan
+Case 684: miSr:P in pysan
+Case 685: mis:P in pysan
+Case 686: mIm:P in pysan
+Case 687: mIv:P in pysan
+Case 688: muC:P in pysan
+Case 689: muj:P in pysan
+Case 690: muYc:P in pysan
+Case 691: muw:P in pysan
+Case 692: muq:P in pysan
+Case 693: muR:P in pysan
+Case 694: muRq:A,P in pysan
+Case 695: mur:P in pysan
+Case 696: murC:P in pysan
+Case 697: murv:P in pysan
+Case 698: must:P in pysan
+Case 699: mU:A in pysan
+Case 700: mUl:P in pysan
+Case 701: mfg:P in pysan
+Case 702: mfc:P in pysan
+Case 703: mfC:A in pysan
+Case 704: mfR:P in pysan
+Case 705: mF:P in pysan
+Case 706: me:A in pysan
+Case 707: meq:P in pysan
+Case 708: mep:P in pysan
+Case 709: mev:A in pysan
+Case 710: myakz:P in pysan
+Case 711: mrakz:P in pysan
+Case 712: mrad:A in pysan
+Case 713: mrit:P in pysan
+Case 714: mruc:P in pysan
+Case 715: mruYc:P in pysan
+Case 716: mreq:P in pysan
+Case 717: mlakz:P in pysan
+Case 718: mluc:P in pysan
+Case 719: mluYc:P in pysan
+Case 720: mleC:P in pysan
+Case 721: mlew:P in pysan
+Case 722: mlev:A in pysan
+Case 723: mlE:P in pysan
+Case 724: yakz:A,P in pysan
+Case 725: yantr:P in pysan
+Case 726: yuNg:P in pysan
+Case 727: yuC:P in pysan
+Case 728: yut:A in pysan
+Case 729: yup:P in pysan
+Case 730: yUz:P in pysan
+Case 731: yez:P in pysan
+Case 732: yOw:P in pysan
+Case 733: rak:P in pysan
+Case 734: raK:P in pysan
+Case 735: rag:P in pysan
+Case 736: raNK:P in pysan
+Case 737: raNg:P in pysan
+Case 738: raNG:A,P in pysan
+Case 739: raw:P in pysan
+Case 740: raW:P in pysan
+Case 741: raRv:P in pysan
+Case 742: rap:P in pysan
+Case 743: raP:P in pysan
+Case 744: ramP:P in pysan
+Case 745: ramb:A,P in pysan
+Case 746: ramB:A in pysan
+Case 747: ray:A in pysan
+Case 748: ras:P in pysan
+Case 749: rAK:P in pysan
+Case 750: rAG:A in pysan
+Case 751: rAs:A in pysan
+Case 752: riK:P in pysan
+Case 753: riNK:P in pysan
+Case 754: riNg:P in pysan
+Case 755: riRv:P in pysan
+Case 756: riP:P in pysan
+Case 757: riB:P in pysan
+Case 758: rimP:P in pysan
+Case 759: riS:P in pysan
+Case 760: rih:P in pysan
+Case 761: rI:P in pysan
+Case 762: rIv:A,P in pysan
+Case 763: ruMS:P in pysan
+Case 764: ruw:P in pysan
+Case 765: ruW:A,P in pysan
+Case 766: ruRw:P in pysan
+Case 767: ruRW:P in pysan
+Case 768: rup:P in pysan
+Case 769: ruS:P in pysan
+Case 770: rUkz:P in pysan
+Case 771: rUz:P in pysan
+Case 772: rek:A in pysan
+Case 773: rej:A,P in pysan
+Case 774: rew:A,P in pysan
+Case 775: req:A in pysan
+Case 776: rep:A in pysan
+Case 777: rez:A in pysan
+Case 778: rE:P in pysan
+Case 779: roq:P in pysan
+Case 780: rOw:P in pysan
+Case 781: lak:P in pysan
+Case 782: laK:P in pysan
+Case 783: laC:P in pysan
+Case 784: laj:A,P in pysan
+Case 785: laYj:P in pysan
+Case 786: law:P in pysan
+Case 787: laq:P in pysan
+Case 788: laRq:P in pysan
+Case 789: lamB:A in pysan
+Case 790: lay:A in pysan
+Case 791: lard:P in pysan
+Case 792: larb:P in pysan
+Case 793: laS:P in pysan
+Case 794: lA:P in pysan
+Case 795: lAK:P in pysan
+Case 796: lAG:A in pysan
+Case 797: lAj:P in pysan
+Case 798: lAYj:P in pysan
+Case 799: lAq:P in pysan
+Case 800: lAB:P in pysan
+Case 801: liNK:P in pysan
+Case 802: liNg:P in pysan
+Case 803: luw:A,P in pysan
+Case 804: luq:P in pysan
+Case 805: luRw:P in pysan
+Case 806: lunT:P in pysan
+Case 807: lumb:P in pysan
+Case 808: luz:P in pysan
+Case 809: lUz:P in pysan
+Case 810: lep:A in pysan
+Case 811: lER:P in pysan
+Case 812: low:P in pysan
+Case 813: lozw:A in pysan
+Case 814: lOq:P in pysan
+Case 815: lpI:P in pysan
+Case 816: lvI:P in pysan
+Case 817: vak:A in pysan
+Case 818: vakk:A in pysan
+Case 819: vakz:P in pysan
+Case 820: vaK:P in pysan
+Case 821: vaNK:P in pysan
+Case 822: vaNg:P in pysan
+Case 823: vaNG:A in pysan
+Case 824: vaj:P in pysan
+Case 825: vaw:A,P in pysan
+Case 826: vaww:P in pysan
+Case 827: vaW:P in pysan
+Case 828: vaqQ:P in pysan
+Case 829: vaR:P in pysan
+Case 830: vaRw:P in pysan
+Case 831: vaRW:A in pysan
+Case 832: vaRq:A,P in pysan
+Case 833: vaBr:P in pysan
+Case 834: vay:A in pysan
+Case 835: varc:A in pysan
+Case 836: varR:P in pysan
+Case 837: varD:P in pysan
+Case 838: varP:P in pysan
+Case 839: valk:P in pysan
+Case 840: valB:A in pysan
+Case 841: vall:P in pysan
+Case 842: valh:A,P in pysan
+Case 843: vaz:P in pysan
+Case 844: vazk:A in pysan
+Case 845: vask:A in pysan
+Case 846: vast:A in pysan
+Case 847: vANkz:P in pysan
+Case 848: vAt:P in pysan
+Case 849: vAvft:A in pysan
+Case 850: vAs:P in pysan
+Case 851: vAh:A in pysan
+Case 852: viC:P in pysan
+Case 853: viw:P in pysan
+Case 854: viq:P in pysan
+Case 855: viRw:P in pysan
+Case 856: viT:A in pysan
+Case 857: viD:A,P in pysan
+Case 858: vil:P in pysan
+Case 859: vizk:P in pysan
+Case 860: vIr:A in pysan
+Case 861: vuRw:P in pysan
+Case 862: vfMh:P in pysan
+Case 863: vfk:A in pysan
+Case 864: vfkz:A in pysan
+Case 865: vfR:A,P in pysan
+Case 866: vfS:P in pysan
+Case 867: vF:A,P in pysan
+Case 868: ve:A,P in pysan
+Case 869: vekz:P in pysan
+Case 870: vewy:P in pysan
+Case 871: veD:A in pysan
+Case 872: vep:A in pysan
+Case 873: vel:P in pysan
+Case 874: vell:P in pysan
+Case 875: vevI:A in pysan
+Case 876: ves:P in pysan
+Case 877: veh:P in pysan
+Case 878: vehl:P in pysan
+Case 879: vE:P in pysan
+Case 880: vyac:P in pysan
+Case 881: vyap:P in pysan
+Case 882: vyay:A,P in pysan
+Case 883: vyuz:P in pysan
+Case 884: vye:A,P in pysan
+Case 885: vraR:P in pysan
+Case 886: vrI:P in pysan
+Case 887: vruq:P in pysan
+Case 888: vlI:P in pysan
+Case 889: Sac:A in pysan
+Case 890: Saw:A,P in pysan
+Case 891: SaW:A,P in pysan
+Case 892: SaR:P in pysan
+Case 893: SaRq:A in pysan
+Case 894: Sabd:P in pysan
+Case 895: Samb:P in pysan
+Case 896: Sarb:P in pysan
+Case 897: Sarv:P in pysan
+Case 898: SalB:A in pysan
+Case 899: Sav:P in pysan
+Case 900: Saz:P in pysan
+Case 901: SAK:P in pysan
+Case 902: SAq:A in pysan
+Case 903: SAl:A in pysan
+Case 904: Si:A,P in pysan
+Case 905: SiNK:P in pysan
+Case 906: SiNG:P in pysan
+Case 907: SiYj:A in pysan
+Case 908: Siw:P in pysan
+Case 909: Sim:P in pysan
+Case 910: Sil:P in pysan
+Case 911: SIk:A in pysan
+Case 912: SIB:A in pysan
+Case 913: Su:P in pysan
+Case 914: Suk:P in pysan
+Case 915: Sucy:P in pysan
+Case 916: SuW:P in pysan
+Case 917: SuRW:P in pysan
+Case 918: SuRq:P in pysan
+Case 919: Sun:P in pysan
+Case 920: Sulk:P in pysan
+Case 921: Sulb:P in pysan
+Case 922: SUr:A in pysan
+Case 923: SUrp:P in pysan
+Case 924: SUl:P in pysan
+Case 925: SUz:P in pysan
+Case 926: SfD:A,P in pysan
+Case 927: Sel:P in pysan
+Case 928: Sev:A in pysan
+Case 929: So:A,P in pysan
+Case 930: SoR:P in pysan
+Case 931: SOw:P in pysan
+Case 932: Scyut:P in pysan
+Case 933: SnaT:P in pysan
+Case 934: SmIl:P in pysan
+Case 935: SyE:P in pysan
+Case 936: SraNk:A in pysan
+Case 937: SraNg:P in pysan
+Case 938: SraR:P in pysan
+Case 939: SraT:P in pysan
+Case 940: SrA:A,P in pysan
+Case 941: Sriz:P in pysan
+Case 942: SrI:A,P in pysan
+Case 943: SrE:A,P in pysan
+Case 944: SroR:P in pysan
+Case 945: SlaNk:A in pysan
+Case 946: SlaNg:P in pysan
+Case 947: SlaT:P in pysan
+Case 948: SlAK:P in pysan
+Case 949: Slok:A in pysan
+Case 950: SloR:P in pysan
+Case 951: SvaNk:A in pysan
+Case 952: SvaNg:P in pysan
+Case 953: Svac:A in pysan
+Case 954: Svaj:A in pysan
+Case 955: SvaW:P in pysan
+Case 956: SvaBr:P in pysan
+Case 957: Sval:P in pysan
+Case 958: Svalk:P in pysan
+Case 959: SvAtr:P in pysan
+Case 960: Svi:P in pysan
+Case 961: Svind:A in pysan
+Case 962: zaww:P in pysan
+Case 963: zazk:P in pysan
+Case 964: zukk:A in pysan
+Case 965: zWiv:P in pysan
+Case 966: zvakk:A in pysan
+Case 967: zvazk:A,P in pysan
+Case 968: sakz:P in pysan
+Case 969: sag:A,P in pysan
+Case 970: saG:P in pysan
+Case 971: sajj:P in pysan
+Case 972: saw:A,P in pysan
+Case 973: saww:P in pysan
+Case 974: saW:P in pysan
+Case 975: satr:A in pysan
+Case 976: saBAj:P in pysan
+Case 977: sam:P in pysan
+Case 978: say:A in pysan
+Case 979: sarj:P in pysan
+Case 980: sarb:P in pysan
+Case 981: sal:P in pysan
+Case 982: sas:P in pysan
+Case 983: sAkz:P in pysan
+Case 984: sAw:P in pysan
+Case 985: sAD:A,P in pysan
+Case 986: sAntv:A,P in pysan
+Case 987: sAmaya:P in pysan
+Case 988: si:A,P in pysan
+Case 989: siw:P in pysan
+Case 990: siv:P in pysan
+Case 991: suK:P in pysan
+Case 992: suww:P in pysan
+Case 993: suB:P in pysan
+Case 994: suh:P in pysan
+Case 995: sUtr:P in pysan
+Case 996: sUrkz:P in pysan
+Case 997: sUz:P in pysan
+Case 998: sfB:P in pysan
+Case 999: sF:P in pysan
+Case 1000: sek:A in pysan
+Case 1001: sE:P in pysan
+Case 1002: so:P in pysan
+Case 1003: skanD:P in pysan
+Case 1004: sku:A,P in pysan
+Case 1005: skund:A in pysan
+Case 1006: sKad:A in pysan
+Case 1007: stak:P in pysan
+Case 1008: stiG:P in pysan
+Case 1009: stip:A in pysan
+Case 1010: stim:P in pysan
+Case 1011: stuc:A in pysan
+Case 1012: stumB:P in pysan
+Case 1013: stUp:P in pysan
+Case 1014: stf:A,P in pysan
+Case 1015: stfkz:P in pysan
+Case 1016: stfh:P in pysan
+Case 1017: sten:P in pysan
+Case 1018: step:A,P in pysan
+Case 1019: stE:P in pysan
+Case 1020: styE:A,P in pysan
+Case 1021: sTag:P in pysan
+Case 1022: sTal:P in pysan
+Case 1023: sTir:P in pysan
+Case 1024: sTuq:P in pysan
+Case 1025: sTUl:A in pysan
+Case 1026: sniw:P in pysan
+Case 1027: snuc:A in pysan
+Case 1028: snus:P in pysan
+Case 1029: snE:P in pysan
+Case 1030: sparz:A in pysan
+Case 1031: spaS:A,P in pysan
+Case 1032: spf:P in pysan
+Case 1033: spF:P in pysan
+Case 1034: sPaw:P in pysan
+Case 1035: sPaRq:P in pysan
+Case 1036: sPar:P in pysan
+Case 1037: sPAy:A in pysan
+Case 1038: sPiw:P in pysan
+Case 1039: sPiww:P in pysan
+Case 1040: sPuww:P in pysan
+Case 1041: sPuq:P in pysan
+Case 1042: sPuRw:P in pysan
+Case 1043: sPuRq:A,P in pysan
+Case 1044: sPul:P in pysan
+Case 1045: sPUrC:P in pysan
+Case 1046: sPUrj:P in pysan
+Case 1047: smiw:P in pysan
+Case 1048: syam:P in pysan
+Case 1049: sraMh:A in pysan
+Case 1050: sriD:P in pysan
+Case 1051: sriB:P in pysan
+Case 1052: sriv:P in pysan
+Case 1053: srek:A in pysan
+Case 1054: svaNg:P in pysan
+Case 1055: svaj:A in pysan
+Case 1056: svard:A in pysan
+Case 1057: svf:P in pysan
+Case 1058: haw:P in pysan
+Case 1059: hamm:P in pysan
+Case 1060: hay:P in pysan
+Case 1061: hal:P in pysan
+Case 1062: hiRq:A in pysan
+Case 1063: hil:P in pysan
+Case 1064: huq:P in pysan
+Case 1065: hurC:P in pysan
+Case 1066: hul:P in pysan
+Case 1067: hUq:P in pysan
+Case 1068: heW:A,P in pysan
+Case 1069: heq:A,P in pysan
+Case 1070: heQ:P in pysan
+Case 1071: hez:A in pysan
+Case 1072: hoq:A in pysan
+Case 1073: hmal:P in pysan
+Case 1074: hrag:P in pysan
+Case 1075: hrIC:P in pysan
+Case 1076: hru:P in pysan
+Case 1077: hruq:P in pysan
+Case 1078: hrep:A in pysan
+Case 1079: hrez:A in pysan
+Case 1080: hrOq:P in pysan
+Case 1081: hlag:A in pysan
+Case 1082: hlap:P in pysan
+Case 1083: hlas:P in pysan
+Case 1084: hve:A,P in pysan
+--------------------------------------------------
+202 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: aMSa:P in huet
+Case 02: agada:P in huet
+Case 03: aGa:P in huet
+Case 04: aNka:P in huet
+Case 05: aNKa:P in huet
+Case 06: ajira:P in huet
+Case 07: aDvara:P in huet
+Case 08: anDa:P in huet
+Case 09: apsaras:P in huet
+Case 10: aBra:P in huet
+Case 11: amitra:P in huet
+Case 12: arTa:P in huet
+Case 13: aSana:P in huet
+Case 14: aSva:P in huet
+Case 15: asUya:P in huet
+Case 16: AkarRa:P in huet
+Case 17: Akula:P in huet
+Case 18: Andola:P in huet
+Case 19: Avila:P in huet
+Case 20: in:P in huet
+Case 21: iras:P in huet
+Case 22: izuDi:P in huet
+Case 23: Irz:P in huet
+Case 24: utka:P in huet
+Case 25: utkaRW:P in huet
+Case 26: udaka:P in huet
+Case 27: udan:P in huet
+Case 28: unmanas:P in huet
+Case 29: umB:P in huet
+Case 30: uras:P in huet
+Case 31: uruz:P in huet
+Case 32: uzas:P in huet
+Case 33: Uzman:P in huet
+Case 34: kaRqu:P in huet
+Case 35: kaRva:P in huet
+Case 36: kadarTa:P in huet
+Case 37: karuRa:P in huet
+Case 38: karRa:P in huet
+Case 39: kartf:P in huet
+Case 40: kalaNka:P in huet
+Case 41: kalaha:P in huet
+Case 42: kaluza:P in huet
+Case 43: kavala:P in huet
+Case 44: kavi:P in huet
+Case 45: kazwa:P in huet
+Case 46: kuwwa:P in huet
+Case 47: kusuma:P in huet
+Case 48: kfcCra:P in huet
+Case 49: kelA:P in huet
+Case 50: klIba:P in huet
+Case 51: kzI:P in huet
+Case 52: kzIra:P in huet
+Case 53: Kaqa:P in huet
+Case 54: Kela:P in huet
+Case 55: gadgada:P in huet
+Case 56: garva:P in huet
+Case 57: gavez:P in huet
+Case 58: go:P in huet
+Case 59: gopA:P in huet
+Case 60: gomaya:P in huet
+Case 61: granT:P in huet
+Case 62: carca:P in huet
+Case 63: citra:P in huet
+Case 64: cUrRa:P in huet
+Case 65: Cand:P in huet
+Case 66: Cala:P in huet
+Case 67: Cidra:P in huet
+Case 68: jala:P in huet
+Case 69: jihma:P in huet
+Case 70: jU:P in huet
+Case 71: jvar:P in huet
+Case 72: tantra:P in huet
+Case 73: tapas:P in huet
+Case 74: taraNga:P in huet
+Case 75: taruRa:P in huet
+Case 76: taviza:P in huet
+Case 77: tiras:P in huet
+Case 78: tuhina:P in huet
+Case 79: daRqa:P in huet
+Case 80: dIv:P in huet
+Case 81: duHKa:P in huet
+Case 82: durdina:P in huet
+Case 83: deva:P in huet
+Case 84: dola:P in huet
+Case 85: Dana:P in huet
+Case 86: DIra:P in huet
+Case 87: DUma:P in huet
+Case 88: DyA:P in huet
+Case 89: namas:P in huet
+Case 90: nikaza:P in huet
+Case 91: nIhAra:P in huet
+Case 92: nUtana:P in huet
+Case 93: nO:P in huet
+Case 94: pawapawA:P in huet
+Case 95: payas:P in huet
+Case 96: parokza:P in huet
+Case 97: pavitra:P in huet
+Case 98: pASa:P in huet
+Case 99: piRqa:P in huet
+Case 100: pIyUzavarza:P in huet
+Case 101: putra:P in huet
+Case 102: putrakAma:P in huet
+Case 103: pulaka:P in huet
+Case 104: puzkara:P in huet
+Case 105: puzpa:P in huet
+Case 106: pUla:P in huet
+Case 107: pyA:P in huet
+Case 108: pratikUla:P in huet
+Case 109: praS:P in huet
+Case 110: prasAda:P in huet
+Case 111: prAsAda:P in huet
+Case 112: priya:P in huet
+Case 113: Pena:P in huet
+Case 114: bAzpa:P in huet
+Case 115: Bizaj:P in huet
+Case 116: Bfjj:P in huet
+Case 117: BfSa:P in huet
+Case 118: maDu:P in huet
+Case 119: mantu:P in huet
+Case 120: mantra:P in huet
+Case 121: malina:P in huet
+Case 122: mahI:P in huet
+Case 123: mAMsa:P in huet
+Case 124: mAlA:P in huet
+Case 125: mAlyaguRa:P in huet
+Case 126: miSra:P in huet
+Case 127: mukula:P in huet
+Case 128: muKara:P in huet
+Case 129: muRqa:P in huet
+Case 130: mudrA:P in huet
+Case 131: mUtra:P in huet
+Case 132: mUrC:P in huet
+Case 133: mfga:P in huet
+Case 134: mfzA:P in huet
+Case 135: meGa:P in huet
+Case 136: mlA:P in huet
+Case 137: mlecC:P in huet
+Case 138: yantra:P in huet
+Case 139: yuga:P in huet
+Case 140: raTakAma:P in huet
+Case 141: rasa:P in huet
+Case 142: rAjan:P in huet
+Case 143: ri:P in huet
+Case 144: rUkza:P in huet
+Case 145: romanTa:P in huet
+Case 146: laGa:P in huet
+Case 147: lavaRa:P in huet
+Case 148: lAlA:P in huet
+Case 149: luRW:P in huet
+Case 150: lul:P in huet
+Case 151: lelA:P in huet
+Case 152: lohita:P in huet
+Case 153: varivas:P in huet
+Case 154: varRa:P in huet
+Case 155: valgu:P in huet
+Case 156: vAc:P in huet
+Case 157: vAsa:P in huet
+Case 158: vimanA:P in huet
+Case 159: viSada:P in huet
+Case 160: viza:P in huet
+Case 161: vfza:P in huet
+Case 162: veda:P in huet
+Case 163: vEra:P in huet
+Case 164: vyA:P in huet
+Case 165: vraRa:P in huet
+Case 166: Sabda:P in huet
+Case 167: SalaBa:P in huet
+Case 168: SA:P in huet
+Case 169: SAnta:P in huet
+Case 170: SiTila:P in huet
+Case 171: SiSu:P in huet
+Case 172: SIGra:P in huet
+Case 173: SU:P in huet
+Case 174: SyA:P in huet
+Case 175: SyAma:P in huet
+Case 176: Syena:P in huet
+Case 177: zaRQa:P in huet
+Case 178: zWIv:P in huet
+Case 179: saKi:P in huet
+Case 180: saNkawa:P in huet
+Case 181: saNgrAma:P in huet
+Case 182: sajja:P in huet
+Case 183: satya:P in huet
+Case 184: sapiRqa:P in huet
+Case 185: saPala:P in huet
+Case 186: samudra:P in huet
+Case 187: sA:P in huet
+Case 188: sAntva:P in huet
+Case 189: sAvaDAna:P in huet
+Case 190: sIv:P in huet
+Case 191: suKa:P in huet
+Case 192: sudina:P in huet
+Case 193: sumanas:P in huet
+Case 194: sUtra:P in huet
+Case 195: stF:P in huet
+Case 196: stena:P in huet
+Case 197: styA:P in huet
+Case 198: sTaga:P in huet
+Case 199: sPA:P in huet
+Case 200: svaYj:P in huet
+Case 201: svalpaSilA:P in huet
+Case 202: hU:P in huet
