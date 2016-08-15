@@ -1,0 +1,1645 @@
+akz prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) AnakziTa != AnakziTa,AnazWa (pysan)
+     1d (huet) Anakziva != Anakziva,Anakzva (pysan)
+     1p (huet) Anakzima != Anakzima,Anakzma (pysan)
+aNg prf P: pysan NOT FOUND
+aj prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Aja != vivAya (pysan)
+     3d (huet) Ajatur != vivyatuH (pysan)
+     3p (huet) Ajur != vivyuH (pysan)
+     2s (huet) AjiTa != AjiTa,vivayiTa,viveTa (pysan)
+     2d (huet) AjaTur != vivyaTuH (pysan)
+     2p (huet) Aja != vivya (pysan)
+     1s (huet) Aja != vivAya,vivaya (pysan)
+     1d (huet) Ajiva != Ajiva,vivyiva (pysan)
+     1p (huet) Ajima != Ajima,vivyima (pysan)
+aYc prf A: identical
+aYc prf P: identical
+aYj prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) AnaYjize != AnaYcse,AnaYjize (pysan)
+     2p (huet) AnaYjiDve != AnaYjJve,AnaYjiDve (pysan)
+     1d (huet) AnaYjivahe != AnaYjivahe,AnaYjvahe (pysan)
+     1p (huet) AnaYjimahe != AnaYjimahe,AnaYjmahe (pysan)
+aYj prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) AnaYjiTa != AnaYjiTa,AnaYkTa (pysan)
+     1d (huet) AnaYjiva != AnaYjiva,AnaYjva (pysan)
+     1p (huet) AnaYjima != AnaYjima,AnaYjma (pysan)
+aw prf P: identical
+at prf P: identical
+ad prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Ada != Ada,jaGAsa (pysan)
+     3d (huet) Adatur != AdatuH,jakzatuH (pysan)
+     3p (huet) Adur != AduH,jakzuH (pysan)
+     2s (huet) AdiTa != AdiTa,jaGasiTa (pysan)
+     2d (huet) AdaTur != AdaTuH,jakzaTuH (pysan)
+     2p (huet) Ada != Ada,jakza (pysan)
+     1s (huet) Ada != Ada,jaGAsa,jaGasa (pysan)
+     1d (huet) Adiva != Adiva,jakziva (pysan)
+     1p (huet) Adima != Adima,jakzima (pysan)
+an prf P: identical
+am prf P: identical
+ard prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) anarda != Anarda (pysan)
+     3d (huet) anardatur != AnardatuH (pysan)
+     3p (huet) anardur != AnarduH (pysan)
+     2s (huet) anardiTa != AnardiTa (pysan)
+     2d (huet) anardaTur != AnardaTuH (pysan)
+     2p (huet) anarda != Anarda (pysan)
+     1s (huet) anarda != Anarda (pysan)
+     1d (huet) anardiva != Anardiva (pysan)
+     1p (huet) anardima != Anardima (pysan)
+arh prf A: identical
+arh prf P: identical
+av prf P: identical
+aS prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) AnaSize != AnaSize,Anakze (pysan)
+     2p (huet) AnaSiDve != AnaNQve,AnaSiDve (pysan)
+     1d (huet) AnaSivahe != AnaSivahe,AnaSvahe (pysan)
+     1p (huet) AnaSimahe != AnaSimahe,AnaSmahe (pysan)
+aS prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ASa != AnASa (pysan)
+     3d (huet) ASatur != AnaSatuH (pysan)
+     3p (huet) ASur != AnaSuH (pysan)
+     2s (huet) ASiTa != AnaSiTa,AnazWa (pysan)
+     2d (huet) ASaTur != AnaSaTuH (pysan)
+     2p (huet) ASa != AnaSa (pysan)
+     1s (huet) ASa != AnASa,AnaSa (pysan)
+     1d (huet) ASiva != AnaSiva,AnaSva (pysan)
+     1p (huet) ASima != AnaSima,AnaSma (pysan)
+as prf P: identical
+ah prf P: identical
+Ap prf P: identical
+As prf A: pysan NOT FOUND
+i prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Iye != iyaye (pysan)
+     3d (huet) IyAte != iyayAte (pysan)
+     3p (huet) Iyire != iyayire (pysan)
+     2s (huet) Iyse != iyayize (pysan)
+     2d (huet) IyATe != iyayATe (pysan)
+     2p (huet) IyDve != iyayiDve (pysan)
+     1s (huet) Iye != iyaye (pysan)
+     1d (huet) Iyvahe != iyayivahe (pysan)
+     1p (huet) Iymahe != iyayimahe (pysan)
+i prf P: conjugation differences @ 1d,1p 
+     1d (huet) Iyva != Iyiva (pysan)
+     1p (huet) Iyma != Iyima (pysan)
+iNg prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) IyNgatur != INgatuH (pysan)
+     3p (huet) IyNgur != INguH (pysan)
+     2d (huet) IyNgaTur != INgaTuH (pysan)
+     2p (huet) IyNga != INga (pysan)
+     1d (huet) IyNgiva != INgiva (pysan)
+     1p (huet) IyNgima != INgima (pysan)
+in prf P: pysan NOT FOUND
+il prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) Iylatur != IlatuH (pysan)
+     3p (huet) Iylur != IluH (pysan)
+     2d (huet) IylaTur != IlaTuH (pysan)
+     2p (huet) Iyla != Ila (pysan)
+     1d (huet) Iyliva != Iliva (pysan)
+     1p (huet) Iylima != Ilima (pysan)
+iz prf A: identical
+iz prf P: identical
+Ikz prf A: pysan NOT FOUND
+INK prf A: pysan NOT FOUND
+INK prf P: pysan NOT FOUND
+Iq prf A: pysan NOT FOUND
+Ir prf A: pysan NOT FOUND
+Irz prf P: pysan NOT FOUND
+IS prf A: pysan NOT FOUND
+Iz prf A: pysan NOT FOUND
+Ih prf A: pysan NOT FOUND
+ukz prf P: identical
+uc prf P: identical
+ujJ prf P: identical
+uYC prf P: identical
+utkaRW prf A: pysan NOT FOUND
+utkaRW prf P: pysan NOT FOUND
+und prf P: identical
+umB prf P: pysan NOT FOUND
+uruz prf A: pysan NOT FOUND
+uruz prf P: pysan NOT FOUND
+uz prf P: identical
+Uh prf A: pysan NOT FOUND
+Uh prf P: pysan NOT FOUND
+f prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) are != Are (pysan)
+     3d (huet) arAte != ArAte (pysan)
+     3p (huet) arire != Arire (pysan)
+     2s (huet) arize != Arize (pysan)
+     2d (huet) arATe != ArATe (pysan)
+     2p (huet) ariDve != AriDve (pysan)
+     1s (huet) are != Are (pysan)
+     1d (huet) arivahe != Arivahe (pysan)
+     1p (huet) arimahe != Arimahe (pysan)
+f prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ara != Ara (pysan)
+     3d (huet) aratur != AratuH (pysan)
+     3p (huet) arur != AruH (pysan)
+     2s (huet) ariTa != AriTa (pysan)
+     2d (huet) araTur != AraTuH (pysan)
+     2p (huet) ara != Ara (pysan)
+     1s (huet) ara != Ara (pysan)
+     1d (huet) ariva != Ariva (pysan)
+     1p (huet) arima != Arima (pysan)
+fc prf P: identical
+fj prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) fje != Anfje (pysan)
+     3d (huet) fjAte != AnfjAte (pysan)
+     3p (huet) fjire != Anfjire (pysan)
+     2s (huet) fjize != Anfjize (pysan)
+     2d (huet) fjATe != AnfjATe (pysan)
+     2p (huet) fjiDve != AnfjiDve (pysan)
+     1s (huet) fje != Anfje (pysan)
+     1d (huet) fjivahe != Anfjivahe (pysan)
+     1p (huet) fjimahe != Anfjimahe (pysan)
+fj prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) arja != Anarja (pysan)
+     3d (huet) fjatur != AnfjatuH (pysan)
+     3p (huet) fjur != AnfjuH (pysan)
+     2s (huet) arjiTa != AnarjiTa (pysan)
+     2d (huet) fjaTur != AnfjaTuH (pysan)
+     2p (huet) fja != Anfja (pysan)
+     1s (huet) arja != Anarja (pysan)
+     1d (huet) fjiva != Anfjiva (pysan)
+     1p (huet) fjima != Anfjima (pysan)
+fD prf P: identical
+fz prf P: identical
+ej prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) eja != ayeja (pysan)
+     3d (huet) ejatur != ayejatuH (pysan)
+     3p (huet) ejur != ayejuH (pysan)
+     2s (huet) ejiTa != ayejiTa (pysan)
+     2d (huet) ejaTur != ayejaTuH (pysan)
+     2p (huet) eja != ayeja (pysan)
+     1s (huet) eja != ayeja (pysan)
+     1d (huet) ejiva != ayejiva (pysan)
+     1p (huet) ejima != ayejima (pysan)
+eD prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) eDe != ayeDe (pysan)
+     3d (huet) eDAte != ayeDAte (pysan)
+     3p (huet) eDire != ayeDire (pysan)
+     2s (huet) eDize != ayeDize (pysan)
+     2d (huet) eDATe != ayeDATe (pysan)
+     2p (huet) eDiDve != ayeDiDve (pysan)
+     1s (huet) eDe != ayeDe (pysan)
+     1d (huet) eDivahe != ayeDivahe (pysan)
+     1p (huet) eDimahe != ayeDimahe (pysan)
+katT prf A: identical
+kan prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cAkAna != cakAna (pysan)
+     3d (huet) cAkanatur != cakanatuH (pysan)
+     3p (huet) cAkanur != cakanuH (pysan)
+     2s (huet) cAkaniTa != cakaniTa (pysan)
+     2d (huet) cAkanaTur != cakanaTuH (pysan)
+     2p (huet) cAkana != cakana (pysan)
+     1s (huet) cAkAna,cAkana != cakAna,cakana (pysan)
+     1d (huet) cAkaniva != cakaniva (pysan)
+     1p (huet) cAkanima != cakanima (pysan)
+kam prf A: identical
+kamp prf A: identical
+kaz prf P: identical
+kas prf P: identical
+kANkz prf A: identical
+kANkz prf P: identical
+kAS prf A: identical
+kIl prf P: identical
+kuc prf A: identical
+kuc prf P: conjugation differences @ 2s,1s 
+     2s (huet) cukociTa != cukuciTa (pysan)
+     1s (huet) cukoca != cukoca,cukuca (pysan)
+kuw prf P: conjugation differences @ 2s,1s 
+     2s (huet) cukowiTa != cukuwiTa (pysan)
+     1s (huet) cukowa != cukowa,cukuwa (pysan)
+kuRW prf A: identical
+kuRW prf P: identical
+kuRq prf A: identical
+kuRq prf P: identical
+kuts prf A: pysan NOT FOUND
+kuts prf P: pysan NOT FOUND
+kunT prf P: identical
+kup prf P: identical
+kul prf P: identical
+kU prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) cukuze != cukuvize (pysan)
+     2p (huet) cukuDve != cukuviDve (pysan)
+     1d (huet) cukuvahe != cukuvivahe (pysan)
+     1p (huet) cukumahe != cukuvimahe (pysan)
+kUj prf P: identical
+kf prf A: conjugation differences @ 2p 
+     2p (huet) cakfDve != cakfQve (pysan)
+kf prf P: identical
+kft prf P: identical
+kfp prf A: identical
+kfS prf P: identical
+kfz prf A: identical
+kfz prf P: identical
+kF prf A: identical
+kF prf P: identical
+kxp prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) cakxpize != cakxpize,cakxpse (pysan)
+     2p (huet) cakxpiDve != cakxpDve,cakxpiDve (pysan)
+     1d (huet) cakxpivahe != cakxpivahe,cakxpvahe (pysan)
+     1p (huet) cakxpimahe != cakxpimahe,cakxpmahe (pysan)
+krand prf P: identical
+kram prf A: identical
+kram prf P: identical
+krI prf A: identical
+krI prf P: identical
+krIq prf P: identical
+kruYc prf P: identical
+kruD prf P: identical
+kruS prf P: identical
+klam prf P: identical
+klav prf A: identical
+klid prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) ciklediTa != ciklediTa,cikletTa (pysan)
+     1d (huet) ciklidiva != ciklidiva,ciklidva (pysan)
+     1p (huet) ciklidima != ciklidima,ciklidma (pysan)
+kliS prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) cikleSiTa != cikleSiTa,ciklezWa (pysan)
+     1d (huet) cikliSiva != cikliSiva,cikliSva (pysan)
+     1p (huet) cikliSima != cikliSima,cikliSma (pysan)
+klIba prf A: pysan NOT FOUND
+klIba prf P: pysan NOT FOUND
+kvaT prf P: identical
+kzad prf A: identical
+kzan prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cakzane != cakzaRe (pysan)
+     3d (huet) cakzanAte != cakzaRAte (pysan)
+     3p (huet) cakzanire != cakzaRire (pysan)
+     2s (huet) cakzanize != cakzaRize (pysan)
+     2d (huet) cakzanATe != cakzaRATe (pysan)
+     2p (huet) cakzaniDve != cakzaRiDve (pysan)
+     1s (huet) cakzane != cakzaRe (pysan)
+     1d (huet) cakzanivahe != cakzaRivahe (pysan)
+     1p (huet) cakzanimahe != cakzaRimahe (pysan)
+kzan prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cakzAna != cakzARa (pysan)
+     3d (huet) cakzanatur != cakzaRatuH (pysan)
+     3p (huet) cakzanur != cakzaRuH (pysan)
+     2s (huet) cakzaniTa != cakzaRiTa (pysan)
+     2d (huet) cakzanaTur != cakzaRaTuH (pysan)
+     2p (huet) cakzana != cakzaRa (pysan)
+     1s (huet) cakzAna,cakzana != cakzARa,cakzaRa (pysan)
+     1d (huet) cakzaniva != cakzaRiva (pysan)
+     1p (huet) cakzanima != cakzaRima (pysan)
+kzap prf A: identical
+kzap prf P: identical
+kzam prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) cakzamize != cakzaMse,cakzamize (pysan)
+     2p (huet) cakzamiDve != cakzaMDve,cakzamiDve (pysan)
+     1d (huet) cakzamivahe != cakzaRvahe,cakzamivahe (pysan)
+     1p (huet) cakzamimahe != cakzaRmahe,cakzamimahe (pysan)
+kzar prf P: identical
+kzi prf P: identical
+kzip prf A: identical
+kzip prf P: identical
+kzI prf P: pysan NOT FOUND
+kzu prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) cukzaviTa,cukzoTa != cukzaviTa (pysan)
+     1d (huet) cukzuva != cukzuviva (pysan)
+     1p (huet) cukzuma != cukzuvima (pysan)
+kzud prf A: identical
+kzud prf P: identical
+kzuD prf P: identical
+kzuB prf P: identical
+kzviq prf P: identical
+KaRq prf A: identical
+KaRq prf P: identical
+Kan prf A: identical
+Kan prf P: identical
+KAd prf P: identical
+Kid prf P: identical
+Kel prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) caKela != ciKela (pysan)
+     3d (huet) caKelatur != ciKelatuH (pysan)
+     3p (huet) caKelur != ciKeluH (pysan)
+     2s (huet) caKeliTa != ciKeliTa (pysan)
+     2d (huet) caKelaTur != ciKelaTuH (pysan)
+     2p (huet) caKela != ciKela (pysan)
+     1s (huet) caKela != ciKela (pysan)
+     1d (huet) caKeliva != ciKeliva (pysan)
+     1p (huet) caKelima != ciKelima (pysan)
+KyA prf P: identical
+gaj prf P: identical
+gad prf P: identical
+gam prf A: identical
+gam prf P: identical
+garj prf P: identical
+gard prf P: identical
+garh prf A: identical
+garh prf P: identical
+gal prf P: identical
+galB prf A: identical
+gavez prf A: pysan NOT FOUND
+gavez prf P: pysan NOT FOUND
+gA prf P: identical
+gAh prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) jagAhize != jaGAkze,jagAhize (pysan)
+     2p (huet) jagAhiDve != jaGAQve,jagAhiDve,jagAhiQve (pysan)
+     1d (huet) jagAhivahe != jagAhivahe,jagAhvahe (pysan)
+     1p (huet) jagAhimahe != jagAhimahe,jagAhmahe (pysan)
+guYj prf P: identical
+gumP prf P: identical
+gur prf A: identical
+guh prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jugUhe,juguhe != juguhe (pysan)
+     3d (huet) jugUhAte != juguhAte (pysan)
+     3p (huet) jugUhire != juguhire (pysan)
+     2s (huet) jugUhize != juGukze,juguhize (pysan)
+     2d (huet) jugUhATe != juguhATe (pysan)
+     2p (huet) jugUhiDve != juGUQve,juguhiDve,juguhiQve (pysan)
+     1s (huet) jugUhe,juguhe != juguhe (pysan)
+     1d (huet) jugUhivahe != juguhivahe,juguhvahe (pysan)
+     1p (huet) jugUhimahe != juguhimahe,juguhmahe (pysan)
+guh prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) jugUhatur != juguhatuH (pysan)
+     3p (huet) jugUhur != juguhuH (pysan)
+     2s (huet) jugUhiTa != jugUhiTa,jugoQa (pysan)
+     2d (huet) jugUhaTur != juguhaTuH (pysan)
+     2p (huet) jugUha != juguha (pysan)
+     1d (huet) jugUhiva != juguhiva,juguhva (pysan)
+     1p (huet) jugUhima != juguhima,juguhma (pysan)
+gfD prf P: identical
+gF prf P: identical
+granT prf P: pysan NOT FOUND
+gras prf A: identical
+gras prf P: identical
+grah prf A: identical
+grah prf P: identical
+glE prf P: identical
+Gaw prf A: identical
+Gaww prf A: identical
+Gaww prf P: identical
+Gas prf P: identical
+Guz prf P: identical
+GUrR prf A: identical
+GUrR prf P: identical
+Gf prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) jaGarTa,jaGariTa != jaGarTa (pysan)
+     1d (huet) jaGfva != jaGriva (pysan)
+     1p (huet) jaGfma != jaGrima (pysan)
+Gfz prf P: identical
+GrA prf P: identical
+cakz prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacakze != caKye,cacakze,cakze (pysan)
+     3d (huet) cacakzAte != caKyAte,cacakzAte,cakzAte (pysan)
+     3p (huet) cacakzire != caKyire,cacakzire,cakzire (pysan)
+     2s (huet) cacakzize != caKyize,cacakzize,cakzize (pysan)
+     2d (huet) cacakzATe != caKyATe,cacakzATe,cakzATe (pysan)
+     2p (huet) cacakziDve != caKyiDve,cacakziDve,cakziDve (pysan)
+     1s (huet) cacakze != caKye,cacakze,cakze (pysan)
+     1d (huet) cacakzivahe != caKyivahe,cacakzivahe,cakzivahe (pysan)
+     1p (huet) cacakzimahe != caKyimahe,cacakzimahe,cakzimahe (pysan)
+cakz prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacakza != caKyO,cakzO (pysan)
+     3d (huet) cacakzatur != caKyatuH,cakzatuH (pysan)
+     3p (huet) cacakzur != caKyuH,cakzuH (pysan)
+     2s (huet) cacakziTa != caKyATa,caKyiTa,cakzATa,cakziTa (pysan)
+     2d (huet) cacakzaTur != caKyaTuH,cakzaTuH (pysan)
+     2p (huet) cacakza != caKya,cakza (pysan)
+     1s (huet) cacakza != caKyO,cakzO (pysan)
+     1d (huet) cacakziva != caKyiva,cakziva (pysan)
+     1p (huet) cacakzima != caKyima,cakzima (pysan)
+caYc prf A: identical
+caYc prf P: identical
+caw prf P: identical
+cat prf A: identical
+cat prf P: identical
+cand prf P: identical
+cam prf P: identical
+car prf P: identical
+cal prf P: identical
+ci prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cikye != cicAya,cikye (pysan)
+     3d (huet) cikyAte != cicyatuH,cikyAte (pysan)
+     3p (huet) cikyire != cicyuH,cikyire (pysan)
+     2s (huet) cikyize != cicayiTa,ciceTa,cikyize (pysan)
+     2d (huet) cikyATe != cicyaTuH,cikyATe (pysan)
+     2p (huet) cikyiDve != cicya,cikyiDve (pysan)
+     1s (huet) cikye != cicAya,cicaya,cikye (pysan)
+     1d (huet) cikyivahe != cicyiva,cikyivahe (pysan)
+     1p (huet) cikyimahe != cicyima,cikyimahe (pysan)
+ci prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cikAya != cicAya,cikAya (pysan)
+     3d (huet) cikyatur != cicyatuH,cikyatuH (pysan)
+     3p (huet) cikyur != cicyuH,cikyuH (pysan)
+     2s (huet) cikayiTa,cikeTa != cicayiTa,ciceTa,cikayiTa,cikeTa (pysan)
+     2d (huet) cikyaTur != cicyaTuH,cikyaTuH (pysan)
+     2p (huet) cikya != cicya,cikya (pysan)
+     1s (huet) cikAya,cikaya != cicAya,cicaya,cikAya,cikaya (pysan)
+     1d (huet) cikyiva != cicyiva,cikyiva (pysan)
+     1p (huet) cikyima != cicyima,cikyima (pysan)
+cit prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ciketa != ciceta (pysan)
+     3d (huet) cikitatur != cicitatuH (pysan)
+     3p (huet) cikitur != cicituH (pysan)
+     2s (huet) ciketiTa != cicetiTa (pysan)
+     2d (huet) cikitaTur != cicitaTuH (pysan)
+     2p (huet) cikita != cicita (pysan)
+     1s (huet) ciketa != ciceta (pysan)
+     1d (huet) cikitiva != cicitiva (pysan)
+     1p (huet) cikitima != cicitima (pysan)
+cud prf A: identical
+cud prf P: identical
+cumb prf P: identical
+cur prf A: pysan NOT FOUND
+cur prf P: pysan NOT FOUND
+cUz prf A: identical
+cUz prf P: identical
+cezw prf A: identical
+cezw prf P: identical
+cyu prf A: pysan NOT FOUND
+Cad prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacCade != caCade (pysan)
+     3d (huet) cacCadAte != caCadAte (pysan)
+     3p (huet) cacCadire != caCadire (pysan)
+     2s (huet) cacCadize != caCadize (pysan)
+     2d (huet) cacCadATe != caCadATe (pysan)
+     2p (huet) cacCadiDve != caCadiDve (pysan)
+     1s (huet) cacCade != caCade (pysan)
+     1d (huet) cacCadivahe != caCadivahe (pysan)
+     1p (huet) cacCadimahe != caCadimahe (pysan)
+Cad prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cacCAda != caCAda (pysan)
+     3d (huet) cacCadatur != caCadatuH (pysan)
+     3p (huet) cacCadur != caCaduH (pysan)
+     2s (huet) cacCadiTa != caCadiTa (pysan)
+     2d (huet) cacCadaTur != caCadaTuH (pysan)
+     2p (huet) cacCada != caCada (pysan)
+     1s (huet) cacCAda,cacCada != caCAda,caCada (pysan)
+     1d (huet) cacCadiva != caCadiva (pysan)
+     1p (huet) cacCadima != caCadima (pysan)
+Cand prf A: pysan NOT FOUND
+Cand prf P: pysan NOT FOUND
+Cid prf A: identical
+Cid prf P: identical
+jakz prf P: identical
+jan prf A: identical
+jan prf P: conjugation differences @ 2s 
+     2s (huet) jajYiTa,jajanTa != jajaniTa (pysan)
+jap prf P: identical
+jaB prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jeBe != jajamBe (pysan)
+     3d (huet) jeBAte != jajamBAte (pysan)
+     3p (huet) jeBire != jajamBire (pysan)
+     2s (huet) jeBize != jajamBize,jajamPse (pysan)
+     2d (huet) jeBATe != jajamBATe (pysan)
+     2p (huet) jeBiDve != jajamBDve,jajamBiDve (pysan)
+     1s (huet) jeBe != jajamBe (pysan)
+     1d (huet) jeBivahe != jajamBivahe,jajamBvahe (pysan)
+     1p (huet) jeBimahe != jajamBimahe,jajamBmahe (pysan)
+jaB prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jajABa != jajamBa (pysan)
+     3d (huet) jeBatur != jajamBatuH (pysan)
+     3p (huet) jeBur != jajamBuH (pysan)
+     2s (huet) jajabDa,jeBiTa != ((jajambDa (pysan)
+     2d (huet) jeBaTur != jajamPTa) (pysan)
+     2p (huet) jeBa != jajamBiTa) (pysan)
+     1s (huet) jajABa,jajaBa != jajamBaTuH (pysan)
+     1d (huet) jeBiva != jajamBa (pysan)
+     1p (huet) jeBima != jajamBa (pysan)
+jam prf P: identical
+jalp prf P: identical
+jas prf P: identical
+jAgf prf P: conjugation differences @ 2s,1s 
+     2s (huet) jajAgriTa != jajAgariTa (pysan)
+     1s (huet) jajAgAra,jajAgra != jajAgAra,jajAgara (pysan)
+ji prf A: identical
+ji prf P: identical
+jinv prf P: identical
+jIv prf P: identical
+juz prf A: identical
+jU prf A: pysan NOT FOUND
+jU prf P: pysan NOT FOUND
+jfmB prf A: identical
+jF prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jajare != jajare,jere (pysan)
+     3d (huet) jajarAte != jajarAte,jerAte (pysan)
+     3p (huet) jajarire != jajarire,jerire (pysan)
+     2s (huet) jajarize != jajarize,jerize (pysan)
+     2d (huet) jajarATe != jajarATe,jerATe (pysan)
+     2p (huet) jajariDve != jajariDve,jeriDve (pysan)
+     1s (huet) jajare != jajare,jere (pysan)
+     1d (huet) jajarivahe != jajarivahe,jerivahe (pysan)
+     1p (huet) jajarimahe != jajarimahe,jerimahe (pysan)
+jF prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) jajaratur != jajaratuH,jeratuH (pysan)
+     3p (huet) jajarur != jajaruH,jeruH (pysan)
+     2s (huet) jajariTa != jajariTa,jeriTa (pysan)
+     2d (huet) jajaraTur != jajaraTuH,jeraTuH (pysan)
+     2p (huet) jajara != jajara,jera (pysan)
+     1d (huet) jajariva != jajariva,jeriva (pysan)
+     1p (huet) jajarima != jajarima,jerima (pysan)
+jYA prf A: identical
+jYA prf P: identical
+jyA prf P: identical
+jyut prf A: identical
+jyut prf P: identical
+jvar prf P: pysan NOT FOUND
+jval prf P: identical
+qI prf A: identical
+tak prf P: identical
+takz prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) tatakziTa != tatakziTa,tatazWa (pysan)
+     1d (huet) tatakziva != tatakziva,tatakzva (pysan)
+     1p (huet) tatakzima != tatakzima,tatakzma (pysan)
+taYc prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) tataYcize != tataYcize,tataYcse (pysan)
+     2p (huet) tataYciDve != tataYciDve,tataYjJve (pysan)
+     1d (huet) tataYcivahe != tataYcivahe,tataYcvahe (pysan)
+     1p (huet) tataYcimahe != tataYcimahe,tataYcmahe (pysan)
+taYc prf P: conjugation differences @ 2d,1d,1p 
+     2d (huet) tataYcaTur != tataNkTuH,tataYcaTuH (pysan)
+     1d (huet) tataYciva != tataYciva,tataYcva (pysan)
+     1p (huet) tataYcima != tataYcima,tataYcma (pysan)
+tan prf A: identical
+tan prf P: identical
+tap prf A: identical
+tap prf P: identical
+tam prf P: identical
+tarj prf P: identical
+tij prf A: identical
+tud prf A: identical
+tud prf P: identical
+tup prf P: identical
+tuz prf P: identical
+tfd prf A: identical
+tfd prf P: identical
+tfp prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) tatarpiTa != tatarpTa,tatarpiTa,tatrapTa (pysan)
+     1d (huet) tatfpiva != tatfpiva,tatfpva (pysan)
+     1p (huet) tatfpima != tatfpima,tatfpma (pysan)
+tfz prf P: identical
+tF prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) tataratur != teratuH (pysan)
+     3p (huet) tatarur != teruH (pysan)
+     2s (huet) tatariTa != teriTa (pysan)
+     2d (huet) tataraTur != teraTuH (pysan)
+     2p (huet) tatara != tera (pysan)
+     1d (huet) tatariva != teriva (pysan)
+     1p (huet) tatarima != terima (pysan)
+tyaj prf P: conjugation differences @ 2s 
+     2s (huet) tatyajiTa != tatyajiTa,tatyakTa (pysan)
+trap prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tatrape != trepe (pysan)
+     3d (huet) tatrapAte != trepAte (pysan)
+     3p (huet) tatrapire != trepire (pysan)
+     2s (huet) tatrapize != trepize,trepse (pysan)
+     2d (huet) tatrapATe != trepATe (pysan)
+     2p (huet) tatrapiDve != trebDve,trepiDve (pysan)
+     1s (huet) tatrape != trepe (pysan)
+     1d (huet) tatrapivahe != trepivahe,trepvahe (pysan)
+     1p (huet) tatrapimahe != trepimahe,trepmahe (pysan)
+tras prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) tatrasatur != tatrasatuH,tresatuH (pysan)
+     3p (huet) tatrasur != tatrasuH,tresuH (pysan)
+     2s (huet) tatrasiTa != tatrasiTa,tresiTa (pysan)
+     2d (huet) tatrasaTur != tatrasaTuH,tresaTuH (pysan)
+     2p (huet) tatrasa != tatrasa,tresa (pysan)
+     1d (huet) tatrasiva != tatrasiva,tresiva (pysan)
+     1p (huet) tatrasima != tatrasima,tresima (pysan)
+truw prf P: conjugation differences @ 2s,1s 
+     2s (huet) tutrowiTa != tutruwiTa (pysan)
+     1s (huet) tutrowa != tutrowa,tutruwa (pysan)
+trE prf A: identical
+tvakz prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) tatvakziTa != tatvakziTa,tatvazWa (pysan)
+     1d (huet) tatvakziva != tatvakziva,tatvakzva (pysan)
+     1p (huet) tatvakzima != tatvakzima,tatvakzma (pysan)
+tvar prf A: identical
+tviz prf A: identical
+tviz prf P: identical
+tsar prf P: identical
+daMS prf P: conjugation differences @ 2s 
+     2s (huet) dadaMSiTa != dadaMSiTa,dadaMzWa (pysan)
+dakz prf A: identical
+daG prf P: conjugation differences @ 2s,2d,2p,1s,1d,1p 
+     2s (huet) dadagDa,deGiTa != ((dadagDa (pysan)
+     2d (huet) deGaTur != dadaKTa) (pysan)
+     2p (huet) deGa != deGiTa) (pysan)
+     1s (huet) dadAGa,dadaGa != deGaTuH (pysan)
+     1d (huet) deGiva != deGa (pysan)
+     1p (huet) deGima != dadAGa,dadaGa (pysan)
+daB prf P: conjugation differences @ 3s,2s,1s 
+     3s (huet) dadABa != deBa (pysan)
+     2s (huet) dadabDa,deBiTa != deBiTa (pysan)
+     1s (huet) dadABa,dadaBa != deBa (pysan)
+dam prf P: identical
+day prf A: pysan NOT FOUND
+dal prf P: identical
+das prf P: identical
+dah prf P: identical
+dA prf A: identical
+dA prf P: identical
+dAS prf A: identical
+dAS prf P: identical
+diS prf A: identical
+diS prf P: identical
+dih prf A: identical
+dih prf P: identical
+dIkz prf A: identical
+dIp prf A: identical
+dIv prf P: pysan NOT FOUND
+du prf P: conjugation differences @ 2s,1s,1d,1p 
+     2s (huet) dudaviTa,dudoTa != duduTa,duduviTa (pysan)
+     1s (huet) dudAva,dudava != dudAva,duduva (pysan)
+     1d (huet) duduva != duduviva (pysan)
+     1p (huet) duduma != duduvima (pysan)
+duz prf P: identical
+duh prf A: identical
+duh prf P: identical
+dfp prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) dadarpiTa != dadarpTa,dadarpiTa,dadrapTa (pysan)
+     1d (huet) dadfpiva != dadfpiva,dadfpva (pysan)
+     1p (huet) dadfpima != dadfpima,dadfpma (pysan)
+dfB prf P: identical
+dfS prf P: conjugation differences @ 2s 
+     2s (huet) dadarSiTa != dadarSiTa,dadrazWa (pysan)
+dfh prf P: identical
+dF prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) dadaratur != dadaratuH,dadratuH (pysan)
+     3p (huet) dadarur != dadaruH,dadruH (pysan)
+     2d (huet) dadaraTur != dadaraTuH,dadraTuH (pysan)
+     2p (huet) dadara != dadara,dadra (pysan)
+     1d (huet) dadariva != dadariva,dadriva (pysan)
+     1p (huet) dadarima != dadarima,dadrima (pysan)
+dev prf A: identical
+dev prf P: identical
+dyut prf A: identical
+dyut prf P: identical
+drA prf A: identical
+drA prf P: identical
+dru prf P: identical
+druh prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) dudrohiTa != dudroQa,dudrogDa,dudrohiTa (pysan)
+     1d (huet) dudruhiva != dudruhiva,dudruhva (pysan)
+     1p (huet) dudruhima != dudruhima,dudruhma (pysan)
+dviz prf A: identical
+dviz prf P: identical
+Dam prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) daDmO != daDAma (pysan)
+     3d (huet) daDmatur != daDamatuH (pysan)
+     3p (huet) daDmur != daDamuH (pysan)
+     2s (huet) daDmATa,daDmiTa != daDamiTa (pysan)
+     2d (huet) daDmaTur != daDamaTuH (pysan)
+     2p (huet) daDma != daDama (pysan)
+     1s (huet) daDmO != daDAma,daDama (pysan)
+     1d (huet) daDmiva != daDamiva (pysan)
+     1p (huet) daDmima != daDamima (pysan)
+DA prf A: identical
+DA prf P: identical
+DAv prf A: identical
+DAv prf P: identical
+DI prf A: identical
+Dukz prf A: identical
+DU prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) duDuze != duDuvize (pysan)
+     2p (huet) duDuDve != duDuviDve (pysan)
+     1d (huet) duDuvahe != duDuvivahe (pysan)
+     1p (huet) duDumahe != duDuvimahe (pysan)
+DU prf P: conjugation differences @ 1d,1p 
+     1d (huet) duDuva != duDuviva (pysan)
+     1p (huet) duDuma != duDuvima (pysan)
+Df prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) daDfze != daDrize (pysan)
+     2p (huet) daDfDve != daDriDve (pysan)
+     1d (huet) daDfvahe != daDrivahe (pysan)
+     1p (huet) daDfmahe != daDrimahe (pysan)
+Df prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) daDarTa,daDariTa != daDariTa (pysan)
+     1d (huet) daDfva != daDriva (pysan)
+     1p (huet) daDfma != daDrima (pysan)
+Dfz prf A: identical
+Dfz prf P: identical
+DyA prf P: pysan NOT FOUND
+Dru prf P: conjugation differences @ 1d,1p 
+     1d (huet) duDruva != duDruviva (pysan)
+     1p (huet) duDruma != duDruvima (pysan)
+DvaMs prf A: identical
+DvaMs prf P: identical
+Dvan prf P: identical
+DvANkz prf A: identical
+DvANkz prf P: identical
+Dvf prf P: conjugation differences @ 2s 
+     2s (huet) daDvariTa != daDvarTa (pysan)
+nakz prf A: identical
+nakz prf P: identical
+naw prf P: identical
+nad prf P: identical
+nand prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nanAda != nananda (pysan)
+     3d (huet) nedatur != nanandatuH (pysan)
+     3p (huet) nedur,niniduH != nananduH (pysan)
+     2s (huet) nanatTa,nediTa != nanandiTa (pysan)
+     2d (huet) nedaTur != nanandaTuH (pysan)
+     2p (huet) neda != nananda (pysan)
+     1s (huet) nanAda,nanada != nananda (pysan)
+     1d (huet) nediva != nanandiva (pysan)
+     1p (huet) nedima,nindimaH != nanandima (pysan)
+nam prf A: identical
+nam prf P: identical
+nard prf P: identical
+naS prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) nanazWa,neSiTa != nanaMzWa,neSiTa (pysan)
+     1d (huet) neSiva != neSiva,neSva (pysan)
+     1p (huet) neSima != neSima,neSma (pysan)
+nah prf A: identical
+nah prf P: identical
+nAT prf A: identical
+nAT prf P: identical
+nij prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) niniYje != ninije (pysan)
+     3d (huet) niniYjAte != ninijAte (pysan)
+     3p (huet) niniYjire != ninijire (pysan)
+     2s (huet) niniYjize != ninijize (pysan)
+     2d (huet) niniYjATe != ninijATe (pysan)
+     2p (huet) niniYjiDve != ninijiDve (pysan)
+     1s (huet) niniYje != ninije (pysan)
+     1d (huet) niniYjivahe != ninijivahe (pysan)
+     1p (huet) niniYjimahe != ninijimahe (pysan)
+nij prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) niniYja != nineja (pysan)
+     3d (huet) niniYjatur != ninijatuH (pysan)
+     3p (huet) niniYjur != ninijuH (pysan)
+     2s (huet) niniYjiTa != ninejiTa (pysan)
+     2d (huet) niniYjaTur != ninijaTuH (pysan)
+     2p (huet) niniYja != ninija (pysan)
+     1s (huet) niniYja != nineja (pysan)
+     1d (huet) niniYjiva != ninijiva (pysan)
+     1p (huet) niniYjima != ninijima (pysan)
+nind prf P: identical
+nI prf A: identical
+nI prf P: identical
+nu prf P: conjugation differences @ 2s,1s,1d,1p 
+     2s (huet) nunaviTa,nunoTa != nunuviTa (pysan)
+     1s (huet) nunAva,nunava != nunAva,nunuva (pysan)
+     1d (huet) nunuva != nunuviva (pysan)
+     1p (huet) nunuma != nunuvima (pysan)
+nud prf A: identical
+nud prf P: identical
+nft prf P: identical
+pac prf A: identical
+pac prf P: identical
+paw prf P: identical
+paW prf A: identical
+paW prf P: conjugation differences @ 2s 
+     2s (huet) papawWa,peWiTa != papaWWa,peWiTa (pysan)
+paR prf A: identical
+pat prf A: identical
+pat prf P: identical
+paT prf P: conjugation differences @ 2s 
+     2s (huet) papatTa,peTiTa != papaTTa,peTiTa (pysan)
+pad prf A: identical
+palAy prf A: pysan NOT FOUND
+palAy prf P: pysan NOT FOUND
+pA prf P: identical
+pi prf P: identical
+piYj prf A: identical
+piS prf P: identical
+piz prf P: identical
+puT prf A: identical
+puT prf P: identical
+puz prf A: identical
+puz prf P: identical
+pU prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) pupuze != pupuvize (pysan)
+     2p (huet) pupuDve != pupuviDve (pysan)
+     1d (huet) pupuvahe != pupuvivahe (pysan)
+     1p (huet) pupumahe != pupuvimahe (pysan)
+pU prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) pupaviTa,pupoTa != pupaviTa (pysan)
+     1d (huet) pupuva != pupuviva (pysan)
+     1p (huet) pupuma != pupuvima (pysan)
+pUy prf A: identical
+pUy prf P: identical
+pUla prf A: pysan NOT FOUND
+pUla prf P: pysan NOT FOUND
+pf prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) paparTa,papariTa != paparTa (pysan)
+     1d (huet) papfva != papriva (pysan)
+     1p (huet) papfma != paprima (pysan)
+pfc prf A: identical
+pfc prf P: identical
+pfz prf P: identical
+pF prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) paparatur != paparatuH,papratuH (pysan)
+     3p (huet) paparur != paparuH,papruH (pysan)
+     2d (huet) paparaTur != paparaTuH,papraTuH (pysan)
+     2p (huet) papara != papara,papra (pysan)
+     1d (huet) papariva != papariva,papriva (pysan)
+     1p (huet) paparima != paparima,paprima (pysan)
+pyA prf A: pysan NOT FOUND
+praT prf A: identical
+praS prf A: pysan NOT FOUND
+praS prf P: pysan NOT FOUND
+prA prf P: identical
+prI prf A: identical
+prI prf P: conjugation differences @ 2s 
+     2s (huet) piprayiTa,pipreTa != piprayiTa (pysan)
+pru prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) pupruze != pupruvize (pysan)
+     2p (huet) pupruDve != pupruviDve (pysan)
+     1d (huet) pupruvahe != pupruvivahe (pysan)
+     1p (huet) puprumahe != pupruvimahe (pysan)
+plu prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) pupluze != pupluvize (pysan)
+     2p (huet) pupluDve != pupluviDve (pysan)
+     1d (huet) pupluvahe != pupluvivahe (pysan)
+     1p (huet) puplumahe != pupluvimahe (pysan)
+pluz prf A: identical
+pluz prf P: identical
+Pal prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) paPalatur != PelatuH (pysan)
+     3p (huet) paPalur != PeluH (pysan)
+     2s (huet) paPaliTa != PeliTa (pysan)
+     2d (huet) paPalaTur != PelaTuH (pysan)
+     2p (huet) paPala != Pela (pysan)
+     1d (huet) paPaliva != Peliva (pysan)
+     1p (huet) paPalima != Pelima (pysan)
+Pull prf A: identical
+Pull prf P: identical
+baMh prf A: identical
+banD prf A: identical
+banD prf P: conjugation differences @ 2s 
+     2s (huet) babanDiTa != babanDiTa,babandDa (pysan)
+bal prf P: identical
+bAD prf A: identical
+buD prf A: identical
+buD prf P: identical
+bfh prf P: identical
+Bakz prf P: identical
+Baj prf A: identical
+Baj prf P: identical
+BaYj prf P: conjugation differences @ 2s 
+     2s (huet) baBaYjiTa != baBaNkTa,baBaYjiTa (pysan)
+BaR prf P: identical
+BaRq prf A: identical
+BaRq prf P: identical
+Band prf A: identical
+Baz prf P: identical
+Bas prf P: identical
+BA prf P: identical
+BAz prf A: identical
+BAs prf A: identical
+BAs prf P: identical
+Bid prf A: identical
+Bid prf P: identical
+BI prf P: identical
+Buj prf A: identical
+Buj prf P: identical
+BU prf P: conjugation differences @ 2s 
+     2s (huet) baBUTa,baBUviTa != baBUviTa (pysan)
+BUz prf P: identical
+Bf prf A: conjugation differences @ 2p 
+     2p (huet) baBfDve != baBfQve (pysan)
+Bf prf P: identical
+Bfjj prf A: pysan NOT FOUND
+Bfjj prf P: pysan NOT FOUND
+BraMS prf A: identical
+BraMS prf P: identical
+Bram prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) baBramatur != BrematuH,baBramatuH (pysan)
+     3p (huet) baBramur != BremuH,baBramuH (pysan)
+     2s (huet) baBramiTa != BremiTa,baBramiTa (pysan)
+     2d (huet) baBramaTur != BremaTuH,baBramaTuH (pysan)
+     2p (huet) baBrama != Brema,baBrama (pysan)
+     1d (huet) baBramiva != Bremiva,baBramiva (pysan)
+     1p (huet) baBramima != Bremima,baBramima (pysan)
+BrAj prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) baBrAje != Breje,baBrAje (pysan)
+     3d (huet) baBrAjAte != BrejAte,baBrAjAte (pysan)
+     3p (huet) baBrAjire != Brejire,baBrAjire (pysan)
+     2s (huet) baBrAjize != Brejize,baBrAjize (pysan)
+     2d (huet) baBrAjATe != BrejATe,baBrAjATe (pysan)
+     2p (huet) baBrAjiDve != BrejiDve,baBrAjiDve (pysan)
+     1s (huet) baBrAje != Breje,baBrAje (pysan)
+     1d (huet) baBrAjivahe != Brejivahe,baBrAjivahe (pysan)
+     1p (huet) baBrAjimahe != Brejimahe,baBrAjimahe (pysan)
+maMh prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mehe != mamaMhe (pysan)
+     3d (huet) mehAte != mamaMhAte (pysan)
+     3p (huet) mehire != mamaMhire (pysan)
+     2s (huet) mehize != mamaMhize (pysan)
+     2d (huet) mehATe != mamaMhATe (pysan)
+     2p (huet) mehiDve != mamaMhiDve (pysan)
+     1s (huet) mehe != mamaMhe (pysan)
+     1d (huet) mehivahe != mamaMhivahe (pysan)
+     1p (huet) mehimahe != mamaMhimahe (pysan)
+majj prf P: identical
+maRq prf P: identical
+mad prf P: identical
+man prf A: identical
+man prf P: identical
+manT prf P: identical
+mand prf A: identical
+mah prf P: conjugation differences @ 2s 
+     2s (huet) mamAQa,mehiTa != mamaQa,mehiTa (pysan)
+mA prf A: identical
+mA prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mamO,mimO != mamO (pysan)
+     3d (huet) mamatur,mimatur != mamatuH (pysan)
+     3p (huet) mamur,mimur != mamuH (pysan)
+     2s (huet) mamATa,mamiTa,mimATa,mimiTa != mamATa,mamiTa (pysan)
+     2d (huet) mamaTur,mimaTur != mamaTuH (pysan)
+     2p (huet) mama,mima != mama (pysan)
+     1s (huet) mamO,mimO != mamO (pysan)
+     1d (huet) mamiva,mimiva != mamiva (pysan)
+     1p (huet) mamima,mimima != mamima (pysan)
+mi prf A: identical
+mi prf P: conjugation differences @ 3s,2s,1s 
+     3s (huet) mimAya != mamO (pysan)
+     2s (huet) mimayiTa,mimeTa != mamATa,mamiTa (pysan)
+     1s (huet) mimAya,mimaya != mamO (pysan)
+miT prf A: identical
+miT prf P: identical
+mid prf A: identical
+mid prf P: identical
+mil prf A: identical
+mil prf P: identical
+miz prf P: identical
+mih prf P: identical
+mI prf A: identical
+mI prf P: conjugation differences @ 3s,2s,1s 
+     3s (huet) mimAya != mamO (pysan)
+     2s (huet) mimayiTa,mimeTa != mamATa,mamiTa (pysan)
+     1s (huet) mimAya,mimaya != mamO (pysan)
+mIl prf P: identical
+muc prf A: identical
+muc prf P: identical
+mud prf A: identical
+mud prf P: identical
+muz prf P: identical
+muh prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) mumohiTa != mumoQa,mumogDa,mumohiTa (pysan)
+     1d (huet) mumuhiva != mumuhiva,mumuhva (pysan)
+     1p (huet) mumuhima != mumuhima,mumuhma (pysan)
+mUrC prf P: pysan NOT FOUND
+mUz prf A: identical
+mUz prf P: identical
+mf prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) mamfze != mamrize (pysan)
+     2p (huet) mamfDve != mamriDve (pysan)
+     1d (huet) mamfvahe != mamrivahe (pysan)
+     1p (huet) mamfmahe != mamrimahe (pysan)
+mf prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) mamarTa,mamariTa != mamarTa (pysan)
+     1d (huet) mamfva != mamriva (pysan)
+     1p (huet) mamfma != mamrima (pysan)
+mfj prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mamfje != mamArje,mamfje (pysan)
+     3d (huet) mamfjAte != mamArjAte,mamfjAte (pysan)
+     3p (huet) mamfjire != mamArjire,mamfjire (pysan)
+     2s (huet) mamfjize != mamArcse,mamArjize,mamfcse,mamfjize (pysan)
+     2d (huet) mamfjATe != mamArjATe,mamfjATe (pysan)
+     2p (huet) mamfjiDve != mamArjJve,mamArjiDve,mamfjJve,mamfjiDve (pysan)
+     1s (huet) mamfje != mamArje,mamfje (pysan)
+     1d (huet) mamfjivahe != mamArjivahe,mamArjvahe,mamfjivahe,mamfjvahe (pysan)
+     1p (huet) mamfjimahe != mamArjimahe,mamArjmahe,mamfjimahe,mamfjmahe (pysan)
+mfj prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) mamfjatur != mamArjatuH,mamfjatuH (pysan)
+     3p (huet) mamfjur != mamArjuH,mamfjuH (pysan)
+     2s (huet) mamArjiTa != mamArjiTa,mamArzWa (pysan)
+     2d (huet) mamfjaTur != mamArjaTuH,mamfjaTuH (pysan)
+     2p (huet) mamfja != mamArja,mamfja (pysan)
+     1d (huet) mamfjiva != mamArjiva,mamfjiva,mamfjva (pysan)
+     1p (huet) mamfjima != mamArjima,mamfjima,mamfjma (pysan)
+mfq prf P: identical
+mfd prf A: identical
+mfd prf P: identical
+mfD prf A: identical
+mfD prf P: identical
+mfS prf P: identical
+mfz prf A: identical
+mfz prf P: identical
+mokz prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mamokze != mumokze (pysan)
+     3d (huet) mamokzAte != mumokzAte (pysan)
+     3p (huet) mamokzire != mumokzire (pysan)
+     2s (huet) mamokzize != mumokzize (pysan)
+     2d (huet) mamokzATe != mumokzATe (pysan)
+     2p (huet) mamokziDve != mumokziDve (pysan)
+     1s (huet) mamokze != mumokze (pysan)
+     1d (huet) mamokzivahe != mumokzivahe (pysan)
+     1p (huet) mamokzimahe != mumokzimahe (pysan)
+mokz prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mamokza != mumokza (pysan)
+     3d (huet) mamokzatur != mumokzatuH (pysan)
+     3p (huet) mamokzur != mumokzuH (pysan)
+     2s (huet) mamokziTa != mumokziTa (pysan)
+     2d (huet) mamokzaTur != mumokzaTuH (pysan)
+     2p (huet) mamokza != mumokza (pysan)
+     1s (huet) mamokza != mumokza (pysan)
+     1d (huet) mamokziva != mumokziva (pysan)
+     1p (huet) mamokzima != mumokzima (pysan)
+mnA prf P: identical
+mlA prf P: pysan NOT FOUND
+mlecC prf P: pysan NOT FOUND
+yaj prf A: identical
+yaj prf P: identical
+yat prf A: identical
+yaB prf P: conjugation differences @ 2s,2d,2p,1s,1d,1p 
+     2s (huet) yayabDa,yeBiTa != ((yayabDa (pysan)
+     2d (huet) yeBaTur != yayaPTa) (pysan)
+     2p (huet) yeBa != yeBiTa) (pysan)
+     1s (huet) yayABa,yayaBa != yeBaTuH (pysan)
+     1d (huet) yeBiva != yeBa (pysan)
+     1p (huet) yeBima != yayABa,yayaBa (pysan)
+yam prf P: identical
+yas prf P: identical
+yA prf P: identical
+yAc prf A: identical
+yAc prf P: identical
+yu prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) yuyuze != yuyuvize (pysan)
+     2p (huet) yuyuDve != yuyuviDve (pysan)
+     1d (huet) yuyuvahe != yuyuvivahe (pysan)
+     1p (huet) yuyumahe != yuyuvimahe (pysan)
+yu prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) yuyaviTa,yuyoTa != yuyaviTa (pysan)
+     1d (huet) yuyuva != yuyuviva (pysan)
+     1p (huet) yuyuma != yuyuvima (pysan)
+yuj prf A: identical
+yuj prf P: identical
+yuD prf A: identical
+yuD prf P: identical
+raMh prf P: identical
+rakz prf P: identical
+raYj prf A: identical
+raYj prf P: conjugation differences @ 2s 
+     2s (huet) raraYjiTa != raraYjiTa,raraYkTa (pysan)
+raR prf P: identical
+rad prf P: identical
+raD prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rarADa != raranDa (pysan)
+     3d (huet) reDatur != raranDatuH (pysan)
+     3p (huet) reDur != raranDuH (pysan)
+     2s (huet) raradDa,reDiTa != raranDiTa,rarandDa (pysan)
+     2d (huet) reDaTur != raranDaTuH (pysan)
+     2p (huet) reDa != raranDa (pysan)
+     1s (huet) rarADa,raraDa != raranDa (pysan)
+     1d (huet) reDiva != raranDiva,raranDva (pysan)
+     1p (huet) reDima != raranDima,raranDma (pysan)
+raB prf A: identical
+ram prf A: identical
+ram prf P: identical
+rA prf P: identical
+rAj prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rarAje != rarAje,reje (pysan)
+     3d (huet) rarAjAte != rarAjAte,rejAte (pysan)
+     3p (huet) rarAjire != rarAjire,rejire (pysan)
+     2s (huet) rarAjize != rarAjize,rejize (pysan)
+     2d (huet) rarAjATe != rarAjATe,rejATe (pysan)
+     2p (huet) rarAjiDve != rarAjiDve,rejiDve (pysan)
+     1s (huet) rarAje != rarAje,reje (pysan)
+     1d (huet) rarAjivahe != rarAjivahe,rejivahe (pysan)
+     1p (huet) rarAjimahe != rarAjimahe,rejimahe (pysan)
+rAj prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) rarAjatur != rarAjatuH,rejatuH (pysan)
+     3p (huet) rejur != rarAjuH,rejuH (pysan)
+     2s (huet) rarAjiTa != rarAjiTa,rejiTa (pysan)
+     2d (huet) rarAjaTur != rarAjaTuH,rejaTuH (pysan)
+     2p (huet) rarAja != rarAja,reja (pysan)
+     1d (huet) rarAjiva != rarAjiva,rejiva (pysan)
+     1p (huet) rarAjima != rarAjima,rejima (pysan)
+rAD prf A: identical
+rAD prf P: identical
+ri prf A: pysan NOT FOUND
+ri prf P: pysan NOT FOUND
+ric prf A: identical
+ric prf P: identical
+riz prf P: identical
+ru prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) ruraviTa,ruroTa != ruraviTa (pysan)
+     1d (huet) ruruva != ruruviva (pysan)
+     1p (huet) ruruma != ruruvima (pysan)
+ruc prf A: identical
+ruj prf P: identical
+rud prf P: identical
+ruD prf A: identical
+ruD prf P: identical
+ruz prf P: identical
+ruh prf P: identical
+lag prf P: conjugation differences @ 2s 
+     2s (huet) lalagTa,legiTa != lalakTa,legiTa (pysan)
+laNg prf P: identical
+laNG prf A: identical
+laNG prf P: identical
+lajj prf A: identical
+lap prf P: identical
+laB prf A: identical
+laB prf P: conjugation differences @ 2s,2d,2p,1s,1d,1p 
+     2s (huet) lalabDa,leBiTa != ((lalabDa (pysan)
+     2d (huet) leBaTur != lalaPTa) (pysan)
+     2p (huet) leBa != leBiTa) (pysan)
+     1s (huet) lalABa,lalaBa != leBaTuH (pysan)
+     1d (huet) leBiva != leBa (pysan)
+     1p (huet) leBima != lalABa,lalaBa (pysan)
+lamb prf A: identical
+lal prf P: identical
+laz prf A: identical
+laz prf P: identical
+las prf P: identical
+lAYC prf P: identical
+liK prf P: identical
+lip prf A: identical
+lip prf P: identical
+liS prf P: identical
+lih prf A: identical
+lih prf P: identical
+lI prf A: identical
+luYc prf A: identical
+luYc prf P: identical
+luW prf A: identical
+luW prf P: identical
+luRW prf P: pysan NOT FOUND
+lup prf A: identical
+lup prf P: identical
+luB prf P: identical
+lul prf P: pysan NOT FOUND
+lU prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) luluze != luluvize (pysan)
+     2p (huet) luluDve != luluviDve (pysan)
+     1d (huet) luluvahe != luluvivahe (pysan)
+     1p (huet) lulumahe != luluvimahe (pysan)
+lU prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) lulaviTa,luloTa != lulaviTa (pysan)
+     1d (huet) luluva != luluviva (pysan)
+     1p (huet) luluma != luluvima (pysan)
+lok prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laloke != luloke (pysan)
+     3d (huet) lalokAte != lulokAte (pysan)
+     3p (huet) lalokire != lulokire (pysan)
+     2s (huet) lalokize != lulokize (pysan)
+     2d (huet) lalokATe != lulokATe (pysan)
+     2p (huet) lalokiDve != lulokiDve (pysan)
+     1s (huet) laloke != luloke (pysan)
+     1d (huet) lalokivahe != lulokivahe (pysan)
+     1p (huet) lalokimahe != lulokimahe (pysan)
+lok prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laloka != luloka (pysan)
+     3d (huet) lalokatur != lulokatuH (pysan)
+     3p (huet) lalokur != lulokuH (pysan)
+     2s (huet) lalokiTa != lulokiTa (pysan)
+     2d (huet) lalokaTur != lulokaTuH (pysan)
+     2p (huet) laloka != luloka (pysan)
+     1s (huet) laloka != luloka (pysan)
+     1d (huet) lalokiva != lulokiva (pysan)
+     1p (huet) lalokima != lulokima (pysan)
+loc prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laloce != luloce (pysan)
+     3d (huet) lalocAte != lulocAte (pysan)
+     3p (huet) lalocire != lulocire (pysan)
+     2s (huet) lalocize != lulocize (pysan)
+     2d (huet) lalocATe != lulocATe (pysan)
+     2p (huet) lalociDve != lulociDve (pysan)
+     1s (huet) laloce != luloce (pysan)
+     1d (huet) lalocivahe != lulocivahe (pysan)
+     1p (huet) lalocimahe != lulocimahe (pysan)
+vac prf P: identical
+vaYc prf P: identical
+vad prf A: identical
+vad prf P: conjugation differences @ 2s 
+     2s (huet) uvadiTa,uvatTa != uvadiTa (pysan)
+van prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) venatur != vavanatuH (pysan)
+     3p (huet) venur != vavanuH (pysan)
+     2s (huet) vavanTa,veniTa != vavaniTa (pysan)
+     2d (huet) venaTur != vavanaTuH (pysan)
+     2p (huet) vena != vavana (pysan)
+     1d (huet) veniva != vavaniva (pysan)
+     1p (huet) venima != vavanima (pysan)
+vand prf A: identical
+vap prf A: identical
+vap prf P: identical
+vam prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) vematur != vavamatuH (pysan)
+     3p (huet) vemur != vavamuH (pysan)
+     2s (huet) vavanTa,vemiTa != vavamiTa (pysan)
+     2d (huet) vemaTur != vavamaTuH (pysan)
+     2p (huet) vema != vavama (pysan)
+     1d (huet) vemiva != vavamiva (pysan)
+     1p (huet) vemima != vavamima (pysan)
+val prf A: identical
+val prf P: identical
+valg prf P: identical
+vaS prf P: conjugation differences @ 2s,1s 
+     2s (huet) uvASiTa != uvaSiTa (pysan)
+     1s (huet) uvASa != uvASa,uvaSa (pysan)
+vas prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vese != Uze (pysan)
+     3d (huet) vesAte != UzAte (pysan)
+     3p (huet) vesire != Uzire (pysan)
+     2s (huet) vesize != Uzize (pysan)
+     2d (huet) vesATe != UzATe (pysan)
+     2p (huet) vesiDve != UziDve (pysan)
+     1s (huet) vese != Uze (pysan)
+     1d (huet) vesivahe != Uzivahe (pysan)
+     1p (huet) vesimahe != Uzimahe (pysan)
+vas prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) Usatur != UzatuH (pysan)
+     3p (huet) Usur != UzuH (pysan)
+     2d (huet) UsaTur != UzaTuH (pysan)
+     2p (huet) Usa != Uza (pysan)
+     1d (huet) Usiva != Uziva (pysan)
+     1p (huet) Usima != Uzima (pysan)
+vah prf A: identical
+vah prf P: conjugation differences @ 2s 
+     2s (huet) uvAQa,uvahiTa != uvahiTa (pysan)
+vA prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Uve != vave (pysan)
+     3d (huet) UvAte != vavAte (pysan)
+     3p (huet) Uvire != vavire (pysan)
+     2s (huet) Uvize != vavize (pysan)
+     2d (huet) UvATe != vavATe (pysan)
+     2p (huet) UviDve != vaviDve (pysan)
+     1s (huet) Uve != vave (pysan)
+     1d (huet) Uvivahe != vavivahe (pysan)
+     1p (huet) Uvimahe != vavimahe (pysan)
+vA prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) uvA,vavO != vavO (pysan)
+     3d (huet) Uvatur,vavatur != vavatuH (pysan)
+     3p (huet) Uvur,vavur != vavuH (pysan)
+     2s (huet) uvATa,uveTa,vavATa,vaviTa != vavATa,vaviTa (pysan)
+     2d (huet) UvaTur,vavaTur != vavaTuH (pysan)
+     2p (huet) Uva,vava != vava (pysan)
+     1s (huet) uvA,vavO != vavO (pysan)
+     1d (huet) Uviva,vaviva != vaviva (pysan)
+     1p (huet) Uvima,vavima != vavima (pysan)
+vAYC prf P: identical
+vAS prf A: identical
+vic prf A: identical
+vic prf P: identical
+vij prf A: identical
+vij prf P: conjugation differences @ 2s 
+     2s (huet) vivejiTa != vivijiTa (pysan)
+vid prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vivide != vide (pysan)
+     3d (huet) vividAte != vidAte (pysan)
+     3p (huet) vividire != vidire (pysan)
+     2s (huet) vividize != vitse (pysan)
+     2d (huet) vividATe != vidATe (pysan)
+     2p (huet) vividiDve != vidDve (pysan)
+     1s (huet) vivide != vide (pysan)
+     1d (huet) vividivahe != vidvahe (pysan)
+     1p (huet) vividimahe != vidmahe (pysan)
+vid prf P: conjugation differences @ 3d,3p,2d 
+     3d (huet) vittur,vividatur != vidatuH,vividatuH (pysan)
+     3p (huet) vidur,vividur != viduH,vividuH (pysan)
+     2d (huet) vitTur,vividaTur != vidaTuH,vividaTuH (pysan)
+vip prf A: identical
+viS prf A: identical
+viS prf P: identical
+viz prf P: identical
+vI prf P: identical
+vIj prf A: identical
+vIj prf P: identical
+vf prf A: conjugation differences @ 2p 
+     2p (huet) vavfDve != vavfQve (pysan)
+vf prf P: conjugation differences @ 2s 
+     2s (huet) vavarTa,vavariTa != vavariTa (pysan)
+vfj prf P: identical
+vft prf A: identical
+vfD prf A: identical
+vfD prf P: identical
+vfz prf P: identical
+vfh prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) vavarhiTa != vavarQa,vavarhiTa (pysan)
+     1d (huet) vavfhiva != vavfhiva,vavfhva (pysan)
+     1p (huet) vavfhima != vavfhima,vavfhma (pysan)
+ven prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vavene != vivene (pysan)
+     3d (huet) vavenAte != vivenAte (pysan)
+     3p (huet) vavenire != vivenire (pysan)
+     2s (huet) vavenize != vivenize (pysan)
+     2d (huet) vavenATe != vivenATe (pysan)
+     2p (huet) vaveniDve != viveniDve (pysan)
+     1s (huet) vavene != vivene (pysan)
+     1d (huet) vavenivahe != vivenivahe (pysan)
+     1p (huet) vavenimahe != vivenimahe (pysan)
+ven prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vavena != vivena (pysan)
+     3d (huet) vavenatur != vivenatuH (pysan)
+     3p (huet) vavenur != vivenuH (pysan)
+     2s (huet) vaveniTa != viveniTa (pysan)
+     2d (huet) vavenaTur != vivenaTuH (pysan)
+     2p (huet) vavena != vivena (pysan)
+     1s (huet) vavena != vivena (pysan)
+     1d (huet) vaveniva != viveniva (pysan)
+     1p (huet) vavenima != vivenima (pysan)
+vezw prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vavezwe != vivezwe (pysan)
+     3d (huet) vavezwAte != vivezwAte (pysan)
+     3p (huet) vavezwire != vivezwire (pysan)
+     2s (huet) vavezwize != vivezwize (pysan)
+     2d (huet) vavezwATe != vivezwATe (pysan)
+     2p (huet) vavezwiDve != vivezwiDve (pysan)
+     1s (huet) vavezwe != vivezwe (pysan)
+     1d (huet) vavezwivahe != vivezwivahe (pysan)
+     1p (huet) vavezwimahe != vivezwimahe (pysan)
+vyaT prf A: identical
+vyaT prf P: identical
+vyaD prf P: conjugation differences @ 2s 
+     2s (huet) vivyaDiTa != vivyaDiTa,vivyadDa (pysan)
+vyA prf A: pysan NOT FOUND
+vyA prf P: pysan NOT FOUND
+vraj prf P: pysan NOT FOUND
+vraSc prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) vavraSciTa != vavraSciTa,vavrazWa (pysan)
+     1d (huet) vavraSciva != vavraSciva,vavraScva (pysan)
+     1p (huet) vavraScima != vavraScima,vavraScma (pysan)
+vrIq prf A: identical
+SaMs prf P: identical
+Sak prf P: identical
+SaNk prf A: identical
+Sad prf A: identical
+Sap prf A: identical
+Sap prf P: identical
+Sam prf P: identical
+Sal prf P: identical
+SaS prf P: identical
+Sas prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) Sesatur != SaSasatuH (pysan)
+     3p (huet) Sesur != SaSasuH (pysan)
+     2s (huet) SaSasTa,SesiTa != SaSasiTa (pysan)
+     2d (huet) SesaTur != SaSasaTuH (pysan)
+     2p (huet) Sesa != SaSasa (pysan)
+     1d (huet) Sesiva != SaSasiva (pysan)
+     1p (huet) Sesima != SaSasima (pysan)
+SA prf A: pysan NOT FOUND
+SA prf P: pysan NOT FOUND
+SAs prf P: identical
+Sikz prf A: identical
+Sikz prf P: identical
+Siz prf P: identical
+SI prf A: identical
+SIl prf P: identical
+Suc prf P: identical
+SuD prf P: identical
+SuB prf A: identical
+SumB prf P: identical
+Suz prf P: identical
+SU prf P: pysan NOT FOUND
+SF prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) SaSaratur != SaSaratuH,SaSratuH (pysan)
+     3p (huet) SaSarur != SaSaruH,SaSruH (pysan)
+     2d (huet) SaSaraTur != SaSaraTuH,SaSraTuH (pysan)
+     2p (huet) SaSara != SaSara,SaSra (pysan)
+     1d (huet) SaSariva != SaSariva,SaSriva (pysan)
+     1p (huet) SaSarima != SaSarima,SaSrima (pysan)
+Scut prf P: identical
+SyA prf A: pysan NOT FOUND
+SyA prf P: pysan NOT FOUND
+Sram prf P: identical
+SramB prf A: identical
+Sri prf A: identical
+Sri prf P: conjugation differences @ 2s 
+     2s (huet) SiSrayiTa,SiSreTa != SiSrayiTa (pysan)
+Sru prf P: identical
+SlAG prf A: identical
+Sliz prf P: identical
+Svas prf P: identical
+Svit prf A: identical
+zWIv prf P: pysan NOT FOUND
+sac prf A: identical
+saYj prf P: conjugation differences @ 2s 
+     2s (huet) sasaYjiTa != sasaYjiTa,sasaYkTa (pysan)
+sad prf P: identical
+san prf A: identical
+san prf P: identical
+sap prf P: identical
+sah prf A: identical
+sah prf P: conjugation differences @ 2s 
+     2s (huet) sasAQa,sehiTa != sasaQa,sehiTa (pysan)
+sA prf P: pysan NOT FOUND
+sic prf A: identical
+sic prf P: identical
+siD prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) sizeDiTa != sizeDiTa,sizedDa (pysan)
+     1d (huet) siziDiva != siziDiva,siziDva (pysan)
+     1p (huet) siziDima != siziDima,siziDma (pysan)
+sIv prf P: pysan NOT FOUND
+su prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) suzuze != suzuvize (pysan)
+     2p (huet) suzuDve != suzuviDve (pysan)
+     1d (huet) suzuvahe != suzuvivahe (pysan)
+     1p (huet) suzumahe != suzuvimahe (pysan)
+su prf P: conjugation differences @ 1d,1p 
+     1d (huet) suzuva != suzuviva (pysan)
+     1p (huet) suzuma != suzuvima (pysan)
+sur prf P: identical
+sU prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) suzuze != suzuvize (pysan)
+     2p (huet) suzuDve != suzuviDve (pysan)
+     1d (huet) suzuvahe != suzuvivahe (pysan)
+     1p (huet) suzumahe != suzuvimahe (pysan)
+sU prf P: conjugation differences @ 1d,1p 
+     1d (huet) suzuva != suzuviva (pysan)
+     1p (huet) suzuma != suzuvima (pysan)
+sf prf P: identical
+sfj prf P: conjugation differences @ 2s 
+     2s (huet) sasarjiTa != sasarjiTa,sasrazWa (pysan)
+sfp prf P: identical
+sev prf A: identical
+skand prf P: conjugation differences @ 2s 
+     2s (huet) caskandiTa != caskandiTa,caskantTa (pysan)
+skamB prf A: identical
+skamB prf P: identical
+sKal prf P: identical
+stan prf P: identical
+stamB prf P: identical
+stu prf A: conjugation differences @ 2p 
+     2p (huet) tuzwuDve != tuzwuQve (pysan)
+stu prf P: identical
+stuB prf P: identical
+stF prf A: pysan NOT FOUND
+stF prf P: pysan NOT FOUND
+styA prf A: pysan NOT FOUND
+sTA prf A: identical
+sTA prf P: identical
+snA prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nasnO != sasnO (pysan)
+     3d (huet) nasnatur != sasnatuH (pysan)
+     3p (huet) nasnur != sasnuH (pysan)
+     2s (huet) nasnATa,nasniTa != sasnATa,sasniTa (pysan)
+     2d (huet) nasnaTur != sasnaTuH (pysan)
+     2p (huet) nasna != sasna (pysan)
+     1s (huet) nasnO != sasnO (pysan)
+     1d (huet) nasniva != sasniva (pysan)
+     1p (huet) nasnima != sasnima (pysan)
+snih prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nizReha != sizReha (pysan)
+     3d (huet) nizRihatur != sizRihatuH (pysan)
+     3p (huet) nizRihur != sizRihuH (pysan)
+     2s (huet) nizRehiTa != sizReQa,sizRegDa,sizRehiTa (pysan)
+     2d (huet) nizRihaTur != sizRihaTuH (pysan)
+     2p (huet) nizRiha != sizRiha (pysan)
+     1s (huet) nizReha != sizReha (pysan)
+     1d (huet) nizRihiva != sizRihiva,sizRihva (pysan)
+     1p (huet) nizRihima != sizRihima,sizRihma (pysan)
+snu prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nuzRAva != susnAva (pysan)
+     3d (huet) nuzRuvatur != susnuvatuH (pysan)
+     3p (huet) nuzRuvur != susnuvuH (pysan)
+     2s (huet) nuzRaviTa,nuzRoTa != susnaviTa (pysan)
+     2d (huet) nuzRuvaTur != susnuvaTuH (pysan)
+     2p (huet) nuzRuva != susnuva (pysan)
+     1s (huet) nuzRAva,nuzRava != susnAva,susnava (pysan)
+     1d (huet) nuzRuva != susnuviva (pysan)
+     1p (huet) nuzRuma != susnuvima (pysan)
+snuh prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nuzRoha != suzRoha (pysan)
+     3d (huet) nuzRuhatur != suzRuhatuH (pysan)
+     3p (huet) nuzRuhur != suzRuhuH (pysan)
+     2s (huet) nuzRohiTa != suzRoQa,suzRogDa,suzRohiTa (pysan)
+     2d (huet) nuzRuhaTur != suzRuhaTuH (pysan)
+     2p (huet) nuzRuha != suzRuha (pysan)
+     1s (huet) nuzRoha != suzRoha (pysan)
+     1d (huet) nuzRuhiva != suzRuhiva,suzRuhva (pysan)
+     1p (huet) nuzRuhima != suzRuhima,suzRuhma (pysan)
+spand prf A: identical
+sparD prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) paspfDe != pasparDe (pysan)
+     3d (huet) paspfDAte != pasparDAte (pysan)
+     3p (huet) paspfDire != pasparDire (pysan)
+     2s (huet) paspfDize != pasparDize (pysan)
+     2d (huet) paspfDATe != pasparDATe (pysan)
+     2p (huet) paspfDiDve != pasparDiDve (pysan)
+     1s (huet) paspfDe != pasparDe (pysan)
+     1d (huet) paspfDivahe != pasparDivahe (pysan)
+     1p (huet) paspfDimahe != pasparDimahe (pysan)
+spaS prf A: identical
+spfS prf P: identical
+sPal prf P: identical
+sPA prf A: pysan NOT FOUND
+sPuw prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) puzPowa != pusPowa (pysan)
+     3d (huet) puzPuwatur != pusPuwatuH (pysan)
+     3p (huet) puzPuwur != pusPuwuH (pysan)
+     2s (huet) puzPowiTa != pusPuwiTa (pysan)
+     2d (huet) puzPuwaTur != pusPuwaTuH (pysan)
+     2p (huet) puzPuwa != pusPuwa (pysan)
+     1s (huet) puzPowa != pusPowa,pusPuwa (pysan)
+     1d (huet) puzPuwiva != pusPuwiva (pysan)
+     1p (huet) puzPuwima != pusPuwima (pysan)
+sPur prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) puzPora != pusPora (pysan)
+     3d (huet) puzPuratur != pusPuratuH (pysan)
+     3p (huet) puzPurur != pusPuruH (pysan)
+     2s (huet) puzPoriTa != pusPuriTa (pysan)
+     2d (huet) puzPuraTur != pusPuraTuH (pysan)
+     2p (huet) puzPura != pusPura (pysan)
+     1s (huet) puzPora != pusPora (pysan)
+     1d (huet) puzPuriva != pusPuriva (pysan)
+     1p (huet) puzPurima != pusPurima (pysan)
+smi prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mizmiye != sizmiye (pysan)
+     3d (huet) mizmiyAte != sizmiyAte (pysan)
+     3p (huet) mizmiyire != sizmiyire (pysan)
+     2s (huet) mizmiyize != sizmiyize (pysan)
+     2d (huet) mizmiyATe != sizmiyATe (pysan)
+     2p (huet) mizmiyiDve != sizmiyiDve (pysan)
+     1s (huet) mizmiye != sizmiye (pysan)
+     1d (huet) mizmiyivahe != sizmiyivahe (pysan)
+     1p (huet) mizmiyimahe != sizmiyimahe (pysan)
+smf prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) masmAra != sasmAra (pysan)
+     3d (huet) masmaratur != sasmaratuH (pysan)
+     3p (huet) masmarur != sasmaruH (pysan)
+     2s (huet) masmariTa != sasmarTa (pysan)
+     2d (huet) masmaraTur != sasmaraTuH (pysan)
+     2p (huet) masmara != sasmara (pysan)
+     1s (huet) masmAra,masmara != sasmAra,sasmara (pysan)
+     1d (huet) masmariva != sasmariva (pysan)
+     1p (huet) masmarima != sasmarima (pysan)
+syand prf A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sizyande != sasyande (pysan)
+     3d (huet) sizyandAte != sasyandAte (pysan)
+     3p (huet) sizyandire != sasyandire (pysan)
+     2s (huet) sizyandize != sasyandize,sasyantse (pysan)
+     2d (huet) sizyandATe != sasyandATe (pysan)
+     2p (huet) sizyandiDve != sasyandDve,sasyandiDve (pysan)
+     1s (huet) sizyande != sasyande (pysan)
+     1d (huet) sizyandivahe != sasyandivahe,sasyandvahe (pysan)
+     1p (huet) sizyandimahe != sasyandimahe,sasyandmahe (pysan)
+syand prf P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sizyanda != sasyanda (pysan)
+     3d (huet) sizyandatur != sasyandatuH (pysan)
+     3p (huet) sizyandur != sasyanduH (pysan)
+     2s (huet) sizyandiTa != sasyandiTa,sasyantTa (pysan)
+     2d (huet) sizyandaTur != sasyandaTuH (pysan)
+     2p (huet) sizyanda != sasyanda (pysan)
+     1s (huet) sizyanda != sasyanda (pysan)
+     1d (huet) sizyandiva != sasyandiva,sasyandva (pysan)
+     1p (huet) sizyandima != sasyandima,sasyandma (pysan)
+sraMs prf A: identical
+sru prf P: identical
+svaYj prf A: pysan NOT FOUND
+svad prf A: identical
+svad prf P: identical
+svan prf P: conjugation differences @ 3d,3p,2s,2d,2p,1d,1p 
+     3d (huet) sasvanatur != sasvanatuH,svenatuH (pysan)
+     3p (huet) sasvanur != sasvanuH,svenuH (pysan)
+     2s (huet) sasvaniTa != sasvaniTa,sveniTa (pysan)
+     2d (huet) sasvanaTur != sasvanaTuH,svenaTuH (pysan)
+     2p (huet) sasvana != sasvana,svena (pysan)
+     1d (huet) sasvaniva != sasvaniva,sveniva (pysan)
+     1p (huet) sasvanima != sasvanima,svenima (pysan)
+svap prf P: conjugation differences @ 2s 
+     2s (huet) suzvapiTa != suzvapTa,suzvapiTa (pysan)
+svar prf P: identical
+svid prf A: identical
+svid prf P: identical
+haW prf P: identical
+had prf A: identical
+had prf P: identical
+han prf A: identical
+han prf P: identical
+has prf P: identical
+hA prf A: identical
+hA prf P: identical
+hi prf P: identical
+hiMs prf P: identical
+hikk prf A: identical
+hikk prf P: identical
+hu prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) juhuze != juhuvize (pysan)
+     2p (huet) juhuDve != juhuviDve (pysan)
+     1d (huet) juhuvahe != juhuvivahe (pysan)
+     1p (huet) juhumahe != juhuvimahe (pysan)
+hu prf P: conjugation differences @ 1d,1p 
+     1d (huet) juhuva != juhuviva (pysan)
+     1p (huet) juhuma != juhuvima (pysan)
+huRq prf A: identical
+hU prf A: pysan NOT FOUND
+hU prf P: pysan NOT FOUND
+hf prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) jahfze != jahrize (pysan)
+     2p (huet) jahfDve != jahriDve (pysan)
+     1d (huet) jahfvahe != jahrivahe (pysan)
+     1p (huet) jahfmahe != jahrimahe (pysan)
+hf prf P: conjugation differences @ 2s,1d,1p 
+     2s (huet) jaharTa,jahariTa != jaharTa (pysan)
+     1d (huet) jahfva != jahriva (pysan)
+     1p (huet) jahfma != jahrima (pysan)
+hfz prf P: identical
+hnu prf A: conjugation differences @ 2s,2p,1d,1p 
+     2s (huet) juhnuze != juhnuvize (pysan)
+     2p (huet) juhnuDve != juhnuviDve (pysan)
+     1d (huet) juhnuvahe != juhnuvivahe (pysan)
+     1p (huet) juhnumahe != juhnuvimahe (pysan)
+hras prf P: identical
+hrAd prf A: identical
+hrI prf P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (huet) jihryatur != jihriyatuH (pysan)
+     3p (huet) jihryur != jihriyuH (pysan)
+     2d (huet) jihryaTur != jihriyaTuH (pysan)
+     2p (huet) jihrya != jihriya (pysan)
+     1d (huet) jihryiva != jihriyiva (pysan)
+     1p (huet) jihryima != jihriyima (pysan)
+hlAd prf A: identical
+hval prf P: identical
+hvf prf A: identical
+hvf prf P: conjugation differences @ 2s 
+     2s (huet) jahvariTa != jahvarTa (pysan)
