@@ -1,0 +1,60 @@
+grah ben P: identical
+cud ben P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) codayAt != cudyAt (pysan)
+     3d (huet) _ != cudyAstAm (pysan)
+     3p (huet) _ != cudyAsuH (pysan)
+     2s (huet) _ != cudyAH (pysan)
+     2d (huet) _ != cudyAstam (pysan)
+     2p (huet) _ != cudyAsta (pysan)
+     1s (huet) _ != cudyAsam (pysan)
+     1d (huet) _ != cudyAsva (pysan)
+     1p (huet) _ != cudyAsma (pysan)
+DA ben A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) _ != DAsIzwa (pysan)
+     3d (huet) _ != DAsIyAstAm (pysan)
+     3p (huet) _ != DAsIran (pysan)
+     2s (huet) _ != DAsIzWAH (pysan)
+     2d (huet) _ != DAsIyAsTAm (pysan)
+     2p (huet) _ != DAsIDvam (pysan)
+     1s (huet) _ != DAsIya (pysan)
+     1d (huet) _ != DAsIvahi (pysan)
+     1p (huet) DImahi != DAsImahi (pysan)
+pU ben P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) punIyAt != pUyAt (pysan)
+     3d (huet) punIyAstAm != pUyAstAm (pysan)
+     3p (huet) punIyAsur != pUyAsuH (pysan)
+     2s (huet) punIyAH != pUyAH (pysan)
+     2d (huet) punIyAstam != pUyAstam (pysan)
+     2p (huet) punIyAsta != pUyAsta (pysan)
+     1s (huet) punIyAsam != pUyAsam (pysan)
+     1d (huet) punIyAsva != pUyAsva (pysan)
+     1p (huet) punIyAsma != pUyAsma (pysan)
+banD ben P: identical
+buD ben P: identical
+BU ben P: identical
+muc ben A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) _ != mokzIzwa (pysan)
+     3d (huet) _ != mokzIyAstAm (pysan)
+     3p (huet) _ != mokzIran (pysan)
+     2s (huet) _ != mokzIzWAH (pysan)
+     2d (huet) _ != mokzIyAsTAm (pysan)
+     2p (huet) _ != mokzIDvam (pysan)
+     1s (huet) mukzIya != mokzIya (pysan)
+     1d (huet) _ != mokzIvahi (pysan)
+     1p (huet) _ != mokzImahi (pysan)
+mf ben A: conjugation differences @ 3d,3p,2p,1s,1d,1p 
+     3d (huet) _ != mfzIyAstAm (pysan)
+     3p (huet) _ != mfzIran (pysan)
+     2p (huet) mfzIQvam != mfzIDvam (pysan)
+     1s (huet) _ != mfzIya (pysan)
+     1d (huet) _ != mfzIvahi (pysan)
+     1p (huet) _ != mfzImahi (pysan)
+yaj ben P: identical
+lU ben A: conjugation differences @ 3d,3p,2p,1s,1d,1p 
+     3d (huet) _ != lavizIyAstAm (pysan)
+     3p (huet) _ != lavizIran (pysan)
+     2p (huet) lavizIQvam != lavizIDvam (pysan)
+     1s (huet) _ != lavizIya (pysan)
+     1d (huet) _ != lavizIvahi (pysan)
+     1p (huet) _ != lavizImahi (pysan)
+SAs ben P: identical
