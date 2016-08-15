@@ -1,0 +1,547 @@
+akz aor 5A: identical
+akz aor 5P: identical
+aj aor 5A: pysan NOT FOUND
+aj aor 5P: identical
+am aor 3A: pysan NOT FOUND
+am aor 3P: pysan NOT FOUND
+as aor 2P: identical
+Ap aor 2A: pysan NOT FOUND
+Ap aor 2P: identical
+Ap aor 4A: pysan NOT FOUND
+Ap aor 4P: pysan NOT FOUND
+As aor 5A: identical
+As aor 5P: pysan NOT FOUND
+iz aor 5A: pysan NOT FOUND
+iz aor 5P: identical
+Ikz aor 1A: pysan NOT FOUND
+Ikz aor 3P: pysan NOT FOUND
+Ikz aor 5A: identical
+Ikz aor 5P: pysan NOT FOUND
+ukz aor 5A: identical
+ukz aor 5P: identical
+uc aor 5A: pysan NOT FOUND
+uc aor 5P: identical
+uz aor 5A: pysan NOT FOUND
+uz aor 5P: identical
+Uh aor 5A: identical
+Uh aor 5P: identical
+f aor 2P: identical
+fc aor 3A: pysan NOT FOUND
+fc aor 3P: pysan NOT FOUND
+fc aor 5A: pysan NOT FOUND
+fc aor 5P: identical
+kaT aor 3A: pysan NOT FOUND
+kaT aor 3P: identical
+kan aor 5A: pysan NOT FOUND
+kan aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) akAnIt != akAnIt,akanIt (pysan)
+     3d (huet) akAnizwAm != akAnizwAm,akanizwAm (pysan)
+     3p (huet) akAnizur != akAnizuH,akanizuH (pysan)
+     2s (huet) akAnIH != akAnIH,akanIH (pysan)
+     2d (huet) akAnizwam != akAnizwam,akanizwam (pysan)
+     2p (huet) akAnizwa != akAnizwa,akanizwa (pysan)
+     1s (huet) akAnizam != akAnizam,akanizam (pysan)
+     1d (huet) akAnizva != akAnizva,akanizva (pysan)
+     1p (huet) akAnizma != akAnizma,akanizma (pysan)
+kf aor 1A: pysan NOT FOUND
+kf aor 1P: pysan NOT FOUND
+kf aor 1Q: pysan NOT FOUND
+kf aor 4A: identical
+kf aor 4P: identical
+kf aor 5P: identical
+kft aor 5A: pysan NOT FOUND
+kft aor 5P: identical
+kfz aor 3A: pysan NOT FOUND
+kfz aor 3P: pysan NOT FOUND
+krand aor 5A: identical
+krand aor 5P: identical
+kram aor 1P: pysan NOT FOUND
+kram aor 1Q: pysan NOT FOUND
+kram aor 5A: identical
+kram aor 5P: identical
+klid aor 3P: pysan NOT FOUND
+Kan aor 5A: pysan NOT FOUND
+Kan aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aKAnIt != aKAnIt,aKanIt (pysan)
+     3d (huet) aKAnizwAm != aKAnizwAm,aKanizwAm (pysan)
+     3p (huet) aKAnizur != aKAnizuH,aKanizuH (pysan)
+     2s (huet) aKAnIH != aKAnIH,aKanIH (pysan)
+     2d (huet) aKAnizwam != aKAnizwam,aKanizwam (pysan)
+     2p (huet) aKAnizwa != aKAnizwa,aKanizwa (pysan)
+     1s (huet) aKAnizam != aKAnizam,aKanizam (pysan)
+     1d (huet) aKAnizva != aKAnizva,aKanizva (pysan)
+     1p (huet) aKAnizma != aKAnizma,aKanizma (pysan)
+KyA aor 2P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s 
+     3s (huet) aKyAt != aKyat (pysan)
+     3d (huet) aKyAtAm != aKyatAm (pysan)
+     3p (huet) aKyAn != aKyan (pysan)
+     2s (huet) aKyAH != aKyaH (pysan)
+     2d (huet) aKyAtam != aKyatam (pysan)
+     2p (huet) aKyAta != aKyata (pysan)
+     1s (huet) aKyAm != aKyam (pysan)
+gaR aor 3A: pysan NOT FOUND
+gaR aor 3P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajIgaRat != ajIgaRat,ajagaRat (pysan)
+     3d (huet) ajIgaRatAm != ajIgaRatAm,ajagaRatAm (pysan)
+     3p (huet) ajIgaRan != ajIgaRan,ajagaRan (pysan)
+     2s (huet) ajIgaRaH != ajIgaRaH,ajagaRaH (pysan)
+     2d (huet) ajIgaRatam != ajIgaRatam,ajagaRatam (pysan)
+     2p (huet) ajIgaRata != ajIgaRata,ajagaRata (pysan)
+     1s (huet) ajIgaRam != ajIgaRam,ajagaRam (pysan)
+     1d (huet) ajIgaRAva != ajIgaRAva,ajagaRAva (pysan)
+     1p (huet) ajIgaRAma != ajIgaRAma,ajagaRAma (pysan)
+gam aor 1A: pysan NOT FOUND
+gam aor 1P: pysan NOT FOUND
+gam aor 1Q: pysan NOT FOUND
+gam aor 2A: pysan NOT FOUND
+gam aor 2P: identical
+gam aor 3A: pysan NOT FOUND
+gam aor 3P: pysan NOT FOUND
+gA aor 1P: pysan NOT FOUND
+gA aor 1Q: pysan NOT FOUND
+gAh aor 3A: pysan NOT FOUND
+gAh aor 3P: pysan NOT FOUND
+gup aor 3P: pysan NOT FOUND
+gup aor 4P: identical
+gup aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) agopIt != agopAyIt,agopIt (pysan)
+     3d (huet) agopizwAm != agopAyizwAm,agopizwAm (pysan)
+     3p (huet) agopizur != agopAyizuH,agopizuH (pysan)
+     2s (huet) agopIH != agopAyIH,agopIH (pysan)
+     2d (huet) agopizwam != agopAyizwam,agopizwam (pysan)
+     2p (huet) agopizwa != agopAyizwa,agopizwa (pysan)
+     1s (huet) agopizam != agopAyizam,agopizam (pysan)
+     1d (huet) agopizva != agopAyizva,agopizva (pysan)
+     1p (huet) agopizma != agopAyizma,agopizma (pysan)
+gfD aor 2A: pysan NOT FOUND
+gfD aor 2P: identical
+grah aor 3A: pysan NOT FOUND
+grah aor 3P: pysan NOT FOUND
+grah aor 5A: pysan NOT FOUND
+grah aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) agraBIt,agrahIt != agrahIt (pysan)
+     3d (huet) agraBIzwAm,agrahIzwAm != agrahIzwAm (pysan)
+     3p (huet) agraBIzur,agrahIzur != agrahIzuH (pysan)
+     2s (huet) agraBIH,agrahIH != agrahIH (pysan)
+     2d (huet) agraBIzwam,agrahIzwam != agrahIzwam (pysan)
+     2p (huet) agraBIzwa,agrahIzwa != agrahIzwa (pysan)
+     1s (huet) agraBIzam,agrahIzam != agrahIzam (pysan)
+     1d (huet) agraBIzva,agrahIzva != agrahIzva (pysan)
+     1p (huet) agraBIzma,agrahIzma != agrahIzma (pysan)
+car aor 3A: pysan NOT FOUND
+car aor 3P: pysan NOT FOUND
+car aor 5A: identical
+car aor 5P: identical
+cur aor 3P: identical
+cezw aor 3A: pysan NOT FOUND
+cezw aor 3P: pysan NOT FOUND
+cezw aor 5A: identical
+cezw aor 5P: identical
+Cid aor 4A: identical
+Cid aor 4P: identical
+jan aor 1A: pysan NOT FOUND
+jan aor 1P: pysan NOT FOUND
+jan aor 1Q: pysan NOT FOUND
+jan aor 3A: pysan NOT FOUND
+jan aor 3P: pysan NOT FOUND
+jan aor 5A: conjugation differences @ 3s 
+     3s (huet) ajanizwa != ajani,ajanizwa (pysan)
+jalp aor 5A: identical
+jalp aor 5P: identical
+jAgf aor 1Q: pysan NOT FOUND
+jAgf aor 5A: identical
+jAgf aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajAgarIt != ajAgArIt (pysan)
+     3d (huet) ajAgarizwAm != ajAgArizwAm (pysan)
+     3p (huet) ajAgarizur != ajAgArizuH (pysan)
+     2s (huet) ajAgarIH != ajAgArIH (pysan)
+     2d (huet) ajAgarizwam != ajAgArizwam (pysan)
+     2p (huet) ajAgarizwa != ajAgArizwa (pysan)
+     1s (huet) ajAgarizam != ajAgArizam (pysan)
+     1d (huet) ajAgarizva != ajAgArizva (pysan)
+     1p (huet) ajAgarizma != ajAgArizma (pysan)
+ji aor 3A: pysan NOT FOUND
+ji aor 3P: pysan NOT FOUND
+ji aor 4A: identical
+ji aor 4P: identical
+jYA aor 1P: pysan NOT FOUND
+jYA aor 1Q: pysan NOT FOUND
+jYA aor 5A: pysan NOT FOUND
+jYA aor 6P: identical
+tF aor 1Q: pysan NOT FOUND
+tF aor 4A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atFzwa != atIrzwa (pysan)
+     3d (huet) atFzAtAm != atIrzAtAm (pysan)
+     3p (huet) atFzata != atIrzata (pysan)
+     2s (huet) atFzWAH != atIrzWAH (pysan)
+     2d (huet) atFzATAm != atIrzATAm (pysan)
+     2p (huet) atFQvam != atIrQvam (pysan)
+     1s (huet) atFzi != atIrzi (pysan)
+     1d (huet) atFzvahi != atIrzvahi (pysan)
+     1p (huet) atFzmahi != atIrzmahi (pysan)
+tF aor 4P: pysan NOT FOUND
+tF aor 5A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atarizwa != atarIzwa,atarizwa (pysan)
+     3d (huet) atarizAtAm != atarIzAtAm,atarizAtAm (pysan)
+     3p (huet) atarizata != atarIzata,atarizata (pysan)
+     2s (huet) atarizWAH != atarIzWAH,atarizWAH (pysan)
+     2d (huet) atarizATAm != atarIzATAm,atarizATAm (pysan)
+     2p (huet) atariDvam != atarIDvam,atariDvam (pysan)
+     1s (huet) atarizi != atarIzi,atarizi (pysan)
+     1d (huet) atarizvahi != atarIzvahi,atarizvahi (pysan)
+     1p (huet) atarizmahi != atarIzmahi,atarizmahi (pysan)
+tF aor 5P: identical
+tvar aor 3A: pysan NOT FOUND
+tvar aor 3P: pysan NOT FOUND
+tviz aor 3A: pysan NOT FOUND
+tviz aor 3P: pysan NOT FOUND
+das aor 2A: pysan NOT FOUND
+das aor 2P: identical
+dah aor 3A: pysan NOT FOUND
+dah aor 3P: pysan NOT FOUND
+dah aor 4A: conjugation differences @ 2p 
+     2p (huet) adagDvam != aDaQvam (pysan)
+dah aor 4P: identical
+dA aor 1P: identical
+dA aor 1Q: pysan NOT FOUND
+dA aor 3A: pysan NOT FOUND
+dA aor 3P: pysan NOT FOUND
+dA aor 4A: conjugation differences @ 3s,2s,2p 
+     3s (huet) adizwa != adita (pysan)
+     2s (huet) adizWAH != adiTAH (pysan)
+     2p (huet) adiQvam != adiDvam (pysan)
+dA aor 4P: pysan NOT FOUND
+diS aor 3A: pysan NOT FOUND
+diS aor 3P: pysan NOT FOUND
+diS aor 7A: pysan NOT FOUND
+diS aor 7P: identical
+dih aor 3A: pysan NOT FOUND
+dih aor 3P: pysan NOT FOUND
+dih aor 7A: conjugation differences @ 3s,2s,2p,1d 
+     3s (huet) aDikzata != aDikzata,adigDa (pysan)
+     2s (huet) aDikzaTAH != aDikzaTAH,adigDAH (pysan)
+     2p (huet) aDikzaDvam != aDigDvam,aDikzaDvam (pysan)
+     1d (huet) aDikzAvahi != aDikzAvahi,adihvahi (pysan)
+dih aor 7P: identical
+dIp aor 3A: pysan NOT FOUND
+dIp aor 3P: pysan NOT FOUND
+duh aor 7A: conjugation differences @ 3s,2s,2p,1d 
+     3s (huet) aDukzata != aDukzata,adugDa (pysan)
+     2s (huet) aDukzaTAH != aDukzaTAH,adugDAH (pysan)
+     2p (huet) aDukzaDvam != aDugDvam,aDukzaDvam (pysan)
+     1d (huet) aDukzAvahi != aDukzAvahi,aduhvahi (pysan)
+duh aor 7P: identical
+dfS aor 1Q: pysan NOT FOUND
+dfS aor 2P: identical
+dfS aor 3P: pysan NOT FOUND
+dfS aor 4A: conjugation differences @ 2p 
+     2p (huet) adfqQvam != adfSDvam (pysan)
+dfS aor 4P: identical
+dyut aor 2A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) adyutata != adyutat (pysan)
+     3d (huet) adyutetAm != adyutatAm (pysan)
+     3p (huet) adyutanta != adyutan (pysan)
+     2s (huet) adyutaTAH != adyutaH (pysan)
+     2d (huet) adyuteTAm != adyutatam (pysan)
+     2p (huet) adyutaDvam != adyutata (pysan)
+     1s (huet) adyute != adyutam (pysan)
+     1d (huet) adyutAvahi != adyutAva (pysan)
+     1p (huet) adyutAmahi != adyutAma (pysan)
+dyut aor 2P: pysan NOT FOUND
+dyut aor 3P: pysan NOT FOUND
+drA aor 4A: pysan NOT FOUND
+drA aor 4P: pysan NOT FOUND
+dru aor 3A: pysan NOT FOUND
+dru aor 3P: identical
+DA aor 1P: identical
+DA aor 1Q: pysan NOT FOUND
+Df aor 3A: pysan NOT FOUND
+Df aor 3P: pysan NOT FOUND
+DyA aor 4A: pysan NOT FOUND
+DyA aor 4P: pysan NOT FOUND
+DyA aor 5A: pysan NOT FOUND
+DyA aor 6P: pysan NOT FOUND
+Dvf aor 4A: pysan NOT FOUND
+Dvf aor 4P: identical
+nakz aor 4A: pysan NOT FOUND
+nakz aor 4P: pysan NOT FOUND
+nam aor 5A: pysan NOT FOUND
+nam aor 6P: identical
+nI aor 4A: identical
+nI aor 4P: identical
+pac aor 1Q: pysan NOT FOUND
+pac aor 3A: pysan NOT FOUND
+pac aor 3P: pysan NOT FOUND
+pac aor 7A: pysan NOT FOUND
+pac aor 7P: pysan NOT FOUND
+paW aor 3A: pysan NOT FOUND
+paW aor 3P: pysan NOT FOUND
+paW aor 5A: pysan NOT FOUND
+paW aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) apaWIt != apAWIt,apaWIt (pysan)
+     3d (huet) apaWizwAm != apAWizwAm,apaWizwAm (pysan)
+     3p (huet) apaWizur != apAWizuH,apaWizuH (pysan)
+     2s (huet) apaWIH != apAWIH,apaWIH (pysan)
+     2d (huet) apaWizwam != apAWizwam,apaWizwam (pysan)
+     2p (huet) apaWizwa != apAWizwa,apaWizwa (pysan)
+     1s (huet) apaWizam != apAWizam,apaWizam (pysan)
+     1d (huet) apaWizva != apAWizva,apaWizva (pysan)
+     1p (huet) apaWizma != apAWizma,apaWizma (pysan)
+pat aor 2P: identical
+pA aor 1P: identical
+pA aor 1Q: pysan NOT FOUND
+pA aor 5A: pysan NOT FOUND
+pA aor 6P: identical
+pU aor 5A: identical
+pU aor 5P: identical
+pfc aor 5A: pysan NOT FOUND
+pfc aor 5P: identical
+pF aor 5P: identical
+praS aor 4A: pysan NOT FOUND
+praS aor 4P: pysan NOT FOUND
+prI aor 1P: pysan NOT FOUND
+prI aor 4A: identical
+prI aor 4P: identical
+bAD aor 5A: identical
+bAD aor 5P: identical
+buD aor 1Q: pysan NOT FOUND
+buD aor 4A: conjugation differences @ 3s,2p 
+     3s (huet) abudDa != aboDi,abudDa (pysan)
+     2p (huet) abudDvam != aBudvam (pysan)
+buD aor 4P: pysan NOT FOUND
+buD aor 5A: identical
+buD aor 5P: pysan NOT FOUND
+BA aor 4A: pysan NOT FOUND
+BA aor 4P: pysan NOT FOUND
+BI aor 4A: identical
+BI aor 4P: identical
+BU aor 1P: identical
+BU aor 1Q: pysan NOT FOUND
+mad aor 5A: pysan NOT FOUND
+mad aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amAdIt != amAdIt,amadIt (pysan)
+     3d (huet) amAdizwAm != amAdizwAm,amadizwAm (pysan)
+     3p (huet) amAdizur != amAdizuH,amadizuH (pysan)
+     2s (huet) amAdIH != amAdIH,amadIH (pysan)
+     2d (huet) amAdizwam != amAdizwam,amadizwam (pysan)
+     2p (huet) amAdizwa != amAdizwa,amadizwa (pysan)
+     1s (huet) amAdizam != amAdizam,amadizam (pysan)
+     1d (huet) amAdizva != amAdizva,amadizva (pysan)
+     1p (huet) amAdizma != amAdizma,amadizma (pysan)
+mIl aor 3A: pysan NOT FOUND
+mIl aor 3P: pysan NOT FOUND
+muc aor 2A: pysan NOT FOUND
+muc aor 2P: identical
+muc aor 3A: pysan NOT FOUND
+muc aor 3P: pysan NOT FOUND
+muc aor 4A: identical
+muc aor 4P: pysan NOT FOUND
+mud aor 5A: identical
+mud aor 5P: pysan NOT FOUND
+mUrC aor 5A: pysan NOT FOUND
+mUrC aor 5P: pysan NOT FOUND
+mf aor 1A: pysan NOT FOUND
+mf aor 3P: pysan NOT FOUND
+mnA aor 5A: pysan NOT FOUND
+mnA aor 6P: identical
+mlecC aor 5A: pysan NOT FOUND
+mlecC aor 5P: pysan NOT FOUND
+yaj aor 3A: pysan NOT FOUND
+yaj aor 3P: pysan NOT FOUND
+yaj aor 4A: conjugation differences @ 2p 
+     2p (huet) ayaqQvam != ayagDvam (pysan)
+yaj aor 4P: identical
+yA aor 5A: pysan NOT FOUND
+yA aor 6P: identical
+yAc aor 5A: identical
+yAc aor 5P: identical
+yuj aor 2A: pysan NOT FOUND
+yuj aor 2P: identical
+yuj aor 4A: identical
+yuj aor 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ayOkzIt,ayokzIt != ayOkzIt (pysan)
+     3d (huet) ayOktAm,ayoktAm != ayOktAm (pysan)
+     3p (huet) ayOkzur,ayokzur != ayOkzuH (pysan)
+     2s (huet) ayOkzIH,ayokzIH != ayOkzIH (pysan)
+     2d (huet) ayOktam,ayoktam != ayOktam (pysan)
+     2p (huet) ayOkta,ayokta != ayOkta (pysan)
+     1s (huet) ayOkzam,ayokzam != ayOkzam (pysan)
+     1d (huet) ayOkzva,ayokzva != ayOkzva (pysan)
+     1p (huet) ayOkzma,ayokzma != ayOkzma (pysan)
+rakz aor 3A: pysan NOT FOUND
+rakz aor 3P: pysan NOT FOUND
+ram aor 4A: conjugation differences @ 2p 
+     2p (huet) aranDvam != araMDvam (pysan)
+ram aor 4P: pysan NOT FOUND
+rAD aor 3P: pysan NOT FOUND
+ric aor 2A: pysan NOT FOUND
+ric aor 2P: identical
+ric aor 3A: pysan NOT FOUND
+ric aor 3P: pysan NOT FOUND
+ruc aor 2A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) arucata != arucat (pysan)
+     3d (huet) arucetAm != arucatAm (pysan)
+     3p (huet) arucanta != arucan (pysan)
+     2s (huet) arucaTAH != arucaH (pysan)
+     2d (huet) aruceTAm != arucatam (pysan)
+     2p (huet) arucaDvam != arucata (pysan)
+     1s (huet) aruce != arucam (pysan)
+     1d (huet) arucAvahi != arucAva (pysan)
+     1p (huet) arucAmahi != arucAma (pysan)
+ruc aor 2P: pysan NOT FOUND
+ruc aor 5A: identical
+ruc aor 5P: pysan NOT FOUND
+ruD aor 2A: pysan NOT FOUND
+ruD aor 2P: identical
+laB aor 4A: identical
+laB aor 4P: pysan NOT FOUND
+luYc aor 5A: pysan NOT FOUND
+luYc aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aluYcIt != aloYcIt (pysan)
+     3d (huet) aluYcizwAm != aloYcizwAm (pysan)
+     3p (huet) aluYcizur != aloYcizuH (pysan)
+     2s (huet) aluYcIH != aloYcIH (pysan)
+     2d (huet) aluYcizwam != aloYcizwam (pysan)
+     2p (huet) aluYcizwa != aloYcizwa (pysan)
+     1s (huet) aluYcizam != aloYcizam (pysan)
+     1d (huet) aluYcizva != aloYcizva (pysan)
+     1p (huet) aluYcizma != aloYcizma (pysan)
+lU aor 5A: identical
+lU aor 5P: identical
+vac aor 1Q: pysan NOT FOUND
+vac aor 2P: identical
+vad aor 5A: identical
+vad aor 5P: identical
+vaD aor 5A: pysan NOT FOUND
+vaD aor 5P: pysan NOT FOUND
+vid aor 2A: identical
+vid aor 2P: identical
+vid aor 5A: identical
+vid aor 5P: identical
+viS aor 3A: pysan NOT FOUND
+viS aor 3P: pysan NOT FOUND
+viS aor 7A: pysan NOT FOUND
+viS aor 7P: identical
+vf aor 3A: pysan NOT FOUND
+vf aor 3P: pysan NOT FOUND
+vf aor 4A: conjugation differences @ 3s,2s 
+     3s (huet) avfzwa != avfta (pysan)
+     2s (huet) avfzWAH != avfTAH (pysan)
+vf aor 4P: pysan NOT FOUND
+vf aor 5A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) avarizwa != avarIzwa,avarizwa (pysan)
+     3d (huet) avarizAtAm != avarIzAtAm,avarizAtAm (pysan)
+     3p (huet) avarizata != avarIzata,avarizata (pysan)
+     2s (huet) avarizWAH != avarIzWAH,avarizWAH (pysan)
+     2d (huet) avarizATAm != avarIzATAm,avarizATAm (pysan)
+     2p (huet) avariDvam != avarIDvam,avariDvam (pysan)
+     1s (huet) avarizi != avarIzi,avarizi (pysan)
+     1d (huet) avarizvahi != avarIzvahi,avarizvahi (pysan)
+     1p (huet) avarizmahi != avarIzmahi,avarizmahi (pysan)
+vf aor 5P: identical
+vfj aor 7A: pysan NOT FOUND
+vfj aor 7P: pysan NOT FOUND
+vft aor 2A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) avftata != avftat (pysan)
+     3d (huet) avftetAm != avftatAm (pysan)
+     3p (huet) avftanta != avftan (pysan)
+     2s (huet) avftaTAH != avftaH (pysan)
+     2d (huet) avfteTAm != avftatam (pysan)
+     2p (huet) avftaDvam != avftata (pysan)
+     1s (huet) avfte != avftam (pysan)
+     1d (huet) avftAvahi != avftAva (pysan)
+     1p (huet) avftAmahi != avftAma (pysan)
+vft aor 2P: pysan NOT FOUND
+vft aor 3A: pysan NOT FOUND
+vft aor 3P: pysan NOT FOUND
+vyaD aor 3A: pysan NOT FOUND
+vyaD aor 3P: pysan NOT FOUND
+vyaD aor 4A: pysan NOT FOUND
+vyaD aor 4P: identical
+vyA aor 2A: pysan NOT FOUND
+vyA aor 2P: pysan NOT FOUND
+vraj aor 5A: pysan NOT FOUND
+vraj aor 5P: pysan NOT FOUND
+vraSc aor 3P: pysan NOT FOUND
+vraSc aor 4P: conjugation differences @ 3d,2d,2p 
+     3d (huet) avrAktAm != avrAzwAm (pysan)
+     2d (huet) avrAktam != avrAzwam (pysan)
+     2p (huet) avrAkta != avrAzwa (pysan)
+vraSc aor 5P: identical
+SA aor 1P: pysan NOT FOUND
+SA aor 1Q: pysan NOT FOUND
+SA aor 5A: pysan NOT FOUND
+SA aor 6P: pysan NOT FOUND
+Suc aor 2A: pysan NOT FOUND
+Suc aor 2P: identical
+SuD aor 2A: pysan NOT FOUND
+SuD aor 2P: identical
+SU aor 2P: pysan NOT FOUND
+SU aor 5P: pysan NOT FOUND
+SF aor 5A: pysan NOT FOUND
+SF aor 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSarIt != aSArIt (pysan)
+     3d (huet) aSarizwAm != aSArizwAm (pysan)
+     3p (huet) aSarizur != aSArizuH (pysan)
+     2s (huet) aSarIH != aSArIH (pysan)
+     2d (huet) aSarizwam != aSArizwam (pysan)
+     2p (huet) aSarizwa != aSArizwa (pysan)
+     1s (huet) aSarizam != aSArizam (pysan)
+     1d (huet) aSarizva != aSArizva (pysan)
+     1p (huet) aSarizma != aSArizma (pysan)
+Scut aor 2P: identical
+Scut aor 5P: identical
+Sri aor 3A: identical
+Sri aor 3P: identical
+Sru aor 1Q: pysan NOT FOUND
+Sru aor 2P: pysan NOT FOUND
+Sru aor 3A: pysan NOT FOUND
+Sru aor 3P: pysan NOT FOUND
+Sru aor 4A: pysan NOT FOUND
+Sru aor 4P: identical
+sA aor 1P: pysan NOT FOUND
+sA aor 1Q: pysan NOT FOUND
+sic aor 2A: identical
+sic aor 2P: identical
+siD aor 5A: pysan NOT FOUND
+siD aor 5P: identical
+sfj aor 1Q: pysan NOT FOUND
+sfj aor 4A: pysan NOT FOUND
+sfj aor 4P: identical
+sKal aor 5A: pysan NOT FOUND
+sKal aor 5P: identical
+stu aor 1Q: pysan NOT FOUND
+stu aor 3A: pysan NOT FOUND
+stu aor 3P: pysan NOT FOUND
+stu aor 4A: identical
+stu aor 4P: pysan NOT FOUND
+stu aor 5A: identical
+stu aor 5P: identical
+sTA aor 1P: identical
+sTA aor 1Q: pysan NOT FOUND
+spand aor 5A: identical
+spaS aor 4A: pysan NOT FOUND
+spfS aor 4A: pysan NOT FOUND
+spfS aor 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asprAkzIt != aspArkzIt,asprAkzIt (pysan)
+     3d (huet) asprAzwAm != aspArzwAm,asprAzwAm (pysan)
+     3p (huet) asprAkzur != aspArkzuH,asprAkzuH (pysan)
+     2s (huet) asprAkzIH != aspArkzIH,asprAkzIH (pysan)
+     2d (huet) asprAzwam != aspArzwam,asprAzwam (pysan)
+     2p (huet) asprAzwa != aspArzwa,asprAzwa (pysan)
+     1s (huet) asprAkzam != aspArkzam,asprAkzam (pysan)
+     1d (huet) asprAkzva != aspArkzva,asprAkzva (pysan)
+     1p (huet) asprAkzma != aspArkzma,asprAkzma (pysan)
+sPuw aor 5P: identical
+svid aor 1P: pysan NOT FOUND
+has aor 1P: pysan NOT FOUND
+has aor 1Q: pysan NOT FOUND
+hA aor 1P: pysan NOT FOUND
+hA aor 1Q: pysan NOT FOUND
+hA aor 3P: pysan NOT FOUND
+hA aor 4A: identical
+hu aor 1Q: pysan NOT FOUND
+hu aor 4A: pysan NOT FOUND
+hu aor 4P: identical
+hU aor 2A: pysan NOT FOUND
+hU aor 2P: pysan NOT FOUND
