@@ -1,0 +1,27 @@
+i cnd A: identical
+i cnd P: identical
+kf cnd A: identical
+kf cnd P: identical
+tap cnd A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atapizyata,atapsyata != atapsyata (pysan)
+     3d (huet) atapizyetAm,atapsyetAm != atapsyetAm (pysan)
+     3p (huet) atapizyanta,atapsyanta != atapsyanta (pysan)
+     2s (huet) atapizyaTAH,atapsyaTAH != atapsyaTAH (pysan)
+     2d (huet) atapizyeTAm,atapsyeTAm != atapsyeTAm (pysan)
+     2p (huet) atapizyaDvam,atapsyaDvam != atapsyaDvam (pysan)
+     1s (huet) atapizye,atapsye != atapsye (pysan)
+     1d (huet) atapizyAvahi,atapsyAvahi != atapsyAvahi (pysan)
+     1p (huet) atapizyAmahi,atapsyAmahi != atapsyAmahi (pysan)
+tap cnd P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) atapizyat,atapsyat != atapsyat (pysan)
+     3d (huet) atapizyatAm,atapsyatAm != atapsyatAm (pysan)
+     3p (huet) atapizyan,atapsyan != atapsyan (pysan)
+     2s (huet) atapizyaH,atapsyaH != atapsyaH (pysan)
+     2d (huet) atapizyatam,atapsyatam != atapsyatam (pysan)
+     2p (huet) atapizyata,atapsyata != atapsyata (pysan)
+     1s (huet) atapizyam,atapsyam != atapsyam (pysan)
+     1d (huet) atapizyAva,atapsyAva != atapsyAva (pysan)
+     1p (huet) atapizyAma,atapsyAma != atapsyAma (pysan)
+dA cnd A: identical
+dA cnd P: identical
+BU cnd P: identical

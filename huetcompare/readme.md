@@ -23,4 +23,6 @@ See the readme file in these directories.
 * verbs-prim-prs   (SL_roots.xml) primary conjugation, present system
 * verbs-prim-pas   (SL_roots.xml) primary conjugation, passive system
 * verbs-tp-fut     (SL_roots.xml) future tense paradigm
-
+* verbs-tp-cnd     (SL_roots.xml) conditional tense paradigm
+* verbs-tp-ben     (SL_roots.xml) benedictive tense paradigm
+* verbs-tp-prf     (SL_roots.xml) perfect tense paradigm

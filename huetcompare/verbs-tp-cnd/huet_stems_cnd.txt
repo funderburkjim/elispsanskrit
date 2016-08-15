@@ -1,0 +1,5 @@
+i:A,P
+kf:A,P
+tap:A,P
+dA:A,P
+BU:P
