@@ -21,3 +21,6 @@ See the readme file in these directories.
 * pronouns  
 * nouns
 * verbs-prim-prs   (SL_roots.xml) primary conjugation, present system
+* verbs-prim-pas   (SL_roots.xml) primary conjugation, passive system
+* verbs-tp-fut     (SL_roots.xml) future tense paradigm
+

@@ -1,0 +1,2912 @@
+aMSa fut A: pysan NOT FOUND
+aMSa fut P: pysan NOT FOUND
+akz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) akzizyati,akzyati != akzizyati (pysan)
+     3d (huet) akzizyataH,akzyataH != akzizyataH (pysan)
+     3p (huet) akzizyanti,akzyanti != akzizyanti (pysan)
+     2s (huet) akzizyasi,akzyasi != akzizyasi (pysan)
+     2d (huet) akzizyaTaH,akzyaTaH != akzizyaTaH (pysan)
+     2p (huet) akzizyaTa,akzyaTa != akzizyaTa (pysan)
+     1s (huet) akzizyAmi,akzyAmi != akzizyAmi (pysan)
+     1d (huet) akzizyAvaH,akzyAvaH != akzizyAvaH (pysan)
+     1p (huet) akzizyAmaH,akzyAmaH != akzizyAmaH (pysan)
+agada fut A: pysan NOT FOUND
+agada fut P: pysan NOT FOUND
+aGa fut A: pysan NOT FOUND
+aGa fut P: pysan NOT FOUND
+aNka fut A: pysan NOT FOUND
+aNka fut P: pysan NOT FOUND
+aNKa fut A: pysan NOT FOUND
+aNKa fut P: pysan NOT FOUND
+aNg fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aNgizyati != aNgayizyati (pysan)
+     3d (huet) aNgizyataH != aNgayizyataH (pysan)
+     3p (huet) aNgizyanti != aNgayizyanti (pysan)
+     2s (huet) aNgizyasi != aNgayizyasi (pysan)
+     2d (huet) aNgizyaTaH != aNgayizyaTaH (pysan)
+     2p (huet) aNgizyaTa != aNgayizyaTa (pysan)
+     1s (huet) aNgizyAmi != aNgayizyAmi (pysan)
+     1d (huet) aNgizyAvaH != aNgayizyAvaH (pysan)
+     1p (huet) aNgizyAmaH != aNgayizyAmaH (pysan)
+aj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ajizyati != ajizyati,vezyati (pysan)
+     3d (huet) ajizyataH != ajizyataH,vezyataH (pysan)
+     3p (huet) ajizyanti != ajizyanti,vezyanti (pysan)
+     2s (huet) ajizyasi != ajizyasi,vezyasi (pysan)
+     2d (huet) ajizyaTaH != ajizyaTaH,vezyaTaH (pysan)
+     2p (huet) ajizyaTa != ajizyaTa,vezyaTa (pysan)
+     1s (huet) ajizyAmi != ajizyAmi,vezyAmi (pysan)
+     1d (huet) ajizyAvaH != ajizyAvaH,vezyAvaH (pysan)
+     1p (huet) ajizyAmaH != ajizyAmaH,vezyAmaH (pysan)
+ajira fut A: pysan NOT FOUND
+ajira fut P: pysan NOT FOUND
+aYc fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aYcizyate != aYcayizyate,aYcizyate (pysan)
+     3d (huet) aYcizyete != aYcayizyete,aYcizyete (pysan)
+     3p (huet) aYcizyante != aYcayizyante,aYcizyante (pysan)
+     2s (huet) aYcizyase != aYcayizyase,aYcizyase (pysan)
+     2d (huet) aYcizyeTe != aYcayizyeTe,aYcizyeTe (pysan)
+     2p (huet) aYcizyaDve != aYcayizyaDve,aYcizyaDve (pysan)
+     1s (huet) aYcizye != aYcayizye,aYcizye (pysan)
+     1d (huet) aYcizyAvahe != aYcayizyAvahe,aYcizyAvahe (pysan)
+     1p (huet) aYcizyAmahe != aYcayizyAmahe,aYcizyAmahe (pysan)
+aYc fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aYcizyati != aYcayizyati,aYcizyati (pysan)
+     3d (huet) aYcizyataH != aYcayizyataH,aYcizyataH (pysan)
+     3p (huet) aYcizyanti != aYcayizyanti,aYcizyanti (pysan)
+     2s (huet) aYcizyasi != aYcayizyasi,aYcizyasi (pysan)
+     2d (huet) aYcizyaTaH != aYcayizyaTaH,aYcizyaTaH (pysan)
+     2p (huet) aYcizyaTa != aYcayizyaTa,aYcizyaTa (pysan)
+     1s (huet) aYcizyAmi != aYcayizyAmi,aYcizyAmi (pysan)
+     1d (huet) aYcizyAvaH != aYcayizyAvaH,aYcizyAvaH (pysan)
+     1p (huet) aYcizyAmaH != aYcayizyAmaH,aYcizyAmaH (pysan)
+aYj fut A: identical
+aYj fut P: identical
+aw fut P: identical
+at fut P: identical
+ad fut P: identical
+aDvara fut A: pysan NOT FOUND
+aDvara fut P: pysan NOT FOUND
+an fut P: identical
+anDa fut A: pysan NOT FOUND
+anDa fut P: pysan NOT FOUND
+apsaras fut A: pysan NOT FOUND
+apsaras fut P: pysan NOT FOUND
+aBra fut A: pysan NOT FOUND
+aBra fut P: pysan NOT FOUND
+am fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) amIzyati != amizyati (pysan)
+     3d (huet) amIzyataH != amizyataH (pysan)
+     3p (huet) amIzyanti != amizyanti (pysan)
+     2s (huet) amIzyasi != amizyasi (pysan)
+     2d (huet) amIzyaTaH != amizyaTaH (pysan)
+     2p (huet) amIzyaTa != amizyaTa (pysan)
+     1s (huet) amIzyAmi != amizyAmi (pysan)
+     1d (huet) amIzyAvaH != amizyAvaH (pysan)
+     1p (huet) amIzyAmaH != amizyAmaH (pysan)
+amitra fut A: pysan NOT FOUND
+amitra fut P: pysan NOT FOUND
+arT fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) arTayizyate != arTayizyate,arTizyate (pysan)
+     3d (huet) arTayizyete != arTayizyete,arTizyete (pysan)
+     3p (huet) arTayizyante != arTayizyante,arTizyante (pysan)
+     2s (huet) arTayizyase != arTayizyase,arTizyase (pysan)
+     2d (huet) arTayizyeTe != arTayizyeTe,arTizyeTe (pysan)
+     2p (huet) arTayizyaDve != arTayizyaDve,arTizyaDve (pysan)
+     1s (huet) arTayizye != arTayizye,arTizye (pysan)
+     1d (huet) arTayizyAvahe != arTayizyAvahe,arTizyAvahe (pysan)
+     1p (huet) arTayizyAmahe != arTayizyAmahe,arTizyAmahe (pysan)
+arT fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) arTayizyati != arTayizyati,arTizyati (pysan)
+     3d (huet) arTayizyataH != arTayizyataH,arTizyataH (pysan)
+     3p (huet) arTayizyanti != arTayizyanti,arTizyanti (pysan)
+     2s (huet) arTayizyasi != arTayizyasi,arTizyasi (pysan)
+     2d (huet) arTayizyaTaH != arTayizyaTaH,arTizyaTaH (pysan)
+     2p (huet) arTayizyaTa != arTayizyaTa,arTizyaTa (pysan)
+     1s (huet) arTayizyAmi != arTayizyAmi,arTizyAmi (pysan)
+     1d (huet) arTayizyAvaH != arTayizyAvaH,arTizyAvaH (pysan)
+     1p (huet) arTayizyAmaH != arTayizyAmaH,arTizyAmaH (pysan)
+arTa fut A: pysan NOT FOUND
+arTa fut P: pysan NOT FOUND
+ard fut P: identical
+arh fut A: identical
+arh fut P: identical
+av fut P: identical
+aS fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSizyate != aSizyate,akzyate (pysan)
+     3d (huet) aSizyete != aSizyete,akzyete (pysan)
+     3p (huet) aSizyante != aSizyante,akzyante (pysan)
+     2s (huet) aSizyase != aSizyase,akzyase (pysan)
+     2d (huet) aSizyeTe != aSizyeTe,akzyeTe (pysan)
+     2p (huet) aSizyaDve != aSizyaDve,akzyaDve (pysan)
+     1s (huet) aSizye != aSizye,akzye (pysan)
+     1d (huet) aSizyAvahe != aSizyAvahe,akzyAvahe (pysan)
+     1p (huet) aSizyAmahe != aSizyAmahe,akzyAmahe (pysan)
+aS fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) aSizyati != aSizyati,akzyati (pysan)
+     3d (huet) aSizyataH != aSizyataH,akzyataH (pysan)
+     3p (huet) aSizyanti != aSizyanti,akzyanti (pysan)
+     2s (huet) aSizyasi != aSizyasi,akzyasi (pysan)
+     2d (huet) aSizyaTaH != aSizyaTaH,akzyaTaH (pysan)
+     2p (huet) aSizyaTa != aSizyaTa,akzyaTa (pysan)
+     1s (huet) aSizyAmi != aSizyAmi,akzyAmi (pysan)
+     1d (huet) aSizyAvaH != aSizyAvaH,akzyAvaH (pysan)
+     1p (huet) aSizyAmaH != aSizyAmaH,akzyAmaH (pysan)
+aSana fut A: pysan NOT FOUND
+aSana fut P: pysan NOT FOUND
+aSva fut A: pysan NOT FOUND
+aSva fut P: pysan NOT FOUND
+as fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) asizyati != Bavizyati (pysan)
+     3d (huet) asizyataH != BavizyataH (pysan)
+     3p (huet) asizyanti != Bavizyanti (pysan)
+     2s (huet) asizyasi != Bavizyasi (pysan)
+     2d (huet) asizyaTaH != BavizyaTaH (pysan)
+     2p (huet) asizyaTa != BavizyaTa (pysan)
+     1s (huet) asizyAmi != BavizyAmi (pysan)
+     1d (huet) asizyAvaH != BavizyAvaH (pysan)
+     1p (huet) asizyAmaH != BavizyAmaH (pysan)
+asUya fut A: pysan NOT FOUND
+asUya fut P: pysan NOT FOUND
+AkarRa fut A: pysan NOT FOUND
+AkarRa fut P: pysan NOT FOUND
+Akula fut A: pysan NOT FOUND
+Akula fut P: pysan NOT FOUND
+Andola fut A: pysan NOT FOUND
+Andola fut P: pysan NOT FOUND
+Ap fut P: identical
+Avila fut A: pysan NOT FOUND
+Avila fut P: pysan NOT FOUND
+As fut A: identical
+i fut A: identical
+i fut P: identical
+in fut P: pysan NOT FOUND
+ind fut P: identical
+inD fut A: identical
+inv fut P: identical
+iras fut A: pysan NOT FOUND
+iras fut P: pysan NOT FOUND
+il fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) elizyati != elayizyati,elizyati (pysan)
+     3d (huet) elizyataH != elayizyataH,elizyataH (pysan)
+     3p (huet) elizyanti != elayizyanti,elizyanti (pysan)
+     2s (huet) elizyasi != elayizyasi,elizyasi (pysan)
+     2d (huet) elizyaTaH != elayizyaTaH,elizyaTaH (pysan)
+     2p (huet) elizyaTa != elayizyaTa,elizyaTa (pysan)
+     1s (huet) elizyAmi != elayizyAmi,elizyAmi (pysan)
+     1d (huet) elizyAvaH != elayizyAvaH,elizyAvaH (pysan)
+     1p (huet) elizyAmaH != elayizyAmaH,elizyAmaH (pysan)
+iz fut A: identical
+iz fut P: identical
+izuDi fut A: pysan NOT FOUND
+izuDi fut P: pysan NOT FOUND
+Ikz fut A: identical
+INK fut A: identical
+INK fut P: identical
+Iq fut A: identical
+Ir fut A: identical
+Irz fut P: pysan NOT FOUND
+IS fut A: identical
+IS fut P: identical
+Iz fut A: identical
+Ih fut A: identical
+ukz fut P: identical
+uc fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) ucizyati != ocizyati (pysan)
+     3d (huet) ucizyataH != ocizyataH (pysan)
+     3p (huet) ucizyanti != ocizyanti (pysan)
+     2s (huet) ucizyasi != ocizyasi (pysan)
+     2d (huet) ucizyaTaH != ocizyaTaH (pysan)
+     2p (huet) ucizyaTa != ocizyaTa (pysan)
+     1s (huet) ucizyAmi != ocizyAmi (pysan)
+     1d (huet) ucizyAvaH != ocizyAvaH (pysan)
+     1p (huet) ucizyAmaH != ocizyAmaH (pysan)
+ujJ fut P: identical
+uYC fut P: identical
+utka fut A: pysan NOT FOUND
+utka fut P: pysan NOT FOUND
+utkaRW fut A: pysan NOT FOUND
+utkaRW fut P: pysan NOT FOUND
+udaka fut A: pysan NOT FOUND
+udaka fut P: pysan NOT FOUND
+udan fut A: pysan NOT FOUND
+udan fut P: pysan NOT FOUND
+und fut P: identical
+unmanas fut A: pysan NOT FOUND
+unmanas fut P: pysan NOT FOUND
+umB fut P: pysan NOT FOUND
+uras fut A: pysan NOT FOUND
+uras fut P: pysan NOT FOUND
+uruz fut A: pysan NOT FOUND
+uruz fut P: pysan NOT FOUND
+uz fut P: identical
+uzas fut A: pysan NOT FOUND
+uzas fut P: pysan NOT FOUND
+Uzman fut A: pysan NOT FOUND
+Uzman fut P: pysan NOT FOUND
+Uh fut A: identical
+Uh fut P: identical
+f fut A: identical
+f fut P: identical
+fc fut P: identical
+fj fut A: identical
+fj fut P: identical
+fD fut P: identical
+fz fut P: identical
+ej fut P: identical
+eD fut A: identical
+kaRq fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kaRqayizyate != kaRqayizyate,kaRqizyate (pysan)
+     3d (huet) kaRqayizyete != kaRqayizyete,kaRqizyete (pysan)
+     3p (huet) kaRqayizyante != kaRqayizyante,kaRqizyante (pysan)
+     2s (huet) kaRqayizyase != kaRqayizyase,kaRqizyase (pysan)
+     2d (huet) kaRqayizyeTe != kaRqayizyeTe,kaRqizyeTe (pysan)
+     2p (huet) kaRqayizyaDve != kaRqayizyaDve,kaRqizyaDve (pysan)
+     1s (huet) kaRqayizye != kaRqayizye,kaRqizye (pysan)
+     1d (huet) kaRqayizyAvahe != kaRqayizyAvahe,kaRqizyAvahe (pysan)
+     1p (huet) kaRqayizyAmahe != kaRqayizyAmahe,kaRqizyAmahe (pysan)
+kaRq fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kaRqayizyati != kaRqayizyati,kaRqizyati (pysan)
+     3d (huet) kaRqayizyataH != kaRqayizyataH,kaRqizyataH (pysan)
+     3p (huet) kaRqayizyanti != kaRqayizyanti,kaRqizyanti (pysan)
+     2s (huet) kaRqayizyasi != kaRqayizyasi,kaRqizyasi (pysan)
+     2d (huet) kaRqayizyaTaH != kaRqayizyaTaH,kaRqizyaTaH (pysan)
+     2p (huet) kaRqayizyaTa != kaRqayizyaTa,kaRqizyaTa (pysan)
+     1s (huet) kaRqayizyAmi != kaRqayizyAmi,kaRqizyAmi (pysan)
+     1d (huet) kaRqayizyAvaH != kaRqayizyAvaH,kaRqizyAvaH (pysan)
+     1p (huet) kaRqayizyAmaH != kaRqayizyAmaH,kaRqizyAmaH (pysan)
+kaRqu fut A: pysan NOT FOUND
+kaRqu fut P: pysan NOT FOUND
+kaRva fut A: pysan NOT FOUND
+kaRva fut P: pysan NOT FOUND
+katT fut A: identical
+kaT fut A: identical
+kaT fut P: identical
+kadarTa fut A: pysan NOT FOUND
+kadarTa fut P: pysan NOT FOUND
+kamp fut A: identical
+karuRa fut A: pysan NOT FOUND
+karuRa fut P: pysan NOT FOUND
+karRa fut A: pysan NOT FOUND
+karRa fut P: pysan NOT FOUND
+kartf fut A: pysan NOT FOUND
+kartf fut P: pysan NOT FOUND
+kal fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kalayizyate != kAlayizyate,kalayizyate,kalizyate (pysan)
+     3d (huet) kalayizyete != kAlayizyete,kalayizyete,kalizyete (pysan)
+     3p (huet) kalayizyante != kAlayizyante,kalayizyante,kalizyante (pysan)
+     2s (huet) kalayizyase != kAlayizyase,kalayizyase,kalizyase (pysan)
+     2d (huet) kalayizyeTe != kAlayizyeTe,kalayizyeTe,kalizyeTe (pysan)
+     2p (huet) kalayizyaDve != kAlayizyaDve,kalayizyaDve,kalizyaDve (pysan)
+     1s (huet) kalayizye != kAlayizye,kalayizye,kalizye (pysan)
+     1d (huet) kalayizyAvahe != kAlayizyAvahe,kalayizyAvahe,kalizyAvahe (pysan)
+     1p (huet) kalayizyAmahe != kAlayizyAmahe,kalayizyAmahe,kalizyAmahe (pysan)
+kal fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kalayizyati != kAlayizyati,kalayizyati,kalizyati (pysan)
+     3d (huet) kalayizyataH != kAlayizyataH,kalayizyataH,kalizyataH (pysan)
+     3p (huet) kalayizyanti != kAlayizyanti,kalayizyanti,kalizyanti (pysan)
+     2s (huet) kalayizyasi != kAlayizyasi,kalayizyasi,kalizyasi (pysan)
+     2d (huet) kalayizyaTaH != kAlayizyaTaH,kalayizyaTaH,kalizyaTaH (pysan)
+     2p (huet) kalayizyaTa != kAlayizyaTa,kalayizyaTa,kalizyaTa (pysan)
+     1s (huet) kalayizyAmi != kAlayizyAmi,kalayizyAmi,kalizyAmi (pysan)
+     1d (huet) kalayizyAvaH != kAlayizyAvaH,kalayizyAvaH,kalizyAvaH (pysan)
+     1p (huet) kalayizyAmaH != kAlayizyAmaH,kalayizyAmaH,kalizyAmaH (pysan)
+kalaNka fut A: pysan NOT FOUND
+kalaNka fut P: pysan NOT FOUND
+kalaha fut A: pysan NOT FOUND
+kalaha fut P: pysan NOT FOUND
+kaluza fut A: pysan NOT FOUND
+kaluza fut P: pysan NOT FOUND
+kavala fut A: pysan NOT FOUND
+kavala fut P: pysan NOT FOUND
+kavi fut A: pysan NOT FOUND
+kavi fut P: pysan NOT FOUND
+kaz fut P: identical
+kazwa fut A: pysan NOT FOUND
+kazwa fut P: pysan NOT FOUND
+kas fut P: identical
+kANkz fut A: identical
+kANkz fut P: identical
+kAS fut A: identical
+kIrt fut A: identical
+kIrt fut P: identical
+kIl fut P: identical
+kuc fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kocizyate != kucizyate (pysan)
+     3d (huet) kocizyete != kucizyete (pysan)
+     3p (huet) kocizyante != kucizyante (pysan)
+     2s (huet) kocizyase != kucizyase (pysan)
+     2d (huet) kocizyeTe != kucizyeTe (pysan)
+     2p (huet) kocizyaDve != kucizyaDve (pysan)
+     1s (huet) kocizye != kucizye (pysan)
+     1d (huet) kocizyAvahe != kucizyAvahe (pysan)
+     1p (huet) kocizyAmahe != kucizyAmahe (pysan)
+kuc fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kocizyati != kucizyati (pysan)
+     3d (huet) kocizyataH != kucizyataH (pysan)
+     3p (huet) kocizyanti != kucizyanti (pysan)
+     2s (huet) kocizyasi != kucizyasi (pysan)
+     2d (huet) kocizyaTaH != kucizyaTaH (pysan)
+     2p (huet) kocizyaTa != kucizyaTa (pysan)
+     1s (huet) kocizyAmi != kucizyAmi (pysan)
+     1d (huet) kocizyAvaH != kucizyAvaH (pysan)
+     1p (huet) kocizyAmaH != kucizyAmaH (pysan)
+kuw fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kowizyati != kowayizyati,kuwizyati (pysan)
+     3d (huet) kowizyataH != kowayizyataH,kuwizyataH (pysan)
+     3p (huet) kowizyanti != kowayizyanti,kuwizyanti (pysan)
+     2s (huet) kowizyasi != kowayizyasi,kuwizyasi (pysan)
+     2d (huet) kowizyaTaH != kowayizyaTaH,kuwizyaTaH (pysan)
+     2p (huet) kowizyaTa != kowayizyaTa,kuwizyaTa (pysan)
+     1s (huet) kowizyAmi != kowayizyAmi,kuwizyAmi (pysan)
+     1d (huet) kowizyAvaH != kowayizyAvaH,kuwizyAvaH (pysan)
+     1p (huet) kowizyAmaH != kowayizyAmaH,kuwizyAmaH (pysan)
+kuwwa fut A: pysan NOT FOUND
+kuwwa fut P: pysan NOT FOUND
+kuRW fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kuRWizyate != kuRWayizyate,kuRWizyate (pysan)
+     3d (huet) kuRWizyete != kuRWayizyete,kuRWizyete (pysan)
+     3p (huet) kuRWizyante != kuRWayizyante,kuRWizyante (pysan)
+     2s (huet) kuRWizyase != kuRWayizyase,kuRWizyase (pysan)
+     2d (huet) kuRWizyeTe != kuRWayizyeTe,kuRWizyeTe (pysan)
+     2p (huet) kuRWizyaDve != kuRWayizyaDve,kuRWizyaDve (pysan)
+     1s (huet) kuRWizye != kuRWayizye,kuRWizye (pysan)
+     1d (huet) kuRWizyAvahe != kuRWayizyAvahe,kuRWizyAvahe (pysan)
+     1p (huet) kuRWizyAmahe != kuRWayizyAmahe,kuRWizyAmahe (pysan)
+kuRW fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kuRWizyati != kuRWayizyati,kuRWizyati (pysan)
+     3d (huet) kuRWizyataH != kuRWayizyataH,kuRWizyataH (pysan)
+     3p (huet) kuRWizyanti != kuRWayizyanti,kuRWizyanti (pysan)
+     2s (huet) kuRWizyasi != kuRWayizyasi,kuRWizyasi (pysan)
+     2d (huet) kuRWizyaTaH != kuRWayizyaTaH,kuRWizyaTaH (pysan)
+     2p (huet) kuRWizyaTa != kuRWayizyaTa,kuRWizyaTa (pysan)
+     1s (huet) kuRWizyAmi != kuRWayizyAmi,kuRWizyAmi (pysan)
+     1d (huet) kuRWizyAvaH != kuRWayizyAvaH,kuRWizyAvaH (pysan)
+     1p (huet) kuRWizyAmaH != kuRWayizyAmaH,kuRWizyAmaH (pysan)
+kuRq fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kuRqizyate != kuRqayizyate,kuRqizyate (pysan)
+     3d (huet) kuRqizyete != kuRqayizyete,kuRqizyete (pysan)
+     3p (huet) kuRqizyante != kuRqayizyante,kuRqizyante (pysan)
+     2s (huet) kuRqizyase != kuRqayizyase,kuRqizyase (pysan)
+     2d (huet) kuRqizyeTe != kuRqayizyeTe,kuRqizyeTe (pysan)
+     2p (huet) kuRqizyaDve != kuRqayizyaDve,kuRqizyaDve (pysan)
+     1s (huet) kuRqizye != kuRqayizye,kuRqizye (pysan)
+     1d (huet) kuRqizyAvahe != kuRqayizyAvahe,kuRqizyAvahe (pysan)
+     1p (huet) kuRqizyAmahe != kuRqayizyAmahe,kuRqizyAmahe (pysan)
+kuRq fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kuRqizyati != kuRqayizyati,kuRqizyati (pysan)
+     3d (huet) kuRqizyataH != kuRqayizyataH,kuRqizyataH (pysan)
+     3p (huet) kuRqizyanti != kuRqayizyanti,kuRqizyanti (pysan)
+     2s (huet) kuRqizyasi != kuRqayizyasi,kuRqizyasi (pysan)
+     2d (huet) kuRqizyaTaH != kuRqayizyaTaH,kuRqizyaTaH (pysan)
+     2p (huet) kuRqizyaTa != kuRqayizyaTa,kuRqizyaTa (pysan)
+     1s (huet) kuRqizyAmi != kuRqayizyAmi,kuRqizyAmi (pysan)
+     1d (huet) kuRqizyAvaH != kuRqayizyAvaH,kuRqizyAvaH (pysan)
+     1p (huet) kuRqizyAmaH != kuRqayizyAmaH,kuRqizyAmaH (pysan)
+kuts fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kutsayizyate,kutsizyate != kutsayizyate (pysan)
+     3d (huet) kutsayizyete,kutsizyete != kutsayizyete (pysan)
+     3p (huet) kutsayizyante,kutsizyante != kutsayizyante (pysan)
+     2s (huet) kutsayizyase,kutsizyase != kutsayizyase (pysan)
+     2d (huet) kutsayizyeTe,kutsizyeTe != kutsayizyeTe (pysan)
+     2p (huet) kutsayizyaDve,kutsizyaDve != kutsayizyaDve (pysan)
+     1s (huet) kutsayizye,kutsizye != kutsayizye (pysan)
+     1d (huet) kutsayizyAvahe,kutsizyAvahe != kutsayizyAvahe (pysan)
+     1p (huet) kutsayizyAmahe,kutsizyAmahe != kutsayizyAmahe (pysan)
+kuts fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kutsayizyati,kutsizyati != kutsayizyati (pysan)
+     3d (huet) kutsayizyataH,kutsizyataH != kutsayizyataH (pysan)
+     3p (huet) kutsayizyanti,kutsizyanti != kutsayizyanti (pysan)
+     2s (huet) kutsayizyasi,kutsizyasi != kutsayizyasi (pysan)
+     2d (huet) kutsayizyaTaH,kutsizyaTaH != kutsayizyaTaH (pysan)
+     2p (huet) kutsayizyaTa,kutsizyaTa != kutsayizyaTa (pysan)
+     1s (huet) kutsayizyAmi,kutsizyAmi != kutsayizyAmi (pysan)
+     1d (huet) kutsayizyAvaH,kutsizyAvaH != kutsayizyAvaH (pysan)
+     1p (huet) kutsayizyAmaH,kutsizyAmaH != kutsayizyAmaH (pysan)
+kunT fut P: identical
+kup fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kopizyati != kopayizyati,kopizyati (pysan)
+     3d (huet) kopizyataH != kopayizyataH,kopizyataH (pysan)
+     3p (huet) kopizyanti != kopayizyanti,kopizyanti (pysan)
+     2s (huet) kopizyasi != kopayizyasi,kopizyasi (pysan)
+     2d (huet) kopizyaTaH != kopayizyaTaH,kopizyaTaH (pysan)
+     2p (huet) kopizyaTa != kopayizyaTa,kopizyaTa (pysan)
+     1s (huet) kopizyAmi != kopayizyAmi,kopizyAmi (pysan)
+     1d (huet) kopizyAvaH != kopayizyAvaH,kopizyAvaH (pysan)
+     1p (huet) kopizyAmaH != kopayizyAmaH,kopizyAmaH (pysan)
+kul fut P: identical
+kusuma fut A: pysan NOT FOUND
+kusuma fut P: pysan NOT FOUND
+kU fut A: identical
+kUj fut P: identical
+kf fut A: identical
+kf fut P: identical
+kfcCra fut A: pysan NOT FOUND
+kfcCra fut P: pysan NOT FOUND
+kft fut P: identical
+kfp fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karpizyate,karpsyate != karpizyate,kfpAyizyate,kfpayizyate (pysan)
+     3d (huet) karpizyete,karpsyete != karpizyete,kfpAyizyete,kfpayizyete (pysan)
+     3p (huet) karpizyante,karpsyante != karpizyante,kfpAyizyante,kfpayizyante (pysan)
+     2s (huet) karpizyase,karpsyase != karpizyase,kfpAyizyase,kfpayizyase (pysan)
+     2d (huet) karpizyeTe,karpsyeTe != karpizyeTe,kfpAyizyeTe,kfpayizyeTe (pysan)
+     2p (huet) karpizyaDve,karpsyaDve != karpizyaDve,kfpAyizyaDve,kfpayizyaDve (pysan)
+     1s (huet) karpizye,karpsye != karpizye,kfpAyizye,kfpayizye (pysan)
+     1d (huet) karpizyAvahe,karpsyAvahe != karpizyAvahe,kfpAyizyAvahe,kfpayizyAvahe (pysan)
+     1p (huet) karpizyAmahe,karpsyAmahe != karpizyAmahe,kfpAyizyAmahe,kfpayizyAmahe (pysan)
+kfS fut P: identical
+kfz fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karkzyate,karzizyate,krakzyate != karkzyate,krakzyate (pysan)
+     3d (huet) karkzyete,karzizyete,krakzyete != karkzyete,krakzyete (pysan)
+     3p (huet) karkzyante,karzizyante,krakzyante != karkzyante,krakzyante (pysan)
+     2s (huet) karkzyase,karzizyase,krakzyase != karkzyase,krakzyase (pysan)
+     2d (huet) karkzyeTe,karzizyeTe,krakzyeTe != karkzyeTe,krakzyeTe (pysan)
+     2p (huet) karkzyaDve,karzizyaDve,krakzyaDve != karkzyaDve,krakzyaDve (pysan)
+     1s (huet) karkzye,karzizye,krakzye != karkzye,krakzye (pysan)
+     1d (huet) karkzyAvahe,karzizyAvahe,krakzyAvahe != karkzyAvahe,krakzyAvahe (pysan)
+     1p (huet) karkzyAmahe,karzizyAmahe,krakzyAmahe != karkzyAmahe,krakzyAmahe (pysan)
+kfz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karkzyati,karzizyati,krakzyati != karkzyati,krakzyati (pysan)
+     3d (huet) karkzyataH,karzizyataH,krakzyataH != karkzyataH,krakzyataH (pysan)
+     3p (huet) karkzyanti,karzizyanti,krakzyanti != karkzyanti,krakzyanti (pysan)
+     2s (huet) karkzyasi,karzizyasi,krakzyasi != karkzyasi,krakzyasi (pysan)
+     2d (huet) karkzyaTaH,karzizyaTaH,krakzyaTaH != karkzyaTaH,krakzyaTaH (pysan)
+     2p (huet) karkzyaTa,karzizyaTa,krakzyaTa != karkzyaTa,krakzyaTa (pysan)
+     1s (huet) karkzyAmi,karzizyAmi,krakzyAmi != karkzyAmi,krakzyAmi (pysan)
+     1d (huet) karkzyAvaH,karzizyAvaH,krakzyAvaH != karkzyAvaH,krakzyAvaH (pysan)
+     1p (huet) karkzyAmaH,karzizyAmaH,krakzyAmaH != karkzyAmaH,krakzyAmaH (pysan)
+kF fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karIzyate,karizyate != kArayIzyate,kArayizyate,karIzyate,karizyate (pysan)
+     3d (huet) karIzyete,karizyete != kArayIzyete,kArayizyete,karIzyete,karizyete (pysan)
+     3p (huet) karIzyante,karizyante != kArayIzyante,kArayizyante,karIzyante,karizyante (pysan)
+     2s (huet) karIzyase,karizyase != kArayIzyase,kArayizyase,karIzyase,karizyase (pysan)
+     2d (huet) karIzyeTe,karizyeTe != kArayIzyeTe,kArayizyeTe,karIzyeTe,karizyeTe (pysan)
+     2p (huet) karIzyaDve,karizyaDve != kArayIzyaDve,kArayizyaDve,karIzyaDve,karizyaDve (pysan)
+     1s (huet) karIzye,karizye != kArayIzye,kArayizye,karIzye,karizye (pysan)
+     1d (huet) karIzyAvahe,karizyAvahe != kArayIzyAvahe,kArayizyAvahe,karIzyAvahe,karizyAvahe (pysan)
+     1p (huet) karIzyAmahe,karizyAmahe != kArayIzyAmahe,kArayizyAmahe,karIzyAmahe,karizyAmahe (pysan)
+kF fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) karIzyati,karizyati != kArayIzyati,kArayizyati,karIzyati,karizyati (pysan)
+     3d (huet) karIzyataH,karizyataH != kArayIzyataH,kArayizyataH,karIzyataH,karizyataH (pysan)
+     3p (huet) karIzyanti,karizyanti != kArayIzyanti,kArayizyanti,karIzyanti,karizyanti (pysan)
+     2s (huet) karIzyasi,karizyasi != kArayIzyasi,kArayizyasi,karIzyasi,karizyasi (pysan)
+     2d (huet) karIzyaTaH,karizyaTaH != kArayIzyaTaH,kArayizyaTaH,karIzyaTaH,karizyaTaH (pysan)
+     2p (huet) karIzyaTa,karizyaTa != kArayIzyaTa,kArayizyaTa,karIzyaTa,karizyaTa (pysan)
+     1s (huet) karIzyAmi,karizyAmi != kArayIzyAmi,kArayizyAmi,karIzyAmi,karizyAmi (pysan)
+     1d (huet) karIzyAvaH,karizyAvaH != kArayIzyAvaH,kArayizyAvaH,karIzyAvaH,karizyAvaH (pysan)
+     1p (huet) karIzyAmaH,karizyAmaH != kArayIzyAmaH,kArayizyAmaH,karIzyAmaH,karizyAmaH (pysan)
+kxp fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kalpizyate,kalpsyate != kalpizyate,kalpsyate,kalpsyati (pysan)
+     3d (huet) kalpizyete,kalpsyete != kalpizyete,kalpsyataH,kalpsyete (pysan)
+     3p (huet) kalpizyante,kalpsyante != kalpizyante,kalpsyante,kalpsyanti (pysan)
+     2s (huet) kalpizyase,kalpsyase != kalpizyase,kalpsyase,kalpsyasi (pysan)
+     2d (huet) kalpizyeTe,kalpsyeTe != kalpizyeTe,kalpsyaTaH,kalpsyeTe (pysan)
+     2p (huet) kalpizyaDve,kalpsyaDve != kalpizyaDve,kalpsyaDve,kalpsyaTa (pysan)
+     1s (huet) kalpizye,kalpsye != kalpizye,kalpsyAmi,kalpsye (pysan)
+     1d (huet) kalpizyAvahe,kalpsyAvahe != kalpizyAvahe,kalpsyAvaH,kalpsyAvahe (pysan)
+     1p (huet) kalpizyAmahe,kalpsyAmahe != kalpizyAmahe,kalpsyAmaH,kalpsyAmahe (pysan)
+kelA fut A: pysan NOT FOUND
+kelA fut P: pysan NOT FOUND
+krand fut P: identical
+kram fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kraMsyate,kramizyate != kramizyate (pysan)
+     3d (huet) kraMsyete,kramizyete != kramizyete (pysan)
+     3p (huet) kraMsyante,kramizyante != kramizyante (pysan)
+     2s (huet) kraMsyase,kramizyase != kramizyase (pysan)
+     2d (huet) kraMsyeTe,kramizyeTe != kramizyeTe (pysan)
+     2p (huet) kraMsyaDve,kramizyaDve != kramizyaDve (pysan)
+     1s (huet) kraMsye,kramizye != kramizye (pysan)
+     1d (huet) kraMsyAvahe,kramizyAvahe != kramizyAvahe (pysan)
+     1p (huet) kraMsyAmahe,kramizyAmahe != kramizyAmahe (pysan)
+kram fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kraMsyati,kramizyati != kramizyati (pysan)
+     3d (huet) kraMsyataH,kramizyataH != kramizyataH (pysan)
+     3p (huet) kraMsyanti,kramizyanti != kramizyanti (pysan)
+     2s (huet) kraMsyasi,kramizyasi != kramizyasi (pysan)
+     2d (huet) kraMsyaTaH,kramizyaTaH != kramizyaTaH (pysan)
+     2p (huet) kraMsyaTa,kramizyaTa != kramizyaTa (pysan)
+     1s (huet) kraMsyAmi,kramizyAmi != kramizyAmi (pysan)
+     1d (huet) kraMsyAvaH,kramizyAvaH != kramizyAvaH (pysan)
+     1p (huet) kraMsyAmaH,kramizyAmaH != kramizyAmaH (pysan)
+krI fut A: identical
+krI fut P: identical
+krIq fut P: identical
+kruYc fut P: identical
+kruD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) krotsyati != Krotsyati (pysan)
+     3d (huet) krotsyataH != KrotsyataH (pysan)
+     3p (huet) krotsyanti != Krotsyanti (pysan)
+     2s (huet) krotsyasi != Krotsyasi (pysan)
+     2d (huet) krotsyaTaH != KrotsyaTaH (pysan)
+     2p (huet) krotsyaTa != KrotsyaTa (pysan)
+     1s (huet) krotsyAmi != KrotsyAmi (pysan)
+     1d (huet) krotsyAvaH != KrotsyAvaH (pysan)
+     1p (huet) krotsyAmaH != KrotsyAmaH (pysan)
+kruS fut P: identical
+klam fut P: identical
+klav fut A: identical
+klid fut P: identical
+kliS fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kleSizyati != kleSizyati,klekzyati (pysan)
+     3d (huet) kleSizyataH != kleSizyataH,klekzyataH (pysan)
+     3p (huet) kleSizyanti != kleSizyanti,klekzyanti (pysan)
+     2s (huet) kleSizyasi != kleSizyasi,klekzyasi (pysan)
+     2d (huet) kleSizyaTaH != kleSizyaTaH,klekzyaTaH (pysan)
+     2p (huet) kleSizyaTa != kleSizyaTa,klekzyaTa (pysan)
+     1s (huet) kleSizyAmi != kleSizyAmi,klekzyAmi (pysan)
+     1d (huet) kleSizyAvaH != kleSizyAvaH,klekzyAvaH (pysan)
+     1p (huet) kleSizyAmaH != kleSizyAmaH,klekzyAmaH (pysan)
+klIba fut A: pysan NOT FOUND
+klIba fut P: pysan NOT FOUND
+kvaT fut P: identical
+kzad fut A: identical
+kzan fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzanizyate != kzaRizyate (pysan)
+     3d (huet) kzanizyete != kzaRizyete (pysan)
+     3p (huet) kzanizyante != kzaRizyante (pysan)
+     2s (huet) kzanizyase != kzaRizyase (pysan)
+     2d (huet) kzanizyeTe != kzaRizyeTe (pysan)
+     2p (huet) kzanizyaDve != kzaRizyaDve (pysan)
+     1s (huet) kzanizye != kzaRizye (pysan)
+     1d (huet) kzanizyAvahe != kzaRizyAvahe (pysan)
+     1p (huet) kzanizyAmahe != kzaRizyAmahe (pysan)
+kzan fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzanizyati != kzaRizyati (pysan)
+     3d (huet) kzanizyataH != kzaRizyataH (pysan)
+     3p (huet) kzanizyanti != kzaRizyanti (pysan)
+     2s (huet) kzanizyasi != kzaRizyasi (pysan)
+     2d (huet) kzanizyaTaH != kzaRizyaTaH (pysan)
+     2p (huet) kzanizyaTa != kzaRizyaTa (pysan)
+     1s (huet) kzanizyAmi != kzaRizyAmi (pysan)
+     1d (huet) kzanizyAvaH != kzaRizyAvaH (pysan)
+     1p (huet) kzanizyAmaH != kzaRizyAmaH (pysan)
+kzap fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzapizyate != kzapayizyate,kzapizyate (pysan)
+     3d (huet) kzapizyete != kzapayizyete,kzapizyete (pysan)
+     3p (huet) kzapizyante != kzapayizyante,kzapizyante (pysan)
+     2s (huet) kzapizyase != kzapayizyase,kzapizyase (pysan)
+     2d (huet) kzapizyeTe != kzapayizyeTe,kzapizyeTe (pysan)
+     2p (huet) kzapizyaDve != kzapayizyaDve,kzapizyaDve (pysan)
+     1s (huet) kzapizye != kzapayizye,kzapizye (pysan)
+     1d (huet) kzapizyAvahe != kzapayizyAvahe,kzapizyAvahe (pysan)
+     1p (huet) kzapizyAmahe != kzapayizyAmahe,kzapizyAmahe (pysan)
+kzap fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzapizyati != kzapayizyati,kzapizyati (pysan)
+     3d (huet) kzapizyataH != kzapayizyataH,kzapizyataH (pysan)
+     3p (huet) kzapizyanti != kzapayizyanti,kzapizyanti (pysan)
+     2s (huet) kzapizyasi != kzapayizyasi,kzapizyasi (pysan)
+     2d (huet) kzapizyaTaH != kzapayizyaTaH,kzapizyaTaH (pysan)
+     2p (huet) kzapizyaTa != kzapayizyaTa,kzapizyaTa (pysan)
+     1s (huet) kzapizyAmi != kzapayizyAmi,kzapizyAmi (pysan)
+     1d (huet) kzapizyAvaH != kzapayizyAvaH,kzapizyAvaH (pysan)
+     1p (huet) kzapizyAmaH != kzapayizyAmaH,kzapizyAmaH (pysan)
+kzam fut A: identical
+kzar fut P: identical
+kzi fut P: identical
+kzip fut A: identical
+kzip fut P: identical
+kzI fut P: pysan NOT FOUND
+kzIra fut A: pysan NOT FOUND
+kzIra fut P: pysan NOT FOUND
+kzu fut P: identical
+kzud fut A: identical
+kzud fut P: identical
+kzuD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) kzotsyati != Kzotsyati (pysan)
+     3d (huet) kzotsyataH != KzotsyataH (pysan)
+     3p (huet) kzotsyanti != Kzotsyanti (pysan)
+     2s (huet) kzotsyasi != Kzotsyasi (pysan)
+     2d (huet) kzotsyaTaH != KzotsyaTaH (pysan)
+     2p (huet) kzotsyaTa != KzotsyaTa (pysan)
+     1s (huet) kzotsyAmi != KzotsyAmi (pysan)
+     1d (huet) kzotsyAvaH != KzotsyAvaH (pysan)
+     1p (huet) kzotsyAmaH != KzotsyAmaH (pysan)
+kzuB fut P: identical
+kzviq fut P: identical
+Kaqa fut A: pysan NOT FOUND
+Kaqa fut P: pysan NOT FOUND
+KaRq fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) KaRqizyate != KaRqayizyate,KaRqizyate (pysan)
+     3d (huet) KaRqizyete != KaRqayizyete,KaRqizyete (pysan)
+     3p (huet) KaRqizyante != KaRqayizyante,KaRqizyante (pysan)
+     2s (huet) KaRqizyase != KaRqayizyase,KaRqizyase (pysan)
+     2d (huet) KaRqizyeTe != KaRqayizyeTe,KaRqizyeTe (pysan)
+     2p (huet) KaRqizyaDve != KaRqayizyaDve,KaRqizyaDve (pysan)
+     1s (huet) KaRqizye != KaRqayizye,KaRqizye (pysan)
+     1d (huet) KaRqizyAvahe != KaRqayizyAvahe,KaRqizyAvahe (pysan)
+     1p (huet) KaRqizyAmahe != KaRqayizyAmahe,KaRqizyAmahe (pysan)
+KaRq fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) KaRqizyati != KaRqayizyati,KaRqizyati (pysan)
+     3d (huet) KaRqizyataH != KaRqayizyataH,KaRqizyataH (pysan)
+     3p (huet) KaRqizyanti != KaRqayizyanti,KaRqizyanti (pysan)
+     2s (huet) KaRqizyasi != KaRqayizyasi,KaRqizyasi (pysan)
+     2d (huet) KaRqizyaTaH != KaRqayizyaTaH,KaRqizyaTaH (pysan)
+     2p (huet) KaRqizyaTa != KaRqayizyaTa,KaRqizyaTa (pysan)
+     1s (huet) KaRqizyAmi != KaRqayizyAmi,KaRqizyAmi (pysan)
+     1d (huet) KaRqizyAvaH != KaRqayizyAvaH,KaRqizyAvaH (pysan)
+     1p (huet) KaRqizyAmaH != KaRqayizyAmaH,KaRqizyAmaH (pysan)
+Kan fut A: identical
+Kan fut P: identical
+KAd fut P: identical
+Kid fut P: identical
+Kel fut P: identical
+Kela fut A: pysan NOT FOUND
+Kela fut P: pysan NOT FOUND
+KyA fut P: identical
+gaj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gajizyati != gAjayizyati,gajizyati (pysan)
+     3d (huet) gajizyataH != gAjayizyataH,gajizyataH (pysan)
+     3p (huet) gajizyanti != gAjayizyanti,gajizyanti (pysan)
+     2s (huet) gajizyasi != gAjayizyasi,gajizyasi (pysan)
+     2d (huet) gajizyaTaH != gAjayizyaTaH,gajizyaTaH (pysan)
+     2p (huet) gajizyaTa != gAjayizyaTa,gajizyaTa (pysan)
+     1s (huet) gajizyAmi != gAjayizyAmi,gajizyAmi (pysan)
+     1d (huet) gajizyAvaH != gAjayizyAvaH,gajizyAvaH (pysan)
+     1p (huet) gajizyAmaH != gAjayizyAmaH,gajizyAmaH (pysan)
+gaR fut A: identical
+gaR fut P: identical
+gad fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gadizyati != gAdayizyati,gadayizyati,gadizyati (pysan)
+     3d (huet) gadizyataH != gAdayizyataH,gadayizyataH,gadizyataH (pysan)
+     3p (huet) gadizyanti != gAdayizyanti,gadayizyanti,gadizyanti (pysan)
+     2s (huet) gadizyasi != gAdayizyasi,gadayizyasi,gadizyasi (pysan)
+     2d (huet) gadizyaTaH != gAdayizyaTaH,gadayizyaTaH,gadizyaTaH (pysan)
+     2p (huet) gadizyaTa != gAdayizyaTa,gadayizyaTa,gadizyaTa (pysan)
+     1s (huet) gadizyAmi != gAdayizyAmi,gadayizyAmi,gadizyAmi (pysan)
+     1d (huet) gadizyAvaH != gAdayizyAvaH,gadayizyAvaH,gadizyAvaH (pysan)
+     1p (huet) gadizyAmaH != gAdayizyAmaH,gadayizyAmaH,gadizyAmaH (pysan)
+gadgada fut A: pysan NOT FOUND
+gadgada fut P: pysan NOT FOUND
+gam fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gamizyate != gaMsyate (pysan)
+     3d (huet) gamizyete != gaMsyete (pysan)
+     3p (huet) gamizyante != gaMsyante (pysan)
+     2s (huet) gamizyase != gaMsyase (pysan)
+     2d (huet) gamizyeTe != gaMsyeTe (pysan)
+     2p (huet) gamizyaDve != gaMsyaDve (pysan)
+     1s (huet) gamizye != gaMsye (pysan)
+     1d (huet) gamizyAvahe != gaMsyAvahe (pysan)
+     1p (huet) gamizyAmahe != gaMsyAmahe (pysan)
+gam fut P: identical
+garj fut P: identical
+gard fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gardizyati != gardayizyati,gardizyati (pysan)
+     3d (huet) gardizyataH != gardayizyataH,gardizyataH (pysan)
+     3p (huet) gardizyanti != gardayizyanti,gardizyanti (pysan)
+     2s (huet) gardizyasi != gardayizyasi,gardizyasi (pysan)
+     2d (huet) gardizyaTaH != gardayizyaTaH,gardizyaTaH (pysan)
+     2p (huet) gardizyaTa != gardayizyaTa,gardizyaTa (pysan)
+     1s (huet) gardizyAmi != gardayizyAmi,gardizyAmi (pysan)
+     1d (huet) gardizyAvaH != gardayizyAvaH,gardizyAvaH (pysan)
+     1p (huet) gardizyAmaH != gardayizyAmaH,gardizyAmaH (pysan)
+garva fut A: pysan NOT FOUND
+garva fut P: pysan NOT FOUND
+garh fut A: identical
+garh fut P: identical
+gal fut P: identical
+galB fut A: identical
+gavez fut A: pysan NOT FOUND
+gavez fut P: pysan NOT FOUND
+gA fut P: identical
+gAh fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gAhizyate != GAkzyate,gAhizyate (pysan)
+     3d (huet) gAhizyete != GAkzyete,gAhizyete (pysan)
+     3p (huet) gAhizyante != GAkzyante,gAhizyante (pysan)
+     2s (huet) gAhizyase != GAkzyase,gAhizyase (pysan)
+     2d (huet) gAhizyeTe != GAkzyeTe,gAhizyeTe (pysan)
+     2p (huet) gAhizyaDve != GAkzyaDve,gAhizyaDve (pysan)
+     1s (huet) gAhizye != GAkzye,gAhizye (pysan)
+     1d (huet) gAhizyAvahe != GAkzyAvahe,gAhizyAvahe (pysan)
+     1p (huet) gAhizyAmahe != GAkzyAmahe,gAhizyAmahe (pysan)
+guYj fut P: identical
+gup fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gopayizyati != gopAyizyati,gopizyati,gopsyati (pysan)
+     3d (huet) gopayizyataH != gopAyizyataH,gopizyataH,gopsyataH (pysan)
+     3p (huet) gopayizyanti != gopAyizyanti,gopizyanti,gopsyanti (pysan)
+     2s (huet) gopayizyasi != gopAyizyasi,gopizyasi,gopsyasi (pysan)
+     2d (huet) gopayizyaTaH != gopAyizyaTaH,gopizyaTaH,gopsyaTaH (pysan)
+     2p (huet) gopayizyaTa != gopAyizyaTa,gopizyaTa,gopsyaTa (pysan)
+     1s (huet) gopayizyAmi != gopAyizyAmi,gopizyAmi,gopsyAmi (pysan)
+     1d (huet) gopayizyAvaH != gopAyizyAvaH,gopizyAvaH,gopsyAvaH (pysan)
+     1p (huet) gopayizyAmaH != gopAyizyAmaH,gopizyAmaH,gopsyAmaH (pysan)
+gumP fut P: identical
+gur fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) gorizyate != gurizyate (pysan)
+     3d (huet) gorizyete != gurizyete (pysan)
+     3p (huet) gorizyante != gurizyante (pysan)
+     2s (huet) gorizyase != gurizyase (pysan)
+     2d (huet) gorizyeTe != gurizyeTe (pysan)
+     2p (huet) gorizyaDve != gurizyaDve (pysan)
+     1s (huet) gorizye != gurizye (pysan)
+     1d (huet) gorizyAvahe != gurizyAvahe (pysan)
+     1p (huet) gorizyAmahe != gurizyAmahe (pysan)
+guh fut A: identical
+guh fut P: identical
+gfD fut P: identical
+gF fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) garIzyati,garizyati != gArayIzyati,gArayizyati,garIzyati,garizyati (pysan)
+     3d (huet) garIzyataH,garizyataH != gArayIzyataH,gArayizyataH,garIzyataH,garizyataH (pysan)
+     3p (huet) garIzyanti,garizyanti != gArayIzyanti,gArayizyanti,garIzyanti,garizyanti (pysan)
+     2s (huet) garIzyasi,garizyasi != gArayIzyasi,gArayizyasi,garIzyasi,garizyasi (pysan)
+     2d (huet) garIzyaTaH,garizyaTaH != gArayIzyaTaH,gArayizyaTaH,garIzyaTaH,garizyaTaH (pysan)
+     2p (huet) garIzyaTa,garizyaTa != gArayIzyaTa,gArayizyaTa,garIzyaTa,garizyaTa (pysan)
+     1s (huet) garIzyAmi,garizyAmi != gArayIzyAmi,gArayizyAmi,garIzyAmi,garizyAmi (pysan)
+     1d (huet) garIzyAvaH,garizyAvaH != gArayIzyAvaH,gArayizyAvaH,garIzyAvaH,garizyAvaH (pysan)
+     1p (huet) garIzyAmaH,garizyAmaH != gArayIzyAmaH,gArayizyAmaH,garIzyAmaH,garizyAmaH (pysan)
+go fut A: pysan NOT FOUND
+go fut P: pysan NOT FOUND
+gopA fut A: pysan NOT FOUND
+gopA fut P: pysan NOT FOUND
+gomaya fut A: pysan NOT FOUND
+gomaya fut P: pysan NOT FOUND
+granT fut P: pysan NOT FOUND
+gras fut A: identical
+gras fut P: identical
+grah fut A: identical
+grah fut P: identical
+glE fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) glEzyati != glAsyati (pysan)
+     3d (huet) glEzyataH != glAsyataH (pysan)
+     3p (huet) glEzyanti != glAsyanti (pysan)
+     2s (huet) glEzyasi != glAsyasi (pysan)
+     2d (huet) glEzyaTaH != glAsyaTaH (pysan)
+     2p (huet) glEzyaTa != glAsyaTa (pysan)
+     1s (huet) glEzyAmi != glAsyAmi (pysan)
+     1d (huet) glEzyAvaH != glAsyAvaH (pysan)
+     1p (huet) glEzyAmaH != glAsyAmaH (pysan)
+Gaw fut A: identical
+Gaww fut A: identical
+Gaww fut P: identical
+Guz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Gokzyati,Gozizyati != Gozizyati (pysan)
+     3d (huet) GokzyataH,GozizyataH != GozizyataH (pysan)
+     3p (huet) Gokzyanti,Gozizyanti != Gozizyanti (pysan)
+     2s (huet) Gokzyasi,Gozizyasi != Gozizyasi (pysan)
+     2d (huet) GokzyaTaH,GozizyaTaH != GozizyaTaH (pysan)
+     2p (huet) GokzyaTa,GozizyaTa != GozizyaTa (pysan)
+     1s (huet) GokzyAmi,GozizyAmi != GozizyAmi (pysan)
+     1d (huet) GokzyAvaH,GozizyAvaH != GozizyAvaH (pysan)
+     1p (huet) GokzyAmaH,GozizyAmaH != GozizyAmaH (pysan)
+GUrR fut A: identical
+GUrR fut P: identical
+Gf fut P: identical
+Gfz fut P: identical
+GrA fut P: identical
+cakz fut A: identical
+cakz fut P: identical
+caYc fut A: identical
+caYc fut P: identical
+caw fut P: identical
+cat fut A: identical
+cat fut P: identical
+cand fut P: identical
+cam fut P: identical
+car fut P: identical
+carca fut A: pysan NOT FOUND
+carca fut P: pysan NOT FOUND
+cal fut P: identical
+ci fut A: identical
+ci fut P: identical
+cit fut P: identical
+citra fut A: pysan NOT FOUND
+citra fut P: pysan NOT FOUND
+cumb fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cumbizyati != cumbayizyati,cumbizyati (pysan)
+     3d (huet) cumbizyataH != cumbayizyataH,cumbizyataH (pysan)
+     3p (huet) cumbizyanti != cumbayizyanti,cumbizyanti (pysan)
+     2s (huet) cumbizyasi != cumbayizyasi,cumbizyasi (pysan)
+     2d (huet) cumbizyaTaH != cumbayizyaTaH,cumbizyaTaH (pysan)
+     2p (huet) cumbizyaTa != cumbayizyaTa,cumbizyaTa (pysan)
+     1s (huet) cumbizyAmi != cumbayizyAmi,cumbizyAmi (pysan)
+     1d (huet) cumbizyAvaH != cumbayizyAvaH,cumbizyAvaH (pysan)
+     1p (huet) cumbizyAmaH != cumbayizyAmaH,cumbizyAmaH (pysan)
+cur fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) corayizyate,corizyate != corayizyate (pysan)
+     3d (huet) corayizyete,corizyete != corayizyete (pysan)
+     3p (huet) corayizyante,corizyante != corayizyante (pysan)
+     2s (huet) corayizyase,corizyase != corayizyase (pysan)
+     2d (huet) corayizyeTe,corizyeTe != corayizyeTe (pysan)
+     2p (huet) corayizyaDve,corizyaDve != corayizyaDve (pysan)
+     1s (huet) corayizye,corizye != corayizye (pysan)
+     1d (huet) corayizyAvahe,corizyAvahe != corayizyAvahe (pysan)
+     1p (huet) corayizyAmahe,corizyAmahe != corayizyAmahe (pysan)
+cur fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) corayizyati,corizyati != corayizyati (pysan)
+     3d (huet) corayizyataH,corizyataH != corayizyataH (pysan)
+     3p (huet) corayizyanti,corizyanti != corayizyanti (pysan)
+     2s (huet) corayizyasi,corizyasi != corayizyasi (pysan)
+     2d (huet) corayizyaTaH,corizyaTaH != corayizyaTaH (pysan)
+     2p (huet) corayizyaTa,corizyaTa != corayizyaTa (pysan)
+     1s (huet) corayizyAmi,corizyAmi != corayizyAmi (pysan)
+     1d (huet) corayizyAvaH,corizyAvaH != corayizyAvaH (pysan)
+     1p (huet) corayizyAmaH,corizyAmaH != corayizyAmaH (pysan)
+cUrRa fut A: pysan NOT FOUND
+cUrRa fut P: pysan NOT FOUND
+cUz fut A: identical
+cUz fut P: identical
+cezw fut A: identical
+cezw fut P: identical
+cyu fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) cyozyate != cyAvayizyate (pysan)
+     3d (huet) cyozyete != cyAvayizyete (pysan)
+     3p (huet) cyozyante != cyAvayizyante (pysan)
+     2s (huet) cyozyase != cyAvayizyase (pysan)
+     2d (huet) cyozyeTe != cyAvayizyeTe (pysan)
+     2p (huet) cyozyaDve != cyAvayizyaDve (pysan)
+     1s (huet) cyozye != cyAvayizye (pysan)
+     1d (huet) cyozyAvahe != cyAvayizyAvahe (pysan)
+     1p (huet) cyozyAmahe != cyAvayizyAmahe (pysan)
+Cad fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Cadizyate != CAdayizyate,Cadizyate (pysan)
+     3d (huet) Cadizyete != CAdayizyete,Cadizyete (pysan)
+     3p (huet) Cadizyante != CAdayizyante,Cadizyante (pysan)
+     2s (huet) Cadizyase != CAdayizyase,Cadizyase (pysan)
+     2d (huet) CadizyeTe != CAdayizyeTe,CadizyeTe (pysan)
+     2p (huet) CadizyaDve != CAdayizyaDve,CadizyaDve (pysan)
+     1s (huet) Cadizye != CAdayizye,Cadizye (pysan)
+     1d (huet) CadizyAvahe != CAdayizyAvahe,CadizyAvahe (pysan)
+     1p (huet) CadizyAmahe != CAdayizyAmahe,CadizyAmahe (pysan)
+Cad fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Cadizyati != CAdayizyati,Cadizyati (pysan)
+     3d (huet) CadizyataH != CAdayizyataH,CadizyataH (pysan)
+     3p (huet) Cadizyanti != CAdayizyanti,Cadizyanti (pysan)
+     2s (huet) Cadizyasi != CAdayizyasi,Cadizyasi (pysan)
+     2d (huet) CadizyaTaH != CAdayizyaTaH,CadizyaTaH (pysan)
+     2p (huet) CadizyaTa != CAdayizyaTa,CadizyaTa (pysan)
+     1s (huet) CadizyAmi != CAdayizyAmi,CadizyAmi (pysan)
+     1d (huet) CadizyAvaH != CAdayizyAvaH,CadizyAvaH (pysan)
+     1p (huet) CadizyAmaH != CAdayizyAmaH,CadizyAmaH (pysan)
+Cand fut A: pysan NOT FOUND
+Cand fut P: pysan NOT FOUND
+Cala fut A: pysan NOT FOUND
+Cala fut P: pysan NOT FOUND
+Cid fut A: identical
+Cid fut P: identical
+Cidra fut A: pysan NOT FOUND
+Cidra fut P: pysan NOT FOUND
+jakz fut P: identical
+jan fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jAsyate,janizyate != janizyate (pysan)
+     3d (huet) jAsyete,janizyete != janizyete (pysan)
+     3p (huet) jAsyante,janizyante != janizyante (pysan)
+     2s (huet) jAsyase,janizyase != janizyase (pysan)
+     2d (huet) jAsyeTe,janizyeTe != janizyeTe (pysan)
+     2p (huet) jAsyaDve,janizyaDve != janizyaDve (pysan)
+     1s (huet) jAsye,janizye != janizye (pysan)
+     1d (huet) jAsyAvahe,janizyAvahe != janizyAvahe (pysan)
+     1p (huet) jAsyAmahe,janizyAmahe != janizyAmahe (pysan)
+jan fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jAsyati,janizyati != janizyati (pysan)
+     3d (huet) jAsyataH,janizyataH != janizyataH (pysan)
+     3p (huet) jAsyanti,janizyanti != janizyanti (pysan)
+     2s (huet) jAsyasi,janizyasi != janizyasi (pysan)
+     2d (huet) jAsyaTaH,janizyaTaH != janizyaTaH (pysan)
+     2p (huet) jAsyaTa,janizyaTa != janizyaTa (pysan)
+     1s (huet) jAsyAmi,janizyAmi != janizyAmi (pysan)
+     1d (huet) jAsyAvaH,janizyAvaH != janizyAvaH (pysan)
+     1p (huet) jAsyAmaH,janizyAmaH != janizyAmaH (pysan)
+jap fut P: identical
+jaB fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jaBizyate != jamBizyate (pysan)
+     3d (huet) jaBizyete != jamBizyete (pysan)
+     3p (huet) jaBizyante != jamBizyante (pysan)
+     2s (huet) jaBizyase != jamBizyase (pysan)
+     2d (huet) jaBizyeTe != jamBizyeTe (pysan)
+     2p (huet) jaBizyaDve != jamBizyaDve (pysan)
+     1s (huet) jaBizye != jamBizye (pysan)
+     1d (huet) jaBizyAvahe != jamBizyAvahe (pysan)
+     1p (huet) jaBizyAmahe != jamBizyAmahe (pysan)
+jaB fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jaBizyati != jamBizyati (pysan)
+     3d (huet) jaBizyataH != jamBizyataH (pysan)
+     3p (huet) jaBizyanti != jamBizyanti (pysan)
+     2s (huet) jaBizyasi != jamBizyasi (pysan)
+     2d (huet) jaBizyaTaH != jamBizyaTaH (pysan)
+     2p (huet) jaBizyaTa != jamBizyaTa (pysan)
+     1s (huet) jaBizyAmi != jamBizyAmi (pysan)
+     1d (huet) jaBizyAvaH != jamBizyAvaH (pysan)
+     1p (huet) jaBizyAmaH != jamBizyAmaH (pysan)
+jam fut P: identical
+jala fut A: pysan NOT FOUND
+jala fut P: pysan NOT FOUND
+jalp fut P: identical
+jas fut P: identical
+jAgf fut P: identical
+ji fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jayizyate,jezyate != jezyate (pysan)
+     3d (huet) jayizyete,jezyete != jezyete (pysan)
+     3p (huet) jayizyante,jezyante != jezyante (pysan)
+     2s (huet) jayizyase,jezyase != jezyase (pysan)
+     2d (huet) jayizyeTe,jezyeTe != jezyeTe (pysan)
+     2p (huet) jayizyaDve,jezyaDve != jezyaDve (pysan)
+     1s (huet) jayizye,jezye != jezye (pysan)
+     1d (huet) jayizyAvahe,jezyAvahe != jezyAvahe (pysan)
+     1p (huet) jayizyAmahe,jezyAmahe != jezyAmahe (pysan)
+ji fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) jayizyati,jezyati != jezyati (pysan)
+     3d (huet) jayizyataH,jezyataH != jezyataH (pysan)
+     3p (huet) jayizyanti,jezyanti != jezyanti (pysan)
+     2s (huet) jayizyasi,jezyasi != jezyasi (pysan)
+     2d (huet) jayizyaTaH,jezyaTaH != jezyaTaH (pysan)
+     2p (huet) jayizyaTa,jezyaTa != jezyaTa (pysan)
+     1s (huet) jayizyAmi,jezyAmi != jezyAmi (pysan)
+     1d (huet) jayizyAvaH,jezyAvaH != jezyAvaH (pysan)
+     1p (huet) jayizyAmaH,jezyAmaH != jezyAmaH (pysan)
+jinv fut P: identical
+jihma fut A: pysan NOT FOUND
+jihma fut P: pysan NOT FOUND
+jIv fut P: identical
+juz fut A: identical
+jU fut A: pysan NOT FOUND
+jU fut P: pysan NOT FOUND
+jfmB fut A: identical
+jF fut A: identical
+jF fut P: identical
+jYA fut A: identical
+jYA fut P: identical
+jyA fut P: identical
+jyut fut A: identical
+jyut fut P: identical
+jvar fut P: pysan NOT FOUND
+jval fut P: identical
+qamb fut P: identical
+qI fut A: identical
+tak fut P: identical
+takz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) takzizyati != takzizyati,takzyati (pysan)
+     3d (huet) takzizyataH != takzizyataH,takzyataH (pysan)
+     3p (huet) takzizyanti != takzizyanti,takzyanti (pysan)
+     2s (huet) takzizyasi != takzizyasi,takzyasi (pysan)
+     2d (huet) takzizyaTaH != takzizyaTaH,takzyaTaH (pysan)
+     2p (huet) takzizyaTa != takzizyaTa,takzyaTa (pysan)
+     1s (huet) takzizyAmi != takzizyAmi,takzyAmi (pysan)
+     1d (huet) takzizyAvaH != takzizyAvaH,takzyAvaH (pysan)
+     1p (huet) takzizyAmaH != takzizyAmaH,takzyAmaH (pysan)
+taYc fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) taNkzyate,taYcizyate != taYcizyate (pysan)
+     3d (huet) taNkzyete,taYcizyete != taYcizyete (pysan)
+     3p (huet) taNkzyante,taYcizyante != taYcizyante (pysan)
+     2s (huet) taNkzyase,taYcizyase != taYcizyase (pysan)
+     2d (huet) taNkzyeTe,taYcizyeTe != taYcizyeTe (pysan)
+     2p (huet) taNkzyaDve,taYcizyaDve != taYcizyaDve (pysan)
+     1s (huet) taNkzye,taYcizye != taYcizye (pysan)
+     1d (huet) taNkzyAvahe,taYcizyAvahe != taYcizyAvahe (pysan)
+     1p (huet) taNkzyAmahe,taYcizyAmahe != taYcizyAmahe (pysan)
+taYc fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) taNkzyati,taYcizyati != taYcizyati (pysan)
+     3d (huet) taNkzyataH,taYcizyataH != taYcizyataH (pysan)
+     3p (huet) taNkzyanti,taYcizyanti != taYcizyanti (pysan)
+     2s (huet) taNkzyasi,taYcizyasi != taYcizyasi (pysan)
+     2d (huet) taNkzyaTaH,taYcizyaTaH != taYcizyaTaH (pysan)
+     2p (huet) taNkzyaTa,taYcizyaTa != taYcizyaTa (pysan)
+     1s (huet) taNkzyAmi,taYcizyAmi != taYcizyAmi (pysan)
+     1d (huet) taNkzyAvaH,taYcizyAvaH != taYcizyAvaH (pysan)
+     1p (huet) taNkzyAmaH,taYcizyAmaH != taYcizyAmaH (pysan)
+tan fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tanizyate != tAnayizyate,tanizyate (pysan)
+     3d (huet) tanizyete != tAnayizyete,tanizyete (pysan)
+     3p (huet) tanizyante != tAnayizyante,tanizyante (pysan)
+     2s (huet) tanizyase != tAnayizyase,tanizyase (pysan)
+     2d (huet) tanizyeTe != tAnayizyeTe,tanizyeTe (pysan)
+     2p (huet) tanizyaDve != tAnayizyaDve,tanizyaDve (pysan)
+     1s (huet) tanizye != tAnayizye,tanizye (pysan)
+     1d (huet) tanizyAvahe != tAnayizyAvahe,tanizyAvahe (pysan)
+     1p (huet) tanizyAmahe != tAnayizyAmahe,tanizyAmahe (pysan)
+tan fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tanizyati != tAnayizyati,tanizyati (pysan)
+     3d (huet) tanizyataH != tAnayizyataH,tanizyataH (pysan)
+     3p (huet) tanizyanti != tAnayizyanti,tanizyanti (pysan)
+     2s (huet) tanizyasi != tAnayizyasi,tanizyasi (pysan)
+     2d (huet) tanizyaTaH != tAnayizyaTaH,tanizyaTaH (pysan)
+     2p (huet) tanizyaTa != tAnayizyaTa,tanizyaTa (pysan)
+     1s (huet) tanizyAmi != tAnayizyAmi,tanizyAmi (pysan)
+     1d (huet) tanizyAvaH != tAnayizyAvaH,tanizyAvaH (pysan)
+     1p (huet) tanizyAmaH != tAnayizyAmaH,tanizyAmaH (pysan)
+tantra fut A: pysan NOT FOUND
+tantra fut P: pysan NOT FOUND
+tandr fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tandrayizyate != tandrizyate (pysan)
+     3d (huet) tandrayizyete != tandrizyete (pysan)
+     3p (huet) tandrayizyante != tandrizyante (pysan)
+     2s (huet) tandrayizyase != tandrizyase (pysan)
+     2d (huet) tandrayizyeTe != tandrizyeTe (pysan)
+     2p (huet) tandrayizyaDve != tandrizyaDve (pysan)
+     1s (huet) tandrayizye != tandrizye (pysan)
+     1d (huet) tandrayizyAvahe != tandrizyAvahe (pysan)
+     1p (huet) tandrayizyAmahe != tandrizyAmahe (pysan)
+tap fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tapizyate,tapsyate != tapsyate (pysan)
+     3d (huet) tapizyete,tapsyete != tapsyete (pysan)
+     3p (huet) tapizyante,tapsyante != tapsyante (pysan)
+     2s (huet) tapizyase,tapsyase != tapsyase (pysan)
+     2d (huet) tapizyeTe,tapsyeTe != tapsyeTe (pysan)
+     2p (huet) tapizyaDve,tapsyaDve != tapsyaDve (pysan)
+     1s (huet) tapizye,tapsye != tapsye (pysan)
+     1d (huet) tapizyAvahe,tapsyAvahe != tapsyAvahe (pysan)
+     1p (huet) tapizyAmahe,tapsyAmahe != tapsyAmahe (pysan)
+tap fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tapizyati,tapsyati != tapsyati (pysan)
+     3d (huet) tapizyataH,tapsyataH != tapsyataH (pysan)
+     3p (huet) tapizyanti,tapsyanti != tapsyanti (pysan)
+     2s (huet) tapizyasi,tapsyasi != tapsyasi (pysan)
+     2d (huet) tapizyaTaH,tapsyaTaH != tapsyaTaH (pysan)
+     2p (huet) tapizyaTa,tapsyaTa != tapsyaTa (pysan)
+     1s (huet) tapizyAmi,tapsyAmi != tapsyAmi (pysan)
+     1d (huet) tapizyAvaH,tapsyAvaH != tapsyAvaH (pysan)
+     1p (huet) tapizyAmaH,tapsyAmaH != tapsyAmaH (pysan)
+tapas fut A: pysan NOT FOUND
+tapas fut P: pysan NOT FOUND
+tam fut P: identical
+taraNga fut A: pysan NOT FOUND
+taraNga fut P: pysan NOT FOUND
+taruRa fut A: pysan NOT FOUND
+taruRa fut P: pysan NOT FOUND
+tark fut A: identical
+tark fut P: identical
+tarj fut P: identical
+taviza fut A: pysan NOT FOUND
+taviza fut P: pysan NOT FOUND
+tij fut A: identical
+tiras fut A: pysan NOT FOUND
+tiras fut P: pysan NOT FOUND
+tup fut P: identical
+tul fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tolayizyate,tulayizyate != tolayizyate (pysan)
+     3d (huet) tolayizyete,tulayizyete != tolayizyete (pysan)
+     3p (huet) tolayizyante,tulayizyante != tolayizyante (pysan)
+     2s (huet) tolayizyase,tulayizyase != tolayizyase (pysan)
+     2d (huet) tolayizyeTe,tulayizyeTe != tolayizyeTe (pysan)
+     2p (huet) tolayizyaDve,tulayizyaDve != tolayizyaDve (pysan)
+     1s (huet) tolayizye,tulayizye != tolayizye (pysan)
+     1d (huet) tolayizyAvahe,tulayizyAvahe != tolayizyAvahe (pysan)
+     1p (huet) tolayizyAmahe,tulayizyAmahe != tolayizyAmahe (pysan)
+tul fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tolayizyati,tulayizyati != tolayizyati (pysan)
+     3d (huet) tolayizyataH,tulayizyataH != tolayizyataH (pysan)
+     3p (huet) tolayizyanti,tulayizyanti != tolayizyanti (pysan)
+     2s (huet) tolayizyasi,tulayizyasi != tolayizyasi (pysan)
+     2d (huet) tolayizyaTaH,tulayizyaTaH != tolayizyaTaH (pysan)
+     2p (huet) tolayizyaTa,tulayizyaTa != tolayizyaTa (pysan)
+     1s (huet) tolayizyAmi,tulayizyAmi != tolayizyAmi (pysan)
+     1d (huet) tolayizyAvaH,tulayizyAvaH != tolayizyAvaH (pysan)
+     1p (huet) tolayizyAmaH,tulayizyAmaH != tolayizyAmaH (pysan)
+tuz fut P: identical
+tuhina fut A: pysan NOT FOUND
+tuhina fut P: pysan NOT FOUND
+tfd fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tardizyate != tardizyate,tartsyate (pysan)
+     3d (huet) tardizyete != tardizyete,tartsyete (pysan)
+     3p (huet) tardizyante != tardizyante,tartsyante (pysan)
+     2s (huet) tardizyase != tardizyase,tartsyase (pysan)
+     2d (huet) tardizyeTe != tardizyeTe,tartsyeTe (pysan)
+     2p (huet) tardizyaDve != tardizyaDve,tartsyaDve (pysan)
+     1s (huet) tardizye != tardizye,tartsye (pysan)
+     1d (huet) tardizyAvahe != tardizyAvahe,tartsyAvahe (pysan)
+     1p (huet) tardizyAmahe != tardizyAmahe,tartsyAmahe (pysan)
+tfd fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tardizyati != tardizyati,tartsyati (pysan)
+     3d (huet) tardizyataH != tardizyataH,tartsyataH (pysan)
+     3p (huet) tardizyanti != tardizyanti,tartsyanti (pysan)
+     2s (huet) tardizyasi != tardizyasi,tartsyasi (pysan)
+     2d (huet) tardizyaTaH != tardizyaTaH,tartsyaTaH (pysan)
+     2p (huet) tardizyaTa != tardizyaTa,tartsyaTa (pysan)
+     1s (huet) tardizyAmi != tardizyAmi,tartsyAmi (pysan)
+     1d (huet) tardizyAvaH != tardizyAvaH,tartsyAvaH (pysan)
+     1p (huet) tardizyAmaH != tardizyAmaH,tartsyAmaH (pysan)
+tfp fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tarpsyati != tarpizyati,tarpsyati,trapsyati (pysan)
+     3d (huet) tarpsyataH != tarpizyataH,tarpsyataH,trapsyataH (pysan)
+     3p (huet) tarpsyanti != tarpizyanti,tarpsyanti,trapsyanti (pysan)
+     2s (huet) tarpsyasi != tarpizyasi,tarpsyasi,trapsyasi (pysan)
+     2d (huet) tarpsyaTaH != tarpizyaTaH,tarpsyaTaH,trapsyaTaH (pysan)
+     2p (huet) tarpsyaTa != tarpizyaTa,tarpsyaTa,trapsyaTa (pysan)
+     1s (huet) tarpsyAmi != tarpizyAmi,tarpsyAmi,trapsyAmi (pysan)
+     1d (huet) tarpsyAvaH != tarpizyAvaH,tarpsyAvaH,trapsyAvaH (pysan)
+     1p (huet) tarpsyAmaH != tarpizyAmaH,tarpsyAmaH,trapsyAmaH (pysan)
+tfz fut P: identical
+tF fut P: identical
+tyaj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) tyajizyati,tyakzyati != tyakzyati (pysan)
+     3d (huet) tyajizyataH,tyakzyataH != tyakzyataH (pysan)
+     3p (huet) tyajizyanti,tyakzyanti != tyakzyanti (pysan)
+     2s (huet) tyajizyasi,tyakzyasi != tyakzyasi (pysan)
+     2d (huet) tyajizyaTaH,tyakzyaTaH != tyakzyaTaH (pysan)
+     2p (huet) tyajizyaTa,tyakzyaTa != tyakzyaTa (pysan)
+     1s (huet) tyajizyAmi,tyakzyAmi != tyakzyAmi (pysan)
+     1d (huet) tyajizyAvaH,tyakzyAvaH != tyakzyAvaH (pysan)
+     1p (huet) tyajizyAmaH,tyakzyAmaH != tyakzyAmaH (pysan)
+trap fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trapizyate != trapizyate,trapsyate (pysan)
+     3d (huet) trapizyete != trapizyete,trapsyete (pysan)
+     3p (huet) trapizyante != trapizyante,trapsyante (pysan)
+     2s (huet) trapizyase != trapizyase,trapsyase (pysan)
+     2d (huet) trapizyeTe != trapizyeTe,trapsyeTe (pysan)
+     2p (huet) trapizyaDve != trapizyaDve,trapsyaDve (pysan)
+     1s (huet) trapizye != trapizye,trapsye (pysan)
+     1d (huet) trapizyAvahe != trapizyAvahe,trapsyAvahe (pysan)
+     1p (huet) trapizyAmahe != trapizyAmahe,trapsyAmahe (pysan)
+tras fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trasizyati != trAsayizyati,trasizyati (pysan)
+     3d (huet) trasizyataH != trAsayizyataH,trasizyataH (pysan)
+     3p (huet) trasizyanti != trAsayizyanti,trasizyanti (pysan)
+     2s (huet) trasizyasi != trAsayizyasi,trasizyasi (pysan)
+     2d (huet) trasizyaTaH != trAsayizyaTaH,trasizyaTaH (pysan)
+     2p (huet) trasizyaTa != trAsayizyaTa,trasizyaTa (pysan)
+     1s (huet) trasizyAmi != trAsayizyAmi,trasizyAmi (pysan)
+     1d (huet) trasizyAvaH != trAsayizyAvaH,trasizyAvaH (pysan)
+     1p (huet) trasizyAmaH != trAsayizyAmaH,trasizyAmaH (pysan)
+truw fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trowizyati != truwizyati (pysan)
+     3d (huet) trowizyataH != truwizyataH (pysan)
+     3p (huet) trowizyanti != truwizyanti (pysan)
+     2s (huet) trowizyasi != truwizyasi (pysan)
+     2d (huet) trowizyaTaH != truwizyaTaH (pysan)
+     2p (huet) trowizyaTa != truwizyaTa (pysan)
+     1s (huet) trowizyAmi != truwizyAmi (pysan)
+     1d (huet) trowizyAvaH != truwizyAvaH (pysan)
+     1p (huet) trowizyAmaH != truwizyAmaH (pysan)
+trE fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) trEzyate != trAsyate (pysan)
+     3d (huet) trEzyete != trAsyete (pysan)
+     3p (huet) trEzyante != trAsyante (pysan)
+     2s (huet) trEzyase != trAsyase (pysan)
+     2d (huet) trEzyeTe != trAsyeTe (pysan)
+     2p (huet) trEzyaDve != trAsyaDve (pysan)
+     1s (huet) trEzye != trAsye (pysan)
+     1d (huet) trEzyAvahe != trAsyAvahe (pysan)
+     1p (huet) trEzyAmahe != trAsyAmahe (pysan)
+tvakz fut P: identical
+tvar fut A: identical
+tviz fut A: identical
+tviz fut P: identical
+tsar fut P: identical
+daMS fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) daMSizyati != daMSayizyati,daMkzyati (pysan)
+     3d (huet) daMSizyataH != daMSayizyataH,daMkzyataH (pysan)
+     3p (huet) daMSizyanti != daMSayizyanti,daMkzyanti (pysan)
+     2s (huet) daMSizyasi != daMSayizyasi,daMkzyasi (pysan)
+     2d (huet) daMSizyaTaH != daMSayizyaTaH,daMkzyaTaH (pysan)
+     2p (huet) daMSizyaTa != daMSayizyaTa,daMkzyaTa (pysan)
+     1s (huet) daMSizyAmi != daMSayizyAmi,daMkzyAmi (pysan)
+     1d (huet) daMSizyAvaH != daMSayizyAvaH,daMkzyAvaH (pysan)
+     1p (huet) daMSizyAmaH != daMSayizyAmaH,daMkzyAmaH (pysan)
+dakz fut A: identical
+daG fut P: identical
+daRqa fut A: pysan NOT FOUND
+daRqa fut P: pysan NOT FOUND
+daB fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) damBizyati != daBizyati (pysan)
+     3d (huet) damBizyataH != daBizyataH (pysan)
+     3p (huet) damBizyanti != daBizyanti (pysan)
+     2s (huet) damBizyasi != daBizyasi (pysan)
+     2d (huet) damBizyaTaH != daBizyaTaH (pysan)
+     2p (huet) damBizyaTa != daBizyaTa (pysan)
+     1s (huet) damBizyAmi != daBizyAmi (pysan)
+     1d (huet) damBizyAvaH != daBizyAvaH (pysan)
+     1p (huet) damBizyAmaH != daBizyAmaH (pysan)
+dam fut P: identical
+day fut A: identical
+dal fut P: identical
+das fut P: identical
+dah fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Dakzyati,dahizyati != Dakzyati (pysan)
+     3d (huet) DakzyataH,dahizyataH != DakzyataH (pysan)
+     3p (huet) Dakzyanti,dahizyanti != Dakzyanti (pysan)
+     2s (huet) Dakzyasi,dahizyasi != Dakzyasi (pysan)
+     2d (huet) DakzyaTaH,dahizyaTaH != DakzyaTaH (pysan)
+     2p (huet) DakzyaTa,dahizyaTa != DakzyaTa (pysan)
+     1s (huet) DakzyAmi,dahizyAmi != DakzyAmi (pysan)
+     1d (huet) DakzyAvaH,dahizyAvaH != DakzyAvaH (pysan)
+     1p (huet) DakzyAmaH,dahizyAmaH != DakzyAmaH (pysan)
+dA fut A: identical
+dA fut P: identical
+dAS fut A: identical
+dAS fut P: identical
+diS fut A: identical
+diS fut P: identical
+dih fut A: identical
+dih fut P: identical
+dIkz fut A: identical
+dIp fut A: identical
+dIv fut P: pysan NOT FOUND
+du fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) dozyati != duzyati (pysan)
+     3d (huet) dozyataH != duzyataH (pysan)
+     3p (huet) dozyanti != duzyanti (pysan)
+     2s (huet) dozyasi != duzyasi (pysan)
+     2d (huet) dozyaTaH != duzyaTaH (pysan)
+     2p (huet) dozyaTa != duzyaTa (pysan)
+     1s (huet) dozyAmi != duzyAmi (pysan)
+     1d (huet) dozyAvaH != duzyAvaH (pysan)
+     1p (huet) dozyAmaH != duzyAmaH (pysan)
+duHKa fut A: pysan NOT FOUND
+duHKa fut P: pysan NOT FOUND
+durdina fut A: pysan NOT FOUND
+durdina fut P: pysan NOT FOUND
+duz fut P: identical
+duh fut A: identical
+duh fut P: identical
+dfp fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) darpizyati,darpsyati != darpsyati (pysan)
+     3d (huet) darpizyataH,darpsyataH != darpsyataH (pysan)
+     3p (huet) darpizyanti,darpsyanti != darpsyanti (pysan)
+     2s (huet) darpizyasi,darpsyasi != darpsyasi (pysan)
+     2d (huet) darpizyaTaH,darpsyaTaH != darpsyaTaH (pysan)
+     2p (huet) darpizyaTa,darpsyaTa != darpsyaTa (pysan)
+     1s (huet) darpizyAmi,darpsyAmi != darpsyAmi (pysan)
+     1d (huet) darpizyAvaH,darpsyAvaH != darpsyAvaH (pysan)
+     1p (huet) darpizyAmaH,darpsyAmaH != darpsyAmaH (pysan)
+dfB fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) darBizyati != darBayizyati,darBizyati (pysan)
+     3d (huet) darBizyataH != darBayizyataH,darBizyataH (pysan)
+     3p (huet) darBizyanti != darBayizyanti,darBizyanti (pysan)
+     2s (huet) darBizyasi != darBayizyasi,darBizyasi (pysan)
+     2d (huet) darBizyaTaH != darBayizyaTaH,darBizyaTaH (pysan)
+     2p (huet) darBizyaTa != darBayizyaTa,darBizyaTa (pysan)
+     1s (huet) darBizyAmi != darBayizyAmi,darBizyAmi (pysan)
+     1d (huet) darBizyAvaH != darBayizyAvaH,darBizyAvaH (pysan)
+     1p (huet) darBizyAmaH != darBayizyAmaH,darBizyAmaH (pysan)
+dfS fut P: identical
+dfh fut P: identical
+dF fut P: identical
+dev fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) devizyate != devayizyate,devizyate (pysan)
+     3d (huet) devizyete != devayizyete,devizyete (pysan)
+     3p (huet) devizyante != devayizyante,devizyante (pysan)
+     2s (huet) devizyase != devayizyase,devizyase (pysan)
+     2d (huet) devizyeTe != devayizyeTe,devizyeTe (pysan)
+     2p (huet) devizyaDve != devayizyaDve,devizyaDve (pysan)
+     1s (huet) devizye != devayizye,devizye (pysan)
+     1d (huet) devizyAvahe != devayizyAvahe,devizyAvahe (pysan)
+     1p (huet) devizyAmahe != devayizyAmahe,devizyAmahe (pysan)
+dev fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) devizyati != devayizyati,devizyati (pysan)
+     3d (huet) devizyataH != devayizyataH,devizyataH (pysan)
+     3p (huet) devizyanti != devayizyanti,devizyanti (pysan)
+     2s (huet) devizyasi != devayizyasi,devizyasi (pysan)
+     2d (huet) devizyaTaH != devayizyaTaH,devizyaTaH (pysan)
+     2p (huet) devizyaTa != devayizyaTa,devizyaTa (pysan)
+     1s (huet) devizyAmi != devayizyAmi,devizyAmi (pysan)
+     1d (huet) devizyAvaH != devayizyAvaH,devizyAvaH (pysan)
+     1p (huet) devizyAmaH != devayizyAmaH,devizyAmaH (pysan)
+deva fut A: pysan NOT FOUND
+deva fut P: pysan NOT FOUND
+dola fut A: pysan NOT FOUND
+dola fut P: pysan NOT FOUND
+dyut fut A: identical
+dyut fut P: identical
+drA fut A: identical
+drA fut P: identical
+dru fut P: identical
+druh fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) drohizyati != Drokzyati,drohizyati (pysan)
+     3d (huet) drohizyataH != DrokzyataH,drohizyataH (pysan)
+     3p (huet) drohizyanti != Drokzyanti,drohizyanti (pysan)
+     2s (huet) drohizyasi != Drokzyasi,drohizyasi (pysan)
+     2d (huet) drohizyaTaH != DrokzyaTaH,drohizyaTaH (pysan)
+     2p (huet) drohizyaTa != DrokzyaTa,drohizyaTa (pysan)
+     1s (huet) drohizyAmi != DrokzyAmi,drohizyAmi (pysan)
+     1d (huet) drohizyAvaH != DrokzyAvaH,drohizyAvaH (pysan)
+     1p (huet) drohizyAmaH != DrokzyAmaH,drohizyAmaH (pysan)
+dviz fut A: identical
+dviz fut P: identical
+Dana fut A: pysan NOT FOUND
+Dana fut P: pysan NOT FOUND
+Dam fut P: identical
+DA fut A: identical
+DA fut P: identical
+DAv fut A: identical
+DAv fut P: identical
+DI fut A: identical
+DIra fut A: pysan NOT FOUND
+DIra fut P: pysan NOT FOUND
+Dukz fut A: identical
+DU fut A: identical
+DU fut P: identical
+DUma fut A: pysan NOT FOUND
+DUma fut P: pysan NOT FOUND
+Df fut A: identical
+Df fut P: identical
+Dfz fut A: identical
+Dfz fut P: identical
+DyA fut P: pysan NOT FOUND
+Dru fut P: identical
+DvaMs fut A: identical
+DvaMs fut P: identical
+Dvan fut P: identical
+DvANkz fut A: identical
+DvANkz fut P: identical
+Dvf fut P: identical
+nakz fut A: identical
+nakz fut P: identical
+naw fut P: identical
+nad fut P: identical
+nand fut P: identical
+nam fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) naMsyate,namizyate != naMsyate (pysan)
+     3d (huet) naMsyete,namizyete != naMsyete (pysan)
+     3p (huet) naMsyante,namizyante != naMsyante (pysan)
+     2s (huet) naMsyase,namizyase != naMsyase (pysan)
+     2d (huet) naMsyeTe,namizyeTe != naMsyeTe (pysan)
+     2p (huet) naMsyaDve,namizyaDve != naMsyaDve (pysan)
+     1s (huet) naMsye,namizye != naMsye (pysan)
+     1d (huet) naMsyAvahe,namizyAvahe != naMsyAvahe (pysan)
+     1p (huet) naMsyAmahe,namizyAmahe != naMsyAmahe (pysan)
+nam fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) naMsyati,namizyati != naMsyati (pysan)
+     3d (huet) naMsyataH,namizyataH != naMsyataH (pysan)
+     3p (huet) naMsyanti,namizyanti != naMsyanti (pysan)
+     2s (huet) naMsyasi,namizyasi != naMsyasi (pysan)
+     2d (huet) naMsyaTaH,namizyaTaH != naMsyaTaH (pysan)
+     2p (huet) naMsyaTa,namizyaTa != naMsyaTa (pysan)
+     1s (huet) naMsyAmi,namizyAmi != naMsyAmi (pysan)
+     1d (huet) naMsyAvaH,namizyAvaH != naMsyAvaH (pysan)
+     1p (huet) naMsyAmaH,namizyAmaH != naMsyAmaH (pysan)
+namas fut A: pysan NOT FOUND
+namas fut P: pysan NOT FOUND
+nard fut P: identical
+naS fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) naSizyati != naMkzyati,naSizyati (pysan)
+     3d (huet) naSizyataH != naMkzyataH,naSizyataH (pysan)
+     3p (huet) naSizyanti != naMkzyanti,naSizyanti (pysan)
+     2s (huet) naSizyasi != naMkzyasi,naSizyasi (pysan)
+     2d (huet) naSizyaTaH != naMkzyaTaH,naSizyaTaH (pysan)
+     2p (huet) naSizyaTa != naMkzyaTa,naSizyaTa (pysan)
+     1s (huet) naSizyAmi != naMkzyAmi,naSizyAmi (pysan)
+     1d (huet) naSizyAvaH != naMkzyAvaH,naSizyAvaH (pysan)
+     1p (huet) naSizyAmaH != naMkzyAmaH,naSizyAmaH (pysan)
+nah fut A: identical
+nah fut P: identical
+nAT fut A: identical
+nAT fut P: identical
+nikaza fut A: pysan NOT FOUND
+nikaza fut P: pysan NOT FOUND
+nij fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nekzyate,niYjizyate != nekzyate (pysan)
+     3d (huet) nekzyete,niYjizyete != nekzyete (pysan)
+     3p (huet) nekzyante,niYjizyante != nekzyante (pysan)
+     2s (huet) nekzyase,niYjizyase != nekzyase (pysan)
+     2d (huet) nekzyeTe,niYjizyeTe != nekzyeTe (pysan)
+     2p (huet) nekzyaDve,niYjizyaDve != nekzyaDve (pysan)
+     1s (huet) nekzye,niYjizye != nekzye (pysan)
+     1d (huet) nekzyAvahe,niYjizyAvahe != nekzyAvahe (pysan)
+     1p (huet) nekzyAmahe,niYjizyAmahe != nekzyAmahe (pysan)
+nij fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nekzyati,niYjizyati != nekzyati (pysan)
+     3d (huet) nekzyataH,niYjizyataH != nekzyataH (pysan)
+     3p (huet) nekzyanti,niYjizyanti != nekzyanti (pysan)
+     2s (huet) nekzyasi,niYjizyasi != nekzyasi (pysan)
+     2d (huet) nekzyaTaH,niYjizyaTaH != nekzyaTaH (pysan)
+     2p (huet) nekzyaTa,niYjizyaTa != nekzyaTa (pysan)
+     1s (huet) nekzyAmi,niYjizyAmi != nekzyAmi (pysan)
+     1d (huet) nekzyAvaH,niYjizyAvaH != nekzyAvaH (pysan)
+     1p (huet) nekzyAmaH,niYjizyAmaH != nekzyAmaH (pysan)
+nind fut P: identical
+nI fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nayizyate,nezyate != nezyate (pysan)
+     3d (huet) nayizyete,nezyete != nezyete (pysan)
+     3p (huet) nayizyante,nezyante != nezyante (pysan)
+     2s (huet) nayizyase,nezyase != nezyase (pysan)
+     2d (huet) nayizyeTe,nezyeTe != nezyeTe (pysan)
+     2p (huet) nayizyaDve,nezyaDve != nezyaDve (pysan)
+     1s (huet) nayizye,nezye != nezye (pysan)
+     1d (huet) nayizyAvahe,nezyAvahe != nezyAvahe (pysan)
+     1p (huet) nayizyAmahe,nezyAmahe != nezyAmahe (pysan)
+nI fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) nayizyati,nezyati != nezyati (pysan)
+     3d (huet) nayizyataH,nezyataH != nezyataH (pysan)
+     3p (huet) nayizyanti,nezyanti != nezyanti (pysan)
+     2s (huet) nayizyasi,nezyasi != nezyasi (pysan)
+     2d (huet) nayizyaTaH,nezyaTaH != nezyaTaH (pysan)
+     2p (huet) nayizyaTa,nezyaTa != nezyaTa (pysan)
+     1s (huet) nayizyAmi,nezyAmi != nezyAmi (pysan)
+     1d (huet) nayizyAvaH,nezyAvaH != nezyAvaH (pysan)
+     1p (huet) nayizyAmaH,nezyAmaH != nezyAmaH (pysan)
+nIhAra fut A: pysan NOT FOUND
+nIhAra fut P: pysan NOT FOUND
+nu fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) navizyati != nuvizyati (pysan)
+     3d (huet) navizyataH != nuvizyataH (pysan)
+     3p (huet) navizyanti != nuvizyanti (pysan)
+     2s (huet) navizyasi != nuvizyasi (pysan)
+     2d (huet) navizyaTaH != nuvizyaTaH (pysan)
+     2p (huet) navizyaTa != nuvizyaTa (pysan)
+     1s (huet) navizyAmi != nuvizyAmi (pysan)
+     1d (huet) navizyAvaH != nuvizyAvaH (pysan)
+     1p (huet) navizyAmaH != nuvizyAmaH (pysan)
+nud fut A: identical
+nud fut P: identical
+nUtana fut A: pysan NOT FOUND
+nUtana fut P: pysan NOT FOUND
+nft fut P: identical
+nO fut A: pysan NOT FOUND
+nO fut P: pysan NOT FOUND
+pac fut A: identical
+pac fut P: identical
+paw fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) pawizyati != pAwayizyati,pawayizyati,pawizyati (pysan)
+     3d (huet) pawizyataH != pAwayizyataH,pawayizyataH,pawizyataH (pysan)
+     3p (huet) pawizyanti != pAwayizyanti,pawayizyanti,pawizyanti (pysan)
+     2s (huet) pawizyasi != pAwayizyasi,pawayizyasi,pawizyasi (pysan)
+     2d (huet) pawizyaTaH != pAwayizyaTaH,pawayizyaTaH,pawizyaTaH (pysan)
+     2p (huet) pawizyaTa != pAwayizyaTa,pawayizyaTa,pawizyaTa (pysan)
+     1s (huet) pawizyAmi != pAwayizyAmi,pawayizyAmi,pawizyAmi (pysan)
+     1d (huet) pawizyAvaH != pAwayizyAvaH,pawayizyAvaH,pawizyAvaH (pysan)
+     1p (huet) pawizyAmaH != pAwayizyAmaH,pawayizyAmaH,pawizyAmaH (pysan)
+pawapawA fut A: pysan NOT FOUND
+pawapawA fut P: pysan NOT FOUND
+paW fut A: identical
+paW fut P: identical
+paR fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) paRizyate != paRAyizyate,paRizyate (pysan)
+     3d (huet) paRizyete != paRAyizyete,paRizyete (pysan)
+     3p (huet) paRizyante != paRAyizyante,paRizyante (pysan)
+     2s (huet) paRizyase != paRAyizyase,paRizyase (pysan)
+     2d (huet) paRizyeTe != paRAyizyeTe,paRizyeTe (pysan)
+     2p (huet) paRizyaDve != paRAyizyaDve,paRizyaDve (pysan)
+     1s (huet) paRizye != paRAyizye,paRizye (pysan)
+     1d (huet) paRizyAvahe != paRAyizyAvahe,paRizyAvahe (pysan)
+     1p (huet) paRizyAmahe != paRAyizyAmahe,paRizyAmahe (pysan)
+pat fut P: identical
+paT fut P: identical
+pad fut A: identical
+payas fut A: pysan NOT FOUND
+payas fut P: pysan NOT FOUND
+parokza fut A: pysan NOT FOUND
+parokza fut P: pysan NOT FOUND
+palAy fut A: identical
+palAy fut P: identical
+pavitra fut A: pysan NOT FOUND
+pavitra fut P: pysan NOT FOUND
+pA fut P: identical
+pASa fut A: pysan NOT FOUND
+pASa fut P: pysan NOT FOUND
+pi fut P: identical
+piYj fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) piYjizyate != piYjayizyate,piYjizyate (pysan)
+     3d (huet) piYjizyete != piYjayizyete,piYjizyete (pysan)
+     3p (huet) piYjizyante != piYjayizyante,piYjizyante (pysan)
+     2s (huet) piYjizyase != piYjayizyase,piYjizyase (pysan)
+     2d (huet) piYjizyeTe != piYjayizyeTe,piYjizyeTe (pysan)
+     2p (huet) piYjizyaDve != piYjayizyaDve,piYjizyaDve (pysan)
+     1s (huet) piYjizye != piYjayizye,piYjizye (pysan)
+     1d (huet) piYjizyAvahe != piYjayizyAvahe,piYjizyAvahe (pysan)
+     1p (huet) piYjizyAmahe != piYjayizyAmahe,piYjizyAmahe (pysan)
+piRqa fut A: pysan NOT FOUND
+piRqa fut P: pysan NOT FOUND
+piS fut P: identical
+piz fut P: identical
+pIq fut A: identical
+pIq fut P: identical
+pIyUzavarza fut A: pysan NOT FOUND
+pIyUzavarza fut P: pysan NOT FOUND
+putra fut A: pysan NOT FOUND
+putra fut P: pysan NOT FOUND
+putrakAma fut A: pysan NOT FOUND
+putrakAma fut P: pysan NOT FOUND
+puT fut A: identical
+puT fut P: identical
+pulaka fut A: pysan NOT FOUND
+pulaka fut P: pysan NOT FOUND
+puz fut A: identical
+puz fut P: identical
+puzkara fut A: pysan NOT FOUND
+puzkara fut P: pysan NOT FOUND
+puzpa fut A: pysan NOT FOUND
+puzpa fut P: pysan NOT FOUND
+pU fut A: identical
+pU fut P: identical
+pUj fut A: identical
+pUj fut P: identical
+pUy fut A: identical
+pUy fut P: identical
+pUla fut A: pysan NOT FOUND
+pUla fut P: pysan NOT FOUND
+pf fut P: identical
+pfc fut A: identical
+pfc fut P: identical
+pfT fut A: identical
+pfT fut P: identical
+pfz fut P: identical
+pF fut P: identical
+pyA fut A: pysan NOT FOUND
+pratikUla fut A: pysan NOT FOUND
+pratikUla fut P: pysan NOT FOUND
+praT fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) praTizyate != prATayizyate,praTizyate (pysan)
+     3d (huet) praTizyete != prATayizyete,praTizyete (pysan)
+     3p (huet) praTizyante != prATayizyante,praTizyante (pysan)
+     2s (huet) praTizyase != prATayizyase,praTizyase (pysan)
+     2d (huet) praTizyeTe != prATayizyeTe,praTizyeTe (pysan)
+     2p (huet) praTizyaDve != prATayizyaDve,praTizyaDve (pysan)
+     1s (huet) praTizye != prATayizye,praTizye (pysan)
+     1d (huet) praTizyAvahe != prATayizyAvahe,praTizyAvahe (pysan)
+     1p (huet) praTizyAmahe != prATayizyAmahe,praTizyAmahe (pysan)
+praS fut A: pysan NOT FOUND
+praS fut P: pysan NOT FOUND
+prasAda fut A: pysan NOT FOUND
+prasAda fut P: pysan NOT FOUND
+prAsAda fut A: pysan NOT FOUND
+prAsAda fut P: pysan NOT FOUND
+priya fut A: pysan NOT FOUND
+priya fut P: pysan NOT FOUND
+prI fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) prezyate != prayizyate,prezyate (pysan)
+     3d (huet) prezyete != prayizyete,prezyete (pysan)
+     3p (huet) prezyante != prayizyante,prezyante (pysan)
+     2s (huet) prezyase != prayizyase,prezyase (pysan)
+     2d (huet) prezyeTe != prayizyeTe,prezyeTe (pysan)
+     2p (huet) prezyaDve != prayizyaDve,prezyaDve (pysan)
+     1s (huet) prezye != prayizye,prezye (pysan)
+     1d (huet) prezyAvahe != prayizyAvahe,prezyAvahe (pysan)
+     1p (huet) prezyAmahe != prayizyAmahe,prezyAmahe (pysan)
+prI fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) prezyati != prayizyati,prezyati (pysan)
+     3d (huet) prezyataH != prayizyataH,prezyataH (pysan)
+     3p (huet) prezyanti != prayizyanti,prezyanti (pysan)
+     2s (huet) prezyasi != prayizyasi,prezyasi (pysan)
+     2d (huet) prezyaTaH != prayizyaTaH,prezyaTaH (pysan)
+     2p (huet) prezyaTa != prayizyaTa,prezyaTa (pysan)
+     1s (huet) prezyAmi != prayizyAmi,prezyAmi (pysan)
+     1d (huet) prezyAvaH != prayizyAvaH,prezyAvaH (pysan)
+     1p (huet) prezyAmaH != prayizyAmaH,prezyAmaH (pysan)
+pru fut A: identical
+plu fut A: identical
+pluz fut A: identical
+pluz fut P: identical
+Pal fut P: identical
+Pull fut A: identical
+Pull fut P: identical
+Pena fut A: pysan NOT FOUND
+Pena fut P: pysan NOT FOUND
+baMh fut A: identical
+banD fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bantsyate,banDizyate != Bantsyate (pysan)
+     3d (huet) Bantsyete,banDizyete != Bantsyete (pysan)
+     3p (huet) Bantsyante,banDizyante != Bantsyante (pysan)
+     2s (huet) Bantsyase,banDizyase != Bantsyase (pysan)
+     2d (huet) BantsyeTe,banDizyeTe != BantsyeTe (pysan)
+     2p (huet) BantsyaDve,banDizyaDve != BantsyaDve (pysan)
+     1s (huet) Bantsye,banDizye != Bantsye (pysan)
+     1d (huet) BantsyAvahe,banDizyAvahe != BantsyAvahe (pysan)
+     1p (huet) BantsyAmahe,banDizyAmahe != BantsyAmahe (pysan)
+banD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bantsyati,banDizyati != Bantsyati (pysan)
+     3d (huet) BantsyataH,banDizyataH != BantsyataH (pysan)
+     3p (huet) Bantsyanti,banDizyanti != Bantsyanti (pysan)
+     2s (huet) Bantsyasi,banDizyasi != Bantsyasi (pysan)
+     2d (huet) BantsyaTaH,banDizyaTaH != BantsyaTaH (pysan)
+     2p (huet) BantsyaTa,banDizyaTa != BantsyaTa (pysan)
+     1s (huet) BantsyAmi,banDizyAmi != BantsyAmi (pysan)
+     1d (huet) BantsyAvaH,banDizyAvaH != BantsyAvaH (pysan)
+     1p (huet) BantsyAmaH,banDizyAmaH != BantsyAmaH (pysan)
+bal fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) balizyati != bAlayizyati,balizyati (pysan)
+     3d (huet) balizyataH != bAlayizyataH,balizyataH (pysan)
+     3p (huet) balizyanti != bAlayizyanti,balizyanti (pysan)
+     2s (huet) balizyasi != bAlayizyasi,balizyasi (pysan)
+     2d (huet) balizyaTaH != bAlayizyaTaH,balizyaTaH (pysan)
+     2p (huet) balizyaTa != bAlayizyaTa,balizyaTa (pysan)
+     1s (huet) balizyAmi != bAlayizyAmi,balizyAmi (pysan)
+     1d (huet) balizyAvaH != bAlayizyAvaH,balizyAvaH (pysan)
+     1p (huet) balizyAmaH != bAlayizyAmaH,balizyAmaH (pysan)
+bAD fut A: identical
+bAzpa fut A: pysan NOT FOUND
+bAzpa fut P: pysan NOT FOUND
+buD fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Botsyate != boDizyate (pysan)
+     3d (huet) Botsyete != boDizyete (pysan)
+     3p (huet) Botsyante != boDizyante (pysan)
+     2s (huet) Botsyase != boDizyase (pysan)
+     2d (huet) BotsyeTe != boDizyeTe (pysan)
+     2p (huet) BotsyaDve != boDizyaDve (pysan)
+     1s (huet) Botsye != boDizye (pysan)
+     1d (huet) BotsyAvahe != boDizyAvahe (pysan)
+     1p (huet) BotsyAmahe != boDizyAmahe (pysan)
+buD fut P: identical
+bfh fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) barhizyati != barhizyati,barkzyati (pysan)
+     3d (huet) barhizyataH != barhizyataH,barkzyataH (pysan)
+     3p (huet) barhizyanti != barhizyanti,barkzyanti (pysan)
+     2s (huet) barhizyasi != barhizyasi,barkzyasi (pysan)
+     2d (huet) barhizyaTaH != barhizyaTaH,barkzyaTaH (pysan)
+     2p (huet) barhizyaTa != barhizyaTa,barkzyaTa (pysan)
+     1s (huet) barhizyAmi != barhizyAmi,barkzyAmi (pysan)
+     1d (huet) barhizyAvaH != barhizyAvaH,barkzyAvaH (pysan)
+     1p (huet) barhizyAmaH != barhizyAmaH,barkzyAmaH (pysan)
+Bakz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bakzizyati != Bakzayizyati,Bakzizyati (pysan)
+     3d (huet) BakzizyataH != BakzayizyataH,BakzizyataH (pysan)
+     3p (huet) Bakzizyanti != Bakzayizyanti,Bakzizyanti (pysan)
+     2s (huet) Bakzizyasi != Bakzayizyasi,Bakzizyasi (pysan)
+     2d (huet) BakzizyaTaH != BakzayizyaTaH,BakzizyaTaH (pysan)
+     2p (huet) BakzizyaTa != BakzayizyaTa,BakzizyaTa (pysan)
+     1s (huet) BakzizyAmi != BakzayizyAmi,BakzizyAmi (pysan)
+     1d (huet) BakzizyAvaH != BakzayizyAvaH,BakzizyAvaH (pysan)
+     1p (huet) BakzizyAmaH != BakzayizyAmaH,BakzizyAmaH (pysan)
+Baj fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bajizyate,Bakzyate != Bakzyate (pysan)
+     3d (huet) Bajizyete,Bakzyete != Bakzyete (pysan)
+     3p (huet) Bajizyante,Bakzyante != Bakzyante (pysan)
+     2s (huet) Bajizyase,Bakzyase != Bakzyase (pysan)
+     2d (huet) BajizyeTe,BakzyeTe != BakzyeTe (pysan)
+     2p (huet) BajizyaDve,BakzyaDve != BakzyaDve (pysan)
+     1s (huet) Bajizye,Bakzye != Bakzye (pysan)
+     1d (huet) BajizyAvahe,BakzyAvahe != BakzyAvahe (pysan)
+     1p (huet) BajizyAmahe,BakzyAmahe != BakzyAmahe (pysan)
+Baj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bajizyati,Bakzyati != Bakzyati (pysan)
+     3d (huet) BajizyataH,BakzyataH != BakzyataH (pysan)
+     3p (huet) Bajizyanti,Bakzyanti != Bakzyanti (pysan)
+     2s (huet) Bajizyasi,Bakzyasi != Bakzyasi (pysan)
+     2d (huet) BajizyaTaH,BakzyaTaH != BakzyaTaH (pysan)
+     2p (huet) BajizyaTa,BakzyaTa != BakzyaTa (pysan)
+     1s (huet) BajizyAmi,BakzyAmi != BakzyAmi (pysan)
+     1d (huet) BajizyAvaH,BakzyAvaH != BakzyAvaH (pysan)
+     1p (huet) BajizyAmaH,BakzyAmaH != BakzyAmaH (pysan)
+BaYj fut P: identical
+BaR fut P: identical
+BaRq fut A: identical
+BaRq fut P: identical
+Band fut A: identical
+Barts fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bartsizyate != Bartsayizyate (pysan)
+     3d (huet) Bartsizyete != Bartsayizyete (pysan)
+     3p (huet) Bartsizyante != Bartsayizyante (pysan)
+     2s (huet) Bartsizyase != Bartsayizyase (pysan)
+     2d (huet) BartsizyeTe != BartsayizyeTe (pysan)
+     2p (huet) BartsizyaDve != BartsayizyaDve (pysan)
+     1s (huet) Bartsizye != Bartsayizye (pysan)
+     1d (huet) BartsizyAvahe != BartsayizyAvahe (pysan)
+     1p (huet) BartsizyAmahe != BartsayizyAmahe (pysan)
+Barts fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bartsizyati != Bartsayizyati (pysan)
+     3d (huet) BartsizyataH != BartsayizyataH (pysan)
+     3p (huet) Bartsizyanti != Bartsayizyanti (pysan)
+     2s (huet) Bartsizyasi != Bartsayizyasi (pysan)
+     2d (huet) BartsizyaTaH != BartsayizyaTaH (pysan)
+     2p (huet) BartsizyaTa != BartsayizyaTa (pysan)
+     1s (huet) BartsizyAmi != BartsayizyAmi (pysan)
+     1d (huet) BartsizyAvaH != BartsayizyAvaH (pysan)
+     1p (huet) BartsizyAmaH != BartsayizyAmaH (pysan)
+Baz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Bakzyati != Bazizyati (pysan)
+     3d (huet) BakzyataH != BazizyataH (pysan)
+     3p (huet) Bakzyanti != Bazizyanti (pysan)
+     2s (huet) Bakzyasi != Bazizyasi (pysan)
+     2d (huet) BakzyaTaH != BazizyaTaH (pysan)
+     2p (huet) BakzyaTa != BazizyaTa (pysan)
+     1s (huet) BakzyAmi != BazizyAmi (pysan)
+     1d (huet) BakzyAvaH != BazizyAvaH (pysan)
+     1p (huet) BakzyAmaH != BazizyAmaH (pysan)
+Bas fut P: identical
+BA fut P: identical
+BAz fut A: identical
+BAs fut A: identical
+BAs fut P: identical
+Bid fut A: identical
+Bid fut P: identical
+Bizaj fut A: pysan NOT FOUND
+Bizaj fut P: pysan NOT FOUND
+BI fut P: identical
+Buj fut A: identical
+Buj fut P: identical
+BU fut P: identical
+BUz fut P: identical
+Bf fut A: identical
+Bf fut P: identical
+Bfjj fut A: pysan NOT FOUND
+Bfjj fut P: pysan NOT FOUND
+BfSa fut A: pysan NOT FOUND
+BfSa fut P: pysan NOT FOUND
+BraMS fut A: identical
+BraMS fut P: identical
+Bram fut P: identical
+BrAj fut A: identical
+maMh fut A: identical
+majj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) maNkzyati,majjizyati != majjizyati (pysan)
+     3d (huet) maNkzyataH,majjizyataH != majjizyataH (pysan)
+     3p (huet) maNkzyanti,majjizyanti != majjizyanti (pysan)
+     2s (huet) maNkzyasi,majjizyasi != majjizyasi (pysan)
+     2d (huet) maNkzyaTaH,majjizyaTaH != majjizyaTaH (pysan)
+     2p (huet) maNkzyaTa,majjizyaTa != majjizyaTa (pysan)
+     1s (huet) maNkzyAmi,majjizyAmi != majjizyAmi (pysan)
+     1d (huet) maNkzyAvaH,majjizyAvaH != majjizyAvaH (pysan)
+     1p (huet) maNkzyAmaH,majjizyAmaH != majjizyAmaH (pysan)
+maRq fut P: identical
+mad fut P: identical
+maDu fut A: pysan NOT FOUND
+maDu fut P: pysan NOT FOUND
+man fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) maMsyate,manizyate != maMsyate (pysan)
+     3d (huet) maMsyete,manizyete != maMsyete (pysan)
+     3p (huet) maMsyante,manizyante != maMsyante (pysan)
+     2s (huet) maMsyase,manizyase != maMsyase (pysan)
+     2d (huet) maMsyeTe,manizyeTe != maMsyeTe (pysan)
+     2p (huet) maMsyaDve,manizyaDve != maMsyaDve (pysan)
+     1s (huet) maMsye,manizye != maMsye (pysan)
+     1d (huet) maMsyAvahe,manizyAvahe != maMsyAvahe (pysan)
+     1p (huet) maMsyAmahe,manizyAmahe != maMsyAmahe (pysan)
+man fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) maMsyati,manizyati != maMsyati (pysan)
+     3d (huet) maMsyataH,manizyataH != maMsyataH (pysan)
+     3p (huet) maMsyanti,manizyanti != maMsyanti (pysan)
+     2s (huet) maMsyasi,manizyasi != maMsyasi (pysan)
+     2d (huet) maMsyaTaH,manizyaTaH != maMsyaTaH (pysan)
+     2p (huet) maMsyaTa,manizyaTa != maMsyaTa (pysan)
+     1s (huet) maMsyAmi,manizyAmi != maMsyAmi (pysan)
+     1d (huet) maMsyAvaH,manizyAvaH != maMsyAvaH (pysan)
+     1p (huet) maMsyAmaH,manizyAmaH != maMsyAmaH (pysan)
+mantu fut A: pysan NOT FOUND
+mantu fut P: pysan NOT FOUND
+mantra fut A: pysan NOT FOUND
+mantra fut P: pysan NOT FOUND
+manT fut P: identical
+mand fut A: identical
+malina fut A: pysan NOT FOUND
+malina fut P: pysan NOT FOUND
+mah fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mahizyati != mahayizyati,mahizyati (pysan)
+     3d (huet) mahizyataH != mahayizyataH,mahizyataH (pysan)
+     3p (huet) mahizyanti != mahayizyanti,mahizyanti (pysan)
+     2s (huet) mahizyasi != mahayizyasi,mahizyasi (pysan)
+     2d (huet) mahizyaTaH != mahayizyaTaH,mahizyaTaH (pysan)
+     2p (huet) mahizyaTa != mahayizyaTa,mahizyaTa (pysan)
+     1s (huet) mahizyAmi != mahayizyAmi,mahizyAmi (pysan)
+     1d (huet) mahizyAvaH != mahayizyAvaH,mahizyAvaH (pysan)
+     1p (huet) mahizyAmaH != mahayizyAmaH,mahizyAmaH (pysan)
+mahI fut A: pysan NOT FOUND
+mahI fut P: pysan NOT FOUND
+mA fut A: identical
+mA fut P: identical
+mAMsa fut A: pysan NOT FOUND
+mAMsa fut P: pysan NOT FOUND
+mArg fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mArgayizyati != mArgayizyati,mArgizyati (pysan)
+     3d (huet) mArgayizyataH != mArgayizyataH,mArgizyataH (pysan)
+     3p (huet) mArgayizyanti != mArgayizyanti,mArgizyanti (pysan)
+     2s (huet) mArgayizyasi != mArgayizyasi,mArgizyasi (pysan)
+     2d (huet) mArgayizyaTaH != mArgayizyaTaH,mArgizyaTaH (pysan)
+     2p (huet) mArgayizyaTa != mArgayizyaTa,mArgizyaTa (pysan)
+     1s (huet) mArgayizyAmi != mArgayizyAmi,mArgizyAmi (pysan)
+     1d (huet) mArgayizyAvaH != mArgayizyAvaH,mArgizyAvaH (pysan)
+     1p (huet) mArgayizyAmaH != mArgayizyAmaH,mArgizyAmaH (pysan)
+mAlA fut A: pysan NOT FOUND
+mAlA fut P: pysan NOT FOUND
+mAlyaguRa fut A: pysan NOT FOUND
+mAlyaguRa fut P: pysan NOT FOUND
+mi fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mezyate != mAsyate (pysan)
+     3d (huet) mezyete != mAsyete (pysan)
+     3p (huet) mezyante != mAsyante (pysan)
+     2s (huet) mezyase != mAsyase (pysan)
+     2d (huet) mezyeTe != mAsyeTe (pysan)
+     2p (huet) mezyaDve != mAsyaDve (pysan)
+     1s (huet) mezye != mAsye (pysan)
+     1d (huet) mezyAvahe != mAsyAvahe (pysan)
+     1p (huet) mezyAmahe != mAsyAmahe (pysan)
+mi fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mezyati != mAsyati (pysan)
+     3d (huet) mezyataH != mAsyataH (pysan)
+     3p (huet) mezyanti != mAsyanti (pysan)
+     2s (huet) mezyasi != mAsyasi (pysan)
+     2d (huet) mezyaTaH != mAsyaTaH (pysan)
+     2p (huet) mezyaTa != mAsyaTa (pysan)
+     1s (huet) mezyAmi != mAsyAmi (pysan)
+     1d (huet) mezyAvaH != mAsyAvaH (pysan)
+     1p (huet) mezyAmaH != mAsyAmaH (pysan)
+miT fut A: identical
+miT fut P: identical
+mid fut A: identical
+mid fut P: identical
+mil fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) milizyate != melizyate (pysan)
+     3d (huet) milizyete != melizyete (pysan)
+     3p (huet) milizyante != melizyante (pysan)
+     2s (huet) milizyase != melizyase (pysan)
+     2d (huet) milizyeTe != melizyeTe (pysan)
+     2p (huet) milizyaDve != melizyaDve (pysan)
+     1s (huet) milizye != melizye (pysan)
+     1d (huet) milizyAvahe != melizyAvahe (pysan)
+     1p (huet) milizyAmahe != melizyAmahe (pysan)
+mil fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) milizyati != melizyati (pysan)
+     3d (huet) milizyataH != melizyataH (pysan)
+     3p (huet) milizyanti != melizyanti (pysan)
+     2s (huet) milizyasi != melizyasi (pysan)
+     2d (huet) milizyaTaH != melizyaTaH (pysan)
+     2p (huet) milizyaTa != melizyaTa (pysan)
+     1s (huet) milizyAmi != melizyAmi (pysan)
+     1d (huet) milizyAvaH != melizyAvaH (pysan)
+     1p (huet) milizyAmaH != melizyAmaH (pysan)
+miSra fut A: pysan NOT FOUND
+miSra fut P: pysan NOT FOUND
+miz fut P: identical
+mih fut P: identical
+mI fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mezyate != mAsyate,mezyate (pysan)
+     3d (huet) mezyete != mAsyete,mezyete (pysan)
+     3p (huet) mezyante != mAsyante,mezyante (pysan)
+     2s (huet) mezyase != mAsyase,mezyase (pysan)
+     2d (huet) mezyeTe != mAsyeTe,mezyeTe (pysan)
+     2p (huet) mezyaDve != mAsyaDve,mezyaDve (pysan)
+     1s (huet) mezye != mAsye,mezye (pysan)
+     1d (huet) mezyAvahe != mAsyAvahe,mezyAvahe (pysan)
+     1p (huet) mezyAmahe != mAsyAmahe,mezyAmahe (pysan)
+mI fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mezyati != mAsyati,mezyati (pysan)
+     3d (huet) mezyataH != mAsyataH,mezyataH (pysan)
+     3p (huet) mezyanti != mAsyanti,mezyanti (pysan)
+     2s (huet) mezyasi != mAsyasi,mezyasi (pysan)
+     2d (huet) mezyaTaH != mAsyaTaH,mezyaTaH (pysan)
+     2p (huet) mezyaTa != mAsyaTa,mezyaTa (pysan)
+     1s (huet) mezyAmi != mAsyAmi,mezyAmi (pysan)
+     1d (huet) mezyAvaH != mAsyAvaH,mezyAvaH (pysan)
+     1p (huet) mezyAmaH != mAsyAmaH,mezyAmaH (pysan)
+mIl fut P: identical
+mukula fut A: pysan NOT FOUND
+mukula fut P: pysan NOT FOUND
+muKara fut A: pysan NOT FOUND
+muKara fut P: pysan NOT FOUND
+muc fut A: identical
+muc fut P: identical
+muRqa fut A: pysan NOT FOUND
+muRqa fut P: pysan NOT FOUND
+mud fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) modizyate != modayizyate,modizyate (pysan)
+     3d (huet) modizyete != modayizyete,modizyete (pysan)
+     3p (huet) modizyante != modayizyante,modizyante (pysan)
+     2s (huet) modizyase != modayizyase,modizyase (pysan)
+     2d (huet) modizyeTe != modayizyeTe,modizyeTe (pysan)
+     2p (huet) modizyaDve != modayizyaDve,modizyaDve (pysan)
+     1s (huet) modizye != modayizye,modizye (pysan)
+     1d (huet) modizyAvahe != modayizyAvahe,modizyAvahe (pysan)
+     1p (huet) modizyAmahe != modayizyAmahe,modizyAmahe (pysan)
+mud fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) modizyati != modayizyati,modizyati (pysan)
+     3d (huet) modizyataH != modayizyataH,modizyataH (pysan)
+     3p (huet) modizyanti != modayizyanti,modizyanti (pysan)
+     2s (huet) modizyasi != modayizyasi,modizyasi (pysan)
+     2d (huet) modizyaTaH != modayizyaTaH,modizyaTaH (pysan)
+     2p (huet) modizyaTa != modayizyaTa,modizyaTa (pysan)
+     1s (huet) modizyAmi != modayizyAmi,modizyAmi (pysan)
+     1d (huet) modizyAvaH != modayizyAvaH,modizyAvaH (pysan)
+     1p (huet) modizyAmaH != modayizyAmaH,modizyAmaH (pysan)
+mudrA fut A: pysan NOT FOUND
+mudrA fut P: pysan NOT FOUND
+muz fut P: identical
+muh fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mohizyati != mohizyati,mokzyati (pysan)
+     3d (huet) mohizyataH != mohizyataH,mokzyataH (pysan)
+     3p (huet) mohizyanti != mohizyanti,mokzyanti (pysan)
+     2s (huet) mohizyasi != mohizyasi,mokzyasi (pysan)
+     2d (huet) mohizyaTaH != mohizyaTaH,mokzyaTaH (pysan)
+     2p (huet) mohizyaTa != mohizyaTa,mokzyaTa (pysan)
+     1s (huet) mohizyAmi != mohizyAmi,mokzyAmi (pysan)
+     1d (huet) mohizyAvaH != mohizyAvaH,mokzyAvaH (pysan)
+     1p (huet) mohizyAmaH != mohizyAmaH,mokzyAmaH (pysan)
+mUtra fut A: pysan NOT FOUND
+mUtra fut P: pysan NOT FOUND
+mUrC fut P: pysan NOT FOUND
+mUz fut A: identical
+mUz fut P: identical
+mf fut A: identical
+mf fut P: identical
+mfga fut A: pysan NOT FOUND
+mfga fut P: pysan NOT FOUND
+mfj fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mArjizyate,mArkzyate != marjayizyate,marjizyate,markzyate (pysan)
+     3d (huet) mArjizyete,mArkzyete != marjayizyete,marjizyete,markzyete (pysan)
+     3p (huet) mArjizyante,mArkzyante != marjayizyante,marjizyante,markzyante (pysan)
+     2s (huet) mArjizyase,mArkzyase != marjayizyase,marjizyase,markzyase (pysan)
+     2d (huet) mArjizyeTe,mArkzyeTe != marjayizyeTe,marjizyeTe,markzyeTe (pysan)
+     2p (huet) mArjizyaDve,mArkzyaDve != marjayizyaDve,marjizyaDve,markzyaDve (pysan)
+     1s (huet) mArjizye,mArkzye != marjayizye,marjizye,markzye (pysan)
+     1d (huet) mArjizyAvahe,mArkzyAvahe != marjayizyAvahe,marjizyAvahe,markzyAvahe (pysan)
+     1p (huet) mArjizyAmahe,mArkzyAmahe != marjayizyAmahe,marjizyAmahe,markzyAmahe (pysan)
+mfj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) mArjizyati,mArkzyati != marjayizyati,marjizyati,markzyati (pysan)
+     3d (huet) mArjizyataH,mArkzyataH != marjayizyataH,marjizyataH,markzyataH (pysan)
+     3p (huet) mArjizyanti,mArkzyanti != marjayizyanti,marjizyanti,markzyanti (pysan)
+     2s (huet) mArjizyasi,mArkzyasi != marjayizyasi,marjizyasi,markzyasi (pysan)
+     2d (huet) mArjizyaTaH,mArkzyaTaH != marjayizyaTaH,marjizyaTaH,markzyaTaH (pysan)
+     2p (huet) mArjizyaTa,mArkzyaTa != marjayizyaTa,marjizyaTa,markzyaTa (pysan)
+     1s (huet) mArjizyAmi,mArkzyAmi != marjayizyAmi,marjizyAmi,markzyAmi (pysan)
+     1d (huet) mArjizyAvaH,mArkzyAvaH != marjayizyAvaH,marjizyAvaH,markzyAvaH (pysan)
+     1p (huet) mArjizyAmaH,mArkzyAmaH != marjayizyAmaH,marjizyAmaH,markzyAmaH (pysan)
+mfq fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marqizyati,mfqayizyati != marqayizyati,marqizyati (pysan)
+     3d (huet) marqizyataH,mfqayizyataH != marqayizyataH,marqizyataH (pysan)
+     3p (huet) marqizyanti,mfqayizyanti != marqayizyanti,marqizyanti (pysan)
+     2s (huet) marqizyasi,mfqayizyasi != marqayizyasi,marqizyasi (pysan)
+     2d (huet) marqizyaTaH,mfqayizyaTaH != marqayizyaTaH,marqizyaTaH (pysan)
+     2p (huet) marqizyaTa,mfqayizyaTa != marqayizyaTa,marqizyaTa (pysan)
+     1s (huet) marqizyAmi,mfqayizyAmi != marqayizyAmi,marqizyAmi (pysan)
+     1d (huet) marqizyAvaH,mfqayizyAvaH != marqayizyAvaH,marqizyAvaH (pysan)
+     1p (huet) marqizyAmaH,mfqayizyAmaH != marqayizyAmaH,marqizyAmaH (pysan)
+mfd fut A: identical
+mfd fut P: identical
+mfD fut A: identical
+mfD fut P: identical
+mfS fut P: identical
+mfz fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marzizyate != markzyate (pysan)
+     3d (huet) marzizyete != markzyete (pysan)
+     3p (huet) marzizyante != markzyante (pysan)
+     2s (huet) marzizyase != markzyase (pysan)
+     2d (huet) marzizyeTe != markzyeTe (pysan)
+     2p (huet) marzizyaDve != markzyaDve (pysan)
+     1s (huet) marzizye != markzye (pysan)
+     1d (huet) marzizyAvahe != markzyAvahe (pysan)
+     1p (huet) marzizyAmahe != markzyAmahe (pysan)
+mfz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) marzizyati != markzyati (pysan)
+     3d (huet) marzizyataH != markzyataH (pysan)
+     3p (huet) marzizyanti != markzyanti (pysan)
+     2s (huet) marzizyasi != markzyasi (pysan)
+     2d (huet) marzizyaTaH != markzyaTaH (pysan)
+     2p (huet) marzizyaTa != markzyaTa (pysan)
+     1s (huet) marzizyAmi != markzyAmi (pysan)
+     1d (huet) marzizyAvaH != markzyAvaH (pysan)
+     1p (huet) marzizyAmaH != markzyAmaH (pysan)
+mfzA fut A: pysan NOT FOUND
+mfzA fut P: pysan NOT FOUND
+meGa fut A: pysan NOT FOUND
+meGa fut P: pysan NOT FOUND
+mokz fut A: identical
+mokz fut P: identical
+mnA fut P: identical
+mlA fut P: pysan NOT FOUND
+mlecC fut P: pysan NOT FOUND
+yaj fut A: identical
+yaj fut P: identical
+yat fut A: identical
+yantra fut A: pysan NOT FOUND
+yantra fut P: pysan NOT FOUND
+yaB fut P: identical
+yam fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) yaMsyati,yamizyati != yaMsyati (pysan)
+     3d (huet) yaMsyataH,yamizyataH != yaMsyataH (pysan)
+     3p (huet) yaMsyanti,yamizyanti != yaMsyanti (pysan)
+     2s (huet) yaMsyasi,yamizyasi != yaMsyasi (pysan)
+     2d (huet) yaMsyaTaH,yamizyaTaH != yaMsyaTaH (pysan)
+     2p (huet) yaMsyaTa,yamizyaTa != yaMsyaTa (pysan)
+     1s (huet) yaMsyAmi,yamizyAmi != yaMsyAmi (pysan)
+     1d (huet) yaMsyAvaH,yamizyAvaH != yaMsyAvaH (pysan)
+     1p (huet) yaMsyAmaH,yamizyAmaH != yaMsyAmaH (pysan)
+yas fut P: identical
+yA fut P: identical
+yAc fut A: identical
+yAc fut P: identical
+yu fut A: identical
+yu fut P: identical
+yuga fut A: pysan NOT FOUND
+yuga fut P: pysan NOT FOUND
+yuj fut A: identical
+yuj fut P: identical
+yuD fut A: identical
+yuD fut P: identical
+raMh fut P: identical
+rakz fut P: identical
+rac fut A: identical
+rac fut P: identical
+raYj fut A: identical
+raYj fut P: identical
+raR fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) raRizyati != rARayizyati,raRizyati (pysan)
+     3d (huet) raRizyataH != rARayizyataH,raRizyataH (pysan)
+     3p (huet) raRizyanti != rARayizyanti,raRizyanti (pysan)
+     2s (huet) raRizyasi != rARayizyasi,raRizyasi (pysan)
+     2d (huet) raRizyaTaH != rARayizyaTaH,raRizyaTaH (pysan)
+     2p (huet) raRizyaTa != rARayizyaTa,raRizyaTa (pysan)
+     1s (huet) raRizyAmi != rARayizyAmi,raRizyAmi (pysan)
+     1d (huet) raRizyAvaH != rARayizyAvaH,raRizyAvaH (pysan)
+     1p (huet) raRizyAmaH != rARayizyAmaH,raRizyAmaH (pysan)
+raTakAma fut A: pysan NOT FOUND
+raTakAma fut P: pysan NOT FOUND
+rad fut P: identical
+raD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) raDizyati != raDizyati,ratsyati (pysan)
+     3d (huet) raDizyataH != raDizyataH,ratsyataH (pysan)
+     3p (huet) raDizyanti != raDizyanti,ratsyanti (pysan)
+     2s (huet) raDizyasi != raDizyasi,ratsyasi (pysan)
+     2d (huet) raDizyaTaH != raDizyaTaH,ratsyaTaH (pysan)
+     2p (huet) raDizyaTa != raDizyaTa,ratsyaTa (pysan)
+     1s (huet) raDizyAmi != raDizyAmi,ratsyAmi (pysan)
+     1d (huet) raDizyAvaH != raDizyAvaH,ratsyAvaH (pysan)
+     1p (huet) raDizyAmaH != raDizyAmaH,ratsyAmaH (pysan)
+raB fut A: identical
+ram fut A: identical
+ram fut P: identical
+rasa fut A: pysan NOT FOUND
+rasa fut P: pysan NOT FOUND
+rah fut A: identical
+rah fut P: identical
+rA fut P: identical
+rAj fut A: identical
+rAj fut P: identical
+rAjan fut A: pysan NOT FOUND
+rAjan fut P: pysan NOT FOUND
+rAD fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rAtsyate != rADizyate (pysan)
+     3d (huet) rAtsyete != rADizyete (pysan)
+     3p (huet) rAtsyante != rADizyante (pysan)
+     2s (huet) rAtsyase != rADizyase (pysan)
+     2d (huet) rAtsyeTe != rADizyeTe (pysan)
+     2p (huet) rAtsyaDve != rADizyaDve (pysan)
+     1s (huet) rAtsye != rADizye (pysan)
+     1d (huet) rAtsyAvahe != rADizyAvahe (pysan)
+     1p (huet) rAtsyAmahe != rADizyAmahe (pysan)
+rAD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) rAtsyati != rADizyati (pysan)
+     3d (huet) rAtsyataH != rADizyataH (pysan)
+     3p (huet) rAtsyanti != rADizyanti (pysan)
+     2s (huet) rAtsyasi != rADizyasi (pysan)
+     2d (huet) rAtsyaTaH != rADizyaTaH (pysan)
+     2p (huet) rAtsyaTa != rADizyaTa (pysan)
+     1s (huet) rAtsyAmi != rADizyAmi (pysan)
+     1d (huet) rAtsyAvaH != rADizyAvaH (pysan)
+     1p (huet) rAtsyAmaH != rADizyAmaH (pysan)
+ri fut A: pysan NOT FOUND
+ri fut P: pysan NOT FOUND
+ric fut A: identical
+ric fut P: identical
+riz fut P: identical
+ru fut P: identical
+ruc fut A: identical
+ruj fut P: identical
+rud fut P: identical
+ruD fut A: identical
+ruD fut P: identical
+ruz fut P: identical
+ruh fut P: identical
+rUkza fut A: pysan NOT FOUND
+rUkza fut P: pysan NOT FOUND
+rUp fut A: identical
+rUp fut P: identical
+romanTa fut A: pysan NOT FOUND
+romanTa fut P: pysan NOT FOUND
+lakz fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lakzayizyate != lakzayizyate,lakzizyate (pysan)
+     3d (huet) lakzayizyete != lakzayizyete,lakzizyete (pysan)
+     3p (huet) lakzayizyante != lakzayizyante,lakzizyante (pysan)
+     2s (huet) lakzayizyase != lakzayizyase,lakzizyase (pysan)
+     2d (huet) lakzayizyeTe != lakzayizyeTe,lakzizyeTe (pysan)
+     2p (huet) lakzayizyaDve != lakzayizyaDve,lakzizyaDve (pysan)
+     1s (huet) lakzayizye != lakzayizye,lakzizye (pysan)
+     1d (huet) lakzayizyAvahe != lakzayizyAvahe,lakzizyAvahe (pysan)
+     1p (huet) lakzayizyAmahe != lakzayizyAmahe,lakzizyAmahe (pysan)
+lakz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lakzayizyati != lakzayizyati,lakzizyati (pysan)
+     3d (huet) lakzayizyataH != lakzayizyataH,lakzizyataH (pysan)
+     3p (huet) lakzayizyanti != lakzayizyanti,lakzizyanti (pysan)
+     2s (huet) lakzayizyasi != lakzayizyasi,lakzizyasi (pysan)
+     2d (huet) lakzayizyaTaH != lakzayizyaTaH,lakzizyaTaH (pysan)
+     2p (huet) lakzayizyaTa != lakzayizyaTa,lakzizyaTa (pysan)
+     1s (huet) lakzayizyAmi != lakzayizyAmi,lakzizyAmi (pysan)
+     1d (huet) lakzayizyAvaH != lakzayizyAvaH,lakzizyAvaH (pysan)
+     1p (huet) lakzayizyAmaH != lakzayizyAmaH,lakzizyAmaH (pysan)
+lag fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lagizyati != lAgayizyati,lagizyati (pysan)
+     3d (huet) lagizyataH != lAgayizyataH,lagizyataH (pysan)
+     3p (huet) lagizyanti != lAgayizyanti,lagizyanti (pysan)
+     2s (huet) lagizyasi != lAgayizyasi,lagizyasi (pysan)
+     2d (huet) lagizyaTaH != lAgayizyaTaH,lagizyaTaH (pysan)
+     2p (huet) lagizyaTa != lAgayizyaTa,lagizyaTa (pysan)
+     1s (huet) lagizyAmi != lAgayizyAmi,lagizyAmi (pysan)
+     1d (huet) lagizyAvaH != lAgayizyAvaH,lagizyAvaH (pysan)
+     1p (huet) lagizyAmaH != lAgayizyAmaH,lagizyAmaH (pysan)
+laGa fut A: pysan NOT FOUND
+laGa fut P: pysan NOT FOUND
+laNg fut P: identical
+laNG fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laNGizyate != laNGayizyate,laNGizyate (pysan)
+     3d (huet) laNGizyete != laNGayizyete,laNGizyete (pysan)
+     3p (huet) laNGizyante != laNGayizyante,laNGizyante (pysan)
+     2s (huet) laNGizyase != laNGayizyase,laNGizyase (pysan)
+     2d (huet) laNGizyeTe != laNGayizyeTe,laNGizyeTe (pysan)
+     2p (huet) laNGizyaDve != laNGayizyaDve,laNGizyaDve (pysan)
+     1s (huet) laNGizye != laNGayizye,laNGizye (pysan)
+     1d (huet) laNGizyAvahe != laNGayizyAvahe,laNGizyAvahe (pysan)
+     1p (huet) laNGizyAmahe != laNGayizyAmahe,laNGizyAmahe (pysan)
+laNG fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laNGizyati != laNGayizyati,laNGizyati (pysan)
+     3d (huet) laNGizyataH != laNGayizyataH,laNGizyataH (pysan)
+     3p (huet) laNGizyanti != laNGayizyanti,laNGizyanti (pysan)
+     2s (huet) laNGizyasi != laNGayizyasi,laNGizyasi (pysan)
+     2d (huet) laNGizyaTaH != laNGayizyaTaH,laNGizyaTaH (pysan)
+     2p (huet) laNGizyaTa != laNGayizyaTa,laNGizyaTa (pysan)
+     1s (huet) laNGizyAmi != laNGayizyAmi,laNGizyAmi (pysan)
+     1d (huet) laNGizyAvaH != laNGayizyAvaH,laNGizyAvaH (pysan)
+     1p (huet) laNGizyAmaH != laNGayizyAmaH,laNGizyAmaH (pysan)
+lajj fut A: identical
+lap fut P: identical
+laB fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laBizyate,lapsyate != lapsyate (pysan)
+     3d (huet) laBizyete,lapsyete != lapsyete (pysan)
+     3p (huet) laBizyante,lapsyante != lapsyante (pysan)
+     2s (huet) laBizyase,lapsyase != lapsyase (pysan)
+     2d (huet) laBizyeTe,lapsyeTe != lapsyeTe (pysan)
+     2p (huet) laBizyaDve,lapsyaDve != lapsyaDve (pysan)
+     1s (huet) laBizye,lapsye != lapsye (pysan)
+     1d (huet) laBizyAvahe,lapsyAvahe != lapsyAvahe (pysan)
+     1p (huet) laBizyAmahe,lapsyAmahe != lapsyAmahe (pysan)
+laB fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) laBizyati,lapsyati != lapsyati (pysan)
+     3d (huet) laBizyataH,lapsyataH != lapsyataH (pysan)
+     3p (huet) laBizyanti,lapsyanti != lapsyanti (pysan)
+     2s (huet) laBizyasi,lapsyasi != lapsyasi (pysan)
+     2d (huet) laBizyaTaH,lapsyaTaH != lapsyaTaH (pysan)
+     2p (huet) laBizyaTa,lapsyaTa != lapsyaTa (pysan)
+     1s (huet) laBizyAmi,lapsyAmi != lapsyAmi (pysan)
+     1d (huet) laBizyAvaH,lapsyAvaH != lapsyAvaH (pysan)
+     1p (huet) laBizyAmaH,lapsyAmaH != lapsyAmaH (pysan)
+lamb fut A: identical
+lal fut P: identical
+lavaRa fut A: pysan NOT FOUND
+lavaRa fut P: pysan NOT FOUND
+laz fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lazizyate != lAzayizyate,lazizyate (pysan)
+     3d (huet) lazizyete != lAzayizyete,lazizyete (pysan)
+     3p (huet) lazizyante != lAzayizyante,lazizyante (pysan)
+     2s (huet) lazizyase != lAzayizyase,lazizyase (pysan)
+     2d (huet) lazizyeTe != lAzayizyeTe,lazizyeTe (pysan)
+     2p (huet) lazizyaDve != lAzayizyaDve,lazizyaDve (pysan)
+     1s (huet) lazizye != lAzayizye,lazizye (pysan)
+     1d (huet) lazizyAvahe != lAzayizyAvahe,lazizyAvahe (pysan)
+     1p (huet) lazizyAmahe != lAzayizyAmahe,lazizyAmahe (pysan)
+laz fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lazizyati != lAzayizyati,lazizyati (pysan)
+     3d (huet) lazizyataH != lAzayizyataH,lazizyataH (pysan)
+     3p (huet) lazizyanti != lAzayizyanti,lazizyanti (pysan)
+     2s (huet) lazizyasi != lAzayizyasi,lazizyasi (pysan)
+     2d (huet) lazizyaTaH != lAzayizyaTaH,lazizyaTaH (pysan)
+     2p (huet) lazizyaTa != lAzayizyaTa,lazizyaTa (pysan)
+     1s (huet) lazizyAmi != lAzayizyAmi,lazizyAmi (pysan)
+     1d (huet) lazizyAvaH != lAzayizyAvaH,lazizyAvaH (pysan)
+     1p (huet) lazizyAmaH != lAzayizyAmaH,lazizyAmaH (pysan)
+las fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lasizyati != lAsayizyati,lasizyati (pysan)
+     3d (huet) lasizyataH != lAsayizyataH,lasizyataH (pysan)
+     3p (huet) lasizyanti != lAsayizyanti,lasizyanti (pysan)
+     2s (huet) lasizyasi != lAsayizyasi,lasizyasi (pysan)
+     2d (huet) lasizyaTaH != lAsayizyaTaH,lasizyaTaH (pysan)
+     2p (huet) lasizyaTa != lAsayizyaTa,lasizyaTa (pysan)
+     1s (huet) lasizyAmi != lAsayizyAmi,lasizyAmi (pysan)
+     1d (huet) lasizyAvaH != lAsayizyAvaH,lasizyAvaH (pysan)
+     1p (huet) lasizyAmaH != lAsayizyAmaH,lasizyAmaH (pysan)
+lAYC fut P: identical
+lAlA fut A: pysan NOT FOUND
+lAlA fut P: pysan NOT FOUND
+liK fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) leKizyati,liKizyati != leKizyati (pysan)
+     3d (huet) leKizyataH,liKizyataH != leKizyataH (pysan)
+     3p (huet) leKizyanti,liKizyanti != leKizyanti (pysan)
+     2s (huet) leKizyasi,liKizyasi != leKizyasi (pysan)
+     2d (huet) leKizyaTaH,liKizyaTaH != leKizyaTaH (pysan)
+     2p (huet) leKizyaTa,liKizyaTa != leKizyaTa (pysan)
+     1s (huet) leKizyAmi,liKizyAmi != leKizyAmi (pysan)
+     1d (huet) leKizyAvaH,liKizyAvaH != leKizyAvaH (pysan)
+     1p (huet) leKizyAmaH,liKizyAmaH != leKizyAmaH (pysan)
+lip fut A: identical
+lip fut P: identical
+liS fut P: identical
+lih fut A: identical
+lih fut P: identical
+lI fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lezyate != lAsyate,lezyate (pysan)
+     3d (huet) lezyete != lAsyete,lezyete (pysan)
+     3p (huet) lezyante != lAsyante,lezyante (pysan)
+     2s (huet) lezyase != lAsyase,lezyase (pysan)
+     2d (huet) lezyeTe != lAsyeTe,lezyeTe (pysan)
+     2p (huet) lezyaDve != lAsyaDve,lezyaDve (pysan)
+     1s (huet) lezye != lAsye,lezye (pysan)
+     1d (huet) lezyAvahe != lAsyAvahe,lezyAvahe (pysan)
+     1p (huet) lezyAmahe != lAsyAmahe,lezyAmahe (pysan)
+lI fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) lezyati != lAsyati,lezyati (pysan)
+     3d (huet) lezyataH != lAsyataH,lezyataH (pysan)
+     3p (huet) lezyanti != lAsyanti,lezyanti (pysan)
+     2s (huet) lezyasi != lAsyasi,lezyasi (pysan)
+     2d (huet) lezyaTaH != lAsyaTaH,lezyaTaH (pysan)
+     2p (huet) lezyaTa != lAsyaTa,lezyaTa (pysan)
+     1s (huet) lezyAmi != lAsyAmi,lezyAmi (pysan)
+     1d (huet) lezyAvaH != lAsyAvaH,lezyAvaH (pysan)
+     1p (huet) lezyAmaH != lAsyAmaH,lezyAmaH (pysan)
+luYc fut A: identical
+luYc fut P: identical
+luW fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) loWizyate != loWayizyate,loWizyate (pysan)
+     3d (huet) loWizyete != loWayizyete,loWizyete (pysan)
+     3p (huet) loWizyante != loWayizyante,loWizyante (pysan)
+     2s (huet) loWizyase != loWayizyase,loWizyase (pysan)
+     2d (huet) loWizyeTe != loWayizyeTe,loWizyeTe (pysan)
+     2p (huet) loWizyaDve != loWayizyaDve,loWizyaDve (pysan)
+     1s (huet) loWizye != loWayizye,loWizye (pysan)
+     1d (huet) loWizyAvahe != loWayizyAvahe,loWizyAvahe (pysan)
+     1p (huet) loWizyAmahe != loWayizyAmahe,loWizyAmahe (pysan)
+luW fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) loWizyati != loWayizyati,loWizyati (pysan)
+     3d (huet) loWizyataH != loWayizyataH,loWizyataH (pysan)
+     3p (huet) loWizyanti != loWayizyanti,loWizyanti (pysan)
+     2s (huet) loWizyasi != loWayizyasi,loWizyasi (pysan)
+     2d (huet) loWizyaTaH != loWayizyaTaH,loWizyaTaH (pysan)
+     2p (huet) loWizyaTa != loWayizyaTa,loWizyaTa (pysan)
+     1s (huet) loWizyAmi != loWayizyAmi,loWizyAmi (pysan)
+     1d (huet) loWizyAvaH != loWayizyAvaH,loWizyAvaH (pysan)
+     1p (huet) loWizyAmaH != loWayizyAmaH,loWizyAmaH (pysan)
+luRW fut P: pysan NOT FOUND
+lup fut A: identical
+lup fut P: identical
+luB fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) loBizyati != loBizyati,lopsyati (pysan)
+     3d (huet) loBizyataH != loBizyataH,lopsyataH (pysan)
+     3p (huet) loBizyanti != loBizyanti,lopsyanti (pysan)
+     2s (huet) loBizyasi != loBizyasi,lopsyasi (pysan)
+     2d (huet) loBizyaTaH != loBizyaTaH,lopsyaTaH (pysan)
+     2p (huet) loBizyaTa != loBizyaTa,lopsyaTa (pysan)
+     1s (huet) loBizyAmi != loBizyAmi,lopsyAmi (pysan)
+     1d (huet) loBizyAvaH != loBizyAvaH,lopsyAvaH (pysan)
+     1p (huet) loBizyAmaH != loBizyAmaH,lopsyAmaH (pysan)
+lul fut P: pysan NOT FOUND
+lU fut A: identical
+lU fut P: identical
+lelA fut A: pysan NOT FOUND
+lelA fut P: pysan NOT FOUND
+lok fut A: identical
+lok fut P: identical
+loc fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) locizyate != locayizyate,locizyate (pysan)
+     3d (huet) locizyete != locayizyete,locizyete (pysan)
+     3p (huet) locizyante != locayizyante,locizyante (pysan)
+     2s (huet) locizyase != locayizyase,locizyase (pysan)
+     2d (huet) locizyeTe != locayizyeTe,locizyeTe (pysan)
+     2p (huet) locizyaDve != locayizyaDve,locizyaDve (pysan)
+     1s (huet) locizye != locayizye,locizye (pysan)
+     1d (huet) locizyAvahe != locayizyAvahe,locizyAvahe (pysan)
+     1p (huet) locizyAmahe != locayizyAmahe,locizyAmahe (pysan)
+lohita fut A: pysan NOT FOUND
+lohita fut P: pysan NOT FOUND
+vac fut P: identical
+vaYc fut P: identical
+vad fut A: identical
+vad fut P: identical
+vaD fut A: pysan NOT FOUND
+vaD fut P: pysan NOT FOUND
+van fut P: identical
+vand fut A: identical
+vap fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vapizyate,vapsyate != vapsyate (pysan)
+     3d (huet) vapizyete,vapsyete != vapsyete (pysan)
+     3p (huet) vapizyante,vapsyante != vapsyante (pysan)
+     2s (huet) vapizyase,vapsyase != vapsyase (pysan)
+     2d (huet) vapizyeTe,vapsyeTe != vapsyeTe (pysan)
+     2p (huet) vapizyaDve,vapsyaDve != vapsyaDve (pysan)
+     1s (huet) vapizye,vapsye != vapsye (pysan)
+     1d (huet) vapizyAvahe,vapsyAvahe != vapsyAvahe (pysan)
+     1p (huet) vapizyAmahe,vapsyAmahe != vapsyAmahe (pysan)
+vap fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vapizyati,vapsyati != vapsyati (pysan)
+     3d (huet) vapizyataH,vapsyataH != vapsyataH (pysan)
+     3p (huet) vapizyanti,vapsyanti != vapsyanti (pysan)
+     2s (huet) vapizyasi,vapsyasi != vapsyasi (pysan)
+     2d (huet) vapizyaTaH,vapsyaTaH != vapsyaTaH (pysan)
+     2p (huet) vapizyaTa,vapsyaTa != vapsyaTa (pysan)
+     1s (huet) vapizyAmi,vapsyAmi != vapsyAmi (pysan)
+     1d (huet) vapizyAvaH,vapsyAvaH != vapsyAvaH (pysan)
+     1p (huet) vapizyAmaH,vapsyAmaH != vapsyAmaH (pysan)
+vam fut P: identical
+varivas fut A: pysan NOT FOUND
+varivas fut P: pysan NOT FOUND
+varRa fut A: pysan NOT FOUND
+varRa fut P: pysan NOT FOUND
+val fut A: identical
+val fut P: identical
+valg fut P: identical
+valgu fut A: pysan NOT FOUND
+valgu fut P: pysan NOT FOUND
+vaS fut P: identical
+vas fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vasizyate != vAsayizyate,vasayizyate,vatsyate (pysan)
+     3d (huet) vasizyete != vAsayizyete,vasayizyete,vatsyete (pysan)
+     3p (huet) vasizyante != vAsayizyante,vasayizyante,vatsyante (pysan)
+     2s (huet) vasizyase != vAsayizyase,vasayizyase,vatsyase (pysan)
+     2d (huet) vasizyeTe != vAsayizyeTe,vasayizyeTe,vatsyeTe (pysan)
+     2p (huet) vasizyaDve != vAsayizyaDve,vasayizyaDve,vatsyaDve (pysan)
+     1s (huet) vasizye != vAsayizye,vasayizye,vatsye (pysan)
+     1d (huet) vasizyAvahe != vAsayizyAvahe,vasayizyAvahe,vatsyAvahe (pysan)
+     1p (huet) vasizyAmahe != vAsayizyAmahe,vasayizyAmahe,vatsyAmahe (pysan)
+vas fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vasizyati,vatsyati != vAsayizyati,vasayizyati,vatsyati (pysan)
+     3d (huet) vasizyataH,vatsyataH != vAsayizyataH,vasayizyataH,vatsyataH (pysan)
+     3p (huet) vasizyanti,vatsyanti != vAsayizyanti,vasayizyanti,vatsyanti (pysan)
+     2s (huet) vasizyasi,vatsyasi != vAsayizyasi,vasayizyasi,vatsyasi (pysan)
+     2d (huet) vasizyaTaH,vatsyaTaH != vAsayizyaTaH,vasayizyaTaH,vatsyaTaH (pysan)
+     2p (huet) vasizyaTa,vatsyaTa != vAsayizyaTa,vasayizyaTa,vatsyaTa (pysan)
+     1s (huet) vasizyAmi,vatsyAmi != vAsayizyAmi,vasayizyAmi,vatsyAmi (pysan)
+     1d (huet) vasizyAvaH,vatsyAvaH != vAsayizyAvaH,vasayizyAvaH,vatsyAvaH (pysan)
+     1p (huet) vasizyAmaH,vatsyAmaH != vAsayizyAmaH,vasayizyAmaH,vatsyAmaH (pysan)
+vah fut A: identical
+vah fut P: identical
+vA fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vAsyate,vayizyate != vAsyate (pysan)
+     3d (huet) vAsyete,vayizyete != vAsyete (pysan)
+     3p (huet) vAsyante,vayizyante != vAsyante (pysan)
+     2s (huet) vAsyase,vayizyase != vAsyase (pysan)
+     2d (huet) vAsyeTe,vayizyeTe != vAsyeTe (pysan)
+     2p (huet) vAsyaDve,vayizyaDve != vAsyaDve (pysan)
+     1s (huet) vAsye,vayizye != vAsye (pysan)
+     1d (huet) vAsyAvahe,vayizyAvahe != vAsyAvahe (pysan)
+     1p (huet) vAsyAmahe,vayizyAmahe != vAsyAmahe (pysan)
+vA fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vAsyati,vayizyati != vAsyati (pysan)
+     3d (huet) vAsyataH,vayizyataH != vAsyataH (pysan)
+     3p (huet) vAsyanti,vayizyanti != vAsyanti (pysan)
+     2s (huet) vAsyasi,vayizyasi != vAsyasi (pysan)
+     2d (huet) vAsyaTaH,vayizyaTaH != vAsyaTaH (pysan)
+     2p (huet) vAsyaTa,vayizyaTa != vAsyaTa (pysan)
+     1s (huet) vAsyAmi,vayizyAmi != vAsyAmi (pysan)
+     1d (huet) vAsyAvaH,vayizyAvaH != vAsyAvaH (pysan)
+     1p (huet) vAsyAmaH,vayizyAmaH != vAsyAmaH (pysan)
+vAc fut A: pysan NOT FOUND
+vAc fut P: pysan NOT FOUND
+vAYC fut P: identical
+vAS fut A: identical
+vAsa fut A: pysan NOT FOUND
+vAsa fut P: pysan NOT FOUND
+vic fut A: identical
+vic fut P: identical
+vij fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vejizyate,vijizyate != vikzyate (pysan)
+     3d (huet) vejizyete,vijizyete != vikzyete (pysan)
+     3p (huet) vejizyante,vijizyante != vikzyante (pysan)
+     2s (huet) vejizyase,vijizyase != vikzyase (pysan)
+     2d (huet) vejizyeTe,vijizyeTe != vikzyeTe (pysan)
+     2p (huet) vejizyaDve,vijizyaDve != vikzyaDve (pysan)
+     1s (huet) vejizye,vijizye != vikzye (pysan)
+     1d (huet) vejizyAvahe,vijizyAvahe != vikzyAvahe (pysan)
+     1p (huet) vejizyAmahe,vijizyAmahe != vikzyAmahe (pysan)
+vij fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vejizyati,vijizyati != vikzyati (pysan)
+     3d (huet) vejizyataH,vijizyataH != vikzyataH (pysan)
+     3p (huet) vejizyanti,vijizyanti != vikzyanti (pysan)
+     2s (huet) vejizyasi,vijizyasi != vikzyasi (pysan)
+     2d (huet) vejizyaTaH,vijizyaTaH != vikzyaTaH (pysan)
+     2p (huet) vejizyaTa,vijizyaTa != vikzyaTa (pysan)
+     1s (huet) vejizyAmi,vijizyAmi != vikzyAmi (pysan)
+     1d (huet) vejizyAvaH,vijizyAvaH != vikzyAvaH (pysan)
+     1p (huet) vejizyAmaH,vijizyAmaH != vikzyAmaH (pysan)
+vid fut A: identical
+vid fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vedizyati,vetsyati != vetsyati (pysan)
+     3d (huet) vedizyataH,vetsyataH != vetsyataH (pysan)
+     3p (huet) vedizyanti,vetsyanti != vetsyanti (pysan)
+     2s (huet) vedizyasi,vetsyasi != vetsyasi (pysan)
+     2d (huet) vedizyaTaH,vetsyaTaH != vetsyaTaH (pysan)
+     2p (huet) vedizyaTa,vetsyaTa != vetsyaTa (pysan)
+     1s (huet) vedizyAmi,vetsyAmi != vetsyAmi (pysan)
+     1d (huet) vedizyAvaH,vetsyAvaH != vetsyAvaH (pysan)
+     1p (huet) vedizyAmaH,vetsyAmaH != vetsyAmaH (pysan)
+vip fut A: identical
+vimanA fut A: pysan NOT FOUND
+vimanA fut P: pysan NOT FOUND
+viS fut A: identical
+viS fut P: identical
+viSada fut A: pysan NOT FOUND
+viSada fut P: pysan NOT FOUND
+viz fut P: identical
+viza fut A: pysan NOT FOUND
+viza fut P: pysan NOT FOUND
+vI fut P: identical
+vIj fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vIjizyate != vIjayizyate,vIjizyate (pysan)
+     3d (huet) vIjizyete != vIjayizyete,vIjizyete (pysan)
+     3p (huet) vIjizyante != vIjayizyante,vIjizyante (pysan)
+     2s (huet) vIjizyase != vIjayizyase,vIjizyase (pysan)
+     2d (huet) vIjizyeTe != vIjayizyeTe,vIjizyeTe (pysan)
+     2p (huet) vIjizyaDve != vIjayizyaDve,vIjizyaDve (pysan)
+     1s (huet) vIjizye != vIjayizye,vIjizye (pysan)
+     1d (huet) vIjizyAvahe != vIjayizyAvahe,vIjizyAvahe (pysan)
+     1p (huet) vIjizyAmahe != vIjayizyAmahe,vIjizyAmahe (pysan)
+vIj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vIjizyati != vIjayizyati,vIjizyati (pysan)
+     3d (huet) vIjizyataH != vIjayizyataH,vIjizyataH (pysan)
+     3p (huet) vIjizyanti != vIjayizyanti,vIjizyanti (pysan)
+     2s (huet) vIjizyasi != vIjayizyasi,vIjizyasi (pysan)
+     2d (huet) vIjizyaTaH != vIjayizyaTaH,vIjizyaTaH (pysan)
+     2p (huet) vIjizyaTa != vIjayizyaTa,vIjizyaTa (pysan)
+     1s (huet) vIjizyAmi != vIjayizyAmi,vIjizyAmi (pysan)
+     1d (huet) vIjizyAvaH != vIjayizyAvaH,vIjizyAvaH (pysan)
+     1p (huet) vIjizyAmaH != vIjayizyAmaH,vIjizyAmaH (pysan)
+vf fut A: identical
+vf fut P: identical
+vfj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) varjizyati,varkzyati != varjizyati (pysan)
+     3d (huet) varjizyataH,varkzyataH != varjizyataH (pysan)
+     3p (huet) varjizyanti,varkzyanti != varjizyanti (pysan)
+     2s (huet) varjizyasi,varkzyasi != varjizyasi (pysan)
+     2d (huet) varjizyaTaH,varkzyaTaH != varjizyaTaH (pysan)
+     2p (huet) varjizyaTa,varkzyaTa != varjizyaTa (pysan)
+     1s (huet) varjizyAmi,varkzyAmi != varjizyAmi (pysan)
+     1d (huet) varjizyAvaH,varkzyAvaH != varjizyAvaH (pysan)
+     1p (huet) varjizyAmaH,varkzyAmaH != varjizyAmaH (pysan)
+vft fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vartizyate,vartsyate != vartizyate,vartsyati (pysan)
+     3d (huet) vartizyete,vartsyete != vartizyete,vartsyataH (pysan)
+     3p (huet) vartizyante,vartsyante != vartizyante,vartsyanti (pysan)
+     2s (huet) vartizyase,vartsyase != vartizyase,vartsyasi (pysan)
+     2d (huet) vartizyeTe,vartsyeTe != vartizyeTe,vartsyaTaH (pysan)
+     2p (huet) vartizyaDve,vartsyaDve != vartizyaDve,vartsyaTa (pysan)
+     1s (huet) vartizye,vartsye != vartizye,vartsyAmi (pysan)
+     1d (huet) vartizyAvahe,vartsyAvahe != vartizyAvahe,vartsyAvaH (pysan)
+     1p (huet) vartizyAmahe,vartsyAmahe != vartizyAmahe,vartsyAmaH (pysan)
+vfD fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) varDizyate != varDizyate,vartsyati (pysan)
+     3d (huet) varDizyete != varDizyete,vartsyataH (pysan)
+     3p (huet) varDizyante != varDizyante,vartsyanti (pysan)
+     2s (huet) varDizyase != varDizyase,vartsyasi (pysan)
+     2d (huet) varDizyeTe != varDizyeTe,vartsyaTaH (pysan)
+     2p (huet) varDizyaDve != varDizyaDve,vartsyaTa (pysan)
+     1s (huet) varDizye != varDizye,vartsyAmi (pysan)
+     1d (huet) varDizyAvahe != varDizyAvahe,vartsyAvaH (pysan)
+     1p (huet) varDizyAmahe != varDizyAmahe,vartsyAmaH (pysan)
+vfD fut P: identical
+vfz fut P: identical
+vfza fut A: pysan NOT FOUND
+vfza fut P: pysan NOT FOUND
+vfh fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) varhizyati != varhizyati,varkzyati (pysan)
+     3d (huet) varhizyataH != varhizyataH,varkzyataH (pysan)
+     3p (huet) varhizyanti != varhizyanti,varkzyanti (pysan)
+     2s (huet) varhizyasi != varhizyasi,varkzyasi (pysan)
+     2d (huet) varhizyaTaH != varhizyaTaH,varkzyaTaH (pysan)
+     2p (huet) varhizyaTa != varhizyaTa,varkzyaTa (pysan)
+     1s (huet) varhizyAmi != varhizyAmi,varkzyAmi (pysan)
+     1d (huet) varhizyAvaH != varhizyAvaH,varkzyAvaH (pysan)
+     1p (huet) varhizyAmaH != varhizyAmaH,varkzyAmaH (pysan)
+veda fut A: pysan NOT FOUND
+veda fut P: pysan NOT FOUND
+ven fut A: identical
+ven fut P: identical
+vezw fut A: identical
+vEra fut A: pysan NOT FOUND
+vEra fut P: pysan NOT FOUND
+vyaT fut A: identical
+vyaT fut P: identical
+vyaD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vetsyati != vyatsyati (pysan)
+     3d (huet) vetsyataH != vyatsyataH (pysan)
+     3p (huet) vetsyanti != vyatsyanti (pysan)
+     2s (huet) vetsyasi != vyatsyasi (pysan)
+     2d (huet) vetsyaTaH != vyatsyaTaH (pysan)
+     2p (huet) vetsyaTa != vyatsyaTa (pysan)
+     1s (huet) vetsyAmi != vyatsyAmi (pysan)
+     1d (huet) vetsyAvaH != vyatsyAvaH (pysan)
+     1p (huet) vetsyAmaH != vyatsyAmaH (pysan)
+vyA fut A: pysan NOT FOUND
+vyA fut P: pysan NOT FOUND
+vraj fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) vrajizyati != vrAjayizyati (pysan)
+     3d (huet) vrajizyataH != vrAjayizyataH (pysan)
+     3p (huet) vrajizyanti != vrAjayizyanti (pysan)
+     2s (huet) vrajizyasi != vrAjayizyasi (pysan)
+     2d (huet) vrajizyaTaH != vrAjayizyaTaH (pysan)
+     2p (huet) vrajizyaTa != vrAjayizyaTa (pysan)
+     1s (huet) vrajizyAmi != vrAjayizyAmi (pysan)
+     1d (huet) vrajizyAvaH != vrAjayizyAvaH (pysan)
+     1p (huet) vrajizyAmaH != vrAjayizyAmaH (pysan)
+vraRa fut A: pysan NOT FOUND
+vraRa fut P: pysan NOT FOUND
+vraSc fut P: identical
+vrIq fut A: identical
+SaMs fut P: identical
+Sak fut P: identical
+SaNk fut A: identical
+Sad fut A: identical
+Sap fut A: identical
+Sap fut P: identical
+Sabda fut A: pysan NOT FOUND
+Sabda fut P: pysan NOT FOUND
+Sam fut P: identical
+Sal fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) Salizyati != SAlayizyati,Salizyati (pysan)
+     3d (huet) SalizyataH != SAlayizyataH,SalizyataH (pysan)
+     3p (huet) Salizyanti != SAlayizyanti,Salizyanti (pysan)
+     2s (huet) Salizyasi != SAlayizyasi,Salizyasi (pysan)
+     2d (huet) SalizyaTaH != SAlayizyaTaH,SalizyaTaH (pysan)
+     2p (huet) SalizyaTa != SAlayizyaTa,SalizyaTa (pysan)
+     1s (huet) SalizyAmi != SAlayizyAmi,SalizyAmi (pysan)
+     1d (huet) SalizyAvaH != SAlayizyAvaH,SalizyAvaH (pysan)
+     1p (huet) SalizyAmaH != SAlayizyAmaH,SalizyAmaH (pysan)
+SalaBa fut A: pysan NOT FOUND
+SalaBa fut P: pysan NOT FOUND
+SaS fut P: identical
+Sas fut P: identical
+SA fut A: pysan NOT FOUND
+SA fut P: pysan NOT FOUND
+SAnta fut A: pysan NOT FOUND
+SAnta fut P: pysan NOT FOUND
+SAs fut P: identical
+Sikz fut A: identical
+Sikz fut P: identical
+SiTila fut A: pysan NOT FOUND
+SiTila fut P: pysan NOT FOUND
+SiSu fut A: pysan NOT FOUND
+SiSu fut P: pysan NOT FOUND
+Siz fut P: identical
+SI fut A: identical
+SIGra fut A: pysan NOT FOUND
+SIGra fut P: pysan NOT FOUND
+SIl fut P: identical
+Suc fut P: identical
+SuD fut P: identical
+SuB fut A: identical
+SumB fut P: identical
+Suz fut P: identical
+SU fut P: pysan NOT FOUND
+SF fut P: identical
+Scut fut P: identical
+SyA fut A: pysan NOT FOUND
+SyA fut P: pysan NOT FOUND
+SyAma fut A: pysan NOT FOUND
+SyAma fut P: pysan NOT FOUND
+Syena fut A: pysan NOT FOUND
+Syena fut P: pysan NOT FOUND
+Sram fut P: identical
+SramB fut A: identical
+Sri fut A: identical
+Sri fut P: identical
+Sru fut P: identical
+SlAG fut A: identical
+Sliz fut P: identical
+Svas fut P: identical
+Svit fut A: identical
+zaRQa fut A: pysan NOT FOUND
+zaRQa fut P: pysan NOT FOUND
+zWIv fut P: pysan NOT FOUND
+saKi fut A: pysan NOT FOUND
+saKi fut P: pysan NOT FOUND
+saNkawa fut A: pysan NOT FOUND
+saNkawa fut P: pysan NOT FOUND
+saNgrAma fut A: pysan NOT FOUND
+saNgrAma fut P: pysan NOT FOUND
+sac fut A: identical
+sajja fut A: pysan NOT FOUND
+sajja fut P: pysan NOT FOUND
+saYj fut P: identical
+satya fut A: pysan NOT FOUND
+satya fut P: pysan NOT FOUND
+sad fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sIdizyati,satsyati != satsyati (pysan)
+     3d (huet) sIdizyataH,satsyataH != satsyataH (pysan)
+     3p (huet) sIdizyanti,satsyanti != satsyanti (pysan)
+     2s (huet) sIdizyasi,satsyasi != satsyasi (pysan)
+     2d (huet) sIdizyaTaH,satsyaTaH != satsyaTaH (pysan)
+     2p (huet) sIdizyaTa,satsyaTa != satsyaTa (pysan)
+     1s (huet) sIdizyAmi,satsyAmi != satsyAmi (pysan)
+     1d (huet) sIdizyAvaH,satsyAvaH != satsyAvaH (pysan)
+     1p (huet) sIdizyAmaH,satsyAmaH != satsyAmaH (pysan)
+san fut A: identical
+san fut P: identical
+sap fut P: identical
+sapiRqa fut A: pysan NOT FOUND
+sapiRqa fut P: pysan NOT FOUND
+saPala fut A: pysan NOT FOUND
+saPala fut P: pysan NOT FOUND
+samudra fut A: pysan NOT FOUND
+samudra fut P: pysan NOT FOUND
+sah fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sahizyate,sakzyate != sAhayizyate,sahizyate,sakzyate (pysan)
+     3d (huet) sahizyete,sakzyete != sAhayizyete,sahizyete,sakzyete (pysan)
+     3p (huet) sahizyante,sakzyante != sAhayizyante,sahizyante,sakzyante (pysan)
+     2s (huet) sahizyase,sakzyase != sAhayizyase,sahizyase,sakzyase (pysan)
+     2d (huet) sahizyeTe,sakzyeTe != sAhayizyeTe,sahizyeTe,sakzyeTe (pysan)
+     2p (huet) sahizyaDve,sakzyaDve != sAhayizyaDve,sahizyaDve,sakzyaDve (pysan)
+     1s (huet) sahizye,sakzye != sAhayizye,sahizye,sakzye (pysan)
+     1d (huet) sahizyAvahe,sakzyAvahe != sAhayizyAvahe,sahizyAvahe,sakzyAvahe (pysan)
+     1p (huet) sahizyAmahe,sakzyAmahe != sAhayizyAmahe,sahizyAmahe,sakzyAmahe (pysan)
+sah fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sahizyati,sakzyati != sAhayizyati,sahizyati,sakzyati (pysan)
+     3d (huet) sahizyataH,sakzyataH != sAhayizyataH,sahizyataH,sakzyataH (pysan)
+     3p (huet) sahizyanti,sakzyanti != sAhayizyanti,sahizyanti,sakzyanti (pysan)
+     2s (huet) sahizyasi,sakzyasi != sAhayizyasi,sahizyasi,sakzyasi (pysan)
+     2d (huet) sahizyaTaH,sakzyaTaH != sAhayizyaTaH,sahizyaTaH,sakzyaTaH (pysan)
+     2p (huet) sahizyaTa,sakzyaTa != sAhayizyaTa,sahizyaTa,sakzyaTa (pysan)
+     1s (huet) sahizyAmi,sakzyAmi != sAhayizyAmi,sahizyAmi,sakzyAmi (pysan)
+     1d (huet) sahizyAvaH,sakzyAvaH != sAhayizyAvaH,sahizyAvaH,sakzyAvaH (pysan)
+     1p (huet) sahizyAmaH,sakzyAmaH != sAhayizyAmaH,sahizyAmaH,sakzyAmaH (pysan)
+sA fut P: pysan NOT FOUND
+sAntva fut A: pysan NOT FOUND
+sAntva fut P: pysan NOT FOUND
+sAvaDAna fut A: pysan NOT FOUND
+sAvaDAna fut P: pysan NOT FOUND
+sic fut A: identical
+sic fut P: identical
+siD fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) seDizyati,setsyati != setsyati (pysan)
+     3d (huet) seDizyataH,setsyataH != setsyataH (pysan)
+     3p (huet) seDizyanti,setsyanti != setsyanti (pysan)
+     2s (huet) seDizyasi,setsyasi != setsyasi (pysan)
+     2d (huet) seDizyaTaH,setsyaTaH != setsyaTaH (pysan)
+     2p (huet) seDizyaTa,setsyaTa != setsyaTa (pysan)
+     1s (huet) seDizyAmi,setsyAmi != setsyAmi (pysan)
+     1d (huet) seDizyAvaH,setsyAvaH != setsyAvaH (pysan)
+     1p (huet) seDizyAmaH,setsyAmaH != setsyAmaH (pysan)
+sIv fut P: pysan NOT FOUND
+su fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) savizyate,sozyate != sozyate (pysan)
+     3d (huet) savizyete,sozyete != sozyete (pysan)
+     3p (huet) savizyante,sozyante != sozyante (pysan)
+     2s (huet) savizyase,sozyase != sozyase (pysan)
+     2d (huet) savizyeTe,sozyeTe != sozyeTe (pysan)
+     2p (huet) savizyaDve,sozyaDve != sozyaDve (pysan)
+     1s (huet) savizye,sozye != sozye (pysan)
+     1d (huet) savizyAvahe,sozyAvahe != sozyAvahe (pysan)
+     1p (huet) savizyAmahe,sozyAmahe != sozyAmahe (pysan)
+su fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) savizyati,sozyati != sozyati (pysan)
+     3d (huet) savizyataH,sozyataH != sozyataH (pysan)
+     3p (huet) savizyanti,sozyanti != sozyanti (pysan)
+     2s (huet) savizyasi,sozyasi != sozyasi (pysan)
+     2d (huet) savizyaTaH,sozyaTaH != sozyaTaH (pysan)
+     2p (huet) savizyaTa,sozyaTa != sozyaTa (pysan)
+     1s (huet) savizyAmi,sozyAmi != sozyAmi (pysan)
+     1d (huet) savizyAvaH,sozyAvaH != sozyAvaH (pysan)
+     1p (huet) savizyAmaH,sozyAmaH != sozyAmaH (pysan)
+suKa fut A: pysan NOT FOUND
+suKa fut P: pysan NOT FOUND
+sudina fut A: pysan NOT FOUND
+sudina fut P: pysan NOT FOUND
+sumanas fut A: pysan NOT FOUND
+sumanas fut P: pysan NOT FOUND
+sur fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sorizyati != sorayizyati,sorizyati (pysan)
+     3d (huet) sorizyataH != sorayizyataH,sorizyataH (pysan)
+     3p (huet) sorizyanti != sorayizyanti,sorizyanti (pysan)
+     2s (huet) sorizyasi != sorayizyasi,sorizyasi (pysan)
+     2d (huet) sorizyaTaH != sorayizyaTaH,sorizyaTaH (pysan)
+     2p (huet) sorizyaTa != sorayizyaTa,sorizyaTa (pysan)
+     1s (huet) sorizyAmi != sorayizyAmi,sorizyAmi (pysan)
+     1d (huet) sorizyAvaH != sorayizyAvaH,sorizyAvaH (pysan)
+     1p (huet) sorizyAmaH != sorayizyAmaH,sorizyAmaH (pysan)
+sU fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) savizyate,sozyate != savizyate (pysan)
+     3d (huet) savizyete,sozyete != savizyete (pysan)
+     3p (huet) savizyante,sozyante != savizyante (pysan)
+     2s (huet) savizyase,sozyase != savizyase (pysan)
+     2d (huet) savizyeTe,sozyeTe != savizyeTe (pysan)
+     2p (huet) savizyaDve,sozyaDve != savizyaDve (pysan)
+     1s (huet) savizye,sozye != savizye (pysan)
+     1d (huet) savizyAvahe,sozyAvahe != savizyAvahe (pysan)
+     1p (huet) savizyAmahe,sozyAmahe != savizyAmahe (pysan)
+sU fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) savizyati,sozyati != savizyati (pysan)
+     3d (huet) savizyataH,sozyataH != savizyataH (pysan)
+     3p (huet) savizyanti,sozyanti != savizyanti (pysan)
+     2s (huet) savizyasi,sozyasi != savizyasi (pysan)
+     2d (huet) savizyaTaH,sozyaTaH != savizyaTaH (pysan)
+     2p (huet) savizyaTa,sozyaTa != savizyaTa (pysan)
+     1s (huet) savizyAmi,sozyAmi != savizyAmi (pysan)
+     1d (huet) savizyAvaH,sozyAvaH != savizyAvaH (pysan)
+     1p (huet) savizyAmaH,sozyAmaH != savizyAmaH (pysan)
+sUc fut A: identical
+sUc fut P: identical
+sUtra fut A: pysan NOT FOUND
+sUtra fut P: pysan NOT FOUND
+sUd fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sUdayizyate != sUdayizyate,sUdizyate (pysan)
+     3d (huet) sUdayizyete != sUdayizyete,sUdizyete (pysan)
+     3p (huet) sUdayizyante != sUdayizyante,sUdizyante (pysan)
+     2s (huet) sUdayizyase != sUdayizyase,sUdizyase (pysan)
+     2d (huet) sUdayizyeTe != sUdayizyeTe,sUdizyeTe (pysan)
+     2p (huet) sUdayizyaDve != sUdayizyaDve,sUdizyaDve (pysan)
+     1s (huet) sUdayizye != sUdayizye,sUdizye (pysan)
+     1d (huet) sUdayizyAvahe != sUdayizyAvahe,sUdizyAvahe (pysan)
+     1p (huet) sUdayizyAmahe != sUdayizyAmahe,sUdizyAmahe (pysan)
+sUd fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sUdayizyati != sUdayizyati,sUdizyati (pysan)
+     3d (huet) sUdayizyataH != sUdayizyataH,sUdizyataH (pysan)
+     3p (huet) sUdayizyanti != sUdayizyanti,sUdizyanti (pysan)
+     2s (huet) sUdayizyasi != sUdayizyasi,sUdizyasi (pysan)
+     2d (huet) sUdayizyaTaH != sUdayizyaTaH,sUdizyaTaH (pysan)
+     2p (huet) sUdayizyaTa != sUdayizyaTa,sUdizyaTa (pysan)
+     1s (huet) sUdayizyAmi != sUdayizyAmi,sUdizyAmi (pysan)
+     1d (huet) sUdayizyAvaH != sUdayizyAvaH,sUdizyAvaH (pysan)
+     1p (huet) sUdayizyAmaH != sUdayizyAmaH,sUdizyAmaH (pysan)
+sf fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sarizyati != sArayizyati,sarizyati (pysan)
+     3d (huet) sarizyataH != sArayizyataH,sarizyataH (pysan)
+     3p (huet) sarizyanti != sArayizyanti,sarizyanti (pysan)
+     2s (huet) sarizyasi != sArayizyasi,sarizyasi (pysan)
+     2d (huet) sarizyaTaH != sArayizyaTaH,sarizyaTaH (pysan)
+     2p (huet) sarizyaTa != sArayizyaTa,sarizyaTa (pysan)
+     1s (huet) sarizyAmi != sArayizyAmi,sarizyAmi (pysan)
+     1d (huet) sarizyAvaH != sArayizyAvaH,sarizyAvaH (pysan)
+     1p (huet) sarizyAmaH != sArayizyAmaH,sarizyAmaH (pysan)
+sfj fut P: identical
+sfp fut P: identical
+sev fut A: identical
+skand fut P: identical
+skamB fut A: identical
+skamB fut P: identical
+sKal fut P: identical
+stan fut P: identical
+stamB fut P: identical
+stu fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) stavizyate,stozyate != stozyate (pysan)
+     3d (huet) stavizyete,stozyete != stozyete (pysan)
+     3p (huet) stavizyante,stozyante != stozyante (pysan)
+     2s (huet) stavizyase,stozyase != stozyase (pysan)
+     2d (huet) stavizyeTe,stozyeTe != stozyeTe (pysan)
+     2p (huet) stavizyaDve,stozyaDve != stozyaDve (pysan)
+     1s (huet) stavizye,stozye != stozye (pysan)
+     1d (huet) stavizyAvahe,stozyAvahe != stozyAvahe (pysan)
+     1p (huet) stavizyAmahe,stozyAmahe != stozyAmahe (pysan)
+stu fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) stavizyati,stozyati != stozyati (pysan)
+     3d (huet) stavizyataH,stozyataH != stozyataH (pysan)
+     3p (huet) stavizyanti,stozyanti != stozyanti (pysan)
+     2s (huet) stavizyasi,stozyasi != stozyasi (pysan)
+     2d (huet) stavizyaTaH,stozyaTaH != stozyaTaH (pysan)
+     2p (huet) stavizyaTa,stozyaTa != stozyaTa (pysan)
+     1s (huet) stavizyAmi,stozyAmi != stozyAmi (pysan)
+     1d (huet) stavizyAvaH,stozyAvaH != stozyAvaH (pysan)
+     1p (huet) stavizyAmaH,stozyAmaH != stozyAmaH (pysan)
+stuB fut P: identical
+stF fut A: pysan NOT FOUND
+stF fut P: pysan NOT FOUND
+stena fut A: pysan NOT FOUND
+stena fut P: pysan NOT FOUND
+styA fut A: pysan NOT FOUND
+sTaga fut A: pysan NOT FOUND
+sTaga fut P: pysan NOT FOUND
+sTA fut A: identical
+sTA fut P: identical
+snA fut P: identical
+snih fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) snehizyati != snehizyati,snekzyati (pysan)
+     3d (huet) snehizyataH != snehizyataH,snekzyataH (pysan)
+     3p (huet) snehizyanti != snehizyanti,snekzyanti (pysan)
+     2s (huet) snehizyasi != snehizyasi,snekzyasi (pysan)
+     2d (huet) snehizyaTaH != snehizyaTaH,snekzyaTaH (pysan)
+     2p (huet) snehizyaTa != snehizyaTa,snekzyaTa (pysan)
+     1s (huet) snehizyAmi != snehizyAmi,snekzyAmi (pysan)
+     1d (huet) snehizyAvaH != snehizyAvaH,snekzyAvaH (pysan)
+     1p (huet) snehizyAmaH != snehizyAmaH,snekzyAmaH (pysan)
+snu fut P: identical
+snuh fut P: identical
+spand fut A: identical
+sparD fut A: identical
+spfS fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) sparkzyati != sparkzyati,sprakzyati (pysan)
+     3d (huet) sparkzyataH != sparkzyataH,sprakzyataH (pysan)
+     3p (huet) sparkzyanti != sparkzyanti,sprakzyanti (pysan)
+     2s (huet) sparkzyasi != sparkzyasi,sprakzyasi (pysan)
+     2d (huet) sparkzyaTaH != sparkzyaTaH,sprakzyaTaH (pysan)
+     2p (huet) sparkzyaTa != sparkzyaTa,sprakzyaTa (pysan)
+     1s (huet) sparkzyAmi != sparkzyAmi,sprakzyAmi (pysan)
+     1d (huet) sparkzyAvaH != sparkzyAvaH,sprakzyAvaH (pysan)
+     1p (huet) sparkzyAmaH != sparkzyAmaH,sprakzyAmaH (pysan)
+spfh fut A: identical
+spfh fut P: identical
+sPal fut P: identical
+sPA fut A: pysan NOT FOUND
+sPuw fut P: identical
+sPur fut P: identical
+smi fut A: identical
+smf fut P: identical
+syand fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) syandizyate,syantsyate != syandizyate,syantsyate,syantsyati (pysan)
+     3d (huet) syandizyete,syantsyete != syandizyete,syantsyataH,syantsyete (pysan)
+     3p (huet) syandizyante,syantsyante != syandizyante,syantsyante,syantsyanti (pysan)
+     2s (huet) syandizyase,syantsyase != syandizyase,syantsyase,syantsyasi (pysan)
+     2d (huet) syandizyeTe,syantsyeTe != syandizyeTe,syantsyaTaH,syantsyeTe (pysan)
+     2p (huet) syandizyaDve,syantsyaDve != syandizyaDve,syantsyaDve,syantsyaTa (pysan)
+     1s (huet) syandizye,syantsye != syandizye,syantsyAmi,syantsye (pysan)
+     1d (huet) syandizyAvahe,syantsyAvahe != syandizyAvahe,syantsyAvaH,syantsyAvahe (pysan)
+     1p (huet) syandizyAmahe,syantsyAmahe != syandizyAmahe,syantsyAmaH,syantsyAmahe (pysan)
+syand fut P: identical
+sraMs fut A: identical
+sru fut P: identical
+svaYj fut A: pysan NOT FOUND
+svad fut A: identical
+svad fut P: identical
+svan fut P: identical
+svap fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) svapizyati,svapsyati != svapsyati (pysan)
+     3d (huet) svapizyataH,svapsyataH != svapsyataH (pysan)
+     3p (huet) svapizyanti,svapsyanti != svapsyanti (pysan)
+     2s (huet) svapizyasi,svapsyasi != svapsyasi (pysan)
+     2d (huet) svapizyaTaH,svapsyaTaH != svapsyaTaH (pysan)
+     2p (huet) svapizyaTa,svapsyaTa != svapsyaTa (pysan)
+     1s (huet) svapizyAmi,svapsyAmi != svapsyAmi (pysan)
+     1d (huet) svapizyAvaH,svapsyAvaH != svapsyAvaH (pysan)
+     1p (huet) svapizyAmaH,svapsyAmaH != svapsyAmaH (pysan)
+svar fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) svarizyati != svarayizyati,svarizyati (pysan)
+     3d (huet) svarizyataH != svarayizyataH,svarizyataH (pysan)
+     3p (huet) svarizyanti != svarayizyanti,svarizyanti (pysan)
+     2s (huet) svarizyasi != svarayizyasi,svarizyasi (pysan)
+     2d (huet) svarizyaTaH != svarayizyaTaH,svarizyaTaH (pysan)
+     2p (huet) svarizyaTa != svarayizyaTa,svarizyaTa (pysan)
+     1s (huet) svarizyAmi != svarayizyAmi,svarizyAmi (pysan)
+     1d (huet) svarizyAvaH != svarayizyAvaH,svarizyAvaH (pysan)
+     1p (huet) svarizyAmaH != svarayizyAmaH,svarizyAmaH (pysan)
+svalpaSilA fut A: pysan NOT FOUND
+svalpaSilA fut P: pysan NOT FOUND
+svid fut A: identical
+svid fut P: identical
+haW fut P: identical
+had fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hatsyate != hadizyate (pysan)
+     3d (huet) hatsyete != hadizyete (pysan)
+     3p (huet) hatsyante != hadizyante (pysan)
+     2s (huet) hatsyase != hadizyase (pysan)
+     2d (huet) hatsyeTe != hadizyeTe (pysan)
+     2p (huet) hatsyaDve != hadizyaDve (pysan)
+     1s (huet) hatsye != hadizye (pysan)
+     1d (huet) hatsyAvahe != hadizyAvahe (pysan)
+     1p (huet) hatsyAmahe != hadizyAmahe (pysan)
+had fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hatsyati != hadizyati (pysan)
+     3d (huet) hatsyataH != hadizyataH (pysan)
+     3p (huet) hatsyanti != hadizyanti (pysan)
+     2s (huet) hatsyasi != hadizyasi (pysan)
+     2d (huet) hatsyaTaH != hadizyaTaH (pysan)
+     2p (huet) hatsyaTa != hadizyaTa (pysan)
+     1s (huet) hatsyAmi != hadizyAmi (pysan)
+     1d (huet) hatsyAvaH != hadizyAvaH (pysan)
+     1p (huet) hatsyAmaH != hadizyAmaH (pysan)
+han fut A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) haMsyate,hanizyate != hanizyate (pysan)
+     3d (huet) haMsyete,hanizyete != hanizyete (pysan)
+     3p (huet) haMsyante,hanizyante != hanizyante (pysan)
+     2s (huet) haMsyase,hanizyase != hanizyase (pysan)
+     2d (huet) haMsyeTe,hanizyeTe != hanizyeTe (pysan)
+     2p (huet) haMsyaDve,hanizyaDve != hanizyaDve (pysan)
+     1s (huet) haMsye,hanizye != hanizye (pysan)
+     1d (huet) haMsyAvahe,hanizyAvahe != hanizyAvahe (pysan)
+     1p (huet) haMsyAmahe,hanizyAmahe != hanizyAmahe (pysan)
+han fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) haMsyati,hanizyati != hanizyati (pysan)
+     3d (huet) haMsyataH,hanizyataH != hanizyataH (pysan)
+     3p (huet) haMsyanti,hanizyanti != hanizyanti (pysan)
+     2s (huet) haMsyasi,hanizyasi != hanizyasi (pysan)
+     2d (huet) haMsyaTaH,hanizyaTaH != hanizyaTaH (pysan)
+     2p (huet) haMsyaTa,hanizyaTa != hanizyaTa (pysan)
+     1s (huet) haMsyAmi,hanizyAmi != hanizyAmi (pysan)
+     1d (huet) haMsyAvaH,hanizyAvaH != hanizyAvaH (pysan)
+     1p (huet) haMsyAmaH,hanizyAmaH != hanizyAmaH (pysan)
+has fut P: identical
+hA fut A: identical
+hA fut P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (huet) hAsyati,jahizyati != hAsyati (pysan)
+     3d (huet) hAsyataH,jahizyataH != hAsyataH (pysan)
+     3p (huet) hAsyanti,jahizyanti != hAsyanti (pysan)
+     2s (huet) hAsyasi,jahizyasi != hAsyasi (pysan)
+     2d (huet) hAsyaTaH,jahizyaTaH != hAsyaTaH (pysan)
+     2p (huet) hAsyaTa,jahizyaTa != hAsyaTa (pysan)
+     1s (huet) hAsyAmi,jahizyAmi != hAsyAmi (pysan)
+     1d (huet) hAsyAvaH,jahizyAvaH != hAsyAvaH (pysan)
+     1p (huet) hAsyAmaH,jahizyAmaH != hAsyAmaH (pysan)
+hi fut P: identical
+hiMs fut P: identical
+hikk fut A: identical
+hikk fut P: identical
+hu fut A: identical
+hu fut P: identical
+huRq fut A: identical
+hU fut A: pysan NOT FOUND
+hU fut P: pysan NOT FOUND
+hf fut A: identical
+hf fut P: identical
+hfz fut P: identical
+hnu fut A: identical
+hras fut P: identical
+hrAd fut A: identical
+hrI fut P: identical
+hlAd fut A: identical
+hval fut P: identical
+hvf fut A: identical
+hvf fut P: identical
