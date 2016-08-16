@@ -1,0 +1,7 @@
+kf:1A,4A,4P
+gam:1A,1P,1Q,2A,2P,3A,3P
+gA:1P,1Q
+gfD:2A,2P
+BI:4A,4P
+BU:1P,1Q
+Suc:2A,2P
