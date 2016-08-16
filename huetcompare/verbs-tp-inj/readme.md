@@ -71,6 +71,6 @@ output is compare_conj_tables_inj.txt
 
 ## first summary
 
-See [issue#14](https://github.com/funderburkjim/elispsanskrit/issues/14) for some discussion of the comparison.
+See [issue#15](https://github.com/funderburkjim/elispsanskrit/issues/15) for some discussion of the comparison.
 
 
