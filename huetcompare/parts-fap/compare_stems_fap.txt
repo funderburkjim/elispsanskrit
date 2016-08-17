@@ -1,0 +1,1724 @@
+--------------------------------------------------
+450 cases of IDENTICAL CLASSES
+--------------------------------------------------
+Case 01: aMSayizyat:P identical in BOTH
+Case 02: akzizyat:P identical in BOTH
+Case 03: aNkayizyat:P identical in BOTH
+Case 04: aNkzyat:P identical in BOTH
+Case 05: aNKayizyat:P identical in BOTH
+Case 06: ajizyat:P identical in BOTH
+Case 07: aYcizyat:P identical in BOTH
+Case 08: aYjizyat:P identical in BOTH
+Case 09: awizyat:P identical in BOTH
+Case 10: atizyat:P identical in BOTH
+Case 11: atsyat:P identical in BOTH
+Case 12: anizyat:P identical in BOTH
+Case 13: anDayizyat:P identical in BOTH
+Case 14: arizyat:P identical in BOTH
+Case 15: arcizyat:P identical in BOTH
+Case 16: arjizyat:P identical in BOTH
+Case 17: ardizyat:P identical in BOTH
+Case 18: arDizyat:P identical in BOTH
+Case 19: arzizyat:P identical in BOTH
+Case 20: arhizyat:P identical in BOTH
+Case 21: avizyat:P identical in BOTH
+Case 22: asizyat:P identical in BOTH
+Case 23: Apsyat:P identical in BOTH
+Case 24: indizyat:P identical in BOTH
+Case 25: invizyat:P identical in BOTH
+Case 26: INKizyat:P identical in BOTH
+Case 27: ukzizyat:P identical in BOTH
+Case 28: ujJizyat:P identical in BOTH
+Case 29: uYCizyat:P identical in BOTH
+Case 30: undizyat:P identical in BOTH
+Case 31: Uhizyat:P identical in BOTH
+Case 32: ejizyat:P identical in BOTH
+Case 33: elizyat:P identical in BOTH
+Case 34: ezizyat:P identical in BOTH
+Case 35: ezyat:P identical in BOTH
+Case 36: oBizyat:P identical in BOTH
+Case 37: ozizyat:P identical in BOTH
+Case 38: kaRqayizyat:P identical in BOTH
+Case 39: kaTayizyat:P identical in BOTH
+Case 40: karizyat:P identical in BOTH
+Case 41: karIzyat:P identical in BOTH
+Case 42: karkzyat:P identical in BOTH
+Case 43: karRayizyat:P identical in BOTH
+Case 44: kartizyat:P identical in BOTH
+Case 45: kartsyat:P identical in BOTH
+Case 46: karSizyat:P identical in BOTH
+Case 47: kalayizyat:P identical in BOTH
+Case 48: kazizyat:P identical in BOTH
+Case 49: kasizyat:P identical in BOTH
+Case 50: kANkzizyat:P identical in BOTH
+Case 51: kIrtayizyat:P identical in BOTH
+Case 52: kIlizyat:P identical in BOTH
+Case 53: kuwwayizyat:P identical in BOTH
+Case 54: kuRWizyat:P identical in BOTH
+Case 55: kuRqizyat:P identical in BOTH
+Case 56: kutsayizyat:P identical in BOTH
+Case 57: kunTizyat:P identical in BOTH
+Case 58: kUjizyat:P identical in BOTH
+Case 59: kopizyat:P identical in BOTH
+Case 60: kolizyat:P identical in BOTH
+Case 61: krakzyat:P identical in BOTH
+Case 62: krandizyat:P identical in BOTH
+Case 63: kramizyat:P identical in BOTH
+Case 64: krIqizyat:P identical in BOTH
+Case 65: kruYcizyat:P identical in BOTH
+Case 66: krezyat:P identical in BOTH
+Case 67: krokzyat:P identical in BOTH
+Case 68: klamizyat:P identical in BOTH
+Case 69: kletsyat:P identical in BOTH
+Case 70: kledizyat:P identical in BOTH
+Case 71: kleSizyat:P identical in BOTH
+Case 72: kzapizyat:P identical in BOTH
+Case 73: kzarizyat:P identical in BOTH
+Case 74: kzavizyat:P identical in BOTH
+Case 75: kzepsyat:P identical in BOTH
+Case 76: kzezyat:P identical in BOTH
+Case 77: kzotsyat:P identical in BOTH
+Case 78: kzoBizyat:P identical in BOTH
+Case 79: kzveqizyat:P identical in BOTH
+Case 80: Kanizyat:P identical in BOTH
+Case 81: KAdizyat:P identical in BOTH
+Case 82: Ketsyat:P identical in BOTH
+Case 83: Kelizyat:P identical in BOTH
+Case 84: KyAsyat:P identical in BOTH
+Case 85: gajizyat:P identical in BOTH
+Case 86: gaRayizyat:P identical in BOTH
+Case 87: gadizyat:P identical in BOTH
+Case 88: gamizyat:P identical in BOTH
+Case 89: garizyat:P identical in BOTH
+Case 90: garIzyat:P identical in BOTH
+Case 91: garjizyat:P identical in BOTH
+Case 92: gardizyat:P identical in BOTH
+Case 93: garDizyat:P identical in BOTH
+Case 94: garhayizyat:P identical in BOTH
+Case 95: garhizyat:P identical in BOTH
+Case 96: galizyat:P identical in BOTH
+Case 97: gAsyat:P identical in BOTH
+Case 98: guYjizyat:P identical in BOTH
+Case 99: gumPizyat:P identical in BOTH
+Case 100: gUhizyat:P identical in BOTH
+Case 101: gopAyizyat:P identical in BOTH
+Case 102: grasizyat:P identical in BOTH
+Case 103: grahIzyat:P identical in BOTH
+Case 104: Gawwayizyat:P identical in BOTH
+Case 105: Garizyat:P identical in BOTH
+Case 106: Garzizyat:P identical in BOTH
+Case 107: GUrRizyat:P identical in BOTH
+Case 108: Gokzyat:P identical in BOTH
+Case 109: Gozizyat:P identical in BOTH
+Case 110: GrAsyat:P identical in BOTH
+Case 111: caYcizyat:P identical in BOTH
+Case 112: cawizyat:P identical in BOTH
+Case 113: catizyat:P identical in BOTH
+Case 114: candizyat:P identical in BOTH
+Case 115: camizyat:P identical in BOTH
+Case 116: carizyat:P identical in BOTH
+Case 117: carcayizyat:P identical in BOTH
+Case 118: calizyat:P identical in BOTH
+Case 119: cumbizyat:P identical in BOTH
+Case 120: cUrRayizyat:P identical in BOTH
+Case 121: cUzizyat:P identical in BOTH
+Case 122: cetizyat:P identical in BOTH
+Case 123: cezwizyat:P identical in BOTH
+Case 124: cezyat:P identical in BOTH
+Case 125: corayizyat:P identical in BOTH
+Case 126: Cadizyat:P identical in BOTH
+Case 127: Cetsyat:P identical in BOTH
+Case 128: jakzizyat:P identical in BOTH
+Case 129: janizyat:P identical in BOTH
+Case 130: japizyat:P identical in BOTH
+Case 131: jamizyat:P identical in BOTH
+Case 132: jarizyat:P identical in BOTH
+Case 133: jarIzyat:P identical in BOTH
+Case 134: jalpizyat:P identical in BOTH
+Case 135: jasizyat:P identical in BOTH
+Case 136: jAgarizyat:P identical in BOTH
+Case 137: jAsyat:P identical in BOTH
+Case 138: jinvizyat:P identical in BOTH
+Case 139: jIvizyat:P identical in BOTH
+Case 140: jezyat:P identical in BOTH
+Case 141: jYAsyat:P identical in BOTH
+Case 142: jyAsyat:P identical in BOTH
+Case 143: jvalizyat:P identical in BOTH
+Case 144: qambayizyat:P identical in BOTH
+Case 145: takizyat:P identical in BOTH
+Case 146: takzizyat:P identical in BOTH
+Case 147: taYcizyat:P identical in BOTH
+Case 148: tanizyat:P identical in BOTH
+Case 149: tapsyat:P identical in BOTH
+Case 150: tamizyat:P identical in BOTH
+Case 151: tarizyat:P identical in BOTH
+Case 152: tarIzyat:P identical in BOTH
+Case 153: tarkayizyat:P identical in BOTH
+Case 154: tarjizyat:P identical in BOTH
+Case 155: tardizyat:P identical in BOTH
+Case 156: tarpsyat:P identical in BOTH
+Case 157: tarzizyat:P identical in BOTH
+Case 158: tokzyat:P identical in BOTH
+Case 159: topizyat:P identical in BOTH
+Case 160: tolayizyat:P identical in BOTH
+Case 161: tyakzyat:P identical in BOTH
+Case 162: trasizyat:P identical in BOTH
+Case 163: tvakzizyat:P identical in BOTH
+Case 164: tvekzyat:P identical in BOTH
+Case 165: tsarizyat:P identical in BOTH
+Case 166: daGizyat:P identical in BOTH
+Case 167: damizyat:P identical in BOTH
+Case 168: damBizyat:P identical in BOTH
+Case 169: darizyat:P identical in BOTH
+Case 170: darIzyat:P identical in BOTH
+Case 171: darpsyat:P identical in BOTH
+Case 172: darBizyat:P identical in BOTH
+Case 173: darhizyat:P identical in BOTH
+Case 174: dalizyat:P identical in BOTH
+Case 175: dasizyat:P identical in BOTH
+Case 176: dASizyat:P identical in BOTH
+Case 177: dAsyat:P identical in BOTH
+Case 178: dekzyat:P identical in BOTH
+Case 179: devayizyat:P identical in BOTH
+Case 180: devizyat:P identical in BOTH
+Case 181: dokzyat:P identical in BOTH
+Case 182: dolayizyat:P identical in BOTH
+Case 183: drakzyat:P identical in BOTH
+Case 184: drAsyat:P identical in BOTH
+Case 185: drozyat:P identical in BOTH
+Case 186: drohizyat:P identical in BOTH
+Case 187: dvekzyat:P identical in BOTH
+Case 188: Dakzyat:P identical in BOTH
+Case 189: Damizyat:P identical in BOTH
+Case 190: Darizyat:P identical in BOTH
+Case 191: Darzizyat:P identical in BOTH
+Case 192: Davizyat:P identical in BOTH
+Case 193: DAvizyat:P identical in BOTH
+Case 194: DAsyat:P identical in BOTH
+Case 195: Dekzyat:P identical in BOTH
+Case 196: Dokzyat:P identical in BOTH
+Case 197: DyAsyat:P identical in BOTH
+Case 198: Drozyat:P identical in BOTH
+Case 199: DvaMsizyat:P identical in BOTH
+Case 200: Dvanizyat:P identical in BOTH
+Case 201: Dvarizyat:P identical in BOTH
+Case 202: DvANkzizyat:P identical in BOTH
+Case 203: naMsyat:P identical in BOTH
+Case 204: nakzizyat:P identical in BOTH
+Case 205: nawizyat:P identical in BOTH
+Case 206: natsyat:P identical in BOTH
+Case 207: nadizyat:P identical in BOTH
+Case 208: nandizyat:P identical in BOTH
+Case 209: nartizyat:P identical in BOTH
+Case 210: nartsyat:P identical in BOTH
+Case 211: nardizyat:P identical in BOTH
+Case 212: naSizyat:P identical in BOTH
+Case 213: nindizyat:P identical in BOTH
+Case 214: nezyat:P identical in BOTH
+Case 215: notsyat:P identical in BOTH
+Case 216: pakzyat:P identical in BOTH
+Case 217: pawizyat:P identical in BOTH
+Case 218: paWizyat:P identical in BOTH
+Case 219: patizyat:P identical in BOTH
+Case 220: paTizyat:P identical in BOTH
+Case 221: parizyat:P identical in BOTH
+Case 222: parIzyat:P identical in BOTH
+Case 223: parcizyat:P identical in BOTH
+Case 224: parTayizyat:P identical in BOTH
+Case 225: parzizyat:P identical in BOTH
+Case 226: pavizyat:P identical in BOTH
+Case 227: pASayizyat:P identical in BOTH
+Case 228: pAsyat:P identical in BOTH
+Case 229: piRqayizyat:P identical in BOTH
+Case 230: pIqayizyat:P identical in BOTH
+Case 231: pUjayizyat:P identical in BOTH
+Case 232: pUyizyat:P identical in BOTH
+Case 233: pUlayizyat:P identical in BOTH
+Case 234: pekzyat:P identical in BOTH
+Case 235: peSizyat:P identical in BOTH
+Case 236: pezyat:P identical in BOTH
+Case 237: pokzyat:P identical in BOTH
+Case 238: poTizyat:P identical in BOTH
+Case 239: prezyat:P identical in BOTH
+Case 240: plozizyat:P identical in BOTH
+Case 241: Palizyat:P identical in BOTH
+Case 242: Pullizyat:P identical in BOTH
+Case 243: barhizyat:P identical in BOTH
+Case 244: balizyat:P identical in BOTH
+Case 245: Bakzizyat:P identical in BOTH
+Case 246: Bakzyat:P identical in BOTH
+Case 247: BaNkzyat:P identical in BOTH
+Case 248: BaRizyat:P identical in BOTH
+Case 249: Bantsyat:P identical in BOTH
+Case 250: Barizyat:P identical in BOTH
+Case 251: Bavizyat:P identical in BOTH
+Case 252: Basizyat:P identical in BOTH
+Case 253: BAsyat:P identical in BOTH
+Case 254: BUzizyat:P identical in BOTH
+Case 255: Betsyat:P identical in BOTH
+Case 256: Bezyat:P identical in BOTH
+Case 257: Bokzyat:P identical in BOTH
+Case 258: BraMSizyat:P identical in BOTH
+Case 259: Bramizyat:P identical in BOTH
+Case 260: majjizyat:P identical in BOTH
+Case 261: maRqizyat:P identical in BOTH
+Case 262: madizyat:P identical in BOTH
+Case 263: manTizyat:P identical in BOTH
+Case 264: marizyat:P identical in BOTH
+Case 265: markzyat:P identical in BOTH
+Case 266: marqizyat:P identical in BOTH
+Case 267: mardizyat:P identical in BOTH
+Case 268: marDizyat:P identical in BOTH
+Case 269: mahizyat:P identical in BOTH
+Case 270: mArgayizyat:P identical in BOTH
+Case 271: mAlayizyat:P identical in BOTH
+Case 272: mAsyat:P identical in BOTH
+Case 273: miSrayizyat:P identical in BOTH
+Case 274: mIlizyat:P identical in BOTH
+Case 275: mUzizyat:P identical in BOTH
+Case 276: mekzyat:P identical in BOTH
+Case 277: meTizyat:P identical in BOTH
+Case 278: medayizyat:P identical in BOTH
+Case 279: medizyat:P identical in BOTH
+Case 280: mezizyat:P identical in BOTH
+Case 281: mezyat:P identical in BOTH
+Case 282: mokzayizyat:P identical in BOTH
+Case 283: mokzyat:P identical in BOTH
+Case 284: mozizyat:P identical in BOTH
+Case 285: mohizyat:P identical in BOTH
+Case 286: mnAsyat:P identical in BOTH
+Case 287: mlAsyat:P identical in BOTH
+Case 288: yaMsyat:P identical in BOTH
+Case 289: yakzyat:P identical in BOTH
+Case 290: yantrayizyat:P identical in BOTH
+Case 291: yapsyat:P identical in BOTH
+Case 292: yavizyat:P identical in BOTH
+Case 293: yasizyat:P identical in BOTH
+Case 294: yAcizyat:P identical in BOTH
+Case 295: yAsyat:P identical in BOTH
+Case 296: yokzyat:P identical in BOTH
+Case 297: raMsyat:P identical in BOTH
+Case 298: raMhizyat:P identical in BOTH
+Case 299: rakzizyat:P identical in BOTH
+Case 300: raNkzyat:P identical in BOTH
+Case 301: racayizyat:P identical in BOTH
+Case 302: raRizyat:P identical in BOTH
+Case 303: radizyat:P identical in BOTH
+Case 304: raDizyat:P identical in BOTH
+Case 305: ravizyat:P identical in BOTH
+Case 306: rasayizyat:P identical in BOTH
+Case 307: rahayizyat:P identical in BOTH
+Case 308: rAjizyat:P identical in BOTH
+Case 309: rAsyat:P identical in BOTH
+Case 310: rUkzayizyat:P identical in BOTH
+Case 311: rUpayizyat:P identical in BOTH
+Case 312: rekzyat:P identical in BOTH
+Case 313: rezizyat:P identical in BOTH
+Case 314: rezyat:P identical in BOTH
+Case 315: rokzyat:P identical in BOTH
+Case 316: rotsyat:P identical in BOTH
+Case 317: rodizyat:P identical in BOTH
+Case 318: rozizyat:P identical in BOTH
+Case 319: lakzayizyat:P identical in BOTH
+Case 320: lagizyat:P identical in BOTH
+Case 321: laNgizyat:P identical in BOTH
+Case 322: laNGizyat:P identical in BOTH
+Case 323: lapizyat:P identical in BOTH
+Case 324: lalizyat:P identical in BOTH
+Case 325: lavizyat:P identical in BOTH
+Case 326: lazizyat:P identical in BOTH
+Case 327: lasizyat:P identical in BOTH
+Case 328: lAYCizyat:P identical in BOTH
+Case 329: luYcizyat:P identical in BOTH
+Case 330: lekzyat:P identical in BOTH
+Case 331: leKizyat:P identical in BOTH
+Case 332: lepsyat:P identical in BOTH
+Case 333: lezyat:P identical in BOTH
+Case 334: lokayizyat:P identical in BOTH
+Case 335: loWizyat:P identical in BOTH
+Case 336: lopsyat:P identical in BOTH
+Case 337: loBizyat:P identical in BOTH
+Case 338: vakzyat:P identical in BOTH
+Case 339: vaYcizyat:P identical in BOTH
+Case 340: vatsyat:P identical in BOTH
+Case 341: vadizyat:P identical in BOTH
+Case 342: vanizyat:P identical in BOTH
+Case 343: vapsyat:P identical in BOTH
+Case 344: vamizyat:P identical in BOTH
+Case 345: varizyat:P identical in BOTH
+Case 346: varIzyat:P identical in BOTH
+Case 347: varkzyat:P identical in BOTH
+Case 348: varjizyat:P identical in BOTH
+Case 349: varRayizyat:P identical in BOTH
+Case 350: varzizyat:P identical in BOTH
+Case 351: varhizyat:P identical in BOTH
+Case 352: valgizyat:P identical in BOTH
+Case 353: vaSizyat:P identical in BOTH
+Case 354: vahizyat:P identical in BOTH
+Case 355: vAYCizyat:P identical in BOTH
+Case 356: vAsayizyat:P identical in BOTH
+Case 357: vAsyat:P identical in BOTH
+Case 358: vIjizyat:P identical in BOTH
+Case 359: vekzyat:P identical in BOTH
+Case 360: vetsyat:P identical in BOTH
+Case 361: venizyat:P identical in BOTH
+Case 362: vezyat:P identical in BOTH
+Case 363: vyAsyat:P identical in BOTH
+Case 364: vrakzyat:P identical in BOTH
+Case 365: vraScizyat:P identical in BOTH
+Case 366: SaMsizyat:P identical in BOTH
+Case 367: Sakzyat:P identical in BOTH
+Case 368: Sapsyat:P identical in BOTH
+Case 369: Sabdayizyat:P identical in BOTH
+Case 370: Samizyat:P identical in BOTH
+Case 371: Sarizyat:P identical in BOTH
+Case 372: SarIzyat:P identical in BOTH
+Case 373: Salizyat:P identical in BOTH
+Case 374: SaSizyat:P identical in BOTH
+Case 375: Sasizyat:P identical in BOTH
+Case 376: SAsizyat:P identical in BOTH
+Case 377: SAsyat:P identical in BOTH
+Case 378: Sikzizyat:P identical in BOTH
+Case 379: SIlizyat:P identical in BOTH
+Case 380: SumBizyat:P identical in BOTH
+Case 381: Sekzyat:P identical in BOTH
+Case 382: Sokzyat:P identical in BOTH
+Case 383: Socizyat:P identical in BOTH
+Case 384: Sotsyat:P identical in BOTH
+Case 385: Scotizyat:P identical in BOTH
+Case 386: SyAsyat:P identical in BOTH
+Case 387: Sramizyat:P identical in BOTH
+Case 388: Srayizyat:P identical in BOTH
+Case 389: Srozyat:P identical in BOTH
+Case 390: Slekzyat:P identical in BOTH
+Case 391: Svayizyat:P identical in BOTH
+Case 392: Svasizyat:P identical in BOTH
+Case 393: sakzyat:P identical in BOTH
+Case 394: saNkzyat:P identical in BOTH
+Case 395: satsyat:P identical in BOTH
+Case 396: sanizyat:P identical in BOTH
+Case 397: sapizyat:P identical in BOTH
+Case 398: sarizyat:P identical in BOTH
+Case 399: sarpsyat:P identical in BOTH
+Case 400: savizyat:P identical in BOTH
+Case 401: sahizyat:P identical in BOTH
+Case 402: sAntvayizyat:P identical in BOTH
+Case 403: sAsyat:P identical in BOTH
+Case 404: sUcayizyat:P identical in BOTH
+Case 405: sUtrayizyat:P identical in BOTH
+Case 406: sUdayizyat:P identical in BOTH
+Case 407: sekzyat:P identical in BOTH
+Case 408: setsyat:P identical in BOTH
+Case 409: sorizyat:P identical in BOTH
+Case 410: sozyat:P identical in BOTH
+Case 411: skantsyat:P identical in BOTH
+Case 412: skamBizyat:P identical in BOTH
+Case 413: sKalizyat:P identical in BOTH
+Case 414: stanizyat:P identical in BOTH
+Case 415: stamBizyat:P identical in BOTH
+Case 416: starizyat:P identical in BOTH
+Case 417: stenayizyat:P identical in BOTH
+Case 418: stoBizyat:P identical in BOTH
+Case 419: stozyat:P identical in BOTH
+Case 420: sTAsyat:P identical in BOTH
+Case 421: snavizyat:P identical in BOTH
+Case 422: snAsyat:P identical in BOTH
+Case 423: snehizyat:P identical in BOTH
+Case 424: snohizyat:P identical in BOTH
+Case 425: sparkzyat:P identical in BOTH
+Case 426: spfhayizyat:P identical in BOTH
+Case 427: sPalizyat:P identical in BOTH
+Case 428: sPuwizyat:P identical in BOTH
+Case 429: sPurizyat:P identical in BOTH
+Case 430: smarizyat:P identical in BOTH
+Case 431: srakzyat:P identical in BOTH
+Case 432: srozyat:P identical in BOTH
+Case 433: svanizyat:P identical in BOTH
+Case 434: svapsyat:P identical in BOTH
+Case 435: svarizyat:P identical in BOTH
+Case 436: svetsyat:P identical in BOTH
+Case 437: haWizyat:P identical in BOTH
+Case 438: hanizyat:P identical in BOTH
+Case 439: harizyat:P identical in BOTH
+Case 440: harzizyat:P identical in BOTH
+Case 441: hasizyat:P identical in BOTH
+Case 442: hAsyat:P identical in BOTH
+Case 443: hiMsizyat:P identical in BOTH
+Case 444: hikkizyat:P identical in BOTH
+Case 445: hezyat:P identical in BOTH
+Case 446: hozyat:P identical in BOTH
+Case 447: hrasizyat:P identical in BOTH
+Case 448: hrezyat:P identical in BOTH
+Case 449: hvarizyat:P identical in BOTH
+Case 450: hvalizyat:P identical in BOTH
+--------------------------------------------------
+995 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMSApayizyat:P in pysan
+Case 02: aMsayizyat:P in pysan
+Case 03: aMsApayizyat:P in pysan
+Case 04: aMhayizyat:P in pysan
+Case 05: akizyat:P in pysan
+Case 06: agizyat:P in pysan
+Case 07: aGayizyat:P in pysan
+Case 08: aNkizyat:P in pysan
+Case 09: aNgayizyat:P in pysan
+Case 10: acizyat:P in pysan
+Case 11: aYcayizyat:P in pysan
+Case 12: awwayizyat:P in pysan
+Case 13: aWizyat:P in pysan
+Case 14: aqizyat:P in pysan
+Case 15: aqqizyat:P in pysan
+Case 16: aRizyat:P in pysan
+Case 17: antizyat:P in pysan
+Case 18: andizyat:P in pysan
+Case 19: aBrizyat:P in pysan
+Case 20: amizyat:P in pysan
+Case 21: ambizyat:P in pysan
+Case 22: ayizyat:P in pysan
+Case 23: arCizyat:P in pysan
+Case 24: arRizyat:P in pysan
+Case 25: arPizyat:P in pysan
+Case 26: arbizyat:P in pysan
+Case 27: arvizyat:P in pysan
+Case 28: alizyat:P in pysan
+Case 29: avalokayizyat:P in pysan
+Case 30: azizyat:P in pysan
+Case 31: ahizyat:P in pysan
+Case 32: iNKizyat:P in pysan
+Case 33: iNgizyat:P in pysan
+Case 34: IKizyat:P in pysan
+Case 35: Ijizyat:P in pysan
+Case 36: Intizyat:P in pysan
+Case 37: Irzyizyat:P in pysan
+Case 38: uNKizyat:P in pysan
+Case 39: uDrasizyat:P in pysan
+Case 40: uDrAsayizyat:P in pysan
+Case 41: upArizyat:P in pysan
+Case 42: ubjizyat:P in pysan
+Case 43: ulAqayizyat:P in pysan
+Case 44: UrRavizyat:P in pysan
+Case 45: UrRuvizyat:P in pysan
+Case 46: Urvizyat:P in pysan
+Case 47: Uzizyat:P in pysan
+Case 48: fYjizyat:P in pysan
+Case 49: eKizyat:P in pysan
+Case 50: ewizyat:P in pysan
+Case 51: erizyat:P in pysan
+Case 52: elayizyat:P in pysan
+Case 53: oKizyat:P in pysan
+Case 54: ocizyat:P in pysan
+Case 55: oCizyat:P in pysan
+Case 56: ojayizyat:P in pysan
+Case 57: ojizyat:P in pysan
+Case 58: oWizyat:P in pysan
+Case 59: oRizyat:P in pysan
+Case 60: odizyat:P in pysan
+Case 61: olaRqayizyat:P in pysan
+Case 62: olaRqizyat:P in pysan
+Case 63: ozyat:P in pysan
+Case 64: ohizyat:P in pysan
+Case 65: kaKizyat:P in pysan
+Case 66: kagizyat:P in pysan
+Case 67: kacizyat:P in pysan
+Case 68: kajizyat:P in pysan
+Case 69: kawizyat:P in pysan
+Case 70: kawwayizyat:P in pysan
+Case 71: kaWizyat:P in pysan
+Case 72: kaqizyat:P in pysan
+Case 73: kaqqizyat:P in pysan
+Case 74: kaRizyat:P in pysan
+Case 75: kaRwizyat:P in pysan
+Case 76: kaRWayizyat:P in pysan
+Case 77: kaRWizyat:P in pysan
+Case 78: kaRqizyat:P in pysan
+Case 79: katrayizyat:P in pysan
+Case 80: kanizyat:P in pysan
+Case 81: kandizyat:P in pysan
+Case 82: kambizyat:P in pysan
+Case 83: karjizyat:P in pysan
+Case 84: kartrayizyat:P in pysan
+Case 85: kardizyat:P in pysan
+Case 86: karbizyat:P in pysan
+Case 87: karvizyat:P in pysan
+Case 88: kavizyat:P in pysan
+Case 89: kaSizyat:P in pysan
+Case 90: kARayizyat:P in pysan
+Case 91: kAlayizyat:P in pysan
+Case 92: kAvayizyat:P in pysan
+Case 93: kASizyat:P in pysan
+Case 94: kAsyat:P in pysan
+Case 95: kIwayizyat:P in pysan
+Case 96: kuMSizyat:P in pysan
+Case 97: kucizyat:P in pysan
+Case 98: kujizyat:P in pysan
+Case 99: kuYcizyat:P in pysan
+Case 100: kuYjizyat:P in pysan
+Case 101: kuwizyat:P in pysan
+Case 102: kuRayizyat:P in pysan
+Case 103: kuRWayizyat:P in pysan
+Case 104: kuRqayizyat:P in pysan
+Case 105: kundrayizyat:P in pysan
+Case 106: kumbizyat:P in pysan
+Case 107: kuzyat:P in pysan
+Case 108: kUwayizyat:P in pysan
+Case 109: kUqayizyat:P in pysan
+Case 110: kUqizyat:P in pysan
+Case 111: kURizyat:P in pysan
+Case 112: kUpayizyat:P in pysan
+Case 113: kUrdizyat:P in pysan
+Case 114: kUlizyat:P in pysan
+Case 115: kfpayizyat:P in pysan
+Case 116: kfpAyizyat:P in pysan
+Case 117: kewizyat:P in pysan
+Case 118: ketizyat:P in pysan
+Case 119: kelayizyat:P in pysan
+Case 120: kelizyat:P in pysan
+Case 121: kezyat:P in pysan
+Case 122: kokzyat:P in pysan
+Case 123: koqizyat:P in pysan
+Case 124: koRayizyat:P in pysan
+Case 125: koRizyat:P in pysan
+Case 126: koTizyat:P in pysan
+Case 127: kodayizyat:P in pysan
+Case 128: kopayizyat:P in pysan
+Case 129: korizyat:P in pysan
+Case 130: koSizyat:P in pysan
+Case 131: kozizyat:P in pysan
+Case 132: knaMsayizyat:P in pysan
+Case 133: knaMsizyat:P in pysan
+Case 134: knaTizyat:P in pysan
+Case 135: knasizyat:P in pysan
+Case 136: knozyat:P in pysan
+Case 137: kmarizyat:P in pysan
+Case 138: kraMSizyat:P in pysan
+Case 139: kraTizyat:P in pysan
+Case 140: kroqayizyat:P in pysan
+Case 141: kroqizyat:P in pysan
+Case 142: klaTizyat:P in pysan
+Case 143: klandizyat:P in pysan
+Case 144: klindizyat:P in pysan
+Case 145: klekzyat:P in pysan
+Case 146: kvaRizyat:P in pysan
+Case 147: kzaRizyat:P in pysan
+Case 148: kzapayizyat:P in pysan
+Case 149: kzampizyat:P in pysan
+Case 150: kzAjayizyat:P in pysan
+Case 151: kzAlayizyat:P in pysan
+Case 152: kzAsyat:P in pysan
+Case 153: kzIjizyat:P in pysan
+Case 154: kzIbizyat:P in pysan
+Case 155: kzIvizyat:P in pysan
+Case 156: kzumpizyat:P in pysan
+Case 157: kzeRizyat:P in pysan
+Case 158: kzevizyat:P in pysan
+Case 159: kzowayizyat:P in pysan
+Case 160: kzopizyat:P in pysan
+Case 161: kzorizyat:P in pysan
+Case 162: kzRavizyat:P in pysan
+Case 163: kzmIlizyat:P in pysan
+Case 164: kzvedizyat:P in pysan
+Case 165: kzvelizyat:P in pysan
+Case 166: Kacizyat:P in pysan
+Case 167: Kajizyat:P in pysan
+Case 168: KaYjizyat:P in pysan
+Case 169: Kawizyat:P in pysan
+Case 170: Kawwayizyat:P in pysan
+Case 171: KaRqayizyat:P in pysan
+Case 172: Kadizyat:P in pysan
+Case 173: Kambizyat:P in pysan
+Case 174: Karjizyat:P in pysan
+Case 175: Kardizyat:P in pysan
+Case 176: Karbizyat:P in pysan
+Case 177: Karvizyat:P in pysan
+Case 178: Kalizyat:P in pysan
+Case 179: Kazizyat:P in pysan
+Case 180: KAcayizyat:P in pysan
+Case 181: KAqayizyat:P in pysan
+Case 182: KAsyat:P in pysan
+Case 183: KuRqayizyat:P in pysan
+Case 184: Kewayizyat:P in pysan
+Case 185: Kewizyat:P in pysan
+Case 186: Kojizyat:P in pysan
+Case 187: Kowayizyat:P in pysan
+Case 188: Kowizyat:P in pysan
+Case 189: Koqayizyat:P in pysan
+Case 190: Koqizyat:P in pysan
+Case 191: Kodizyat:P in pysan
+Case 192: Korizyat:P in pysan
+Case 193: Krotsyat:P in pysan
+Case 194: Kzotsyat:P in pysan
+Case 195: gaYjizyat:P in pysan
+Case 196: gaqizyat:P in pysan
+Case 197: gaRqizyat:P in pysan
+Case 198: gadayizyat:P in pysan
+Case 199: gaDizyat:P in pysan
+Case 200: gambizyat:P in pysan
+Case 201: gardayizyat:P in pysan
+Case 202: garbizyat:P in pysan
+Case 203: garvizyat:P in pysan
+Case 204: gAjayizyat:P in pysan
+Case 205: gAqayizyat:P in pysan
+Case 206: gAdayizyat:P in pysan
+Case 207: gAhayizyat:P in pysan
+Case 208: gAhizyat:P in pysan
+Case 209: guRWayizyat:P in pysan
+Case 210: guRqayizyat:P in pysan
+Case 211: gurizyat:P in pysan
+Case 212: gurdizyat:P in pysan
+Case 213: gurvizyat:P in pysan
+Case 214: gUrdayizyat:P in pysan
+Case 215: gUrdizyat:P in pysan
+Case 216: gUrDayizyat:P in pysan
+Case 217: gojizyat:P in pysan
+Case 218: goqizyat:P in pysan
+Case 219: goDizyat:P in pysan
+Case 220: gopizyat:P in pysan
+Case 221: gopsyat:P in pysan
+Case 222: goPizyat:P in pysan
+Case 223: gozyat:P in pysan
+Case 224: graTizyat:P in pysan
+Case 225: grocizyat:P in pysan
+Case 226: glAsyat:P in pysan
+Case 227: gluYcizyat:P in pysan
+Case 228: glocizyat:P in pysan
+Case 229: GagGizyat:P in pysan
+Case 230: GaRizyat:P in pysan
+Case 231: GaRwizyat:P in pysan
+Case 232: Gatsyat:P in pysan
+Case 233: GarRizyat:P in pysan
+Case 234: Garbizyat:P in pysan
+Case 235: GAkzyat:P in pysan
+Case 236: GArayizyat:P in pysan
+Case 237: Gowizyat:P in pysan
+Case 238: Goqizyat:P in pysan
+Case 239: GoRizyat:P in pysan
+Case 240: Golayizyat:P in pysan
+Case 241: cakAsizyat:P in pysan
+Case 242: cakizyat:P in pysan
+Case 243: cakkayizyat:P in pysan
+Case 244: caGizyat:P in pysan
+Case 245: caRizyat:P in pysan
+Case 246: caRqizyat:P in pysan
+Case 247: cadizyat:P in pysan
+Case 248: canizyat:P in pysan
+Case 249: capayizyat:P in pysan
+Case 250: capizyat:P in pysan
+Case 251: campayizyat:P in pysan
+Case 252: cambizyat:P in pysan
+Case 253: cayizyat:P in pysan
+Case 254: carGizyat:P in pysan
+Case 255: carcizyat:P in pysan
+Case 256: cartizyat:P in pysan
+Case 257: cartsyat:P in pysan
+Case 258: carbizyat:P in pysan
+Case 259: carvayizyat:P in pysan
+Case 260: cahizyat:P in pysan
+Case 261: cAhayizyat:P in pysan
+Case 262: cikkayizyat:P in pysan
+Case 263: cintayizyat:P in pysan
+Case 264: cirayizyat:P in pysan
+Case 265: cIkayizyat:P in pysan
+Case 266: cIkizyat:P in pysan
+Case 267: cIvayizyat:P in pysan
+Case 268: cIvizyat:P in pysan
+Case 269: cukkayizyat:P in pysan
+Case 270: cuwwayizyat:P in pysan
+Case 271: cuqqizyat:P in pysan
+Case 272: cuRWayizyat:P in pysan
+Case 273: cumbayizyat:P in pysan
+Case 274: culumpizyat:P in pysan
+Case 275: cURayizyat:P in pysan
+Case 276: cUrayizyat:P in pysan
+Case 277: cUrizyat:P in pysan
+Case 278: cewizyat:P in pysan
+Case 279: celizyat:P in pysan
+Case 280: cowayizyat:P in pysan
+Case 281: cowizyat:P in pysan
+Case 282: coqizyat:P in pysan
+Case 283: coRizyat:P in pysan
+Case 284: cotizyat:P in pysan
+Case 285: codizyat:P in pysan
+Case 286: copizyat:P in pysan
+Case 287: colayizyat:P in pysan
+Case 288: cyAvayizyat:P in pysan
+Case 289: cyotizyat:P in pysan
+Case 290: cyosayizyat:P in pysan
+Case 291: Camizyat:P in pysan
+Case 292: Campayizyat:P in pysan
+Case 293: Cartsyat:P in pysan
+Case 294: Cardizyat:P in pysan
+Case 295: Carpizyat:P in pysan
+Case 296: Cazizyat:P in pysan
+Case 297: CAdayizyat:P in pysan
+Case 298: CAlayizyat:P in pysan
+Case 299: CAsyat:P in pysan
+Case 300: Cowayizyat:P in pysan
+Case 301: Cowizyat:P in pysan
+Case 302: Coqizyat:P in pysan
+Case 303: Copizyat:P in pysan
+Case 304: Corizyat:P in pysan
+Case 305: jaMsayizyat:P in pysan
+Case 306: jaMsizyat:P in pysan
+Case 307: jaNkzizyat:P in pysan
+Case 308: jajizyat:P in pysan
+Case 309: jamBizyat:P in pysan
+Case 310: jarcizyat:P in pysan
+Case 311: jarCizyat:P in pysan
+Case 312: jarjizyat:P in pysan
+Case 313: jartsizyat:P in pysan
+Case 314: jalizyat:P in pysan
+Case 315: jAlayizyat:P in pysan
+Case 316: jirayizyat:P in pysan
+Case 317: juNgizyat:P in pysan
+Case 318: juYcayizyat:P in pysan
+Case 319: juYcizyat:P in pysan
+Case 320: jUrvizyat:P in pysan
+Case 321: jemizyat:P in pysan
+Case 322: jezizyat:P in pysan
+Case 323: jowizyat:P in pysan
+Case 324: joqayizyat:P in pysan
+Case 325: joqizyat:P in pysan
+Case 326: jonizyat:P in pysan
+Case 327: jorizyat:P in pysan
+Case 328: jolayizyat:P in pysan
+Case 329: jrezyat:P in pysan
+Case 330: Jawizyat:P in pysan
+Case 331: Jamizyat:P in pysan
+Case 332: Jarizyat:P in pysan
+Case 333: JarIzyat:P in pysan
+Case 334: Jarcizyat:P in pysan
+Case 335: Jazizyat:P in pysan
+Case 336: JUzizyat:P in pysan
+Case 337: waNkayizyat:P in pysan
+Case 338: wvalizyat:P in pysan
+Case 339: qamizyat:P in pysan
+Case 340: qepayizyat:P in pysan
+Case 341: qepizyat:P in pysan
+Case 342: takzyat:P in pysan
+Case 343: taNkizyat:P in pysan
+Case 344: taNgizyat:P in pysan
+Case 345: tawizyat:P in pysan
+Case 346: tandrizyat:P in pysan
+Case 347: tayizyat:P in pysan
+Case 348: tarkzyat:P in pysan
+Case 349: tarRizyat:P in pysan
+Case 350: tartsyat:P in pysan
+Case 351: tarpizyat:P in pysan
+Case 352: tarPizyat:P in pysan
+Case 353: tarhizyat:P in pysan
+Case 354: talizyat:P in pysan
+Case 355: tasizyat:P in pysan
+Case 356: tAqayizyat:P in pysan
+Case 357: tAnayizyat:P in pysan
+Case 358: tAyizyat:P in pysan
+Case 359: tAlayizyat:P in pysan
+Case 360: tillizyat:P in pysan
+Case 361: tImizyat:P in pysan
+Case 362: tIvizyat:P in pysan
+Case 363: tuqqizyat:P in pysan
+Case 364: tundizyat:P in pysan
+Case 365: tumpizyat:P in pysan
+Case 366: tumbayizyat:P in pysan
+Case 367: tumbizyat:P in pysan
+Case 368: turvizyat:P in pysan
+Case 369: tUqizyat:P in pysan
+Case 370: tURayizyat:P in pysan
+Case 371: tUlayizyat:P in pysan
+Case 372: tUlizyat:P in pysan
+Case 373: tUzizyat:P in pysan
+Case 374: tfkzizyat:P in pysan
+Case 375: tfmpizyat:P in pysan
+Case 376: tfmPizyat:P in pysan
+Case 377: tekizyat:P in pysan
+Case 378: tegizyat:P in pysan
+Case 379: teGizyat:P in pysan
+Case 380: tejizyat:P in pysan
+Case 381: tepizyat:P in pysan
+Case 382: temizyat:P in pysan
+Case 383: telayizyat:P in pysan
+Case 384: telizyat:P in pysan
+Case 385: tevizyat:P in pysan
+Case 386: tojizyat:P in pysan
+Case 387: towizyat:P in pysan
+Case 388: toqizyat:P in pysan
+Case 389: toRizyat:P in pysan
+Case 390: totsyat:P in pysan
+Case 391: toBizyat:P in pysan
+Case 392: torizyat:P in pysan
+Case 393: toSizyat:P in pysan
+Case 394: tozyat:P in pysan
+Case 395: tosizyat:P in pysan
+Case 396: tohizyat:P in pysan
+Case 397: traMsayizyat:P in pysan
+Case 398: traMsizyat:P in pysan
+Case 399: traKizyat:P in pysan
+Case 400: trandizyat:P in pysan
+Case 401: trapizyat:P in pysan
+Case 402: trapsyat:P in pysan
+Case 403: trAsayizyat:P in pysan
+Case 404: triNKizyat:P in pysan
+Case 405: truwizyat:P in pysan
+Case 406: trumpizyat:P in pysan
+Case 407: trumPizyat:P in pysan
+Case 408: tropizyat:P in pysan
+Case 409: troPizyat:P in pysan
+Case 410: tvaNgizyat:P in pysan
+Case 411: tvacizyat:P in pysan
+Case 412: tvaYcizyat:P in pysan
+Case 413: tvarizyat:P in pysan
+Case 414: Tarvizyat:P in pysan
+Case 415: Turvizyat:P in pysan
+Case 416: Toqizyat:P in pysan
+Case 417: daMkzyat:P in pysan
+Case 418: daMSayizyat:P in pysan
+Case 419: daMsayizyat:P in pysan
+Case 420: daMsizyat:P in pysan
+Case 421: daMhayizyat:P in pysan
+Case 422: dakzizyat:P in pysan
+Case 423: daNGizyat:P in pysan
+Case 424: dadizyat:P in pysan
+Case 425: danvizyat:P in pysan
+Case 426: daBizyat:P in pysan
+Case 427: darBayizyat:P in pysan
+Case 428: davizyat:P in pysan
+Case 429: dAnizyat:P in pysan
+Case 430: dAsizyat:P in pysan
+Case 431: dinvizyat:P in pysan
+Case 432: durvizyat:P in pysan
+Case 433: duzyat:P in pysan
+Case 434: dfMhizyat:P in pysan
+Case 435: doDizyat:P in pysan
+Case 436: dyAsyat:P in pysan
+Case 437: dyozyat:P in pysan
+Case 438: dramizyat:P in pysan
+Case 439: dravizyat:P in pysan
+Case 440: drAKizyat:P in pysan
+Case 441: drANkzizyat:P in pysan
+Case 442: drummizyat:P in pysan
+Case 443: drUqizyat:P in pysan
+Case 444: droqizyat:P in pysan
+Case 445: droRizyat:P in pysan
+Case 446: dvarizyat:P in pysan
+Case 447: Dakkayizyat:P in pysan
+Case 448: DaRizyat:P in pysan
+Case 449: Danizyat:P in pysan
+Case 450: DarIzyat:P in pysan
+Case 451: Darjizyat:P in pysan
+Case 452: Duvizyat:P in pysan
+Case 453: DUpAyizyat:P in pysan
+Case 454: DUpizyat:P in pysan
+Case 455: DUrvizyat:P in pysan
+Case 456: DUSayizyat:P in pysan
+Case 457: Dezizyat:P in pysan
+Case 458: Dezyat:P in pysan
+Case 459: Dorizyat:P in pysan
+Case 460: Dozyat:P in pysan
+Case 461: DmAsyat:P in pysan
+Case 462: Drajizyat:P in pysan
+Case 463: DraRizyat:P in pysan
+Case 464: Drasizyat:P in pysan
+Case 465: DrAsyat:P in pysan
+Case 466: Drejizyat:P in pysan
+Case 467: Drokzyat:P in pysan
+Case 468: Dvajizyat:P in pysan
+Case 469: DvaRizyat:P in pysan
+Case 470: DvraRizyat:P in pysan
+Case 471: naMkzyat:P in pysan
+Case 472: nakkayizyat:P in pysan
+Case 473: naKizyat:P in pysan
+Case 474: naBizyat:P in pysan
+Case 475: nambizyat:P in pysan
+Case 476: narizyat:P in pysan
+Case 477: narIzyat:P in pysan
+Case 478: narbizyat:P in pysan
+Case 479: nalizyat:P in pysan
+Case 480: nAqayizyat:P in pysan
+Case 481: nAlayizyat:P in pysan
+Case 482: nikzizyat:P in pysan
+Case 483: ninvizyat:P in pysan
+Case 484: nIlizyat:P in pysan
+Case 485: nIvizyat:P in pysan
+Case 486: nuvizyat:P in pysan
+Case 487: nedizyat:P in pysan
+Case 488: nelizyat:P in pysan
+Case 489: neSizyat:P in pysan
+Case 490: nezizyat:P in pysan
+Case 491: noqizyat:P in pysan
+Case 492: paMSizyat:P in pysan
+Case 493: pakzizyat:P in pysan
+Case 494: pawayizyat:P in pysan
+Case 495: paRqayizyat:P in pysan
+Case 496: paRqizyat:P in pysan
+Case 497: patsyat:P in pysan
+Case 498: panTayizyat:P in pysan
+Case 499: panTizyat:P in pysan
+Case 500: pambizyat:P in pysan
+Case 501: parqizyat:P in pysan
+Case 502: parRayizyat:P in pysan
+Case 503: parRizyat:P in pysan
+Case 504: parpizyat:P in pysan
+Case 505: parbizyat:P in pysan
+Case 506: parvizyat:P in pysan
+Case 507: palizyat:P in pysan
+Case 508: pallizyat:P in pysan
+Case 509: pazizyat:P in pysan
+Case 510: pasizyat:P in pysan
+Case 511: pAwayizyat:P in pysan
+Case 512: pAlayizyat:P in pysan
+Case 513: pAsayizyat:P in pysan
+Case 514: piMsayizyat:P in pysan
+Case 515: piMsizyat:P in pysan
+Case 516: piccayizyat:P in pysan
+Case 517: piYjayizyat:P in pysan
+Case 518: pinvizyat:P in pysan
+Case 519: pIlizyat:P in pysan
+Case 520: puMsayizyat:P in pysan
+Case 521: puwayizyat:P in pysan
+Case 522: puwizyat:P in pysan
+Case 523: puwwayizyat:P in pysan
+Case 524: puRwayizyat:P in pysan
+Case 525: puRqizyat:P in pysan
+Case 526: purvizyat:P in pysan
+Case 527: pustayizyat:P in pysan
+Case 528: pURayizyat:P in pysan
+Case 529: pUrvayizyat:P in pysan
+Case 530: pUlizyat:P in pysan
+Case 531: pUzizyat:P in pysan
+Case 532: peCayizyat:P in pysan
+Case 533: peCizyat:P in pysan
+Case 534: pewizyat:P in pysan
+Case 535: peWizyat:P in pysan
+Case 536: peRizyat:P in pysan
+Case 537: pelayizyat:P in pysan
+Case 538: pelizyat:P in pysan
+Case 539: pesayizyat:P in pysan
+Case 540: pesizyat:P in pysan
+Case 541: pERizyat:P in pysan
+Case 542: poCizyat:P in pysan
+Case 543: powayizyat:P in pysan
+Case 544: poqizyat:P in pysan
+Case 545: poRayizyat:P in pysan
+Case 546: poRizyat:P in pysan
+Case 547: porizyat:P in pysan
+Case 548: posayizyat:P in pysan
+Case 549: pyozayizyat:P in pysan
+Case 550: pyozizyat:P in pysan
+Case 551: pyosizyat:P in pysan
+Case 552: praCizyat:P in pysan
+Case 553: prayizyat:P in pysan
+Case 554: prATayizyat:P in pysan
+Case 555: prAsyat:P in pysan
+Case 556: prERizyat:P in pysan
+Case 557: proTizyat:P in pysan
+Case 558: prozayizyat:P in pysan
+Case 559: prozizyat:P in pysan
+Case 560: plakzizyat:P in pysan
+Case 561: plezyat:P in pysan
+Case 562: plosizyat:P in pysan
+Case 563: psAsyat:P in pysan
+Case 564: Pakkizyat:P in pysan
+Case 565: PaRizyat:P in pysan
+Case 566: Parvizyat:P in pysan
+Case 567: Pelizyat:P in pysan
+Case 568: badizyat:P in pysan
+Case 569: barkzyat:P in pysan
+Case 570: barbizyat:P in pysan
+Case 571: barhayizyat:P in pysan
+Case 572: bADizyat:P in pysan
+Case 573: bAlayizyat:P in pysan
+Case 574: bukkayizyat:P in pysan
+Case 575: bukkizyat:P in pysan
+Case 576: buNgizyat:P in pysan
+Case 577: bundizyat:P in pysan
+Case 578: bunDayizyat:P in pysan
+Case 579: bunDizyat:P in pysan
+Case 580: bfMhizyat:P in pysan
+Case 581: bewizyat:P in pysan
+Case 582: bedizyat:P in pysan
+Case 583: belayizyat:P in pysan
+Case 584: belizyat:P in pysan
+Case 585: beSizyat:P in pysan
+Case 586: besizyat:P in pysan
+Case 587: bowayizyat:P in pysan
+Case 588: bowizyat:P in pysan
+Case 589: boqizyat:P in pysan
+Case 590: bodizyat:P in pysan
+Case 591: bolayizyat:P in pysan
+Case 592: bosizyat:P in pysan
+Case 593: brahmizyat:P in pysan
+Case 594: Bakzayizyat:P in pysan
+Case 595: Bawizyat:P in pysan
+Case 596: BaRwayizyat:P in pysan
+Case 597: Banizyat:P in pysan
+Case 598: BarIzyat:P in pysan
+Case 599: Barqizyat:P in pysan
+Case 600: Barbizyat:P in pysan
+Case 601: Barvizyat:P in pysan
+Case 602: BarSizyat:P in pysan
+Case 603: Bazizyat:P in pysan
+Case 604: BAwayizyat:P in pysan
+Case 605: BAmizyat:P in pysan
+Case 606: Bindizyat:P in pysan
+Case 607: BfMSayizyat:P in pysan
+Case 608: BfMSizyat:P in pysan
+Case 609: Bfkzizyat:P in pysan
+Case 610: Bezizyat:P in pysan
+Case 611: Brakzizyat:P in pysan
+Case 612: Brajjizyat:P in pysan
+Case 613: BraRizyat:P in pysan
+Case 614: Brezizyat:P in pysan
+Case 615: Brezyat:P in pysan
+Case 616: Broqizyat:P in pysan
+Case 617: makzizyat:P in pysan
+Case 618: maKizyat:P in pysan
+Case 619: maNGizyat:P in pysan
+Case 620: maYjayizyat:P in pysan
+Case 621: maWizyat:P in pysan
+Case 622: maRizyat:P in pysan
+Case 623: maRwayizyat:P in pysan
+Case 624: maTizyat:P in pysan
+Case 625: maBrizyat:P in pysan
+Case 626: mambizyat:P in pysan
+Case 627: marIzyat:P in pysan
+Case 628: margizyat:P in pysan
+Case 629: marcayizyat:P in pysan
+Case 630: marjayizyat:P in pysan
+Case 631: marjizyat:P in pysan
+Case 632: marqayizyat:P in pysan
+Case 633: marRizyat:P in pysan
+Case 634: marbizyat:P in pysan
+Case 635: marvizyat:P in pysan
+Case 636: mavizyat:P in pysan
+Case 637: mavyizyat:P in pysan
+Case 638: maSizyat:P in pysan
+Case 639: masizyat:P in pysan
+Case 640: mahayizyat:P in pysan
+Case 641: mANkzizyat:P in pysan
+Case 642: mAqizyat:P in pysan
+Case 643: mAnayizyat:P in pysan
+Case 644: mAnizyat:P in pysan
+Case 645: mAnTizyat:P in pysan
+Case 646: mArgizyat:P in pysan
+Case 647: mArjayizyat:P in pysan
+Case 648: mAhizyat:P in pysan
+Case 649: miYjayizyat:P in pysan
+Case 650: mImizyat:P in pysan
+Case 651: mIvizyat:P in pysan
+Case 652: muYcizyat:P in pysan
+Case 653: muRqizyat:P in pysan
+Case 654: murCizyat:P in pysan
+Case 655: murvizyat:P in pysan
+Case 656: mustayizyat:P in pysan
+Case 657: mUlizyat:P in pysan
+Case 658: meCizyat:P in pysan
+Case 659: meqizyat:P in pysan
+Case 660: meDizyat:P in pysan
+Case 661: mepizyat:P in pysan
+Case 662: melizyat:P in pysan
+Case 663: meSizyat:P in pysan
+Case 664: mesizyat:P in pysan
+Case 665: moCizyat:P in pysan
+Case 666: mojayizyat:P in pysan
+Case 667: mowayizyat:P in pysan
+Case 668: mowizyat:P in pysan
+Case 669: moqizyat:P in pysan
+Case 670: moRizyat:P in pysan
+Case 671: modayizyat:P in pysan
+Case 672: morizyat:P in pysan
+Case 673: myakzizyat:P in pysan
+Case 674: mrakzizyat:P in pysan
+Case 675: mruYcizyat:P in pysan
+Case 676: mreqizyat:P in pysan
+Case 677: mretizyat:P in pysan
+Case 678: mrocizyat:P in pysan
+Case 679: mlakzayizyat:P in pysan
+Case 680: mluYcizyat:P in pysan
+Case 681: mleCayizyat:P in pysan
+Case 682: mleCizyat:P in pysan
+Case 683: mlewizyat:P in pysan
+Case 684: mlocizyat:P in pysan
+Case 685: yakzizyat:P in pysan
+Case 686: yuNgizyat:P in pysan
+Case 687: yUzizyat:P in pysan
+Case 688: yezizyat:P in pysan
+Case 689: yoCizyat:P in pysan
+Case 690: yopizyat:P in pysan
+Case 691: yOwizyat:P in pysan
+Case 692: raKizyat:P in pysan
+Case 693: ragizyat:P in pysan
+Case 694: raNKizyat:P in pysan
+Case 695: raNgizyat:P in pysan
+Case 696: raNGayizyat:P in pysan
+Case 697: rawizyat:P in pysan
+Case 698: raWizyat:P in pysan
+Case 699: raRvizyat:P in pysan
+Case 700: ratsyat:P in pysan
+Case 701: rapizyat:P in pysan
+Case 702: raPizyat:P in pysan
+Case 703: ramPizyat:P in pysan
+Case 704: rambizyat:P in pysan
+Case 705: rasizyat:P in pysan
+Case 706: rAkayizyat:P in pysan
+Case 707: rAKizyat:P in pysan
+Case 708: rAgayizyat:P in pysan
+Case 709: rARayizyat:P in pysan
+Case 710: rADizyat:P in pysan
+Case 711: riNKizyat:P in pysan
+Case 712: riNgizyat:P in pysan
+Case 713: riRvizyat:P in pysan
+Case 714: rimPizyat:P in pysan
+Case 715: rIvizyat:P in pysan
+Case 716: ruMSayizyat:P in pysan
+Case 717: ruMSizyat:P in pysan
+Case 718: ruRwizyat:P in pysan
+Case 719: ruRWizyat:P in pysan
+Case 720: rUzizyat:P in pysan
+Case 721: reKizyat:P in pysan
+Case 722: rejizyat:P in pysan
+Case 723: rewizyat:P in pysan
+Case 724: rePizyat:P in pysan
+Case 725: reBizyat:P in pysan
+Case 726: rehizyat:P in pysan
+Case 727: rowayizyat:P in pysan
+Case 728: roWizyat:P in pysan
+Case 729: roqizyat:P in pysan
+Case 730: ropizyat:P in pysan
+Case 731: rOwizyat:P in pysan
+Case 732: laKizyat:P in pysan
+Case 733: laNGayizyat:P in pysan
+Case 734: laCizyat:P in pysan
+Case 735: lajayizyat:P in pysan
+Case 736: lajizyat:P in pysan
+Case 737: laYjayizyat:P in pysan
+Case 738: laYjizyat:P in pysan
+Case 739: lawizyat:P in pysan
+Case 740: laqizyat:P in pysan
+Case 741: laRqayizyat:P in pysan
+Case 742: lardayizyat:P in pysan
+Case 743: larbizyat:P in pysan
+Case 744: lAkayizyat:P in pysan
+Case 745: lAKizyat:P in pysan
+Case 746: lAgayizyat:P in pysan
+Case 747: lAjayizyat:P in pysan
+Case 748: lAjizyat:P in pysan
+Case 749: lAYjizyat:P in pysan
+Case 750: lAqayizyat:P in pysan
+Case 751: lABayizyat:P in pysan
+Case 752: lASayizyat:P in pysan
+Case 753: lAzayizyat:P in pysan
+Case 754: lAsayizyat:P in pysan
+Case 755: lAsyat:P in pysan
+Case 756: liNKizyat:P in pysan
+Case 757: liNgayizyat:P in pysan
+Case 758: liNgizyat:P in pysan
+Case 759: luwizyat:P in pysan
+Case 760: luRwayizyat:P in pysan
+Case 761: luRwizyat:P in pysan
+Case 762: lunTizyat:P in pysan
+Case 763: lumbayizyat:P in pysan
+Case 764: lUzayizyat:P in pysan
+Case 765: lUzizyat:P in pysan
+Case 766: lERizyat:P in pysan
+Case 767: locayizyat:P in pysan
+Case 768: lowayizyat:P in pysan
+Case 769: lowizyat:P in pysan
+Case 770: loWayizyat:P in pysan
+Case 771: loqizyat:P in pysan
+Case 772: lozizyat:P in pysan
+Case 773: lOqizyat:P in pysan
+Case 774: lpezyat:P in pysan
+Case 775: lvezyat:P in pysan
+Case 776: vakzizyat:P in pysan
+Case 777: vaKizyat:P in pysan
+Case 778: vaNKizyat:P in pysan
+Case 779: vaNgizyat:P in pysan
+Case 780: vacizyat:P in pysan
+Case 781: vajizyat:P in pysan
+Case 782: vawayizyat:P in pysan
+Case 783: vawizyat:P in pysan
+Case 784: vawwizyat:P in pysan
+Case 785: vaWizyat:P in pysan
+Case 786: vaqQizyat:P in pysan
+Case 787: vaRizyat:P in pysan
+Case 788: vaRwayizyat:P in pysan
+Case 789: vaRwizyat:P in pysan
+Case 790: vaRqayizyat:P in pysan
+Case 791: vaBrizyat:P in pysan
+Case 792: varRizyat:P in pysan
+Case 793: varDayizyat:P in pysan
+Case 794: varPizyat:P in pysan
+Case 795: varSizyat:P in pysan
+Case 796: valkayizyat:P in pysan
+Case 797: vallizyat:P in pysan
+Case 798: valhayizyat:P in pysan
+Case 799: vazizyat:P in pysan
+Case 800: vasayizyat:P in pysan
+Case 801: vANkzizyat:P in pysan
+Case 802: vAtayizyat:P in pysan
+Case 803: viRwayizyat:P in pysan
+Case 804: vizkayizyat:P in pysan
+Case 805: vIjayizyat:P in pysan
+Case 806: vuRwayizyat:P in pysan
+Case 807: vfMhizyat:P in pysan
+Case 808: vekzayizyat:P in pysan
+Case 809: veCayizyat:P in pysan
+Case 810: vewizyat:P in pysan
+Case 811: vewyizyat:P in pysan
+Case 812: veqizyat:P in pysan
+Case 813: veDizyat:P in pysan
+Case 814: velayizyat:P in pysan
+Case 815: velizyat:P in pysan
+Case 816: vellizyat:P in pysan
+Case 817: vesizyat:P in pysan
+Case 818: vehizyat:P in pysan
+Case 819: vehlizyat:P in pysan
+Case 820: vyacizyat:P in pysan
+Case 821: vyatsyat:P in pysan
+Case 822: vyayayizyat:P in pysan
+Case 823: vyayizyat:P in pysan
+Case 824: vyApayizyat:P in pysan
+Case 825: vyozayizyat:P in pysan
+Case 826: vyozizyat:P in pysan
+Case 827: vraRizyat:P in pysan
+Case 828: vrAjayizyat:P in pysan
+Case 829: vrARayizyat:P in pysan
+Case 830: vrezyat:P in pysan
+Case 831: vroqizyat:P in pysan
+Case 832: vlezyat:P in pysan
+Case 833: Sawizyat:P in pysan
+Case 834: SaWayizyat:P in pysan
+Case 835: SaWizyat:P in pysan
+Case 836: SaRizyat:P in pysan
+Case 837: Sambayizyat:P in pysan
+Case 838: Sambizyat:P in pysan
+Case 839: SarDizyat:P in pysan
+Case 840: Sarbizyat:P in pysan
+Case 841: Sarvizyat:P in pysan
+Case 842: Savizyat:P in pysan
+Case 843: Sazizyat:P in pysan
+Case 844: SAKizyat:P in pysan
+Case 845: SAWayizyat:P in pysan
+Case 846: SARayizyat:P in pysan
+Case 847: SiNKizyat:P in pysan
+Case 848: SiNGizyat:P in pysan
+Case 849: Sucyizyat:P in pysan
+Case 850: SuRWayizyat:P in pysan
+Case 851: SuRWizyat:P in pysan
+Case 852: SuRqizyat:P in pysan
+Case 853: Sulkayizyat:P in pysan
+Case 854: Sulbayizyat:P in pysan
+Case 855: SUrpayizyat:P in pysan
+Case 856: SUlizyat:P in pysan
+Case 857: SUzizyat:P in pysan
+Case 858: Sewizyat:P in pysan
+Case 859: Semizyat:P in pysan
+Case 860: Selizyat:P in pysan
+Case 861: Sezyat:P in pysan
+Case 862: Sokizyat:P in pysan
+Case 863: SoWayizyat:P in pysan
+Case 864: SoWizyat:P in pysan
+Case 865: SoRizyat:P in pysan
+Case 866: Sonizyat:P in pysan
+Case 867: Sozyat:P in pysan
+Case 868: SOwizyat:P in pysan
+Case 869: Scyotizyat:P in pysan
+Case 870: SnaTizyat:P in pysan
+Case 871: SmIlizyat:P in pysan
+Case 872: SraNgizyat:P in pysan
+Case 873: SraRizyat:P in pysan
+Case 874: SraTizyat:P in pysan
+Case 875: SrARayizyat:P in pysan
+Case 876: SrAsyat:P in pysan
+Case 877: Srezizyat:P in pysan
+Case 878: Srezyat:P in pysan
+Case 879: SroRizyat:P in pysan
+Case 880: SlaNgizyat:P in pysan
+Case 881: SlaTizyat:P in pysan
+Case 882: SlAKizyat:P in pysan
+Case 883: SloRizyat:P in pysan
+Case 884: SvaNgizyat:P in pysan
+Case 885: SvaBrayizyat:P in pysan
+Case 886: Svalizyat:P in pysan
+Case 887: Svalkayizyat:P in pysan
+Case 888: SvAWayizyat:P in pysan
+Case 889: SvAtrizyat:P in pysan
+Case 890: zawwayizyat:P in pysan
+Case 891: zazkizyat:P in pysan
+Case 892: zWevizyat:P in pysan
+Case 893: zvazkizyat:P in pysan
+Case 894: sakzizyat:P in pysan
+Case 895: sagizyat:P in pysan
+Case 896: saGizyat:P in pysan
+Case 897: sajjizyat:P in pysan
+Case 898: sawizyat:P in pysan
+Case 899: sawwayizyat:P in pysan
+Case 900: saBAjayizyat:P in pysan
+Case 901: samizyat:P in pysan
+Case 902: sarIzyat:P in pysan
+Case 903: sarjizyat:P in pysan
+Case 904: sarbizyat:P in pysan
+Case 905: sarBizyat:P in pysan
+Case 906: salizyat:P in pysan
+Case 907: sasizyat:P in pysan
+Case 908: sAkzizyat:P in pysan
+Case 909: sAwayizyat:P in pysan
+Case 910: sAWayizyat:P in pysan
+Case 911: sAtsyat:P in pysan
+Case 912: sAmayAyizyat:P in pysan
+Case 913: sAmayizyat:P in pysan
+Case 914: sArayizyat:P in pysan
+Case 915: sAhayizyat:P in pysan
+Case 916: suKayizyat:P in pysan
+Case 917: suwwayizyat:P in pysan
+Case 918: sUrkzizyat:P in pysan
+Case 919: sUzizyat:P in pysan
+Case 920: sewizyat:P in pysan
+Case 921: sevizyat:P in pysan
+Case 922: sezyat:P in pysan
+Case 923: soKizyat:P in pysan
+Case 924: soBizyat:P in pysan
+Case 925: sorayizyat:P in pysan
+Case 926: sohizyat:P in pysan
+Case 927: skanDayizyat:P in pysan
+Case 928: skozyat:P in pysan
+Case 929: stakizyat:P in pysan
+Case 930: starkzyat:P in pysan
+Case 931: starhizyat:P in pysan
+Case 932: stAsyat:P in pysan
+Case 933: stumBizyat:P in pysan
+Case 934: stUpayizyat:P in pysan
+Case 935: stUpizyat:P in pysan
+Case 936: stfkzizyat:P in pysan
+Case 937: steGizyat:P in pysan
+Case 938: stepayizyat:P in pysan
+Case 939: stemizyat:P in pysan
+Case 940: styAsyat:P in pysan
+Case 941: sTagizyat:P in pysan
+Case 942: sTalizyat:P in pysan
+Case 943: sTerizyat:P in pysan
+Case 944: sToqizyat:P in pysan
+Case 945: snekzyat:P in pysan
+Case 946: snewayizyat:P in pysan
+Case 947: snosizyat:P in pysan
+Case 948: sparizyat:P in pysan
+Case 949: sparIzyat:P in pysan
+Case 950: spaSizyat:P in pysan
+Case 951: spASayizyat:P in pysan
+Case 952: sprakzyat:P in pysan
+Case 953: sPawizyat:P in pysan
+Case 954: sPaRqayizyat:P in pysan
+Case 955: sParizyat:P in pysan
+Case 956: sPAwayizyat:P in pysan
+Case 957: sPiwwayizyat:P in pysan
+Case 958: sPuwwayizyat:P in pysan
+Case 959: sPuRwayizyat:P in pysan
+Case 960: sPuRwizyat:P in pysan
+Case 961: sPuRqayizyat:P in pysan
+Case 962: sPUrCizyat:P in pysan
+Case 963: sPUrjizyat:P in pysan
+Case 964: sPewayizyat:P in pysan
+Case 965: sPoqizyat:P in pysan
+Case 966: sPolizyat:P in pysan
+Case 967: smewayizyat:P in pysan
+Case 968: syamizyat:P in pysan
+Case 969: sreDizyat:P in pysan
+Case 970: sreBizyat:P in pysan
+Case 971: srevizyat:P in pysan
+Case 972: svaNgizyat:P in pysan
+Case 973: svarayizyat:P in pysan
+Case 974: hawizyat:P in pysan
+Case 975: hadizyat:P in pysan
+Case 976: hammizyat:P in pysan
+Case 977: hayizyat:P in pysan
+Case 978: halizyat:P in pysan
+Case 979: hurCizyat:P in pysan
+Case 980: hUqizyat:P in pysan
+Case 981: heWizyat:P in pysan
+Case 982: heqizyat:P in pysan
+Case 983: heQizyat:P in pysan
+Case 984: helizyat:P in pysan
+Case 985: hoqizyat:P in pysan
+Case 986: holizyat:P in pysan
+Case 987: hmalizyat:P in pysan
+Case 988: hragizyat:P in pysan
+Case 989: hrICizyat:P in pysan
+Case 990: hroqizyat:P in pysan
+Case 991: hrozyat:P in pysan
+Case 992: hrOqizyat:P in pysan
+Case 993: hlasizyat:P in pysan
+Case 994: hlApayizyat:P in pysan
+Case 995: hvAsyat:P in pysan
+--------------------------------------------------
+270 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: akzyat:P in huet
+Case 02: agadyizyat:P in huet
+Case 03: aGAyizyat:P in huet
+Case 04: aNgizyat:P in huet
+Case 05: ajirAyizyat:P in huet
+Case 06: aDvarIyizyat:P in huet
+Case 07: aDvaryizyat:P in huet
+Case 08: apsarAyizyat:P in huet
+Case 09: aBrAyizyat:P in huet
+Case 10: amitrayizyat:P in huet
+Case 11: amIzyat:P in huet
+Case 12: arTayizyat:P in huet
+Case 13: arTApayizyat:P in huet
+Case 14: aSanAyizyat:P in huet
+Case 15: aSanIyizyat:P in huet
+Case 16: aSizyat:P in huet
+Case 17: aSvasyizyat:P in huet
+Case 18: aSvAyizyat:P in huet
+Case 19: asUyizyat:P in huet
+Case 20: AkarRayizyat:P in huet
+Case 21: Akulayizyat:P in huet
+Case 22: Andolayizyat:P in huet
+Case 23: Avilayizyat:P in huet
+Case 24: irasyizyat:P in huet
+Case 25: izuDyizyat:P in huet
+Case 26: Irzizyat:P in huet
+Case 27: ISizyat:P in huet
+Case 28: ucizyat:P in huet
+Case 29: utkaRWizyat:P in huet
+Case 30: utkayizyat:P in huet
+Case 31: udakIyizyat:P in huet
+Case 32: udanyizyat:P in huet
+Case 33: unmanAyizyat:P in huet
+Case 34: umBizyat:P in huet
+Case 35: urasyizyat:P in huet
+Case 36: urozizyat:P in huet
+Case 37: uzasyizyat:P in huet
+Case 38: UzmAyizyat:P in huet
+Case 39: enizyat:P in huet
+Case 40: kaRqUyizyat:P in huet
+Case 41: kaRvAyizyat:P in huet
+Case 42: kadarTayizyat:P in huet
+Case 43: karuRAyizyat:P in huet
+Case 44: kartrIyizyat:P in huet
+Case 45: karzizyat:P in huet
+Case 46: kalaNkayizyat:P in huet
+Case 47: kalahAyizyat:P in huet
+Case 48: kaluzayizyat:P in huet
+Case 49: kaluzAyizyat:P in huet
+Case 50: kavalayizyat:P in huet
+Case 51: kavIyizyat:P in huet
+Case 52: kazwAyizyat:P in huet
+Case 53: kutsizyat:P in huet
+Case 54: kusumayizyat:P in huet
+Case 55: kfcCrAyizyat:P in huet
+Case 56: kelAyizyat:P in huet
+Case 57: kocizyat:P in huet
+Case 58: kowizyat:P in huet
+Case 59: kraMsyat:P in huet
+Case 60: krotsyat:P in huet
+Case 61: klIbAyizyat:P in huet
+Case 62: klIbezyat:P in huet
+Case 63: kvaTizyat:P in huet
+Case 64: kzanizyat:P in huet
+Case 65: kzayizyat:P in huet
+Case 66: kzIrasyizyat:P in huet
+Case 67: Kaqayizyat:P in huet
+Case 68: KaRqizyat:P in huet
+Case 69: KelAyizyat:P in huet
+Case 70: gadgadyizyat:P in huet
+Case 71: garvayizyat:P in huet
+Case 72: garvAyizyat:P in huet
+Case 73: gavezayizyat:P in huet
+Case 74: gavezizyat:P in huet
+Case 75: gavyizyat:P in huet
+Case 76: gopayizyat:P in huet
+Case 77: gomayizyat:P in huet
+Case 78: granTizyat:P in huet
+Case 79: glEzyat:P in huet
+Case 80: Gawwizyat:P in huet
+Case 81: cakzizyat:P in huet
+Case 82: citrIyizyat:P in huet
+Case 83: corizyat:P in huet
+Case 84: Candizyat:P in huet
+Case 85: Calayizyat:P in huet
+Case 86: Cidrayizyat:P in huet
+Case 87: jaBizyat:P in huet
+Case 88: jayizyat:P in huet
+Case 89: jalAyizyat:P in huet
+Case 90: javizyat:P in huet
+Case 91: jahizyat:P in huet
+Case 92: jihmAyizyat:P in huet
+Case 93: jyotizyat:P in huet
+Case 94: jvarizyat:P in huet
+Case 95: taNkzyat:P in huet
+Case 96: tantrayizyat:P in huet
+Case 97: tapasyizyat:P in huet
+Case 98: tapizyat:P in huet
+Case 99: taraNgayizyat:P in huet
+Case 100: taruRayizyat:P in huet
+Case 101: taruRAyizyat:P in huet
+Case 102: tavizIyizyat:P in huet
+Case 103: tirasyizyat:P in huet
+Case 104: tulayizyat:P in huet
+Case 105: tuhinayizyat:P in huet
+Case 106: tyajizyat:P in huet
+Case 107: trowizyat:P in huet
+Case 108: daMSizyat:P in huet
+Case 109: daRqayizyat:P in huet
+Case 110: darpizyat:P in huet
+Case 111: dahizyat:P in huet
+Case 112: dIvizyat:P in huet
+Case 113: duHKyizyat:P in huet
+Case 114: durdinAyizyat:P in huet
+Case 115: dozyat:P in huet
+Case 116: dyotizyat:P in huet
+Case 117: DanAyizyat:P in huet
+Case 118: DanIyizyat:P in huet
+Case 119: DIrayizyat:P in huet
+Case 120: DUmAyizyat:P in huet
+Case 121: namasyizyat:P in huet
+Case 122: namizyat:P in huet
+Case 123: nayizyat:P in huet
+Case 124: navizyat:P in huet
+Case 125: nATizyat:P in huet
+Case 126: nAvyizyat:P in huet
+Case 127: nikazAyizyat:P in huet
+Case 128: niYjizyat:P in huet
+Case 129: nIhArAyizyat:P in huet
+Case 130: nUtanayizyat:P in huet
+Case 131: nekzyat:P in huet
+Case 132: pawapawAyizyat:P in huet
+Case 133: payasyizyat:P in huet
+Case 134: payAyizyat:P in huet
+Case 135: parokzAyizyat:P in huet
+Case 136: palAyizyat:P in huet
+Case 137: pavitrayizyat:P in huet
+Case 138: pIyUzavarzAyizyat:P in huet
+Case 139: putrakAmyizyat:P in huet
+Case 140: putriyizyat:P in huet
+Case 141: putrIyizyat:P in huet
+Case 142: pulakayizyat:P in huet
+Case 143: puzkarAyizyat:P in huet
+Case 144: puzpAyizyat:P in huet
+Case 145: puzpyizyat:P in huet
+Case 146: pUlezyat:P in huet
+Case 147: pratikUlayizyat:P in huet
+Case 148: praSizyat:P in huet
+Case 149: prasAdayizyat:P in huet
+Case 150: prAsAdIyizyat:P in huet
+Case 151: priyAyizyat:P in huet
+Case 152: PenAyizyat:P in huet
+Case 153: banDizyat:P in huet
+Case 154: bAzpAyizyat:P in huet
+Case 155: Bajizyat:P in huet
+Case 156: BaRqizyat:P in huet
+Case 157: Barkzyat:P in huet
+Case 158: Bartsizyat:P in huet
+Case 159: BAsizyat:P in huet
+Case 160: Bizajyizyat:P in huet
+Case 161: BfSAyizyat:P in huet
+Case 162: Botsyat:P in huet
+Case 163: Brakzyat:P in huet
+Case 164: maMsyat:P in huet
+Case 165: maNkzyat:P in huet
+Case 166: maDusyizyat:P in huet
+Case 167: maDvasyizyat:P in huet
+Case 168: manizyat:P in huet
+Case 169: mantUyizyat:P in huet
+Case 170: mantrayizyat:P in huet
+Case 171: marzizyat:P in huet
+Case 172: malinayizyat:P in huet
+Case 173: mahIyizyat:P in huet
+Case 174: mAMsIyizyat:P in huet
+Case 175: mArkzyat:P in huet
+Case 176: mArjizyat:P in huet
+Case 177: mAlyaguRAyizyat:P in huet
+Case 178: milizyat:P in huet
+Case 179: mukulayizyat:P in huet
+Case 180: muKarayizyat:P in huet
+Case 181: muRqayizyat:P in huet
+Case 182: mudrayizyat:P in huet
+Case 183: mUtrayizyat:P in huet
+Case 184: mUrCizyat:P in huet
+Case 185: mfgayizyat:P in huet
+Case 186: mfqayizyat:P in huet
+Case 187: mfzAyizyat:P in huet
+Case 188: meGAyizyat:P in huet
+Case 189: mokzizyat:P in huet
+Case 190: modizyat:P in huet
+Case 191: mlecCizyat:P in huet
+Case 192: yamizyat:P in huet
+Case 193: yugAyizyat:P in huet
+Case 194: yotsyat:P in huet
+Case 195: raTakAmyizyat:P in huet
+Case 196: rAjIyizyat:P in huet
+Case 197: rAtsyat:P in huet
+Case 198: romanTAyizyat:P in huet
+Case 199: laGayizyat:P in huet
+Case 200: lapsyat:P in huet
+Case 201: laBizyat:P in huet
+Case 202: lavaRasyizyat:P in huet
+Case 203: lAlAyizyat:P in huet
+Case 204: liKizyat:P in huet
+Case 205: luRWizyat:P in huet
+Case 206: lelAyizyat:P in huet
+Case 207: lokizyat:P in huet
+Case 208: lolizyat:P in huet
+Case 209: lohitAyizyat:P in huet
+Case 210: vapizyat:P in huet
+Case 211: vayizyat:P in huet
+Case 212: varivasyizyat:P in huet
+Case 213: varDizyat:P in huet
+Case 214: valizyat:P in huet
+Case 215: valgUyizyat:P in huet
+Case 216: vasizyat:P in huet
+Case 217: vAcyizyat:P in huet
+Case 218: vijizyat:P in huet
+Case 219: vimanAyizyat:P in huet
+Case 220: viSadayizyat:P in huet
+Case 221: vizAyizyat:P in huet
+Case 222: vfzasyizyat:P in huet
+Case 223: vfzIyizyat:P in huet
+Case 224: vejizyat:P in huet
+Case 225: vedApayizyat:P in huet
+Case 226: vedizyat:P in huet
+Case 227: vErAyizyat:P in huet
+Case 228: vyaTizyat:P in huet
+Case 229: vrajizyat:P in huet
+Case 230: vraRayizyat:P in huet
+Case 231: SabdAyizyat:P in huet
+Case 232: SalaBAyizyat:P in huet
+Case 233: SAntayizyat:P in huet
+Case 234: SiTilayizyat:P in huet
+Case 235: SiTilAyizyat:P in huet
+Case 236: SiSUyizyat:P in huet
+Case 237: SIGrAyizyat:P in huet
+Case 238: SyAmAyizyat:P in huet
+Case 239: Syenayizyat:P in huet
+Case 240: SyenAyizyat:P in huet
+Case 241: zaRQayizyat:P in huet
+Case 242: zWIvizyat:P in huet
+Case 243: saKIyizyat:P in huet
+Case 244: saNkawAyizyat:P in huet
+Case 245: saNgrAmayizyat:P in huet
+Case 246: sajjIyizyat:P in huet
+Case 247: satyApayizyat:P in huet
+Case 248: sapiRqayizyat:P in huet
+Case 249: saPalayizyat:P in huet
+Case 250: samudrAyizyat:P in huet
+Case 251: sAvaDAnayizyat:P in huet
+Case 252: sizyat:P in huet
+Case 253: sIdizyat:P in huet
+Case 254: sIvizyat:P in huet
+Case 255: suKAyizyat:P in huet
+Case 256: suKyizyat:P in huet
+Case 257: sudinAyizyat:P in huet
+Case 258: sumanAyizyat:P in huet
+Case 259: seDizyat:P in huet
+Case 260: starIzyat:P in huet
+Case 261: stavizyat:P in huet
+Case 262: sTagayizyat:P in huet
+Case 263: syantsyat:P in huet
+Case 264: syandizyat:P in huet
+Case 265: svadizyat:P in huet
+Case 266: svapizyat:P in huet
+Case 267: svalpaSilAyizyat:P in huet
+Case 268: haMsyat:P in huet
+Case 269: hatsyat:P in huet
+Case 270: hvayizyat:P in huet
