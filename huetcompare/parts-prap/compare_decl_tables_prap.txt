@@ -1,0 +1,3044 @@
+aMSayat ppr 11Pf: pysan NOT FOUND
+aMSayat ppr 11Pm: pysan NOT FOUND
+aMSayat ppr 11Pn: pysan NOT FOUND
+akzat ppr 1Pf: identical
+akzat ppr 1Pm: identical
+akzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) akzantI,akzatI != akzantI (pysan)
+     2d (huet) akzantI,akzatI != akzantI (pysan)
+akzRuvat ppr 5Pf: identical
+akzRuvat ppr 5Pm: identical
+akzRuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) akzRuvantI,akzRuvatI != akzRuvatI (pysan)
+     2d (huet) akzRuvantI,akzRuvatI != akzRuvatI (pysan)
+agadyat ppr 11Pf: pysan NOT FOUND
+agadyat ppr 11Pm: pysan NOT FOUND
+agadyat ppr 11Pn: pysan NOT FOUND
+aGAyat ppr 11Pf: pysan NOT FOUND
+aGAyat ppr 11Pm: pysan NOT FOUND
+aGAyat ppr 11Pn: pysan NOT FOUND
+aNkayat ppr 11Pf: pysan NOT FOUND
+aNkayat ppr 11Pm: pysan NOT FOUND
+aNkayat ppr 11Pn: pysan NOT FOUND
+aNKayat ppr 11Pf: pysan NOT FOUND
+aNKayat ppr 11Pm: pysan NOT FOUND
+aNKayat ppr 11Pn: pysan NOT FOUND
+aNgat ppr 1Pf: identical
+aNgat ppr 1Pm: identical
+aNgat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) aNgantI,aNgatI != aNgantI (pysan)
+     2d (huet) aNgantI,aNgatI != aNgantI (pysan)
+acat ppr 1Pf: identical
+acat ppr 1Pm: identical
+acat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) acantI,acatI != acantI (pysan)
+     2d (huet) acantI,acatI != acantI (pysan)
+ajat ppr 1Pf: identical
+ajat ppr 1Pm: identical
+ajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ajantI,ajatI != ajantI (pysan)
+     2d (huet) ajantI,ajatI != ajantI (pysan)
+aYcat ppr 1Pf: identical
+aYcat ppr 1Pm: identical
+aYcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) aYcantI,aYcatI != aYcantI (pysan)
+     2d (huet) aYcantI,aYcatI != aYcantI (pysan)
+aYjat ppr 7Pf: identical
+aYjat ppr 7Pm: identical
+aYjat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) aYjantI,aYjatI != aYjatI (pysan)
+     2d (huet) aYjantI,aYjatI != aYjatI (pysan)
+awat ppr 1Pf: identical
+awat ppr 1Pm: identical
+awat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) awantI,awatI != awantI (pysan)
+     2d (huet) awantI,awatI != awantI (pysan)
+atat ppr 1Pf: identical
+atat ppr 1Pm: identical
+atat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) atantI,atatI != atantI (pysan)
+     2d (huet) atantI,atatI != atantI (pysan)
+adat ppr 2Pf: identical
+adat ppr 2Pm: identical
+adat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) adantI,adatI != adatI (pysan)
+     2d (huet) adantI,adatI != adatI (pysan)
+aDvarIyat ppr 11Pf: pysan NOT FOUND
+aDvarIyat ppr 11Pm: pysan NOT FOUND
+aDvarIyat ppr 11Pn: pysan NOT FOUND
+aDvaryat ppr 11Pf: pysan NOT FOUND
+aDvaryat ppr 11Pm: pysan NOT FOUND
+aDvaryat ppr 11Pn: pysan NOT FOUND
+anat ppr 2Pf: identical
+anat ppr 2Pm: identical
+anat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) anantI,anatI != anatI (pysan)
+     2d (huet) anantI,anatI != anatI (pysan)
+anDayat ppr 11Pf: pysan NOT FOUND
+anDayat ppr 11Pm: pysan NOT FOUND
+anDayat ppr 11Pn: pysan NOT FOUND
+amat ppr 1Pf: identical
+amat ppr 1Pm: identical
+amat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) amantI,amatI != amantI (pysan)
+     2d (huet) amantI,amatI != amantI (pysan)
+amitrayat ppr 11Pf: pysan NOT FOUND
+amitrayat ppr 11Pm: pysan NOT FOUND
+amitrayat ppr 11Pn: pysan NOT FOUND
+arcat ppr 1Pf: identical
+arcat ppr 1Pm: identical
+arcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) arcantI,arcatI != arcantI (pysan)
+     2d (huet) arcantI,arcatI != arcantI (pysan)
+arjat ppr 1Pf: identical
+arjat ppr 1Pm: identical
+arjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) arjantI,arjatI != arjantI (pysan)
+     2d (huet) arjantI,arjatI != arjantI (pysan)
+arTApayat ppr 11Pf: pysan NOT FOUND
+arTApayat ppr 11Pm: pysan NOT FOUND
+arTApayat ppr 11Pn: pysan NOT FOUND
+ardat ppr 1Pf: identical
+ardat ppr 1Pm: identical
+ardat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ardantI,ardatI != ardantI (pysan)
+     2d (huet) ardantI,ardatI != ardantI (pysan)
+arzat ppr 1Pf: identical
+arzat ppr 1Pm: identical
+arzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) arzantI,arzatI != arzantI (pysan)
+     2d (huet) arzantI,arzatI != arzantI (pysan)
+arhat ppr 1Pf: identical
+arhat ppr 1Pm: identical
+arhat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) arhantI,arhatI != arhantI (pysan)
+     2d (huet) arhantI,arhatI != arhantI (pysan)
+avat ppr 1Pf: identical
+avat ppr 1Pm: identical
+avat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) avantI,avatI != avantI (pysan)
+     2d (huet) avantI,avatI != avantI (pysan)
+aSanAyat ppr 11Pf: pysan NOT FOUND
+aSanAyat ppr 11Pm: pysan NOT FOUND
+aSanAyat ppr 11Pn: pysan NOT FOUND
+aSanIyat ppr 11Pf: pysan NOT FOUND
+aSanIyat ppr 11Pm: pysan NOT FOUND
+aSanIyat ppr 11Pn: pysan NOT FOUND
+aSnat ppr 9Pf: pysan NOT FOUND
+aSnat ppr 9Pm: pysan NOT FOUND
+aSnat ppr 9Pn: pysan NOT FOUND
+aSvasyat ppr 11Pf: pysan NOT FOUND
+aSvasyat ppr 11Pm: pysan NOT FOUND
+aSvasyat ppr 11Pn: pysan NOT FOUND
+aSvAyat ppr 11Pf: pysan NOT FOUND
+aSvAyat ppr 11Pm: pysan NOT FOUND
+aSvAyat ppr 11Pn: pysan NOT FOUND
+asat ppr 1Pf: pysan NOT FOUND
+asat ppr 1Pm: pysan NOT FOUND
+asat ppr 1Pn: pysan NOT FOUND
+asUyat ppr 11Pf: pysan NOT FOUND
+asUyat ppr 11Pm: pysan NOT FOUND
+asUyat ppr 11Pn: pysan NOT FOUND
+asyat ppr 4Pf: identical
+asyat ppr 4Pm: identical
+asyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) asyantI,asyatI != asyantI (pysan)
+     2d (huet) asyantI,asyatI != asyantI (pysan)
+AkarRayat ppr 11Pf: pysan NOT FOUND
+AkarRayat ppr 11Pm: pysan NOT FOUND
+AkarRayat ppr 11Pn: pysan NOT FOUND
+Akulayat ppr 11Pf: pysan NOT FOUND
+Akulayat ppr 11Pm: pysan NOT FOUND
+Akulayat ppr 11Pn: pysan NOT FOUND
+Andolayat ppr 11Pf: pysan NOT FOUND
+Andolayat ppr 11Pm: pysan NOT FOUND
+Andolayat ppr 11Pn: pysan NOT FOUND
+Apnuvat ppr 5Pf: identical
+Apnuvat ppr 5Pm: identical
+Apnuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) ApnuvantI,ApnuvatI != ApnuvatI (pysan)
+     2d (huet) ApnuvantI,ApnuvatI != ApnuvatI (pysan)
+Avilayat ppr 11Pf: pysan NOT FOUND
+Avilayat ppr 11Pm: pysan NOT FOUND
+Avilayat ppr 11Pn: pysan NOT FOUND
+iNgat ppr 1Pf: identical
+iNgat ppr 1Pm: identical
+iNgat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) iNgantI,iNgatI != iNgantI (pysan)
+     2d (huet) iNgantI,iNgatI != iNgantI (pysan)
+icCat ppr 6Pf: pysan NOT FOUND
+icCat ppr 6Pm: identical
+icCat ppr 6Pn: identical
+indat ppr 1Pf: identical
+indat ppr 1Pm: identical
+indat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) indantI,indatI != indantI (pysan)
+     2d (huet) indantI,indatI != indantI (pysan)
+invat ppr 1Pf: pysan NOT FOUND
+invat ppr 1Pm: pysan NOT FOUND
+invat ppr 1Pn: pysan NOT FOUND
+invat ppr 5Pf: pysan NOT FOUND
+invat ppr 5Pm: pysan NOT FOUND
+invat ppr 5Pn: pysan NOT FOUND
+iyfat ppr 3Pf: pysan NOT FOUND
+iyfat ppr 3Pm: pysan NOT FOUND
+iyfat ppr 3Pn: pysan NOT FOUND
+irasyat ppr 11Pf: pysan NOT FOUND
+irasyat ppr 11Pm: pysan NOT FOUND
+irasyat ppr 11Pn: pysan NOT FOUND
+ilat ppr 6Pf: pysan NOT FOUND
+ilat ppr 6Pm: identical
+ilat ppr 6Pn: identical
+izuDyat ppr 11Pf: pysan NOT FOUND
+izuDyat ppr 11Pm: pysan NOT FOUND
+izuDyat ppr 11Pn: pysan NOT FOUND
+izRat ppr 9Pf: pysan NOT FOUND
+izRat ppr 9Pm: pysan NOT FOUND
+izRat ppr 9Pn: pysan NOT FOUND
+izyat ppr 4Pf: identical
+izyat ppr 4Pm: identical
+izyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) izyantI,izyatI != izyantI (pysan)
+     2d (huet) izyantI,izyatI != izyantI (pysan)
+INKat ppr 1Pf: identical
+INKat ppr 1Pm: identical
+INKat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) INKantI,INKatI != INKantI (pysan)
+     2d (huet) INKantI,INKatI != INKantI (pysan)
+Irzyat ppr 1Pf: identical
+Irzyat ppr 1Pm: identical
+Irzyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) IrzyantI,IrzyatI != IrzyantI (pysan)
+     2d (huet) IrzyantI,IrzyatI != IrzyantI (pysan)
+ukzat ppr 6Pf: pysan NOT FOUND
+ukzat ppr 6Pm: pysan NOT FOUND
+ukzat ppr 6Pn: pysan NOT FOUND
+ucCat ppr 6Pf: pysan NOT FOUND
+ucCat ppr 6Pm: pysan NOT FOUND
+ucCat ppr 6Pn: pysan NOT FOUND
+ucyat ppr 4Pf: identical
+ucyat ppr 4Pm: identical
+ucyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) ucyantI,ucyatI != ucyantI (pysan)
+     2d (huet) ucyantI,ucyatI != ucyantI (pysan)
+ujJat ppr 6Pf: pysan NOT FOUND
+ujJat ppr 6Pm: identical
+ujJat ppr 6Pn: identical
+uYCat ppr 1Pf: identical
+uYCat ppr 1Pm: identical
+uYCat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) uYCantI,uYCatI != uYCantI (pysan)
+     2d (huet) uYCantI,uYCatI != uYCantI (pysan)
+utkaRWat ppr 1Pf: pysan NOT FOUND
+utkaRWat ppr 1Pm: pysan NOT FOUND
+utkaRWat ppr 1Pn: pysan NOT FOUND
+utkayat ppr 11Pf: pysan NOT FOUND
+utkayat ppr 11Pm: pysan NOT FOUND
+utkayat ppr 11Pn: pysan NOT FOUND
+udakIyat ppr 11Pf: pysan NOT FOUND
+udakIyat ppr 11Pm: pysan NOT FOUND
+udakIyat ppr 11Pn: pysan NOT FOUND
+udanyat ppr 11Pf: pysan NOT FOUND
+udanyat ppr 11Pm: pysan NOT FOUND
+udanyat ppr 11Pn: pysan NOT FOUND
+undat ppr 7Pf: identical
+undat ppr 7Pm: identical
+undat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) undantI,undatI != undatI (pysan)
+     2d (huet) undantI,undatI != undatI (pysan)
+uBnat ppr 9Pf: identical
+uBnat ppr 9Pm: identical
+uBnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) uBnantI,uBnatI != uBnatI (pysan)
+     2d (huet) uBnantI,uBnatI != uBnatI (pysan)
+umBat ppr 6Pf: pysan NOT FOUND
+umBat ppr 6Pm: pysan NOT FOUND
+umBat ppr 6Pn: pysan NOT FOUND
+urasyat ppr 11Pf: pysan NOT FOUND
+urasyat ppr 11Pm: pysan NOT FOUND
+urasyat ppr 11Pn: pysan NOT FOUND
+uruzyat ppr 4Pf: pysan NOT FOUND
+uruzyat ppr 4Pm: pysan NOT FOUND
+uruzyat ppr 4Pn: pysan NOT FOUND
+uSat ppr 2Pf: pysan NOT FOUND
+uSat ppr 2Pm: pysan NOT FOUND
+uSat ppr 2Pn: pysan NOT FOUND
+uzasyat ppr 11Pf: pysan NOT FOUND
+uzasyat ppr 11Pm: pysan NOT FOUND
+uzasyat ppr 11Pn: pysan NOT FOUND
+UrRvat ppr 5Pf: pysan NOT FOUND
+UrRvat ppr 5Pm: pysan NOT FOUND
+UrRvat ppr 5Pn: pysan NOT FOUND
+Uhat ppr 1Pf: identical
+Uhat ppr 1Pm: identical
+Uhat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) UhantI,UhatI != UhantI (pysan)
+     2d (huet) UhantI,UhatI != UhantI (pysan)
+fcCat ppr 1Pf: identical
+fcCat ppr 1Pm: identical
+fcCat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) fcCantI,fcCatI != fcCantI (pysan)
+     2d (huet) fcCantI,fcCatI != fcCantI (pysan)
+fYjat ppr 6Pf: pysan NOT FOUND
+fYjat ppr 6Pm: identical
+fYjat ppr 6Pn: identical
+fRvat ppr 5Pf: identical
+fRvat ppr 5Pm: identical
+fRvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) fRvantI,fRvatI != fRvatI (pysan)
+     2d (huet) fRvantI,fRvatI != fRvatI (pysan)
+fDnuvat ppr 5Pf: identical
+fDnuvat ppr 5Pm: identical
+fDnuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) fDnuvantI,fDnuvatI != fDnuvatI (pysan)
+     2d (huet) fDnuvantI,fDnuvatI != fDnuvatI (pysan)
+fDyat ppr 4Pf: identical
+fDyat ppr 4Pm: identical
+fDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) fDyantI,fDyatI != fDyantI (pysan)
+     2d (huet) fDyantI,fDyatI != fDyantI (pysan)
+fzat ppr 6Pf: pysan NOT FOUND
+fzat ppr 6Pm: identical
+fzat ppr 6Pn: identical
+ejat ppr 1Pf: identical
+ejat ppr 1Pm: identical
+ejat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ejantI,ejatI != ejantI (pysan)
+     2d (huet) ejantI,ejatI != ejantI (pysan)
+ezat ppr 1Pf: identical
+ezat ppr 1Pm: identical
+ezat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ezantI,ezatI != ezantI (pysan)
+     2d (huet) ezantI,ezatI != ezantI (pysan)
+ozat ppr 1Pf: identical
+ozat ppr 1Pm: identical
+ozat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ozantI,ozatI != ozantI (pysan)
+     2d (huet) ozantI,ozatI != ozantI (pysan)
+kaRqayat ppr 10Pf: identical
+kaRqayat ppr 10Pm: identical
+kaRqayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) kaRqayantI,kaRqayatI != kaRqayantI (pysan)
+     2d (huet) kaRqayantI,kaRqayatI != kaRqayantI (pysan)
+kaRqUyat ppr 11Pf: pysan NOT FOUND
+kaRqUyat ppr 11Pm: pysan NOT FOUND
+kaRqUyat ppr 11Pn: pysan NOT FOUND
+kaTayat ppr 10Pf: identical
+kaTayat ppr 10Pm: identical
+kaTayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) kaTayantI,kaTayatI != kaTayantI (pysan)
+     2d (huet) kaTayantI,kaTayatI != kaTayantI (pysan)
+kadarTayat ppr 11Pf: pysan NOT FOUND
+kadarTayat ppr 11Pm: pysan NOT FOUND
+kadarTayat ppr 11Pn: pysan NOT FOUND
+karRayat ppr 11Pf: pysan NOT FOUND
+karRayat ppr 11Pm: pysan NOT FOUND
+karRayat ppr 11Pn: pysan NOT FOUND
+kartrIyat ppr 11Pf: pysan NOT FOUND
+kartrIyat ppr 11Pm: pysan NOT FOUND
+kartrIyat ppr 11Pn: pysan NOT FOUND
+karzat ppr 1Pf: identical
+karzat ppr 1Pm: identical
+karzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) karzantI,karzatI != karzantI (pysan)
+     2d (huet) karzantI,karzatI != karzantI (pysan)
+kalaNkayat ppr 11Pf: pysan NOT FOUND
+kalaNkayat ppr 11Pm: pysan NOT FOUND
+kalaNkayat ppr 11Pn: pysan NOT FOUND
+kalayat ppr 10Pf: identical
+kalayat ppr 10Pm: identical
+kalayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) kalayantI,kalayatI != kalayantI (pysan)
+     2d (huet) kalayantI,kalayatI != kalayantI (pysan)
+kaluzayat ppr 11Pf: pysan NOT FOUND
+kaluzayat ppr 11Pm: pysan NOT FOUND
+kaluzayat ppr 11Pn: pysan NOT FOUND
+kavalayat ppr 11Pf: pysan NOT FOUND
+kavalayat ppr 11Pm: pysan NOT FOUND
+kavalayat ppr 11Pn: pysan NOT FOUND
+kavIyat ppr 11Pf: pysan NOT FOUND
+kavIyat ppr 11Pm: pysan NOT FOUND
+kavIyat ppr 11Pn: pysan NOT FOUND
+kazat ppr 1Pf: identical
+kazat ppr 1Pm: identical
+kazat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kazantI,kazatI != kazantI (pysan)
+     2d (huet) kazantI,kazatI != kazantI (pysan)
+kasat ppr 1Pf: identical
+kasat ppr 1Pm: identical
+kasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kasantI,kasatI != kasantI (pysan)
+     2d (huet) kasantI,kasatI != kasantI (pysan)
+kANkzat ppr 1Pf: identical
+kANkzat ppr 1Pm: identical
+kANkzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kANkzantI,kANkzatI != kANkzantI (pysan)
+     2d (huet) kANkzantI,kANkzatI != kANkzantI (pysan)
+kAyat ppr 4Pf: pysan NOT FOUND
+kAyat ppr 4Pm: pysan NOT FOUND
+kAyat ppr 4Pn: pysan NOT FOUND
+kirat ppr 6Pf: pysan NOT FOUND
+kirat ppr 6Pm: identical
+kirat ppr 6Pn: identical
+kIrtayat ppr 10Pf: identical
+kIrtayat ppr 10Pm: identical
+kIrtayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) kIrtayantI,kIrtayatI != kIrtayantI (pysan)
+     2d (huet) kIrtayantI,kIrtayatI != kIrtayantI (pysan)
+kIlat ppr 1Pf: identical
+kIlat ppr 1Pm: identical
+kIlat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kIlantI,kIlatI != kIlantI (pysan)
+     2d (huet) kIlantI,kIlatI != kIlantI (pysan)
+kucat ppr 6Pf: pysan NOT FOUND
+kucat ppr 6Pm: identical
+kucat ppr 6Pn: identical
+kuYcat ppr 1Pf: identical
+kuYcat ppr 1Pm: identical
+kuYcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kuYcantI,kuYcatI != kuYcantI (pysan)
+     2d (huet) kuYcantI,kuYcatI != kuYcantI (pysan)
+kuwat ppr 6Pf: pysan NOT FOUND
+kuwat ppr 6Pm: identical
+kuwat ppr 6Pn: identical
+kuwwayat ppr 11Pf: pysan NOT FOUND
+kuwwayat ppr 11Pm: pysan NOT FOUND
+kuwwayat ppr 11Pn: pysan NOT FOUND
+kuRWat ppr 1Pf: identical
+kuRWat ppr 1Pm: identical
+kuRWat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kuRWantI,kuRWatI != kuRWantI (pysan)
+     2d (huet) kuRWantI,kuRWatI != kuRWantI (pysan)
+kuRqat ppr 1Pf: identical
+kuRqat ppr 1Pm: identical
+kuRqat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kuRqantI,kuRqatI != kuRqantI (pysan)
+     2d (huet) kuRqantI,kuRqatI != kuRqantI (pysan)
+kutsat ppr 1Pf: pysan NOT FOUND
+kutsat ppr 1Pm: pysan NOT FOUND
+kutsat ppr 1Pn: pysan NOT FOUND
+kutsayat ppr 10Pf: identical
+kutsayat ppr 10Pm: identical
+kutsayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) kutsayantI,kutsayatI != kutsayantI (pysan)
+     2d (huet) kutsayantI,kutsayatI != kutsayantI (pysan)
+kunTat ppr 1Pf: identical
+kunTat ppr 1Pm: identical
+kunTat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kunTantI,kunTatI != kunTantI (pysan)
+     2d (huet) kunTantI,kunTatI != kunTantI (pysan)
+kupyat ppr 4Pf: identical
+kupyat ppr 4Pm: identical
+kupyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) kupyantI,kupyatI != kupyantI (pysan)
+     2d (huet) kupyantI,kupyatI != kupyantI (pysan)
+kurvat ppr 8Pf: identical
+kurvat ppr 8Pm: identical
+kurvat ppr 8Pn: declension differences @ 1d,2d 
+     1d (huet) kurvantI,kurvatI != kurvatI (pysan)
+     2d (huet) kurvantI,kurvatI != kurvatI (pysan)
+kusumayat ppr 11Pf: pysan NOT FOUND
+kusumayat ppr 11Pm: pysan NOT FOUND
+kusumayat ppr 11Pn: pysan NOT FOUND
+kUjat ppr 1Pf: identical
+kUjat ppr 1Pm: identical
+kUjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kUjantI,kUjatI != kUjantI (pysan)
+     2d (huet) kUjantI,kUjatI != kUjantI (pysan)
+kfRvat ppr 5Pf: identical
+kfRvat ppr 5Pm: identical
+kfRvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) kfRvantI,kfRvatI != kfRvatI (pysan)
+     2d (huet) kfRvantI,kfRvatI != kfRvatI (pysan)
+kfntat ppr 6Pf: pysan NOT FOUND
+kfntat ppr 6Pm: identical
+kfntat ppr 6Pn: identical
+kfSyat ppr 4Pf: identical
+kfSyat ppr 4Pm: identical
+kfSyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) kfSyantI,kfSyatI != kfSyantI (pysan)
+     2d (huet) kfSyantI,kfSyatI != kfSyantI (pysan)
+kfzat ppr 6Pf: pysan NOT FOUND
+kfzat ppr 6Pm: identical
+kfzat ppr 6Pn: identical
+kelAyat ppr 11Pf: pysan NOT FOUND
+kelAyat ppr 11Pm: pysan NOT FOUND
+kelAyat ppr 11Pn: pysan NOT FOUND
+kolat ppr 1Pf: identical
+kolat ppr 1Pm: identical
+kolat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kolantI,kolatI != kolantI (pysan)
+     2d (huet) kolantI,kolatI != kolantI (pysan)
+krandat ppr 1Pf: identical
+krandat ppr 1Pm: identical
+krandat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) krandantI,krandatI != krandantI (pysan)
+     2d (huet) krandantI,krandatI != krandantI (pysan)
+kramat ppr 1Pf: pysan NOT FOUND
+kramat ppr 1Pm: pysan NOT FOUND
+kramat ppr 1Pn: pysan NOT FOUND
+krAmat ppr 1Pf: identical
+krAmat ppr 1Pm: identical
+krAmat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) krAmantI,krAmatI != krAmantI (pysan)
+     2d (huet) krAmantI,krAmatI != krAmantI (pysan)
+krIqat ppr 1Pf: identical
+krIqat ppr 1Pm: identical
+krIqat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) krIqantI,krIqatI != krIqantI (pysan)
+     2d (huet) krIqantI,krIqatI != krIqantI (pysan)
+krIRat ppr 9Pf: identical
+krIRat ppr 9Pm: identical
+krIRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) krIRantI,krIRatI != krIRatI (pysan)
+     2d (huet) krIRantI,krIRatI != krIRatI (pysan)
+kruYcat ppr 1Pf: identical
+kruYcat ppr 1Pm: identical
+kruYcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kruYcantI,kruYcatI != kruYcantI (pysan)
+     2d (huet) kruYcantI,kruYcatI != kruYcantI (pysan)
+kruDyat ppr 4Pf: identical
+kruDyat ppr 4Pm: identical
+kruDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) kruDyantI,kruDyatI != kruDyantI (pysan)
+     2d (huet) kruDyantI,kruDyatI != kruDyantI (pysan)
+kroSat ppr 1Pf: identical
+kroSat ppr 1Pm: identical
+kroSat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kroSantI,kroSatI != kroSantI (pysan)
+     2d (huet) kroSantI,kroSatI != kroSantI (pysan)
+klAmyat ppr 4Pf: identical
+klAmyat ppr 4Pm: identical
+klAmyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) klAmyantI,klAmyatI != klAmyantI (pysan)
+     2d (huet) klAmyantI,klAmyatI != klAmyantI (pysan)
+klidyat ppr 4Pf: identical
+klidyat ppr 4Pm: identical
+klidyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) klidyantI,klidyatI != klidyantI (pysan)
+     2d (huet) klidyantI,klidyatI != klidyantI (pysan)
+kliSnat ppr 9Pf: identical
+kliSnat ppr 9Pm: identical
+kliSnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) kliSnantI,kliSnatI != kliSnatI (pysan)
+     2d (huet) kliSnantI,kliSnatI != kliSnatI (pysan)
+kvaTat ppr 1Pf: pysan NOT FOUND
+kvaTat ppr 1Pm: pysan NOT FOUND
+kvaTat ppr 1Pn: pysan NOT FOUND
+kzaRvat ppr 5Pf: pysan NOT FOUND
+kzaRvat ppr 5Pm: pysan NOT FOUND
+kzaRvat ppr 5Pn: pysan NOT FOUND
+kzapat ppr 1Pf: identical
+kzapat ppr 1Pm: identical
+kzapat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kzapantI,kzapatI != kzapantI (pysan)
+     2d (huet) kzapantI,kzapatI != kzapantI (pysan)
+kzayat ppr 1Pf: identical
+kzayat ppr 1Pm: identical
+kzayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kzayantI,kzayatI != kzayantI (pysan)
+     2d (huet) kzayantI,kzayatI != kzayantI (pysan)
+kzarat ppr 1Pf: identical
+kzarat ppr 1Pm: identical
+kzarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kzarantI,kzaratI != kzarantI (pysan)
+     2d (huet) kzarantI,kzaratI != kzarantI (pysan)
+kziRat ppr 9Pf: identical
+kziRat ppr 9Pm: identical
+kziRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) kziRantI,kziRatI != kziRatI (pysan)
+     2d (huet) kziRantI,kziRatI != kziRatI (pysan)
+kziRvat ppr 5Pf: identical
+kziRvat ppr 5Pm: identical
+kziRvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) kziRvantI,kziRvatI != kziRvatI (pysan)
+     2d (huet) kziRvantI,kziRvatI != kziRvatI (pysan)
+kzipat ppr 6Pf: pysan NOT FOUND
+kzipat ppr 6Pm: identical
+kzipat ppr 6Pn: identical
+kziyat ppr 2Pf: identical
+kziyat ppr 2Pm: identical
+kziyat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) kziyantI,kziyatI != kziyatI (pysan)
+     2d (huet) kziyantI,kziyatI != kziyatI (pysan)
+kziyat ppr 6Pf: pysan NOT FOUND
+kziyat ppr 6Pm: identical
+kziyat ppr 6Pn: identical
+kzIrasyat ppr 11Pf: pysan NOT FOUND
+kzIrasyat ppr 11Pm: pysan NOT FOUND
+kzIrasyat ppr 11Pn: pysan NOT FOUND
+kzuDyat ppr 4Pf: identical
+kzuDyat ppr 4Pm: identical
+kzuDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) kzuDyantI,kzuDyatI != kzuDyantI (pysan)
+     2d (huet) kzuDyantI,kzuDyatI != kzuDyantI (pysan)
+kzuByat ppr 4Pf: identical
+kzuByat ppr 4Pm: identical
+kzuByat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) kzuByantI,kzuByatI != kzuByantI (pysan)
+     2d (huet) kzuByantI,kzuByatI != kzuByantI (pysan)
+kzuvat ppr 2Pf: identical
+kzuvat ppr 2Pm: identical
+kzuvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) kzuvantI,kzuvatI != kzuvatI (pysan)
+     2d (huet) kzuvantI,kzuvatI != kzuvatI (pysan)
+kzodat ppr 1Pf: identical
+kzodat ppr 1Pm: identical
+kzodat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kzodantI,kzodatI != kzodantI (pysan)
+     2d (huet) kzodantI,kzodatI != kzodantI (pysan)
+kzveqat ppr 1Pf: identical
+kzveqat ppr 1Pm: identical
+kzveqat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) kzveqantI,kzveqatI != kzveqantI (pysan)
+     2d (huet) kzveqantI,kzveqatI != kzveqantI (pysan)
+Kaqayat ppr 11Pf: pysan NOT FOUND
+Kaqayat ppr 11Pm: pysan NOT FOUND
+Kaqayat ppr 11Pn: pysan NOT FOUND
+KaRqat ppr 1Pf: pysan NOT FOUND
+KaRqat ppr 1Pm: pysan NOT FOUND
+KaRqat ppr 1Pn: pysan NOT FOUND
+Kanat ppr 1Pf: identical
+Kanat ppr 1Pm: identical
+Kanat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) KanantI,KanatI != KanantI (pysan)
+     2d (huet) KanantI,KanatI != KanantI (pysan)
+KAdat ppr 1Pf: identical
+KAdat ppr 1Pm: identical
+KAdat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) KAdantI,KAdatI != KAdantI (pysan)
+     2d (huet) KAdantI,KAdatI != KAdantI (pysan)
+Kidat ppr 6Pf: pysan NOT FOUND
+Kidat ppr 6Pm: pysan NOT FOUND
+Kidat ppr 6Pn: pysan NOT FOUND
+Kelat ppr 1Pf: identical
+Kelat ppr 1Pm: identical
+Kelat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) KelantI,KelatI != KelantI (pysan)
+     2d (huet) KelantI,KelatI != KelantI (pysan)
+KelAyat ppr 11Pf: pysan NOT FOUND
+KelAyat ppr 11Pm: pysan NOT FOUND
+KelAyat ppr 11Pn: pysan NOT FOUND
+KyAt ppr 2Pf: pysan NOT FOUND
+KyAt ppr 2Pm: identical
+KyAt ppr 2Pn: identical
+gacCat ppr 1Pf: identical
+gacCat ppr 1Pm: identical
+gacCat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) gacCantI,gacCatI != gacCantI (pysan)
+     2d (huet) gacCantI,gacCatI != gacCantI (pysan)
+gajat ppr 1Pf: identical
+gajat ppr 1Pm: identical
+gajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) gajantI,gajatI != gajantI (pysan)
+     2d (huet) gajantI,gajatI != gajantI (pysan)
+gaRayat ppr 10Pf: identical
+gaRayat ppr 10Pm: identical
+gaRayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) gaRayantI,gaRayatI != gaRayantI (pysan)
+     2d (huet) gaRayantI,gaRayatI != gaRayantI (pysan)
+gadat ppr 1Pf: identical
+gadat ppr 1Pm: identical
+gadat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) gadantI,gadatI != gadantI (pysan)
+     2d (huet) gadantI,gadatI != gadantI (pysan)
+gadgadyat ppr 11Pf: pysan NOT FOUND
+gadgadyat ppr 11Pm: pysan NOT FOUND
+gadgadyat ppr 11Pn: pysan NOT FOUND
+garjat ppr 1Pf: identical
+garjat ppr 1Pm: identical
+garjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) garjantI,garjatI != garjantI (pysan)
+     2d (huet) garjantI,garjatI != garjantI (pysan)
+gardat ppr 1Pf: identical
+gardat ppr 1Pm: identical
+gardat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) gardantI,gardatI != gardantI (pysan)
+     2d (huet) gardantI,gardatI != gardantI (pysan)
+garvayat ppr 11Pf: pysan NOT FOUND
+garvayat ppr 11Pm: pysan NOT FOUND
+garvayat ppr 11Pn: pysan NOT FOUND
+garhat ppr 1Pf: identical
+garhat ppr 1Pm: identical
+garhat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) garhantI,garhatI != garhantI (pysan)
+     2d (huet) garhantI,garhatI != garhantI (pysan)
+garhayat ppr 10Pf: identical
+garhayat ppr 10Pm: identical
+garhayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) garhayantI,garhayatI != garhayantI (pysan)
+     2d (huet) garhayantI,garhayatI != garhayantI (pysan)
+galat ppr 1Pf: identical
+galat ppr 1Pm: identical
+galat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) galantI,galatI != galantI (pysan)
+     2d (huet) galantI,galatI != galantI (pysan)
+gavezat ppr 1Pf: pysan NOT FOUND
+gavezat ppr 1Pm: pysan NOT FOUND
+gavezat ppr 1Pn: pysan NOT FOUND
+gavezayat ppr 10Pf: pysan NOT FOUND
+gavezayat ppr 10Pm: pysan NOT FOUND
+gavezayat ppr 10Pn: pysan NOT FOUND
+gavyat ppr 11Pf: pysan NOT FOUND
+gavyat ppr 11Pm: pysan NOT FOUND
+gavyat ppr 11Pn: pysan NOT FOUND
+gAyat ppr 1Pf: identical
+gAyat ppr 1Pm: identical
+gAyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) gAyantI,gAyatI != gAyantI (pysan)
+     2d (huet) gAyantI,gAyatI != gAyantI (pysan)
+girat ppr 6Pf: pysan NOT FOUND
+girat ppr 6Pm: identical
+girat ppr 6Pn: identical
+guYjat ppr 1Pf: identical
+guYjat ppr 1Pm: identical
+guYjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) guYjantI,guYjatI != guYjantI (pysan)
+     2d (huet) guYjantI,guYjatI != guYjantI (pysan)
+gumPat ppr 6Pf: pysan NOT FOUND
+gumPat ppr 6Pm: identical
+gumPat ppr 6Pn: identical
+gUhat ppr 1Pf: identical
+gUhat ppr 1Pm: identical
+gUhat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) gUhantI,gUhatI != gUhantI (pysan)
+     2d (huet) gUhantI,gUhatI != gUhantI (pysan)
+gfRat ppr 9Pf: identical
+gfRat ppr 9Pm: identical
+gfRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) gfRantI,gfRatI != gfRatI (pysan)
+     2d (huet) gfRantI,gfRatI != gfRatI (pysan)
+gfDyat ppr 4Pf: identical
+gfDyat ppr 4Pm: identical
+gfDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) gfDyantI,gfDyatI != gfDyantI (pysan)
+     2d (huet) gfDyantI,gfDyatI != gfDyantI (pysan)
+gfBRat ppr 9Pf: pysan NOT FOUND
+gfBRat ppr 9Pm: pysan NOT FOUND
+gfBRat ppr 9Pn: pysan NOT FOUND
+gfhRat ppr 9Pf: identical
+gfhRat ppr 9Pm: identical
+gfhRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) gfhRantI,gfhRatI != gfhRatI (pysan)
+     2d (huet) gfhRantI,gfhRatI != gfhRatI (pysan)
+gopayat ppr 10Pf: pysan NOT FOUND
+gopayat ppr 10Pm: pysan NOT FOUND
+gopayat ppr 10Pn: pysan NOT FOUND
+gopAyat ppr 11Pf: pysan NOT FOUND
+gopAyat ppr 11Pm: pysan NOT FOUND
+gopAyat ppr 11Pn: pysan NOT FOUND
+gomayat ppr 11Pf: pysan NOT FOUND
+gomayat ppr 11Pm: pysan NOT FOUND
+gomayat ppr 11Pn: pysan NOT FOUND
+graTnat ppr 9Pf: pysan NOT FOUND
+graTnat ppr 9Pm: pysan NOT FOUND
+graTnat ppr 9Pn: pysan NOT FOUND
+grasat ppr 1Pf: identical
+grasat ppr 1Pm: identical
+grasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) grasantI,grasatI != grasantI (pysan)
+     2d (huet) grasantI,grasatI != grasantI (pysan)
+glAyat ppr 1Pf: identical
+glAyat ppr 1Pm: identical
+glAyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) glAyantI,glAyatI != glAyantI (pysan)
+     2d (huet) glAyantI,glAyatI != glAyantI (pysan)
+Gawwayat ppr 10Pf: identical
+Gawwayat ppr 10Pm: identical
+Gawwayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) GawwayantI,GawwayatI != GawwayantI (pysan)
+     2d (huet) GawwayantI,GawwayatI != GawwayantI (pysan)
+Garzat ppr 1Pf: identical
+Garzat ppr 1Pm: identical
+Garzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) GarzantI,GarzatI != GarzantI (pysan)
+     2d (huet) GarzantI,GarzatI != GarzantI (pysan)
+GUrRat ppr 6Pf: pysan NOT FOUND
+GUrRat ppr 6Pm: pysan NOT FOUND
+GUrRat ppr 6Pn: pysan NOT FOUND
+Gozat ppr 1Pf: identical
+Gozat ppr 1Pm: identical
+Gozat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) GozantI,GozatI != GozantI (pysan)
+     2d (huet) GozantI,GozatI != GozantI (pysan)
+Gnat ppr 2Pf: identical
+Gnat ppr 2Pm: identical
+Gnat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) GnantI,GnatI != GnatI (pysan)
+     2d (huet) GnantI,GnatI != GnatI (pysan)
+cakAsat ppr 2Pf: identical
+cakAsat ppr 2Pm: declension differences @ 1s,1d,1p,2s,2d 
+     1s (huet) cakAsan != cakAsat (pysan)
+     1d (huet) cakAsantO != cakAsatO (pysan)
+     1p (huet) cakAsantaH != cakAsataH (pysan)
+     2s (huet) cakAsantam != cakAsatam (pysan)
+     2d (huet) cakAsantO != cakAsatO (pysan)
+cakAsat ppr 2Pn: declension differences @ 1d,1p,2d,2p 
+     1d (huet) cakAsantI,cakAsatI != cakAsatI (pysan)
+     1p (huet) cakAsanti != cakAsanti,cakAsati (pysan)
+     2d (huet) cakAsantI,cakAsatI != cakAsatI (pysan)
+     2p (huet) cakAsanti != cakAsanti,cakAsati (pysan)
+cakzat ppr 2Pf: pysan NOT FOUND
+cakzat ppr 2Pm: pysan NOT FOUND
+cakzat ppr 2Pn: pysan NOT FOUND
+caYcat ppr 1Pf: identical
+caYcat ppr 1Pm: identical
+caYcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) caYcantI,caYcatI != caYcantI (pysan)
+     2d (huet) caYcantI,caYcatI != caYcantI (pysan)
+cawat ppr 1Pf: identical
+cawat ppr 1Pm: identical
+cawat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) cawantI,cawatI != cawantI (pysan)
+     2d (huet) cawantI,cawatI != cawantI (pysan)
+catat ppr 1Pf: identical
+catat ppr 1Pm: identical
+catat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) catantI,catatI != catantI (pysan)
+     2d (huet) catantI,catatI != catantI (pysan)
+candat ppr 1Pf: identical
+candat ppr 1Pm: identical
+candat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) candantI,candatI != candantI (pysan)
+     2d (huet) candantI,candatI != candantI (pysan)
+camat ppr 1Pf: pysan NOT FOUND
+camat ppr 1Pm: pysan NOT FOUND
+camat ppr 1Pn: pysan NOT FOUND
+carat ppr 1Pf: identical
+carat ppr 1Pm: identical
+carat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) carantI,caratI != carantI (pysan)
+     2d (huet) carantI,caratI != carantI (pysan)
+carcayat ppr 11Pf: pysan NOT FOUND
+carcayat ppr 11Pm: pysan NOT FOUND
+carcayat ppr 11Pn: pysan NOT FOUND
+calat ppr 1Pf: identical
+calat ppr 1Pm: identical
+calat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) calantI,calatI != calantI (pysan)
+     2d (huet) calantI,calatI != calantI (pysan)
+cintayat ppr 10Pf: identical
+cintayat ppr 10Pm: identical
+cintayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) cintayantI,cintayatI != cintayantI (pysan)
+     2d (huet) cintayantI,cintayatI != cintayantI (pysan)
+cinvat ppr 5Pf: identical
+cinvat ppr 5Pm: identical
+cinvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) cinvantI,cinvatI != cinvatI (pysan)
+     2d (huet) cinvantI,cinvatI != cinvatI (pysan)
+cumbat ppr 1Pf: identical
+cumbat ppr 1Pm: identical
+cumbat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) cumbantI,cumbatI != cumbantI (pysan)
+     2d (huet) cumbantI,cumbatI != cumbantI (pysan)
+cUrRayat ppr 11Pf: pysan NOT FOUND
+cUrRayat ppr 11Pm: pysan NOT FOUND
+cUrRayat ppr 11Pn: pysan NOT FOUND
+cUzat ppr 1Pf: identical
+cUzat ppr 1Pm: identical
+cUzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) cUzantI,cUzatI != cUzantI (pysan)
+     2d (huet) cUzantI,cUzatI != cUzantI (pysan)
+cetat ppr 1Pf: identical
+cetat ppr 1Pm: identical
+cetat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) cetantI,cetatI != cetantI (pysan)
+     2d (huet) cetantI,cetatI != cetantI (pysan)
+cezwat ppr 1Pf: identical
+cezwat ppr 1Pm: identical
+cezwat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) cezwantI,cezwatI != cezwantI (pysan)
+     2d (huet) cezwantI,cezwatI != cezwantI (pysan)
+codat ppr 1Pf: identical
+codat ppr 1Pm: identical
+codat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) codantI,codatI != codantI (pysan)
+     2d (huet) codantI,codatI != codantI (pysan)
+corat ppr 1Pf: pysan NOT FOUND
+corat ppr 1Pm: pysan NOT FOUND
+corat ppr 1Pn: pysan NOT FOUND
+corayat ppr 10Pf: identical
+corayat ppr 10Pm: identical
+corayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) corayantI,corayatI != corayantI (pysan)
+     2d (huet) corayantI,corayatI != corayantI (pysan)
+Cadat ppr 1Pf: identical
+Cadat ppr 1Pm: identical
+Cadat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) CadantI,CadatI != CadantI (pysan)
+     2d (huet) CadantI,CadatI != CadantI (pysan)
+Candat ppr 1Pf: pysan NOT FOUND
+Candat ppr 1Pm: pysan NOT FOUND
+Candat ppr 1Pn: pysan NOT FOUND
+Calayat ppr 11Pf: pysan NOT FOUND
+Calayat ppr 11Pm: pysan NOT FOUND
+Calayat ppr 11Pn: pysan NOT FOUND
+Cidrayat ppr 11Pf: pysan NOT FOUND
+Cidrayat ppr 11Pm: pysan NOT FOUND
+Cidrayat ppr 11Pn: pysan NOT FOUND
+Cindat ppr 7Pf: identical
+Cindat ppr 7Pm: identical
+Cindat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) CindantI,CindatI != CindatI (pysan)
+     2d (huet) CindantI,CindatI != CindatI (pysan)
+jakzat ppr 1Pf: pysan NOT FOUND
+jakzat ppr 1Pm: pysan NOT FOUND
+jakzat ppr 1Pn: pysan NOT FOUND
+jakzat ppr 2Pf: identical
+jakzat ppr 2Pm: declension differences @ 1s,1d,1p,2s,2d 
+     1s (huet) jakzan != jakzat (pysan)
+     1d (huet) jakzantO != jakzatO (pysan)
+     1p (huet) jakzantaH != jakzataH (pysan)
+     2s (huet) jakzantam != jakzatam (pysan)
+     2d (huet) jakzantO != jakzatO (pysan)
+jakzat ppr 2Pn: declension differences @ 1d,1p,2d,2p 
+     1d (huet) jakzantI,jakzatI != jakzatI (pysan)
+     1p (huet) jakzanti != jakzanti,jakzati (pysan)
+     2d (huet) jakzantI,jakzatI != jakzatI (pysan)
+     2p (huet) jakzanti != jakzanti,jakzati (pysan)
+janat ppr 1Pf: identical
+janat ppr 1Pm: identical
+janat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) janantI,janatI != janantI (pysan)
+     2d (huet) janantI,janatI != janantI (pysan)
+japat ppr 1Pf: identical
+japat ppr 1Pm: identical
+japat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) japantI,japatI != japantI (pysan)
+     2d (huet) japantI,japatI != japantI (pysan)
+jaBat ppr 1Pf: pysan NOT FOUND
+jaBat ppr 1Pm: pysan NOT FOUND
+jaBat ppr 1Pn: pysan NOT FOUND
+jamat ppr 1Pf: identical
+jamat ppr 1Pm: identical
+jamat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jamantI,jamatI != jamantI (pysan)
+     2d (huet) jamantI,jamatI != jamantI (pysan)
+jayat ppr 1Pf: identical
+jayat ppr 1Pm: identical
+jayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jayantI,jayatI != jayantI (pysan)
+     2d (huet) jayantI,jayatI != jayantI (pysan)
+jarat ppr 1Pf: declension differences @ 1s,1d,1p,2s,2d,2p,3s,3d,3p,4s,4d,4p,5s,5d,5p,6s,6d,6p,7s,7d,7p 
+     1s (huet) jaratI != jarantI (pysan)
+     1d (huet) jaratyO != jarantyO (pysan)
+     1p (huet) jaratyaH != jarantyaH (pysan)
+     2s (huet) jaratIm != jarantIm (pysan)
+     2d (huet) jaratyO != jarantyO (pysan)
+     2p (huet) jaratIH != jarantIH (pysan)
+     3s (huet) jaratyA != jarantyA (pysan)
+     3d (huet) jaratIByAm != jarantIByAm (pysan)
+     3p (huet) jaratIBiH != jarantIBiH (pysan)
+     4s (huet) jaratyE != jarantyE (pysan)
+     4d (huet) jaratIByAm != jarantIByAm (pysan)
+     4p (huet) jaratIByaH != jarantIByaH (pysan)
+     5s (huet) jaratyAH != jarantyAH (pysan)
+     5d (huet) jaratIByAm != jarantIByAm (pysan)
+     5p (huet) jaratIByaH != jarantIByaH (pysan)
+     6s (huet) jaratyAH != jarantyAH (pysan)
+     6d (huet) jaratyoH != jarantyoH (pysan)
+     6p (huet) jaratInAm != jarantInAm (pysan)
+     7s (huet) jaratyAm != jarantyAm (pysan)
+     7d (huet) jaratyoH != jarantyoH (pysan)
+     7p (huet) jaratIzu != jarantIzu (pysan)
+jarat ppr 1Pm: identical
+jarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jarantI,jaratI != jarantI (pysan)
+     2d (huet) jarantI,jaratI != jarantI (pysan)
+jalpat ppr 1Pf: identical
+jalpat ppr 1Pm: identical
+jalpat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jalpantI,jalpatI != jalpantI (pysan)
+     2d (huet) jalpantI,jalpatI != jalpantI (pysan)
+javat ppr 1Pf: pysan NOT FOUND
+javat ppr 1Pm: pysan NOT FOUND
+javat ppr 1Pn: pysan NOT FOUND
+jasyat ppr 4Pf: identical
+jasyat ppr 4Pm: identical
+jasyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) jasyantI,jasyatI != jasyantI (pysan)
+     2d (huet) jasyantI,jasyatI != jasyantI (pysan)
+jahat ppr 3Pf: identical
+jahat ppr 3Pm: identical
+jahat ppr 3Pn: declension differences @ 2s 
+     2s (huet) jahatam != jahat (pysan)
+jAgrat ppr 2Pf: identical
+jAgrat ppr 2Pm: declension differences @ 1s,1d,1p,2s,2d 
+     1s (huet) jAgran != jAgrat (pysan)
+     1d (huet) jAgrantO != jAgratO (pysan)
+     1p (huet) jAgrantaH != jAgrataH (pysan)
+     2s (huet) jAgrantam != jAgratam (pysan)
+     2d (huet) jAgrantO != jAgratO (pysan)
+jAgrat ppr 2Pn: declension differences @ 1d,1p,2d,2p 
+     1d (huet) jAgrantI,jAgratI != jAgratI (pysan)
+     1p (huet) jAgranti != jAgranti,jAgrati (pysan)
+     2d (huet) jAgrantI,jAgratI != jAgratI (pysan)
+     2p (huet) jAgranti != jAgranti,jAgrati (pysan)
+jAnat ppr 9Pf: identical
+jAnat ppr 9Pm: identical
+jAnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) jAnantI,jAnatI != jAnatI (pysan)
+     2d (huet) jAnantI,jAnatI != jAnatI (pysan)
+jAyat ppr 4Pf: identical
+jAyat ppr 4Pm: identical
+jAyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) jAyantI,jAyatI != jAyantI (pysan)
+     2d (huet) jAyantI,jAyatI != jAyantI (pysan)
+jigat ppr 3Pf: pysan NOT FOUND
+jigat ppr 3Pm: pysan NOT FOUND
+jigat ppr 3Pn: pysan NOT FOUND
+jiGfat ppr 3Pf: pysan NOT FOUND
+jiGfat ppr 3Pm: pysan NOT FOUND
+jiGfat ppr 3Pn: pysan NOT FOUND
+jiGrat ppr 1Pf: identical
+jiGrat ppr 1Pm: identical
+jiGrat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jiGrantI,jiGratI != jiGrantI (pysan)
+     2d (huet) jiGrantI,jiGratI != jiGrantI (pysan)
+jinat ppr 9Pf: identical
+jinat ppr 9Pm: identical
+jinat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) jinantI,jinatI != jinatI (pysan)
+     2d (huet) jinantI,jinatI != jinatI (pysan)
+jinvat ppr 1Pf: identical
+jinvat ppr 1Pm: identical
+jinvat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jinvantI,jinvatI != jinvantI (pysan)
+     2d (huet) jinvantI,jinvatI != jinvantI (pysan)
+jihmAyat ppr 11Pf: pysan NOT FOUND
+jihmAyat ppr 11Pm: pysan NOT FOUND
+jihmAyat ppr 11Pn: pysan NOT FOUND
+jihrIat ppr 3Pf: pysan NOT FOUND
+jihrIat ppr 3Pm: pysan NOT FOUND
+jihrIat ppr 3Pn: pysan NOT FOUND
+jIryat ppr 4Pf: declension differences @ 1s,1d,1p,2s,2d,2p,3s,3d,3p,4s,4d,4p,5s,5d,5p,6s,6d,6p,7s,7d,7p 
+     1s (huet) jIryatI != jIryantI (pysan)
+     1d (huet) jIryatyO != jIryantyO (pysan)
+     1p (huet) jIryatyaH != jIryantyaH (pysan)
+     2s (huet) jIryatIm != jIryantIm (pysan)
+     2d (huet) jIryatyO != jIryantyO (pysan)
+     2p (huet) jIryatIH != jIryantIH (pysan)
+     3s (huet) jIryatyA != jIryantyA (pysan)
+     3d (huet) jIryatIByAm != jIryantIByAm (pysan)
+     3p (huet) jIryatIBiH != jIryantIBiH (pysan)
+     4s (huet) jIryatyE != jIryantyE (pysan)
+     4d (huet) jIryatIByAm != jIryantIByAm (pysan)
+     4p (huet) jIryatIByaH != jIryantIByaH (pysan)
+     5s (huet) jIryatyAH != jIryantyAH (pysan)
+     5d (huet) jIryatIByAm != jIryantIByAm (pysan)
+     5p (huet) jIryatIByaH != jIryantIByaH (pysan)
+     6s (huet) jIryatyAH != jIryantyAH (pysan)
+     6d (huet) jIryatyoH != jIryantyoH (pysan)
+     6p (huet) jIryatInAm != jIryantInAm (pysan)
+     7s (huet) jIryatyAm != jIryantyAm (pysan)
+     7d (huet) jIryatyoH != jIryantyoH (pysan)
+     7p (huet) jIryatIzu != jIryantIzu (pysan)
+jIryat ppr 4Pm: identical
+jIryat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) jIryantI,jIryatI != jIryantI (pysan)
+     2d (huet) jIryantI,jIryatI != jIryantI (pysan)
+jIvat ppr 1Pf: identical
+jIvat ppr 1Pm: identical
+jIvat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jIvantI,jIvatI != jIvantI (pysan)
+     2d (huet) jIvantI,jIvatI != jIvantI (pysan)
+juhuat ppr 3Pf: pysan NOT FOUND
+juhuat ppr 3Pm: pysan NOT FOUND
+juhuat ppr 3Pn: pysan NOT FOUND
+jyotat ppr 1Pf: pysan NOT FOUND
+jyotat ppr 1Pm: pysan NOT FOUND
+jyotat ppr 1Pn: pysan NOT FOUND
+jvarat ppr 1Pf: pysan NOT FOUND
+jvarat ppr 1Pm: pysan NOT FOUND
+jvarat ppr 1Pn: pysan NOT FOUND
+jvalat ppr 1Pf: identical
+jvalat ppr 1Pm: identical
+jvalat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) jvalantI,jvalatI != jvalantI (pysan)
+     2d (huet) jvalantI,jvalatI != jvalantI (pysan)
+qambayat ppr 10Pf: identical
+qambayat ppr 10Pm: identical
+qambayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) qambayantI,qambayatI != qambayantI (pysan)
+     2d (huet) qambayantI,qambayatI != qambayantI (pysan)
+takat ppr 2Pf: identical
+takat ppr 2Pm: identical
+takat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) takantI,takatI != takatI (pysan)
+     2d (huet) takantI,takatI != takatI (pysan)
+takzat ppr 1Pf: identical
+takzat ppr 1Pm: identical
+takzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) takzantI,takzatI != takzantI (pysan)
+     2d (huet) takzantI,takzatI != takzantI (pysan)
+taNkat ppr 7Pf: pysan NOT FOUND
+taNkat ppr 7Pm: pysan NOT FOUND
+taNkat ppr 7Pn: pysan NOT FOUND
+taYcat ppr 7Pf: identical
+taYcat ppr 7Pm: identical
+taYcat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) taYcantI,taYcatI != taYcatI (pysan)
+     2d (huet) taYcantI,taYcatI != taYcatI (pysan)
+tantrayat ppr 11Pf: pysan NOT FOUND
+tantrayat ppr 11Pm: pysan NOT FOUND
+tantrayat ppr 11Pn: pysan NOT FOUND
+tanyat ppr 4Pf: identical
+tanyat ppr 4Pm: identical
+tanyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) tanyantI,tanyatI != tanyantI (pysan)
+     2d (huet) tanyantI,tanyatI != tanyantI (pysan)
+tanvat ppr 5Pf: pysan NOT FOUND
+tanvat ppr 5Pm: pysan NOT FOUND
+tanvat ppr 5Pn: pysan NOT FOUND
+tapat ppr 1Pf: identical
+tapat ppr 1Pm: identical
+tapat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tapantI,tapatI != tapantI (pysan)
+     2d (huet) tapantI,tapatI != tapantI (pysan)
+tapasyat ppr 11Pf: pysan NOT FOUND
+tapasyat ppr 11Pm: pysan NOT FOUND
+tapasyat ppr 11Pn: pysan NOT FOUND
+taraNgayat ppr 11Pf: pysan NOT FOUND
+taraNgayat ppr 11Pm: pysan NOT FOUND
+taraNgayat ppr 11Pn: pysan NOT FOUND
+tarat ppr 1Pf: identical
+tarat ppr 1Pm: identical
+tarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tarantI,taratI != tarantI (pysan)
+     2d (huet) tarantI,taratI != tarantI (pysan)
+taruRayat ppr 11Pf: pysan NOT FOUND
+taruRayat ppr 11Pm: pysan NOT FOUND
+taruRayat ppr 11Pn: pysan NOT FOUND
+tarkayat ppr 10Pf: identical
+tarkayat ppr 10Pm: identical
+tarkayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) tarkayantI,tarkayatI != tarkayantI (pysan)
+     2d (huet) tarkayantI,tarkayatI != tarkayantI (pysan)
+tarjat ppr 1Pf: identical
+tarjat ppr 1Pm: identical
+tarjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tarjantI,tarjatI != tarjantI (pysan)
+     2d (huet) tarjantI,tarjatI != tarjantI (pysan)
+tavizIyat ppr 11Pf: pysan NOT FOUND
+tavizIyat ppr 11Pm: pysan NOT FOUND
+tavizIyat ppr 11Pn: pysan NOT FOUND
+tAmyat ppr 4Pf: identical
+tAmyat ppr 4Pm: identical
+tAmyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) tAmyantI,tAmyatI != tAmyantI (pysan)
+     2d (huet) tAmyantI,tAmyatI != tAmyantI (pysan)
+tirat ppr 1Pf: pysan NOT FOUND
+tirat ppr 1Pm: pysan NOT FOUND
+tirat ppr 1Pn: pysan NOT FOUND
+tirasyat ppr 11Pf: pysan NOT FOUND
+tirasyat ppr 11Pm: pysan NOT FOUND
+tirasyat ppr 11Pn: pysan NOT FOUND
+tizWat ppr 1Pf: identical
+tizWat ppr 1Pm: identical
+tizWat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tizWantI,tizWatI != tizWantI (pysan)
+     2d (huet) tizWantI,tizWatI != tizWantI (pysan)
+tudat ppr 6Pf: pysan NOT FOUND
+tudat ppr 6Pm: identical
+tudat ppr 6Pn: identical
+tupat ppr 6Pf: pysan NOT FOUND
+tupat ppr 6Pm: identical
+tupat ppr 6Pn: identical
+tulayat ppr 10Pf: pysan NOT FOUND
+tulayat ppr 10Pm: pysan NOT FOUND
+tulayat ppr 10Pn: pysan NOT FOUND
+tuzyat ppr 4Pf: identical
+tuzyat ppr 4Pm: identical
+tuzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) tuzyantI,tuzyatI != tuzyantI (pysan)
+     2d (huet) tuzyantI,tuzyatI != tuzyantI (pysan)
+tuhinayat ppr 11Pf: pysan NOT FOUND
+tuhinayat ppr 11Pm: pysan NOT FOUND
+tuhinayat ppr 11Pn: pysan NOT FOUND
+tfndat ppr 7Pf: identical
+tfndat ppr 7Pm: identical
+tfndat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) tfndantI,tfndatI != tfndatI (pysan)
+     2d (huet) tfndantI,tfndatI != tfndatI (pysan)
+tfpyat ppr 4Pf: identical
+tfpyat ppr 4Pm: identical
+tfpyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) tfpyantI,tfpyatI != tfpyantI (pysan)
+     2d (huet) tfpyantI,tfpyatI != tfpyantI (pysan)
+tfzyat ppr 4Pf: identical
+tfzyat ppr 4Pm: identical
+tfzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) tfzyantI,tfzyatI != tfzyantI (pysan)
+     2d (huet) tfzyantI,tfzyatI != tfzyantI (pysan)
+topat ppr 1Pf: identical
+topat ppr 1Pm: identical
+topat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) topantI,topatI != topantI (pysan)
+     2d (huet) topantI,topatI != topantI (pysan)
+tolayat ppr 10Pf: identical
+tolayat ppr 10Pm: identical
+tolayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) tolayantI,tolayatI != tolayantI (pysan)
+     2d (huet) tolayantI,tolayatI != tolayantI (pysan)
+tyajat ppr 1Pf: identical
+tyajat ppr 1Pm: identical
+tyajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tyajantI,tyajatI != tyajantI (pysan)
+     2d (huet) tyajantI,tyajatI != tyajantI (pysan)
+trasyat ppr 4Pf: pysan NOT FOUND
+trasyat ppr 4Pm: pysan NOT FOUND
+trasyat ppr 4Pn: pysan NOT FOUND
+truwat ppr 6Pf: pysan NOT FOUND
+truwat ppr 6Pm: identical
+truwat ppr 6Pn: identical
+tvakzat ppr 1Pf: identical
+tvakzat ppr 1Pm: identical
+tvakzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tvakzantI,tvakzatI != tvakzantI (pysan)
+     2d (huet) tvakzantI,tvakzatI != tvakzantI (pysan)
+tvezat ppr 1Pf: identical
+tvezat ppr 1Pm: identical
+tvezat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tvezantI,tvezatI != tvezantI (pysan)
+     2d (huet) tvezantI,tvezatI != tvezantI (pysan)
+tsarat ppr 1Pf: identical
+tsarat ppr 1Pm: identical
+tsarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) tsarantI,tsaratI != tsarantI (pysan)
+     2d (huet) tsarantI,tsaratI != tsarantI (pysan)
+daGnuvat ppr 5Pf: identical
+daGnuvat ppr 5Pm: identical
+daGnuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) daGnuvantI,daGnuvatI != daGnuvatI (pysan)
+     2d (huet) daGnuvantI,daGnuvatI != daGnuvatI (pysan)
+daRqayat ppr 11Pf: pysan NOT FOUND
+daRqayat ppr 11Pm: pysan NOT FOUND
+daRqayat ppr 11Pn: pysan NOT FOUND
+dadat ppr 1Pf: identical
+dadat ppr 1Pm: identical
+dadat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dadantI,dadatI != dadantI (pysan)
+     2d (huet) dadantI,dadatI != dadantI (pysan)
+dadat ppr 3Pf: identical
+dadat ppr 3Pm: identical
+dadat ppr 3Pn: declension differences @ 2s 
+     2s (huet) dadatam != dadat (pysan)
+daDat ppr 1Pf: pysan NOT FOUND
+daDat ppr 1Pm: pysan NOT FOUND
+daDat ppr 1Pn: pysan NOT FOUND
+daDat ppr 3Pf: identical
+daDat ppr 3Pm: identical
+daDat ppr 3Pn: declension differences @ 2s 
+     2s (huet) daDatam != daDat (pysan)
+daBat ppr 1Pf: identical
+daBat ppr 1Pm: identical
+daBat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) daBantI,daBatI != daBantI (pysan)
+     2d (huet) daBantI,daBatI != daBantI (pysan)
+dalat ppr 1Pf: identical
+dalat ppr 1Pm: identical
+dalat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dalantI,dalatI != dalantI (pysan)
+     2d (huet) dalantI,dalatI != dalantI (pysan)
+daSat ppr 1Pf: identical
+daSat ppr 1Pm: identical
+daSat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) daSantI,daSatI != daSantI (pysan)
+     2d (huet) daSantI,daSatI != daSantI (pysan)
+dasyat ppr 4Pf: identical
+dasyat ppr 4Pm: identical
+dasyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) dasyantI,dasyatI != dasyantI (pysan)
+     2d (huet) dasyantI,dasyatI != dasyantI (pysan)
+dahat ppr 1Pf: identical
+dahat ppr 1Pm: identical
+dahat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dahantI,dahatI != dahantI (pysan)
+     2d (huet) dahantI,dahatI != dahantI (pysan)
+dahyat ppr 4Pf: pysan NOT FOUND
+dahyat ppr 4Pm: pysan NOT FOUND
+dahyat ppr 4Pn: pysan NOT FOUND
+dAt ppr 2Pf: pysan NOT FOUND
+dAt ppr 2Pm: pysan NOT FOUND
+dAt ppr 2Pn: pysan NOT FOUND
+dAmyat ppr 4Pf: identical
+dAmyat ppr 4Pm: identical
+dAmyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) dAmyantI,dAmyatI != dAmyantI (pysan)
+     2d (huet) dAmyantI,dAmyatI != dAmyantI (pysan)
+dAyat ppr 1Pf: identical
+dAyat ppr 1Pm: identical
+dAyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dAyantI,dAyatI != dAyantI (pysan)
+     2d (huet) dAyantI,dAyatI != dAyantI (pysan)
+dASat ppr 1Pf: identical
+dASat ppr 1Pm: identical
+dASat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dASantI,dASatI != dASantI (pysan)
+     2d (huet) dASantI,dASatI != dASantI (pysan)
+dAsat ppr 1Pf: identical
+dAsat ppr 1Pm: identical
+dAsat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dAsantI,dAsatI != dAsantI (pysan)
+     2d (huet) dAsantI,dAsatI != dAsantI (pysan)
+diSat ppr 6Pf: pysan NOT FOUND
+diSat ppr 6Pm: pysan NOT FOUND
+diSat ppr 6Pn: pysan NOT FOUND
+dihat ppr 2Pf: identical
+dihat ppr 2Pm: identical
+dihat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) dihantI,dihatI != dihatI (pysan)
+     2d (huet) dihantI,dihatI != dihatI (pysan)
+dIvyat ppr 4Pf: identical
+dIvyat ppr 4Pm: identical
+dIvyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) dIvyantI,dIvyatI != dIvyantI (pysan)
+     2d (huet) dIvyantI,dIvyatI != dIvyantI (pysan)
+duHKyat ppr 11Pf: pysan NOT FOUND
+duHKyat ppr 11Pm: pysan NOT FOUND
+duHKyat ppr 11Pn: pysan NOT FOUND
+dunvat ppr 5Pf: identical
+dunvat ppr 5Pm: identical
+dunvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) dunvantI,dunvatI != dunvatI (pysan)
+     2d (huet) dunvantI,dunvatI != dunvatI (pysan)
+duzyat ppr 4Pf: identical
+duzyat ppr 4Pm: identical
+duzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) duzyantI,duzyatI != duzyantI (pysan)
+     2d (huet) duzyantI,duzyatI != duzyantI (pysan)
+duhat ppr 2Pf: identical
+duhat ppr 2Pm: identical
+duhat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) duhantI,duhatI != duhatI (pysan)
+     2d (huet) duhantI,duhatI != duhatI (pysan)
+dfMhat ppr 1Pf: identical
+dfMhat ppr 1Pm: identical
+dfMhat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) dfMhantI,dfMhatI != dfMhantI (pysan)
+     2d (huet) dfMhantI,dfMhatI != dfMhantI (pysan)
+dfRat ppr 9Pf: identical
+dfRat ppr 9Pm: identical
+dfRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) dfRantI,dfRatI != dfRatI (pysan)
+     2d (huet) dfRantI,dfRatI != dfRatI (pysan)
+dfpyat ppr 4Pf: identical
+dfpyat ppr 4Pm: identical
+dfpyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) dfpyantI,dfpyatI != dfpyantI (pysan)
+     2d (huet) dfpyantI,dfpyatI != dfpyantI (pysan)
+dfBat ppr 6Pf: pysan NOT FOUND
+dfBat ppr 6Pm: identical
+dfBat ppr 6Pn: identical
+devat ppr 1Pf: identical
+devat ppr 1Pm: identical
+devat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) devantI,devatI != devantI (pysan)
+     2d (huet) devantI,devatI != devantI (pysan)
+devayat ppr 11Pf: pysan NOT FOUND
+devayat ppr 11Pm: pysan NOT FOUND
+devayat ppr 11Pn: pysan NOT FOUND
+dolayat ppr 11Pf: pysan NOT FOUND
+dolayat ppr 11Pm: pysan NOT FOUND
+dolayat ppr 11Pn: pysan NOT FOUND
+dyotat ppr 1Pf: pysan NOT FOUND
+dyotat ppr 1Pm: pysan NOT FOUND
+dyotat ppr 1Pn: pysan NOT FOUND
+dravat ppr 1Pf: pysan NOT FOUND
+dravat ppr 1Pm: pysan NOT FOUND
+dravat ppr 1Pn: pysan NOT FOUND
+drAt ppr 2Pf: pysan NOT FOUND
+drAt ppr 2Pm: identical
+drAt ppr 2Pn: identical
+drAyat ppr 4Pf: pysan NOT FOUND
+drAyat ppr 4Pm: pysan NOT FOUND
+drAyat ppr 4Pn: pysan NOT FOUND
+druhyat ppr 4Pf: identical
+druhyat ppr 4Pm: identical
+druhyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) druhyantI,druhyatI != druhyantI (pysan)
+     2d (huet) druhyantI,druhyatI != druhyantI (pysan)
+dvizat ppr 2Pf: identical
+dvizat ppr 2Pm: identical
+dvizat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) dvizantI,dvizatI != dvizatI (pysan)
+     2d (huet) dvizantI,dvizatI != dvizatI (pysan)
+DanAyat ppr 11Pf: pysan NOT FOUND
+DanAyat ppr 11Pm: pysan NOT FOUND
+DanAyat ppr 11Pn: pysan NOT FOUND
+DanIyat ppr 11Pf: pysan NOT FOUND
+DanIyat ppr 11Pm: pysan NOT FOUND
+DanIyat ppr 11Pn: pysan NOT FOUND
+Damat ppr 1Pf: identical
+Damat ppr 1Pm: identical
+Damat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DamantI,DamatI != DamantI (pysan)
+     2d (huet) DamantI,DamatI != DamantI (pysan)
+Dayat ppr 4Pf: pysan NOT FOUND
+Dayat ppr 4Pm: pysan NOT FOUND
+Dayat ppr 4Pn: pysan NOT FOUND
+Darat ppr 1Pf: identical
+Darat ppr 1Pm: identical
+Darat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DarantI,DaratI != DarantI (pysan)
+     2d (huet) DarantI,DaratI != DarantI (pysan)
+Darzat ppr 1Pf: identical
+Darzat ppr 1Pm: identical
+Darzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DarzantI,DarzatI != DarzantI (pysan)
+     2d (huet) DarzantI,DarzatI != DarzantI (pysan)
+DAvat ppr 1Pf: identical
+DAvat ppr 1Pm: identical
+DAvat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DAvantI,DAvatI != DAvantI (pysan)
+     2d (huet) DAvantI,DAvatI != DAvantI (pysan)
+DIrayat ppr 11Pf: pysan NOT FOUND
+DIrayat ppr 11Pm: pysan NOT FOUND
+DIrayat ppr 11Pn: pysan NOT FOUND
+Dunvat ppr 5Pf: identical
+Dunvat ppr 5Pm: identical
+Dunvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) DunvantI,DunvatI != DunvatI (pysan)
+     2d (huet) DunvantI,DunvatI != DunvatI (pysan)
+DfzRuvat ppr 5Pf: identical
+DfzRuvat ppr 5Pm: identical
+DfzRuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) DfzRuvantI,DfzRuvatI != DfzRuvatI (pysan)
+     2d (huet) DfzRuvantI,DfzRuvatI != DfzRuvatI (pysan)
+DyAt ppr 2Pf: pysan NOT FOUND
+DyAt ppr 2Pm: pysan NOT FOUND
+DyAt ppr 2Pn: pysan NOT FOUND
+DyAyat ppr 1Pf: identical
+DyAyat ppr 1Pm: identical
+DyAyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DyAyantI,DyAyatI != DyAyantI (pysan)
+     2d (huet) DyAyantI,DyAyatI != DyAyantI (pysan)
+Druvat ppr 6Pf: pysan NOT FOUND
+Druvat ppr 6Pm: identical
+Druvat ppr 6Pn: identical
+DvaMsat ppr 1Pf: identical
+DvaMsat ppr 1Pm: identical
+DvaMsat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DvaMsantI,DvaMsatI != DvaMsantI (pysan)
+     2d (huet) DvaMsantI,DvaMsatI != DvaMsantI (pysan)
+Dvanat ppr 1Pf: identical
+Dvanat ppr 1Pm: identical
+Dvanat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DvanantI,DvanatI != DvanantI (pysan)
+     2d (huet) DvanantI,DvanatI != DvanantI (pysan)
+Dvarat ppr 1Pf: identical
+Dvarat ppr 1Pm: identical
+Dvarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DvarantI,DvaratI != DvarantI (pysan)
+     2d (huet) DvarantI,DvaratI != DvarantI (pysan)
+DvANkzat ppr 1Pf: identical
+DvANkzat ppr 1Pm: identical
+DvANkzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) DvANkzantI,DvANkzatI != DvANkzantI (pysan)
+     2d (huet) DvANkzantI,DvANkzatI != DvANkzantI (pysan)
+nakzat ppr 1Pf: identical
+nakzat ppr 1Pm: identical
+nakzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nakzantI,nakzatI != nakzantI (pysan)
+     2d (huet) nakzantI,nakzatI != nakzantI (pysan)
+nawat ppr 1Pf: identical
+nawat ppr 1Pm: identical
+nawat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nawantI,nawatI != nawantI (pysan)
+     2d (huet) nawantI,nawatI != nawantI (pysan)
+nadat ppr 1Pf: identical
+nadat ppr 1Pm: identical
+nadat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nadantI,nadatI != nadantI (pysan)
+     2d (huet) nadantI,nadatI != nadantI (pysan)
+nandat ppr 1Pf: identical
+nandat ppr 1Pm: identical
+nandat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nandantI,nandatI != nandantI (pysan)
+     2d (huet) nandantI,nandatI != nandantI (pysan)
+namat ppr 1Pf: identical
+namat ppr 1Pm: identical
+namat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) namantI,namatI != namantI (pysan)
+     2d (huet) namantI,namatI != namantI (pysan)
+namasyat ppr 11Pf: pysan NOT FOUND
+namasyat ppr 11Pm: pysan NOT FOUND
+namasyat ppr 11Pn: pysan NOT FOUND
+nayat ppr 1Pf: identical
+nayat ppr 1Pm: identical
+nayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nayantI,nayatI != nayantI (pysan)
+     2d (huet) nayantI,nayatI != nayantI (pysan)
+nardat ppr 1Pf: identical
+nardat ppr 1Pm: identical
+nardat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nardantI,nardatI != nardantI (pysan)
+     2d (huet) nardantI,nardatI != nardantI (pysan)
+naSyat ppr 4Pf: identical
+naSyat ppr 4Pm: identical
+naSyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) naSyantI,naSyatI != naSyantI (pysan)
+     2d (huet) naSyantI,naSyatI != naSyantI (pysan)
+nahyat ppr 4Pf: identical
+nahyat ppr 4Pm: identical
+nahyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) nahyantI,nahyatI != nahyantI (pysan)
+     2d (huet) nahyantI,nahyatI != nahyantI (pysan)
+nATat ppr 1Pf: pysan NOT FOUND
+nATat ppr 1Pm: pysan NOT FOUND
+nATat ppr 1Pn: pysan NOT FOUND
+nAvyat ppr 11Pf: pysan NOT FOUND
+nAvyat ppr 11Pm: pysan NOT FOUND
+nAvyat ppr 11Pn: pysan NOT FOUND
+nindat ppr 1Pf: identical
+nindat ppr 1Pm: identical
+nindat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) nindantI,nindatI != nindantI (pysan)
+     2d (huet) nindantI,nindatI != nindantI (pysan)
+nudat ppr 6Pf: pysan NOT FOUND
+nudat ppr 6Pm: identical
+nudat ppr 6Pn: identical
+nuvat ppr 2Pf: identical
+nuvat ppr 2Pm: identical
+nuvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) nuvantI,nuvatI != nuvatI (pysan)
+     2d (huet) nuvantI,nuvatI != nuvatI (pysan)
+nUtanayat ppr 11Pf: pysan NOT FOUND
+nUtanayat ppr 11Pm: pysan NOT FOUND
+nUtanayat ppr 11Pn: pysan NOT FOUND
+nftyat ppr 4Pf: identical
+nftyat ppr 4Pm: identical
+nftyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) nftyantI,nftyatI != nftyantI (pysan)
+     2d (huet) nftyantI,nftyatI != nftyantI (pysan)
+nenijat ppr 3Pf: pysan NOT FOUND
+nenijat ppr 3Pm: pysan NOT FOUND
+nenijat ppr 3Pn: pysan NOT FOUND
+pacat ppr 1Pf: identical
+pacat ppr 1Pm: identical
+pacat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) pacantI,pacatI != pacantI (pysan)
+     2d (huet) pacantI,pacatI != pacantI (pysan)
+pacyat ppr 4Pf: pysan NOT FOUND
+pacyat ppr 4Pm: pysan NOT FOUND
+pacyat ppr 4Pn: pysan NOT FOUND
+pawat ppr 1Pf: identical
+pawat ppr 1Pm: identical
+pawat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) pawantI,pawatI != pawantI (pysan)
+     2d (huet) pawantI,pawatI != pawantI (pysan)
+pawapawAyat ppr 11Pf: pysan NOT FOUND
+pawapawAyat ppr 11Pm: pysan NOT FOUND
+pawapawAyat ppr 11Pn: pysan NOT FOUND
+paWat ppr 1Pf: identical
+paWat ppr 1Pm: identical
+paWat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) paWantI,paWatI != paWantI (pysan)
+     2d (huet) paWantI,paWatI != paWantI (pysan)
+patat ppr 1Pf: identical
+patat ppr 1Pm: identical
+patat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) patantI,patatI != patantI (pysan)
+     2d (huet) patantI,patatI != patantI (pysan)
+patyat ppr 4Pf: pysan NOT FOUND
+patyat ppr 4Pm: pysan NOT FOUND
+patyat ppr 4Pn: pysan NOT FOUND
+paTat ppr 1Pf: identical
+paTat ppr 1Pm: identical
+paTat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) paTantI,paTatI != paTantI (pysan)
+     2d (huet) paTantI,paTatI != paTantI (pysan)
+payasyat ppr 11Pf: pysan NOT FOUND
+payasyat ppr 11Pm: pysan NOT FOUND
+payasyat ppr 11Pn: pysan NOT FOUND
+parTayat ppr 10Pf: identical
+parTayat ppr 10Pm: identical
+parTayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) parTayantI,parTayatI != parTayantI (pysan)
+     2d (huet) parTayantI,parTayatI != parTayantI (pysan)
+parzat ppr 1Pf: declension differences @ 1s,1d,1p,2s,2d,2p,3s,3d,3p,4s,4d,4p,5s,5d,5p,6s,6d,6p,7s,7d,7p 
+     1s (huet) parzatI != parzantI (pysan)
+     1d (huet) parzatyO != parzantyO (pysan)
+     1p (huet) parzatyaH != parzantyaH (pysan)
+     2s (huet) parzatIm != parzantIm (pysan)
+     2d (huet) parzatyO != parzantyO (pysan)
+     2p (huet) parzatIH != parzantIH (pysan)
+     3s (huet) parzatyA != parzantyA (pysan)
+     3d (huet) parzatIByAm != parzantIByAm (pysan)
+     3p (huet) parzatIBiH != parzantIBiH (pysan)
+     4s (huet) parzatyE != parzantyE (pysan)
+     4d (huet) parzatIByAm != parzantIByAm (pysan)
+     4p (huet) parzatIByaH != parzantIByaH (pysan)
+     5s (huet) parzatyAH != parzantyAH (pysan)
+     5d (huet) parzatIByAm != parzantIByAm (pysan)
+     5p (huet) parzatIByaH != parzantIByaH (pysan)
+     6s (huet) parzatyAH != parzantyAH (pysan)
+     6d (huet) parzatyoH != parzantyoH (pysan)
+     6p (huet) parzatInAm != parzantInAm (pysan)
+     7s (huet) parzatyAm != parzantyAm (pysan)
+     7d (huet) parzatyoH != parzantyoH (pysan)
+     7p (huet) parzatIzu != parzantIzu (pysan)
+parzat ppr 1Pm: identical
+parzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) parzantI,parzatI != parzantI (pysan)
+     2d (huet) parzantI,parzatI != parzantI (pysan)
+palAyat ppr 1Pf: pysan NOT FOUND
+palAyat ppr 1Pm: pysan NOT FOUND
+palAyat ppr 1Pn: pysan NOT FOUND
+pavat ppr 1Pf: pysan NOT FOUND
+pavat ppr 1Pm: pysan NOT FOUND
+pavat ppr 1Pn: pysan NOT FOUND
+pavitrayat ppr 11Pf: pysan NOT FOUND
+pavitrayat ppr 11Pm: pysan NOT FOUND
+pavitrayat ppr 11Pn: pysan NOT FOUND
+paSyat ppr 4Pf: pysan NOT FOUND
+paSyat ppr 4Pm: pysan NOT FOUND
+paSyat ppr 4Pn: pysan NOT FOUND
+pAt ppr 2Pf: pysan NOT FOUND
+pAt ppr 2Pm: identical
+pAt ppr 2Pn: identical
+pASayat ppr 11Pf: pysan NOT FOUND
+pASayat ppr 11Pm: pysan NOT FOUND
+pASayat ppr 11Pn: pysan NOT FOUND
+piMSat ppr 6Pf: pysan NOT FOUND
+piMSat ppr 6Pm: identical
+piMSat ppr 6Pn: identical
+piMzat ppr 7Pf: pysan NOT FOUND
+piMzat ppr 7Pm: pysan NOT FOUND
+piMzat ppr 7Pn: pysan NOT FOUND
+piRqayat ppr 11Pf: pysan NOT FOUND
+piRqayat ppr 11Pm: pysan NOT FOUND
+piRqayat ppr 11Pn: pysan NOT FOUND
+pipfat ppr 3Pf: pysan NOT FOUND
+pipfat ppr 3Pm: pysan NOT FOUND
+pipfat ppr 3Pn: pysan NOT FOUND
+pipFat ppr 3Pf: pysan NOT FOUND
+pipFat ppr 3Pm: pysan NOT FOUND
+pipFat ppr 3Pn: pysan NOT FOUND
+pibat ppr 1Pf: identical
+pibat ppr 1Pm: identical
+pibat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) pibantI,pibatI != pibantI (pysan)
+     2d (huet) pibantI,pibatI != pibantI (pysan)
+piyat ppr 6Pf: pysan NOT FOUND
+piyat ppr 6Pm: identical
+piyat ppr 6Pn: identical
+pIqayat ppr 10Pf: identical
+pIqayat ppr 10Pm: identical
+pIqayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) pIqayantI,pIqayatI != pIqayantI (pysan)
+     2d (huet) pIqayantI,pIqayatI != pIqayantI (pysan)
+putrakAmyat ppr 11Pf: pysan NOT FOUND
+putrakAmyat ppr 11Pm: pysan NOT FOUND
+putrakAmyat ppr 11Pn: pysan NOT FOUND
+putriyat ppr 11Pf: pysan NOT FOUND
+putriyat ppr 11Pm: pysan NOT FOUND
+putriyat ppr 11Pn: pysan NOT FOUND
+putrIyat ppr 11Pf: pysan NOT FOUND
+putrIyat ppr 11Pm: pysan NOT FOUND
+putrIyat ppr 11Pn: pysan NOT FOUND
+puTyat ppr 4Pf: identical
+puTyat ppr 4Pm: identical
+puTyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) puTyantI,puTyatI != puTyantI (pysan)
+     2d (huet) puTyantI,puTyatI != puTyantI (pysan)
+punat ppr 9Pf: identical
+punat ppr 9Pm: identical
+punat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) punantI,punatI != punatI (pysan)
+     2d (huet) punantI,punatI != punatI (pysan)
+pulakayat ppr 11Pf: pysan NOT FOUND
+pulakayat ppr 11Pm: pysan NOT FOUND
+pulakayat ppr 11Pn: pysan NOT FOUND
+puzRat ppr 9Pf: identical
+puzRat ppr 9Pm: identical
+puzRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) puzRantI,puzRatI != puzRatI (pysan)
+     2d (huet) puzRantI,puzRatI != puzRatI (pysan)
+puzpyat ppr 11Pf: pysan NOT FOUND
+puzpyat ppr 11Pm: pysan NOT FOUND
+puzpyat ppr 11Pn: pysan NOT FOUND
+puzyat ppr 4Pf: identical
+puzyat ppr 4Pm: identical
+puzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) puzyantI,puzyatI != puzyantI (pysan)
+     2d (huet) puzyantI,puzyatI != puzyantI (pysan)
+pUjayat ppr 10Pf: identical
+pUjayat ppr 10Pm: identical
+pUjayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) pUjayantI,pUjayatI != pUjayantI (pysan)
+     2d (huet) pUjayantI,pUjayatI != pUjayantI (pysan)
+pUyat ppr 1Pf: identical
+pUyat ppr 1Pm: identical
+pUyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) pUyantI,pUyatI != pUyantI (pysan)
+     2d (huet) pUyantI,pUyatI != pUyantI (pysan)
+pUlat ppr 1Pf: identical
+pUlat ppr 1Pm: identical
+pUlat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) pUlantI,pUlatI != pUlantI (pysan)
+     2d (huet) pUlantI,pUlatI != pUlantI (pysan)
+pUlayat ppr 11Pf: pysan NOT FOUND
+pUlayat ppr 11Pm: pysan NOT FOUND
+pUlayat ppr 11Pn: pysan NOT FOUND
+pfcCat ppr 6Pf: pysan NOT FOUND
+pfcCat ppr 6Pm: pysan NOT FOUND
+pfcCat ppr 6Pn: pysan NOT FOUND
+pfYcat ppr 7Pf: identical
+pfYcat ppr 7Pm: identical
+pfYcat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) pfYcantI,pfYcatI != pfYcatI (pysan)
+     2d (huet) pfYcantI,pfYcatI != pfYcatI (pysan)
+pfRat ppr 6Pf: pysan NOT FOUND
+pfRat ppr 6Pm: identical
+pfRat ppr 6Pn: identical
+pfRat ppr 9Pf: identical
+pfRat ppr 9Pm: identical
+pfRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) pfRantI,pfRatI != pfRatI (pysan)
+     2d (huet) pfRantI,pfRatI != pfRatI (pysan)
+pratikUlayat ppr 11Pf: pysan NOT FOUND
+pratikUlayat ppr 11Pm: pysan NOT FOUND
+pratikUlayat ppr 11Pn: pysan NOT FOUND
+prasAdayat ppr 11Pf: pysan NOT FOUND
+prasAdayat ppr 11Pm: pysan NOT FOUND
+prasAdayat ppr 11Pn: pysan NOT FOUND
+prAt ppr 2Pf: pysan NOT FOUND
+prAt ppr 2Pm: identical
+prAt ppr 2Pn: identical
+prAsAdIyat ppr 11Pf: pysan NOT FOUND
+prAsAdIyat ppr 11Pm: pysan NOT FOUND
+prAsAdIyat ppr 11Pn: pysan NOT FOUND
+prIRat ppr 9Pf: identical
+prIRat ppr 9Pm: identical
+prIRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) prIRantI,prIRatI != prIRatI (pysan)
+     2d (huet) prIRantI,prIRatI != prIRatI (pysan)
+pluzRat ppr 9Pf: identical
+pluzRat ppr 9Pm: identical
+pluzRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) pluzRantI,pluzRatI != pluzRatI (pysan)
+     2d (huet) pluzRantI,pluzRatI != pluzRatI (pysan)
+pluzyat ppr 4Pf: identical
+pluzyat ppr 4Pm: identical
+pluzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) pluzyantI,pluzyatI != pluzyantI (pysan)
+     2d (huet) pluzyantI,pluzyatI != pluzyantI (pysan)
+plozat ppr 1Pf: identical
+plozat ppr 1Pm: identical
+plozat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) plozantI,plozatI != plozantI (pysan)
+     2d (huet) plozantI,plozatI != plozantI (pysan)
+Palat ppr 1Pf: identical
+Palat ppr 1Pm: identical
+Palat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) PalantI,PalatI != PalantI (pysan)
+     2d (huet) PalantI,PalatI != PalantI (pysan)
+Pullat ppr 1Pf: identical
+Pullat ppr 1Pm: identical
+Pullat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) PullantI,PullatI != PullantI (pysan)
+     2d (huet) PullantI,PullatI != PullantI (pysan)
+baDnat ppr 9Pf: identical
+baDnat ppr 9Pm: identical
+baDnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) baDnantI,baDnatI != baDnatI (pysan)
+     2d (huet) baDnantI,baDnatI != baDnatI (pysan)
+baBasat ppr 3Pf: identical
+baBasat ppr 3Pm: identical
+baBasat ppr 3Pn: declension differences @ 2s 
+     2s (huet) baBasatam != baBasat (pysan)
+balat ppr 1Pf: identical
+balat ppr 1Pm: identical
+balat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) balantI,balatI != balantI (pysan)
+     2d (huet) balantI,balatI != balantI (pysan)
+biBIat ppr 3Pf: pysan NOT FOUND
+biBIat ppr 3Pm: pysan NOT FOUND
+biBIat ppr 3Pn: pysan NOT FOUND
+biBfat ppr 3Pf: pysan NOT FOUND
+biBfat ppr 3Pm: pysan NOT FOUND
+biBfat ppr 3Pn: pysan NOT FOUND
+bfhat ppr 1Pf: pysan NOT FOUND
+bfhat ppr 1Pm: pysan NOT FOUND
+bfhat ppr 1Pn: pysan NOT FOUND
+bfhat ppr 6Pf: pysan NOT FOUND
+bfhat ppr 6Pm: identical
+bfhat ppr 6Pn: identical
+boDat ppr 1Pf: pysan NOT FOUND
+boDat ppr 1Pm: pysan NOT FOUND
+boDat ppr 1Pn: pysan NOT FOUND
+bruvat ppr 2Pf: identical
+bruvat ppr 2Pm: identical
+bruvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) bruvantI,bruvatI != bruvatI (pysan)
+     2d (huet) bruvantI,bruvatI != bruvatI (pysan)
+bruvat ppr 6Pf: pysan NOT FOUND
+bruvat ppr 6Pm: pysan NOT FOUND
+bruvat ppr 6Pn: pysan NOT FOUND
+Bakzat ppr 1Pf: identical
+Bakzat ppr 1Pm: identical
+Bakzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BakzantI,BakzatI != BakzantI (pysan)
+     2d (huet) BakzantI,BakzatI != BakzantI (pysan)
+Bajat ppr 1Pf: identical
+Bajat ppr 1Pm: identical
+Bajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BajantI,BajatI != BajantI (pysan)
+     2d (huet) BajantI,BajatI != BajantI (pysan)
+BaYjat ppr 7Pf: identical
+BaYjat ppr 7Pm: identical
+BaYjat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) BaYjantI,BaYjatI != BaYjatI (pysan)
+     2d (huet) BaYjantI,BaYjatI != BaYjatI (pysan)
+BaRat ppr 1Pf: identical
+BaRat ppr 1Pm: identical
+BaRat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BaRantI,BaRatI != BaRantI (pysan)
+     2d (huet) BaRantI,BaRatI != BaRantI (pysan)
+BaRqat ppr 1Pf: pysan NOT FOUND
+BaRqat ppr 1Pm: pysan NOT FOUND
+BaRqat ppr 1Pn: pysan NOT FOUND
+Barat ppr 1Pf: identical
+Barat ppr 1Pm: identical
+Barat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BarantI,BaratI != BarantI (pysan)
+     2d (huet) BarantI,BaratI != BarantI (pysan)
+Bartsayat ppr 10Pf: pysan NOT FOUND
+Bartsayat ppr 10Pm: pysan NOT FOUND
+Bartsayat ppr 10Pn: pysan NOT FOUND
+Bavat ppr 1Pf: identical
+Bavat ppr 1Pm: identical
+Bavat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BavantI,BavatI != BavantI (pysan)
+     2d (huet) BavantI,BavatI != BavantI (pysan)
+Bazat ppr 1Pf: identical
+Bazat ppr 1Pm: identical
+Bazat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BazantI,BazatI != BazantI (pysan)
+     2d (huet) BazantI,BazatI != BazantI (pysan)
+BAt ppr 2Pf: pysan NOT FOUND
+BAt ppr 2Pm: identical
+BAt ppr 2Pn: identical
+BAsat ppr 1Pf: pysan NOT FOUND
+BAsat ppr 1Pm: pysan NOT FOUND
+BAsat ppr 1Pn: pysan NOT FOUND
+Bindat ppr 7Pf: identical
+Bindat ppr 7Pm: identical
+Bindat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) BindantI,BindatI != BindatI (pysan)
+     2d (huet) BindantI,BindatI != BindatI (pysan)
+Bizajyat ppr 11Pf: pysan NOT FOUND
+Bizajyat ppr 11Pm: pysan NOT FOUND
+Bizajyat ppr 11Pn: pysan NOT FOUND
+Bujat ppr 6Pf: pysan NOT FOUND
+Bujat ppr 6Pm: identical
+Bujat ppr 6Pn: identical
+BuYjat ppr 7Pf: identical
+BuYjat ppr 7Pm: identical
+BuYjat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) BuYjantI,BuYjatI != BuYjatI (pysan)
+     2d (huet) BuYjantI,BuYjatI != BuYjatI (pysan)
+BUzat ppr 1Pf: identical
+BUzat ppr 1Pm: identical
+BUzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BUzantI,BUzatI != BUzantI (pysan)
+     2d (huet) BUzantI,BUzatI != BUzantI (pysan)
+Bfjjat ppr 6Pf: pysan NOT FOUND
+Bfjjat ppr 6Pm: pysan NOT FOUND
+Bfjjat ppr 6Pn: pysan NOT FOUND
+Bramat ppr 1Pf: identical
+Bramat ppr 1Pm: identical
+Bramat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) BramantI,BramatI != BramantI (pysan)
+     2d (huet) BramantI,BramatI != BramantI (pysan)
+BraSyat ppr 4Pf: identical
+BraSyat ppr 4Pm: identical
+BraSyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) BraSyantI,BraSyatI != BraSyantI (pysan)
+     2d (huet) BraSyantI,BraSyatI != BraSyantI (pysan)
+BrAmyat ppr 4Pf: identical
+BrAmyat ppr 4Pm: identical
+BrAmyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) BrAmyantI,BrAmyatI != BrAmyantI (pysan)
+     2d (huet) BrAmyantI,BrAmyatI != BrAmyantI (pysan)
+majjat ppr 6Pf: pysan NOT FOUND
+majjat ppr 6Pm: identical
+majjat ppr 6Pn: identical
+maRqat ppr 1Pf: identical
+maRqat ppr 1Pm: identical
+maRqat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) maRqantI,maRqatI != maRqantI (pysan)
+     2d (huet) maRqantI,maRqatI != maRqantI (pysan)
+maTat ppr 1Pf: identical
+maTat ppr 1Pm: identical
+maTat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) maTantI,maTatI != maTantI (pysan)
+     2d (huet) maTantI,maTatI != maTantI (pysan)
+maDusyat ppr 11Pf: pysan NOT FOUND
+maDusyat ppr 11Pm: pysan NOT FOUND
+maDusyat ppr 11Pn: pysan NOT FOUND
+maDvasyat ppr 11Pf: pysan NOT FOUND
+maDvasyat ppr 11Pm: pysan NOT FOUND
+maDvasyat ppr 11Pn: pysan NOT FOUND
+manat ppr 1Pf: identical
+manat ppr 1Pm: identical
+manat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) manantI,manatI != manantI (pysan)
+     2d (huet) manantI,manatI != manantI (pysan)
+mantUyat ppr 11Pf: pysan NOT FOUND
+mantUyat ppr 11Pm: pysan NOT FOUND
+mantUyat ppr 11Pn: pysan NOT FOUND
+mantrayat ppr 11Pf: pysan NOT FOUND
+mantrayat ppr 11Pm: pysan NOT FOUND
+mantrayat ppr 11Pn: pysan NOT FOUND
+manTat ppr 1Pf: identical
+manTat ppr 1Pm: identical
+manTat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) manTantI,manTatI != manTantI (pysan)
+     2d (huet) manTantI,manTatI != manTantI (pysan)
+manyat ppr 4Pf: pysan NOT FOUND
+manyat ppr 4Pm: pysan NOT FOUND
+manyat ppr 4Pn: pysan NOT FOUND
+mayat ppr 1Pf: identical
+mayat ppr 1Pm: identical
+mayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) mayantI,mayatI != mayantI (pysan)
+     2d (huet) mayantI,mayatI != mayantI (pysan)
+mardat ppr 1Pf: pysan NOT FOUND
+mardat ppr 1Pm: pysan NOT FOUND
+mardat ppr 1Pn: pysan NOT FOUND
+marDat ppr 1Pf: identical
+marDat ppr 1Pm: identical
+marDat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) marDantI,marDatI != marDantI (pysan)
+     2d (huet) marDantI,marDatI != marDantI (pysan)
+malinayat ppr 11Pf: pysan NOT FOUND
+malinayat ppr 11Pm: pysan NOT FOUND
+malinayat ppr 11Pn: pysan NOT FOUND
+mAMsIyat ppr 11Pf: pysan NOT FOUND
+mAMsIyat ppr 11Pm: pysan NOT FOUND
+mAMsIyat ppr 11Pn: pysan NOT FOUND
+mAt ppr 2Pf: pysan NOT FOUND
+mAt ppr 2Pm: identical
+mAt ppr 2Pn: identical
+mAdyat ppr 4Pf: identical
+mAdyat ppr 4Pm: identical
+mAdyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) mAdyantI,mAdyatI != mAdyantI (pysan)
+     2d (huet) mAdyantI,mAdyatI != mAdyantI (pysan)
+mArgayat ppr 10Pf: identical
+mArgayat ppr 10Pm: identical
+mArgayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) mArgayantI,mArgayatI != mArgayantI (pysan)
+     2d (huet) mArgayantI,mArgayatI != mArgayantI (pysan)
+mArjat ppr 1Pf: pysan NOT FOUND
+mArjat ppr 1Pm: pysan NOT FOUND
+mArjat ppr 1Pn: pysan NOT FOUND
+mArjat ppr 2Pf: identical
+mArjat ppr 2Pm: identical
+mArjat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) mArjantI,mArjatI != mArjatI (pysan)
+     2d (huet) mArjantI,mArjatI != mArjatI (pysan)
+mAlayat ppr 11Pf: pysan NOT FOUND
+mAlayat ppr 11Pm: pysan NOT FOUND
+mAlayat ppr 11Pn: pysan NOT FOUND
+mindayat ppr 10Pf: pysan NOT FOUND
+mindayat ppr 10Pm: pysan NOT FOUND
+mindayat ppr 10Pn: pysan NOT FOUND
+minvat ppr 5Pf: identical
+minvat ppr 5Pm: identical
+minvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) minvantI,minvatI != minvatI (pysan)
+     2d (huet) minvantI,minvatI != minvatI (pysan)
+mimAat ppr 3Pf: pysan NOT FOUND
+mimAat ppr 3Pm: pysan NOT FOUND
+mimAat ppr 3Pn: pysan NOT FOUND
+milat ppr 6Pf: pysan NOT FOUND
+milat ppr 6Pm: identical
+milat ppr 6Pn: identical
+miSrayat ppr 11Pf: pysan NOT FOUND
+miSrayat ppr 11Pm: pysan NOT FOUND
+miSrayat ppr 11Pn: pysan NOT FOUND
+mizat ppr 6Pf: pysan NOT FOUND
+mizat ppr 6Pm: identical
+mizat ppr 6Pn: identical
+mInat ppr 9Pf: pysan NOT FOUND
+mInat ppr 9Pm: pysan NOT FOUND
+mInat ppr 9Pn: pysan NOT FOUND
+mIlat ppr 1Pf: identical
+mIlat ppr 1Pm: identical
+mIlat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) mIlantI,mIlatI != mIlantI (pysan)
+     2d (huet) mIlantI,mIlatI != mIlantI (pysan)
+mukulayat ppr 11Pf: pysan NOT FOUND
+mukulayat ppr 11Pm: pysan NOT FOUND
+mukulayat ppr 11Pn: pysan NOT FOUND
+muKarayat ppr 11Pf: pysan NOT FOUND
+muKarayat ppr 11Pm: pysan NOT FOUND
+muKarayat ppr 11Pn: pysan NOT FOUND
+muYcat ppr 6Pf: pysan NOT FOUND
+muYcat ppr 6Pm: identical
+muYcat ppr 6Pn: identical
+muRqayat ppr 11Pf: pysan NOT FOUND
+muRqayat ppr 11Pm: pysan NOT FOUND
+muRqayat ppr 11Pn: pysan NOT FOUND
+mudrayat ppr 11Pf: pysan NOT FOUND
+mudrayat ppr 11Pm: pysan NOT FOUND
+mudrayat ppr 11Pn: pysan NOT FOUND
+muzRat ppr 9Pf: identical
+muzRat ppr 9Pm: identical
+muzRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) muzRantI,muzRatI != muzRatI (pysan)
+     2d (huet) muzRantI,muzRatI != muzRatI (pysan)
+muhyat ppr 4Pf: identical
+muhyat ppr 4Pm: identical
+muhyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) muhyantI,muhyatI != muhyantI (pysan)
+     2d (huet) muhyantI,muhyatI != muhyantI (pysan)
+mUtrayat ppr 11Pf: pysan NOT FOUND
+mUtrayat ppr 11Pm: pysan NOT FOUND
+mUtrayat ppr 11Pn: pysan NOT FOUND
+mUrCat ppr 1Pf: pysan NOT FOUND
+mUrCat ppr 1Pm: pysan NOT FOUND
+mUrCat ppr 1Pn: pysan NOT FOUND
+mUzat ppr 1Pf: identical
+mUzat ppr 1Pm: identical
+mUzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) mUzantI,mUzatI != mUzantI (pysan)
+     2d (huet) mUzantI,mUzatI != mUzantI (pysan)
+mfgayat ppr 11Pf: pysan NOT FOUND
+mfgayat ppr 11Pm: pysan NOT FOUND
+mfgayat ppr 11Pn: pysan NOT FOUND
+mfjat ppr 2Pf: identical
+mfjat ppr 2Pm: identical
+mfjat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) mfjantI,mfjatI != mfjatI (pysan)
+     2d (huet) mfjantI,mfjatI != mfjatI (pysan)
+mfjat ppr 6Pf: pysan NOT FOUND
+mfjat ppr 6Pm: pysan NOT FOUND
+mfjat ppr 6Pn: pysan NOT FOUND
+mfqat ppr 6Pf: pysan NOT FOUND
+mfqat ppr 6Pm: identical
+mfqat ppr 6Pn: identical
+mfqayat ppr 10Pf: pysan NOT FOUND
+mfqayat ppr 10Pm: pysan NOT FOUND
+mfqayat ppr 10Pn: pysan NOT FOUND
+mfdnat ppr 9Pf: identical
+mfdnat ppr 9Pm: identical
+mfdnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) mfdnantI,mfdnatI != mfdnatI (pysan)
+     2d (huet) mfdnantI,mfdnatI != mfdnatI (pysan)
+mfSat ppr 6Pf: pysan NOT FOUND
+mfSat ppr 6Pm: identical
+mfSat ppr 6Pn: identical
+mfzyat ppr 4Pf: identical
+mfzyat ppr 4Pm: identical
+mfzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) mfzyantI,mfzyatI != mfzyantI (pysan)
+     2d (huet) mfzyantI,mfzyatI != mfzyantI (pysan)
+meTat ppr 1Pf: identical
+meTat ppr 1Pm: identical
+meTat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) meTantI,meTatI != meTantI (pysan)
+     2d (huet) meTantI,meTatI != meTantI (pysan)
+medyat ppr 4Pf: pysan NOT FOUND
+medyat ppr 4Pm: pysan NOT FOUND
+medyat ppr 4Pn: pysan NOT FOUND
+mehat ppr 1Pf: identical
+mehat ppr 1Pm: identical
+mehat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) mehantI,mehatI != mehantI (pysan)
+     2d (huet) mehantI,mehatI != mehantI (pysan)
+mokzayat ppr 10Pf: identical
+mokzayat ppr 10Pm: identical
+mokzayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) mokzayantI,mokzayatI != mokzayantI (pysan)
+     2d (huet) mokzayantI,mokzayatI != mokzayantI (pysan)
+modat ppr 1Pf: pysan NOT FOUND
+modat ppr 1Pm: pysan NOT FOUND
+modat ppr 1Pn: pysan NOT FOUND
+mriyat ppr 6Pf: pysan NOT FOUND
+mriyat ppr 6Pm: pysan NOT FOUND
+mriyat ppr 6Pn: pysan NOT FOUND
+mlAyat ppr 4Pf: pysan NOT FOUND
+mlAyat ppr 4Pm: pysan NOT FOUND
+mlAyat ppr 4Pn: pysan NOT FOUND
+mlecCat ppr 1Pf: pysan NOT FOUND
+mlecCat ppr 1Pm: pysan NOT FOUND
+mlecCat ppr 1Pn: pysan NOT FOUND
+yacCat ppr 1Pf: identical
+yacCat ppr 1Pm: identical
+yacCat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) yacCantI,yacCatI != yacCantI (pysan)
+     2d (huet) yacCantI,yacCatI != yacCantI (pysan)
+yajat ppr 1Pf: identical
+yajat ppr 1Pm: identical
+yajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) yajantI,yajatI != yajantI (pysan)
+     2d (huet) yajantI,yajatI != yajantI (pysan)
+yat ppr 2Pf: identical
+yat ppr 2Pm: identical
+yat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) yantI,yatI != yatI (pysan)
+     2d (huet) yantI,yatI != yatI (pysan)
+yantrayat ppr 11Pf: pysan NOT FOUND
+yantrayat ppr 11Pm: pysan NOT FOUND
+yantrayat ppr 11Pn: pysan NOT FOUND
+yaBat ppr 1Pf: identical
+yaBat ppr 1Pm: identical
+yaBat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) yaBantI,yaBatI != yaBantI (pysan)
+     2d (huet) yaBantI,yaBatI != yaBantI (pysan)
+yasyat ppr 4Pf: identical
+yasyat ppr 4Pm: identical
+yasyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) yasyantI,yasyatI != yasyantI (pysan)
+     2d (huet) yasyantI,yasyatI != yasyantI (pysan)
+yAcat ppr 1Pf: identical
+yAcat ppr 1Pm: identical
+yAcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) yAcantI,yAcatI != yAcantI (pysan)
+     2d (huet) yAcantI,yAcatI != yAcantI (pysan)
+yAt ppr 2Pf: pysan NOT FOUND
+yAt ppr 2Pm: identical
+yAt ppr 2Pn: identical
+yucCat ppr 1Pf: pysan NOT FOUND
+yucCat ppr 1Pm: pysan NOT FOUND
+yucCat ppr 1Pn: pysan NOT FOUND
+yuYjat ppr 7Pf: identical
+yuYjat ppr 7Pm: identical
+yuYjat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) yuYjantI,yuYjatI != yuYjatI (pysan)
+     2d (huet) yuYjantI,yuYjatI != yuYjatI (pysan)
+yuDyat ppr 4Pf: pysan NOT FOUND
+yuDyat ppr 4Pm: pysan NOT FOUND
+yuDyat ppr 4Pn: pysan NOT FOUND
+yuyuat ppr 3Pf: pysan NOT FOUND
+yuyuat ppr 3Pm: pysan NOT FOUND
+yuyuat ppr 3Pn: pysan NOT FOUND
+yuvat ppr 2Pf: identical
+yuvat ppr 2Pm: identical
+yuvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) yuvantI,yuvatI != yuvatI (pysan)
+     2d (huet) yuvantI,yuvatI != yuvatI (pysan)
+yuvat ppr 6Pf: pysan NOT FOUND
+yuvat ppr 6Pm: pysan NOT FOUND
+yuvat ppr 6Pn: pysan NOT FOUND
+raMhat ppr 1Pf: identical
+raMhat ppr 1Pm: identical
+raMhat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) raMhantI,raMhatI != raMhantI (pysan)
+     2d (huet) raMhantI,raMhatI != raMhantI (pysan)
+rakzat ppr 1Pf: identical
+rakzat ppr 1Pm: identical
+rakzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) rakzantI,rakzatI != rakzantI (pysan)
+     2d (huet) rakzantI,rakzatI != rakzantI (pysan)
+racayat ppr 10Pf: identical
+racayat ppr 10Pm: identical
+racayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) racayantI,racayatI != racayantI (pysan)
+     2d (huet) racayantI,racayatI != racayantI (pysan)
+rajat ppr 1Pf: identical
+rajat ppr 1Pm: identical
+rajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) rajantI,rajatI != rajantI (pysan)
+     2d (huet) rajantI,rajatI != rajantI (pysan)
+rajyat ppr 4Pf: identical
+rajyat ppr 4Pm: identical
+rajyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) rajyantI,rajyatI != rajyantI (pysan)
+     2d (huet) rajyantI,rajyatI != rajyantI (pysan)
+raRat ppr 1Pf: identical
+raRat ppr 1Pm: identical
+raRat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) raRantI,raRatI != raRantI (pysan)
+     2d (huet) raRantI,raRatI != raRantI (pysan)
+raRyat ppr 4Pf: identical
+raRyat ppr 4Pm: identical
+raRyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) raRyantI,raRyatI != raRyantI (pysan)
+     2d (huet) raRyantI,raRyatI != raRyantI (pysan)
+raTakAmyat ppr 11Pf: pysan NOT FOUND
+raTakAmyat ppr 11Pm: pysan NOT FOUND
+raTakAmyat ppr 11Pn: pysan NOT FOUND
+radat ppr 1Pf: identical
+radat ppr 1Pm: identical
+radat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) radantI,radatI != radantI (pysan)
+     2d (huet) radantI,radatI != radantI (pysan)
+raDyat ppr 4Pf: identical
+raDyat ppr 4Pm: identical
+raDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) raDyantI,raDyatI != raDyantI (pysan)
+     2d (huet) raDyantI,raDyatI != raDyantI (pysan)
+ramat ppr 1Pf: identical
+ramat ppr 1Pm: identical
+ramat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ramantI,ramatI != ramantI (pysan)
+     2d (huet) ramantI,ramatI != ramantI (pysan)
+rasayat ppr 11Pf: pysan NOT FOUND
+rasayat ppr 11Pm: pysan NOT FOUND
+rasayat ppr 11Pn: pysan NOT FOUND
+rahayat ppr 10Pf: identical
+rahayat ppr 10Pm: identical
+rahayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) rahayantI,rahayatI != rahayantI (pysan)
+     2d (huet) rahayantI,rahayatI != rahayantI (pysan)
+rAjat ppr 1Pf: identical
+rAjat ppr 1Pm: identical
+rAjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) rAjantI,rAjatI != rAjantI (pysan)
+     2d (huet) rAjantI,rAjatI != rAjantI (pysan)
+rAjIyat ppr 11Pf: pysan NOT FOUND
+rAjIyat ppr 11Pm: pysan NOT FOUND
+rAjIyat ppr 11Pn: pysan NOT FOUND
+rAt ppr 2Pf: pysan NOT FOUND
+rAt ppr 2Pm: identical
+rAt ppr 2Pn: identical
+rADnuvat ppr 5Pf: identical
+rADnuvat ppr 5Pm: identical
+rADnuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) rADnuvantI,rADnuvatI != rADnuvatI (pysan)
+     2d (huet) rADnuvantI,rADnuvatI != rADnuvatI (pysan)
+rADyat ppr 4Pf: identical
+rADyat ppr 4Pm: identical
+rADyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) rADyantI,rADyatI != rADyantI (pysan)
+     2d (huet) rADyantI,rADyatI != rADyantI (pysan)
+ricyat ppr 4Pf: pysan NOT FOUND
+ricyat ppr 4Pm: pysan NOT FOUND
+ricyat ppr 4Pn: pysan NOT FOUND
+riYcat ppr 7Pf: identical
+riYcat ppr 7Pm: identical
+riYcat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) riYcantI,riYcatI != riYcatI (pysan)
+     2d (huet) riYcantI,riYcatI != riYcatI (pysan)
+riRat ppr 9Pf: identical
+riRat ppr 9Pm: identical
+riRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) riRantI,riRatI != riRatI (pysan)
+     2d (huet) riRantI,riRatI != riRatI (pysan)
+rizyat ppr 4Pf: identical
+rizyat ppr 4Pm: identical
+rizyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) rizyantI,rizyatI != rizyantI (pysan)
+     2d (huet) rizyantI,rizyatI != rizyantI (pysan)
+rujat ppr 6Pf: pysan NOT FOUND
+rujat ppr 6Pm: identical
+rujat ppr 6Pn: identical
+rudat ppr 2Pf: identical
+rudat ppr 2Pm: identical
+rudat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) rudantI,rudatI != rudatI (pysan)
+     2d (huet) rudantI,rudatI != rudatI (pysan)
+runDat ppr 6Pf: pysan NOT FOUND
+runDat ppr 6Pm: pysan NOT FOUND
+runDat ppr 6Pn: pysan NOT FOUND
+runDat ppr 7Pf: identical
+runDat ppr 7Pm: identical
+runDat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) runDantI,runDatI != runDatI (pysan)
+     2d (huet) runDantI,runDatI != runDatI (pysan)
+ruvat ppr 2Pf: identical
+ruvat ppr 2Pm: identical
+ruvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) ruvantI,ruvatI != ruvatI (pysan)
+     2d (huet) ruvantI,ruvatI != ruvatI (pysan)
+ruzyat ppr 4Pf: identical
+ruzyat ppr 4Pm: identical
+ruzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) ruzyantI,ruzyatI != ruzyantI (pysan)
+     2d (huet) ruzyantI,ruzyatI != ruzyantI (pysan)
+ruhat ppr 6Pf: pysan NOT FOUND
+ruhat ppr 6Pm: pysan NOT FOUND
+ruhat ppr 6Pn: pysan NOT FOUND
+rUkzayat ppr 11Pf: pysan NOT FOUND
+rUkzayat ppr 11Pm: pysan NOT FOUND
+rUkzayat ppr 11Pn: pysan NOT FOUND
+rUpayat ppr 10Pf: identical
+rUpayat ppr 10Pm: identical
+rUpayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) rUpayantI,rUpayatI != rUpayantI (pysan)
+     2d (huet) rUpayantI,rUpayatI != rUpayantI (pysan)
+rodat ppr 1Pf: pysan NOT FOUND
+rodat ppr 1Pm: pysan NOT FOUND
+rodat ppr 1Pn: pysan NOT FOUND
+roDat ppr 1Pf: identical
+roDat ppr 1Pm: identical
+roDat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) roDantI,roDatI != roDantI (pysan)
+     2d (huet) roDantI,roDatI != roDantI (pysan)
+rohat ppr 1Pf: identical
+rohat ppr 1Pm: identical
+rohat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) rohantI,rohatI != rohantI (pysan)
+     2d (huet) rohantI,rohatI != rohantI (pysan)
+lakzayat ppr 10Pf: identical
+lakzayat ppr 10Pm: identical
+lakzayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) lakzayantI,lakzayatI != lakzayantI (pysan)
+     2d (huet) lakzayantI,lakzayatI != lakzayantI (pysan)
+lagat ppr 1Pf: identical
+lagat ppr 1Pm: identical
+lagat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) lagantI,lagatI != lagantI (pysan)
+     2d (huet) lagantI,lagatI != lagantI (pysan)
+laGayat ppr 11Pf: pysan NOT FOUND
+laGayat ppr 11Pm: pysan NOT FOUND
+laGayat ppr 11Pn: pysan NOT FOUND
+laNgat ppr 1Pf: identical
+laNgat ppr 1Pm: identical
+laNgat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) laNgantI,laNgatI != laNgantI (pysan)
+     2d (huet) laNgantI,laNgatI != laNgantI (pysan)
+laNGat ppr 1Pf: identical
+laNGat ppr 1Pm: identical
+laNGat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) laNGantI,laNGatI != laNGantI (pysan)
+     2d (huet) laNGantI,laNGatI != laNGantI (pysan)
+lapat ppr 1Pf: identical
+lapat ppr 1Pm: identical
+lapat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) lapantI,lapatI != lapantI (pysan)
+     2d (huet) lapantI,lapatI != lapantI (pysan)
+laBat ppr 1Pf: pysan NOT FOUND
+laBat ppr 1Pm: pysan NOT FOUND
+laBat ppr 1Pn: pysan NOT FOUND
+lalat ppr 1Pf: identical
+lalat ppr 1Pm: identical
+lalat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) lalantI,lalatI != lalantI (pysan)
+     2d (huet) lalantI,lalatI != lalantI (pysan)
+lavaRasyat ppr 11Pf: pysan NOT FOUND
+lavaRasyat ppr 11Pm: pysan NOT FOUND
+lavaRasyat ppr 11Pn: pysan NOT FOUND
+lazat ppr 1Pf: identical
+lazat ppr 1Pm: identical
+lazat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) lazantI,lazatI != lazantI (pysan)
+     2d (huet) lazantI,lazatI != lazantI (pysan)
+lazyat ppr 4Pf: identical
+lazyat ppr 4Pm: identical
+lazyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) lazyantI,lazyatI != lazyantI (pysan)
+     2d (huet) lazyantI,lazyatI != lazyantI (pysan)
+lasat ppr 1Pf: identical
+lasat ppr 1Pm: identical
+lasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) lasantI,lasatI != lasantI (pysan)
+     2d (huet) lasantI,lasatI != lasantI (pysan)
+lAYCat ppr 1Pf: identical
+lAYCat ppr 1Pm: identical
+lAYCat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) lAYCantI,lAYCatI != lAYCantI (pysan)
+     2d (huet) lAYCantI,lAYCatI != lAYCantI (pysan)
+liKat ppr 6Pf: pysan NOT FOUND
+liKat ppr 6Pm: identical
+liKat ppr 6Pn: identical
+limpat ppr 6Pf: pysan NOT FOUND
+limpat ppr 6Pm: identical
+limpat ppr 6Pn: identical
+liSat ppr 6Pf: pysan NOT FOUND
+liSat ppr 6Pm: identical
+liSat ppr 6Pn: identical
+lihat ppr 2Pf: identical
+lihat ppr 2Pm: identical
+lihat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) lihantI,lihatI != lihatI (pysan)
+     2d (huet) lihantI,lihatI != lihatI (pysan)
+luYcat ppr 1Pf: identical
+luYcat ppr 1Pm: identical
+luYcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) luYcantI,luYcatI != luYcantI (pysan)
+     2d (huet) luYcantI,luYcatI != luYcantI (pysan)
+luWat ppr 6Pf: pysan NOT FOUND
+luWat ppr 6Pm: identical
+luWat ppr 6Pn: identical
+luRWat ppr 1Pf: pysan NOT FOUND
+luRWat ppr 1Pm: pysan NOT FOUND
+luRWat ppr 1Pn: pysan NOT FOUND
+lunat ppr 9Pf: identical
+lunat ppr 9Pm: identical
+lunat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) lunantI,lunatI != lunatI (pysan)
+     2d (huet) lunantI,lunatI != lunatI (pysan)
+luByat ppr 4Pf: identical
+luByat ppr 4Pm: identical
+luByat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) luByantI,luByatI != luByantI (pysan)
+     2d (huet) luByantI,luByatI != luByantI (pysan)
+lumpat ppr 6Pf: pysan NOT FOUND
+lumpat ppr 6Pm: identical
+lumpat ppr 6Pn: identical
+lelAyat ppr 10Pf: pysan NOT FOUND
+lelAyat ppr 10Pm: pysan NOT FOUND
+lelAyat ppr 10Pn: pysan NOT FOUND
+lokayat ppr 10Pf: identical
+lokayat ppr 10Pm: identical
+lokayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) lokayantI,lokayatI != lokayantI (pysan)
+     2d (huet) lokayantI,lokayatI != lokayantI (pysan)
+lolat ppr 1Pf: pysan NOT FOUND
+lolat ppr 1Pm: pysan NOT FOUND
+lolat ppr 1Pn: pysan NOT FOUND
+lohitAyat ppr 11Pf: pysan NOT FOUND
+lohitAyat ppr 11Pm: pysan NOT FOUND
+lohitAyat ppr 11Pn: pysan NOT FOUND
+vacat ppr 2Pf: pysan NOT FOUND
+vacat ppr 2Pm: pysan NOT FOUND
+vacat ppr 2Pn: pysan NOT FOUND
+vaYcat ppr 1Pf: identical
+vaYcat ppr 1Pm: identical
+vaYcat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vaYcantI,vaYcatI != vaYcantI (pysan)
+     2d (huet) vaYcantI,vaYcatI != vaYcantI (pysan)
+vadat ppr 1Pf: identical
+vadat ppr 1Pm: identical
+vadat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vadantI,vadatI != vadantI (pysan)
+     2d (huet) vadantI,vadatI != vadantI (pysan)
+vanat ppr 1Pf: identical
+vanat ppr 1Pm: identical
+vanat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vanantI,vanatI != vanantI (pysan)
+     2d (huet) vanantI,vanatI != vanantI (pysan)
+vanvat ppr 5Pf: pysan NOT FOUND
+vanvat ppr 5Pm: pysan NOT FOUND
+vanvat ppr 5Pn: pysan NOT FOUND
+vapat ppr 1Pf: identical
+vapat ppr 1Pm: identical
+vapat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vapantI,vapatI != vapantI (pysan)
+     2d (huet) vapantI,vapatI != vapantI (pysan)
+vamat ppr 1Pf: identical
+vamat ppr 1Pm: identical
+vamat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vamantI,vamatI != vamantI (pysan)
+     2d (huet) vamantI,vamatI != vamantI (pysan)
+vayat ppr 4Pf: pysan NOT FOUND
+vayat ppr 4Pm: pysan NOT FOUND
+vayat ppr 4Pn: pysan NOT FOUND
+varat ppr 1Pf: identical
+varat ppr 1Pm: identical
+varat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) varantI,varatI != varantI (pysan)
+     2d (huet) varantI,varatI != varantI (pysan)
+varivasyat ppr 11Pf: pysan NOT FOUND
+varivasyat ppr 11Pm: pysan NOT FOUND
+varivasyat ppr 11Pn: pysan NOT FOUND
+varRayat ppr 11Pf: pysan NOT FOUND
+varRayat ppr 11Pm: pysan NOT FOUND
+varRayat ppr 11Pn: pysan NOT FOUND
+varDat ppr 1Pf: pysan NOT FOUND
+varDat ppr 1Pm: pysan NOT FOUND
+varDat ppr 1Pn: pysan NOT FOUND
+varzat ppr 1Pf: identical
+varzat ppr 1Pm: identical
+varzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) varzantI,varzatI != varzantI (pysan)
+     2d (huet) varzantI,varzatI != varzantI (pysan)
+valat ppr 1Pf: pysan NOT FOUND
+valat ppr 1Pm: pysan NOT FOUND
+valat ppr 1Pn: pysan NOT FOUND
+valgat ppr 1Pf: identical
+valgat ppr 1Pm: identical
+valgat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) valgantI,valgatI != valgantI (pysan)
+     2d (huet) valgantI,valgatI != valgantI (pysan)
+valgUyat ppr 11Pf: pysan NOT FOUND
+valgUyat ppr 11Pm: pysan NOT FOUND
+valgUyat ppr 11Pn: pysan NOT FOUND
+vasat ppr 1Pf: identical
+vasat ppr 1Pm: identical
+vasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vasantI,vasatI != vasantI (pysan)
+     2d (huet) vasantI,vasatI != vasantI (pysan)
+vahat ppr 1Pf: identical
+vahat ppr 1Pm: identical
+vahat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vahantI,vahatI != vahantI (pysan)
+     2d (huet) vahantI,vahatI != vahantI (pysan)
+vAcyat ppr 11Pf: pysan NOT FOUND
+vAcyat ppr 11Pm: pysan NOT FOUND
+vAcyat ppr 11Pn: pysan NOT FOUND
+vAYCat ppr 1Pf: identical
+vAYCat ppr 1Pm: identical
+vAYCat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vAYCantI,vAYCatI != vAYCantI (pysan)
+     2d (huet) vAYCantI,vAYCatI != vAYCantI (pysan)
+vAt ppr 2Pf: pysan NOT FOUND
+vAt ppr 2Pm: identical
+vAt ppr 2Pn: identical
+vAsayat ppr 11Pf: pysan NOT FOUND
+vAsayat ppr 11Pm: pysan NOT FOUND
+vAsayat ppr 11Pn: pysan NOT FOUND
+vijat ppr 6Pf: pysan NOT FOUND
+vijat ppr 6Pm: pysan NOT FOUND
+vijat ppr 6Pn: pysan NOT FOUND
+viYcat ppr 7Pf: identical
+viYcat ppr 7Pm: identical
+viYcat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) viYcantI,viYcatI != viYcatI (pysan)
+     2d (huet) viYcantI,viYcatI != viYcatI (pysan)
+vidat ppr 2Pf: identical
+vidat ppr 2Pm: identical
+vidat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) vidantI,vidatI != vidatI (pysan)
+     2d (huet) vidantI,vidatI != vidatI (pysan)
+vidat ppr 6Pf: pysan NOT FOUND
+vidat ppr 6Pm: pysan NOT FOUND
+vidat ppr 6Pn: pysan NOT FOUND
+viDat ppr 6Pf: pysan NOT FOUND
+viDat ppr 6Pm: identical
+viDat ppr 6Pn: identical
+viDyat ppr 4Pf: identical
+viDyat ppr 4Pm: identical
+viDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) viDyantI,viDyatI != viDyantI (pysan)
+     2d (huet) viDyantI,viDyatI != viDyantI (pysan)
+vindat ppr 6Pf: pysan NOT FOUND
+vindat ppr 6Pm: identical
+vindat ppr 6Pn: identical
+viyat ppr 2Pf: identical
+viyat ppr 2Pm: identical
+viyat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) viyantI,viyatI != viyatI (pysan)
+     2d (huet) viyantI,viyatI != viyatI (pysan)
+vivacat ppr 3Pf: pysan NOT FOUND
+vivacat ppr 3Pm: pysan NOT FOUND
+vivacat ppr 3Pn: pysan NOT FOUND
+vivizat ppr 3Pf: identical
+vivizat ppr 3Pm: identical
+vivizat ppr 3Pn: declension differences @ 2s 
+     2s (huet) vivizatam != vivizat (pysan)
+viSat ppr 6Pf: pysan NOT FOUND
+viSat ppr 6Pm: identical
+viSat ppr 6Pn: identical
+viSadayat ppr 11Pf: pysan NOT FOUND
+viSadayat ppr 11Pm: pysan NOT FOUND
+viSadayat ppr 11Pn: pysan NOT FOUND
+vIjat ppr 1Pf: identical
+vIjat ppr 1Pm: identical
+vIjat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vIjantI,vIjatI != vIjantI (pysan)
+     2d (huet) vIjantI,vIjatI != vIjantI (pysan)
+vfYjat ppr 7Pf: identical
+vfYjat ppr 7Pm: identical
+vfYjat ppr 7Pn: declension differences @ 1d,2d 
+     1d (huet) vfYjantI,vfYjatI != vfYjatI (pysan)
+     2d (huet) vfYjantI,vfYjatI != vfYjatI (pysan)
+vfRat ppr 9Pf: identical
+vfRat ppr 9Pm: identical
+vfRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) vfRantI,vfRatI != vfRatI (pysan)
+     2d (huet) vfRantI,vfRatI != vfRatI (pysan)
+vfRvat ppr 5Pf: identical
+vfRvat ppr 5Pm: identical
+vfRvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) vfRvantI,vfRvatI != vfRvatI (pysan)
+     2d (huet) vfRvantI,vfRvatI != vfRvatI (pysan)
+vfScat ppr 6Pf: pysan NOT FOUND
+vfScat ppr 6Pm: identical
+vfScat ppr 6Pn: identical
+vfzasyat ppr 11Pf: pysan NOT FOUND
+vfzasyat ppr 11Pm: pysan NOT FOUND
+vfzasyat ppr 11Pn: pysan NOT FOUND
+vfzIyat ppr 11Pf: pysan NOT FOUND
+vfzIyat ppr 11Pm: pysan NOT FOUND
+vfzIyat ppr 11Pn: pysan NOT FOUND
+vfhat ppr 6Pf: pysan NOT FOUND
+vfhat ppr 6Pm: identical
+vfhat ppr 6Pn: identical
+vedApayat ppr 11Pf: pysan NOT FOUND
+vedApayat ppr 11Pm: pysan NOT FOUND
+vedApayat ppr 11Pn: pysan NOT FOUND
+venat ppr 1Pf: identical
+venat ppr 1Pm: identical
+venat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) venantI,venatI != venantI (pysan)
+     2d (huet) venantI,venatI != venantI (pysan)
+vezat ppr 1Pf: pysan NOT FOUND
+vezat ppr 1Pm: pysan NOT FOUND
+vezat ppr 1Pn: pysan NOT FOUND
+vyaTat ppr 1Pf: pysan NOT FOUND
+vyaTat ppr 1Pm: pysan NOT FOUND
+vyaTat ppr 1Pn: pysan NOT FOUND
+vyayat ppr 1Pf: identical
+vyayat ppr 1Pm: identical
+vyayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) vyayantI,vyayatI != vyayantI (pysan)
+     2d (huet) vyayantI,vyayatI != vyayantI (pysan)
+vrajat ppr 1Pf: pysan NOT FOUND
+vrajat ppr 1Pm: pysan NOT FOUND
+vrajat ppr 1Pn: pysan NOT FOUND
+vraRayat ppr 11Pf: pysan NOT FOUND
+vraRayat ppr 11Pm: pysan NOT FOUND
+vraRayat ppr 11Pn: pysan NOT FOUND
+SaMsat ppr 1Pf: identical
+SaMsat ppr 1Pm: identical
+SaMsat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SaMsantI,SaMsatI != SaMsantI (pysan)
+     2d (huet) SaMsantI,SaMsatI != SaMsantI (pysan)
+Saknuvat ppr 5Pf: identical
+Saknuvat ppr 5Pm: identical
+Saknuvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) SaknuvantI,SaknuvatI != SaknuvatI (pysan)
+     2d (huet) SaknuvantI,SaknuvatI != SaknuvatI (pysan)
+Sakyat ppr 4Pf: pysan NOT FOUND
+Sakyat ppr 4Pm: pysan NOT FOUND
+Sakyat ppr 4Pn: pysan NOT FOUND
+Sapat ppr 1Pf: identical
+Sapat ppr 1Pm: identical
+Sapat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SapantI,SapatI != SapantI (pysan)
+     2d (huet) SapantI,SapatI != SapantI (pysan)
+Sabdayat ppr 11Pf: pysan NOT FOUND
+Sabdayat ppr 11Pm: pysan NOT FOUND
+Sabdayat ppr 11Pn: pysan NOT FOUND
+Samayat ppr 4Pf: pysan NOT FOUND
+Samayat ppr 4Pm: pysan NOT FOUND
+Samayat ppr 4Pn: pysan NOT FOUND
+Salat ppr 1Pf: identical
+Salat ppr 1Pm: identical
+Salat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SalantI,SalatI != SalantI (pysan)
+     2d (huet) SalantI,SalatI != SalantI (pysan)
+SaSat ppr 1Pf: identical
+SaSat ppr 1Pm: identical
+SaSat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SaSantI,SaSatI != SaSantI (pysan)
+     2d (huet) SaSantI,SaSatI != SaSantI (pysan)
+Sasat ppr 1Pf: identical
+Sasat ppr 1Pm: identical
+Sasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SasantI,SasatI != SasantI (pysan)
+     2d (huet) SasantI,SasatI != SasantI (pysan)
+SAntayat ppr 11Pf: pysan NOT FOUND
+SAntayat ppr 11Pm: pysan NOT FOUND
+SAntayat ppr 11Pn: pysan NOT FOUND
+SAmyat ppr 4Pf: identical
+SAmyat ppr 4Pm: identical
+SAmyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) SAmyantI,SAmyatI != SAmyantI (pysan)
+     2d (huet) SAmyantI,SAmyatI != SAmyantI (pysan)
+SAsat ppr 1Pf: pysan NOT FOUND
+SAsat ppr 1Pm: pysan NOT FOUND
+SAsat ppr 1Pn: pysan NOT FOUND
+SiMzat ppr 7Pf: pysan NOT FOUND
+SiMzat ppr 7Pm: pysan NOT FOUND
+SiMzat ppr 7Pn: pysan NOT FOUND
+SiTilayat ppr 11Pf: pysan NOT FOUND
+SiTilayat ppr 11Pm: pysan NOT FOUND
+SiTilayat ppr 11Pn: pysan NOT FOUND
+SiSat ppr 3Pf: pysan NOT FOUND
+SiSat ppr 3Pm: pysan NOT FOUND
+SiSat ppr 3Pn: pysan NOT FOUND
+Sizat ppr 2Pf: pysan NOT FOUND
+Sizat ppr 2Pm: pysan NOT FOUND
+Sizat ppr 2Pn: pysan NOT FOUND
+SIlat ppr 1Pf: identical
+SIlat ppr 1Pm: identical
+SIlat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SIlantI,SIlatI != SIlantI (pysan)
+     2d (huet) SIlantI,SIlatI != SIlantI (pysan)
+SuDyat ppr 4Pf: identical
+SuDyat ppr 4Pm: identical
+SuDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) SuDyantI,SuDyatI != SuDyantI (pysan)
+     2d (huet) SuDyantI,SuDyatI != SuDyantI (pysan)
+SumBat ppr 1Pf: identical
+SumBat ppr 1Pm: identical
+SumBat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SumBantI,SumBatI != SumBantI (pysan)
+     2d (huet) SumBantI,SumBatI != SumBantI (pysan)
+Suzyat ppr 1Pf: pysan NOT FOUND
+Suzyat ppr 1Pm: pysan NOT FOUND
+Suzyat ppr 1Pn: pysan NOT FOUND
+SfRat ppr 9Pf: identical
+SfRat ppr 9Pm: identical
+SfRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) SfRantI,SfRatI != SfRatI (pysan)
+     2d (huet) SfRantI,SfRatI != SfRatI (pysan)
+SfRvat ppr 5Pf: identical
+SfRvat ppr 5Pm: identical
+SfRvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) SfRvantI,SfRvatI != SfRvatI (pysan)
+     2d (huet) SfRvantI,SfRvatI != SfRvatI (pysan)
+Socat ppr 1Pf: identical
+Socat ppr 1Pm: identical
+Socat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SocantI,SocatI != SocantI (pysan)
+     2d (huet) SocantI,SocatI != SocantI (pysan)
+Scotat ppr 1Pf: identical
+Scotat ppr 1Pm: identical
+Scotat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) ScotantI,ScotatI != ScotantI (pysan)
+     2d (huet) ScotantI,ScotatI != ScotantI (pysan)
+Syat ppr 4Pf: pysan NOT FOUND
+Syat ppr 4Pm: pysan NOT FOUND
+Syat ppr 4Pn: pysan NOT FOUND
+SyAyat ppr 1Pf: identical
+SyAyat ppr 1Pm: identical
+SyAyat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SyAyantI,SyAyatI != SyAyantI (pysan)
+     2d (huet) SyAyantI,SyAyatI != SyAyantI (pysan)
+Syenayat ppr 11Pf: pysan NOT FOUND
+Syenayat ppr 11Pm: pysan NOT FOUND
+Syenayat ppr 11Pn: pysan NOT FOUND
+Srayat ppr 1Pf: identical
+Srayat ppr 1Pm: identical
+Srayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SrayantI,SrayatI != SrayantI (pysan)
+     2d (huet) SrayantI,SrayatI != SrayantI (pysan)
+SrAmyat ppr 4Pf: identical
+SrAmyat ppr 4Pm: identical
+SrAmyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) SrAmyantI,SrAmyatI != SrAmyantI (pysan)
+     2d (huet) SrAmyantI,SrAmyatI != SrAmyantI (pysan)
+Slizyat ppr 4Pf: identical
+Slizyat ppr 4Pm: identical
+Slizyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) SlizyantI,SlizyatI != SlizyantI (pysan)
+     2d (huet) SlizyantI,SlizyatI != SlizyantI (pysan)
+Svayat ppr 1Pf: identical
+Svayat ppr 1Pm: identical
+Svayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) SvayantI,SvayatI != SvayantI (pysan)
+     2d (huet) SvayantI,SvayatI != SvayantI (pysan)
+Svasat ppr 2Pf: identical
+Svasat ppr 2Pm: identical
+Svasat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) SvasantI,SvasatI != SvasatI (pysan)
+     2d (huet) SvasantI,SvasatI != SvasatI (pysan)
+zaRQayat ppr 11Pf: pysan NOT FOUND
+zaRQayat ppr 11Pm: pysan NOT FOUND
+zaRQayat ppr 11Pn: pysan NOT FOUND
+zWIvat ppr 1Pf: identical
+zWIvat ppr 1Pm: identical
+zWIvat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) zWIvantI,zWIvatI != zWIvantI (pysan)
+     2d (huet) zWIvantI,zWIvatI != zWIvantI (pysan)
+saKIyat ppr 11Pf: pysan NOT FOUND
+saKIyat ppr 11Pm: pysan NOT FOUND
+saKIyat ppr 11Pn: pysan NOT FOUND
+sajat ppr 1Pf: identical
+sajat ppr 1Pm: identical
+sajat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sajantI,sajatI != sajantI (pysan)
+     2d (huet) sajantI,sajatI != sajantI (pysan)
+sat ppr 2Pf: identical
+sat ppr 2Pm: identical
+sat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) santI,satI != satI (pysan)
+     2d (huet) santI,satI != satI (pysan)
+satyApayat ppr 11Pf: pysan NOT FOUND
+satyApayat ppr 11Pm: pysan NOT FOUND
+satyApayat ppr 11Pn: pysan NOT FOUND
+sanvat ppr 5Pf: pysan NOT FOUND
+sanvat ppr 5Pm: pysan NOT FOUND
+sanvat ppr 5Pn: pysan NOT FOUND
+sapat ppr 1Pf: identical
+sapat ppr 1Pm: identical
+sapat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sapantI,sapatI != sapantI (pysan)
+     2d (huet) sapantI,sapatI != sapantI (pysan)
+sapiRqayat ppr 11Pf: pysan NOT FOUND
+sapiRqayat ppr 11Pm: pysan NOT FOUND
+sapiRqayat ppr 11Pn: pysan NOT FOUND
+saPalayat ppr 11Pf: pysan NOT FOUND
+saPalayat ppr 11Pm: pysan NOT FOUND
+saPalayat ppr 11Pn: pysan NOT FOUND
+samudrAyat ppr 11Pf: pysan NOT FOUND
+samudrAyat ppr 11Pm: pysan NOT FOUND
+samudrAyat ppr 11Pn: pysan NOT FOUND
+sarat ppr 1Pf: identical
+sarat ppr 1Pm: identical
+sarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sarantI,saratI != sarantI (pysan)
+     2d (huet) sarantI,saratI != sarantI (pysan)
+sarpat ppr 1Pf: identical
+sarpat ppr 1Pm: identical
+sarpat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sarpantI,sarpatI != sarpantI (pysan)
+     2d (huet) sarpantI,sarpatI != sarpantI (pysan)
+savat ppr 1Pf: identical
+savat ppr 1Pm: identical
+savat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) savantI,savatI != savantI (pysan)
+     2d (huet) savantI,savatI != savantI (pysan)
+sahat ppr 1Pf: pysan NOT FOUND
+sahat ppr 1Pm: pysan NOT FOUND
+sahat ppr 1Pn: pysan NOT FOUND
+sAntvayat ppr 11Pf: pysan NOT FOUND
+sAntvayat ppr 11Pm: pysan NOT FOUND
+sAntvayat ppr 11Pn: pysan NOT FOUND
+sAvaDAnayat ppr 11Pf: pysan NOT FOUND
+sAvaDAnayat ppr 11Pm: pysan NOT FOUND
+sAvaDAnayat ppr 11Pn: pysan NOT FOUND
+siYcat ppr 6Pf: pysan NOT FOUND
+siYcat ppr 6Pm: identical
+siYcat ppr 6Pn: identical
+siDyat ppr 4Pf: identical
+siDyat ppr 4Pm: identical
+siDyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) siDyantI,siDyatI != siDyantI (pysan)
+     2d (huet) siDyantI,siDyatI != siDyantI (pysan)
+sisfat ppr 3Pf: pysan NOT FOUND
+sisfat ppr 3Pm: pysan NOT FOUND
+sisfat ppr 3Pn: pysan NOT FOUND
+sIdat ppr 1Pf: identical
+sIdat ppr 1Pm: identical
+sIdat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sIdantI,sIdatI != sIdantI (pysan)
+     2d (huet) sIdantI,sIdatI != sIdantI (pysan)
+sIvyat ppr 4Pf: identical
+sIvyat ppr 4Pm: identical
+sIvyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) sIvyantI,sIvyatI != sIvyantI (pysan)
+     2d (huet) sIvyantI,sIvyatI != sIvyantI (pysan)
+suKyat ppr 11Pf: pysan NOT FOUND
+suKyat ppr 11Pm: pysan NOT FOUND
+suKyat ppr 11Pn: pysan NOT FOUND
+sunvat ppr 5Pf: identical
+sunvat ppr 5Pm: identical
+sunvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) sunvantI,sunvatI != sunvatI (pysan)
+     2d (huet) sunvantI,sunvatI != sunvatI (pysan)
+surat ppr 6Pf: pysan NOT FOUND
+surat ppr 6Pm: identical
+surat ppr 6Pn: identical
+suvat ppr 6Pf: pysan NOT FOUND
+suvat ppr 6Pm: pysan NOT FOUND
+suvat ppr 6Pn: pysan NOT FOUND
+sUcayat ppr 10Pf: identical
+sUcayat ppr 10Pm: identical
+sUcayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) sUcayantI,sUcayatI != sUcayantI (pysan)
+     2d (huet) sUcayantI,sUcayatI != sUcayantI (pysan)
+sUtrayat ppr 11Pf: pysan NOT FOUND
+sUtrayat ppr 11Pm: pysan NOT FOUND
+sUtrayat ppr 11Pn: pysan NOT FOUND
+sUdayat ppr 10Pf: identical
+sUdayat ppr 10Pm: identical
+sUdayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) sUdayantI,sUdayatI != sUdayantI (pysan)
+     2d (huet) sUdayantI,sUdayatI != sUdayantI (pysan)
+sfjat ppr 6Pf: pysan NOT FOUND
+sfjat ppr 6Pm: identical
+sfjat ppr 6Pn: identical
+seDat ppr 1Pf: identical
+seDat ppr 1Pm: identical
+seDat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) seDantI,seDatI != seDantI (pysan)
+     2d (huet) seDantI,seDatI != seDantI (pysan)
+skandat ppr 1Pf: identical
+skandat ppr 1Pm: identical
+skandat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) skandantI,skandatI != skandantI (pysan)
+     2d (huet) skandantI,skandatI != skandantI (pysan)
+skaBnat ppr 9Pf: identical
+skaBnat ppr 9Pm: identical
+skaBnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) skaBnantI,skaBnatI != skaBnatI (pysan)
+     2d (huet) skaBnantI,skaBnatI != skaBnatI (pysan)
+skaBnuvat ppr 5Pf: pysan NOT FOUND
+skaBnuvat ppr 5Pm: pysan NOT FOUND
+skaBnuvat ppr 5Pn: pysan NOT FOUND
+sKalat ppr 1Pf: identical
+sKalat ppr 1Pm: identical
+sKalat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sKalantI,sKalatI != sKalantI (pysan)
+     2d (huet) sKalantI,sKalatI != sKalantI (pysan)
+stanat ppr 1Pf: identical
+stanat ppr 1Pm: identical
+stanat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) stanantI,stanatI != stanantI (pysan)
+     2d (huet) stanantI,stanatI != stanantI (pysan)
+staBnat ppr 9Pf: identical
+staBnat ppr 9Pm: identical
+staBnat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) staBnantI,staBnatI != staBnatI (pysan)
+     2d (huet) staBnantI,staBnatI != staBnatI (pysan)
+stuvat ppr 2Pf: identical
+stuvat ppr 2Pm: identical
+stuvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) stuvantI,stuvatI != stuvatI (pysan)
+     2d (huet) stuvantI,stuvatI != stuvatI (pysan)
+stfRat ppr 9Pf: identical
+stfRat ppr 9Pm: identical
+stfRat ppr 9Pn: declension differences @ 1d,2d 
+     1d (huet) stfRantI,stfRatI != stfRatI (pysan)
+     2d (huet) stfRantI,stfRatI != stfRatI (pysan)
+stfRvat ppr 5Pf: identical
+stfRvat ppr 5Pm: identical
+stfRvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) stfRvantI,stfRvatI != stfRvatI (pysan)
+     2d (huet) stfRvantI,stfRvatI != stfRvatI (pysan)
+stenayat ppr 11Pf: pysan NOT FOUND
+stenayat ppr 11Pm: pysan NOT FOUND
+stenayat ppr 11Pn: pysan NOT FOUND
+stoBat ppr 1Pf: identical
+stoBat ppr 1Pm: identical
+stoBat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) stoBantI,stoBatI != stoBantI (pysan)
+     2d (huet) stoBantI,stoBatI != stoBantI (pysan)
+sTagayat ppr 11Pf: pysan NOT FOUND
+sTagayat ppr 11Pm: pysan NOT FOUND
+sTagayat ppr 11Pn: pysan NOT FOUND
+snAt ppr 2Pf: pysan NOT FOUND
+snAt ppr 2Pm: identical
+snAt ppr 2Pn: identical
+snihyat ppr 4Pf: identical
+snihyat ppr 4Pm: identical
+snihyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) snihyantI,snihyatI != snihyantI (pysan)
+     2d (huet) snihyantI,snihyatI != snihyantI (pysan)
+snuvat ppr 2Pf: identical
+snuvat ppr 2Pm: identical
+snuvat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) snuvantI,snuvatI != snuvatI (pysan)
+     2d (huet) snuvantI,snuvatI != snuvatI (pysan)
+snuhyat ppr 4Pf: identical
+snuhyat ppr 4Pm: identical
+snuhyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) snuhyantI,snuhyatI != snuhyantI (pysan)
+     2d (huet) snuhyantI,snuhyatI != snuhyantI (pysan)
+snehat ppr 1Pf: identical
+snehat ppr 1Pm: identical
+snehat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) snehantI,snehatI != snehantI (pysan)
+     2d (huet) snehantI,snehatI != snehantI (pysan)
+spfSat ppr 6Pf: pysan NOT FOUND
+spfSat ppr 6Pm: identical
+spfSat ppr 6Pn: identical
+spfhayat ppr 10Pf: identical
+spfhayat ppr 10Pm: identical
+spfhayat ppr 10Pn: declension differences @ 1d,2d 
+     1d (huet) spfhayantI,spfhayatI != spfhayantI (pysan)
+     2d (huet) spfhayantI,spfhayatI != spfhayantI (pysan)
+sPalat ppr 1Pf: identical
+sPalat ppr 1Pm: identical
+sPalat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sPalantI,sPalatI != sPalantI (pysan)
+     2d (huet) sPalantI,sPalatI != sPalantI (pysan)
+sPuwat ppr 6Pf: pysan NOT FOUND
+sPuwat ppr 6Pm: identical
+sPuwat ppr 6Pn: identical
+sPurat ppr 6Pf: pysan NOT FOUND
+sPurat ppr 6Pm: identical
+sPurat ppr 6Pn: identical
+sPowat ppr 1Pf: pysan NOT FOUND
+sPowat ppr 1Pm: pysan NOT FOUND
+sPowat ppr 1Pn: pysan NOT FOUND
+smarat ppr 1Pf: identical
+smarat ppr 1Pm: identical
+smarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) smarantI,smaratI != smarantI (pysan)
+     2d (huet) smarantI,smaratI != smarantI (pysan)
+syat ppr 4Pf: identical
+syat ppr 4Pm: identical
+syat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) syantI,syatI != syantI (pysan)
+     2d (huet) syantI,syatI != syantI (pysan)
+syandat ppr 1Pf: pysan NOT FOUND
+syandat ppr 1Pm: pysan NOT FOUND
+syandat ppr 1Pn: pysan NOT FOUND
+sravat ppr 1Pf: identical
+sravat ppr 1Pm: identical
+sravat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) sravantI,sravatI != sravantI (pysan)
+     2d (huet) sravantI,sravatI != sravantI (pysan)
+svadat ppr 1Pf: pysan NOT FOUND
+svadat ppr 1Pm: pysan NOT FOUND
+svadat ppr 1Pn: pysan NOT FOUND
+svanat ppr 1Pf: identical
+svanat ppr 1Pm: identical
+svanat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) svanantI,svanatI != svanantI (pysan)
+     2d (huet) svanantI,svanatI != svanantI (pysan)
+svapat ppr 2Pf: identical
+svapat ppr 2Pm: identical
+svapat ppr 2Pn: declension differences @ 1d,2d 
+     1d (huet) svapantI,svapatI != svapatI (pysan)
+     2d (huet) svapantI,svapatI != svapatI (pysan)
+svarat ppr 1Pf: identical
+svarat ppr 1Pm: identical
+svarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) svarantI,svaratI != svarantI (pysan)
+     2d (huet) svarantI,svaratI != svarantI (pysan)
+svidyat ppr 4Pf: identical
+svidyat ppr 4Pm: identical
+svidyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) svidyantI,svidyatI != svidyantI (pysan)
+     2d (huet) svidyantI,svidyatI != svidyantI (pysan)
+haWat ppr 1Pf: identical
+haWat ppr 1Pm: identical
+haWat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) haWantI,haWatI != haWantI (pysan)
+     2d (huet) haWantI,haWatI != haWantI (pysan)
+hadat ppr 1Pf: identical
+hadat ppr 1Pm: identical
+hadat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hadantI,hadatI != hadantI (pysan)
+     2d (huet) hadantI,hadatI != hadantI (pysan)
+harat ppr 1Pf: identical
+harat ppr 1Pm: identical
+harat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) harantI,haratI != harantI (pysan)
+     2d (huet) harantI,haratI != harantI (pysan)
+harzat ppr 1Pf: identical
+harzat ppr 1Pm: identical
+harzat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) harzantI,harzatI != harzantI (pysan)
+     2d (huet) harzantI,harzatI != harzantI (pysan)
+hasat ppr 1Pf: identical
+hasat ppr 1Pm: identical
+hasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hasantI,hasatI != hasantI (pysan)
+     2d (huet) hasantI,hasatI != hasantI (pysan)
+hiMsat ppr 1Pf: identical
+hiMsat ppr 1Pm: identical
+hiMsat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hiMsantI,hiMsatI != hiMsantI (pysan)
+     2d (huet) hiMsantI,hiMsatI != hiMsantI (pysan)
+hiMsat ppr 7Pf: pysan NOT FOUND
+hiMsat ppr 7Pm: pysan NOT FOUND
+hiMsat ppr 7Pn: pysan NOT FOUND
+hikkat ppr 1Pf: identical
+hikkat ppr 1Pm: identical
+hikkat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hikkantI,hikkatI != hikkantI (pysan)
+     2d (huet) hikkantI,hikkatI != hikkantI (pysan)
+hinvat ppr 5Pf: identical
+hinvat ppr 5Pm: identical
+hinvat ppr 5Pn: declension differences @ 1d,2d 
+     1d (huet) hinvantI,hinvatI != hinvatI (pysan)
+     2d (huet) hinvantI,hinvatI != hinvatI (pysan)
+hfzyat ppr 4Pf: identical
+hfzyat ppr 4Pm: identical
+hfzyat ppr 4Pn: declension differences @ 1d,2d 
+     1d (huet) hfzyantI,hfzyatI != hfzyantI (pysan)
+     2d (huet) hfzyantI,hfzyatI != hfzyantI (pysan)
+hrasat ppr 1Pf: identical
+hrasat ppr 1Pm: identical
+hrasat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hrasantI,hrasatI != hrasantI (pysan)
+     2d (huet) hrasantI,hrasatI != hrasantI (pysan)
+hvayat ppr 1Pf: identical
+hvayat ppr 1Pm: identical
+hvayat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hvayantI,hvayatI != hvayantI (pysan)
+     2d (huet) hvayantI,hvayatI != hvayantI (pysan)
+hvarat ppr 1Pf: identical
+hvarat ppr 1Pm: identical
+hvarat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hvarantI,hvaratI != hvarantI (pysan)
+     2d (huet) hvarantI,hvaratI != hvarantI (pysan)
+hvalat ppr 1Pf: identical
+hvalat ppr 1Pm: identical
+hvalat ppr 1Pn: declension differences @ 1d,2d 
+     1d (huet) hvalantI,hvalatI != hvalantI (pysan)
+     2d (huet) hvalantI,hvalatI != hvalantI (pysan)

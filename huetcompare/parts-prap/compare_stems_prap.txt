@@ -1,0 +1,1831 @@
+--------------------------------------------------
+432 cases of IDENTICAL CLASSES
+--------------------------------------------------
+Case 01: akzat:1P identical in BOTH
+Case 02: akzRuvat:5P identical in BOTH
+Case 03: aNgat:1P identical in BOTH
+Case 04: acat:1P identical in BOTH
+Case 05: ajat:1P identical in BOTH
+Case 06: aYcat:1P identical in BOTH
+Case 07: aYjat:7P identical in BOTH
+Case 08: awat:1P identical in BOTH
+Case 09: atat:1P identical in BOTH
+Case 10: adat:2P identical in BOTH
+Case 11: anat:2P identical in BOTH
+Case 12: amat:1P identical in BOTH
+Case 13: arcat:1P identical in BOTH
+Case 14: arjat:1P identical in BOTH
+Case 15: arzat:1P identical in BOTH
+Case 16: arhat:1P identical in BOTH
+Case 17: avat:1P identical in BOTH
+Case 18: asyat:4P identical in BOTH
+Case 19: Apnuvat:5P identical in BOTH
+Case 20: iNgat:1P identical in BOTH
+Case 21: icCat:6P identical in BOTH
+Case 22: indat:1P identical in BOTH
+Case 23: ilat:6P identical in BOTH
+Case 24: izyat:4P identical in BOTH
+Case 25: INKat:1P identical in BOTH
+Case 26: Irzyat:1P identical in BOTH
+Case 27: ucyat:4P identical in BOTH
+Case 28: ujJat:6P identical in BOTH
+Case 29: undat:7P identical in BOTH
+Case 30: uBnat:9P identical in BOTH
+Case 31: Uhat:1P identical in BOTH
+Case 32: fcCat:1P identical in BOTH
+Case 33: fYjat:6P identical in BOTH
+Case 34: fDnuvat:5P identical in BOTH
+Case 35: fDyat:4P identical in BOTH
+Case 36: fzat:6P identical in BOTH
+Case 37: ejat:1P identical in BOTH
+Case 38: ezat:1P identical in BOTH
+Case 39: ozat:1P identical in BOTH
+Case 40: kaRqayat:10P identical in BOTH
+Case 41: kaTayat:10P identical in BOTH
+Case 42: karzat:1P identical in BOTH
+Case 43: kalayat:10P identical in BOTH
+Case 44: kazat:1P identical in BOTH
+Case 45: kasat:1P identical in BOTH
+Case 46: kANkzat:1P identical in BOTH
+Case 47: kirat:6P identical in BOTH
+Case 48: kIrtayat:10P identical in BOTH
+Case 49: kIlat:1P identical in BOTH
+Case 50: kucat:6P identical in BOTH
+Case 51: kuYcat:1P identical in BOTH
+Case 52: kuwat:6P identical in BOTH
+Case 53: kuRWat:1P identical in BOTH
+Case 54: kuRqat:1P identical in BOTH
+Case 55: kutsayat:10P identical in BOTH
+Case 56: kunTat:1P identical in BOTH
+Case 57: kupyat:4P identical in BOTH
+Case 58: kurvat:8P identical in BOTH
+Case 59: kUjat:1P identical in BOTH
+Case 60: kfRvat:5P identical in BOTH
+Case 61: kfSyat:4P identical in BOTH
+Case 62: kfzat:6P identical in BOTH
+Case 63: kolat:1P identical in BOTH
+Case 64: krandat:1P identical in BOTH
+Case 65: krAmat:1P identical in BOTH
+Case 66: krIqat:1P identical in BOTH
+Case 67: krIRat:9P identical in BOTH
+Case 68: kruYcat:1P identical in BOTH
+Case 69: kruDyat:4P identical in BOTH
+Case 70: kroSat:1P identical in BOTH
+Case 71: klAmyat:4P identical in BOTH
+Case 72: klidyat:4P identical in BOTH
+Case 73: kliSnat:9P identical in BOTH
+Case 74: kzapat:1P identical in BOTH
+Case 75: kzayat:1P identical in BOTH
+Case 76: kzarat:1P identical in BOTH
+Case 77: kziRat:9P identical in BOTH
+Case 78: kzipat:6P identical in BOTH
+Case 79: kziyat:2P,6P identical in BOTH
+Case 80: kzuDyat:4P identical in BOTH
+Case 81: kzuByat:4P identical in BOTH
+Case 82: kzuvat:2P identical in BOTH
+Case 83: kzodat:1P identical in BOTH
+Case 84: kzveqat:1P identical in BOTH
+Case 85: Kanat:1P identical in BOTH
+Case 86: KAdat:1P identical in BOTH
+Case 87: Kelat:1P identical in BOTH
+Case 88: KyAt:2P identical in BOTH
+Case 89: gacCat:1P identical in BOTH
+Case 90: gajat:1P identical in BOTH
+Case 91: gaRayat:10P identical in BOTH
+Case 92: gadat:1P identical in BOTH
+Case 93: garjat:1P identical in BOTH
+Case 94: gardat:1P identical in BOTH
+Case 95: garhat:1P identical in BOTH
+Case 96: garhayat:10P identical in BOTH
+Case 97: galat:1P identical in BOTH
+Case 98: girat:6P identical in BOTH
+Case 99: guYjat:1P identical in BOTH
+Case 100: gumPat:6P identical in BOTH
+Case 101: gUhat:1P identical in BOTH
+Case 102: gfRat:9P identical in BOTH
+Case 103: gfDyat:4P identical in BOTH
+Case 104: gfhRat:9P identical in BOTH
+Case 105: grasat:1P identical in BOTH
+Case 106: glAyat:1P identical in BOTH
+Case 107: Gawwayat:10P identical in BOTH
+Case 108: Garzat:1P identical in BOTH
+Case 109: Gozat:1P identical in BOTH
+Case 110: Gnat:2P identical in BOTH
+Case 111: cakAsat:2P identical in BOTH
+Case 112: caYcat:1P identical in BOTH
+Case 113: cawat:1P identical in BOTH
+Case 114: catat:1P identical in BOTH
+Case 115: candat:1P identical in BOTH
+Case 116: carat:1P identical in BOTH
+Case 117: calat:1P identical in BOTH
+Case 118: cintayat:10P identical in BOTH
+Case 119: cinvat:5P identical in BOTH
+Case 120: cumbat:1P identical in BOTH
+Case 121: cUzat:1P identical in BOTH
+Case 122: cetat:1P identical in BOTH
+Case 123: cezwat:1P identical in BOTH
+Case 124: codat:1P identical in BOTH
+Case 125: corayat:10P identical in BOTH
+Case 126: Cadat:1P identical in BOTH
+Case 127: Cindat:7P identical in BOTH
+Case 128: janat:1P identical in BOTH
+Case 129: japat:1P identical in BOTH
+Case 130: jamat:1P identical in BOTH
+Case 131: jayat:1P identical in BOTH
+Case 132: jarat:1P identical in BOTH
+Case 133: jalpat:1P identical in BOTH
+Case 134: jasyat:4P identical in BOTH
+Case 135: jahat:3P identical in BOTH
+Case 136: jAgrat:2P identical in BOTH
+Case 137: jAnat:9P identical in BOTH
+Case 138: jinat:9P identical in BOTH
+Case 139: jinvat:1P identical in BOTH
+Case 140: jIryat:4P identical in BOTH
+Case 141: jIvat:1P identical in BOTH
+Case 142: jvalat:1P identical in BOTH
+Case 143: qambayat:10P identical in BOTH
+Case 144: takat:2P identical in BOTH
+Case 145: takzat:1P identical in BOTH
+Case 146: tanyat:4P identical in BOTH
+Case 147: tapat:1P identical in BOTH
+Case 148: tarat:1P identical in BOTH
+Case 149: tarkayat:10P identical in BOTH
+Case 150: tarjat:1P identical in BOTH
+Case 151: tAmyat:4P identical in BOTH
+Case 152: tizWat:1P identical in BOTH
+Case 153: tudat:6P identical in BOTH
+Case 154: tupat:6P identical in BOTH
+Case 155: tuzyat:4P identical in BOTH
+Case 156: tfndat:7P identical in BOTH
+Case 157: tfpyat:4P identical in BOTH
+Case 158: tfzyat:4P identical in BOTH
+Case 159: topat:1P identical in BOTH
+Case 160: tolayat:10P identical in BOTH
+Case 161: tyajat:1P identical in BOTH
+Case 162: truwat:6P identical in BOTH
+Case 163: tvakzat:1P identical in BOTH
+Case 164: tvezat:1P identical in BOTH
+Case 165: tsarat:1P identical in BOTH
+Case 166: daGnuvat:5P identical in BOTH
+Case 167: dadat:1P,3P identical in BOTH
+Case 168: daBat:1P identical in BOTH
+Case 169: dalat:1P identical in BOTH
+Case 170: daSat:1P identical in BOTH
+Case 171: dasyat:4P identical in BOTH
+Case 172: dahat:1P identical in BOTH
+Case 173: dAmyat:4P identical in BOTH
+Case 174: dASat:1P identical in BOTH
+Case 175: dAsat:1P identical in BOTH
+Case 176: dihat:2P identical in BOTH
+Case 177: dIvyat:4P identical in BOTH
+Case 178: dunvat:5P identical in BOTH
+Case 179: duzyat:4P identical in BOTH
+Case 180: dfMhat:1P identical in BOTH
+Case 181: dfRat:9P identical in BOTH
+Case 182: dfpyat:4P identical in BOTH
+Case 183: dfBat:6P identical in BOTH
+Case 184: devat:1P identical in BOTH
+Case 185: drAt:2P identical in BOTH
+Case 186: druhyat:4P identical in BOTH
+Case 187: dvizat:2P identical in BOTH
+Case 188: Damat:1P identical in BOTH
+Case 189: Darat:1P identical in BOTH
+Case 190: Darzat:1P identical in BOTH
+Case 191: DAvat:1P identical in BOTH
+Case 192: Dunvat:5P identical in BOTH
+Case 193: DfzRuvat:5P identical in BOTH
+Case 194: DyAyat:1P identical in BOTH
+Case 195: Druvat:6P identical in BOTH
+Case 196: DvaMsat:1P identical in BOTH
+Case 197: Dvanat:1P identical in BOTH
+Case 198: Dvarat:1P identical in BOTH
+Case 199: DvANkzat:1P identical in BOTH
+Case 200: nakzat:1P identical in BOTH
+Case 201: nawat:1P identical in BOTH
+Case 202: nadat:1P identical in BOTH
+Case 203: nandat:1P identical in BOTH
+Case 204: namat:1P identical in BOTH
+Case 205: nayat:1P identical in BOTH
+Case 206: nardat:1P identical in BOTH
+Case 207: naSyat:4P identical in BOTH
+Case 208: nahyat:4P identical in BOTH
+Case 209: nindat:1P identical in BOTH
+Case 210: nudat:6P identical in BOTH
+Case 211: nftyat:4P identical in BOTH
+Case 212: pacat:1P identical in BOTH
+Case 213: pawat:1P identical in BOTH
+Case 214: paWat:1P identical in BOTH
+Case 215: patat:1P identical in BOTH
+Case 216: paTat:1P identical in BOTH
+Case 217: parTayat:10P identical in BOTH
+Case 218: parzat:1P identical in BOTH
+Case 219: pAt:2P identical in BOTH
+Case 220: piMSat:6P identical in BOTH
+Case 221: pibat:1P identical in BOTH
+Case 222: piyat:6P identical in BOTH
+Case 223: pIqayat:10P identical in BOTH
+Case 224: puTyat:4P identical in BOTH
+Case 225: punat:9P identical in BOTH
+Case 226: puzRat:9P identical in BOTH
+Case 227: puzyat:4P identical in BOTH
+Case 228: pUjayat:10P identical in BOTH
+Case 229: pUyat:1P identical in BOTH
+Case 230: pUlat:1P identical in BOTH
+Case 231: pfYcat:7P identical in BOTH
+Case 232: pfRat:6P,9P identical in BOTH
+Case 233: prAt:2P identical in BOTH
+Case 234: prIRat:9P identical in BOTH
+Case 235: pluzRat:9P identical in BOTH
+Case 236: pluzyat:4P identical in BOTH
+Case 237: plozat:1P identical in BOTH
+Case 238: Palat:1P identical in BOTH
+Case 239: Pullat:1P identical in BOTH
+Case 240: baDnat:9P identical in BOTH
+Case 241: baBasat:3P identical in BOTH
+Case 242: balat:1P identical in BOTH
+Case 243: Bakzat:1P identical in BOTH
+Case 244: Bajat:1P identical in BOTH
+Case 245: BaYjat:7P identical in BOTH
+Case 246: BaRat:1P identical in BOTH
+Case 247: Barat:1P identical in BOTH
+Case 248: Bavat:1P identical in BOTH
+Case 249: Bazat:1P identical in BOTH
+Case 250: BAt:2P identical in BOTH
+Case 251: Bujat:6P identical in BOTH
+Case 252: BuYjat:7P identical in BOTH
+Case 253: BUzat:1P identical in BOTH
+Case 254: Bramat:1P identical in BOTH
+Case 255: BraSyat:4P identical in BOTH
+Case 256: BrAmyat:4P identical in BOTH
+Case 257: majjat:6P identical in BOTH
+Case 258: maRqat:1P identical in BOTH
+Case 259: maTat:1P identical in BOTH
+Case 260: manat:1P identical in BOTH
+Case 261: manTat:1P identical in BOTH
+Case 262: mayat:1P identical in BOTH
+Case 263: marDat:1P identical in BOTH
+Case 264: mAt:2P identical in BOTH
+Case 265: mAdyat:4P identical in BOTH
+Case 266: mArgayat:10P identical in BOTH
+Case 267: minvat:5P identical in BOTH
+Case 268: milat:6P identical in BOTH
+Case 269: mizat:6P identical in BOTH
+Case 270: mIlat:1P identical in BOTH
+Case 271: muzRat:9P identical in BOTH
+Case 272: muhyat:4P identical in BOTH
+Case 273: mUzat:1P identical in BOTH
+Case 274: mfqat:6P identical in BOTH
+Case 275: mfdnat:9P identical in BOTH
+Case 276: mfSat:6P identical in BOTH
+Case 277: mfzyat:4P identical in BOTH
+Case 278: meTat:1P identical in BOTH
+Case 279: mehat:1P identical in BOTH
+Case 280: mokzayat:10P identical in BOTH
+Case 281: yacCat:1P identical in BOTH
+Case 282: yajat:1P identical in BOTH
+Case 283: yat:2P identical in BOTH
+Case 284: yaBat:1P identical in BOTH
+Case 285: yasyat:4P identical in BOTH
+Case 286: yAcat:1P identical in BOTH
+Case 287: yAt:2P identical in BOTH
+Case 288: yuYjat:7P identical in BOTH
+Case 289: raMhat:1P identical in BOTH
+Case 290: rakzat:1P identical in BOTH
+Case 291: racayat:10P identical in BOTH
+Case 292: rajat:1P identical in BOTH
+Case 293: rajyat:4P identical in BOTH
+Case 294: raRat:1P identical in BOTH
+Case 295: raRyat:4P identical in BOTH
+Case 296: radat:1P identical in BOTH
+Case 297: raDyat:4P identical in BOTH
+Case 298: ramat:1P identical in BOTH
+Case 299: rahayat:10P identical in BOTH
+Case 300: rAjat:1P identical in BOTH
+Case 301: rAt:2P identical in BOTH
+Case 302: rADnuvat:5P identical in BOTH
+Case 303: rADyat:4P identical in BOTH
+Case 304: riYcat:7P identical in BOTH
+Case 305: riRat:9P identical in BOTH
+Case 306: rizyat:4P identical in BOTH
+Case 307: rujat:6P identical in BOTH
+Case 308: rudat:2P identical in BOTH
+Case 309: ruvat:2P identical in BOTH
+Case 310: ruzyat:4P identical in BOTH
+Case 311: rUpayat:10P identical in BOTH
+Case 312: roDat:1P identical in BOTH
+Case 313: rohat:1P identical in BOTH
+Case 314: lakzayat:10P identical in BOTH
+Case 315: lagat:1P identical in BOTH
+Case 316: laNgat:1P identical in BOTH
+Case 317: laNGat:1P identical in BOTH
+Case 318: lapat:1P identical in BOTH
+Case 319: lalat:1P identical in BOTH
+Case 320: lazat:1P identical in BOTH
+Case 321: lazyat:4P identical in BOTH
+Case 322: lasat:1P identical in BOTH
+Case 323: lAYCat:1P identical in BOTH
+Case 324: liKat:6P identical in BOTH
+Case 325: limpat:6P identical in BOTH
+Case 326: liSat:6P identical in BOTH
+Case 327: lihat:2P identical in BOTH
+Case 328: luYcat:1P identical in BOTH
+Case 329: luWat:6P identical in BOTH
+Case 330: lunat:9P identical in BOTH
+Case 331: luByat:4P identical in BOTH
+Case 332: lumpat:6P identical in BOTH
+Case 333: lokayat:10P identical in BOTH
+Case 334: vaYcat:1P identical in BOTH
+Case 335: vadat:1P identical in BOTH
+Case 336: vanat:1P identical in BOTH
+Case 337: vapat:1P identical in BOTH
+Case 338: vamat:1P identical in BOTH
+Case 339: varat:1P identical in BOTH
+Case 340: varzat:1P identical in BOTH
+Case 341: valgat:1P identical in BOTH
+Case 342: vahat:1P identical in BOTH
+Case 343: vAYCat:1P identical in BOTH
+Case 344: vAt:2P identical in BOTH
+Case 345: viYcat:7P identical in BOTH
+Case 346: viDat:6P identical in BOTH
+Case 347: viDyat:4P identical in BOTH
+Case 348: vindat:6P identical in BOTH
+Case 349: viyat:2P identical in BOTH
+Case 350: vivizat:3P identical in BOTH
+Case 351: viSat:6P identical in BOTH
+Case 352: vIjat:1P identical in BOTH
+Case 353: vfYjat:7P identical in BOTH
+Case 354: vfScat:6P identical in BOTH
+Case 355: vfhat:6P identical in BOTH
+Case 356: venat:1P identical in BOTH
+Case 357: vyayat:1P identical in BOTH
+Case 358: SaMsat:1P identical in BOTH
+Case 359: Saknuvat:5P identical in BOTH
+Case 360: Sapat:1P identical in BOTH
+Case 361: Salat:1P identical in BOTH
+Case 362: SaSat:1P identical in BOTH
+Case 363: Sasat:1P identical in BOTH
+Case 364: SAmyat:4P identical in BOTH
+Case 365: SIlat:1P identical in BOTH
+Case 366: SuDyat:4P identical in BOTH
+Case 367: SumBat:1P identical in BOTH
+Case 368: SfRat:9P identical in BOTH
+Case 369: SfRvat:5P identical in BOTH
+Case 370: Socat:1P identical in BOTH
+Case 371: Scotat:1P identical in BOTH
+Case 372: SyAyat:1P identical in BOTH
+Case 373: Srayat:1P identical in BOTH
+Case 374: SrAmyat:4P identical in BOTH
+Case 375: Slizyat:4P identical in BOTH
+Case 376: Svayat:1P identical in BOTH
+Case 377: Svasat:2P identical in BOTH
+Case 378: zWIvat:1P identical in BOTH
+Case 379: sajat:1P identical in BOTH
+Case 380: sat:2P identical in BOTH
+Case 381: sapat:1P identical in BOTH
+Case 382: sarat:1P identical in BOTH
+Case 383: sarpat:1P identical in BOTH
+Case 384: savat:1P identical in BOTH
+Case 385: siYcat:6P identical in BOTH
+Case 386: siDyat:4P identical in BOTH
+Case 387: sIdat:1P identical in BOTH
+Case 388: sIvyat:4P identical in BOTH
+Case 389: sunvat:5P identical in BOTH
+Case 390: surat:6P identical in BOTH
+Case 391: sUcayat:10P identical in BOTH
+Case 392: sUdayat:10P identical in BOTH
+Case 393: sfjat:6P identical in BOTH
+Case 394: seDat:1P identical in BOTH
+Case 395: skandat:1P identical in BOTH
+Case 396: skaBnat:9P identical in BOTH
+Case 397: sKalat:1P identical in BOTH
+Case 398: stanat:1P identical in BOTH
+Case 399: staBnat:9P identical in BOTH
+Case 400: stuvat:2P identical in BOTH
+Case 401: stfRat:9P identical in BOTH
+Case 402: stfRvat:5P identical in BOTH
+Case 403: stoBat:1P identical in BOTH
+Case 404: snAt:2P identical in BOTH
+Case 405: snihyat:4P identical in BOTH
+Case 406: snuvat:2P identical in BOTH
+Case 407: snuhyat:4P identical in BOTH
+Case 408: snehat:1P identical in BOTH
+Case 409: spfSat:6P identical in BOTH
+Case 410: spfhayat:10P identical in BOTH
+Case 411: sPalat:1P identical in BOTH
+Case 412: sPuwat:6P identical in BOTH
+Case 413: sPurat:6P identical in BOTH
+Case 414: smarat:1P identical in BOTH
+Case 415: syat:4P identical in BOTH
+Case 416: sravat:1P identical in BOTH
+Case 417: svanat:1P identical in BOTH
+Case 418: svapat:2P identical in BOTH
+Case 419: svarat:1P identical in BOTH
+Case 420: svidyat:4P identical in BOTH
+Case 421: haWat:1P identical in BOTH
+Case 422: hadat:1P identical in BOTH
+Case 423: harat:1P identical in BOTH
+Case 424: harzat:1P identical in BOTH
+Case 425: hasat:1P identical in BOTH
+Case 426: hikkat:1P identical in BOTH
+Case 427: hinvat:5P identical in BOTH
+Case 428: hfzyat:4P identical in BOTH
+Case 429: hrasat:1P identical in BOTH
+Case 430: hvayat:1P identical in BOTH
+Case 431: hvarat:1P identical in BOTH
+Case 432: hvalat:1P identical in BOTH
+--------------------------------------------------
+17 cases of HUET CLASSES < PYSAN CLASSES
+--------------------------------------------------
+Case 01: ardat has 1P(huet) < 1P + 6P(pysan)
+Case 02: uYCat has 1P(huet) < 1P + 6P(pysan)
+Case 03: fRvat has 5P(huet) < 5P + 8P(pysan)
+Case 04: kfntat has 6P(huet) < 6P + 7P(pysan)
+Case 05: kziRvat has 5P(huet) < 5P + 8P(pysan)
+Case 06: gAyat has 1P(huet) < 1P + 2P(pysan)
+Case 07: jAyat has 4P(huet) < 4P + 1P(pysan)
+Case 08: jiGrat has 1P(huet) < 1P + 3P(pysan)
+Case 09: taYcat has 7P(huet) < 7P + 1P(pysan)
+Case 10: dAyat has 1P(huet) < 1P + 4P(pysan)
+Case 11: duhat has 2P(huet) < 2P + 6P(pysan)
+Case 12: nuvat has 2P(huet) < 2P + 6P(pysan)
+Case 13: Bindat has 7P(huet) < 7P + 1P(pysan)
+Case 14: muYcat has 6P(huet) < 6P + 1P(pysan)
+Case 15: vasat has 1P(huet) < 1P + 6P(pysan)
+Case 16: vfRat has 9P(huet) < 9P + 6P(pysan)
+Case 17: vfRvat has 5P(huet) < 5P + 8P(pysan)
+--------------------------------------------------
+10 cases of HUET CLASSES > PYSAN CLASSES
+--------------------------------------------------
+Case 01: jakzat has 2P + 1P(huet) > 2P (pysan)
+Case 02: daDat has 3P + 1P(huet) > 3P (pysan)
+Case 03: bfhat has 6P + 1P(huet) > 6P (pysan)
+Case 04: bruvat has 2P + 6P(huet) > 2P (pysan)
+Case 05: mArjat has 2P + 1P(huet) > 2P (pysan)
+Case 06: mfjat has 2P + 6P(huet) > 2P (pysan)
+Case 07: yuvat has 2P + 6P(huet) > 2P (pysan)
+Case 08: runDat has 7P + 6P(huet) > 7P (pysan)
+Case 09: vidat has 2P + 6P(huet) > 2P (pysan)
+Case 10: hiMsat has 1P + 7P(huet) > 1P (pysan)
+--------------------------------------------------
+42 cases of DIFFERENT CLASSES
+--------------------------------------------------
+Case 01: aMSayat has 11P(huet) != 10P(pysan)
+Case 02: aNkayat has 11P(huet) != 10P(pysan)
+Case 03: aNKayat has 11P(huet) != 10P(pysan)
+Case 04: anDayat has 11P(huet) != 10P(pysan)
+Case 05: invat has 1P,5P(huet) != 6P(pysan)
+Case 06: ukzat has 6P(huet) != 1P(pysan)
+Case 07: karRayat has 11P(huet) != 10P(pysan)
+Case 08: kAyat has 4P(huet) != 1P(pysan)
+Case 09: kuwwayat has 11P(huet) != 10P(pysan)
+Case 10: kzaRvat has 5P(huet) != 8P(pysan)
+Case 11: GUrRat has 6P(huet) != 1P(pysan)
+Case 12: carcayat has 11P(huet) != 10P(pysan)
+Case 13: cUrRayat has 11P(huet) != 10P(pysan)
+Case 14: taNkat has 7P(huet) != 1P(pysan)
+Case 15: tanvat has 5P(huet) != 8P(pysan)
+Case 16: tirat has 1P(huet) != 6P(pysan)
+Case 17: devayat has 11P(huet) != 10P(pysan)
+Case 18: dolayat has 11P(huet) != 10P(pysan)
+Case 19: drAyat has 4P(huet) != 1P,2P(pysan)
+Case 20: Dayat has 4P(huet) != 1P(pysan)
+Case 21: paSyat has 4P(huet) != 1P(pysan)
+Case 22: pASayat has 11P(huet) != 10P(pysan)
+Case 23: piRqayat has 11P(huet) != 10P(pysan)
+Case 24: pUlayat has 11P(huet) != 10P(pysan)
+Case 25: mAlayat has 11P(huet) != 10P(pysan)
+Case 26: miSrayat has 11P(huet) != 10P(pysan)
+Case 27: mlAyat has 4P(huet) != 1P(pysan)
+Case 28: yantrayat has 11P(huet) != 10P(pysan)
+Case 29: rasayat has 11P(huet) != 10P(pysan)
+Case 30: rUkzayat has 11P(huet) != 10P(pysan)
+Case 31: vanvat has 5P(huet) != 8P(pysan)
+Case 32: vayat has 4P(huet) != 1P(pysan)
+Case 33: varRayat has 11P(huet) != 10P(pysan)
+Case 34: vAsayat has 11P(huet) != 10P(pysan)
+Case 35: Sabdayat has 11P(huet) != 10P(pysan)
+Case 36: SAsat has 1P(huet) != 2P(pysan)
+Case 37: Suzyat has 1P(huet) != 4P(pysan)
+Case 38: sAntvayat has 11P(huet) != 10P(pysan)
+Case 39: suKyat has 11P(huet) != 4P(pysan)
+Case 40: suvat has 6P(huet) != 2P(pysan)
+Case 41: sUtrayat has 11P(huet) != 10P(pysan)
+Case 42: stenayat has 11P(huet) != 10P(pysan)
+--------------------------------------------------
+1108 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMSApayat:10P in pysan
+Case 02: aMsayat:10P in pysan
+Case 03: aMsApayat:10P in pysan
+Case 04: aMhayat:10P in pysan
+Case 05: akat:1P in pysan
+Case 06: aGayat:10P in pysan
+Case 07: aNkat:1P in pysan
+Case 08: aNgayat:10P in pysan
+Case 09: aYcayat:10P in pysan
+Case 10: awwayat:10P in pysan
+Case 11: aWat:1P in pysan
+Case 12: aqat:1P in pysan
+Case 13: aqqat:1P in pysan
+Case 14: aRat:1P in pysan
+Case 15: antat:1P in pysan
+Case 16: andat:1P in pysan
+Case 17: aBrat:1P in pysan
+Case 18: ambat:1P in pysan
+Case 19: ayat:1P in pysan
+Case 20: arndat:7P in pysan
+Case 21: arbat:1P in pysan
+Case 22: arvat:1P in pysan
+Case 23: alat:1P in pysan
+Case 24: avalokayat:10P in pysan
+Case 25: azat:1P in pysan
+Case 26: ahnuvat:5P in pysan
+Case 27: Ahat:2P in pysan
+Case 28: iNKat:1P in pysan
+Case 29: invvat:8P in pysan
+Case 30: iyat:2P in pysan
+Case 31: iyrat:3P in pysan
+Case 32: irat:6P in pysan
+Case 33: IKat:1P in pysan
+Case 34: Ijat:1P in pysan
+Case 35: Intat:1P in pysan
+Case 36: uNKat:6P in pysan
+Case 37: udat:6P in pysan
+Case 38: uDrasnat:9P in pysan
+Case 39: uDrAsayat:10P in pysan
+Case 40: unvat:5P in pysan
+Case 41: upArat:1P in pysan
+Case 42: upArRuvat:5P in pysan
+Case 43: ubjat:6P in pysan
+Case 44: uBat:6P in pysan
+Case 45: ulAqayat:10P in pysan
+Case 46: uzRat:9P in pysan
+Case 47: UpArat:3P in pysan
+Case 48: UrRuvat:2P in pysan
+Case 49: Urvat:1P in pysan
+Case 50: Uzat:1P in pysan
+Case 51: fcat:6P in pysan
+Case 52: fCat:6P in pysan
+Case 53: fYjyat:4P in pysan
+Case 54: fDat:2P,6P in pysan
+Case 55: fnDat:7P in pysan
+Case 56: fPat:6P in pysan
+Case 57: eKat:1P in pysan
+Case 58: ewat:1P in pysan
+Case 59: elayat:10P in pysan
+Case 60: oKat:1P in pysan
+Case 61: oCat:1P in pysan
+Case 62: ojat:1P in pysan
+Case 63: ojayat:10P in pysan
+Case 64: oWat:1P in pysan
+Case 65: oRat:1P in pysan
+Case 66: olaRqat:1P in pysan
+Case 67: olaRqayat:10P in pysan
+Case 68: olaRqvat:8P in pysan
+Case 69: ohat:1P in pysan
+Case 70: kaKat:1P in pysan
+Case 71: kagat:1P in pysan
+Case 72: kacat:1P in pysan
+Case 73: kajat:1P in pysan
+Case 74: kawat:1P in pysan
+Case 75: kawwayat:10P in pysan
+Case 76: kaWat:1P in pysan
+Case 77: kaqat:1P,6P in pysan
+Case 78: kaqqat:1P in pysan
+Case 79: kaRat:1P in pysan
+Case 80: kaRwat:1P in pysan
+Case 81: kaRWat:1P in pysan
+Case 82: kaRWayat:10P in pysan
+Case 83: kaRqat:1P in pysan
+Case 84: katrayat:10P in pysan
+Case 85: kanat:1P in pysan
+Case 86: kandat:1P in pysan
+Case 87: kambat:1P in pysan
+Case 88: karat:1P in pysan
+Case 89: karjat:1P in pysan
+Case 90: kartat:1P in pysan
+Case 91: kartrayat:10P in pysan
+Case 92: kardat:1P in pysan
+Case 93: karbat:1P in pysan
+Case 94: karvat:1P in pysan
+Case 95: kavat:1P in pysan
+Case 96: kaSat:1P in pysan
+Case 97: kARayat:10P in pysan
+Case 98: kAlayat:10P in pysan
+Case 99: kAvayat:10P in pysan
+Case 100: kASyat:4P in pysan
+Case 101: kilat:6P in pysan
+Case 102: kIwayat:10P in pysan
+Case 103: kuMSat:1P in pysan
+Case 104: kujat:6P in pysan
+Case 105: kuYjat:1P in pysan
+Case 106: kuwyat:4P in pysan
+Case 107: kuqat:6P in pysan
+Case 108: kuRat:6P in pysan
+Case 109: kuRayat:10P in pysan
+Case 110: kuRWayat:10P in pysan
+Case 111: kuRqayat:10P in pysan
+Case 112: kuTnat:9P in pysan
+Case 113: kuTyat:4P in pysan
+Case 114: kunat:9P in pysan
+Case 115: kundrayat:10P in pysan
+Case 116: kumbat:6P in pysan
+Case 117: kurat:6P in pysan
+Case 118: kuvat:2P in pysan
+Case 119: kuSyat:4P in pysan
+Case 120: kuzat:6P in pysan
+Case 121: kuzRat:9P in pysan
+Case 122: kUwayat:10P in pysan
+Case 123: kUqat:6P in pysan
+Case 124: kUqayat:10P in pysan
+Case 125: kURat:1P in pysan
+Case 126: kUpayat:10P in pysan
+Case 127: kUrdat:1P in pysan
+Case 128: kUlat:1P in pysan
+Case 129: kUvat:6P in pysan
+Case 130: kfpayat:10P in pysan
+Case 131: kfpAyat:10P in pysan
+Case 132: kFRvat:5P in pysan
+Case 133: kewat:1P in pysan
+Case 134: kelat:1P in pysan
+Case 135: kelayat:10P in pysan
+Case 136: kocat:1P in pysan
+Case 137: kojat:1P in pysan
+Case 138: koRayat:10P in pysan
+Case 139: kodayat:10P in pysan
+Case 140: kopayat:10P in pysan
+Case 141: knaMsat:1P in pysan
+Case 142: knaMsayat:10P in pysan
+Case 143: knaTat:1P in pysan
+Case 144: knasyat:4P in pysan
+Case 145: knunat:9P in pysan
+Case 146: kmarat:1P in pysan
+Case 147: kraMSat:1P in pysan
+Case 148: krat:2P in pysan
+Case 149: kraTat:1P in pysan
+Case 150: kruqat:6P in pysan
+Case 151: kroqayat:10P in pysan
+Case 152: klaTat:1P in pysan
+Case 153: klandat:1P in pysan
+Case 154: klAmat:1P in pysan
+Case 155: klindat:1P in pysan
+Case 156: kliSyat:4P in pysan
+Case 157: kvaRat:1P in pysan
+Case 158: kzapayat:10P in pysan
+Case 159: kzampat:1P in pysan
+Case 160: kzAjayat:10P in pysan
+Case 161: kzAyat:1P in pysan
+Case 162: kzAlayat:10P in pysan
+Case 163: kzIjat:1P in pysan
+Case 164: kzIbat:1P in pysan
+Case 165: kzIvat:1P in pysan
+Case 166: kzIvyat:4P in pysan
+Case 167: kzundat:7P in pysan
+Case 168: kzupat:6P in pysan
+Case 169: kzuBRuvat:5P in pysan
+Case 170: kzuBnat:9P in pysan
+Case 171: kzumpat:1P in pysan
+Case 172: kzurat:6P in pysan
+Case 173: kzevat:1P in pysan
+Case 174: kzowayat:10P in pysan
+Case 175: kzRuvat:2P in pysan
+Case 176: kzmIlat:1P in pysan
+Case 177: kzviqyat:4P in pysan
+Case 178: kzvidyat:4P in pysan
+Case 179: kzvelat:1P in pysan
+Case 180: Kacat:1P in pysan
+Case 181: Kacnat:9P in pysan
+Case 182: Kajat:1P in pysan
+Case 183: KaYjat:1P in pysan
+Case 184: Kawat:1P in pysan
+Case 185: Kawwayat:10P in pysan
+Case 186: KaRqayat:10P in pysan
+Case 187: Kadat:6P in pysan
+Case 188: Kambat:1P in pysan
+Case 189: Karjat:1P in pysan
+Case 190: Kardat:1P in pysan
+Case 191: Karbat:1P in pysan
+Case 192: Karvat:1P in pysan
+Case 193: Kalat:1P in pysan
+Case 194: Kazat:1P in pysan
+Case 195: KAcayat:10P in pysan
+Case 196: KAqayat:10P in pysan
+Case 197: KAyat:1P in pysan
+Case 198: Kindat:6P in pysan
+Case 199: KuRqayat:10P in pysan
+Case 200: Kudat:6P in pysan
+Case 201: Kurat:6P in pysan
+Case 202: Kewat:1P in pysan
+Case 203: Kewayat:10P in pysan
+Case 204: Kojat:1P in pysan
+Case 205: Kowat:1P in pysan
+Case 206: Kowayat:10P in pysan
+Case 207: Koqat:1P in pysan
+Case 208: Koqayat:10P in pysan
+Case 209: Korat:1P in pysan
+Case 210: gaYjat:1P in pysan
+Case 211: gaqat:1P in pysan
+Case 212: gaRqat:1P in pysan
+Case 213: gadayat:10P in pysan
+Case 214: gaDyat:4P in pysan
+Case 215: gamat:1P,2P in pysan
+Case 216: gambat:1P in pysan
+Case 217: garat:1P in pysan
+Case 218: gardayat:10P in pysan
+Case 219: garbat:1P in pysan
+Case 220: garvat:1P in pysan
+Case 221: gAjayat:10P in pysan
+Case 222: gAqayat:10P in pysan
+Case 223: gAdayat:10P in pysan
+Case 224: gAhat:1P in pysan
+Case 225: gAhayat:10P in pysan
+Case 226: gilat:6P in pysan
+Case 227: gujat:6P in pysan
+Case 228: guqat:6P in pysan
+Case 229: guRWayat:10P in pysan
+Case 230: guRqayat:10P in pysan
+Case 231: guDnat:9P in pysan
+Case 232: guDyat:4P in pysan
+Case 233: gupyat:4P in pysan
+Case 234: guPat:6P in pysan
+Case 235: gurat:6P in pysan
+Case 236: guvat:6P in pysan
+Case 237: gUrdat:1P in pysan
+Case 238: gUrdayat:10P in pysan
+Case 239: gUrDayat:10P in pysan
+Case 240: gUryat:4P in pysan
+Case 241: gUrvat:1P in pysan
+Case 242: gojat:1P in pysan
+Case 243: graTat:1P in pysan
+Case 244: grocat:1P in pysan
+Case 245: gluYcat:1P in pysan
+Case 246: glocat:1P in pysan
+Case 247: GagGat:1P in pysan
+Case 248: GaRwat:1P in pysan
+Case 249: GaRvat:8P in pysan
+Case 250: Garbat:1P in pysan
+Case 251: Gasat:1P in pysan
+Case 252: GArayat:10P in pysan
+Case 253: Guwat:6P in pysan
+Case 254: Guqat:6P in pysan
+Case 255: GuRat:6P in pysan
+Case 256: GfRvat:5P,8P in pysan
+Case 257: Gfvat:8P in pysan
+Case 258: Golayat:10P in pysan
+Case 259: cakat:1P in pysan
+Case 260: cakkayat:10P in pysan
+Case 261: caGnuvat:5P in pysan
+Case 262: caRat:1P in pysan
+Case 263: caRqat:1P in pysan
+Case 264: cadat:1P in pysan
+Case 265: canat:1P in pysan
+Case 266: capat:1P in pysan
+Case 267: capayat:10P in pysan
+Case 268: camnuvat:5P in pysan
+Case 269: campayat:10P in pysan
+Case 270: cambat:1P in pysan
+Case 271: cayat:1P in pysan
+Case 272: carGat:1P in pysan
+Case 273: carcat:1P in pysan
+Case 274: carbat:1P in pysan
+Case 275: carvayat:10P in pysan
+Case 276: cahat:1P in pysan
+Case 277: cAmat:1P in pysan
+Case 278: cAhayat:10P in pysan
+Case 279: cikitat:3P in pysan
+Case 280: cikkayat:10P in pysan
+Case 281: cikyat:3P in pysan
+Case 282: cikrat:3P in pysan
+Case 283: cicitat:3P in pysan
+Case 284: cicyat:3P in pysan
+Case 285: citat:2P in pysan
+Case 286: ciriRvat:5P in pysan
+Case 287: cilat:6P in pysan
+Case 288: cIkat:1P in pysan
+Case 289: cIkayat:10P in pysan
+Case 290: cIvat:1P in pysan
+Case 291: cIvayat:10P in pysan
+Case 292: cukkayat:10P in pysan
+Case 293: cuwat:6P in pysan
+Case 294: cuwwayat:10P in pysan
+Case 295: cuqat:6P in pysan
+Case 296: cuqqat:1P in pysan
+Case 297: cuRat:6P in pysan
+Case 298: cuRWayat:10P in pysan
+Case 299: cupat:6P in pysan
+Case 300: cumbayat:10P in pysan
+Case 301: culumpat:1P in pysan
+Case 302: cURayat:10P in pysan
+Case 303: cUrayat:10P in pysan
+Case 304: cUryat:4P in pysan
+Case 305: cfntat:6P in pysan
+Case 306: cewat:1P in pysan
+Case 307: celat:1P in pysan
+Case 308: cowat:1P in pysan
+Case 309: cowayat:10P in pysan
+Case 310: cotat:1P in pysan
+Case 311: colayat:10P in pysan
+Case 312: cyAvayat:10P in pysan
+Case 313: cyotat:1P in pysan
+Case 314: cyosayat:10P in pysan
+Case 315: Camat:1P in pysan
+Case 316: Campayat:10P in pysan
+Case 317: Cardat:1P in pysan
+Case 318: Carpat:1P in pysan
+Case 319: Cazat:1P in pysan
+Case 320: CAdayat:10P in pysan
+Case 321: CAlayat:10P in pysan
+Case 322: Cidnat:9P in pysan
+Case 323: Cuwat:6P in pysan
+Case 324: Cuqat:6P in pysan
+Case 325: Cupat:6P in pysan
+Case 326: Curat:6P in pysan
+Case 327: Cfndat:7P in pysan
+Case 328: Cedat:1P in pysan
+Case 329: Cowayat:10P in pysan
+Case 330: Coyat:4P in pysan
+Case 331: jaMsat:1P in pysan
+Case 332: jaMsayat:10P in pysan
+Case 333: jagamat:3P in pysan
+Case 334: jagAt:3P in pysan
+Case 335: jaNkzat:1P in pysan
+Case 336: jajat:1P in pysan
+Case 337: jajanat:3P in pysan
+Case 338: jamBat:1P in pysan
+Case 339: jarcat:1P in pysan
+Case 340: jarCat:1P in pysan
+Case 341: jarjat:1P in pysan
+Case 342: jartsat:1P in pysan
+Case 343: jalat:1P in pysan
+Case 344: jAlayat:10P in pysan
+Case 345: jiriRvat:5P in pysan
+Case 346: jihryat:3P in pysan
+Case 347: juNgat:1P in pysan
+Case 348: juYcat:1P in pysan
+Case 349: juYcayat:10P in pysan
+Case 350: juwat:6P in pysan
+Case 351: juqat:6P in pysan
+Case 352: junat:6P in pysan
+Case 353: jurat:6P in pysan
+Case 354: juhvat:3P in pysan
+Case 355: jUryat:4P in pysan
+Case 356: jUrvat:1P in pysan
+Case 357: jemat:1P in pysan
+Case 358: jezat:1P in pysan
+Case 359: joqayat:10P in pysan
+Case 360: jolayat:10P in pysan
+Case 361: jrayat:1P in pysan
+Case 362: Jawat:1P in pysan
+Case 363: Jamat:1P in pysan
+Case 364: Jarcat:1P in pysan
+Case 365: Jazat:1P in pysan
+Case 366: JIryat:4P in pysan
+Case 367: JUzat:1P in pysan
+Case 368: JfRat:9P in pysan
+Case 369: waNkayat:10P in pysan
+Case 370: wvalat:1P in pysan
+Case 371: qamat:1P in pysan
+Case 372: qipat:6P in pysan
+Case 373: qipyat:4P in pysan
+Case 374: qepayat:10P in pysan
+Case 375: taNgat:1P in pysan
+Case 376: tawat:1P in pysan
+Case 377: tanat:1P in pysan
+Case 378: tandrat:1P in pysan
+Case 379: tayat:1P in pysan
+Case 380: tardat:1P in pysan
+Case 381: talat:1P in pysan
+Case 382: tasyat:4P in pysan
+Case 383: tAqayat:10P in pysan
+Case 384: tAnayat:10P in pysan
+Case 385: tAyat:1P in pysan
+Case 386: tAlayat:10P in pysan
+Case 387: tiknuvat:5P in pysan
+Case 388: tignuvat:5P in pysan
+Case 389: tiGnuvat:5P in pysan
+Case 390: titrat:3P in pysan
+Case 391: timyat:4P in pysan
+Case 392: tilat:6P in pysan
+Case 393: tillat:1P in pysan
+Case 394: tImyat:4P in pysan
+Case 395: tIvat:1P in pysan
+Case 396: tujat:6P in pysan
+Case 397: tuwat:6P in pysan
+Case 398: tuqat:6P in pysan
+Case 399: tuqqat:1P in pysan
+Case 400: tuRat:6P in pysan
+Case 401: tuturat:3P in pysan
+Case 402: tundat:1P in pysan
+Case 403: tuBnat:9P in pysan
+Case 404: tuByat:4P in pysan
+Case 405: tumpat:1P,6P in pysan
+Case 406: tumbat:1P in pysan
+Case 407: tumbayat:10P in pysan
+Case 408: turat:6P in pysan
+Case 409: tuvat:2P in pysan
+Case 410: tUqat:1P in pysan
+Case 411: tURayat:10P in pysan
+Case 412: tUryat:4P in pysan
+Case 413: tUrvat:1P in pysan
+Case 414: tUlat:1P in pysan
+Case 415: tUlayat:10P in pysan
+Case 416: tUzat:1P in pysan
+Case 417: tfkzat:1P in pysan
+Case 418: tfNhat:7P in pysan
+Case 419: tfRvat:8P in pysan
+Case 420: tfpat:6P in pysan
+Case 421: tfpRuvat:5P in pysan
+Case 422: tfPat:6P in pysan
+Case 423: tfmpat:6P in pysan
+Case 424: tfmPat:6P in pysan
+Case 425: tFRvat:5P in pysan
+Case 426: tekat:1P in pysan
+Case 427: tejat:1P in pysan
+Case 428: tepat:1P in pysan
+Case 429: telat:1P in pysan
+Case 430: telayat:10P in pysan
+Case 431: tevat:1P in pysan
+Case 432: tojat:1P in pysan
+Case 433: toqat:1P in pysan
+Case 434: toBat:1P in pysan
+Case 435: toSat:1P in pysan
+Case 436: tosat:1P in pysan
+Case 437: tohat:1P in pysan
+Case 438: traMsat:1P in pysan
+Case 439: traMsayat:10P in pysan
+Case 440: traKat:1P in pysan
+Case 441: trandat:1P in pysan
+Case 442: trapat:1P in pysan
+Case 443: trasat:1P in pysan
+Case 444: trAsayat:10P in pysan
+Case 445: triNKat:1P in pysan
+Case 446: truwyat:4P in pysan
+Case 447: trumpat:1P in pysan
+Case 448: trumPat:1P in pysan
+Case 449: tropat:1P in pysan
+Case 450: troPat:1P in pysan
+Case 451: tvaNgat:1P in pysan
+Case 452: tvacat:6P in pysan
+Case 453: tvaYcat:1P,7P in pysan
+Case 454: tvarat:1P in pysan
+Case 455: Tarvat:1P in pysan
+Case 456: Tuqat:6P in pysan
+Case 457: TUrvat:1P in pysan
+Case 458: daMSayat:10P in pysan
+Case 459: daMsat:1P in pysan
+Case 460: daMsayat:10P in pysan
+Case 461: daMhayat:10P in pysan
+Case 462: dakzat:1P in pysan
+Case 463: daGyat:4P in pysan
+Case 464: daNGat:1P in pysan
+Case 465: daDanat:3P in pysan
+Case 466: danvat:1P in pysan
+Case 467: damnat:9P in pysan
+Case 468: damBat:1P in pysan
+Case 469: darBat:1P in pysan
+Case 470: darBayat:10P in pysan
+Case 471: darhat:1P in pysan
+Case 472: davat:1P,2P in pysan
+Case 473: dasat:1P in pysan
+Case 474: dAnat:1P in pysan
+Case 475: dAsnuvat:5P in pysan
+Case 476: didiSat:3P in pysan
+Case 477: didyat:3P in pysan
+Case 478: diDizat:3P in pysan
+Case 479: dinvat:1P in pysan
+Case 480: dIyat:4P in pysan
+Case 481: duhyat:4P in pysan
+Case 482: dUnvat:5P in pysan
+Case 483: dUrvat:1P in pysan
+Case 484: dfMhyat:4P in pysan
+Case 485: dfpat:6P in pysan
+Case 486: doDat:1P in pysan
+Case 487: dohat:1P in pysan
+Case 488: dyat:4P in pysan
+Case 489: dyAyat:1P in pysan
+Case 490: dyuvat:2P in pysan
+Case 491: drat:2P in pysan
+Case 492: dramat:1P in pysan
+Case 493: drAKat:1P in pysan
+Case 494: drANkzat:1P in pysan
+Case 495: druRat:6P,9P in pysan
+Case 496: druRvat:5P in pysan
+Case 497: drummat:1P in pysan
+Case 498: drUqat:1P in pysan
+Case 499: drURvat:5P in pysan
+Case 500: droqat:1P in pysan
+Case 501: dvarat:1P in pysan
+Case 502: Dakkayat:10P in pysan
+Case 503: DaRat:1P in pysan
+Case 504: Danat:1P in pysan
+Case 505: Darjat:1P in pysan
+Case 506: Davat:1P in pysan
+Case 507: DAt:1P,2P in pysan
+Case 508: Dinvat:5P in pysan
+Case 509: Diyat:6P in pysan
+Case 510: Dunat:9P in pysan
+Case 511: DUnvat:5P in pysan
+Case 512: DUpAyat:1P in pysan
+Case 513: DUrvat:1P in pysan
+Case 514: DUSayat:10P in pysan
+Case 515: DfRat:9P in pysan
+Case 516: Dorat:1P in pysan
+Case 517: Drajat:1P in pysan
+Case 518: DraRat:1P in pysan
+Case 519: Drasnat:9P in pysan
+Case 520: DrAt:2P in pysan
+Case 521: DrAyat:1P,2P in pysan
+Case 522: Drejat:1P in pysan
+Case 523: Dvajat:1P in pysan
+Case 524: DvaRat:1P in pysan
+Case 525: Dvat:6P in pysan
+Case 526: DvraRat:1P in pysan
+Case 527: nakkayat:10P in pysan
+Case 528: naKyat:4P in pysan
+Case 529: naBnat:9P in pysan
+Case 530: naByat:4P in pysan
+Case 531: nambat:1P in pysan
+Case 532: narbat:1P in pysan
+Case 533: nalat:1P in pysan
+Case 534: naSat:1P in pysan
+Case 535: nAqayat:10P in pysan
+Case 536: nAlayat:10P in pysan
+Case 537: nikzat:1P in pysan
+Case 538: ninvat:1P in pysan
+Case 539: nilat:6P in pysan
+Case 540: nIlat:1P in pysan
+Case 541: nIvat:1P in pysan
+Case 542: nuqat:6P in pysan
+Case 543: nfRat:9P in pysan
+Case 544: nedat:1P in pysan
+Case 545: neSat:1P in pysan
+Case 546: nezat:1P in pysan
+Case 547: paMSat:1P in pysan
+Case 548: pakzat:1P in pysan
+Case 549: pawayat:10P in pysan
+Case 550: paRqat:1P in pysan
+Case 551: paRqayat:10P in pysan
+Case 552: padat:1P in pysan
+Case 553: panTat:1P in pysan
+Case 554: panTayat:10P in pysan
+Case 555: pambat:1P in pysan
+Case 556: parRayat:10P in pysan
+Case 557: parpat:1P in pysan
+Case 558: parbat:1P in pysan
+Case 559: parvat:1P in pysan
+Case 560: palat:1P in pysan
+Case 561: pallat:1P in pysan
+Case 562: pazat:1P in pysan
+Case 563: pasat:1P in pysan
+Case 564: pAwayat:10P in pysan
+Case 565: pAyat:1P in pysan
+Case 566: pAlayat:10P in pysan
+Case 567: pAsayat:10P in pysan
+Case 568: piMsat:1P in pysan
+Case 569: piMsayat:10P in pysan
+Case 570: piccayat:10P in pysan
+Case 571: piCat:6P in pysan
+Case 572: piYjayat:10P in pysan
+Case 573: piRzat:7P in pysan
+Case 574: pinvat:1P in pysan
+Case 575: pipurat:3P in pysan
+Case 576: piprat:3P in pysan
+Case 577: pirat:6P in pysan
+Case 578: pisyat:4P in pysan
+Case 579: pIlat:1P in pysan
+Case 580: puMsayat:10P in pysan
+Case 581: puwat:6P in pysan
+Case 582: puwayat:10P in pysan
+Case 583: puwwayat:10P in pysan
+Case 584: puqat:6P in pysan
+Case 585: puRat:6P in pysan
+Case 586: puRwayat:10P in pysan
+Case 587: puRqat:1P in pysan
+Case 588: purat:6P in pysan
+Case 589: pustayat:10P in pysan
+Case 590: pURayat:10P in pysan
+Case 591: pUrvat:1P in pysan
+Case 592: pUrvayat:10P in pysan
+Case 593: pUzat:1P in pysan
+Case 594: pfqat:6P in pysan
+Case 595: pfRvat:5P in pysan
+Case 596: peCayat:10P in pysan
+Case 597: pewat:1P in pysan
+Case 598: peWat:1P in pysan
+Case 599: peRat:1P in pysan
+Case 600: pelat:1P in pysan
+Case 601: pelayat:10P in pysan
+Case 602: pesat:1P in pysan
+Case 603: pesayat:10P in pysan
+Case 604: pERat:1P in pysan
+Case 605: poCat:1P in pysan
+Case 606: powat:1P in pysan
+Case 607: powayat:10P in pysan
+Case 608: poqat:1P in pysan
+Case 609: poRayat:10P in pysan
+Case 610: pozat:1P in pysan
+Case 611: posayat:10P in pysan
+Case 612: pyuzyat:4P in pysan
+Case 613: pyusyat:4P in pysan
+Case 614: pyozayat:10P in pysan
+Case 615: praCat:6P in pysan
+Case 616: prayat:2P in pysan
+Case 617: prATayat:10P in pysan
+Case 618: pruzRat:9P in pysan
+Case 619: pruzRuvat:5P in pysan
+Case 620: pruzyat:4P in pysan
+Case 621: prERat:1P in pysan
+Case 622: proTat:1P in pysan
+Case 623: prozat:1P in pysan
+Case 624: prozayat:10P in pysan
+Case 625: plakzat:1P in pysan
+Case 626: plinat:9P in pysan
+Case 627: plusyat:4P in pysan
+Case 628: psAt:2P in pysan
+Case 629: Pakkat:1P in pysan
+Case 630: PaRat:1P in pysan
+Case 631: Parvat:1P in pysan
+Case 632: Pelat:1P in pysan
+Case 633: badat:1P in pysan
+Case 634: barbat:1P in pysan
+Case 635: barhat:1P in pysan
+Case 636: barhayat:10P in pysan
+Case 637: bADat:1P in pysan
+Case 638: bAlayat:10P in pysan
+Case 639: biByat:3P in pysan
+Case 640: biBrat:3P in pysan
+Case 641: bilat:6P in pysan
+Case 642: bisyat:4P in pysan
+Case 643: bukkat:1P in pysan
+Case 644: bukkayat:10P in pysan
+Case 645: buNgat:1P in pysan
+Case 646: buqat:6P in pysan
+Case 647: bundat:1P in pysan
+Case 648: bunDat:1P in pysan
+Case 649: bunDayat:10P in pysan
+Case 650: busyat:4P in pysan
+Case 651: bfMhat:6P in pysan
+Case 652: bewat:1P in pysan
+Case 653: bedat:1P in pysan
+Case 654: belayat:10P in pysan
+Case 655: beSat:1P in pysan
+Case 656: bowat:1P in pysan
+Case 657: bowayat:10P in pysan
+Case 658: bodat:1P in pysan
+Case 659: bolayat:10P in pysan
+Case 660: brahmat:1P in pysan
+Case 661: Bakzayat:10P in pysan
+Case 662: Bawat:1P in pysan
+Case 663: BaRwayat:10P in pysan
+Case 664: Banat:1P in pysan
+Case 665: Barbat:1P in pysan
+Case 666: Barvat:1P in pysan
+Case 667: BAwayat:10P in pysan
+Case 668: BAmat:1P in pysan
+Case 669: BfMSat:1P in pysan
+Case 670: BfMSayat:10P in pysan
+Case 671: Bfkzat:1P in pysan
+Case 672: Bfqat:6P in pysan
+Case 673: BfRat:9P in pysan
+Case 674: BfSat:6P in pysan
+Case 675: BfSyat:4P in pysan
+Case 676: Bezat:1P in pysan
+Case 677: Brakzat:1P in pysan
+Case 678: Brajjat:6P in pysan
+Case 679: BraRat:1P in pysan
+Case 680: Brat:2P in pysan
+Case 681: BrIRat:9P in pysan
+Case 682: Bruqat:6P in pysan
+Case 683: Brezat:1P in pysan
+Case 684: makzat:1P in pysan
+Case 685: maKat:1P in pysan
+Case 686: maNGat:1P in pysan
+Case 687: maYjayat:10P in pysan
+Case 688: maWat:1P in pysan
+Case 689: maRat:1P in pysan
+Case 690: maRwayat:10P in pysan
+Case 691: maTnat:9P in pysan
+Case 692: maBrat:1P in pysan
+Case 693: mamAt:3P in pysan
+Case 694: mambat:1P in pysan
+Case 695: marcayat:10P in pysan
+Case 696: marjat:1P,6P in pysan
+Case 697: marjayat:10P in pysan
+Case 698: marqayat:10P in pysan
+Case 699: marbat:1P in pysan
+Case 700: marvat:1P in pysan
+Case 701: marzat:1P in pysan
+Case 702: mavat:1P in pysan
+Case 703: mavyat:1P in pysan
+Case 704: maSat:1P in pysan
+Case 705: masyat:4P in pysan
+Case 706: mahat:1P in pysan
+Case 707: mahayat:10P in pysan
+Case 708: mANkzat:1P in pysan
+Case 709: mAqat:1P in pysan
+Case 710: mAnat:1P in pysan
+Case 711: mAnayat:10P in pysan
+Case 712: mAnTat:1P in pysan
+Case 713: mAyayat:10P in pysan
+Case 714: mArgat:1P in pysan
+Case 715: mArjayat:10P in pysan
+Case 716: mAhat:1P in pysan
+Case 717: miCat:6P in pysan
+Case 718: miYjayat:10P in pysan
+Case 719: minat:9P in pysan
+Case 720: misyat:4P in pysan
+Case 721: mImat:1P in pysan
+Case 722: mIvat:1P in pysan
+Case 723: muwat:6P in pysan
+Case 724: muRat:6P in pysan
+Case 725: muRqat:1P in pysan
+Case 726: murat:6P in pysan
+Case 727: mustayat:10P in pysan
+Case 728: mUrcCat:1P in pysan
+Case 729: mUrvat:1P in pysan
+Case 730: mUlat:1P in pysan
+Case 731: mfgyat:4P in pysan
+Case 732: mfRat:6P,9P in pysan
+Case 733: meqat:1P in pysan
+Case 734: medat:1P in pysan
+Case 735: medayat:10P in pysan
+Case 736: meDat:1P in pysan
+Case 737: mepat:1P in pysan
+Case 738: meSat:1P in pysan
+Case 739: mezat:1P in pysan
+Case 740: moCat:1P in pysan
+Case 741: mojat:1P in pysan
+Case 742: mojayat:10P in pysan
+Case 743: mowat:1P in pysan
+Case 744: mowayat:10P in pysan
+Case 745: moqat:1P in pysan
+Case 746: modayat:10P in pysan
+Case 747: mozat:1P in pysan
+Case 748: myakzat:1P in pysan
+Case 749: mrakzat:1P in pysan
+Case 750: mrityat:4P in pysan
+Case 751: mruYcat:1P in pysan
+Case 752: mreqat:1P in pysan
+Case 753: mrocat:1P in pysan
+Case 754: mlakzayat:10P in pysan
+Case 755: mluYcat:1P in pysan
+Case 756: mleCat:1P in pysan
+Case 757: mleCayat:10P in pysan
+Case 758: mlewat:1P in pysan
+Case 759: mlocat:1P in pysan
+Case 760: yakzat:1P in pysan
+Case 761: yuNgat:1P in pysan
+Case 762: yupyat:4P in pysan
+Case 763: yuyvat:3P in pysan
+Case 764: yUzat:1P in pysan
+Case 765: yezat:1P in pysan
+Case 766: yoCat:1P in pysan
+Case 767: yOwat:1P in pysan
+Case 768: raKat:1P in pysan
+Case 769: ragat:1P in pysan
+Case 770: raNKat:1P in pysan
+Case 771: raNgat:1P in pysan
+Case 772: raNGayat:10P in pysan
+Case 773: rawat:1P in pysan
+Case 774: raWat:1P in pysan
+Case 775: raRvat:1P in pysan
+Case 776: rapat:1P in pysan
+Case 777: raPat:1P in pysan
+Case 778: ramPat:1P in pysan
+Case 779: rambat:1P in pysan
+Case 780: rasat:1P in pysan
+Case 781: rAkayat:10P in pysan
+Case 782: rAKat:1P in pysan
+Case 783: rAgayat:10P in pysan
+Case 784: rARayat:10P in pysan
+Case 785: rAyat:1P in pysan
+Case 786: riKat:6P in pysan
+Case 787: riNKat:1P in pysan
+Case 788: riNgat:1P in pysan
+Case 789: riRvat:1P in pysan
+Case 790: riPat:6P in pysan
+Case 791: rimPat:6P in pysan
+Case 792: riSat:6P in pysan
+Case 793: rihat:2P,6P in pysan
+Case 794: rIyat:4P in pysan
+Case 795: rIvat:1P in pysan
+Case 796: ruMSat:1P in pysan
+Case 797: ruMSayat:10P in pysan
+Case 798: ruRwat:1P in pysan
+Case 799: ruRWat:1P in pysan
+Case 800: rupyat:4P in pysan
+Case 801: ruSat:6P in pysan
+Case 802: rUzat:1P in pysan
+Case 803: reKat:1P in pysan
+Case 804: recat:1P in pysan
+Case 805: rejat:1P in pysan
+Case 806: rewat:1P in pysan
+Case 807: reBat:1P in pysan
+Case 808: rezat:1P in pysan
+Case 809: rowayat:10P in pysan
+Case 810: roWat:1P in pysan
+Case 811: roqat:1P in pysan
+Case 812: rozat:1P in pysan
+Case 813: rOwat:1P in pysan
+Case 814: laKat:1P in pysan
+Case 815: laNGayat:10P in pysan
+Case 816: laCat:1P in pysan
+Case 817: lajat:1P in pysan
+Case 818: lajayat:10P in pysan
+Case 819: laYjat:1P in pysan
+Case 820: laYjayat:10P in pysan
+Case 821: lawat:1P in pysan
+Case 822: laqat:1P in pysan
+Case 823: laRqayat:10P in pysan
+Case 824: layat:1P in pysan
+Case 825: lardayat:10P in pysan
+Case 826: larbat:1P in pysan
+Case 827: lAkayat:10P in pysan
+Case 828: lAKat:1P in pysan
+Case 829: lAgayat:10P in pysan
+Case 830: lAjat:1P in pysan
+Case 831: lAjayat:10P in pysan
+Case 832: lAYjat:1P in pysan
+Case 833: lAqayat:10P in pysan
+Case 834: lAt:2P in pysan
+Case 835: lABayat:10P in pysan
+Case 836: lASayat:10P in pysan
+Case 837: lAzayat:10P in pysan
+Case 838: lAsayat:10P in pysan
+Case 839: liNKat:1P in pysan
+Case 840: liNgat:1P in pysan
+Case 841: liNgayat:10P in pysan
+Case 842: linat:9P in pysan
+Case 843: luwyat:4P in pysan
+Case 844: luqat:6P in pysan
+Case 845: luRwat:1P in pysan
+Case 846: luRwayat:10P in pysan
+Case 847: lunTat:1P in pysan
+Case 848: lupyat:4P in pysan
+Case 849: luBat:6P in pysan
+Case 850: lumbayat:10P in pysan
+Case 851: lUzat:1P in pysan
+Case 852: lUzayat:10P in pysan
+Case 853: lepat:1P in pysan
+Case 854: lERat:1P in pysan
+Case 855: locayat:10P in pysan
+Case 856: lowat:1P in pysan
+Case 857: lowayat:10P in pysan
+Case 858: loWayat:10P in pysan
+Case 859: loqat:1P in pysan
+Case 860: lozat:1P in pysan
+Case 861: lOqat:1P in pysan
+Case 862: lpinat:9P in pysan
+Case 863: lvinat:9P in pysan
+Case 864: vakzat:1P in pysan
+Case 865: vaKat:1P in pysan
+Case 866: vaNKat:1P in pysan
+Case 867: vaNgat:1P in pysan
+Case 868: vajat:1P in pysan
+Case 869: vawat:1P in pysan
+Case 870: vawayat:10P in pysan
+Case 871: vawwat:1P in pysan
+Case 872: vaWat:1P in pysan
+Case 873: vaqQat:1P in pysan
+Case 874: vaRat:1P in pysan
+Case 875: vaRwat:1P in pysan
+Case 876: vaRwayat:10P in pysan
+Case 877: vaRqayat:10P in pysan
+Case 878: vaBrat:1P in pysan
+Case 879: varjat:1P in pysan
+Case 880: varDayat:10P in pysan
+Case 881: varPat:1P in pysan
+Case 882: valkayat:10P in pysan
+Case 883: vallat:1P in pysan
+Case 884: valhayat:10P in pysan
+Case 885: vaSat:2P in pysan
+Case 886: vazat:1P in pysan
+Case 887: vasayat:10P in pysan
+Case 888: vasyat:4P in pysan
+Case 889: vANkzat:1P in pysan
+Case 890: vAtayat:10P in pysan
+Case 891: vAyat:1P in pysan
+Case 892: vicat:6P in pysan
+Case 893: viRwayat:10P in pysan
+Case 894: vilat:6P in pysan
+Case 895: vizkayat:10P in pysan
+Case 896: vizRat:9P in pysan
+Case 897: vIjayat:10P in pysan
+Case 898: vuRwayat:10P in pysan
+Case 899: vfMhat:6P in pysan
+Case 900: vfSyat:4P in pysan
+Case 901: vFRvat:5P in pysan
+Case 902: vekzayat:10P in pysan
+Case 903: veCayat:10P in pysan
+Case 904: vewat:1P in pysan
+Case 905: vewyat:1P in pysan
+Case 906: veqat:1P in pysan
+Case 907: velat:1P in pysan
+Case 908: velayat:10P in pysan
+Case 909: vellat:1P in pysan
+Case 910: vesat:1P in pysan
+Case 911: vehat:1P in pysan
+Case 912: vehlat:1P in pysan
+Case 913: vyayayat:10P in pysan
+Case 914: vyApayat:10P in pysan
+Case 915: vyuzyat:4P in pysan
+Case 916: vyozayat:10P in pysan
+Case 917: vraRat:1P in pysan
+Case 918: vrAjayat:10P in pysan
+Case 919: vrARayat:10P in pysan
+Case 920: vrIRat:9P in pysan
+Case 921: vruqat:6P in pysan
+Case 922: vlinat:9P in pysan
+Case 923: Sawat:1P in pysan
+Case 924: SaWat:1P in pysan
+Case 925: SaWayat:10P in pysan
+Case 926: SaRat:1P in pysan
+Case 927: Sapyat:4P in pysan
+Case 928: Samnat:9P in pysan
+Case 929: Sambat:1P in pysan
+Case 930: Sambayat:10P in pysan
+Case 931: SarDat:1P in pysan
+Case 932: Sarbat:1P in pysan
+Case 933: Sarvat:1P in pysan
+Case 934: Savat:1P in pysan
+Case 935: SaSavat:3P in pysan
+Case 936: Sazat:1P in pysan
+Case 937: SAKat:1P in pysan
+Case 938: SAWayat:10P in pysan
+Case 939: SARayat:10P in pysan
+Case 940: Sikzat:1P in pysan
+Case 941: SiNKat:1P in pysan
+Case 942: SiNGat:1P in pysan
+Case 943: SiRzat:7P in pysan
+Case 944: Sinvat:5P in pysan
+Case 945: Simyat:4P in pysan
+Case 946: Silat:6P in pysan
+Case 947: SiSyat:3P in pysan
+Case 948: Sucyat:1P,4P in pysan
+Case 949: SuRWat:1P in pysan
+Case 950: SuRWayat:10P in pysan
+Case 951: SuRqat:1P in pysan
+Case 952: Sunat:6P in pysan
+Case 953: Sulkayat:10P in pysan
+Case 954: Sulbayat:10P in pysan
+Case 955: Suzat:6P in pysan
+Case 956: SUrpayat:10P in pysan
+Case 957: SUlat:1P in pysan
+Case 958: SUzat:1P in pysan
+Case 959: Sewat:1P in pysan
+Case 960: Selat:1P in pysan
+Case 961: Sezat:1P in pysan
+Case 962: Sokat:1P in pysan
+Case 963: SoWat:1P in pysan
+Case 964: SoWayat:10P in pysan
+Case 965: SoRat:1P in pysan
+Case 966: SoDat:1P in pysan
+Case 967: SOwat:1P in pysan
+Case 968: Scyotat:1P in pysan
+Case 969: SnaTat:1P in pysan
+Case 970: SmIlat:1P in pysan
+Case 971: SraNgat:1P in pysan
+Case 972: SraRat:1P in pysan
+Case 973: SraTnat:9P in pysan
+Case 974: SrARayat:10P in pysan
+Case 975: SrAt:1P in pysan
+Case 976: SrAyat:1P in pysan
+Case 977: SriRat:9P in pysan
+Case 978: Srezat:1P in pysan
+Case 979: SroRat:1P in pysan
+Case 980: SlaNgat:1P in pysan
+Case 981: SlaTat:1P in pysan
+Case 982: SlAKat:1P in pysan
+Case 983: Slezat:1P in pysan
+Case 984: SloRat:1P in pysan
+Case 985: SvaNgat:1P in pysan
+Case 986: SvaBrayat:10P in pysan
+Case 987: Svalat:1P in pysan
+Case 988: Svalkayat:10P in pysan
+Case 989: SvAWayat:10P in pysan
+Case 990: SvAtrat:1P in pysan
+Case 991: zawwayat:10P in pysan
+Case 992: zazkat:1P in pysan
+Case 993: zWIvyat:4P in pysan
+Case 994: zvazkat:1P in pysan
+Case 995: sakzat:1P in pysan
+Case 996: sagat:1P in pysan
+Case 997: saGnuvat:5P in pysan
+Case 998: sajjat:1P in pysan
+Case 999: sawat:1P in pysan
+Case 1000: sawwayat:10P in pysan
+Case 1001: sanat:1P in pysan
+Case 1002: saBAjayat:10P in pysan
+Case 1003: samat:1P in pysan
+Case 1004: sarjat:1P in pysan
+Case 1005: sarbat:1P in pysan
+Case 1006: sarBat:1P in pysan
+Case 1007: salat:1P in pysan
+Case 1008: sasat:2P in pysan
+Case 1009: sahyat:4P in pysan
+Case 1010: sAkzat:1P in pysan
+Case 1011: sAwayat:10P in pysan
+Case 1012: sAWayat:10P in pysan
+Case 1013: sADat:1P in pysan
+Case 1014: sADnuvat:5P in pysan
+Case 1015: sADyat:4P in pysan
+Case 1016: sAmayat:10P in pysan
+Case 1017: sAmayAyat:10P in pysan
+Case 1018: sAyat:1P in pysan
+Case 1019: sArayat:10P in pysan
+Case 1020: sAhayat:10P in pysan
+Case 1021: sinat:9P in pysan
+Case 1022: sinvat:5P in pysan
+Case 1023: sisrat:3P in pysan
+Case 1024: suKayat:10P in pysan
+Case 1025: suwwayat:10P in pysan
+Case 1026: suBat:6P in pysan
+Case 1027: suBnat:9P in pysan
+Case 1028: suhyat:4P in pysan
+Case 1029: sUrkzat:1P in pysan
+Case 1030: sUzat:1P in pysan
+Case 1031: sfRat:9P in pysan
+Case 1032: sewat:1P in pysan
+Case 1033: soBat:1P in pysan
+Case 1034: sorayat:10P in pysan
+Case 1035: skanDayat:10P in pysan
+Case 1036: skamBnuvat:5P in pysan
+Case 1037: skunat:9P in pysan
+Case 1038: skunvat:5P in pysan
+Case 1039: stakat:1P in pysan
+Case 1040: stamBnuvat:5P in pysan
+Case 1041: stAyat:1P in pysan
+Case 1042: stiGnuvat:5P in pysan
+Case 1043: stimyat:4P in pysan
+Case 1044: stuBnat:9P in pysan
+Case 1045: stumBnuvat:5P in pysan
+Case 1046: stUpayat:10P in pysan
+Case 1047: stUpyat:4P in pysan
+Case 1048: stfkzat:1P in pysan
+Case 1049: stfhat:6P in pysan
+Case 1050: stepayat:10P in pysan
+Case 1051: styAyat:1P in pysan
+Case 1052: sTagat:1P in pysan
+Case 1053: sTalat:1P in pysan
+Case 1054: sTuqat:6P in pysan
+Case 1055: sTerat:1P in pysan
+Case 1056: snAyat:1P,4P in pysan
+Case 1057: snusyat:4P in pysan
+Case 1058: snewayat:10P in pysan
+Case 1059: spaSat:1P in pysan
+Case 1060: spASayat:10P in pysan
+Case 1061: spfRat:9P in pysan
+Case 1062: spfRvat:5P in pysan
+Case 1063: sPawat:1P in pysan
+Case 1064: sPaRqayat:10P in pysan
+Case 1065: sParat:6P in pysan
+Case 1066: sPAwayat:10P in pysan
+Case 1067: sPiwwayat:10P in pysan
+Case 1068: sPuwwayat:10P in pysan
+Case 1069: sPuqat:6P in pysan
+Case 1070: sPuRwat:1P in pysan
+Case 1071: sPuRwayat:10P in pysan
+Case 1072: sPuRqayat:10P in pysan
+Case 1073: sPulat:6P in pysan
+Case 1074: sPUrCat:1P in pysan
+Case 1075: sPUrjat:1P in pysan
+Case 1076: sPewayat:10P in pysan
+Case 1077: smewayat:10P in pysan
+Case 1078: syamat:1P in pysan
+Case 1079: srIvyat:4P in pysan
+Case 1080: sreDat:1P in pysan
+Case 1081: sreBat:1P in pysan
+Case 1082: svaNgat:1P in pysan
+Case 1083: svat:6P in pysan
+Case 1084: svarayat:10P in pysan
+Case 1085: hawat:1P in pysan
+Case 1086: hammat:1P in pysan
+Case 1087: hayat:1P in pysan
+Case 1088: halat:1P in pysan
+Case 1089: hAt:1P in pysan
+Case 1090: hinsat:7P in pysan
+Case 1091: hilat:6P in pysan
+Case 1092: huqat:6P in pysan
+Case 1093: hUqat:1P in pysan
+Case 1094: hUrCat:1P in pysan
+Case 1095: heWat:1P in pysan
+Case 1096: heWnat:9P in pysan
+Case 1097: heqat:1P in pysan
+Case 1098: heQnat:9P in pysan
+Case 1099: hoqat:1P in pysan
+Case 1100: holat:1P in pysan
+Case 1101: hmalat:1P in pysan
+Case 1102: hragat:1P in pysan
+Case 1103: hrICat:1P in pysan
+Case 1104: hruRat:9P in pysan
+Case 1105: hroqat:1P in pysan
+Case 1106: hrOqat:1P in pysan
+Case 1107: hlasat:1P in pysan
+Case 1108: hlApayat:10P in pysan
+--------------------------------------------------
+204 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: agadyat:11P in huet
+Case 02: aGAyat:11P in huet
+Case 03: aDvarIyat:11P in huet
+Case 04: aDvaryat:11P in huet
+Case 05: amitrayat:11P in huet
+Case 06: arTApayat:11P in huet
+Case 07: aSanAyat:11P in huet
+Case 08: aSanIyat:11P in huet
+Case 09: aSnat:9P in huet
+Case 10: aSvasyat:11P in huet
+Case 11: aSvAyat:11P in huet
+Case 12: asat:1P in huet
+Case 13: asUyat:11P in huet
+Case 14: AkarRayat:11P in huet
+Case 15: Akulayat:11P in huet
+Case 16: Andolayat:11P in huet
+Case 17: Avilayat:11P in huet
+Case 18: iyfat:3P in huet
+Case 19: irasyat:11P in huet
+Case 20: izuDyat:11P in huet
+Case 21: izRat:9P in huet
+Case 22: ucCat:6P in huet
+Case 23: utkaRWat:1P in huet
+Case 24: utkayat:11P in huet
+Case 25: udakIyat:11P in huet
+Case 26: udanyat:11P in huet
+Case 27: umBat:6P in huet
+Case 28: urasyat:11P in huet
+Case 29: uruzyat:4P in huet
+Case 30: uSat:2P in huet
+Case 31: uzasyat:11P in huet
+Case 32: UrRvat:5P in huet
+Case 33: kaRqUyat:11P in huet
+Case 34: kadarTayat:11P in huet
+Case 35: kartrIyat:11P in huet
+Case 36: kalaNkayat:11P in huet
+Case 37: kaluzayat:11P in huet
+Case 38: kavalayat:11P in huet
+Case 39: kavIyat:11P in huet
+Case 40: kutsat:1P in huet
+Case 41: kusumayat:11P in huet
+Case 42: kelAyat:11P in huet
+Case 43: kramat:1P in huet
+Case 44: kvaTat:1P in huet
+Case 45: kzIrasyat:11P in huet
+Case 46: Kaqayat:11P in huet
+Case 47: KaRqat:1P in huet
+Case 48: Kidat:6P in huet
+Case 49: KelAyat:11P in huet
+Case 50: gadgadyat:11P in huet
+Case 51: garvayat:11P in huet
+Case 52: gavezat:1P in huet
+Case 53: gavezayat:10P in huet
+Case 54: gavyat:11P in huet
+Case 55: gfBRat:9P in huet
+Case 56: gopayat:10P in huet
+Case 57: gopAyat:11P in huet
+Case 58: gomayat:11P in huet
+Case 59: graTnat:9P in huet
+Case 60: cakzat:2P in huet
+Case 61: camat:1P in huet
+Case 62: corat:1P in huet
+Case 63: Candat:1P in huet
+Case 64: Calayat:11P in huet
+Case 65: Cidrayat:11P in huet
+Case 66: jaBat:1P in huet
+Case 67: javat:1P in huet
+Case 68: jigat:3P in huet
+Case 69: jiGfat:3P in huet
+Case 70: jihmAyat:11P in huet
+Case 71: jihrIat:3P in huet
+Case 72: juhuat:3P in huet
+Case 73: jyotat:1P in huet
+Case 74: jvarat:1P in huet
+Case 75: tantrayat:11P in huet
+Case 76: tapasyat:11P in huet
+Case 77: taraNgayat:11P in huet
+Case 78: taruRayat:11P in huet
+Case 79: tavizIyat:11P in huet
+Case 80: tirasyat:11P in huet
+Case 81: tulayat:10P in huet
+Case 82: tuhinayat:11P in huet
+Case 83: trasyat:4P in huet
+Case 84: daRqayat:11P in huet
+Case 85: dahyat:4P in huet
+Case 86: dAt:2P in huet
+Case 87: diSat:6P in huet
+Case 88: duHKyat:11P in huet
+Case 89: dyotat:1P in huet
+Case 90: dravat:1P in huet
+Case 91: DanAyat:11P in huet
+Case 92: DanIyat:11P in huet
+Case 93: DIrayat:11P in huet
+Case 94: DyAt:2P in huet
+Case 95: namasyat:11P in huet
+Case 96: nATat:1P in huet
+Case 97: nAvyat:11P in huet
+Case 98: nUtanayat:11P in huet
+Case 99: nenijat:3P in huet
+Case 100: pacyat:4P in huet
+Case 101: pawapawAyat:11P in huet
+Case 102: patyat:4P in huet
+Case 103: payasyat:11P in huet
+Case 104: palAyat:1P in huet
+Case 105: pavat:1P in huet
+Case 106: pavitrayat:11P in huet
+Case 107: piMzat:7P in huet
+Case 108: pipfat:3P in huet
+Case 109: pipFat:3P in huet
+Case 110: putrakAmyat:11P in huet
+Case 111: putriyat:11P in huet
+Case 112: putrIyat:11P in huet
+Case 113: pulakayat:11P in huet
+Case 114: puzpyat:11P in huet
+Case 115: pfcCat:6P in huet
+Case 116: pratikUlayat:11P in huet
+Case 117: prasAdayat:11P in huet
+Case 118: prAsAdIyat:11P in huet
+Case 119: biBIat:3P in huet
+Case 120: biBfat:3P in huet
+Case 121: boDat:1P in huet
+Case 122: BaRqat:1P in huet
+Case 123: Bartsayat:10P in huet
+Case 124: BAsat:1P in huet
+Case 125: Bizajyat:11P in huet
+Case 126: Bfjjat:6P in huet
+Case 127: maDusyat:11P in huet
+Case 128: maDvasyat:11P in huet
+Case 129: mantUyat:11P in huet
+Case 130: mantrayat:11P in huet
+Case 131: manyat:4P in huet
+Case 132: mardat:1P in huet
+Case 133: malinayat:11P in huet
+Case 134: mAMsIyat:11P in huet
+Case 135: mindayat:10P in huet
+Case 136: mimAat:3P in huet
+Case 137: mInat:9P in huet
+Case 138: mukulayat:11P in huet
+Case 139: muKarayat:11P in huet
+Case 140: muRqayat:11P in huet
+Case 141: mudrayat:11P in huet
+Case 142: mUtrayat:11P in huet
+Case 143: mUrCat:1P in huet
+Case 144: mfgayat:11P in huet
+Case 145: mfqayat:10P in huet
+Case 146: medyat:4P in huet
+Case 147: modat:1P in huet
+Case 148: mriyat:6P in huet
+Case 149: mlecCat:1P in huet
+Case 150: yucCat:1P in huet
+Case 151: yuDyat:4P in huet
+Case 152: yuyuat:3P in huet
+Case 153: raTakAmyat:11P in huet
+Case 154: rAjIyat:11P in huet
+Case 155: ricyat:4P in huet
+Case 156: ruhat:6P in huet
+Case 157: rodat:1P in huet
+Case 158: laGayat:11P in huet
+Case 159: laBat:1P in huet
+Case 160: lavaRasyat:11P in huet
+Case 161: luRWat:1P in huet
+Case 162: lelAyat:10P in huet
+Case 163: lolat:1P in huet
+Case 164: lohitAyat:11P in huet
+Case 165: vacat:2P in huet
+Case 166: varivasyat:11P in huet
+Case 167: varDat:1P in huet
+Case 168: valat:1P in huet
+Case 169: valgUyat:11P in huet
+Case 170: vAcyat:11P in huet
+Case 171: vijat:6P in huet
+Case 172: vivacat:3P in huet
+Case 173: viSadayat:11P in huet
+Case 174: vfzasyat:11P in huet
+Case 175: vfzIyat:11P in huet
+Case 176: vedApayat:11P in huet
+Case 177: vezat:1P in huet
+Case 178: vyaTat:1P in huet
+Case 179: vrajat:1P in huet
+Case 180: vraRayat:11P in huet
+Case 181: Sakyat:4P in huet
+Case 182: Samayat:4P in huet
+Case 183: SAntayat:11P in huet
+Case 184: SiMzat:7P in huet
+Case 185: SiTilayat:11P in huet
+Case 186: SiSat:3P in huet
+Case 187: Sizat:2P in huet
+Case 188: Syat:4P in huet
+Case 189: Syenayat:11P in huet
+Case 190: zaRQayat:11P in huet
+Case 191: saKIyat:11P in huet
+Case 192: satyApayat:11P in huet
+Case 193: sanvat:5P in huet
+Case 194: sapiRqayat:11P in huet
+Case 195: saPalayat:11P in huet
+Case 196: samudrAyat:11P in huet
+Case 197: sahat:1P in huet
+Case 198: sAvaDAnayat:11P in huet
+Case 199: sisfat:3P in huet
+Case 200: skaBnuvat:5P in huet
+Case 201: sTagayat:11P in huet
+Case 202: sPowat:1P in huet
+Case 203: syandat:1P in huet
+Case 204: svadat:1P in huet
