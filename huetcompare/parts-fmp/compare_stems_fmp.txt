@@ -1,0 +1,1463 @@
+--------------------------------------------------
+241 cases of STEM in BOTH
+--------------------------------------------------
+Case 01: aNkzyamARa:A identical in BOTH
+Case 02: aYcayizyamARa:A identical in BOTH
+Case 03: aYcizyamARa:A identical in BOTH
+Case 04: aYjizyamARa:A identical in BOTH
+Case 05: arjizyamARa:A identical in BOTH
+Case 06: arTayizyamARa:A identical in BOTH
+Case 07: aSizyamARa:A identical in BOTH
+Case 08: AsizyamARa:A identical in BOTH
+Case 09: inDizyamARa:A identical in BOTH
+Case 10: IkzizyamARa:A identical in BOTH
+Case 11: IqizyamARa:A identical in BOTH
+Case 12: IrizyamARa:A identical in BOTH
+Case 13: ISizyamARa:A identical in BOTH
+Case 14: IzizyamARa:A identical in BOTH
+Case 15: IhizyamARa:A identical in BOTH
+Case 16: UhizyamARa:A identical in BOTH
+Case 17: eDizyamARa:A identical in BOTH
+Case 18: ezizyamARa:A identical in BOTH
+Case 19: ezyamARa:A identical in BOTH
+Case 20: katTizyamARa:A identical in BOTH
+Case 21: kampizyamARa:A identical in BOTH
+Case 22: karizyamARa:A identical in BOTH
+Case 23: karIzyamARa:A identical in BOTH
+Case 24: karkzyamARa:A identical in BOTH
+Case 25: karpizyamARa:A identical in BOTH
+Case 26: kalpizyamARa:A identical in BOTH
+Case 27: kalpsyamAna:A identical in BOTH
+Case 28: kavizyamARa:A identical in BOTH
+Case 29: kAmayizyamARa:A identical in BOTH
+Case 30: kArayizyamARa:A identical in BOTH
+Case 31: kASizyamARa:A identical in BOTH
+Case 32: kIrtayizyamARa:A identical in BOTH
+Case 33: kuwwayizyamARa:A identical in BOTH
+Case 34: kuRqayizyamARa:A identical in BOTH
+Case 35: kuRqizyamARa:A identical in BOTH
+Case 36: krakzyamARa:A identical in BOTH
+Case 37: kramizyamARa:A identical in BOTH
+Case 38: krezyamARa:A identical in BOTH
+Case 39: klavizyamARa:A identical in BOTH
+Case 40: kzaMsyamAna:A identical in BOTH
+Case 41: kzadizyamARa:A identical in BOTH
+Case 42: kzapizyamARa:A identical in BOTH
+Case 43: kzamizyamARa:A identical in BOTH
+Case 44: kzotsyamAna:A identical in BOTH
+Case 45: KaRqizyamARa:A identical in BOTH
+Case 46: garhayizyamARa:A identical in BOTH
+Case 47: garhizyamARa:A identical in BOTH
+Case 48: galBizyamARa:A identical in BOTH
+Case 49: gArayizyamARa:A identical in BOTH
+Case 50: gAhizyamARa:A identical in BOTH
+Case 51: gUhizyamARa:A identical in BOTH
+Case 52: grasizyamARa:A identical in BOTH
+Case 53: GawizyamARa:A identical in BOTH
+Case 54: GawwizyamARa:A identical in BOTH
+Case 55: GUrRizyamARa:A identical in BOTH
+Case 56: GokzyamARa:A identical in BOTH
+Case 57: cakzizyamARa:A identical in BOTH
+Case 58: catizyamARa:A identical in BOTH
+Case 59: capayizyamARa:A identical in BOTH
+Case 60: carcayizyamARa:A identical in BOTH
+Case 61: cUrRayizyamARa:A identical in BOTH
+Case 62: cUzizyamARa:A identical in BOTH
+Case 63: cezwizyamARa:A identical in BOTH
+Case 64: cezyamARa:A identical in BOTH
+Case 65: corayizyamARa:A identical in BOTH
+Case 66: CadizyamARa:A identical in BOTH
+Case 67: CAdayizyamARa:A identical in BOTH
+Case 68: CetsyamAna:A identical in BOTH
+Case 69: janizyamARa:A identical in BOTH
+Case 70: jarizyamARa:A identical in BOTH
+Case 71: jarIzyamARa:A identical in BOTH
+Case 72: jAsyamAna:A identical in BOTH
+Case 73: jfmBizyamARa:A identical in BOTH
+Case 74: jezyamARa:A identical in BOTH
+Case 75: jozizyamARa:A identical in BOTH
+Case 76: jYAsyamAna:A identical in BOTH
+Case 77: jyotizyamARa:A identical in BOTH
+Case 78: qayizyamARa:A identical in BOTH
+Case 79: taYcizyamARa:A identical in BOTH
+Case 80: tanizyamARa:A identical in BOTH
+Case 81: tapsyamAna:A identical in BOTH
+Case 82: tarkayizyamARa:A identical in BOTH
+Case 83: tardizyamARa:A identical in BOTH
+Case 84: tAqayizyamARa:A identical in BOTH
+Case 85: tejizyamARa:A identical in BOTH
+Case 86: tolayizyamARa:A identical in BOTH
+Case 87: trapizyamARa:A identical in BOTH
+Case 88: tvarizyamARa:A identical in BOTH
+Case 89: tvekzyamARa:A identical in BOTH
+Case 90: dayizyamARa:A identical in BOTH
+Case 91: dAsyamAna:A identical in BOTH
+Case 92: dIkzizyamARa:A identical in BOTH
+Case 93: dIpizyamARa:A identical in BOTH
+Case 94: devizyamARa:A identical in BOTH
+Case 95: dyotizyamARa:A identical in BOTH
+Case 96: drAsyamAna:A identical in BOTH
+Case 97: dvekzyamARa:A identical in BOTH
+Case 98: DarizyamARa:A identical in BOTH
+Case 99: DavizyamARa:A identical in BOTH
+Case 100: DAvizyamARa:A identical in BOTH
+Case 101: DAsyamAna:A identical in BOTH
+Case 102: DukzizyamARa:A identical in BOTH
+Case 103: DekzyamARa:A identical in BOTH
+Case 104: DezyamARa:A identical in BOTH
+Case 105: DokzyamARa:A identical in BOTH
+Case 106: DvaMsizyamARa:A identical in BOTH
+Case 107: nakzizyamARa:A identical in BOTH
+Case 108: natsyamAna:A identical in BOTH
+Case 109: nayizyamARa:A identical in BOTH
+Case 110: nATizyamARa:A identical in BOTH
+Case 111: niYjizyamARa:A identical in BOTH
+Case 112: nekzyamARa:A identical in BOTH
+Case 113: nezyamARa:A identical in BOTH
+Case 114: notsyamAna:A identical in BOTH
+Case 115: pakzyamARa:A identical in BOTH
+Case 116: paRizyamARa:A identical in BOTH
+Case 117: patsyamAna:A identical in BOTH
+Case 118: palAyizyamARa:A identical in BOTH
+Case 119: pavizyamARa:A identical in BOTH
+Case 120: pAwayizyamARa:A identical in BOTH
+Case 121: piYjizyamARa:A identical in BOTH
+Case 122: pUjayizyamARa:A identical in BOTH
+Case 123: pyAsyamAna:A identical in BOTH
+Case 124: praTizyamARa:A identical in BOTH
+Case 125: prezyamARa:A identical in BOTH
+Case 126: prozyamARa:A identical in BOTH
+Case 127: plozyamARa:A identical in BOTH
+Case 128: baMhizyamARa:A identical in BOTH
+Case 129: bADizyamARa:A identical in BOTH
+Case 130: BakzyamARa:A identical in BOTH
+Case 131: BaRqizyamARa:A identical in BOTH
+Case 132: BandizyamARa:A identical in BOTH
+Case 133: BarizyamARa:A identical in BOTH
+Case 134: BAzizyamARa:A identical in BOTH
+Case 135: BAsizyamARa:A identical in BOTH
+Case 136: BetsyamAna:A identical in BOTH
+Case 137: BokzyamARa:A identical in BOTH
+Case 138: BraMSizyamARa:A identical in BOTH
+Case 139: BrAjizyamARa:A identical in BOTH
+Case 140: maMsyamAna:A identical in BOTH
+Case 141: maMhizyamARa:A identical in BOTH
+Case 142: mantrayizyamARa:A identical in BOTH
+Case 143: mandizyamARa:A identical in BOTH
+Case 144: marizyamARa:A identical in BOTH
+Case 145: marDizyamARa:A identical in BOTH
+Case 146: mAsyamAna:A identical in BOTH
+Case 147: meTizyamARa:A identical in BOTH
+Case 148: medizyamARa:A identical in BOTH
+Case 149: mokzizyamARa:A identical in BOTH
+Case 150: mokzyamARa:A identical in BOTH
+Case 151: modizyamARa:A identical in BOTH
+Case 152: yakzyamARa:A identical in BOTH
+Case 153: yatizyamARa:A identical in BOTH
+Case 154: yAcizyamARa:A identical in BOTH
+Case 155: yokzyamARa:A identical in BOTH
+Case 156: yotsyamAna:A identical in BOTH
+Case 157: raMsyamAna:A identical in BOTH
+Case 158: raNkzyamARa:A identical in BOTH
+Case 159: rapsyamAna:A identical in BOTH
+Case 160: rAjizyamARa:A identical in BOTH
+Case 161: rekzyamARa:A identical in BOTH
+Case 162: rocizyamARa:A identical in BOTH
+Case 163: rotsyamAna:A identical in BOTH
+Case 164: lakzayizyamARa:A identical in BOTH
+Case 165: laNGizyamARa:A identical in BOTH
+Case 166: lajjizyamARa:A identical in BOTH
+Case 167: lapsyamAna:A identical in BOTH
+Case 168: lambizyamARa:A identical in BOTH
+Case 169: lavizyamARa:A identical in BOTH
+Case 170: lazizyamARa:A identical in BOTH
+Case 171: lAsayizyamARa:A identical in BOTH
+Case 172: lekzyamARa:A identical in BOTH
+Case 173: lepsyamAna:A identical in BOTH
+Case 174: lezyamARa:A identical in BOTH
+Case 175: lokayizyamARa:A identical in BOTH
+Case 176: lokizyamARa:A identical in BOTH
+Case 177: locizyamARa:A identical in BOTH
+Case 178: lopsyamAna:A identical in BOTH
+Case 179: vakzyamARa:A identical in BOTH
+Case 180: vadizyamARa:A identical in BOTH
+Case 181: vandizyamARa:A identical in BOTH
+Case 182: vapsyamAna:A identical in BOTH
+Case 183: vayizyamARa:A identical in BOTH
+Case 184: varizyamARa:A identical in BOTH
+Case 185: varIzyamARa:A identical in BOTH
+Case 186: vartizyamARa:A identical in BOTH
+Case 187: vartsyamAna:A identical in BOTH
+Case 188: varDizyamARa:A identical in BOTH
+Case 189: valizyamARa:A identical in BOTH
+Case 190: vahizyamARa:A identical in BOTH
+Case 191: vASizyamARa:A identical in BOTH
+Case 192: vAsyamAna:A identical in BOTH
+Case 193: vIjizyamARa:A identical in BOTH
+Case 194: vekzyamARa:A identical in BOTH
+Case 195: vetsyamAna:A identical in BOTH
+Case 196: vepizyamARa:A identical in BOTH
+Case 197: vezwizyamARa:A identical in BOTH
+Case 198: vyaTizyamARa:A identical in BOTH
+Case 199: vyAsyamAna:A identical in BOTH
+Case 200: vrIqizyamARa:A identical in BOTH
+Case 201: SaNkizyamARa:A identical in BOTH
+Case 202: SatsyamAna:A identical in BOTH
+Case 203: SapsyamAna:A identical in BOTH
+Case 204: SayizyamARa:A identical in BOTH
+Case 205: SAsyamAna:A identical in BOTH
+Case 206: SikzizyamARa:A identical in BOTH
+Case 207: SezyamARa:A identical in BOTH
+Case 208: SoBizyamARa:A identical in BOTH
+Case 209: SramBizyamARa:A identical in BOTH
+Case 210: SrayizyamARa:A identical in BOTH
+Case 211: SlAGizyamARa:A identical in BOTH
+Case 212: SvetizyamARa:A identical in BOTH
+Case 213: sakzyamARa:A identical in BOTH
+Case 214: sacizyamARa:A identical in BOTH
+Case 215: savizyamARa:A identical in BOTH
+Case 216: sahizyamARa:A identical in BOTH
+Case 217: sAntvayizyamARa:A identical in BOTH
+Case 218: sAhayizyamARa:A identical in BOTH
+Case 219: sUdayizyamARa:A identical in BOTH
+Case 220: sekzyamARa:A identical in BOTH
+Case 221: sevizyamARa:A identical in BOTH
+Case 222: sozyamARa:A identical in BOTH
+Case 223: starizyamARa:A identical in BOTH
+Case 224: stozyamARa:A identical in BOTH
+Case 225: styAsyamAna:A identical in BOTH
+Case 226: sTAsyamAna:A identical in BOTH
+Case 227: spandizyamARa:A identical in BOTH
+Case 228: sparDizyamARa:A identical in BOTH
+Case 229: smezyamARa:A identical in BOTH
+Case 230: syantsyamAna:A identical in BOTH
+Case 231: syandizyamARa:A identical in BOTH
+Case 232: sraMsizyamARa:A identical in BOTH
+Case 233: svadizyamARa:A identical in BOTH
+Case 234: svetsyamAna:A identical in BOTH
+Case 235: harizyamARa:A identical in BOTH
+Case 236: hAsyamAna:A identical in BOTH
+Case 237: hikkizyamARa:A identical in BOTH
+Case 238: huRqizyamARa:A identical in BOTH
+Case 239: hnozyamARa:A identical in BOTH
+Case 240: hrAdizyamARa:A identical in BOTH
+Case 241: hlAdizyamARa:A identical in BOTH
+--------------------------------------------------
+591 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMsayizyamARa:A in pysan
+Case 02: aMsApayizyamARa:A in pysan
+Case 03: aMhizyamARa:A in pysan
+Case 04: akzizyamARa:A in pysan
+Case 05: akzyamARa:A in pysan
+Case 06: aNkizyamARa:A in pysan
+Case 07: aNGizyamARa:A in pysan
+Case 08: acizyamARa:A in pysan
+Case 09: awizyamARa:A in pysan
+Case 10: awwizyamARa:A in pysan
+Case 11: aWizyamARa:A in pysan
+Case 12: aRizyamARa:A in pysan
+Case 13: aRWizyamARa:A in pysan
+Case 14: atizyamARa:A in pysan
+Case 15: ambizyamARa:A in pysan
+Case 16: ayizyamARa:A in pysan
+Case 17: arRizyamARa:A in pysan
+Case 18: artizyamARa:A in pysan
+Case 19: arTizyamARa:A in pysan
+Case 20: ardizyamARa:A in pysan
+Case 21: avalokizyamARa:A in pysan
+Case 22: azizyamARa:A in pysan
+Case 23: ukzizyamARa:A in pysan
+Case 24: uDrAsayizyamARa:A in pysan
+Case 25: UyizyamARa:A in pysan
+Case 26: UrRavizyamARa:A in pysan
+Case 27: UrRuvizyamARa:A in pysan
+Case 28: UrdizyamARa:A in pysan
+Case 29: fYjizyamARa:A in pysan
+Case 30: ftIyizyamARa:A in pysan
+Case 31: ejizyamARa:A in pysan
+Case 32: eWizyamARa:A in pysan
+Case 33: ozyamARa:A in pysan
+Case 34: kaMsizyamARa:A in pysan
+Case 35: kakizyamARa:A in pysan
+Case 36: kaNkizyamARa:A in pysan
+Case 37: kaYcizyamARa:A in pysan
+Case 38: kaRWizyamARa:A in pysan
+Case 39: kaRqizyamARa:A in pysan
+Case 40: kadizyamARa:A in pysan
+Case 41: kabizyamARa:A in pysan
+Case 42: kamizyamARa:A in pysan
+Case 43: kalizyamARa:A in pysan
+Case 44: kallizyamARa:A in pysan
+Case 45: kazizyamARa:A in pysan
+Case 46: kAMsizyamARa:A in pysan
+Case 47: kAYcizyamARa:A in pysan
+Case 48: kArayIzyamARa:A in pysan
+Case 49: kAvayizyamARa:A in pysan
+Case 50: kAsizyamARa:A in pysan
+Case 51: kizkayizyamARa:A in pysan
+Case 52: kIlizyamARa:A in pysan
+Case 53: kuMSizyamARa:A in pysan
+Case 54: kuRWayizyamARa:A in pysan
+Case 55: kunTizyamARa:A in pysan
+Case 56: kumbizyamARa:A in pysan
+Case 57: kuhayizyamARa:A in pysan
+Case 58: kURizyamARa:A in pysan
+Case 59: kUrdizyamARa:A in pysan
+Case 60: ketizyamARa:A in pysan
+Case 61: kepizyamARa:A in pysan
+Case 62: kevizyamARa:A in pysan
+Case 63: kokizyamARa:A in pysan
+Case 64: kokzyamARa:A in pysan
+Case 65: kowayizyamARa:A in pysan
+Case 66: koTizyamARa:A in pysan
+Case 67: kopizyamARa:A in pysan
+Case 68: kolizyamARa:A in pysan
+Case 69: kozizyamARa:A in pysan
+Case 70: knUyizyamARa:A in pysan
+Case 71: knozyamARa:A in pysan
+Case 72: krandizyamARa:A in pysan
+Case 73: krapizyamARa:A in pysan
+Case 74: klamizyamARa:A in pysan
+Case 75: klindizyamARa:A in pysan
+Case 76: klIbayizyamARa:A in pysan
+Case 77: klIbizyamARa:A in pysan
+Case 78: kletsyamAna:A in pysan
+Case 79: kledizyamARa:A in pysan
+Case 80: kleSizyamARa:A in pysan
+Case 81: kvaTizyamARa:A in pysan
+Case 82: kzajizyamARa:A in pysan
+Case 83: kzampizyamARa:A in pysan
+Case 84: kzIvizyamARa:A in pysan
+Case 85: kzeRizyamARa:A in pysan
+Case 86: kzoBizyamARa:A in pysan
+Case 87: kzmAyizyamARa:A in pysan
+Case 88: kzveqizyamARa:A in pysan
+Case 89: kzvedizyamARa:A in pysan
+Case 90: KallizyamARa:A in pysan
+Case 91: KuRqizyamARa:A in pysan
+Case 92: KurdizyamARa:A in pysan
+Case 93: KewayizyamARa:A in pysan
+Case 94: KetsyamAna:A in pysan
+Case 95: KojizyamARa:A in pysan
+Case 96: KozyamARa:A in pysan
+Case 97: gaDizyamARa:A in pysan
+Case 98: ganDayizyamARa:A in pysan
+Case 99: garizyamARa:A in pysan
+Case 100: garIzyamARa:A in pysan
+Case 101: gardayizyamARa:A in pysan
+Case 102: gADizyamARa:A in pysan
+Case 103: gArayIzyamARa:A in pysan
+Case 104: gAsyamAna:A in pysan
+Case 105: guRqayizyamARa:A in pysan
+Case 106: gurizyamARa:A in pysan
+Case 107: gurdizyamARa:A in pysan
+Case 108: gUrdayizyamARa:A in pysan
+Case 109: gepizyamARa:A in pysan
+Case 110: gevizyamARa:A in pysan
+Case 111: gezizyamARa:A in pysan
+Case 112: godizyamARa:A in pysan
+Case 113: goDizyamARa:A in pysan
+Case 114: goPizyamARa:A in pysan
+Case 115: gozyamARa:A in pysan
+Case 116: graTizyamARa:A in pysan
+Case 117: glasizyamARa:A in pysan
+Case 118: glepizyamARa:A in pysan
+Case 119: glevizyamARa:A in pysan
+Case 120: glezizyamARa:A in pysan
+Case 121: GaMzizyamARa:A in pysan
+Case 122: GaRizyamARa:A in pysan
+Case 123: GaRwizyamARa:A in pysan
+Case 124: GambizyamARa:A in pysan
+Case 125: GarizyamARa:A in pysan
+Case 126: GarRizyamARa:A in pysan
+Case 127: GAkzyamARa:A in pysan
+Case 128: GiRRizyamARa:A in pysan
+Case 129: GuRRizyamARa:A in pysan
+Case 130: GUrizyamARa:A in pysan
+Case 131: GfRRizyamARa:A in pysan
+Case 132: GowizyamARa:A in pysan
+Case 133: GoRizyamARa:A in pysan
+Case 134: GozyamARa:A in pysan
+Case 135: GrAsyamAna:A in pysan
+Case 136: NozyamARa:A in pysan
+Case 137: cakizyamARa:A in pysan
+Case 138: caGizyamARa:A in pysan
+Case 139: caRqizyamARa:A in pysan
+Case 140: cadizyamARa:A in pysan
+Case 141: canizyamARa:A in pysan
+Case 142: candizyamARa:A in pysan
+Case 143: capizyamARa:A in pysan
+Case 144: camizyamARa:A in pysan
+Case 145: campayizyamARa:A in pysan
+Case 146: cambizyamARa:A in pysan
+Case 147: cayizyamARa:A in pysan
+Case 148: carizyamARa:A in pysan
+Case 149: carGizyamARa:A in pysan
+Case 150: carcizyamARa:A in pysan
+Case 151: cartizyamARa:A in pysan
+Case 152: cartsyamAna:A in pysan
+Case 153: carbizyamARa:A in pysan
+Case 154: carvayizyamARa:A in pysan
+Case 155: calizyamARa:A in pysan
+Case 156: cahizyamARa:A in pysan
+Case 157: cAhayizyamARa:A in pysan
+Case 158: cintayizyamARa:A in pysan
+Case 159: cirayizyamARa:A in pysan
+Case 160: cIkayizyamARa:A in pysan
+Case 161: cIkizyamARa:A in pysan
+Case 162: cIvayizyamARa:A in pysan
+Case 163: cIvizyamARa:A in pysan
+Case 164: cukkayizyamARa:A in pysan
+Case 165: cuwwayizyamARa:A in pysan
+Case 166: cuqqizyamARa:A in pysan
+Case 167: cuRWayizyamARa:A in pysan
+Case 168: cumbayizyamARa:A in pysan
+Case 169: cumbizyamARa:A in pysan
+Case 170: culumpizyamARa:A in pysan
+Case 171: cURayizyamARa:A in pysan
+Case 172: cUrayizyamARa:A in pysan
+Case 173: cUrizyamARa:A in pysan
+Case 174: cetizyamARa:A in pysan
+Case 175: celizyamARa:A in pysan
+Case 176: cowayizyamARa:A in pysan
+Case 177: cowizyamARa:A in pysan
+Case 178: coqizyamARa:A in pysan
+Case 179: coRizyamARa:A in pysan
+Case 180: cotizyamARa:A in pysan
+Case 181: codizyamARa:A in pysan
+Case 182: copizyamARa:A in pysan
+Case 183: colayizyamARa:A in pysan
+Case 184: cyAvayizyamARa:A in pysan
+Case 185: cyotizyamARa:A in pysan
+Case 186: cyosayizyamARa:A in pysan
+Case 187: CamizyamARa:A in pysan
+Case 188: CampayizyamARa:A in pysan
+Case 189: CartsyamAna:A in pysan
+Case 190: CardizyamARa:A in pysan
+Case 191: CarpizyamARa:A in pysan
+Case 192: CazizyamARa:A in pysan
+Case 193: CAlayizyamARa:A in pysan
+Case 194: CAsyamAna:A in pysan
+Case 195: CowayizyamARa:A in pysan
+Case 196: CowizyamARa:A in pysan
+Case 197: CoqizyamARa:A in pysan
+Case 198: CopizyamARa:A in pysan
+Case 199: CorizyamARa:A in pysan
+Case 200: jaMsayizyamARa:A in pysan
+Case 201: jaMsizyamARa:A in pysan
+Case 202: japizyamARa:A in pysan
+Case 203: jamizyamARa:A in pysan
+Case 204: jamBizyamARa:A in pysan
+Case 205: jarcizyamARa:A in pysan
+Case 206: jarCizyamARa:A in pysan
+Case 207: jarjizyamARa:A in pysan
+Case 208: jartsizyamARa:A in pysan
+Case 209: jalizyamARa:A in pysan
+Case 210: jalpizyamARa:A in pysan
+Case 211: jAgarizyamARa:A in pysan
+Case 212: jAlayizyamARa:A in pysan
+Case 213: jIvizyamARa:A in pysan
+Case 214: juNgizyamARa:A in pysan
+Case 215: jUrizyamARa:A in pysan
+Case 216: jemizyamARa:A in pysan
+Case 217: jezizyamARa:A in pysan
+Case 218: jehizyamARa:A in pysan
+Case 219: jowizyamARa:A in pysan
+Case 220: joqayizyamARa:A in pysan
+Case 221: joqizyamARa:A in pysan
+Case 222: jonizyamARa:A in pysan
+Case 223: jolayizyamARa:A in pysan
+Case 224: jyAsyamAna:A in pysan
+Case 225: jrezyamARa:A in pysan
+Case 226: JawizyamARa:A in pysan
+Case 227: JarizyamARa:A in pysan
+Case 228: JarIzyamARa:A in pysan
+Case 229: JarcizyamARa:A in pysan
+Case 230: JazizyamARa:A in pysan
+Case 231: JozyamARa:A in pysan
+Case 232: JyozyamARa:A in pysan
+Case 233: waNkayizyamARa:A in pysan
+Case 234: wIkizyamARa:A in pysan
+Case 235: wekizyamARa:A in pysan
+Case 236: wOkizyamARa:A in pysan
+Case 237: qampayizyamARa:A in pysan
+Case 238: qambayizyamARa:A in pysan
+Case 239: qamBayizyamARa:A in pysan
+Case 240: qApayizyamARa:A in pysan
+Case 241: qepayizyamARa:A in pysan
+Case 242: QOkizyamARa:A in pysan
+Case 243: takizyamARa:A in pysan
+Case 244: takzizyamARa:A in pysan
+Case 245: takzyamARa:A in pysan
+Case 246: taNgizyamARa:A in pysan
+Case 247: taRqizyamARa:A in pysan
+Case 248: tandizyamARa:A in pysan
+Case 249: tamizyamARa:A in pysan
+Case 250: tayizyamARa:A in pysan
+Case 251: tarizyamARa:A in pysan
+Case 252: tarIzyamARa:A in pysan
+Case 253: tarkzyamARa:A in pysan
+Case 254: tarjizyamARa:A in pysan
+Case 255: tarRizyamARa:A in pysan
+Case 256: tartsyamAna:A in pysan
+Case 257: tarpizyamARa:A in pysan
+Case 258: tarpsyamAna:A in pysan
+Case 259: tarPizyamARa:A in pysan
+Case 260: tarzizyamARa:A in pysan
+Case 261: tarhizyamARa:A in pysan
+Case 262: talizyamARa:A in pysan
+Case 263: tasizyamARa:A in pysan
+Case 264: tAnayizyamARa:A in pysan
+Case 265: tAyizyamARa:A in pysan
+Case 266: tAlayizyamARa:A in pysan
+Case 267: tIkizyamARa:A in pysan
+Case 268: tImizyamARa:A in pysan
+Case 269: tIvizyamARa:A in pysan
+Case 270: tuRqizyamARa:A in pysan
+Case 271: tundizyamARa:A in pysan
+Case 272: tumpizyamARa:A in pysan
+Case 273: tumbayizyamARa:A in pysan
+Case 274: tumbizyamARa:A in pysan
+Case 275: tUqizyamARa:A in pysan
+Case 276: tURayizyamARa:A in pysan
+Case 277: tUlayizyamARa:A in pysan
+Case 278: tUlizyamARa:A in pysan
+Case 279: tUzizyamARa:A in pysan
+Case 280: tfkzizyamARa:A in pysan
+Case 281: tfmpizyamARa:A in pysan
+Case 282: tfmPizyamARa:A in pysan
+Case 283: tekizyamARa:A in pysan
+Case 284: tegizyamARa:A in pysan
+Case 285: teGizyamARa:A in pysan
+Case 286: tepizyamARa:A in pysan
+Case 287: telayizyamARa:A in pysan
+Case 288: telizyamARa:A in pysan
+Case 289: tevizyamARa:A in pysan
+Case 290: tokzyamARa:A in pysan
+Case 291: tojizyamARa:A in pysan
+Case 292: towizyamARa:A in pysan
+Case 293: toqizyamARa:A in pysan
+Case 294: topizyamARa:A in pysan
+Case 295: toBizyamARa:A in pysan
+Case 296: torizyamARa:A in pysan
+Case 297: toSizyamARa:A in pysan
+Case 298: tozyamARa:A in pysan
+Case 299: tosizyamARa:A in pysan
+Case 300: tohizyamARa:A in pysan
+Case 301: tyakzyamARa:A in pysan
+Case 302: traMsayizyamARa:A in pysan
+Case 303: traMsizyamARa:A in pysan
+Case 304: traKizyamARa:A in pysan
+Case 305: trandizyamARa:A in pysan
+Case 306: trapsyamAna:A in pysan
+Case 307: trasizyamARa:A in pysan
+Case 308: trAsyamAna:A in pysan
+Case 309: truwizyamARa:A in pysan
+Case 310: trumPizyamARa:A in pysan
+Case 311: tropizyamARa:A in pysan
+Case 312: troPizyamARa:A in pysan
+Case 313: trOkizyamARa:A in pysan
+Case 314: tvakzizyamARa:A in pysan
+Case 315: tvaNgizyamARa:A in pysan
+Case 316: tvacizyamARa:A in pysan
+Case 317: tvaYcizyamARa:A in pysan
+Case 318: tsarizyamARa:A in pysan
+Case 319: TurvizyamARa:A in pysan
+Case 320: ToqizyamARa:A in pysan
+Case 321: daMkzyamARa:A in pysan
+Case 322: daMsayizyamARa:A in pysan
+Case 323: daMsizyamARa:A in pysan
+Case 324: daMhayizyamARa:A in pysan
+Case 325: daGizyamARa:A in pysan
+Case 326: daNGizyamARa:A in pysan
+Case 327: dadizyamARa:A in pysan
+Case 328: daDizyamARa:A in pysan
+Case 329: daBizyamARa:A in pysan
+Case 330: damizyamARa:A in pysan
+Case 331: damBizyamARa:A in pysan
+Case 332: darizyamARa:A in pysan
+Case 333: darIzyamARa:A in pysan
+Case 334: dalizyamARa:A in pysan
+Case 335: davizyamARa:A in pysan
+Case 336: dasizyamARa:A in pysan
+Case 337: dAnizyamARa:A in pysan
+Case 338: dAyizyamARa:A in pysan
+Case 339: dAsizyamARa:A in pysan
+Case 340: dimpayizyamARa:A in pysan
+Case 341: dimBayizyamARa:A in pysan
+Case 342: dIDizyamARa:A in pysan
+Case 343: duzyamARa:A in pysan
+Case 344: dfMhizyamARa:A in pysan
+Case 345: depizyamARa:A in pysan
+Case 346: drakzyamARa:A in pysan
+Case 347: drAqizyamARa:A in pysan
+Case 348: drAhizyamARa:A in pysan
+Case 349: drUqizyamARa:A in pysan
+Case 350: drekizyamARa:A in pysan
+Case 351: droqizyamARa:A in pysan
+Case 352: DakzyamARa:A in pysan
+Case 353: DikzizyamARa:A in pysan
+Case 354: DIkzizyamARa:A in pysan
+Case 355: DUrizyamARa:A in pysan
+Case 356: DozyamARa:A in pysan
+Case 357: DrasizyamARa:A in pysan
+Case 358: DrAsyamAna:A in pysan
+Case 359: DrekizyamARa:A in pysan
+Case 360: naMkzyamARa:A in pysan
+Case 361: naKizyamARa:A in pysan
+Case 362: najizyamARa:A in pysan
+Case 363: naBizyamARa:A in pysan
+Case 364: naSizyamARa:A in pysan
+Case 365: nasizyamARa:A in pysan
+Case 366: nADizyamARa:A in pysan
+Case 367: nAsizyamARa:A in pysan
+Case 368: niMsizyamARa:A in pysan
+Case 369: ninvizyamARa:A in pysan
+Case 370: nizkayizyamARa:A in pysan
+Case 371: nuvizyamARa:A in pysan
+Case 372: nezizyamARa:A in pysan
+Case 373: paMSizyamARa:A in pysan
+Case 374: pakzizyamARa:A in pysan
+Case 375: pawayizyamARa:A in pysan
+Case 376: paRAyizyamARa:A in pysan
+Case 377: paRqizyamARa:A in pysan
+Case 378: patizyamARa:A in pysan
+Case 379: panAyizyamARa:A in pysan
+Case 380: panizyamARa:A in pysan
+Case 381: payizyamARa:A in pysan
+Case 382: parjizyamARa:A in pysan
+Case 383: pardizyamARa:A in pysan
+Case 384: parzizyamARa:A in pysan
+Case 385: pallizyamARa:A in pysan
+Case 386: pazizyamARa:A in pysan
+Case 387: pasizyamARa:A in pysan
+Case 388: pAyizyamARa:A in pysan
+Case 389: pAsyamAna:A in pysan
+Case 390: piMsayizyamARa:A in pysan
+Case 391: piMsizyamARa:A in pysan
+Case 392: piRqizyamARa:A in pysan
+Case 393: pIlizyamARa:A in pysan
+Case 394: puMsayizyamARa:A in pysan
+Case 395: pUrvayizyamARa:A in pysan
+Case 396: pebizyamARa:A in pysan
+Case 397: pevizyamARa:A in pysan
+Case 398: pezizyamARa:A in pysan
+Case 399: pezyamARa:A in pysan
+Case 400: pesayizyamARa:A in pysan
+Case 401: pesizyamARa:A in pysan
+Case 402: poYCizyamARa:A in pysan
+Case 403: pyAyizyamARa:A in pysan
+Case 404: prayizyamARa:A in pysan
+Case 405: prasizyamARa:A in pysan
+Case 406: prezizyamARa:A in pysan
+Case 407: proTizyamARa:A in pysan
+Case 408: prozayizyamARa:A in pysan
+Case 409: prozizyamARa:A in pysan
+Case 410: plakzizyamARa:A in pysan
+Case 411: plabizyamARa:A in pysan
+Case 412: plevizyamARa:A in pysan
+Case 413: plehizyamARa:A in pysan
+Case 414: barhizyamARa:A in pysan
+Case 415: bAqizyamARa:A in pysan
+Case 416: bIBizyamARa:A in pysan
+Case 417: bundizyamARa:A in pysan
+Case 418: bunDizyamARa:A in pysan
+Case 419: besizyamARa:A in pysan
+Case 420: bodizyamARa:A in pysan
+Case 421: boDizyamARa:A in pysan
+Case 422: BakzizyamARa:A in pysan
+Case 423: BarjizyamARa:A in pysan
+Case 424: BartsayizyamARa:A in pysan
+Case 425: BalizyamARa:A in pysan
+Case 426: BAmizyamARa:A in pysan
+Case 427: BAlayizyamARa:A in pysan
+Case 428: BikzizyamARa:A in pysan
+Case 429: BuRqizyamARa:A in pysan
+Case 430: BfkzizyamARa:A in pysan
+Case 431: BezizyamARa:A in pysan
+Case 432: BezyamARa:A in pysan
+Case 433: ByasizyamARa:A in pysan
+Case 434: BrakzizyamARa:A in pysan
+Case 435: BrajjizyamARa:A in pysan
+Case 436: BraSizyamARa:A in pysan
+Case 437: BrASizyamARa:A in pysan
+Case 438: BrURayizyamARa:A in pysan
+Case 439: BrezizyamARa:A in pysan
+Case 440: BlASizyamARa:A in pysan
+Case 441: maNkizyamARa:A in pysan
+Case 442: maNgizyamARa:A in pysan
+Case 443: macizyamARa:A in pysan
+Case 444: maYcizyamARa:A in pysan
+Case 445: maRWizyamARa:A in pysan
+Case 446: mayizyamARa:A in pysan
+Case 447: markzyamARa:A in pysan
+Case 448: marCizyamARa:A in pysan
+Case 449: marjayizyamARa:A in pysan
+Case 450: marqayizyamARa:A in pysan
+Case 451: malizyamARa:A in pysan
+Case 452: mallizyamARa:A in pysan
+Case 453: mavizyamARa:A in pysan
+Case 454: maskizyamARa:A in pysan
+Case 455: mAqizyamARa:A in pysan
+Case 456: mAhizyamARa:A in pysan
+Case 457: muRqizyamARa:A in pysan
+Case 458: meDizyamARa:A in pysan
+Case 459: melizyamARa:A in pysan
+Case 460: mevizyamARa:A in pysan
+Case 461: mradizyamARa:A in pysan
+Case 462: mlevizyamARa:A in pysan
+Case 463: yakzayizyamARa:A in pysan
+Case 464: yakzizyamARa:A in pysan
+Case 465: yotizyamARa:A in pysan
+Case 466: raNGayizyamARa:A in pysan
+Case 467: raNGizyamARa:A in pysan
+Case 468: rambizyamARa:A in pysan
+Case 469: ramBizyamARa:A in pysan
+Case 470: rayizyamARa:A in pysan
+Case 471: ravizyamARa:A in pysan
+Case 472: rAGizyamARa:A in pysan
+Case 473: rAsizyamARa:A in pysan
+Case 474: rIvizyamARa:A in pysan
+Case 475: rekizyamARa:A in pysan
+Case 476: rejizyamARa:A in pysan
+Case 477: rewizyamARa:A in pysan
+Case 478: reqizyamARa:A in pysan
+Case 479: repizyamARa:A in pysan
+Case 480: rezizyamARa:A in pysan
+Case 481: roWizyamARa:A in pysan
+Case 482: lakzizyamARa:A in pysan
+Case 483: lajizyamARa:A in pysan
+Case 484: lamBizyamARa:A in pysan
+Case 485: layizyamARa:A in pysan
+Case 486: lasizyamARa:A in pysan
+Case 487: lAgayizyamARa:A in pysan
+Case 488: lAGizyamARa:A in pysan
+Case 489: lAsyamAna:A in pysan
+Case 490: luwizyamARa:A in pysan
+Case 491: lepizyamARa:A in pysan
+Case 492: lozwizyamARa:A in pysan
+Case 493: vakizyamARa:A in pysan
+Case 494: vakkizyamARa:A in pysan
+Case 495: vaNGizyamARa:A in pysan
+Case 496: vacizyamARa:A in pysan
+Case 497: vawizyamARa:A in pysan
+Case 498: vaRWizyamARa:A in pysan
+Case 499: vaRqizyamARa:A in pysan
+Case 500: vatsyamAna:A in pysan
+Case 501: vanizyamARa:A in pysan
+Case 502: varkizyamARa:A in pysan
+Case 503: varcizyamARa:A in pysan
+Case 504: varjizyamARa:A in pysan
+Case 505: varRizyamARa:A in pysan
+Case 506: valBizyamARa:A in pysan
+Case 507: valhizyamARa:A in pysan
+Case 508: vazkizyamARa:A in pysan
+Case 509: vaskizyamARa:A in pysan
+Case 510: vastayizyamARa:A in pysan
+Case 511: vAvartizyamARa:A in pysan
+Case 512: vAhizyamARa:A in pysan
+Case 513: vikzyamARa:A in pysan
+Case 514: vIjayizyamARa:A in pysan
+Case 515: vIrayizyamARa:A in pysan
+Case 516: vfkzizyamARa:A in pysan
+Case 517: veTizyamARa:A in pysan
+Case 518: veDizyamARa:A in pysan
+Case 519: vevizyamARa:A in pysan
+Case 520: vyayizyamARa:A in pysan
+Case 521: SacizyamARa:A in pysan
+Case 522: SaWayizyamARa:A in pysan
+Case 523: SaRqizyamARa:A in pysan
+Case 524: SamizyamARa:A in pysan
+Case 525: SartsyamAna:A in pysan
+Case 526: SarDizyamARa:A in pysan
+Case 527: SalizyamARa:A in pysan
+Case 528: SalBizyamARa:A in pysan
+Case 529: SAwayizyamARa:A in pysan
+Case 530: SAWayizyamARa:A in pysan
+Case 531: SAqizyamARa:A in pysan
+Case 532: SAlayizyamARa:A in pysan
+Case 533: SAlizyamARa:A in pysan
+Case 534: SiYjizyamARa:A in pysan
+Case 535: SIkizyamARa:A in pysan
+Case 536: SIBizyamARa:A in pysan
+Case 537: SUrayizyamARa:A in pysan
+Case 538: SUrizyamARa:A in pysan
+Case 539: SevizyamARa:A in pysan
+Case 540: SocizyamARa:A in pysan
+Case 541: SotsyamAna:A in pysan
+Case 542: SraNkizyamARa:A in pysan
+Case 543: SrAsyamAna:A in pysan
+Case 544: SrezyamARa:A in pysan
+Case 545: SlaNkizyamARa:A in pysan
+Case 546: SlokizyamARa:A in pysan
+Case 547: SvaNkizyamARa:A in pysan
+Case 548: SvacizyamARa:A in pysan
+Case 549: SvajizyamARa:A in pysan
+Case 550: SvindizyamARa:A in pysan
+Case 551: zukkizyamARa:A in pysan
+Case 552: zvakkizyamARa:A in pysan
+Case 553: zvazkizyamARa:A in pysan
+Case 554: sagizyamARa:A in pysan
+Case 555: satrayizyamARa:A in pysan
+Case 556: satsyamAna:A in pysan
+Case 557: sayizyamARa:A in pysan
+Case 558: sAwayizyamARa:A in pysan
+Case 559: sAtsyamAna:A in pysan
+Case 560: sUdizyamARa:A in pysan
+Case 561: sekizyamARa:A in pysan
+Case 562: sezyamARa:A in pysan
+Case 563: skundizyamARa:A in pysan
+Case 564: skozyamARa:A in pysan
+Case 565: sKadizyamARa:A in pysan
+Case 566: stamBizyamARa:A in pysan
+Case 567: stepizyamARa:A in pysan
+Case 568: stocizyamARa:A in pysan
+Case 569: stoBizyamARa:A in pysan
+Case 570: sTUlayizyamARa:A in pysan
+Case 571: snocizyamARa:A in pysan
+Case 572: sparzizyamARa:A in pysan
+Case 573: spaSizyamARa:A in pysan
+Case 574: sPAyizyamARa:A in pysan
+Case 575: sPuRqizyamARa:A in pysan
+Case 576: sraMhizyamARa:A in pysan
+Case 577: srekizyamARa:A in pysan
+Case 578: svajizyamARa:A in pysan
+Case 579: svardizyamARa:A in pysan
+Case 580: hadizyamARa:A in pysan
+Case 581: harzizyamARa:A in pysan
+Case 582: hiRqizyamARa:A in pysan
+Case 583: heWizyamARa:A in pysan
+Case 584: heqizyamARa:A in pysan
+Case 585: hezizyamARa:A in pysan
+Case 586: hoqizyamARa:A in pysan
+Case 587: hrasizyamARa:A in pysan
+Case 588: hrepizyamARa:A in pysan
+Case 589: hrezizyamARa:A in pysan
+Case 590: hlagizyamARa:A in pysan
+Case 591: hvAsyamAna:A in pysan
+--------------------------------------------------
+622 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: aMSayizyamARa:A in huet
+Case 02: agadyizyamARa:A in huet
+Case 03: aGAyizyamARa:A in huet
+Case 04: aNkayizyamARa:A in huet
+Case 05: aNKayizyamARa:A in huet
+Case 06: ajirAyizyamARa:A in huet
+Case 07: aYjayizyamARa:A in huet
+Case 08: aDvarIyizyamARa:A in huet
+Case 09: aDvaryizyamARa:A in huet
+Case 10: anDayizyamARa:A in huet
+Case 11: apsarAyizyamARa:A in huet
+Case 12: aBrAyizyamARa:A in huet
+Case 13: amitrayizyamARa:A in huet
+Case 14: arizyamARa:A in huet
+Case 15: arcayizyamARa:A in huet
+Case 16: arjayizyamARa:A in huet
+Case 17: arTApayizyamARa:A in huet
+Case 18: arDayizyamARa:A in huet
+Case 19: arpayizyamARa:A in huet
+Case 20: arhayizyamARa:A in huet
+Case 21: arhizyamARa:A in huet
+Case 22: aSanAyizyamARa:A in huet
+Case 23: aSanIyizyamARa:A in huet
+Case 24: aSvasyizyamARa:A in huet
+Case 25: aSvAyizyamARa:A in huet
+Case 26: asUyizyamARa:A in huet
+Case 27: AkarRayizyamARa:A in huet
+Case 28: AkulayizyamARa:A in huet
+Case 29: AdayizyamARa:A in huet
+Case 30: AnayizyamARa:A in huet
+Case 31: AndolayizyamARa:A in huet
+Case 32: ApayizyamARa:A in huet
+Case 33: AmayizyamARa:A in huet
+Case 34: AvayizyamARa:A in huet
+Case 35: AvilayizyamARa:A in huet
+Case 36: ASayizyamARa:A in huet
+Case 37: AsayizyamARa:A in huet
+Case 38: iNgayizyamARa:A in huet
+Case 39: irasyizyamARa:A in huet
+Case 40: ilayizyamARa:A in huet
+Case 41: izayizyamARa:A in huet
+Case 42: izuDyizyamARa:A in huet
+Case 43: INKayizyamARa:A in huet
+Case 44: INKizyamARa:A in huet
+Case 45: IrayizyamARa:A in huet
+Case 46: utkaRWayizyamARa:A in huet
+Case 47: utkaRWizyamARa:A in huet
+Case 48: utkayizyamARa:A in huet
+Case 49: udakIyizyamARa:A in huet
+Case 50: udanyizyamARa:A in huet
+Case 51: unmanAyizyamARa:A in huet
+Case 52: urasyizyamARa:A in huet
+Case 53: urozizyamARa:A in huet
+Case 54: uzasyizyamARa:A in huet
+Case 55: UrjayizyamARa:A in huet
+Case 56: UzmAyizyamARa:A in huet
+Case 57: ejayizyamARa:A in huet
+Case 58: eDayizyamARa:A in huet
+Case 59: elayizyamARa:A in huet
+Case 60: kaRqayizyamARa:A in huet
+Case 61: kaRqUyizyamARa:A in huet
+Case 62: kaRvAyizyamARa:A in huet
+Case 63: kaTayizyamARa:A in huet
+Case 64: kadarTayizyamARa:A in huet
+Case 65: kampayizyamARa:A in huet
+Case 66: karuRAyizyamARa:A in huet
+Case 67: karRayizyamARa:A in huet
+Case 68: kartrIyizyamARa:A in huet
+Case 69: karpsyamAna:A in huet
+Case 70: karSayizyamARa:A in huet
+Case 71: karzayizyamARa:A in huet
+Case 72: karzizyamARa:A in huet
+Case 73: kalaNkayizyamARa:A in huet
+Case 74: kalayizyamARa:A in huet
+Case 75: kalahAyizyamARa:A in huet
+Case 76: kaluzayizyamARa:A in huet
+Case 77: kaluzAyizyamARa:A in huet
+Case 78: kalpayizyamARa:A in huet
+Case 79: kavalayizyamARa:A in huet
+Case 80: kavIyizyamARa:A in huet
+Case 81: kazwAyizyamARa:A in huet
+Case 82: kANkzizyamARa:A in huet
+Case 83: kAlayizyamARa:A in huet
+Case 84: kASayizyamARa:A in huet
+Case 85: kAzayizyamARa:A in huet
+Case 86: kAsayizyamARa:A in huet
+Case 87: kuYcayizyamARa:A in huet
+Case 88: kuRWizyamARa:A in huet
+Case 89: kutsayizyamARa:A in huet
+Case 90: kutsizyamARa:A in huet
+Case 91: kusumayizyamARa:A in huet
+Case 92: kfcCrAyizyamARa:A in huet
+Case 93: kfpayizyamARa:A in huet
+Case 94: kelAyizyamARa:A in huet
+Case 95: kocizyamARa:A in huet
+Case 96: kraMsyamAna:A in huet
+Case 97: kramayizyamARa:A in huet
+Case 98: krApayizyamARa:A in huet
+Case 99: krAmayizyamARa:A in huet
+Case 100: krIqayizyamARa:A in huet
+Case 101: kroDayizyamARa:A in huet
+Case 102: klAmayizyamARa:A in huet
+Case 103: klIbAyizyamARa:A in huet
+Case 104: klIbezyamARa:A in huet
+Case 105: kledayizyamARa:A in huet
+Case 106: kleSayizyamARa:A in huet
+Case 107: kvATayizyamARa:A in huet
+Case 108: kzanizyamARa:A in huet
+Case 109: kzapayizyamARa:A in huet
+Case 110: kzamayizyamARa:A in huet
+Case 111: kzAmayizyamARa:A in huet
+Case 112: kzAlayizyamARa:A in huet
+Case 113: kzIrasyizyamARa:A in huet
+Case 114: kzepayizyamARa:A in huet
+Case 115: kzepsyamAna:A in huet
+Case 116: kzoBayizyamARa:A in huet
+Case 117: kzveqayizyamARa:A in huet
+Case 118: KaqayizyamARa:A in huet
+Case 119: KaRqayizyamARa:A in huet
+Case 120: KanizyamARa:A in huet
+Case 121: KAnayizyamARa:A in huet
+Case 122: KedayizyamARa:A in huet
+Case 123: KelayizyamARa:A in huet
+Case 124: KelAyizyamARa:A in huet
+Case 125: KyApayizyamARa:A in huet
+Case 126: gaRayizyamARa:A in huet
+Case 127: gadayizyamARa:A in huet
+Case 128: gadgadyizyamARa:A in huet
+Case 129: gamayizyamARa:A in huet
+Case 130: gamizyamARa:A in huet
+Case 131: garDayizyamARa:A in huet
+Case 132: garvayizyamARa:A in huet
+Case 133: garvAyizyamARa:A in huet
+Case 134: gavezayizyamARa:A in huet
+Case 135: gavezizyamARa:A in huet
+Case 136: gavyizyamARa:A in huet
+Case 137: gAlayizyamARa:A in huet
+Case 138: girayizyamARa:A in huet
+Case 139: guRWayizyamARa:A in huet
+Case 140: gUhayizyamARa:A in huet
+Case 141: gopAyizyamARa:A in huet
+Case 142: gomayizyamARa:A in huet
+Case 143: gorizyamARa:A in huet
+Case 144: grahIzyamARa:A in huet
+Case 145: grAhayizyamARa:A in huet
+Case 146: glapayizyamARa:A in huet
+Case 147: GawayizyamARa:A in huet
+Case 148: GawwayizyamARa:A in huet
+Case 149: GAwayizyamARa:A in huet
+Case 150: GAtayizyamARa:A in huet
+Case 151: GozayizyamARa:A in huet
+Case 152: caYcizyamARa:A in huet
+Case 153: cayayizyamARa:A in huet
+Case 154: cAtayizyamARa:A in huet
+Case 155: cApayizyamARa:A in huet
+Case 156: cAyayizyamARa:A in huet
+Case 157: cArayizyamARa:A in huet
+Case 158: cAlayizyamARa:A in huet
+Case 159: cikIrzyamARa:A in huet
+Case 160: cikrIzyamARa:A in huet
+Case 161: citrIyizyamARa:A in huet
+Case 162: cetayizyamARa:A in huet
+Case 163: cezwayizyamARa:A in huet
+Case 164: codayizyamARa:A in huet
+Case 165: copayizyamARa:A in huet
+Case 166: corizyamARa:A in huet
+Case 167: cyozyamARa:A in huet
+Case 168: CandayizyamARa:A in huet
+Case 169: CandizyamARa:A in huet
+Case 170: CalayizyamARa:A in huet
+Case 171: CidrayizyamARa:A in huet
+Case 172: CurayizyamARa:A in huet
+Case 173: CedayizyamARa:A in huet
+Case 174: janayizyamARa:A in huet
+Case 175: jaBizyamARa:A in huet
+Case 176: jayizyamARa:A in huet
+Case 177: jarayizyamARa:A in huet
+Case 178: jalAyizyamARa:A in huet
+Case 179: javizyamARa:A in huet
+Case 180: jAgarayizyamARa:A in huet
+Case 181: jApayizyamARa:A in huet
+Case 182: jAsayizyamARa:A in huet
+Case 183: jigIzyamARa:A in huet
+Case 184: jiGAMsyamAna:A in huet
+Case 185: jijYAsyamAna:A in huet
+Case 186: jihmAyizyamARa:A in huet
+Case 187: jugupsyamAna:A in huet
+Case 188: jozayizyamARa:A in huet
+Case 189: jYapayizyamARa:A in huet
+Case 190: jYApayizyamARa:A in huet
+Case 191: jyotayizyamARa:A in huet
+Case 192: jvalayizyamARa:A in huet
+Case 193: taNkzyamARa:A in huet
+Case 194: tantrayizyamARa:A in huet
+Case 195: tandrayizyamARa:A in huet
+Case 196: tapasyizyamARa:A in huet
+Case 197: tapizyamARa:A in huet
+Case 198: taraNgayizyamARa:A in huet
+Case 199: taruRayizyamARa:A in huet
+Case 200: taruRAyizyamARa:A in huet
+Case 201: tarjayizyamARa:A in huet
+Case 202: tarpayizyamARa:A in huet
+Case 203: tavizIyizyamARa:A in huet
+Case 204: tApayizyamARa:A in huet
+Case 205: tArayizyamARa:A in huet
+Case 206: titikzyamARa:A in huet
+Case 207: titIrzyamARa:A in huet
+Case 208: tirasyizyamARa:A in huet
+Case 209: tulayizyamARa:A in huet
+Case 210: tuhinayizyamARa:A in huet
+Case 211: tejayizyamARa:A in huet
+Case 212: tozayizyamARa:A in huet
+Case 213: tyAjayizyamARa:A in huet
+Case 214: trapayizyamARa:A in huet
+Case 215: trAsayizyamARa:A in huet
+Case 216: trEzyamARa:A in huet
+Case 217: trowayizyamARa:A in huet
+Case 218: tvarayizyamARa:A in huet
+Case 219: dakzizyamARa:A in huet
+Case 220: daRqayizyamARa:A in huet
+Case 221: damayizyamARa:A in huet
+Case 222: darpayizyamARa:A in huet
+Case 223: darBayizyamARa:A in huet
+Case 224: darSayizyamARa:A in huet
+Case 225: dApayizyamARa:A in huet
+Case 226: dArayizyamARa:A in huet
+Case 227: dAvayizyamARa:A in huet
+Case 228: dASayizyamARa:A in huet
+Case 229: dASizyamARa:A in huet
+Case 230: dAsayizyamARa:A in huet
+Case 231: dAhayizyamARa:A in huet
+Case 232: didfkzyamARa:A in huet
+Case 233: diDizyamARa:A in huet
+Case 234: diDyAsyamAna:A in huet
+Case 235: dIkzayizyamARa:A in huet
+Case 236: dIpayizyamARa:A in huet
+Case 237: duHKyizyamARa:A in huet
+Case 238: durdinAyizyamARa:A in huet
+Case 239: dUzayizyamARa:A in huet
+Case 240: dekzyamARa:A in huet
+Case 241: devayizyamARa:A in huet
+Case 242: deSayizyamARa:A in huet
+Case 243: dehayizyamARa:A in huet
+Case 244: dolayizyamARa:A in huet
+Case 245: dohayizyamARa:A in huet
+Case 246: dyotayizyamARa:A in huet
+Case 247: drApayizyamARa:A in huet
+Case 248: drArayizyamARa:A in huet
+Case 249: drAvayizyamARa:A in huet
+Case 250: DanAyizyamARa:A in huet
+Case 251: DanIyizyamARa:A in huet
+Case 252: DarzayizyamARa:A in huet
+Case 253: DarzizyamARa:A in huet
+Case 254: DApayizyamARa:A in huet
+Case 255: DArayizyamARa:A in huet
+Case 256: DIrayizyamARa:A in huet
+Case 257: DukzayizyamARa:A in huet
+Case 258: DUmAyizyamARa:A in huet
+Case 259: DvaMsayizyamARa:A in huet
+Case 260: DvanayizyamARa:A in huet
+Case 261: DvANkzizyamARa:A in huet
+Case 262: DvArayizyamARa:A in huet
+Case 263: naMsyamAna:A in huet
+Case 264: nadayizyamARa:A in huet
+Case 265: nandayizyamARa:A in huet
+Case 266: namasyizyamARa:A in huet
+Case 267: namizyamARa:A in huet
+Case 268: nartayizyamARa:A in huet
+Case 269: nAwayizyamARa:A in huet
+Case 270: nAdayizyamARa:A in huet
+Case 271: nAmayizyamARa:A in huet
+Case 272: nAyayizyamARa:A in huet
+Case 273: nAvyizyamARa:A in huet
+Case 274: nASayizyamARa:A in huet
+Case 275: nikazAyizyamARa:A in huet
+Case 276: ninIzyamARa:A in huet
+Case 277: nIhArAyizyamARa:A in huet
+Case 278: nUtanayizyamARa:A in huet
+Case 279: nejayizyamARa:A in huet
+Case 280: nodayizyamARa:A in huet
+Case 281: pawapawAyizyamARa:A in huet
+Case 282: paWizyamARa:A in huet
+Case 283: paRayizyamARa:A in huet
+Case 284: payasyizyamARa:A in huet
+Case 285: payAyizyamARa:A in huet
+Case 286: parokzAyizyamARa:A in huet
+Case 287: parcizyamARa:A in huet
+Case 288: parTayizyamARa:A in huet
+Case 289: pavitrayizyamARa:A in huet
+Case 290: pAcayizyamARa:A in huet
+Case 291: pAWayizyamARa:A in huet
+Case 292: pAtayizyamARa:A in huet
+Case 293: pATayizyamARa:A in huet
+Case 294: pAdayizyamARa:A in huet
+Case 295: pAyayizyamARa:A in huet
+Case 296: pArayizyamARa:A in huet
+Case 297: pAlayizyamARa:A in huet
+Case 298: pAvayizyamARa:A in huet
+Case 299: pASayizyamARa:A in huet
+Case 300: piRqayizyamARa:A in huet
+Case 301: pIqayizyamARa:A in huet
+Case 302: pIyUzavarzAyizyamARa:A in huet
+Case 303: putrakAmyizyamARa:A in huet
+Case 304: putriyizyamARa:A in huet
+Case 305: putrIyizyamARa:A in huet
+Case 306: pulakayizyamARa:A in huet
+Case 307: puzkarAyizyamARa:A in huet
+Case 308: puzpAyizyamARa:A in huet
+Case 309: puzpyizyamARa:A in huet
+Case 310: pUyizyamARa:A in huet
+Case 311: pUrayizyamARa:A in huet
+Case 312: pUlayizyamARa:A in huet
+Case 313: pUlezyamARa:A in huet
+Case 314: pokzyamARa:A in huet
+Case 315: poTayizyamARa:A in huet
+Case 316: poTizyamARa:A in huet
+Case 317: pozayizyamARa:A in huet
+Case 318: pracCayizyamARa:A in huet
+Case 319: pratikUlayizyamARa:A in huet
+Case 320: praTayizyamARa:A in huet
+Case 321: praSizyamARa:A in huet
+Case 322: prasAdayizyamARa:A in huet
+Case 323: prAvayizyamARa:A in huet
+Case 324: prAsAdIyizyamARa:A in huet
+Case 325: priyAyizyamARa:A in huet
+Case 326: prIRayizyamARa:A in huet
+Case 327: plAvayizyamARa:A in huet
+Case 328: plozizyamARa:A in huet
+Case 329: PullizyamARa:A in huet
+Case 330: PenAyizyamARa:A in huet
+Case 331: baMhayizyamARa:A in huet
+Case 332: banDayizyamARa:A in huet
+Case 333: banDizyamARa:A in huet
+Case 334: bADayizyamARa:A in huet
+Case 335: bAzpAyizyamARa:A in huet
+Case 336: biBitsyamAna:A in huet
+Case 337: bIBatsyamAna:A in huet
+Case 338: buButsyamAna:A in huet
+Case 339: buBUzyamARa:A in huet
+Case 340: buBodizyamARa:A in huet
+Case 341: bfMhayizyamARa:A in huet
+Case 342: boDayizyamARa:A in huet
+Case 343: BakzayizyamARa:A in huet
+Case 344: BajizyamARa:A in huet
+Case 345: BaYjayizyamARa:A in huet
+Case 346: BantsyamAna:A in huet
+Case 347: BarkzyamARa:A in huet
+Case 348: BartsizyamARa:A in huet
+Case 349: BAyayizyamARa:A in huet
+Case 350: BArayizyamARa:A in huet
+Case 351: BAvayizyamARa:A in huet
+Case 352: BAsayizyamARa:A in huet
+Case 353: BikzyamARa:A in huet
+Case 354: BizajyizyamARa:A in huet
+Case 355: BIzayizyamARa:A in huet
+Case 356: BuYjApayizyamARa:A in huet
+Case 357: BUzayizyamARa:A in huet
+Case 358: BfSAyizyamARa:A in huet
+Case 359: BedayizyamARa:A in huet
+Case 360: BojayizyamARa:A in huet
+Case 361: BotsyamAna:A in huet
+Case 362: BraMSayizyamARa:A in huet
+Case 363: BrakzyamARa:A in huet
+Case 364: BrAjayizyamARa:A in huet
+Case 365: BrAmayizyamARa:A in huet
+Case 366: maMhayizyamARa:A in huet
+Case 367: majjayizyamARa:A in huet
+Case 368: maRqayizyamARa:A in huet
+Case 369: madayizyamARa:A in huet
+Case 370: maDusyizyamARa:A in huet
+Case 371: maDvasyizyamARa:A in huet
+Case 372: manizyamARa:A in huet
+Case 373: mantUyizyamARa:A in huet
+Case 374: mandayizyamARa:A in huet
+Case 375: mardayizyamARa:A in huet
+Case 376: mardizyamARa:A in huet
+Case 377: marSayizyamARa:A in huet
+Case 378: marzayizyamARa:A in huet
+Case 379: marzizyamARa:A in huet
+Case 380: malinayizyamARa:A in huet
+Case 381: mahayizyamARa:A in huet
+Case 382: mahIyizyamARa:A in huet
+Case 383: mAMsIyizyamARa:A in huet
+Case 384: mAdayizyamARa:A in huet
+Case 385: mAnayizyamARa:A in huet
+Case 386: mApayizyamARa:A in huet
+Case 387: mArayizyamARa:A in huet
+Case 388: mArkzyamARa:A in huet
+Case 389: mArjayizyamARa:A in huet
+Case 390: mArjizyamARa:A in huet
+Case 391: mAlayizyamARa:A in huet
+Case 392: mAlyaguRAyizyamARa:A in huet
+Case 393: milizyamARa:A in huet
+Case 394: miSrayizyamARa:A in huet
+Case 395: mImAMsyamAna:A in huet
+Case 396: mIlayizyamARa:A in huet
+Case 397: mukulayizyamARa:A in huet
+Case 398: muKarayizyamARa:A in huet
+Case 399: muRqayizyamARa:A in huet
+Case 400: mudrayizyamARa:A in huet
+Case 401: mUtrayizyamARa:A in huet
+Case 402: mUrCayizyamARa:A in huet
+Case 403: mUzizyamARa:A in huet
+Case 404: mfgayizyamARa:A in huet
+Case 405: mfzAyizyamARa:A in huet
+Case 406: meGAyizyamARa:A in huet
+Case 407: medayizyamARa:A in huet
+Case 408: melApayizyamARa:A in huet
+Case 409: mezyamARa:A in huet
+Case 410: mokzayizyamARa:A in huet
+Case 411: mocayizyamARa:A in huet
+Case 412: modayizyamARa:A in huet
+Case 413: mohayizyamARa:A in huet
+Case 414: mreqayizyamARa:A in huet
+Case 415: yantrayizyamARa:A in huet
+Case 416: yamayizyamARa:A in huet
+Case 417: yavizyamARa:A in huet
+Case 418: yAjayizyamARa:A in huet
+Case 419: yAtayizyamARa:A in huet
+Case 420: yApayizyamARa:A in huet
+Case 421: yAvayizyamARa:A in huet
+Case 422: yiyatizyamARa:A in huet
+Case 423: yugAyizyamARa:A in huet
+Case 424: yuyutsyamAna:A in huet
+Case 425: yojayizyamARa:A in huet
+Case 426: rakzayizyamARa:A in huet
+Case 427: racayizyamARa:A in huet
+Case 428: raYjayizyamARa:A in huet
+Case 429: raRayizyamARa:A in huet
+Case 430: raTakAmyizyamARa:A in huet
+Case 431: ranDayizyamARa:A in huet
+Case 432: ramayizyamARa:A in huet
+Case 433: rasayizyamARa:A in huet
+Case 434: rahayizyamARa:A in huet
+Case 435: rAjayizyamARa:A in huet
+Case 436: rAjIyizyamARa:A in huet
+Case 437: rAtsyamAna:A in huet
+Case 438: rADayizyamARa:A in huet
+Case 439: rAmayizyamARa:A in huet
+Case 440: ripsyamAna:A in huet
+Case 441: riraMsyamAna:A in huet
+Case 442: rUkzayizyamARa:A in huet
+Case 443: rUpayizyamARa:A in huet
+Case 444: recayizyamARa:A in huet
+Case 445: rezayizyamARa:A in huet
+Case 446: rezyamARa:A in huet
+Case 447: rocayizyamARa:A in huet
+Case 448: rodayizyamARa:A in huet
+Case 449: roDayizyamARa:A in huet
+Case 450: ropayizyamARa:A in huet
+Case 451: romanTAyizyamARa:A in huet
+Case 452: rozayizyamARa:A in huet
+Case 453: rohayizyamARa:A in huet
+Case 454: laGayizyamARa:A in huet
+Case 455: laNGayizyamARa:A in huet
+Case 456: lajjayizyamARa:A in huet
+Case 457: laBizyamARa:A in huet
+Case 458: lamBayizyamARa:A in huet
+Case 459: lavaRasyizyamARa:A in huet
+Case 460: lApayizyamARa:A in huet
+Case 461: lAlayizyamARa:A in huet
+Case 462: lAlAyizyamARa:A in huet
+Case 463: lAzayizyamARa:A in huet
+Case 464: lipsyamAna:A in huet
+Case 465: luYcizyamARa:A in huet
+Case 466: luRWayizyamARa:A in huet
+Case 467: leKayizyamARa:A in huet
+Case 468: lepayizyamARa:A in huet
+Case 469: lelAyizyamARa:A in huet
+Case 470: loWayizyamARa:A in huet
+Case 471: loWizyamARa:A in huet
+Case 472: loBayizyamARa:A in huet
+Case 473: lohitAyizyamARa:A in huet
+Case 474: vakzayizyamARa:A in huet
+Case 475: vaYcayizyamARa:A in huet
+Case 476: vapizyamARa:A in huet
+Case 477: varayizyamARa:A in huet
+Case 478: varivasyizyamARa:A in huet
+Case 479: varjayizyamARa:A in huet
+Case 480: varRayizyamARa:A in huet
+Case 481: vartayizyamARa:A in huet
+Case 482: varDayizyamARa:A in huet
+Case 483: varzayizyamARa:A in huet
+Case 484: valayizyamARa:A in huet
+Case 485: valgUyizyamARa:A in huet
+Case 486: vasizyamARa:A in huet
+Case 487: vAcayizyamARa:A in huet
+Case 488: vAcyizyamARa:A in huet
+Case 489: vAdayizyamARa:A in huet
+Case 490: vApayizyamARa:A in huet
+Case 491: vArayizyamARa:A in huet
+Case 492: vAsayizyamARa:A in huet
+Case 493: vAhayizyamARa:A in huet
+Case 494: vijizyamARa:A in huet
+Case 495: vimanAyizyamARa:A in huet
+Case 496: viSadayizyamARa:A in huet
+Case 497: vizAyizyamARa:A in huet
+Case 498: vfzasyizyamARa:A in huet
+Case 499: vfzIyizyamARa:A in huet
+Case 500: vecayizyamARa:A in huet
+Case 501: vejayizyamARa:A in huet
+Case 502: vejizyamARa:A in huet
+Case 503: vedayizyamARa:A in huet
+Case 504: vedApayizyamARa:A in huet
+Case 505: venizyamARa:A in huet
+Case 506: vepayizyamARa:A in huet
+Case 507: veSayizyamARa:A in huet
+Case 508: vezayizyamARa:A in huet
+Case 509: vezwayizyamARa:A in huet
+Case 510: vErAyizyamARa:A in huet
+Case 511: vyaTayizyamARa:A in huet
+Case 512: vyADayizyamARa:A in huet
+Case 513: vraRayizyamARa:A in huet
+Case 514: vraScayizyamARa:A in huet
+Case 515: SaMsayizyamARa:A in huet
+Case 516: SabdayizyamARa:A in huet
+Case 517: SabdAyizyamARa:A in huet
+Case 518: SamayizyamARa:A in huet
+Case 519: SalaBAyizyamARa:A in huet
+Case 520: SAtayizyamARa:A in huet
+Case 521: SAdayizyamARa:A in huet
+Case 522: SAntayizyamARa:A in huet
+Case 523: SApayizyamARa:A in huet
+Case 524: SAmayizyamARa:A in huet
+Case 525: SAyayizyamARa:A in huet
+Case 526: SikzayizyamARa:A in huet
+Case 527: SikzyamARa:A in huet
+Case 528: SiTilayizyamARa:A in huet
+Case 529: SiTilAyizyamARa:A in huet
+Case 530: SiSayizyamARa:A in huet
+Case 531: SiSUyizyamARa:A in huet
+Case 532: SIGrAyizyamARa:A in huet
+Case 533: SIlayizyamARa:A in huet
+Case 534: SuSrUzyamARa:A in huet
+Case 535: SezayizyamARa:A in huet
+Case 536: SocayizyamARa:A in huet
+Case 537: SoDayizyamARa:A in huet
+Case 538: SoBayizyamARa:A in huet
+Case 539: SozayizyamARa:A in huet
+Case 540: ScotayizyamARa:A in huet
+Case 541: SyAmAyizyamARa:A in huet
+Case 542: SyAsyamAna:A in huet
+Case 543: SyenayizyamARa:A in huet
+Case 544: SyenAyizyamARa:A in huet
+Case 545: SrAmayizyamARa:A in huet
+Case 546: SrAvayizyamARa:A in huet
+Case 547: SlezayizyamARa:A in huet
+Case 548: SvAsayizyamARa:A in huet
+Case 549: zaRQayizyamARa:A in huet
+Case 550: saKIyizyamARa:A in huet
+Case 551: saNkawAyizyamARa:A in huet
+Case 552: saNgrAmayizyamARa:A in huet
+Case 553: sajjayizyamARa:A in huet
+Case 554: sajjIyizyamARa:A in huet
+Case 555: satyApayizyamARa:A in huet
+Case 556: sanizyamARa:A in huet
+Case 557: sapiRqayizyamARa:A in huet
+Case 558: saPalayizyamARa:A in huet
+Case 559: samudrAyizyamARa:A in huet
+Case 560: sarjayizyamARa:A in huet
+Case 561: sarpayizyamARa:A in huet
+Case 562: sAdayizyamARa:A in huet
+Case 563: sADayizyamARa:A in huet
+Case 564: sAnayizyamARa:A in huet
+Case 565: sApayizyamARa:A in huet
+Case 566: sArayizyamARa:A in huet
+Case 567: sAvaDAnayizyamARa:A in huet
+Case 568: sisevizyamARa:A in huet
+Case 569: sIvayizyamARa:A in huet
+Case 570: suKAyizyamARa:A in huet
+Case 571: suKyizyamARa:A in huet
+Case 572: sudinAyizyamARa:A in huet
+Case 573: sumanAyizyamARa:A in huet
+Case 574: sUcayizyamARa:A in huet
+Case 575: sUtrayizyamARa:A in huet
+Case 576: secayizyamARa:A in huet
+Case 577: sevayizyamARa:A in huet
+Case 578: skandayizyamARa:A in huet
+Case 579: skamBizyamARa:A in huet
+Case 580: sKalayizyamARa:A in huet
+Case 581: sKAlayizyamARa:A in huet
+Case 582: stamBayizyamARa:A in huet
+Case 583: starIzyamARa:A in huet
+Case 584: stavizyamARa:A in huet
+Case 585: stAvayizyamARa:A in huet
+Case 586: stenayizyamARa:A in huet
+Case 587: sTagayizyamARa:A in huet
+Case 588: sTApayizyamARa:A in huet
+Case 589: snAvayizyamARa:A in huet
+Case 590: snehayizyamARa:A in huet
+Case 591: spandayizyamARa:A in huet
+Case 592: spASayizyamARa:A in huet
+Case 593: spfhayizyamARa:A in huet
+Case 594: sPAsyamAna:A in huet
+Case 595: sPowayizyamARa:A in huet
+Case 596: sPorayizyamARa:A in huet
+Case 597: smAyayizyamARa:A in huet
+Case 598: smArayizyamARa:A in huet
+Case 599: syandayizyamARa:A in huet
+Case 600: srAvayizyamARa:A in huet
+Case 601: svaNkzyamARa:A in huet
+Case 602: svaYjayizyamARa:A in huet
+Case 603: svanayizyamARa:A in huet
+Case 604: svalpaSilAyizyamARa:A in huet
+Case 605: svAdayizyamARa:A in huet
+Case 606: svedayizyamARa:A in huet
+Case 607: haMsyamAna:A in huet
+Case 608: hatsyamAna:A in huet
+Case 609: hanizyamARa:A in huet
+Case 610: harzayizyamARa:A in huet
+Case 611: hApayizyamARa:A in huet
+Case 612: hArayizyamARa:A in huet
+Case 613: hAsayizyamARa:A in huet
+Case 614: hozyamARa:A in huet
+Case 615: hrAdayizyamARa:A in huet
+Case 616: hrAsayizyamARa:A in huet
+Case 617: hrepayizyamARa:A in huet
+Case 618: hlAdayizyamARa:A in huet
+Case 619: hvayizyamARa:A in huet
+Case 620: hvarizyamARa:A in huet
+Case 621: hvAyayizyamARa:A in huet
+Case 622: hvArayizyamARa:A in huet
