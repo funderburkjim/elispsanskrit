@@ -1,0 +1,1212 @@
+acamAna ppr 1Af: identical
+acamAna ppr 1Am: identical
+acamAna ppr 1An: identical
+ajirAyamARa ppr 11Af: pysan NOT FOUND
+ajirAyamARa ppr 11Am: pysan NOT FOUND
+ajirAyamARa ppr 11An: pysan NOT FOUND
+aYcamAna ppr 1Af: identical
+aYcamAna ppr 1Am: identical
+aYcamAna ppr 1An: identical
+aYjAna ppr 7Af: identical
+aYjAna ppr 7Am: identical
+aYjAna ppr 7An: identical
+apsarAyamARa ppr 11Af: pysan NOT FOUND
+apsarAyamARa ppr 11Am: pysan NOT FOUND
+apsarAyamARa ppr 11An: pysan NOT FOUND
+aBrAyamARa ppr 11Af: pysan NOT FOUND
+aBrAyamARa ppr 11Am: pysan NOT FOUND
+aBrAyamARa ppr 11An: pysan NOT FOUND
+ayamAna ppr 1Af: identical
+ayamAna ppr 1Am: identical
+ayamAna ppr 1An: identical
+arjamAna ppr 1Af: identical
+arjamAna ppr 1Am: identical
+arjamAna ppr 1An: identical
+arTayamAna ppr 10Af: identical
+arTayamAna ppr 10Am: identical
+arTayamAna ppr 10An: identical
+arhamARa ppr 1Af: pysan NOT FOUND
+arhamARa ppr 1Am: pysan NOT FOUND
+arhamARa ppr 1An: pysan NOT FOUND
+aSnvAna ppr 5Af: pysan NOT FOUND
+aSnvAna ppr 5Am: pysan NOT FOUND
+aSnvAna ppr 5An: pysan NOT FOUND
+asamAna ppr 1Af: pysan NOT FOUND
+asamAna ppr 1Am: pysan NOT FOUND
+asamAna ppr 1An: pysan NOT FOUND
+asUyamAna ppr 11Af: pysan NOT FOUND
+asUyamAna ppr 11Am: pysan NOT FOUND
+asUyamAna ppr 11An: pysan NOT FOUND
+AsIna ppr 2Af: pysan NOT FOUND
+AsIna ppr 2Am: pysan NOT FOUND
+AsIna ppr 2An: pysan NOT FOUND
+icCamAna ppr 6Af: pysan NOT FOUND
+icCamAna ppr 6Am: pysan NOT FOUND
+icCamAna ppr 6An: pysan NOT FOUND
+inDAna ppr 7Af: identical
+inDAna ppr 7Am: identical
+inDAna ppr 7An: identical
+iyAna ppr 2Af: pysan NOT FOUND
+iyAna ppr 2Am: pysan NOT FOUND
+iyAna ppr 2An: pysan NOT FOUND
+izyamARa ppr 4Af: pysan NOT FOUND
+izyamARa ppr 4Am: pysan NOT FOUND
+izyamARa ppr 4An: pysan NOT FOUND
+IkzamARa ppr 1Af: identical
+IkzamARa ppr 1Am: identical
+IkzamARa ppr 1An: identical
+INKamAna ppr 1Af: pysan NOT FOUND
+INKamAna ppr 1Am: pysan NOT FOUND
+INKamAna ppr 1An: pysan NOT FOUND
+IqAna ppr 2Af: identical
+IqAna ppr 2Am: identical
+IqAna ppr 2An: identical
+IyamAna ppr 4Af: pysan NOT FOUND
+IyamAna ppr 4Am: pysan NOT FOUND
+IyamAna ppr 4An: pysan NOT FOUND
+IrARa ppr 2Af: identical
+IrARa ppr 2Am: identical
+IrARa ppr 2An: identical
+ISAna ppr 2Af: identical
+ISAna ppr 2Am: identical
+ISAna ppr 2An: identical
+IzamARa ppr 1Af: identical
+IzamARa ppr 1Am: identical
+IzamARa ppr 1An: identical
+IhamAna ppr 1Af: identical
+IhamAna ppr 1Am: identical
+IhamAna ppr 1An: identical
+utkaRWamAna ppr 1Af: pysan NOT FOUND
+utkaRWamAna ppr 1Am: pysan NOT FOUND
+utkaRWamAna ppr 1An: pysan NOT FOUND
+unmanAyamAna ppr 11Af: pysan NOT FOUND
+unmanAyamAna ppr 11Am: pysan NOT FOUND
+unmanAyamAna ppr 11An: pysan NOT FOUND
+uruzyamARa ppr 4Af: pysan NOT FOUND
+uruzyamARa ppr 4Am: pysan NOT FOUND
+uruzyamARa ppr 4An: pysan NOT FOUND
+UrRvAna ppr 5Af: pysan NOT FOUND
+UrRvAna ppr 5Am: pysan NOT FOUND
+UrRvAna ppr 5An: pysan NOT FOUND
+UzmAyamARa ppr 11Af: pysan NOT FOUND
+UzmAyamARa ppr 11Am: pysan NOT FOUND
+UzmAyamARa ppr 11An: pysan NOT FOUND
+UhamAna ppr 1Af: identical
+UhamAna ppr 1Am: identical
+UhamAna ppr 1An: identical
+fYjamAna ppr 6Af: pysan NOT FOUND
+fYjamAna ppr 6Am: pysan NOT FOUND
+fYjamAna ppr 6An: pysan NOT FOUND
+fRvAna ppr 5Af: pysan NOT FOUND
+fRvAna ppr 5Am: pysan NOT FOUND
+fRvAna ppr 5An: pysan NOT FOUND
+eDamAna ppr 1Af: identical
+eDamAna ppr 1Am: identical
+eDamAna ppr 1An: identical
+ezamARa ppr 1Af: identical
+ezamARa ppr 1Am: identical
+ezamARa ppr 1An: identical
+kaRqayamAna ppr 10Af: pysan NOT FOUND
+kaRqayamAna ppr 10Am: pysan NOT FOUND
+kaRqayamAna ppr 10An: pysan NOT FOUND
+kaRqUyamAna ppr 11Af: pysan NOT FOUND
+kaRqUyamAna ppr 11Am: pysan NOT FOUND
+kaRqUyamAna ppr 11An: pysan NOT FOUND
+kaRvAyamAna ppr 11Af: pysan NOT FOUND
+kaRvAyamAna ppr 11Am: pysan NOT FOUND
+kaRvAyamAna ppr 11An: pysan NOT FOUND
+katTamAna ppr 1Af: identical
+katTamAna ppr 1Am: identical
+katTamAna ppr 1An: identical
+kaTayamAna ppr 10Af: pysan NOT FOUND
+kaTayamAna ppr 10Am: pysan NOT FOUND
+kaTayamAna ppr 10An: pysan NOT FOUND
+kampamAna ppr 1Af: identical
+kampamAna ppr 1Am: identical
+kampamAna ppr 1An: identical
+karuRAyamAna ppr 11Af: pysan NOT FOUND
+karuRAyamAna ppr 11Am: pysan NOT FOUND
+karuRAyamAna ppr 11An: pysan NOT FOUND
+kalayamAna ppr 10Af: pysan NOT FOUND
+kalayamAna ppr 10Am: pysan NOT FOUND
+kalayamAna ppr 10An: pysan NOT FOUND
+kalahAyamAna ppr 11Af: pysan NOT FOUND
+kalahAyamAna ppr 11Am: pysan NOT FOUND
+kalahAyamAna ppr 11An: pysan NOT FOUND
+kaluzAyamARa ppr 11Af: pysan NOT FOUND
+kaluzAyamARa ppr 11Am: pysan NOT FOUND
+kaluzAyamARa ppr 11An: pysan NOT FOUND
+kalpamAna ppr 1Af: identical
+kalpamAna ppr 1Am: identical
+kalpamAna ppr 1An: identical
+kazwAyamAna ppr 11Af: pysan NOT FOUND
+kazwAyamAna ppr 11Am: pysan NOT FOUND
+kazwAyamAna ppr 11An: pysan NOT FOUND
+kANkzamARa ppr 1Af: pysan NOT FOUND
+kANkzamARa ppr 1Am: pysan NOT FOUND
+kANkzamARa ppr 1An: pysan NOT FOUND
+kASamAna ppr 1Af: identical
+kASamAna ppr 1Am: identical
+kASamAna ppr 1An: identical
+kiramARa ppr 6Af: pysan NOT FOUND
+kiramARa ppr 6Am: pysan NOT FOUND
+kiramARa ppr 6An: pysan NOT FOUND
+kIrtayamAna ppr 10Af: identical
+kIrtayamAna ppr 10Am: identical
+kIrtayamAna ppr 10An: identical
+kuYcamAna ppr 1Af: pysan NOT FOUND
+kuYcamAna ppr 1Am: pysan NOT FOUND
+kuYcamAna ppr 1An: pysan NOT FOUND
+kuRWamAna ppr 1Af: pysan NOT FOUND
+kuRWamAna ppr 1Am: pysan NOT FOUND
+kuRWamAna ppr 1An: pysan NOT FOUND
+kuRqamAna ppr 1Af: identical
+kuRqamAna ppr 1Am: identical
+kuRqamAna ppr 1An: identical
+kutsamAna ppr 1Af: pysan NOT FOUND
+kutsamAna ppr 1Am: pysan NOT FOUND
+kutsamAna ppr 1An: pysan NOT FOUND
+kutsayamAna ppr 10Af: pysan NOT FOUND
+kutsayamAna ppr 10Am: pysan NOT FOUND
+kutsayamAna ppr 10An: pysan NOT FOUND
+kurvARa ppr 8Af: identical
+kurvARa ppr 8Am: identical
+kurvARa ppr 8An: identical
+kuvamAna ppr 6Af: pysan NOT FOUND
+kuvamAna ppr 6Am: pysan NOT FOUND
+kuvamAna ppr 6An: pysan NOT FOUND
+kfcCrAyamARa ppr 11Af: pysan NOT FOUND
+kfcCrAyamARa ppr 11Am: pysan NOT FOUND
+kfcCrAyamARa ppr 11An: pysan NOT FOUND
+kfRvAna ppr 5Af: pysan NOT FOUND
+kfRvAna ppr 5Am: pysan NOT FOUND
+kfRvAna ppr 5An: pysan NOT FOUND
+kfpamARa ppr 6Af: identical
+kfpamARa ppr 6Am: identical
+kfpamARa ppr 6An: identical
+kfzamARa ppr 6Af: identical
+kfzamARa ppr 6Am: identical
+kfzamARa ppr 6An: identical
+kramamARa ppr 1Af: pysan NOT FOUND
+kramamARa ppr 1Am: pysan NOT FOUND
+kramamARa ppr 1An: pysan NOT FOUND
+krAmamARa ppr 1Af: identical
+krAmamARa ppr 1Am: identical
+krAmamARa ppr 1An: identical
+krIRAna ppr 9Af: identical
+krIRAna ppr 9Am: identical
+krIRAna ppr 9An: identical
+klavamAna ppr 1Af: identical
+klavamAna ppr 1Am: identical
+klavamAna ppr 1An: identical
+klIbamAna ppr 1Af: identical
+klIbamAna ppr 1Am: identical
+klIbamAna ppr 1An: identical
+klIbAyamAna ppr 11Af: pysan NOT FOUND
+klIbAyamAna ppr 11Am: pysan NOT FOUND
+klIbAyamAna ppr 11An: pysan NOT FOUND
+kzaRvAna ppr 5Af: pysan NOT FOUND
+kzaRvAna ppr 5Am: pysan NOT FOUND
+kzaRvAna ppr 5An: pysan NOT FOUND
+kzadamAna ppr 1Af: identical
+kzadamAna ppr 1Am: identical
+kzadamAna ppr 1An: identical
+kzapamARa ppr 1Af: identical
+kzapamARa ppr 1Am: identical
+kzapamARa ppr 1An: identical
+kzamamARa ppr 1Af: identical
+kzamamARa ppr 1Am: identical
+kzamamARa ppr 1An: identical
+kzipamARa ppr 6Af: pysan NOT FOUND
+kzipamARa ppr 6Am: pysan NOT FOUND
+kzipamARa ppr 6An: pysan NOT FOUND
+kzodamAna ppr 1Af: pysan NOT FOUND
+kzodamAna ppr 1Am: pysan NOT FOUND
+kzodamAna ppr 1An: pysan NOT FOUND
+KaRqamAna ppr 1Af: identical
+KaRqamAna ppr 1Am: identical
+KaRqamAna ppr 1An: identical
+KanamAna ppr 1Af: pysan NOT FOUND
+KanamAna ppr 1Am: pysan NOT FOUND
+KanamAna ppr 1An: pysan NOT FOUND
+gacCamAna ppr 1Af: pysan NOT FOUND
+gacCamAna ppr 1Am: pysan NOT FOUND
+gacCamAna ppr 1An: pysan NOT FOUND
+gaRayamAna ppr 10Af: pysan NOT FOUND
+gaRayamAna ppr 10Am: pysan NOT FOUND
+gaRayamAna ppr 10An: pysan NOT FOUND
+garvAyamARa ppr 11Af: pysan NOT FOUND
+garvAyamARa ppr 11Am: pysan NOT FOUND
+garvAyamARa ppr 11An: pysan NOT FOUND
+garhamARa ppr 1Af: identical
+garhamARa ppr 1Am: identical
+garhamARa ppr 1An: identical
+garhayamARa ppr 10Af: identical
+garhayamARa ppr 10Am: identical
+garhayamARa ppr 10An: identical
+galBamAna ppr 1Af: identical
+galBamAna ppr 1Am: identical
+galBamAna ppr 1An: identical
+gavezamARa ppr 1Af: pysan NOT FOUND
+gavezamARa ppr 1Am: pysan NOT FOUND
+gavezamARa ppr 1An: pysan NOT FOUND
+gavezayamARa ppr 10Af: pysan NOT FOUND
+gavezayamARa ppr 10Am: pysan NOT FOUND
+gavezayamARa ppr 10An: pysan NOT FOUND
+gAhamAna ppr 1Af: identical
+gAhamAna ppr 1Am: identical
+gAhamAna ppr 1An: identical
+guramARa ppr 6Af: identical
+guramARa ppr 6Am: identical
+guramARa ppr 6An: identical
+gUhamAna ppr 1Af: identical
+gUhamAna ppr 1Am: identical
+gUhamAna ppr 1An: identical
+gfBRAna ppr 9Af: pysan NOT FOUND
+gfBRAna ppr 9Am: pysan NOT FOUND
+gfBRAna ppr 9An: pysan NOT FOUND
+gfhRAna ppr 9Af: pysan NOT FOUND
+gfhRAna ppr 9Am: pysan NOT FOUND
+gfhRAna ppr 9An: pysan NOT FOUND
+grasamAna ppr 1Af: identical
+grasamAna ppr 1Am: identical
+grasamAna ppr 1An: identical
+GawamAna ppr 1Af: identical
+GawamAna ppr 1Am: identical
+GawamAna ppr 1An: identical
+GawwamAna ppr 1Af: identical
+GawwamAna ppr 1Am: identical
+GawwamAna ppr 1An: identical
+GUrRamAna ppr 1Af: identical
+GUrRamAna ppr 1Am: identical
+GUrRamAna ppr 1An: identical
+cakzARa ppr 2Af: identical
+cakzARa ppr 2Am: identical
+cakzARa ppr 2An: identical
+caYcamAna ppr 1Af: pysan NOT FOUND
+caYcamAna ppr 1Am: pysan NOT FOUND
+caYcamAna ppr 1An: pysan NOT FOUND
+catamAna ppr 1Af: identical
+catamAna ppr 1Am: identical
+catamAna ppr 1An: identical
+carcayamAna ppr 11Af: pysan NOT FOUND
+carcayamAna ppr 11Am: pysan NOT FOUND
+carcayamAna ppr 11An: pysan NOT FOUND
+citrIyamARa ppr 11Af: pysan NOT FOUND
+citrIyamARa ppr 11Am: pysan NOT FOUND
+citrIyamARa ppr 11An: pysan NOT FOUND
+cintayAna ppr 10Af: pysan NOT FOUND
+cintayAna ppr 10Am: pysan NOT FOUND
+cintayAna ppr 10An: pysan NOT FOUND
+cinvAna ppr 5Af: identical
+cinvAna ppr 5Am: identical
+cinvAna ppr 5An: identical
+cUzamARa ppr 1Af: identical
+cUzamARa ppr 1Am: identical
+cUzamARa ppr 1An: identical
+cezwamAna ppr 1Af: identical
+cezwamAna ppr 1Am: identical
+cezwamAna ppr 1An: identical
+codamAna ppr 1Af: identical
+codamAna ppr 1Am: identical
+codamAna ppr 1An: identical
+corayamARa ppr 10Af: identical
+corayamARa ppr 10Am: identical
+corayamARa ppr 10An: identical
+cyavamAna ppr 1Af: pysan NOT FOUND
+cyavamAna ppr 1Am: pysan NOT FOUND
+cyavamAna ppr 1An: pysan NOT FOUND
+CadamAna ppr 1Af: identical
+CadamAna ppr 1Am: identical
+CadamAna ppr 1An: identical
+CandamAna ppr 1Af: pysan NOT FOUND
+CandamAna ppr 1Am: pysan NOT FOUND
+CandamAna ppr 1An: pysan NOT FOUND
+CindAna ppr 7Af: identical
+CindAna ppr 7Am: identical
+CindAna ppr 7An: identical
+janamAna ppr 1Af: identical
+janamAna ppr 1Am: identical
+janamAna ppr 1An: identical
+jaBamAna ppr 1Af: pysan NOT FOUND
+jaBamAna ppr 1Am: pysan NOT FOUND
+jaBamAna ppr 1An: pysan NOT FOUND
+jayamAna ppr 1Af: identical
+jayamAna ppr 1Am: identical
+jayamAna ppr 1An: identical
+jaramARa ppr 1Af: identical
+jaramARa ppr 1Am: identical
+jaramARa ppr 1An: identical
+jalAyamAna ppr 11Af: pysan NOT FOUND
+jalAyamAna ppr 11Am: pysan NOT FOUND
+jalAyamAna ppr 11An: pysan NOT FOUND
+javamAna ppr 1Af: pysan NOT FOUND
+javamAna ppr 1Am: pysan NOT FOUND
+javamAna ppr 1An: pysan NOT FOUND
+jAnAna ppr 9Af: identical
+jAnAna ppr 9Am: identical
+jAnAna ppr 9An: identical
+jAyamAna ppr 4Af: identical
+jAyamAna ppr 4Am: identical
+jAyamAna ppr 4An: identical
+jihAna ppr 3Af: identical
+jihAna ppr 3Am: identical
+jihAna ppr 3An: identical
+jihmAyamAna ppr 11Af: pysan NOT FOUND
+jihmAyamAna ppr 11Am: pysan NOT FOUND
+jihmAyamAna ppr 11An: pysan NOT FOUND
+juzamARa ppr 6Af: identical
+juzamARa ppr 6Am: identical
+juzamARa ppr 6An: identical
+juhvAna ppr 3Af: pysan NOT FOUND
+juhvAna ppr 3Am: pysan NOT FOUND
+juhvAna ppr 3An: pysan NOT FOUND
+jfmBamARa ppr 1Af: identical
+jfmBamARa ppr 1Am: identical
+jfmBamARa ppr 1An: identical
+jyotamAna ppr 1Af: identical
+jyotamAna ppr 1Am: identical
+jyotamAna ppr 1An: identical
+qayamAna ppr 1Af: identical
+qayamAna ppr 1Am: identical
+qayamAna ppr 1An: identical
+qIyamAna ppr 4Af: identical
+qIyamAna ppr 4Am: identical
+qIyamAna ppr 4An: identical
+taYcAna ppr 7Af: identical
+taYcAna ppr 7Am: identical
+taYcAna ppr 7An: identical
+tandrayamARa ppr 10Af: pysan NOT FOUND
+tandrayamARa ppr 10Am: pysan NOT FOUND
+tandrayamARa ppr 10An: pysan NOT FOUND
+tanyamAna ppr 4Af: identical
+tanyamAna ppr 4Am: identical
+tanyamAna ppr 4An: identical
+tanvAna ppr 5Af: pysan NOT FOUND
+tanvAna ppr 5Am: pysan NOT FOUND
+tanvAna ppr 5An: pysan NOT FOUND
+tapyamAna ppr 4Af: identical
+tapyamAna ppr 4Am: identical
+tapyamAna ppr 4An: identical
+taruRAyamAna ppr 11Af: pysan NOT FOUND
+taruRAyamAna ppr 11Am: pysan NOT FOUND
+taruRAyamAna ppr 11An: pysan NOT FOUND
+tarkayamARa ppr 10Af: identical
+tarkayamARa ppr 10Am: identical
+tarkayamARa ppr 10An: identical
+tavizIyamARa ppr 11Af: pysan NOT FOUND
+tavizIyamARa ppr 11Am: pysan NOT FOUND
+tavizIyamARa ppr 11An: pysan NOT FOUND
+tizWamAna ppr 1Af: identical
+tizWamAna ppr 1Am: identical
+tizWamAna ppr 1An: identical
+tudamAna ppr 6Af: pysan NOT FOUND
+tudamAna ppr 6Am: pysan NOT FOUND
+tudamAna ppr 6An: pysan NOT FOUND
+tulayamAna ppr 10Af: pysan NOT FOUND
+tulayamAna ppr 10Am: pysan NOT FOUND
+tulayamAna ppr 10An: pysan NOT FOUND
+tfndAna ppr 7Af: identical
+tfndAna ppr 7Am: identical
+tfndAna ppr 7An: identical
+tejamAna ppr 1Af: identical
+tejamAna ppr 1Am: identical
+tejamAna ppr 1An: identical
+tolayamAna ppr 10Af: identical
+tolayamAna ppr 10Am: identical
+tolayamAna ppr 10An: identical
+trapamARa ppr 1Af: identical
+trapamARa ppr 1Am: identical
+trapamARa ppr 1An: identical
+trAyamARa ppr 1Af: identical
+trAyamARa ppr 1Am: identical
+trAyamARa ppr 1An: identical
+tvaramARa ppr 1Af: identical
+tvaramARa ppr 1Am: identical
+tvaramARa ppr 1An: identical
+tvezamARa ppr 1Af: identical
+tvezamARa ppr 1Am: identical
+tvezamARa ppr 1An: identical
+dakzamARa ppr 1Af: pysan NOT FOUND
+dakzamARa ppr 1Am: pysan NOT FOUND
+dakzamARa ppr 1An: pysan NOT FOUND
+dadamAna ppr 1Af: identical
+dadamAna ppr 1Am: identical
+dadamAna ppr 1An: identical
+dadAna ppr 3Af: identical
+dadAna ppr 3Am: identical
+dadAna ppr 3An: identical
+daDamAna ppr 1Af: identical
+daDamAna ppr 1Am: identical
+daDamAna ppr 1An: identical
+daDAna ppr 3Af: identical
+daDAna ppr 3Am: identical
+daDAna ppr 3An: identical
+dayamAna ppr 1Af: identical
+dayamAna ppr 1Am: identical
+dayamAna ppr 1An: identical
+dASamAna ppr 1Af: pysan NOT FOUND
+dASamAna ppr 1Am: pysan NOT FOUND
+dASamAna ppr 1An: pysan NOT FOUND
+diSamAna ppr 6Af: pysan NOT FOUND
+diSamAna ppr 6Am: pysan NOT FOUND
+diSamAna ppr 6An: pysan NOT FOUND
+dihAna ppr 2Af: identical
+dihAna ppr 2Am: identical
+dihAna ppr 2An: identical
+dIkzamARa ppr 1Af: identical
+dIkzamARa ppr 1Am: identical
+dIkzamARa ppr 1An: identical
+dIpyamAna ppr 4Af: identical
+dIpyamAna ppr 4Am: identical
+dIpyamAna ppr 4An: identical
+durdinAyamAna ppr 11Af: pysan NOT FOUND
+durdinAyamAna ppr 11Am: pysan NOT FOUND
+durdinAyamAna ppr 11An: pysan NOT FOUND
+duhAna ppr 2Af: identical
+duhAna ppr 2Am: identical
+duhAna ppr 2An: identical
+devamAna ppr 1Af: pysan NOT FOUND
+devamAna ppr 1Am: pysan NOT FOUND
+devamAna ppr 1An: pysan NOT FOUND
+dyotamAna ppr 1Af: identical
+dyotamAna ppr 1Am: identical
+dyotamAna ppr 1An: identical
+drAyamARa ppr 4Af: pysan NOT FOUND
+drAyamARa ppr 4Am: pysan NOT FOUND
+drAyamARa ppr 4An: pysan NOT FOUND
+dvizARa ppr 2Af: identical
+dvizARa ppr 2Am: identical
+dvizARa ppr 2An: identical
+DaramARa ppr 1Af: identical
+DaramARa ppr 1Am: identical
+DaramARa ppr 1An: identical
+DarzamARa ppr 1Af: pysan NOT FOUND
+DarzamARa ppr 1Am: pysan NOT FOUND
+DarzamARa ppr 1An: pysan NOT FOUND
+DAvamAna ppr 1Af: identical
+DAvamAna ppr 1Am: identical
+DAvamAna ppr 1An: identical
+DIyamAna ppr 4Af: identical
+DIyamAna ppr 4Am: identical
+DIyamAna ppr 4An: identical
+DukzamARa ppr 1Af: identical
+DukzamARa ppr 1Am: identical
+DukzamARa ppr 1An: identical
+DunvAna ppr 5Af: identical
+DunvAna ppr 5Am: identical
+DunvAna ppr 5An: identical
+DUmAyamAna ppr 11Af: pysan NOT FOUND
+DUmAyamAna ppr 11Am: pysan NOT FOUND
+DUmAyamAna ppr 11An: pysan NOT FOUND
+DvaMsamAna ppr 1Af: identical
+DvaMsamAna ppr 1Am: identical
+DvaMsamAna ppr 1An: identical
+DvANkzamARa ppr 1Af: pysan NOT FOUND
+DvANkzamARa ppr 1Am: pysan NOT FOUND
+DvANkzamARa ppr 1An: pysan NOT FOUND
+nakzamARa ppr 1Af: identical
+nakzamARa ppr 1Am: identical
+nakzamARa ppr 1An: identical
+namamAna ppr 1Af: pysan NOT FOUND
+namamAna ppr 1Am: pysan NOT FOUND
+namamAna ppr 1An: pysan NOT FOUND
+nayamAna ppr 1Af: identical
+nayamAna ppr 1Am: identical
+nayamAna ppr 1An: identical
+nahyamAna ppr 4Af: identical
+nahyamAna ppr 4Am: identical
+nahyamAna ppr 4An: identical
+nATamAna ppr 1Af: identical
+nATamAna ppr 1Am: identical
+nATamAna ppr 1An: identical
+nikazAyamARa ppr 11Af: pysan NOT FOUND
+nikazAyamARa ppr 11Am: pysan NOT FOUND
+nikazAyamARa ppr 11An: pysan NOT FOUND
+niYjAna ppr 2Af: identical
+niYjAna ppr 2Am: identical
+niYjAna ppr 2An: identical
+nIhArAyamARa ppr 11Af: pysan NOT FOUND
+nIhArAyamARa ppr 11Am: pysan NOT FOUND
+nIhArAyamARa ppr 11An: pysan NOT FOUND
+nudamAna ppr 6Af: identical
+nudamAna ppr 6Am: identical
+nudamAna ppr 6An: identical
+nenijAna ppr 3Af: pysan NOT FOUND
+nenijAna ppr 3Am: pysan NOT FOUND
+nenijAna ppr 3An: pysan NOT FOUND
+pacamAna ppr 1Af: identical
+pacamAna ppr 1Am: identical
+pacamAna ppr 1An: identical
+pacyamAna ppr 4Af: pysan NOT FOUND
+pacyamAna ppr 4Am: pysan NOT FOUND
+pacyamAna ppr 4An: pysan NOT FOUND
+pawapawAyamAna ppr 11Af: pysan NOT FOUND
+pawapawAyamAna ppr 11Am: pysan NOT FOUND
+pawapawAyamAna ppr 11An: pysan NOT FOUND
+paWamAna ppr 1Af: pysan NOT FOUND
+paWamAna ppr 1Am: pysan NOT FOUND
+paWamAna ppr 1An: pysan NOT FOUND
+paRamAna ppr 1Af: pysan NOT FOUND
+paRamAna ppr 1Am: pysan NOT FOUND
+paRamAna ppr 1An: pysan NOT FOUND
+patyamAna ppr 4Af: identical
+patyamAna ppr 4Am: identical
+patyamAna ppr 4An: identical
+padyamAna ppr 4Af: identical
+padyamAna ppr 4Am: identical
+padyamAna ppr 4An: identical
+payAyamAna ppr 11Af: pysan NOT FOUND
+payAyamAna ppr 11Am: pysan NOT FOUND
+payAyamAna ppr 11An: pysan NOT FOUND
+parokzAyamARa ppr 11Af: pysan NOT FOUND
+parokzAyamARa ppr 11Am: pysan NOT FOUND
+parokzAyamARa ppr 11An: pysan NOT FOUND
+parTayamAna ppr 10Af: pysan NOT FOUND
+parTayamAna ppr 10Am: pysan NOT FOUND
+parTayamAna ppr 10An: pysan NOT FOUND
+palAyamAna ppr 1Af: identical
+palAyamAna ppr 1Am: identical
+palAyamAna ppr 1An: identical
+pavamAna ppr 1Af: identical
+pavamAna ppr 1Am: identical
+pavamAna ppr 1An: identical
+paSyamAna ppr 4Af: pysan NOT FOUND
+paSyamAna ppr 4Am: pysan NOT FOUND
+paSyamAna ppr 4An: pysan NOT FOUND
+piYjAna ppr 2Af: identical
+piYjAna ppr 2Am: identical
+piYjAna ppr 2An: identical
+pIqayamAna ppr 10Af: pysan NOT FOUND
+pIqayamAna ppr 10Am: pysan NOT FOUND
+pIqayamAna ppr 10An: pysan NOT FOUND
+pIyUzavarzAyamARa ppr 11Af: pysan NOT FOUND
+pIyUzavarzAyamARa ppr 11Am: pysan NOT FOUND
+pIyUzavarzAyamARa ppr 11An: pysan NOT FOUND
+puTyamAna ppr 4Af: pysan NOT FOUND
+puTyamAna ppr 4Am: pysan NOT FOUND
+puTyamAna ppr 4An: pysan NOT FOUND
+punAna ppr 9Af: identical
+punAna ppr 9Am: identical
+punAna ppr 9An: identical
+puzkarAyamARa ppr 11Af: pysan NOT FOUND
+puzkarAyamARa ppr 11Am: pysan NOT FOUND
+puzkarAyamARa ppr 11An: pysan NOT FOUND
+puzpAyamARa ppr 11Af: pysan NOT FOUND
+puzpAyamARa ppr 11Am: pysan NOT FOUND
+puzpAyamARa ppr 11An: pysan NOT FOUND
+puzyamARa ppr 4Af: pysan NOT FOUND
+puzyamARa ppr 4Am: pysan NOT FOUND
+puzyamARa ppr 4An: pysan NOT FOUND
+pUjayamAna ppr 10Af: identical
+pUjayamAna ppr 10Am: identical
+pUjayamAna ppr 10An: identical
+pUyamAna ppr 1Af: pysan NOT FOUND
+pUyamAna ppr 1Am: pysan NOT FOUND
+pUyamAna ppr 1An: pysan NOT FOUND
+pUlamAna ppr 1Af: pysan NOT FOUND
+pUlamAna ppr 1Am: pysan NOT FOUND
+pUlamAna ppr 1An: pysan NOT FOUND
+pfcCamAna ppr 6Af: pysan NOT FOUND
+pfcCamAna ppr 6Am: pysan NOT FOUND
+pfcCamAna ppr 6An: pysan NOT FOUND
+pfYcAna ppr 7Af: pysan NOT FOUND
+pfYcAna ppr 7Am: pysan NOT FOUND
+pfYcAna ppr 7An: pysan NOT FOUND
+pyAyamAna ppr 1Af: identical
+pyAyamAna ppr 1Am: identical
+pyAyamAna ppr 1An: identical
+praTamAna ppr 1Af: identical
+praTamAna ppr 1Am: identical
+praTamAna ppr 1An: identical
+pravamARa ppr 1Af: identical
+pravamARa ppr 1Am: identical
+pravamARa ppr 1An: identical
+priyAyamARa ppr 11Af: pysan NOT FOUND
+priyAyamARa ppr 11Am: pysan NOT FOUND
+priyAyamARa ppr 11An: pysan NOT FOUND
+prIRAna ppr 9Af: identical
+prIRAna ppr 9Am: identical
+prIRAna ppr 9An: identical
+plavamAna ppr 1Af: identical
+plavamAna ppr 1Am: identical
+plavamAna ppr 1An: identical
+pluzRAna ppr 9Af: pysan NOT FOUND
+pluzRAna ppr 9Am: pysan NOT FOUND
+pluzRAna ppr 9An: pysan NOT FOUND
+pluzyamARa ppr 4Af: pysan NOT FOUND
+pluzyamARa ppr 4Am: pysan NOT FOUND
+pluzyamARa ppr 4An: pysan NOT FOUND
+plozamARa ppr 1Af: pysan NOT FOUND
+plozamARa ppr 1Am: pysan NOT FOUND
+plozamARa ppr 1An: pysan NOT FOUND
+PullamAna ppr 1Af: pysan NOT FOUND
+PullamAna ppr 1Am: pysan NOT FOUND
+PullamAna ppr 1An: pysan NOT FOUND
+PenAyamAna ppr 11Af: pysan NOT FOUND
+PenAyamAna ppr 11Am: pysan NOT FOUND
+PenAyamAna ppr 11An: pysan NOT FOUND
+baMhamAna ppr 1Af: identical
+baMhamAna ppr 1Am: identical
+baMhamAna ppr 1An: identical
+baDnAna ppr 9Af: pysan NOT FOUND
+baDnAna ppr 9Am: pysan NOT FOUND
+baDnAna ppr 9An: pysan NOT FOUND
+bADamAna ppr 1Af: identical
+bADamAna ppr 1Am: identical
+bADamAna ppr 1An: identical
+bAzpAyamARa ppr 11Af: pysan NOT FOUND
+bAzpAyamARa ppr 11Am: pysan NOT FOUND
+bAzpAyamARa ppr 11An: pysan NOT FOUND
+biBrARa ppr 3Af: identical
+biBrARa ppr 3Am: identical
+biBrARa ppr 3An: identical
+buDyamAna ppr 4Af: identical
+buDyamAna ppr 4Am: identical
+buDyamAna ppr 4An: identical
+bruvamARa ppr 6Af: pysan NOT FOUND
+bruvamARa ppr 6Am: pysan NOT FOUND
+bruvamARa ppr 6An: pysan NOT FOUND
+bruvARa ppr 2Af: identical
+bruvARa ppr 2Am: identical
+bruvARa ppr 2An: identical
+BajamAna ppr 1Af: identical
+BajamAna ppr 1Am: identical
+BajamAna ppr 1An: identical
+BaRqamAna ppr 1Af: identical
+BaRqamAna ppr 1Am: identical
+BaRqamAna ppr 1An: identical
+BandamAna ppr 1Af: identical
+BandamAna ppr 1Am: identical
+BandamAna ppr 1An: identical
+BaramARa ppr 1Af: identical
+BaramARa ppr 1Am: identical
+BaramARa ppr 1An: identical
+BartsayamAna ppr 10Af: identical
+BartsayamAna ppr 10Am: identical
+BartsayamAna ppr 10An: identical
+BAzamARa ppr 1Af: identical
+BAzamARa ppr 1Am: identical
+BAzamARa ppr 1An: identical
+BAsamAna ppr 1Af: identical
+BAsamAna ppr 1Am: identical
+BAsamAna ppr 1An: identical
+BindAna ppr 7Af: identical
+BindAna ppr 7Am: identical
+BindAna ppr 7An: identical
+BuYjAna ppr 7Af: identical
+BuYjAna ppr 7Am: identical
+BuYjAna ppr 7An: identical
+BfjjamAna ppr 6Af: pysan NOT FOUND
+BfjjamAna ppr 6Am: pysan NOT FOUND
+BfjjamAna ppr 6An: pysan NOT FOUND
+BfSAyamAna ppr 11Af: pysan NOT FOUND
+BfSAyamAna ppr 11Am: pysan NOT FOUND
+BfSAyamAna ppr 11An: pysan NOT FOUND
+BraMSamAna ppr 1Af: identical
+BraMSamAna ppr 1Am: identical
+BraMSamAna ppr 1An: identical
+BrAjamAna ppr 1Af: identical
+BrAjamAna ppr 1Am: identical
+BrAjamAna ppr 1An: identical
+maMhamAna ppr 1Af: identical
+maMhamAna ppr 1Am: identical
+maMhamAna ppr 1An: identical
+mantrayamARa ppr 11Af: pysan NOT FOUND
+mantrayamARa ppr 11Am: pysan NOT FOUND
+mantrayamARa ppr 11An: pysan NOT FOUND
+mandamAna ppr 1Af: identical
+mandamAna ppr 1Am: identical
+mandamAna ppr 1An: identical
+manyamAna ppr 4Af: identical
+manyamAna ppr 4Am: identical
+manyamAna ppr 4An: identical
+manvAna ppr 5Af: pysan NOT FOUND
+manvAna ppr 5Am: pysan NOT FOUND
+manvAna ppr 5An: pysan NOT FOUND
+mayamAna ppr 1Af: identical
+mayamAna ppr 1Am: identical
+mayamAna ppr 1An: identical
+mardamAna ppr 1Af: pysan NOT FOUND
+mardamAna ppr 1Am: pysan NOT FOUND
+mardamAna ppr 1An: pysan NOT FOUND
+marDamAna ppr 1Af: identical
+marDamAna ppr 1Am: identical
+marDamAna ppr 1An: identical
+mahIyamAna ppr 11Af: pysan NOT FOUND
+mahIyamAna ppr 11Am: pysan NOT FOUND
+mahIyamAna ppr 11An: pysan NOT FOUND
+mArjamAna ppr 1Af: pysan NOT FOUND
+mArjamAna ppr 1Am: pysan NOT FOUND
+mArjamAna ppr 1An: pysan NOT FOUND
+mAlyaguRAyamAna ppr 11Af: pysan NOT FOUND
+mAlyaguRAyamAna ppr 11Am: pysan NOT FOUND
+mAlyaguRAyamAna ppr 11An: pysan NOT FOUND
+minvAna ppr 5Af: identical
+minvAna ppr 5Am: identical
+minvAna ppr 5An: identical
+mimAna ppr 3Af: identical
+mimAna ppr 3Am: identical
+mimAna ppr 3An: identical
+milamAna ppr 6Af: identical
+milamAna ppr 6Am: identical
+milamAna ppr 6An: identical
+mInAna ppr 9Af: pysan NOT FOUND
+mInAna ppr 9Am: pysan NOT FOUND
+mInAna ppr 9An: pysan NOT FOUND
+muYcamAna ppr 6Af: identical
+muYcamAna ppr 6Am: identical
+muYcamAna ppr 6An: identical
+mUzamARa ppr 1Af: pysan NOT FOUND
+mUzamARa ppr 1Am: pysan NOT FOUND
+mUzamARa ppr 1An: pysan NOT FOUND
+mfgayamARa ppr 11Af: pysan NOT FOUND
+mfgayamARa ppr 11Am: pysan NOT FOUND
+mfgayamARa ppr 11An: pysan NOT FOUND
+mfjamAna ppr 6Af: pysan NOT FOUND
+mfjamAna ppr 6Am: pysan NOT FOUND
+mfjamAna ppr 6An: pysan NOT FOUND
+mfjAna ppr 2Af: pysan NOT FOUND
+mfjAna ppr 2Am: pysan NOT FOUND
+mfjAna ppr 2An: pysan NOT FOUND
+mfzAyamARa ppr 11Af: pysan NOT FOUND
+mfzAyamARa ppr 11Am: pysan NOT FOUND
+mfzAyamARa ppr 11An: pysan NOT FOUND
+mfzyamARa ppr 4Af: identical
+mfzyamARa ppr 4Am: identical
+mfzyamARa ppr 4An: identical
+meGAyamAna ppr 11Af: pysan NOT FOUND
+meGAyamAna ppr 11Am: pysan NOT FOUND
+meGAyamAna ppr 11An: pysan NOT FOUND
+meTamAna ppr 1Af: identical
+meTamAna ppr 1Am: identical
+meTamAna ppr 1An: identical
+medamAna ppr 1Af: identical
+medamAna ppr 1Am: identical
+medamAna ppr 1An: identical
+mokzamARa ppr 1Af: identical
+mokzamARa ppr 1Am: identical
+mokzamARa ppr 1An: identical
+modamAna ppr 1Af: identical
+modamAna ppr 1Am: identical
+modamAna ppr 1An: identical
+mriyamARa ppr 6Af: identical
+mriyamARa ppr 6Am: identical
+mriyamARa ppr 6An: identical
+yajamAna ppr 1Af: identical
+yajamAna ppr 1Am: identical
+yajamAna ppr 1An: identical
+yatamAna ppr 1Af: identical
+yatamAna ppr 1Am: identical
+yatamAna ppr 1An: identical
+yAcamAna ppr 1Af: identical
+yAcamAna ppr 1Am: identical
+yAcamAna ppr 1An: identical
+yugAyamAna ppr 11Af: pysan NOT FOUND
+yugAyamAna ppr 11Am: pysan NOT FOUND
+yugAyamAna ppr 11An: pysan NOT FOUND
+yuYjAna ppr 7Af: identical
+yuYjAna ppr 7Am: identical
+yuYjAna ppr 7An: identical
+yuDyamAna ppr 4Af: identical
+yuDyamAna ppr 4Am: identical
+yuDyamAna ppr 4An: identical
+yuvamAna ppr 6Af: pysan NOT FOUND
+yuvamAna ppr 6Am: pysan NOT FOUND
+yuvamAna ppr 6An: pysan NOT FOUND
+yuvAna ppr 2Af: pysan NOT FOUND
+yuvAna ppr 2Am: pysan NOT FOUND
+yuvAna ppr 2An: pysan NOT FOUND
+racayamAna ppr 10Af: pysan NOT FOUND
+racayamAna ppr 10Am: pysan NOT FOUND
+racayamAna ppr 10An: pysan NOT FOUND
+rajamAna ppr 1Af: identical
+rajamAna ppr 1Am: identical
+rajamAna ppr 1An: identical
+rajyamAna ppr 4Af: identical
+rajyamAna ppr 4Am: identical
+rajyamAna ppr 4An: identical
+raBamARa ppr 1Af: identical
+raBamARa ppr 1Am: identical
+raBamARa ppr 1An: identical
+ramamARa ppr 1Af: identical
+ramamARa ppr 1Am: identical
+ramamARa ppr 1An: identical
+rahayamARa ppr 10Af: pysan NOT FOUND
+rahayamARa ppr 10Am: pysan NOT FOUND
+rahayamARa ppr 10An: pysan NOT FOUND
+rAjamAna ppr 1Af: identical
+rAjamAna ppr 1Am: identical
+rAjamAna ppr 1An: identical
+rADyamAna ppr 4Af: pysan NOT FOUND
+rADyamAna ppr 4Am: pysan NOT FOUND
+rADyamAna ppr 4An: pysan NOT FOUND
+ricyamAna ppr 4Af: identical
+ricyamAna ppr 4Am: identical
+ricyamAna ppr 4An: identical
+riYcAna ppr 7Af: identical
+riYcAna ppr 7Am: identical
+riYcAna ppr 7An: identical
+riRAna ppr 9Af: pysan NOT FOUND
+riRAna ppr 9Am: pysan NOT FOUND
+riRAna ppr 9An: pysan NOT FOUND
+rIyamARa ppr 4Af: pysan NOT FOUND
+rIyamARa ppr 4Am: pysan NOT FOUND
+rIyamARa ppr 4An: pysan NOT FOUND
+runDamAna ppr 6Af: pysan NOT FOUND
+runDamAna ppr 6Am: pysan NOT FOUND
+runDamAna ppr 6An: pysan NOT FOUND
+runDAna ppr 7Af: identical
+runDAna ppr 7Am: identical
+runDAna ppr 7An: identical
+rUpayamARa ppr 10Af: pysan NOT FOUND
+rUpayamARa ppr 10Am: pysan NOT FOUND
+rUpayamARa ppr 10An: pysan NOT FOUND
+rocamAna ppr 1Af: identical
+rocamAna ppr 1Am: identical
+rocamAna ppr 1An: identical
+romanTAyamAna ppr 11Af: pysan NOT FOUND
+romanTAyamAna ppr 11Am: pysan NOT FOUND
+romanTAyamAna ppr 11An: pysan NOT FOUND
+laNGamAna ppr 1Af: identical
+laNGamAna ppr 1Am: identical
+laNGamAna ppr 1An: identical
+lajjamAna ppr 6Af: identical
+lajjamAna ppr 6Am: identical
+lajjamAna ppr 6An: identical
+laBamAna ppr 1Af: identical
+laBamAna ppr 1Am: identical
+laBamAna ppr 1An: identical
+lambamAna ppr 1Af: identical
+lambamAna ppr 1Am: identical
+lambamAna ppr 1An: identical
+layamAna ppr 1Af: identical
+layamAna ppr 1Am: identical
+layamAna ppr 1An: identical
+lazamARa ppr 1Af: identical
+lazamARa ppr 1Am: identical
+lazamARa ppr 1An: identical
+lazyamARa ppr 4Af: identical
+lazyamARa ppr 4Am: identical
+lazyamARa ppr 4An: identical
+lAlAyamAna ppr 11Af: pysan NOT FOUND
+lAlAyamAna ppr 11Am: pysan NOT FOUND
+lAlAyamAna ppr 11An: pysan NOT FOUND
+limpamAna ppr 6Af: identical
+limpamAna ppr 6Am: identical
+limpamAna ppr 6An: identical
+lihAna ppr 2Af: pysan NOT FOUND
+lihAna ppr 2Am: pysan NOT FOUND
+lihAna ppr 2An: pysan NOT FOUND
+lIyamAna ppr 4Af: identical
+lIyamAna ppr 4Am: identical
+lIyamAna ppr 4An: identical
+luYcamAna ppr 1Af: pysan NOT FOUND
+luYcamAna ppr 1Am: pysan NOT FOUND
+luYcamAna ppr 1An: pysan NOT FOUND
+luWamAna ppr 6Af: pysan NOT FOUND
+luWamAna ppr 6Am: pysan NOT FOUND
+luWamAna ppr 6An: pysan NOT FOUND
+lunAna ppr 9Af: identical
+lunAna ppr 9Am: identical
+lunAna ppr 9An: identical
+lumpamAna ppr 6Af: identical
+lumpamAna ppr 6Am: identical
+lumpamAna ppr 6An: identical
+lelAyamAna ppr 10Af: pysan NOT FOUND
+lelAyamAna ppr 10Am: pysan NOT FOUND
+lelAyamAna ppr 10An: pysan NOT FOUND
+lokamAna ppr 1Af: identical
+lokamAna ppr 1Am: identical
+lokamAna ppr 1An: identical
+locamAna ppr 1Af: identical
+locamAna ppr 1Am: identical
+locamAna ppr 1An: identical
+lohitAyamAna ppr 11Af: pysan NOT FOUND
+lohitAyamAna ppr 11Am: pysan NOT FOUND
+lohitAyamAna ppr 11An: pysan NOT FOUND
+vadamAna ppr 1Af: identical
+vadamAna ppr 1Am: identical
+vadamAna ppr 1An: identical
+vandamAna ppr 1Af: identical
+vandamAna ppr 1Am: identical
+vandamAna ppr 1An: identical
+vapamAna ppr 1Af: identical
+vapamAna ppr 1Am: identical
+vapamAna ppr 1An: identical
+vayamAna ppr 4Af: pysan NOT FOUND
+vayamAna ppr 4Am: pysan NOT FOUND
+vayamAna ppr 4An: pysan NOT FOUND
+vartamAna ppr 1Af: identical
+vartamAna ppr 1Am: identical
+vartamAna ppr 1An: identical
+varDamAna ppr 1Af: identical
+varDamAna ppr 1Am: identical
+varDamAna ppr 1An: identical
+valamAna ppr 1Af: identical
+valamAna ppr 1Am: identical
+valamAna ppr 1An: identical
+vasAna ppr 2Af: identical
+vasAna ppr 2Am: identical
+vasAna ppr 2An: identical
+vahamAna ppr 1Af: identical
+vahamAna ppr 1Am: identical
+vahamAna ppr 1An: identical
+vASyamAna ppr 4Af: identical
+vASyamAna ppr 4Am: identical
+vASyamAna ppr 4An: identical
+vijamAna ppr 6Af: identical
+vijamAna ppr 6Am: identical
+vijamAna ppr 6An: identical
+viYcAna ppr 7Af: identical
+viYcAna ppr 7Am: identical
+viYcAna ppr 7An: identical
+vidAna ppr 2Af: pysan NOT FOUND
+vidAna ppr 2Am: pysan NOT FOUND
+vidAna ppr 2An: pysan NOT FOUND
+vindamAna ppr 6Af: identical
+vindamAna ppr 6Am: identical
+vindamAna ppr 6An: identical
+vindAna ppr 7Af: identical
+vindAna ppr 7Am: identical
+vindAna ppr 7An: identical
+vimanAyamAna ppr 11Af: pysan NOT FOUND
+vimanAyamAna ppr 11Am: pysan NOT FOUND
+vimanAyamAna ppr 11An: pysan NOT FOUND
+viSamAna ppr 6Af: pysan NOT FOUND
+viSamAna ppr 6Am: pysan NOT FOUND
+viSamAna ppr 6An: pysan NOT FOUND
+vizAyamARa ppr 11Af: pysan NOT FOUND
+vizAyamARa ppr 11Am: pysan NOT FOUND
+vizAyamARa ppr 11An: pysan NOT FOUND
+vIjamAna ppr 1Af: identical
+vIjamAna ppr 1Am: identical
+vIjamAna ppr 1An: identical
+vfRAna ppr 9Af: identical
+vfRAna ppr 9Am: identical
+vfRAna ppr 9An: identical
+vfRvAna ppr 5Af: identical
+vfRvAna ppr 5Am: identical
+vfRvAna ppr 5An: identical
+venamAna ppr 1Af: pysan NOT FOUND
+venamAna ppr 1Am: pysan NOT FOUND
+venamAna ppr 1An: pysan NOT FOUND
+vepamAna ppr 1Af: identical
+vepamAna ppr 1Am: identical
+vepamAna ppr 1An: identical
+vezwamAna ppr 1Af: identical
+vezwamAna ppr 1Am: identical
+vezwamAna ppr 1An: identical
+vErAyamARa ppr 11Af: pysan NOT FOUND
+vErAyamARa ppr 11Am: pysan NOT FOUND
+vErAyamARa ppr 11An: pysan NOT FOUND
+vyaTamAna ppr 1Af: identical
+vyaTamAna ppr 1Am: identical
+vyaTamAna ppr 1An: identical
+vyayamAna ppr 1Af: identical
+vyayamAna ppr 1Am: identical
+vyayamAna ppr 1An: identical
+vrIqamAna ppr 1Af: identical
+vrIqamAna ppr 1Am: identical
+vrIqamAna ppr 1An: identical
+SaNkamAna ppr 1Af: identical
+SaNkamAna ppr 1Am: identical
+SaNkamAna ppr 1An: identical
+SapamAna ppr 1Af: identical
+SapamAna ppr 1Am: identical
+SapamAna ppr 1An: identical
+SabdAyamAna ppr 11Af: pysan NOT FOUND
+SabdAyamAna ppr 11Am: pysan NOT FOUND
+SabdAyamAna ppr 11An: pysan NOT FOUND
+SayamAna ppr 1Af: pysan NOT FOUND
+SayamAna ppr 1Am: pysan NOT FOUND
+SayamAna ppr 1An: pysan NOT FOUND
+SayAna ppr 2Af: pysan NOT FOUND
+SayAna ppr 2Am: pysan NOT FOUND
+SayAna ppr 2An: pysan NOT FOUND
+SalaBAyamAna ppr 11Af: pysan NOT FOUND
+SalaBAyamAna ppr 11Am: pysan NOT FOUND
+SalaBAyamAna ppr 11An: pysan NOT FOUND
+SiTilayamAna ppr 11Af: pysan NOT FOUND
+SiTilayamAna ppr 11Am: pysan NOT FOUND
+SiTilayamAna ppr 11An: pysan NOT FOUND
+SiTilAyamAna ppr 11Af: pysan NOT FOUND
+SiTilAyamAna ppr 11Am: pysan NOT FOUND
+SiTilAyamAna ppr 11An: pysan NOT FOUND
+SiSAna ppr 3Af: pysan NOT FOUND
+SiSAna ppr 3Am: pysan NOT FOUND
+SiSAna ppr 3An: pysan NOT FOUND
+SiSUyamAna ppr 11Af: pysan NOT FOUND
+SiSUyamAna ppr 11Am: pysan NOT FOUND
+SiSUyamAna ppr 11An: pysan NOT FOUND
+SIGrAyamARa ppr 11Af: pysan NOT FOUND
+SIGrAyamARa ppr 11Am: pysan NOT FOUND
+SIGrAyamARa ppr 11An: pysan NOT FOUND
+SIyamAna ppr 1Af: identical
+SIyamAna ppr 1Am: identical
+SIyamAna ppr 1An: identical
+SoBamAna ppr 1Af: identical
+SoBamAna ppr 1Am: identical
+SoBamAna ppr 1An: identical
+SyamAna ppr 4Af: pysan NOT FOUND
+SyamAna ppr 4Am: pysan NOT FOUND
+SyamAna ppr 4An: pysan NOT FOUND
+SyAmAyamAna ppr 11Af: pysan NOT FOUND
+SyAmAyamAna ppr 11Am: pysan NOT FOUND
+SyAmAyamAna ppr 11An: pysan NOT FOUND
+SyAyamAna ppr 1Af: pysan NOT FOUND
+SyAyamAna ppr 1Am: pysan NOT FOUND
+SyAyamAna ppr 1An: pysan NOT FOUND
+SyenAyamAna ppr 11Af: pysan NOT FOUND
+SyenAyamAna ppr 11Am: pysan NOT FOUND
+SyenAyamAna ppr 11An: pysan NOT FOUND
+SramBamARa ppr 1Af: identical
+SramBamARa ppr 1Am: identical
+SramBamARa ppr 1An: identical
+SrayamARa ppr 1Af: identical
+SrayamARa ppr 1Am: identical
+SrayamARa ppr 1An: identical
+SlAGamAna ppr 1Af: identical
+SlAGamAna ppr 1Am: identical
+SlAGamAna ppr 1An: identical
+SvetamAna ppr 1Af: identical
+SvetamAna ppr 1Am: identical
+SvetamAna ppr 1An: identical
+saNkawAyamAna ppr 11Af: pysan NOT FOUND
+saNkawAyamAna ppr 11Am: pysan NOT FOUND
+saNkawAyamAna ppr 11An: pysan NOT FOUND
+saNgrAmayamARa ppr 11Af: pysan NOT FOUND
+saNgrAmayamARa ppr 11Am: pysan NOT FOUND
+saNgrAmayamARa ppr 11An: pysan NOT FOUND
+sacamAna ppr 1Af: identical
+sacamAna ppr 1Am: identical
+sacamAna ppr 1An: identical
+sajjIyamAna ppr 11Af: pysan NOT FOUND
+sajjIyamAna ppr 11Am: pysan NOT FOUND
+sajjIyamAna ppr 11An: pysan NOT FOUND
+sanvAna ppr 5Af: pysan NOT FOUND
+sanvAna ppr 5Am: pysan NOT FOUND
+sanvAna ppr 5An: pysan NOT FOUND
+samudrAyamARa ppr 11Af: pysan NOT FOUND
+samudrAyamARa ppr 11Am: pysan NOT FOUND
+samudrAyamARa ppr 11An: pysan NOT FOUND
+sahamAna ppr 1Af: identical
+sahamAna ppr 1Am: identical
+sahamAna ppr 1An: identical
+siYcamAna ppr 6Af: identical
+siYcamAna ppr 6Am: identical
+siYcamAna ppr 6An: identical
+suKAyamAna ppr 11Af: pysan NOT FOUND
+suKAyamAna ppr 11Am: pysan NOT FOUND
+suKAyamAna ppr 11An: pysan NOT FOUND
+sudinAyamAna ppr 11Af: pysan NOT FOUND
+sudinAyamAna ppr 11Am: pysan NOT FOUND
+sudinAyamAna ppr 11An: pysan NOT FOUND
+sunvAna ppr 5Af: identical
+sunvAna ppr 5Am: identical
+sunvAna ppr 5An: identical
+sumanAyamAna ppr 11Af: pysan NOT FOUND
+sumanAyamAna ppr 11Am: pysan NOT FOUND
+sumanAyamAna ppr 11An: pysan NOT FOUND
+suvAna ppr 2Af: identical
+suvAna ppr 2Am: identical
+suvAna ppr 2An: identical
+sUcayamAna ppr 10Af: pysan NOT FOUND
+sUcayamAna ppr 10Am: pysan NOT FOUND
+sUcayamAna ppr 10An: pysan NOT FOUND
+sUtrayamARa ppr 11Af: pysan NOT FOUND
+sUtrayamARa ppr 11Am: pysan NOT FOUND
+sUtrayamARa ppr 11An: pysan NOT FOUND
+sUdayamAna ppr 10Af: identical
+sUdayamAna ppr 10Am: identical
+sUdayamAna ppr 10An: identical
+sevamAna ppr 1Af: identical
+sevamAna ppr 1Am: identical
+sevamAna ppr 1An: identical
+skaBnAna ppr 9Af: pysan NOT FOUND
+skaBnAna ppr 9Am: pysan NOT FOUND
+skaBnAna ppr 9An: pysan NOT FOUND
+skaBnvAna ppr 5Af: pysan NOT FOUND
+skaBnvAna ppr 5Am: pysan NOT FOUND
+skaBnvAna ppr 5An: pysan NOT FOUND
+stuvAna ppr 2Af: identical
+stuvAna ppr 2Am: identical
+stuvAna ppr 2An: identical
+stfRAna ppr 9Af: identical
+stfRAna ppr 9Am: identical
+stfRAna ppr 9An: identical
+stfRvAna ppr 5Af: identical
+stfRvAna ppr 5Am: identical
+stfRvAna ppr 5An: identical
+styAyamAna ppr 4Af: pysan NOT FOUND
+styAyamAna ppr 4Am: pysan NOT FOUND
+styAyamAna ppr 4An: pysan NOT FOUND
+spandamAna ppr 1Af: identical
+spandamAna ppr 1Am: identical
+spandamAna ppr 1An: identical
+sparDamAna ppr 1Af: identical
+sparDamAna ppr 1Am: identical
+sparDamAna ppr 1An: identical
+spfhayamARa ppr 10Af: pysan NOT FOUND
+spfhayamARa ppr 10Am: pysan NOT FOUND
+spfhayamARa ppr 10An: pysan NOT FOUND
+sPAyamAna ppr 1Af: identical
+sPAyamAna ppr 1Am: identical
+sPAyamAna ppr 1An: identical
+smayamAna ppr 1Af: identical
+smayamAna ppr 1Am: identical
+smayamAna ppr 1An: identical
+syandamAna ppr 1Af: identical
+syandamAna ppr 1Am: identical
+syandamAna ppr 1An: identical
+sraMsamAna ppr 1Af: identical
+sraMsamAna ppr 1Am: identical
+sraMsamAna ppr 1An: identical
+svajamAna ppr 1Af: identical
+svajamAna ppr 1Am: identical
+svajamAna ppr 1An: identical
+svadamAna ppr 1Af: identical
+svadamAna ppr 1Am: identical
+svadamAna ppr 1An: identical
+svalpaSilAyamAna ppr 11Af: pysan NOT FOUND
+svalpaSilAyamAna ppr 11Am: pysan NOT FOUND
+svalpaSilAyamAna ppr 11An: pysan NOT FOUND
+svedamAna ppr 1Af: identical
+svedamAna ppr 1Am: identical
+svedamAna ppr 1An: identical
+hadamAna ppr 1Af: identical
+hadamAna ppr 1Am: identical
+hadamAna ppr 1An: identical
+hanAna ppr 2Af: pysan NOT FOUND
+hanAna ppr 2Am: pysan NOT FOUND
+hanAna ppr 2An: pysan NOT FOUND
+haramARa ppr 1Af: identical
+haramARa ppr 1Am: identical
+haramARa ppr 1An: identical
+havamAna ppr 1Af: pysan NOT FOUND
+havamAna ppr 1Am: pysan NOT FOUND
+havamAna ppr 1An: pysan NOT FOUND
+hikkamAna ppr 1Af: identical
+hikkamAna ppr 1Am: identical
+hikkamAna ppr 1An: identical
+huRqamAna ppr 1Af: identical
+huRqamAna ppr 1Am: identical
+huRqamAna ppr 1An: identical
+hfRAna ppr 9Af: identical
+hfRAna ppr 9Am: identical
+hfRAna ppr 9An: identical
+hnuvAna ppr 2Af: identical
+hnuvAna ppr 2Am: identical
+hnuvAna ppr 2An: identical
+hrAdamAna ppr 1Af: identical
+hrAdamAna ppr 1Am: identical
+hrAdamAna ppr 1An: identical
+hlAdamAna ppr 1Af: identical
+hlAdamAna ppr 1Am: identical
+hlAdamAna ppr 1An: identical
+hvayamAna ppr 1Af: identical
+hvayamAna ppr 1Am: identical
+hvayamAna ppr 1An: identical
+hvaramARa ppr 1Af: pysan NOT FOUND
+hvaramARa ppr 1Am: pysan NOT FOUND
+hvaramARa ppr 1An: pysan NOT FOUND
