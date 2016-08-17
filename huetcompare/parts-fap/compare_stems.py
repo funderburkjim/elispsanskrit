@@ -56,7 +56,7 @@ def main(tense,name1,name2,nameout):
  mergestems.sort(cmp=slp_cmp)
  print len(mergestems)," merged stems"
  
- statusnames = ["IDENTICAL CLASSES",
+ statusnames = ["IDENTICAL STEMS",
   "%s CLASSES < %s CLASSES"%(name1.upper(),name2.upper()),
   "%s CLASSES > %s CLASSES"%(name1.upper(),name2.upper()),
   "DIFFERENT CLASSES",
