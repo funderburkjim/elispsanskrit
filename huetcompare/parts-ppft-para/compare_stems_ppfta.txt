@@ -1,0 +1,1230 @@
+--------------------------------------------------
+355 cases of IDENTICAL STEMS
+--------------------------------------------------
+Case 01: Ajivas:P identical in BOTH
+Case 02: Awivas:P identical in BOTH
+Case 03: Ativas:P identical in BOTH
+Case 04: Adivas:P identical in BOTH
+Case 05: Anakzvas:P identical in BOTH
+Case 06: Anarhvas:P identical in BOTH
+Case 07: Anivas:P identical in BOTH
+Case 08: Anfcvas:P identical in BOTH
+Case 09: AnfDvas:P identical in BOTH
+Case 10: Anfzvas:P identical in BOTH
+Case 11: Apivas:P identical in BOTH
+Case 12: Amivas:P identical in BOTH
+Case 13: Avivas:P identical in BOTH
+Case 14: Asivas:P identical in BOTH
+Case 15: INKivas:P identical in BOTH
+Case 16: Ijivas:P identical in BOTH
+Case 17: Iyivas:P identical in BOTH
+Case 18: Izivas:P identical in BOTH
+Case 19: Ukzivas:P identical in BOTH
+Case 20: Ucivas:P identical in BOTH
+Case 21: UjJivas:P identical in BOTH
+Case 22: UYCivas:P identical in BOTH
+Case 23: Udivas:P identical in BOTH
+Case 24: Undivas:P identical in BOTH
+Case 25: Upivas:P identical in BOTH
+Case 26: UBivas:P identical in BOTH
+Case 27: USivas:P identical in BOTH
+Case 28: Uzivas:P identical in BOTH
+Case 29: Uhivas:P identical in BOTH
+Case 30: cakazvas:P identical in BOTH
+Case 31: cakasvas:P identical in BOTH
+Case 32: cakANkzvas:P identical in BOTH
+Case 33: cakftvas:P identical in BOTH
+Case 34: cakfvas:P identical in BOTH
+Case 35: cakfSvas:P identical in BOTH
+Case 36: cakfzvas:P identical in BOTH
+Case 37: cakraRvas:P identical in BOTH
+Case 38: cakrandvas:P identical in BOTH
+Case 39: caklanvas:P identical in BOTH
+Case 40: cakzaRvas:P identical in BOTH
+Case 41: cakzapvas:P identical in BOTH
+Case 42: cakzarvas:P identical in BOTH
+Case 43: caKAdvas:P identical in BOTH
+Case 44: caKyivas:P identical in BOTH
+Case 45: cacaYcvas:P identical in BOTH
+Case 46: cacandvas:P identical in BOTH
+Case 47: caskandvas:P identical in BOTH
+Case 48: caskamBvas:P identical in BOTH
+Case 49: casKalvas:P identical in BOTH
+Case 50: cikitvas:P identical in BOTH
+Case 51: cikIlvas:P identical in BOTH
+Case 52: cikrIqvas:P identical in BOTH
+Case 53: cikrIvas:P identical in BOTH
+Case 54: ciklidvas:P identical in BOTH
+Case 55: cikliSvas:P identical in BOTH
+Case 56: cikzipvas:P identical in BOTH
+Case 57: cikzviqvas:P identical in BOTH
+Case 58: ciKidvas:P identical in BOTH
+Case 59: cicezwvas:P identical in BOTH
+Case 60: cicCidvas:P identical in BOTH
+Case 61: cukucvas:P identical in BOTH
+Case 62: cukuwvas:P identical in BOTH
+Case 63: cukuRWvas:P identical in BOTH
+Case 64: cukuRqvas:P identical in BOTH
+Case 65: cukunTvas:P identical in BOTH
+Case 66: cukupvas:P identical in BOTH
+Case 67: cukulvas:P identical in BOTH
+Case 68: cukUjvas:P identical in BOTH
+Case 69: cukruYcvas:P identical in BOTH
+Case 70: cukruDvas:P identical in BOTH
+Case 71: cukruSvas:P identical in BOTH
+Case 72: cukzudvas:P identical in BOTH
+Case 73: cukzuDvas:P identical in BOTH
+Case 74: cukzuBvas:P identical in BOTH
+Case 75: cukzuvas:P identical in BOTH
+Case 76: cucudvas:P identical in BOTH
+Case 77: cucumbvas:P identical in BOTH
+Case 78: cucUzvas:P identical in BOTH
+Case 79: cuScutvas:P identical in BOTH
+Case 80: cewivas:P identical in BOTH
+Case 81: cetivas:P identical in BOTH
+Case 82: cemivas:P identical in BOTH
+Case 83: cerivas:P identical in BOTH
+Case 84: celivas:P identical in BOTH
+Case 85: jagajvas:P identical in BOTH
+Case 86: jagadvas:P identical in BOTH
+Case 87: jagarjvas:P identical in BOTH
+Case 88: jagardvas:P identical in BOTH
+Case 89: jagarhvas:P identical in BOTH
+Case 90: jagalvas:P identical in BOTH
+Case 91: jagivas:P identical in BOTH
+Case 92: jagfDvas:P identical in BOTH
+Case 93: jagfhvas:P identical in BOTH
+Case 94: jagmivas:P identical in BOTH
+Case 95: jagrasvas:P identical in BOTH
+Case 96: jaglivas:P identical in BOTH
+Case 97: jaGfvas:P identical in BOTH
+Case 98: jaGfzvas:P identical in BOTH
+Case 99: jaGnivas:P identical in BOTH
+Case 100: jaGrivas:P identical in BOTH
+Case 101: jajakzvas:P identical in BOTH
+Case 102: jajalpvas:P identical in BOTH
+Case 103: jajAgfvas:P identical in BOTH
+Case 104: jajYivas:P identical in BOTH
+Case 105: jajvalvas:P identical in BOTH
+Case 106: jahaWvas:P identical in BOTH
+Case 107: jahadvas:P identical in BOTH
+Case 108: jahasvas:P identical in BOTH
+Case 109: jahivas:P identical in BOTH
+Case 110: jahfvas:P identical in BOTH
+Case 111: jahfzvas:P identical in BOTH
+Case 112: jahrasvas:P identical in BOTH
+Case 113: jahvalvas:P identical in BOTH
+Case 114: jijinvvas:P identical in BOTH
+Case 115: jijIvvas:P identical in BOTH
+Case 116: jijyivas:P identical in BOTH
+Case 117: jihikkvas:P identical in BOTH
+Case 118: jihrIvas:P identical in BOTH
+Case 119: juguYjvas:P identical in BOTH
+Case 120: jugumPvas:P identical in BOTH
+Case 121: juGuzvas:P identical in BOTH
+Case 122: juGUrRvas:P identical in BOTH
+Case 123: juhuvas:P identical in BOTH
+Case 124: jepivas:P identical in BOTH
+Case 125: jemivas:P identical in BOTH
+Case 126: jesivas:P identical in BOTH
+Case 127: tatakzvas:P identical in BOTH
+Case 128: tataYcvas:P identical in BOTH
+Case 129: tatarjvas:P identical in BOTH
+Case 130: tatfdvas:P identical in BOTH
+Case 131: tatfpvas:P identical in BOTH
+Case 132: tatfzvas:P identical in BOTH
+Case 133: tatyajvas:P identical in BOTH
+Case 134: tatrasvas:P identical in BOTH
+Case 135: tatvakzvas:P identical in BOTH
+Case 136: tatsarvas:P identical in BOTH
+Case 137: tastanvas:P identical in BOTH
+Case 138: tastamBvas:P identical in BOTH
+Case 139: tasTivas:P identical in BOTH
+Case 140: titvizvas:P identical in BOTH
+Case 141: tutudvas:P identical in BOTH
+Case 142: tutupvas:P identical in BOTH
+Case 143: tutuzvas:P identical in BOTH
+Case 144: tutruwvas:P identical in BOTH
+Case 145: tuzwuBvas:P identical in BOTH
+Case 146: tuzwuvas:P identical in BOTH
+Case 147: tekivas:P identical in BOTH
+Case 148: tenivas:P identical in BOTH
+Case 149: tepivas:P identical in BOTH
+Case 150: temivas:P identical in BOTH
+Case 151: dadaMSvas:P identical in BOTH
+Case 152: dadASvas:P identical in BOTH
+Case 153: dadivas:P identical in BOTH
+Case 154: dadfpvas:P identical in BOTH
+Case 155: dadfBvas:P identical in BOTH
+Case 156: dadfSvas:P identical in BOTH
+Case 157: dadfhvas:P identical in BOTH
+Case 158: dadrivas:P identical in BOTH
+Case 159: daDAvvas:P identical in BOTH
+Case 160: daDivas:P identical in BOTH
+Case 161: daDfvas:P identical in BOTH
+Case 162: daDfzvas:P identical in BOTH
+Case 163: daDmivas:P identical in BOTH
+Case 164: daDyivas:P identical in BOTH
+Case 165: daDvaMsvas:P identical in BOTH
+Case 166: daDvanvas:P identical in BOTH
+Case 167: daDvANkzvas:P identical in BOTH
+Case 168: didiSvas:P identical in BOTH
+Case 169: didihvas:P identical in BOTH
+Case 170: didevvas:P identical in BOTH
+Case 171: didvizvas:P identical in BOTH
+Case 172: duduvas:P identical in BOTH
+Case 173: duduzvas:P identical in BOTH
+Case 174: duduhvas:P identical in BOTH
+Case 175: dudruvas:P identical in BOTH
+Case 176: dudruhvas:P identical in BOTH
+Case 177: duDUvas:P identical in BOTH
+Case 178: duDruvas:P identical in BOTH
+Case 179: deGivas:P identical in BOTH
+Case 180: deBivas:P identical in BOTH
+Case 181: demivas:P identical in BOTH
+Case 182: delivas:P identical in BOTH
+Case 183: desivas:P identical in BOTH
+Case 184: dehivas:P identical in BOTH
+Case 185: nanakzvas:P identical in BOTH
+Case 186: nanardvas:P identical in BOTH
+Case 187: nanftvas:P identical in BOTH
+Case 188: ninindvas:P identical in BOTH
+Case 189: ninIvas:P identical in BOTH
+Case 190: nunudvas:P identical in BOTH
+Case 191: nunuvas:P identical in BOTH
+Case 192: newivas:P identical in BOTH
+Case 193: nedivas:P identical in BOTH
+Case 194: nemivas:P identical in BOTH
+Case 195: neSivas:P identical in BOTH
+Case 196: nehivas:P identical in BOTH
+Case 197: papivas:P identical in BOTH
+Case 198: papfcvas:P identical in BOTH
+Case 199: papfvas:P identical in BOTH
+Case 200: papfzvas:P identical in BOTH
+Case 201: paprivas:P identical in BOTH
+Case 202: paspfSvas:P identical in BOTH
+Case 203: pasPalvas:P identical in BOTH
+Case 204: pipiSvas:P identical in BOTH
+Case 205: pipizvas:P identical in BOTH
+Case 206: piprIvas:P identical in BOTH
+Case 207: pupuTvas:P identical in BOTH
+Case 208: pupuzvas:P identical in BOTH
+Case 209: pupUyvas:P identical in BOTH
+Case 210: pupUvas:P identical in BOTH
+Case 211: pupluzvas:P identical in BOTH
+Case 212: puPullvas:P identical in BOTH
+Case 213: pecivas:P identical in BOTH
+Case 214: pewivas:P identical in BOTH
+Case 215: peWivas:P identical in BOTH
+Case 216: petivas:P identical in BOTH
+Case 217: peTivas:P identical in BOTH
+Case 218: babanDvas:P identical in BOTH
+Case 219: babfhvas:P identical in BOTH
+Case 220: baBakzvas:P identical in BOTH
+Case 221: baBaYjvas:P identical in BOTH
+Case 222: baBaRvas:P identical in BOTH
+Case 223: baBazvas:P identical in BOTH
+Case 224: baBasvas:P identical in BOTH
+Case 225: baBivas:P identical in BOTH
+Case 226: baBUvas:P identical in BOTH
+Case 227: baBfvas:P identical in BOTH
+Case 228: baBraMSvas:P identical in BOTH
+Case 229: baBraRvas:P identical in BOTH
+Case 230: biBidvas:P identical in BOTH
+Case 231: biBIvas:P identical in BOTH
+Case 232: buBujvas:P identical in BOTH
+Case 233: buBUzvas:P identical in BOTH
+Case 234: belivas:P identical in BOTH
+Case 235: Bejivas:P identical in BOTH
+Case 236: mamajjvas:P identical in BOTH
+Case 237: mamaRqvas:P identical in BOTH
+Case 238: mamanTvas:P identical in BOTH
+Case 239: mamivas:P identical in BOTH
+Case 240: mamfjvas:P identical in BOTH
+Case 241: mamfqvas:P identical in BOTH
+Case 242: mamfdvas:P identical in BOTH
+Case 243: mamfDvas:P identical in BOTH
+Case 244: mamfSvas:P identical in BOTH
+Case 245: mamfzvas:P identical in BOTH
+Case 246: mamnivas:P identical in BOTH
+Case 247: mamlivas:P identical in BOTH
+Case 248: mimiTvas:P identical in BOTH
+Case 249: mimidvas:P identical in BOTH
+Case 250: mimilvas:P identical in BOTH
+Case 251: mimizvas:P identical in BOTH
+Case 252: mimihvas:P identical in BOTH
+Case 253: mimIlvas:P identical in BOTH
+Case 254: mimIvas:P identical in BOTH
+Case 255: mumucvas:P identical in BOTH
+Case 256: mumuzvas:P identical in BOTH
+Case 257: mumuhvas:P identical in BOTH
+Case 258: mumUzvas:P identical in BOTH
+Case 259: medivas:P identical in BOTH
+Case 260: mehivas:P identical in BOTH
+Case 261: yayAcvas:P identical in BOTH
+Case 262: yayivas:P identical in BOTH
+Case 263: yuyujvas:P identical in BOTH
+Case 264: yuyuvas:P identical in BOTH
+Case 265: yeBivas:P identical in BOTH
+Case 266: yemivas:P identical in BOTH
+Case 267: yesivas:P identical in BOTH
+Case 268: raraMhvas:P identical in BOTH
+Case 269: rarakzvas:P identical in BOTH
+Case 270: raraYjvas:P identical in BOTH
+Case 271: rarADvas:P identical in BOTH
+Case 272: rarivas:P identical in BOTH
+Case 273: riricvas:P identical in BOTH
+Case 274: ririzvas:P identical in BOTH
+Case 275: rurujvas:P identical in BOTH
+Case 276: rurudvas:P identical in BOTH
+Case 277: ruruDvas:P identical in BOTH
+Case 278: ruruvas:P identical in BOTH
+Case 279: ruruzvas:P identical in BOTH
+Case 280: ruruhvas:P identical in BOTH
+Case 281: rejivas:P identical in BOTH
+Case 282: reRivas:P identical in BOTH
+Case 283: redivas:P identical in BOTH
+Case 284: remivas:P identical in BOTH
+Case 285: lalaNgvas:P identical in BOTH
+Case 286: lalaNGvas:P identical in BOTH
+Case 287: lalAYCvas:P identical in BOTH
+Case 288: lilipvas:P identical in BOTH
+Case 289: liliSvas:P identical in BOTH
+Case 290: lilihvas:P identical in BOTH
+Case 291: luluYcvas:P identical in BOTH
+Case 292: luluWvas:P identical in BOTH
+Case 293: lulupvas:P identical in BOTH
+Case 294: luluBvas:P identical in BOTH
+Case 295: lulUvas:P identical in BOTH
+Case 296: legivas:P identical in BOTH
+Case 297: lepivas:P identical in BOTH
+Case 298: lelivas:P identical in BOTH
+Case 299: lezivas:P identical in BOTH
+Case 300: lesivas:P identical in BOTH
+Case 301: vavaYcvas:P identical in BOTH
+Case 302: vavalgvas:P identical in BOTH
+Case 303: vavAYCvas:P identical in BOTH
+Case 304: vavivas:P identical in BOTH
+Case 305: vavfjvas:P identical in BOTH
+Case 306: vavfvas:P identical in BOTH
+Case 307: vavfzvas:P identical in BOTH
+Case 308: vavfhvas:P identical in BOTH
+Case 309: vavraScvas:P identical in BOTH
+Case 310: vivicvas:P identical in BOTH
+Case 311: vividvas:P identical in BOTH
+Case 312: viviDvas:P identical in BOTH
+Case 313: viviSvas:P identical in BOTH
+Case 314: vivizvas:P identical in BOTH
+Case 315: vivIjvas:P identical in BOTH
+Case 316: vivIvas:P identical in BOTH
+Case 317: SaSaMsvas:P identical in BOTH
+Case 318: SaSAsvas:P identical in BOTH
+Case 319: SaSivas:P identical in BOTH
+Case 320: SaSyivas:P identical in BOTH
+Case 321: SaSraRvas:P identical in BOTH
+Case 322: SaSvasvas:P identical in BOTH
+Case 323: SiSikzvas:P identical in BOTH
+Case 324: SiSizvas:P identical in BOTH
+Case 325: SiSIlvas:P identical in BOTH
+Case 326: SiSlizvas:P identical in BOTH
+Case 327: SuSucvas:P identical in BOTH
+Case 328: SuSuDvas:P identical in BOTH
+Case 329: SuSumBvas:P identical in BOTH
+Case 330: SuSuzvas:P identical in BOTH
+Case 331: SuSruvas:P identical in BOTH
+Case 332: Sekivas:P identical in BOTH
+Case 333: Sepivas:P identical in BOTH
+Case 334: Semivas:P identical in BOTH
+Case 335: Selivas:P identical in BOTH
+Case 336: SeSivas:P identical in BOTH
+Case 337: sasaYjvas:P identical in BOTH
+Case 338: sasivas:P identical in BOTH
+Case 339: sasfjvas:P identical in BOTH
+Case 340: sasfpvas:P identical in BOTH
+Case 341: sasfvas:P identical in BOTH
+Case 342: sasvanvas:P identical in BOTH
+Case 343: sasvarvas:P identical in BOTH
+Case 344: sizicvas:P identical in BOTH
+Case 345: siziDvas:P identical in BOTH
+Case 346: sizvidvas:P identical in BOTH
+Case 347: suzupvas:P identical in BOTH
+Case 348: suzurvas:P identical in BOTH
+Case 349: suzuvas:P identical in BOTH
+Case 350: suzUvas:P identical in BOTH
+Case 351: susruvas:P identical in BOTH
+Case 352: sedivas:P identical in BOTH
+Case 353: senivas:P identical in BOTH
+Case 354: sepivas:P identical in BOTH
+Case 355: sehivas:P identical in BOTH
+--------------------------------------------------
+763 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: ayejvas:P in pysan
+Case 02: ayezvas:P in pysan
+Case 03: avoKvas:P in pysan
+Case 04: avojvas:P in pysan
+Case 05: avoRvas:P in pysan
+Case 06: Akivas:P in pysan
+Case 07: Agivas:P in pysan
+Case 08: Acivas:P in pysan
+Case 09: AWivas:P in pysan
+Case 10: Aqivas:P in pysan
+Case 11: ARivas:P in pysan
+Case 12: Anaqqvas:P in pysan
+Case 13: AnaBrvas:P in pysan
+Case 14: Anarcvas:P in pysan
+Case 15: Anarjvas:P in pysan
+Case 16: Anardvas:P in pysan
+Case 17: Anarbvas:P in pysan
+Case 18: Anarvvas:P in pysan
+Case 19: AnfCvas:P in pysan
+Case 20: Anfjvas:P in pysan
+Case 21: AnfYjvas:P in pysan
+Case 22: AnfRvas:P in pysan
+Case 23: AnfPvas:P in pysan
+Case 24: Abivas:P in pysan
+Case 25: Ayivas:P in pysan
+Case 26: Arivas:P in pysan
+Case 27: Alivas:P in pysan
+Case 28: Azivas:P in pysan
+Case 29: Ahivas:P in pysan
+Case 30: IKivas:P in pysan
+Case 31: INgivas:P in pysan
+Case 32: Iwivas:P in pysan
+Case 33: Indivas:P in pysan
+Case 34: Invivas:P in pysan
+Case 35: Irivas:P in pysan
+Case 36: Ilivas:P in pysan
+Case 37: uvivas:P in pysan
+Case 38: UKivas:P in pysan
+Case 39: UNKivas:P in pysan
+Case 40: UCivas:P in pysan
+Case 41: UWivas:P in pysan
+Case 42: Ubjivas:P in pysan
+Case 43: UrRunuvas:P in pysan
+Case 44: greTivas:P in pysan
+Case 45: cakaKvas:P in pysan
+Case 46: cakagvas:P in pysan
+Case 47: cakacvas:P in pysan
+Case 48: cakajvas:P in pysan
+Case 49: cakawvas:P in pysan
+Case 50: cakaWvas:P in pysan
+Case 51: cakaqqvas:P in pysan
+Case 52: cakaqvas:P in pysan
+Case 53: cakaRwvas:P in pysan
+Case 54: cakaRWvas:P in pysan
+Case 55: cakaRqvas:P in pysan
+Case 56: cakaRvas:P in pysan
+Case 57: cakandvas:P in pysan
+Case 58: cakanvas:P in pysan
+Case 59: cakambvas:P in pysan
+Case 60: cakarjvas:P in pysan
+Case 61: cakardvas:P in pysan
+Case 62: cakarbvas:P in pysan
+Case 63: cakarvvas:P in pysan
+Case 64: cakaSvas:P in pysan
+Case 65: cakASvas:P in pysan
+Case 66: cakivas:P in pysan
+Case 67: caknaMsvas:P in pysan
+Case 68: caknaTvas:P in pysan
+Case 69: caknasvas:P in pysan
+Case 70: cakmarvas:P in pysan
+Case 71: cakraMSvas:P in pysan
+Case 72: cakraTvas:P in pysan
+Case 73: caklaTvas:P in pysan
+Case 74: caklandvas:P in pysan
+Case 75: cakvaRvas:P in pysan
+Case 76: cakzampvas:P in pysan
+Case 77: cakzivas:P in pysan
+Case 78: caKacvas:P in pysan
+Case 79: caKajvas:P in pysan
+Case 80: caKaYjvas:P in pysan
+Case 81: caKawvas:P in pysan
+Case 82: caKadvas:P in pysan
+Case 83: caKanvas:P in pysan
+Case 84: caKambvas:P in pysan
+Case 85: caKarjvas:P in pysan
+Case 86: caKardvas:P in pysan
+Case 87: caKarbvas:P in pysan
+Case 88: caKarvvas:P in pysan
+Case 89: caKalvas:P in pysan
+Case 90: caKazvas:P in pysan
+Case 91: caKivas:P in pysan
+Case 92: cacaRqvas:P in pysan
+Case 93: cacambvas:P in pysan
+Case 94: cacarGvas:P in pysan
+Case 95: cacarcvas:P in pysan
+Case 96: cacarbvas:P in pysan
+Case 97: cacftvas:P in pysan
+Case 98: caCadvas:P in pysan
+Case 99: caCanvas:P in pysan
+Case 100: caCazvas:P in pysan
+Case 101: caCivas:P in pysan
+Case 102: caCfdvas:P in pysan
+Case 103: caCfpvas:P in pysan
+Case 104: cikiwvas:P in pysan
+Case 105: cikilvas:P in pysan
+Case 106: cikIrvas:P in pysan
+Case 107: cikelvas:P in pysan
+Case 108: cikyivas:P in pysan
+Case 109: ciklindvas:P in pysan
+Case 110: cikziRvas:P in pysan
+Case 111: cikziyivas:P in pysan
+Case 112: cikzivvas:P in pysan
+Case 113: cikzIjvas:P in pysan
+Case 114: cikzIbvas:P in pysan
+Case 115: cikzIvvas:P in pysan
+Case 116: cikzmIlvas:P in pysan
+Case 117: cikzvidvas:P in pysan
+Case 118: cikzvelvas:P in pysan
+Case 119: ciKiwvas:P in pysan
+Case 120: ciKelvas:P in pysan
+Case 121: ciciwvas:P in pysan
+Case 122: cicitvas:P in pysan
+Case 123: cicilvas:P in pysan
+Case 124: cicIkvas:P in pysan
+Case 125: cicIvvas:P in pysan
+Case 126: cicelvas:P in pysan
+Case 127: cukuMSvas:P in pysan
+Case 128: cukujvas:P in pysan
+Case 129: cukuYcvas:P in pysan
+Case 130: cukuYjvas:P in pysan
+Case 131: cukuqvas:P in pysan
+Case 132: cukuRvas:P in pysan
+Case 133: cukuTvas:P in pysan
+Case 134: cukumbvas:P in pysan
+Case 135: cukurvas:P in pysan
+Case 136: cukuvas:P in pysan
+Case 137: cukuSvas:P in pysan
+Case 138: cukuzvas:P in pysan
+Case 139: cukUqvas:P in pysan
+Case 140: cukURvas:P in pysan
+Case 141: cukUrdvas:P in pysan
+Case 142: cukUlvas:P in pysan
+Case 143: cukUvas:P in pysan
+Case 144: cuknuvas:P in pysan
+Case 145: cukruqvas:P in pysan
+Case 146: cukzupvas:P in pysan
+Case 147: cukzumpvas:P in pysan
+Case 148: cukzurvas:P in pysan
+Case 149: cukzRuvas:P in pysan
+Case 150: cuKujvas:P in pysan
+Case 151: cuKudvas:P in pysan
+Case 152: cuKurvas:P in pysan
+Case 153: cuKowvas:P in pysan
+Case 154: cuKoqvas:P in pysan
+Case 155: cuKorvas:P in pysan
+Case 156: cucuwvas:P in pysan
+Case 157: cucuqqvas:P in pysan
+Case 158: cucuqvas:P in pysan
+Case 159: cucuRvas:P in pysan
+Case 160: cucutvas:P in pysan
+Case 161: cucupvas:P in pysan
+Case 162: cucUrvas:P in pysan
+Case 163: cucyutvas:P in pysan
+Case 164: cuCuwvas:P in pysan
+Case 165: cuCuqvas:P in pysan
+Case 166: cuCupvas:P in pysan
+Case 167: cuCurvas:P in pysan
+Case 168: cuskuvas:P in pysan
+Case 169: cekivas:P in pysan
+Case 170: ceGivas:P in pysan
+Case 171: ceRivas:P in pysan
+Case 172: cedivas:P in pysan
+Case 173: cenivas:P in pysan
+Case 174: cepivas:P in pysan
+Case 175: ceyivas:P in pysan
+Case 176: cehivas:P in pysan
+Case 177: jakzivas:P in pysan
+Case 178: jagaYjvas:P in pysan
+Case 179: jagaqvas:P in pysan
+Case 180: jagaRqvas:P in pysan
+Case 181: jagaDvas:P in pysan
+Case 182: jaganvas:P in pysan
+Case 183: jagambvas:P in pysan
+Case 184: jagarbvas:P in pysan
+Case 185: jagarvvas:P in pysan
+Case 186: jagAhvas:P in pysan
+Case 187: jagfvas:P in pysan
+Case 188: jaGagGvas:P in pysan
+Case 189: jaGaRwvas:P in pysan
+Case 190: jaGaRvas:P in pysan
+Case 191: jaGanvas:P in pysan
+Case 192: jaGarbvas:P in pysan
+Case 193: jaGfRvas:P in pysan
+Case 194: jajaMsvas:P in pysan
+Case 195: jajaNkzvas:P in pysan
+Case 196: jajanvas:P in pysan
+Case 197: jajamBvas:P in pysan
+Case 198: jajarcvas:P in pysan
+Case 199: jajarCvas:P in pysan
+Case 200: jajarjvas:P in pysan
+Case 201: jajartsvas:P in pysan
+Case 202: jajivas:P in pysan
+Case 203: jajfvas:P in pysan
+Case 204: jaJawvas:P in pysan
+Case 205: jaJanvas:P in pysan
+Case 206: jaJarcvas:P in pysan
+Case 207: jaJazvas:P in pysan
+Case 208: jahawvas:P in pysan
+Case 209: jahamnvas:P in pysan
+Case 210: jahayvas:P in pysan
+Case 211: jahalvas:P in pysan
+Case 212: jahmalvas:P in pysan
+Case 213: jahragvas:P in pysan
+Case 214: jahlasvas:P in pysan
+Case 215: jahvivas:P in pysan
+Case 216: jahvfvas:P in pysan
+Case 217: jigIrvas:P in pysan
+Case 218: jigyivas:P in pysan
+Case 219: jiGyivas:P in pysan
+Case 220: jijinvas:P in pysan
+Case 221: jijizvas:P in pysan
+Case 222: jijIrvas:P in pysan
+Case 223: jijriyivas:P in pysan
+Case 224: jiJIrvas:P in pysan
+Case 225: jihiMsvas:P in pysan
+Case 226: jihilvas:P in pysan
+Case 227: jiheWvas:P in pysan
+Case 228: jiheqvas:P in pysan
+Case 229: jiheQvas:P in pysan
+Case 230: jihrICvas:P in pysan
+Case 231: jugujvas:P in pysan
+Case 232: juguqvas:P in pysan
+Case 233: juguDvas:P in pysan
+Case 234: jugupvas:P in pysan
+Case 235: juguPvas:P in pysan
+Case 236: jugurdvas:P in pysan
+Case 237: jugurvas:P in pysan
+Case 238: jugurvvas:P in pysan
+Case 239: juguvas:P in pysan
+Case 240: juguhvas:P in pysan
+Case 241: jugUrdvas:P in pysan
+Case 242: jugrucvas:P in pysan
+Case 243: juglucvas:P in pysan
+Case 244: jugluYcvas:P in pysan
+Case 245: juGuwvas:P in pysan
+Case 246: juGuqvas:P in pysan
+Case 247: juGuRvas:P in pysan
+Case 248: jujuNgvas:P in pysan
+Case 249: jujuYcvas:P in pysan
+Case 250: jujuwvas:P in pysan
+Case 251: jujuqvas:P in pysan
+Case 252: jujunvas:P in pysan
+Case 253: jujurvas:P in pysan
+Case 254: jujUrvvas:P in pysan
+Case 255: juJUzvas:P in pysan
+Case 256: juhuqvas:P in pysan
+Case 257: juhurCvas:P in pysan
+Case 258: juhulvas:P in pysan
+Case 259: juhUqvas:P in pysan
+Case 260: juhruqvas:P in pysan
+Case 261: juhruvas:P in pysan
+Case 262: juhrOqvas:P in pysan
+Case 263: jejivas:P in pysan
+Case 264: jelivas:P in pysan
+Case 265: wawvalvas:P in pysan
+Case 266: wizWivvas:P in pysan
+Case 267: qiqipvas:P in pysan
+Case 268: qemivas:P in pysan
+Case 269: tataNkvas:P in pysan
+Case 270: tataNgvas:P in pysan
+Case 271: tatandrvas:P in pysan
+Case 272: tatardvas:P in pysan
+Case 273: tatAyvas:P in pysan
+Case 274: tatfkzvas:P in pysan
+Case 275: tatfRvas:P in pysan
+Case 276: tatfPvas:P in pysan
+Case 277: tatfmpvas:P in pysan
+Case 278: tatfmPvas:P in pysan
+Case 279: tatfhvas:P in pysan
+Case 280: tatraMsvas:P in pysan
+Case 281: tatraKvas:P in pysan
+Case 282: tatrandvas:P in pysan
+Case 283: tatvaNgvas:P in pysan
+Case 284: tatvacvas:P in pysan
+Case 285: tatvaYcvas:P in pysan
+Case 286: tatvarvas:P in pysan
+Case 287: taTarvvas:P in pysan
+Case 288: tastakvas:P in pysan
+Case 289: tastivas:P in pysan
+Case 290: tastfkzvas:P in pysan
+Case 291: tastfvas:P in pysan
+Case 292: tastfhvas:P in pysan
+Case 293: tasTagvas:P in pysan
+Case 294: tasTalvas:P in pysan
+Case 295: titikvas:P in pysan
+Case 296: titigvas:P in pysan
+Case 297: titiGvas:P in pysan
+Case 298: titijvas:P in pysan
+Case 299: titinvas:P in pysan
+Case 300: titipvas:P in pysan
+Case 301: titillvas:P in pysan
+Case 302: titilvas:P in pysan
+Case 303: titInvas:P in pysan
+Case 304: titIrvas:P in pysan
+Case 305: titIvvas:P in pysan
+Case 306: titepvas:P in pysan
+Case 307: titevvas:P in pysan
+Case 308: titriNKvas:P in pysan
+Case 309: tizwiGvas:P in pysan
+Case 310: tizwinvas:P in pysan
+Case 311: tizWirvas:P in pysan
+Case 312: tutujvas:P in pysan
+Case 313: tutuwvas:P in pysan
+Case 314: tutuqqvas:P in pysan
+Case 315: tutuqvas:P in pysan
+Case 316: tutuRvas:P in pysan
+Case 317: tutundvas:P in pysan
+Case 318: tutuBvas:P in pysan
+Case 319: tutumpvas:P in pysan
+Case 320: tutumbvas:P in pysan
+Case 321: tuturvas:P in pysan
+Case 322: tuturvvas:P in pysan
+Case 323: tutuvas:P in pysan
+Case 324: tutuSvas:P in pysan
+Case 325: tutusvas:P in pysan
+Case 326: tutuhvas:P in pysan
+Case 327: tutUqvas:P in pysan
+Case 328: tutUlvas:P in pysan
+Case 329: tutUzvas:P in pysan
+Case 330: tutoqvas:P in pysan
+Case 331: tutrupvas:P in pysan
+Case 332: tutruPvas:P in pysan
+Case 333: tutrumpvas:P in pysan
+Case 334: tutrumPvas:P in pysan
+Case 335: tuTuqvas:P in pysan
+Case 336: tuTurvvas:P in pysan
+Case 337: tuzwumBvas:P in pysan
+Case 338: tuzwUpvas:P in pysan
+Case 339: tuzWuqvas:P in pysan
+Case 340: tewivas:P in pysan
+Case 341: teyivas:P in pysan
+Case 342: telivas:P in pysan
+Case 343: tesivas:P in pysan
+Case 344: trepivas:P in pysan
+Case 345: tresivas:P in pysan
+Case 346: dadaMsvas:P in pysan
+Case 347: dadakzvas:P in pysan
+Case 348: dadaNGvas:P in pysan
+Case 349: dadadvas:P in pysan
+Case 350: dadanvvas:P in pysan
+Case 351: dadamBvas:P in pysan
+Case 352: dadAnvas:P in pysan
+Case 353: dadAsvas:P in pysan
+Case 354: dadfMhvas:P in pysan
+Case 355: dadfSivas:P in pysan
+Case 356: dadyivas:P in pysan
+Case 357: dadraRvas:P in pysan
+Case 358: dadrAKvas:P in pysan
+Case 359: dadrANkzvas:P in pysan
+Case 360: dadvfvas:P in pysan
+Case 361: daDaRvas:P in pysan
+Case 362: daDanvas:P in pysan
+Case 363: daDfjvas:P in pysan
+Case 364: daDrajvas:P in pysan
+Case 365: daDraRvas:P in pysan
+Case 366: daDrasvas:P in pysan
+Case 367: daDrivas:P in pysan
+Case 368: daDvajvas:P in pysan
+Case 369: daDvaRvas:P in pysan
+Case 370: daDvfvas:P in pysan
+Case 371: daDvraRvas:P in pysan
+Case 372: didinvvas:P in pysan
+Case 373: didivvas:P in pysan
+Case 374: didIyvas:P in pysan
+Case 375: didIrvas:P in pysan
+Case 376: diDizvas:P in pysan
+Case 377: diDIrvas:P in pysan
+Case 378: diDyivas:P in pysan
+Case 379: diDrijvas:P in pysan
+Case 380: duduDvas:P in pysan
+Case 381: dudurvvas:P in pysan
+Case 382: dudUvas:P in pysan
+Case 383: dudyuvas:P in pysan
+Case 384: dudruqvas:P in pysan
+Case 385: dudruRvas:P in pysan
+Case 386: dudrumRvas:P in pysan
+Case 387: dudrUqvas:P in pysan
+Case 388: dudrUvas:P in pysan
+Case 389: duDuvas:P in pysan
+Case 390: duDUpvas:P in pysan
+Case 391: duDUrvvas:P in pysan
+Case 392: duDorvas:P in pysan
+Case 393: nanandvas:P in pysan
+Case 394: nanambvas:P in pysan
+Case 395: nanarbvas:P in pysan
+Case 396: ninikzvas:P in pysan
+Case 397: nininvvas:P in pysan
+Case 398: ninilvas:P in pysan
+Case 399: niniSvas:P in pysan
+Case 400: ninizvas:P in pysan
+Case 401: ninIrvas:P in pysan
+Case 402: ninIlvas:P in pysan
+Case 403: ninIvvas:P in pysan
+Case 404: ninedvas:P in pysan
+Case 405: nunuqvas:P in pysan
+Case 406: neKivas:P in pysan
+Case 407: neBivas:P in pysan
+Case 408: nelivas:P in pysan
+Case 409: papaMSvas:P in pysan
+Case 410: papakzvas:P in pysan
+Case 411: papaRqvas:P in pysan
+Case 412: papanTvas:P in pysan
+Case 413: papambvas:P in pysan
+Case 414: paparpvas:P in pysan
+Case 415: paparbvas:P in pysan
+Case 416: paparvvas:P in pysan
+Case 417: papallvas:P in pysan
+Case 418: papfqvas:P in pysan
+Case 419: papfRvas:P in pysan
+Case 420: papraCvas:P in pysan
+Case 421: paplakzvas:P in pysan
+Case 422: papsivas:P in pysan
+Case 423: paPakkvas:P in pysan
+Case 424: paPaRvas:P in pysan
+Case 425: paParvvas:P in pysan
+Case 426: paspaSvas:P in pysan
+Case 427: paspfvas:P in pysan
+Case 428: pasPawvas:P in pysan
+Case 429: pasParvas:P in pysan
+Case 430: pipiMsvas:P in pysan
+Case 431: pipiCvas:P in pysan
+Case 432: pipiwvas:P in pysan
+Case 433: pipiWvas:P in pysan
+Case 434: pipinvvas:P in pysan
+Case 435: pipisvas:P in pysan
+Case 436: pipIlvas:P in pysan
+Case 437: pipeRvas:P in pysan
+Case 438: pipelvas:P in pysan
+Case 439: pipesvas:P in pysan
+Case 440: pipyivas:P in pysan
+Case 441: piplIvas:P in pysan
+Case 442: piPelvas:P in pysan
+Case 443: pispIrvas:P in pysan
+Case 444: pupuCvas:P in pysan
+Case 445: pupuwvas:P in pysan
+Case 446: pupuqvas:P in pysan
+Case 447: pupuRqvas:P in pysan
+Case 448: pupuRvas:P in pysan
+Case 449: pupurvas:P in pysan
+Case 450: pupurvvas:P in pysan
+Case 451: pupUrvas:P in pysan
+Case 452: pupUlvas:P in pysan
+Case 453: pupUzvas:P in pysan
+Case 454: pupyuzvas:P in pysan
+Case 455: pupyusvas:P in pysan
+Case 456: pupruTvas:P in pysan
+Case 457: pupruzvas:P in pysan
+Case 458: puproTvas:P in pysan
+Case 459: puplusvas:P in pysan
+Case 460: pusPuwvas:P in pysan
+Case 461: pusPuqvas:P in pysan
+Case 462: pusPuRwvas:P in pysan
+Case 463: pusPurvas:P in pysan
+Case 464: pusPulvas:P in pysan
+Case 465: pusPUrCvas:P in pysan
+Case 466: pusPUrjvas:P in pysan
+Case 467: pedivas:P in pysan
+Case 468: pelivas:P in pysan
+Case 469: pezivas:P in pysan
+Case 470: pesivas:P in pysan
+Case 471: pEpERvas:P in pysan
+Case 472: pEprERvas:P in pysan
+Case 473: PeRivas:P in pysan
+Case 474: Pelivas:P in pysan
+Case 475: babarbvas:P in pysan
+Case 476: babADvas:P in pysan
+Case 477: babfMhvas:P in pysan
+Case 478: babrahRvas:P in pysan
+Case 479: baBawvas:P in pysan
+Case 480: baBanvas:P in pysan
+Case 481: baBarbvas:P in pysan
+Case 482: baBarvvas:P in pysan
+Case 483: baBAnvas:P in pysan
+Case 484: baBfMSvas:P in pysan
+Case 485: baBfkzvas:P in pysan
+Case 486: baBfqvas:P in pysan
+Case 487: baBfSvas:P in pysan
+Case 488: baBrakzvas:P in pysan
+Case 489: baBrajjvas:P in pysan
+Case 490: bibiwvas:P in pysan
+Case 491: bibidvas:P in pysan
+Case 492: bibilvas:P in pysan
+Case 493: bibiSvas:P in pysan
+Case 494: bibisvas:P in pysan
+Case 495: biBindvas:P in pysan
+Case 496: biBezvas:P in pysan
+Case 497: biBrIvas:P in pysan
+Case 498: biBrezvas:P in pysan
+Case 499: bubukkvas:P in pysan
+Case 500: bubuNgvas:P in pysan
+Case 501: bubuwvas:P in pysan
+Case 502: bubuqvas:P in pysan
+Case 503: bubudvas:P in pysan
+Case 504: bubundvas:P in pysan
+Case 505: bubunDvas:P in pysan
+Case 506: bubusvas:P in pysan
+Case 507: bubrUvas:P in pysan
+Case 508: buBUrvas:P in pysan
+Case 509: buBruqvas:P in pysan
+Case 510: bedivas:P in pysan
+Case 511: Bremivas:P in pysan
+Case 512: mamakzvas:P in pysan
+Case 513: mamaNGvas:P in pysan
+Case 514: mamaBrvas:P in pysan
+Case 515: mamambvas:P in pysan
+Case 516: mamarjvas:P in pysan
+Case 517: mamarbvas:P in pysan
+Case 518: mamarvvas:P in pysan
+Case 519: mamavyvas:P in pysan
+Case 520: mamANkzvas:P in pysan
+Case 521: mamAqvas:P in pysan
+Case 522: mamAnTvas:P in pysan
+Case 523: mamAnvas:P in pysan
+Case 524: mamArgvas:P in pysan
+Case 525: mamArjvas:P in pysan
+Case 526: mamAhvas:P in pysan
+Case 527: mamfgvas:P in pysan
+Case 528: mamfRvas:P in pysan
+Case 529: mamyakzvas:P in pysan
+Case 530: mamrakzvas:P in pysan
+Case 531: mimiCvas:P in pysan
+Case 532: mimiDvas:P in pysan
+Case 533: mimiSvas:P in pysan
+Case 534: mimisvas:P in pysan
+Case 535: mimInvas:P in pysan
+Case 536: mimIvvas:P in pysan
+Case 537: mimeqvas:P in pysan
+Case 538: mimepvas:P in pysan
+Case 539: mimyivas:P in pysan
+Case 540: mimritvas:P in pysan
+Case 541: mimreqvas:P in pysan
+Case 542: mimleCvas:P in pysan
+Case 543: mimlewvas:P in pysan
+Case 544: mumuCvas:P in pysan
+Case 545: mumujvas:P in pysan
+Case 546: mumuYcvas:P in pysan
+Case 547: mumuwvas:P in pysan
+Case 548: mumuqvas:P in pysan
+Case 549: mumuRqvas:P in pysan
+Case 550: mumuRvas:P in pysan
+Case 551: mumurCvas:P in pysan
+Case 552: mumurvas:P in pysan
+Case 553: mumurvvas:P in pysan
+Case 554: mumUrvas:P in pysan
+Case 555: mumUlvas:P in pysan
+Case 556: mumrucvas:P in pysan
+Case 557: mumruYcvas:P in pysan
+Case 558: mumlucvas:P in pysan
+Case 559: mumluYcvas:P in pysan
+Case 560: meKivas:P in pysan
+Case 561: meWivas:P in pysan
+Case 562: meRivas:P in pysan
+Case 563: meTivas:P in pysan
+Case 564: mevivas:P in pysan
+Case 565: meSivas:P in pysan
+Case 566: mesivas:P in pysan
+Case 567: yayakzvas:P in pysan
+Case 568: yiyezvas:P in pysan
+Case 569: yuyuNgvas:P in pysan
+Case 570: yuyuCvas:P in pysan
+Case 571: yuyupvas:P in pysan
+Case 572: yuyUzvas:P in pysan
+Case 573: yuyOwvas:P in pysan
+Case 574: raraNKvas:P in pysan
+Case 575: raraNgvas:P in pysan
+Case 576: raraRvvas:P in pysan
+Case 577: raranDvas:P in pysan
+Case 578: raramPvas:P in pysan
+Case 579: rarambvas:P in pysan
+Case 580: rarAKvas:P in pysan
+Case 581: rarAjvas:P in pysan
+Case 582: ririKvas:P in pysan
+Case 583: ririNKvas:P in pysan
+Case 584: ririNgvas:P in pysan
+Case 585: ririRvvas:P in pysan
+Case 586: ririPvas:P in pysan
+Case 587: ririBvas:P in pysan
+Case 588: ririmPvas:P in pysan
+Case 589: ririSvas:P in pysan
+Case 590: ririhvas:P in pysan
+Case 591: rirIvas:P in pysan
+Case 592: rirIvvas:P in pysan
+Case 593: rirejvas:P in pysan
+Case 594: rirewvas:P in pysan
+Case 595: ruruMSvas:P in pysan
+Case 596: ruruWvas:P in pysan
+Case 597: ruruRwvas:P in pysan
+Case 598: ruruRWvas:P in pysan
+Case 599: rurupvas:P in pysan
+Case 600: ruruSvas:P in pysan
+Case 601: rurUzvas:P in pysan
+Case 602: ruroqvas:P in pysan
+Case 603: rurOwvas:P in pysan
+Case 604: reKivas:P in pysan
+Case 605: regivas:P in pysan
+Case 606: rewivas:P in pysan
+Case 607: reWivas:P in pysan
+Case 608: repivas:P in pysan
+Case 609: rePivas:P in pysan
+Case 610: resivas:P in pysan
+Case 611: lalaYjvas:P in pysan
+Case 612: lalarbvas:P in pysan
+Case 613: lalAKvas:P in pysan
+Case 614: lalAjvas:P in pysan
+Case 615: lalAYjvas:P in pysan
+Case 616: lalivas:P in pysan
+Case 617: liliKvas:P in pysan
+Case 618: liliNKvas:P in pysan
+Case 619: liliNgvas:P in pysan
+Case 620: lilIvas:P in pysan
+Case 621: lilpIvas:P in pysan
+Case 622: lilvIvas:P in pysan
+Case 623: luluwvas:P in pysan
+Case 624: luluqvas:P in pysan
+Case 625: luluRwvas:P in pysan
+Case 626: lulunTvas:P in pysan
+Case 627: luluzvas:P in pysan
+Case 628: lulUzvas:P in pysan
+Case 629: lulowvas:P in pysan
+Case 630: lulOqvas:P in pysan
+Case 631: leKivas:P in pysan
+Case 632: leCivas:P in pysan
+Case 633: lejivas:P in pysan
+Case 634: lewivas:P in pysan
+Case 635: leqivas:P in pysan
+Case 636: lElERvas:P in pysan
+Case 637: vavakzvas:P in pysan
+Case 638: vavaKvas:P in pysan
+Case 639: vavaNKvas:P in pysan
+Case 640: vavaNgvas:P in pysan
+Case 641: vavajvas:P in pysan
+Case 642: vavawwvas:P in pysan
+Case 643: vavawvas:P in pysan
+Case 644: vavaWvas:P in pysan
+Case 645: vavaqQvas:P in pysan
+Case 646: vavaRwvas:P in pysan
+Case 647: vavaRvas:P in pysan
+Case 648: vavanvas:P in pysan
+Case 649: vavaBrvas:P in pysan
+Case 650: vavarPvas:P in pysan
+Case 651: vavallvas:P in pysan
+Case 652: vavazvas:P in pysan
+Case 653: vavANkzvas:P in pysan
+Case 654: vavfMhvas:P in pysan
+Case 655: vavfRvas:P in pysan
+Case 656: vavfSvas:P in pysan
+Case 657: vavyayvas:P in pysan
+Case 658: vavraRvas:P in pysan
+Case 659: viviwvas:P in pysan
+Case 660: viviqvas:P in pysan
+Case 661: vividivas:P in pysan
+Case 662: vivilvas:P in pysan
+Case 663: viviSivas:P in pysan
+Case 664: vivewyvas:P in pysan
+Case 665: vivenvas:P in pysan
+Case 666: vivellvas:P in pysan
+Case 667: vivelvas:P in pysan
+Case 668: vivesvas:P in pysan
+Case 669: vivehlvas:P in pysan
+Case 670: vivehvas:P in pysan
+Case 671: vivyevas:P in pysan
+Case 672: vivrIvas:P in pysan
+Case 673: vivlIvas:P in pysan
+Case 674: vuvUrvas:P in pysan
+Case 675: vuvyuzvas:P in pysan
+Case 676: vuvruqvas:P in pysan
+Case 677: SaSambvas:P in pysan
+Case 678: SaSarbvas:P in pysan
+Case 679: SaSarvvas:P in pysan
+Case 680: SaSasvas:P in pysan
+Case 681: SaSAKvas:P in pysan
+Case 682: SaSfDvas:P in pysan
+Case 683: SaSnaTvas:P in pysan
+Case 684: SaSraNgvas:P in pysan
+Case 685: SaSrivas:P in pysan
+Case 686: SaSlaNgvas:P in pysan
+Case 687: SaSlaTvas:P in pysan
+Case 688: SaSlAKvas:P in pysan
+Case 689: SaSvaNgvas:P in pysan
+Case 690: SaSvalvas:P in pysan
+Case 691: SaSvAtrvas:P in pysan
+Case 692: SiSiNKvas:P in pysan
+Case 693: SiSiNGvas:P in pysan
+Case 694: SiSiwvas:P in pysan
+Case 695: SiSinvas:P in pysan
+Case 696: SiSilvas:P in pysan
+Case 697: SiSIrvas:P in pysan
+Case 698: SiSelvas:P in pysan
+Case 699: SiSmIlvas:P in pysan
+Case 700: SiSyivas:P in pysan
+Case 701: SiSriyivas:P in pysan
+Case 702: SiSrizvas:P in pysan
+Case 703: SiSrIvas:P in pysan
+Case 704: SiSviyivas:P in pysan
+Case 705: SuSukvas:P in pysan
+Case 706: SuSucyvas:P in pysan
+Case 707: SuSuWvas:P in pysan
+Case 708: SuSuRWvas:P in pysan
+Case 709: SuSuRqvas:P in pysan
+Case 710: SuSunvas:P in pysan
+Case 711: SuSuvas:P in pysan
+Case 712: SuSUlvas:P in pysan
+Case 713: SuSUzvas:P in pysan
+Case 714: SuSoRvas:P in pysan
+Case 715: SuSOwvas:P in pysan
+Case 716: SuScyutvas:P in pysan
+Case 717: SuSroRvas:P in pysan
+Case 718: SuSloRvas:P in pysan
+Case 719: Sewivas:P in pysan
+Case 720: SeWivas:P in pysan
+Case 721: SeRivas:P in pysan
+Case 722: Sevivas:P in pysan
+Case 723: Sezivas:P in pysan
+Case 724: SreTivas:P in pysan
+Case 725: zazazkvas:P in pysan
+Case 726: zazvazkvas:P in pysan
+Case 727: sasakzvas:P in pysan
+Case 728: sasajjvas:P in pysan
+Case 729: sasarjvas:P in pysan
+Case 730: sasarbvas:P in pysan
+Case 731: sasAkzvas:P in pysan
+Case 732: sasADvas:P in pysan
+Case 733: sasfBvas:P in pysan
+Case 734: sastyivas:P in pysan
+Case 735: sasnivas:P in pysan
+Case 736: sasmfvas:P in pysan
+Case 737: sasyanvas:P in pysan
+Case 738: sasvaNgvas:P in pysan
+Case 739: sasvfvas:P in pysan
+Case 740: siziwvas:P in pysan
+Case 741: sizivvas:P in pysan
+Case 742: sizIrvas:P in pysan
+Case 743: sizRihvas:P in pysan
+Case 744: sizyivas:P in pysan
+Case 745: sisriDvas:P in pysan
+Case 746: sisriBvas:P in pysan
+Case 747: sisrivvas:P in pysan
+Case 748: suzuKvas:P in pysan
+Case 749: suzuBvas:P in pysan
+Case 750: suzuhvas:P in pysan
+Case 751: suzUrkzvas:P in pysan
+Case 752: suzUzvas:P in pysan
+Case 753: suzRuhvas:P in pysan
+Case 754: susnuvas:P in pysan
+Case 755: susnusvas:P in pysan
+Case 756: segivas:P in pysan
+Case 757: seGivas:P in pysan
+Case 758: sewivas:P in pysan
+Case 759: semivas:P in pysan
+Case 760: selivas:P in pysan
+Case 761: sesivas:P in pysan
+Case 762: syemivas:P in pysan
+Case 763: svenivas:P in pysan
+--------------------------------------------------
+103 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: anaNgvas:P in huet
+Case 02: anardvas:P in huet
+Case 03: arivas:P in huet
+Case 04: AnaYcvas:P in huet
+Case 05: AnaYjvas:P in huet
+Case 06: ASivas:P in huet
+Case 07: IyNgivas:P in huet
+Case 08: Iynivas:P in huet
+Case 09: Iylivas:P in huet
+Case 10: Irzivas:P in huet
+Case 11: UtkaRWvas:P in huet
+Case 12: Uruzvas:P in huet
+Case 13: Uvivas:P in huet
+Case 14: Usivas:P in huet
+Case 15: fjivas:P in huet
+Case 16: ejivas:P in huet
+Case 17: cakarvas:P in huet
+Case 18: cakvaTvas:P in huet
+Case 19: caKaRqvas:P in huet
+Case 20: caKelvas:P in huet
+Case 21: caKnivas:P in huet
+Case 22: cacakzvas:P in huet
+Case 23: cacCadvas:P in huet
+Case 24: cacCandvas:P in huet
+Case 25: cAkanvas:P in huet
+Case 26: cikivas:P in huet
+Case 27: ciklIbavas:P in huet
+Case 28: cikzivas:P in huet
+Case 29: cikzIvas:P in huet
+Case 30: cukutsvas:P in huet
+Case 31: cucurvas:P in huet
+Case 32: jagarvas:P in huet
+Case 33: jagavezvas:P in huet
+Case 34: jagranTvas:P in huet
+Case 35: jaGawwvas:P in huet
+Case 36: jajarvas:P in huet
+Case 37: jajvarvas:P in huet
+Case 38: jahvarvas:P in huet
+Case 39: jigivas:P in huet
+Case 40: jiGivas:P in huet
+Case 41: jihiMzvas:P in huet
+Case 42: jugUhvas:P in huet
+Case 43: jujUvas:P in huet
+Case 44: jujyutvas:P in huet
+Case 45: juhUvas:P in huet
+Case 46: jeBivas:P in huet
+Case 47: wizWIvvas:P in huet
+Case 48: tatarvas:P in huet
+Case 49: tastarvas:P in huet
+Case 50: dadarvas:P in huet
+Case 51: daDvarvas:P in huet
+Case 52: didIvvas:P in huet
+Case 53: didyutvas:P in huet
+Case 54: nanATvas:P in huet
+Case 55: nasnivas:P in huet
+Case 56: niniYjvas:P in huet
+Case 57: nizRihvas:P in huet
+Case 58: nuzRuvas:P in huet
+Case 59: nuzRuhvas:P in huet
+Case 60: paparvas:P in huet
+Case 61: papalAyvas:P in huet
+Case 62: papracCvas:P in huet
+Case 63: paPalvas:P in huet
+Case 64: pipivas:P in huet
+Case 65: pupUlavas:P in huet
+Case 66: puzPuwvas:P in huet
+Case 67: puzPurvas:P in huet
+Case 68: baBaRqvas:P in huet
+Case 69: baBAsvas:P in huet
+Case 70: baBfjvas:P in huet
+Case 71: bubuDvas:P in huet
+Case 72: mamfvas:P in huet
+Case 73: mamokzvas:P in huet
+Case 74: masmarvas:P in huet
+Case 75: mimivas:P in huet
+Case 76: mimlecCvas:P in huet
+Case 77: mumudvas:P in huet
+Case 78: mumUrCvas:P in huet
+Case 79: menivas:P in huet
+Case 80: yuyuDvas:P in huet
+Case 81: ririvas:P in huet
+Case 82: reDivas:P in huet
+Case 83: lalokvas:P in huet
+Case 84: liliKivas:P in huet
+Case 85: luluRWvas:P in huet
+Case 86: lululvas:P in huet
+Case 87: leBivas:P in huet
+Case 88: vavalvas:P in huet
+Case 89: vavfDvas:P in huet
+Case 90: vavenvas:P in huet
+Case 91: vavrajvas:P in huet
+Case 92: vidvas:P in huet
+Case 93: vivijvas:P in huet
+Case 94: vivyaTvas:P in huet
+Case 95: venivas:P in huet
+Case 96: vemivas:P in huet
+Case 97: SaSarvas:P in huet
+Case 98: SiSrivas:P in huet
+Case 99: SuSUvas:P in huet
+Case 100: Sesivas:P in huet
+Case 101: sasvadvas:P in huet
+Case 102: sizIvvas:P in huet
+Case 103: sizyandvas:P in huet

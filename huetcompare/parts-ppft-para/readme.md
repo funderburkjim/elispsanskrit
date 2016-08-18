@@ -7,6 +7,8 @@ elispsanskrit/pysanskrit.
 ppft = perfect participle
 para = parasmaipada
 
+In pysan, this participle is called a 'reduplicative perfect participle' (rpp).
+
 ```
 python huet_parts.py ../huet/SL_parts.xml ppft para > huet_parts_log.txt
 ```
@@ -19,17 +21,10 @@ gender.  Note that feminine stems have the same 'stem' as the masculine and
 neuter.  Also, there are no case 8 (vocative) forms given in the declensions.
 
 
-Programming note2: We made a couple of adjustments to huet's data to 
-facilitate comparisons.
-* Huet uses a convention for homonym representation. For example there 
-  are two homonyms for `aja`, and these are distinguished as `aja#1` and
-  `aja#2`.   
-* We drop the homonym distinction, leaving just `aja`.
-
 ## generate pysan_stems_ppfta.txt
 
 ```
-python pysan_stems.py ../../grammar/prod/outputs/MW-verb-ppfta.txt ppfta
+python pysan_stems.py ../../grammar/prod/outputs/MW-verb-rpp.txt ppfta 
 ```
 Output file is pysan_stems_ppfta.txt
 
@@ -41,12 +36,11 @@ and class of the participle is omitted in the output.
 
 The input file has records like:
 ```
-:aMS ppfta 10a:(aMSApayizyat aMSayizyat)
+:kf rpp 2a:(cakfvas)
 ```
 which we reformat to be like huet_stems_ppfta.txt, such as
 ```
-aMSayizyat:P
-aMSApayizyat:P
+cakfvas:P
 ```
 
 
@@ -60,6 +54,8 @@ pysan_stems_ppfta.txt
 
 ## Generate pysan conjugations
 
+There is currently no precomputed pysan declensions for these participles.
+The following is just a placeholder for later work.
 ```
 python pysan_parts.py ppfta  ../../grammar/prod/outputs/MW-verb-ppfta-decl.txt
 
@@ -77,6 +73,6 @@ output is compare_decl_tables_ppfta.txt
 
 ## first summary
 
-See [issue#18](https://github.com/funderburkjim/elispsanskrit/issues/18) for some discussion of the comparison.
+See [issue#24](https://github.com/funderburkjim/elispsanskrit/issues/24) for some discussion of the comparison.
 
 

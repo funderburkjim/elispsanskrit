@@ -18,8 +18,8 @@ class MWverb(object):
 
 def mwparse(line):
  """ parse 
-:aMS prap 10a:(aMSApayat aMSayat)
- into a tuple: (aMS,prap,10,P,[aMSApayat,aMSayat])
+:ak rpp 1a:(Akivas)
+ into a tuple: (aMS,rpp,10,P,[Akivas])
  """
  line = line.rstrip('\r\n')
  m = re.search(r'^:(.*?) (.*?) (.*?)(.):\((.*?)\)$',line)
@@ -36,13 +36,17 @@ def mwparse(line):
  values = valuestr.split(' ')
  return (root,partcode,theclass,pada,values)
 
-def main(filein,fileout):
+def main(filein,fileout,voicematch):
+ voice_to_pada = {'a':'P','m':'A'}
+ padamatch=voice_to_pada[voicematch]
  stemdict={}
  stemlist=[]
  n=0
  with codecs.open(filein,"r") as f:
   for line in f:
    (root,partcode,theclass,pada,stems) = mwparse(line)
+   if padamatch != pada:
+    continue
    for stem in stems:
     if stem not in stemdict:
      stemdict[stem]=MWverb(stem)
@@ -70,7 +74,10 @@ def main(filein,fileout):
 if __name__ == "__main__":
  filein = sys.argv[1] #MW-verb-prap.txt
  sfx = sys.argv[2]
+ sfx_to_voice={'ppfta':'a','ppftm':'m'}
+ voice = sfx_to_voice[sfx]
+  
  fileout = "pysan_stems_%s.txt" % sfx
- main(filein,fileout)
+ main(filein,fileout,voice)
 
 
