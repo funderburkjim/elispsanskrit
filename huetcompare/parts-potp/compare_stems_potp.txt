@@ -1,0 +1,5409 @@
+--------------------------------------------------
+1564 cases of STEM IN BOTH
+--------------------------------------------------
+Case 01: aMSayitavya: identical in BOTH
+Case 02: akzaRIya: identical in BOTH
+Case 03: akzitavya: identical in BOTH
+Case 04: akzya: identical in BOTH
+Case 05: aNkayitavya: identical in BOTH
+Case 06: aNkya: identical in BOTH
+Case 07: aNKayitavya: identical in BOTH
+Case 08: aNganIya: identical in BOTH
+Case 09: aNgya: identical in BOTH
+Case 10: ajanIya: identical in BOTH
+Case 11: ajitavya: identical in BOTH
+Case 12: aYcanIya: identical in BOTH
+Case 13: aYcitavya: identical in BOTH
+Case 14: aYjanIya: identical in BOTH
+Case 15: aYjitavya: identical in BOTH
+Case 16: awanIya: identical in BOTH
+Case 17: awitavya: identical in BOTH
+Case 18: atanIya: identical in BOTH
+Case 19: atitavya: identical in BOTH
+Case 20: adanIya: identical in BOTH
+Case 21: ananIya: identical in BOTH
+Case 22: anDayitavya: identical in BOTH
+Case 23: amya: identical in BOTH
+Case 24: ayanIya: identical in BOTH
+Case 25: araRIya: identical in BOTH
+Case 26: argya: identical in BOTH
+Case 27: arcanIya: identical in BOTH
+Case 28: arcitavya: identical in BOTH
+Case 29: arcya: identical in BOTH
+Case 30: arjanIya: identical in BOTH
+Case 31: arjitavya: identical in BOTH
+Case 32: artavya: identical in BOTH
+Case 33: arTanIya: identical in BOTH
+Case 34: arTayitavya: identical in BOTH
+Case 35: arTya: identical in BOTH
+Case 36: ardanIya: identical in BOTH
+Case 37: arditavya: identical in BOTH
+Case 38: ardya: identical in BOTH
+Case 39: arDanIya: identical in BOTH
+Case 40: arDitavya: identical in BOTH
+Case 41: arya: identical in BOTH
+Case 42: arzaRIya: identical in BOTH
+Case 43: arzitavya: identical in BOTH
+Case 44: arhaRIya: identical in BOTH
+Case 45: arhitavya: identical in BOTH
+Case 46: avanIya: identical in BOTH
+Case 47: avitavya: identical in BOTH
+Case 48: aSanIya: identical in BOTH
+Case 49: aSitavya: identical in BOTH
+Case 50: asanIya: identical in BOTH
+Case 51: asitavya: identical in BOTH
+Case 52: Awya: identical in BOTH
+Case 53: Atya: identical in BOTH
+Case 54: Adya: identical in BOTH
+Case 55: Anya: identical in BOTH
+Case 56: ApanIya: identical in BOTH
+Case 57: Aptavya: identical in BOTH
+Case 58: Apya: identical in BOTH
+Case 59: Arya: identical in BOTH
+Case 60: Avya: identical in BOTH
+Case 61: ASya: identical in BOTH
+Case 62: AsanIya: identical in BOTH
+Case 63: Asitavya: identical in BOTH
+Case 64: Asya: identical in BOTH
+Case 65: iNganIya: identical in BOTH
+Case 66: iNgya: identical in BOTH
+Case 67: itya: identical in BOTH
+Case 68: indanIya: identical in BOTH
+Case 69: inditavya: identical in BOTH
+Case 70: indya: identical in BOTH
+Case 71: inDanIya: identical in BOTH
+Case 72: inDitavya: identical in BOTH
+Case 73: inDya: identical in BOTH
+Case 74: invanIya: identical in BOTH
+Case 75: invitavya: identical in BOTH
+Case 76: invya: identical in BOTH
+Case 77: IkzaRIya: identical in BOTH
+Case 78: Ikzitavya: identical in BOTH
+Case 79: Ikzya: identical in BOTH
+Case 80: INKanIya: identical in BOTH
+Case 81: INKitavya: identical in BOTH
+Case 82: INKya: identical in BOTH
+Case 83: IqanIya: identical in BOTH
+Case 84: Iqitavya: identical in BOTH
+Case 85: Iqya: identical in BOTH
+Case 86: IraRIya: identical in BOTH
+Case 87: Iritavya: identical in BOTH
+Case 88: Irya: identical in BOTH
+Case 89: ISanIya: identical in BOTH
+Case 90: ISya: identical in BOTH
+Case 91: IzaRIya: identical in BOTH
+Case 92: Izitavya: identical in BOTH
+Case 93: Izya: identical in BOTH
+Case 94: IhanIya: identical in BOTH
+Case 95: Ihitavya: identical in BOTH
+Case 96: Ihya: identical in BOTH
+Case 97: ukzaRIya: identical in BOTH
+Case 98: ukzitavya: identical in BOTH
+Case 99: ukzya: identical in BOTH
+Case 100: ujJanIya: identical in BOTH
+Case 101: ujJitavya: identical in BOTH
+Case 102: ujJya: identical in BOTH
+Case 103: uYCanIya: identical in BOTH
+Case 104: uYCitavya: identical in BOTH
+Case 105: uYCya: identical in BOTH
+Case 106: udya: identical in BOTH
+Case 107: undanIya: identical in BOTH
+Case 108: unditavya: identical in BOTH
+Case 109: undya: identical in BOTH
+Case 110: UhanIya: identical in BOTH
+Case 111: Uhitavya: identical in BOTH
+Case 112: Uhya: identical in BOTH
+Case 113: fDya: identical in BOTH
+Case 114: egya: identical in BOTH
+Case 115: ejanIya: identical in BOTH
+Case 116: ejitavya: identical in BOTH
+Case 117: etavya: identical in BOTH
+Case 118: eDanIya: identical in BOTH
+Case 119: eDitavya: identical in BOTH
+Case 120: eDya: identical in BOTH
+Case 121: eya: identical in BOTH
+Case 122: elanIya: identical in BOTH
+Case 123: elitavya: identical in BOTH
+Case 124: elya: identical in BOTH
+Case 125: ezaRIya: identical in BOTH
+Case 126: ezitavya: identical in BOTH
+Case 127: ezya: identical in BOTH
+Case 128: okya: identical in BOTH
+Case 129: ocanIya: identical in BOTH
+Case 130: ozaRIya: identical in BOTH
+Case 131: ozitavya: identical in BOTH
+Case 132: ozya: identical in BOTH
+Case 133: kaRqanIya: identical in BOTH
+Case 134: kaRqayitavya: identical in BOTH
+Case 135: kaRqya: identical in BOTH
+Case 136: katTanIya: identical in BOTH
+Case 137: katTitavya: identical in BOTH
+Case 138: katTya: identical in BOTH
+Case 139: kaTanIya: identical in BOTH
+Case 140: kaTayitavya: identical in BOTH
+Case 141: kananIya: identical in BOTH
+Case 142: kampanIya: identical in BOTH
+Case 143: kampitavya: identical in BOTH
+Case 144: kampya: identical in BOTH
+Case 145: karaRIya: identical in BOTH
+Case 146: karitavya: identical in BOTH
+Case 147: karRayitavya: identical in BOTH
+Case 148: kartanIya: identical in BOTH
+Case 149: kartavya: identical in BOTH
+Case 150: kartitavya: identical in BOTH
+Case 151: karttavya: identical in BOTH
+Case 152: karpaRIya: identical in BOTH
+Case 153: karpitavya: identical in BOTH
+Case 154: karSanIya: identical in BOTH
+Case 155: karSitavya: identical in BOTH
+Case 156: karzaRIya: identical in BOTH
+Case 157: karzwavya: identical in BOTH
+Case 158: kalanIya: identical in BOTH
+Case 159: kalayitavya: identical in BOTH
+Case 160: kalpanIya: identical in BOTH
+Case 161: kalpya: identical in BOTH
+Case 162: kavanIya: identical in BOTH
+Case 163: kavya: identical in BOTH
+Case 164: kazaRIya: identical in BOTH
+Case 165: kazitavya: identical in BOTH
+Case 166: kasanIya: identical in BOTH
+Case 167: kasitavya: identical in BOTH
+Case 168: kANkzaRIya: identical in BOTH
+Case 169: kANkzitavya: identical in BOTH
+Case 170: kANkzya: identical in BOTH
+Case 171: kAnya: identical in BOTH
+Case 172: kArya: identical in BOTH
+Case 173: kASanIya: identical in BOTH
+Case 174: kASitavya: identical in BOTH
+Case 175: kASya: identical in BOTH
+Case 176: kAzya: identical in BOTH
+Case 177: kAsya: identical in BOTH
+Case 178: kIrtanIya: identical in BOTH
+Case 179: kIrtayitavya: identical in BOTH
+Case 180: kIrtya: identical in BOTH
+Case 181: kIlanIya: identical in BOTH
+Case 182: kIlitavya: identical in BOTH
+Case 183: kIlya: identical in BOTH
+Case 184: kuwwayitavya: identical in BOTH
+Case 185: kuRWanIya: identical in BOTH
+Case 186: kuRWitavya: identical in BOTH
+Case 187: kuRWya: identical in BOTH
+Case 188: kuRqanIya: identical in BOTH
+Case 189: kuRqitavya: identical in BOTH
+Case 190: kuRqya: identical in BOTH
+Case 191: kutsanIya: identical in BOTH
+Case 192: kutsayitavya: identical in BOTH
+Case 193: kutsya: identical in BOTH
+Case 194: kunTanIya: identical in BOTH
+Case 195: kunTitavya: identical in BOTH
+Case 196: kunTya: identical in BOTH
+Case 197: kupya: identical in BOTH
+Case 198: kUjanIya: identical in BOTH
+Case 199: kUjitavya: identical in BOTH
+Case 200: kftya: identical in BOTH
+Case 201: kfSya: identical in BOTH
+Case 202: kfzya: identical in BOTH
+Case 203: kocanIya: identical in BOTH
+Case 204: kocitavya: identical in BOTH
+Case 205: kowanIya: identical in BOTH
+Case 206: kowitavya: identical in BOTH
+Case 207: kowya: identical in BOTH
+Case 208: kopanIya: identical in BOTH
+Case 209: kopitavya: identical in BOTH
+Case 210: kopya: identical in BOTH
+Case 211: kolanIya: identical in BOTH
+Case 212: kolitavya: identical in BOTH
+Case 213: kolya: identical in BOTH
+Case 214: krandanIya: identical in BOTH
+Case 215: kranditavya: identical in BOTH
+Case 216: krandya: identical in BOTH
+Case 217: kramaRIya: identical in BOTH
+Case 218: kramitavya: identical in BOTH
+Case 219: kramya: identical in BOTH
+Case 220: krayaRIya: identical in BOTH
+Case 221: krIqanIya: identical in BOTH
+Case 222: krIqitavya: identical in BOTH
+Case 223: krIqya: identical in BOTH
+Case 224: kruYcanIya: identical in BOTH
+Case 225: kruYcitavya: identical in BOTH
+Case 226: kretavya: identical in BOTH
+Case 227: kreya: identical in BOTH
+Case 228: krodDavya: identical in BOTH
+Case 229: kroDanIya: identical in BOTH
+Case 230: kroDya: identical in BOTH
+Case 231: kroSanIya: identical in BOTH
+Case 232: kroSya: identical in BOTH
+Case 233: krozwavya: identical in BOTH
+Case 234: klamanIya: identical in BOTH
+Case 235: klamitavya: identical in BOTH
+Case 236: klamya: identical in BOTH
+Case 237: klavanIya: identical in BOTH
+Case 238: klavitavya: identical in BOTH
+Case 239: klAvya: identical in BOTH
+Case 240: kledanIya: identical in BOTH
+Case 241: kleditavya: identical in BOTH
+Case 242: kledya: identical in BOTH
+Case 243: kleSanIya: identical in BOTH
+Case 244: kleSitavya: identical in BOTH
+Case 245: kleSya: identical in BOTH
+Case 246: kvaTanIya: identical in BOTH
+Case 247: kvaTitavya: identical in BOTH
+Case 248: kvATya: identical in BOTH
+Case 249: kzadanIya: identical in BOTH
+Case 250: kzaditavya: identical in BOTH
+Case 251: kzantavya: identical in BOTH
+Case 252: kzapaRIya: identical in BOTH
+Case 253: kzapitavya: identical in BOTH
+Case 254: kzapya: identical in BOTH
+Case 255: kzamaRIya: identical in BOTH
+Case 256: kzamitavya: identical in BOTH
+Case 257: kzamya: identical in BOTH
+Case 258: kzayaRIya: identical in BOTH
+Case 259: kzaraRIya: identical in BOTH
+Case 260: kzaritavya: identical in BOTH
+Case 261: kzavaRIya: identical in BOTH
+Case 262: kzavitavya: identical in BOTH
+Case 263: kzARya: identical in BOTH
+Case 264: kzAdya: identical in BOTH
+Case 265: kzArya: identical in BOTH
+Case 266: kzetavya: identical in BOTH
+Case 267: kzepaRIya: identical in BOTH
+Case 268: kzeptavya: identical in BOTH
+Case 269: kzepya: identical in BOTH
+Case 270: kzeya: identical in BOTH
+Case 271: kzodanIya: identical in BOTH
+Case 272: kzodDavya: identical in BOTH
+Case 273: kzodya: identical in BOTH
+Case 274: kzoDanIya: identical in BOTH
+Case 275: kzoDya: identical in BOTH
+Case 276: kzoBaRIya: identical in BOTH
+Case 277: kzoBitavya: identical in BOTH
+Case 278: kzoBya: identical in BOTH
+Case 279: kzveqanIya: identical in BOTH
+Case 280: kzveqitavya: identical in BOTH
+Case 281: kzveqya: identical in BOTH
+Case 282: KaRqanIya: identical in BOTH
+Case 283: KaRqya: identical in BOTH
+Case 284: KananIya: identical in BOTH
+Case 285: Kanitavya: identical in BOTH
+Case 286: KAdanIya: identical in BOTH
+Case 287: KAditavya: identical in BOTH
+Case 288: KAdya: identical in BOTH
+Case 289: KAnya: identical in BOTH
+Case 290: KedanIya: identical in BOTH
+Case 291: Kedya: identical in BOTH
+Case 292: Keya: identical in BOTH
+Case 293: KelanIya: identical in BOTH
+Case 294: Kelitavya: identical in BOTH
+Case 295: Kelya: identical in BOTH
+Case 296: KyAtavya: identical in BOTH
+Case 297: KyAnIya: identical in BOTH
+Case 298: Kyeya: identical in BOTH
+Case 299: gajanIya: identical in BOTH
+Case 300: gajitavya: identical in BOTH
+Case 301: gaRanIya: identical in BOTH
+Case 302: gaRayitavya: identical in BOTH
+Case 303: gadanIya: identical in BOTH
+Case 304: gaditavya: identical in BOTH
+Case 305: gadya: identical in BOTH
+Case 306: gantavya: identical in BOTH
+Case 307: gamanIya: identical in BOTH
+Case 308: gamya: identical in BOTH
+Case 309: garaRIya: identical in BOTH
+Case 310: garitavya: identical in BOTH
+Case 311: garjanIya: identical in BOTH
+Case 312: garjitavya: identical in BOTH
+Case 313: gardanIya: identical in BOTH
+Case 314: garditavya: identical in BOTH
+Case 315: gardya: identical in BOTH
+Case 316: garDanIya: identical in BOTH
+Case 317: garDitavya: identical in BOTH
+Case 318: garhaRIya: identical in BOTH
+Case 319: garhayitavya: identical in BOTH
+Case 320: garhitavya: identical in BOTH
+Case 321: garhya: identical in BOTH
+Case 322: galanIya: identical in BOTH
+Case 323: galitavya: identical in BOTH
+Case 324: galBanIya: identical in BOTH
+Case 325: galBitavya: identical in BOTH
+Case 326: galBya: identical in BOTH
+Case 327: gAtavya: identical in BOTH
+Case 328: gAdya: identical in BOTH
+Case 329: gAnIya: identical in BOTH
+Case 330: gArya: identical in BOTH
+Case 331: gAlya: identical in BOTH
+Case 332: gAhanIya: identical in BOTH
+Case 333: gAhitavya: identical in BOTH
+Case 334: gAhya: identical in BOTH
+Case 335: guYjanIya: identical in BOTH
+Case 336: guYjitavya: identical in BOTH
+Case 337: gumPanIya: identical in BOTH
+Case 338: gumPitavya: identical in BOTH
+Case 339: gumPya: identical in BOTH
+Case 340: guhya: identical in BOTH
+Case 341: gUhitavya: identical in BOTH
+Case 342: gfDya: identical in BOTH
+Case 343: geya: identical in BOTH
+Case 344: goQavya: identical in BOTH
+Case 345: gopanIya: identical in BOTH
+Case 346: goraRIya: identical in BOTH
+Case 347: goritavya: identical in BOTH
+Case 348: gorya: identical in BOTH
+Case 349: gohya: identical in BOTH
+Case 350: grasanIya: identical in BOTH
+Case 351: grasitavya: identical in BOTH
+Case 352: grahaRIya: identical in BOTH
+Case 353: grAsya: identical in BOTH
+Case 354: grAhya: identical in BOTH
+Case 355: glAtavya: identical in BOTH
+Case 356: gleya: identical in BOTH
+Case 357: GawanIya: identical in BOTH
+Case 358: Gawitavya: identical in BOTH
+Case 359: GawwanIya: identical in BOTH
+Case 360: Gawwayitavya: identical in BOTH
+Case 361: Gawwitavya: identical in BOTH
+Case 362: Gawwya: identical in BOTH
+Case 363: GaraRIya: identical in BOTH
+Case 364: Gartavya: identical in BOTH
+Case 365: GarzaRIya: identical in BOTH
+Case 366: Garzitavya: identical in BOTH
+Case 367: GAwya: identical in BOTH
+Case 368: GAtya: identical in BOTH
+Case 369: GArya: identical in BOTH
+Case 370: GUrRanIya: identical in BOTH
+Case 371: GUrRitavya: identical in BOTH
+Case 372: GUrRya: identical in BOTH
+Case 373: Gfzya: identical in BOTH
+Case 374: GozaRIya: identical in BOTH
+Case 375: Gozitavya: identical in BOTH
+Case 376: Gozya: identical in BOTH
+Case 377: GrARIya: identical in BOTH
+Case 378: GrAtavya: identical in BOTH
+Case 379: Greya: identical in BOTH
+Case 380: cakAsanIya: identical in BOTH
+Case 381: cakAsitavya: identical in BOTH
+Case 382: cakAsya: identical in BOTH
+Case 383: cakzaRIya: identical in BOTH
+Case 384: cakzitavya: identical in BOTH
+Case 385: cakzya: identical in BOTH
+Case 386: caYcanIya: identical in BOTH
+Case 387: caYcitavya: identical in BOTH
+Case 388: cawanIya: identical in BOTH
+Case 389: cawitavya: identical in BOTH
+Case 390: catanIya: identical in BOTH
+Case 391: catitavya: identical in BOTH
+Case 392: candanIya: identical in BOTH
+Case 393: canditavya: identical in BOTH
+Case 394: candya: identical in BOTH
+Case 395: camanIya: identical in BOTH
+Case 396: camitavya: identical in BOTH
+Case 397: camya: identical in BOTH
+Case 398: cayanIya: identical in BOTH
+Case 399: caraRIya: identical in BOTH
+Case 400: caritavya: identical in BOTH
+Case 401: carcayitavya: identical in BOTH
+Case 402: carya: identical in BOTH
+Case 403: calanIya: identical in BOTH
+Case 404: calitavya: identical in BOTH
+Case 405: cAwya: identical in BOTH
+Case 406: cAtya: identical in BOTH
+Case 407: cAyya: identical in BOTH
+Case 408: cArya: identical in BOTH
+Case 409: cAlya: identical in BOTH
+Case 410: cintanIya: identical in BOTH
+Case 411: cintayitavya: identical in BOTH
+Case 412: cintya: identical in BOTH
+Case 413: cumbanIya: identical in BOTH
+Case 414: cumbitavya: identical in BOTH
+Case 415: cumbya: identical in BOTH
+Case 416: cUrRayitavya: identical in BOTH
+Case 417: cUzaRIya: identical in BOTH
+Case 418: cUzitavya: identical in BOTH
+Case 419: cUzya: identical in BOTH
+Case 420: cetanIya: identical in BOTH
+Case 421: cetavya: identical in BOTH
+Case 422: cetitavya: identical in BOTH
+Case 423: cetya: identical in BOTH
+Case 424: ceya: identical in BOTH
+Case 425: cezwanIya: identical in BOTH
+Case 426: cezwitavya: identical in BOTH
+Case 427: cezwya: identical in BOTH
+Case 428: codanIya: identical in BOTH
+Case 429: codya: identical in BOTH
+Case 430: coraRIya: identical in BOTH
+Case 431: corayitavya: identical in BOTH
+Case 432: corya: identical in BOTH
+Case 433: CadanIya: identical in BOTH
+Case 434: Caditavya: identical in BOTH
+Case 435: CAdya: identical in BOTH
+Case 436: CedanIya: identical in BOTH
+Case 437: Cedya: identical in BOTH
+Case 438: jakzaRIya: identical in BOTH
+Case 439: jakzitavya: identical in BOTH
+Case 440: jakzya: identical in BOTH
+Case 441: jananIya: identical in BOTH
+Case 442: janitavya: identical in BOTH
+Case 443: japanIya: identical in BOTH
+Case 444: japitavya: identical in BOTH
+Case 445: japya: identical in BOTH
+Case 446: jaBanIya: identical in BOTH
+Case 447: jaBitavya: identical in BOTH
+Case 448: jaBya: identical in BOTH
+Case 449: jamanIya: identical in BOTH
+Case 450: jamitavya: identical in BOTH
+Case 451: jamya: identical in BOTH
+Case 452: jayanIya: identical in BOTH
+Case 453: jaraRIya: identical in BOTH
+Case 454: jaritavya: identical in BOTH
+Case 455: jalpanIya: identical in BOTH
+Case 456: jalpitavya: identical in BOTH
+Case 457: jalpya: identical in BOTH
+Case 458: jasanIya: identical in BOTH
+Case 459: jasitavya: identical in BOTH
+Case 460: jAgaraRIya: identical in BOTH
+Case 461: jAgArya: identical in BOTH
+Case 462: jAtavya: identical in BOTH
+Case 463: jAnya: identical in BOTH
+Case 464: jArya: identical in BOTH
+Case 465: jAsya: identical in BOTH
+Case 466: jinvanIya: identical in BOTH
+Case 467: jinvitavya: identical in BOTH
+Case 468: jinvya: identical in BOTH
+Case 469: jIvanIya: identical in BOTH
+Case 470: jIvitavya: identical in BOTH
+Case 471: jIvya: identical in BOTH
+Case 472: jfmBaRIya: identical in BOTH
+Case 473: jfmBitavya: identical in BOTH
+Case 474: jfmBya: identical in BOTH
+Case 475: jetavya: identical in BOTH
+Case 476: jeya: identical in BOTH
+Case 477: jozaRIya: identical in BOTH
+Case 478: jozitavya: identical in BOTH
+Case 479: jozya: identical in BOTH
+Case 480: jYAtavya: identical in BOTH
+Case 481: jYAnIya: identical in BOTH
+Case 482: jYeya: identical in BOTH
+Case 483: jyAtavya: identical in BOTH
+Case 484: jyAnIya: identical in BOTH
+Case 485: jyeya: identical in BOTH
+Case 486: jyotanIya: identical in BOTH
+Case 487: jyotitavya: identical in BOTH
+Case 488: jyotya: identical in BOTH
+Case 489: jvalanIya: identical in BOTH
+Case 490: jvalitavya: identical in BOTH
+Case 491: jvAlya: identical in BOTH
+Case 492: qambanIya: identical in BOTH
+Case 493: qambayitavya: identical in BOTH
+Case 494: qambya: identical in BOTH
+Case 495: qayanIya: identical in BOTH
+Case 496: qayitavya: identical in BOTH
+Case 497: qeya: identical in BOTH
+Case 498: takanIya: identical in BOTH
+Case 499: takitavya: identical in BOTH
+Case 500: takzaRIya: identical in BOTH
+Case 501: takzitavya: identical in BOTH
+Case 502: takzya: identical in BOTH
+Case 503: taNkya: identical in BOTH
+Case 504: taYcanIya: identical in BOTH
+Case 505: taYcitavya: identical in BOTH
+Case 506: tananIya: identical in BOTH
+Case 507: tanitavya: identical in BOTH
+Case 508: tandraRIya: identical in BOTH
+Case 509: tandrya: identical in BOTH
+Case 510: tapanIya: identical in BOTH
+Case 511: taptavya: identical in BOTH
+Case 512: tapya: identical in BOTH
+Case 513: tamanIya: identical in BOTH
+Case 514: tamitavya: identical in BOTH
+Case 515: tamya: identical in BOTH
+Case 516: taraRIya: identical in BOTH
+Case 517: taritavya: identical in BOTH
+Case 518: tarkaRIya: identical in BOTH
+Case 519: tarkayitavya: identical in BOTH
+Case 520: tarkya: identical in BOTH
+Case 521: targya: identical in BOTH
+Case 522: tarjanIya: identical in BOTH
+Case 523: tarjitavya: identical in BOTH
+Case 524: tardanIya: identical in BOTH
+Case 525: tarditavya: identical in BOTH
+Case 526: tarpaRIya: identical in BOTH
+Case 527: tarptavya: identical in BOTH
+Case 528: tarzaRIya: identical in BOTH
+Case 529: tarzitavya: identical in BOTH
+Case 530: tAkya: identical in BOTH
+Case 531: tAnya: identical in BOTH
+Case 532: tfdya: identical in BOTH
+Case 533: tfpya: identical in BOTH
+Case 534: tfzya: identical in BOTH
+Case 535: tegya: identical in BOTH
+Case 536: tejanIya: identical in BOTH
+Case 537: tejitavya: identical in BOTH
+Case 538: todanIya: identical in BOTH
+Case 539: todya: identical in BOTH
+Case 540: topanIya: identical in BOTH
+Case 541: topitavya: identical in BOTH
+Case 542: topya: identical in BOTH
+Case 543: tolanIya: identical in BOTH
+Case 544: tolayitavya: identical in BOTH
+Case 545: tozaRIya: identical in BOTH
+Case 546: tozwavya: identical in BOTH
+Case 547: tozya: identical in BOTH
+Case 548: tyaktavya: identical in BOTH
+Case 549: tyajanIya: identical in BOTH
+Case 550: tyAjya: identical in BOTH
+Case 551: trapaRIya: identical in BOTH
+Case 552: trapitavya: identical in BOTH
+Case 553: trapya: identical in BOTH
+Case 554: trasanIya: identical in BOTH
+Case 555: trasitavya: identical in BOTH
+Case 556: trAtavya: identical in BOTH
+Case 557: trAsya: identical in BOTH
+Case 558: treya: identical in BOTH
+Case 559: trowanIya: identical in BOTH
+Case 560: trowitavya: identical in BOTH
+Case 561: trowya: identical in BOTH
+Case 562: tvakzaRIya: identical in BOTH
+Case 563: tvakzitavya: identical in BOTH
+Case 564: tvakzya: identical in BOTH
+Case 565: tvaraRIya: identical in BOTH
+Case 566: tvaritavya: identical in BOTH
+Case 567: tvArya: identical in BOTH
+Case 568: tvezaRIya: identical in BOTH
+Case 569: tvezwavya: identical in BOTH
+Case 570: tvezya: identical in BOTH
+Case 571: tsaraRIya: identical in BOTH
+Case 572: tsaritavya: identical in BOTH
+Case 573: tsArya: identical in BOTH
+Case 574: daMSanIya: identical in BOTH
+Case 575: daMSya: identical in BOTH
+Case 576: dakzaRIya: identical in BOTH
+Case 577: dakzitavya: identical in BOTH
+Case 578: dakzya: identical in BOTH
+Case 579: dagDavya: identical in BOTH
+Case 580: daGanIya: identical in BOTH
+Case 581: daGitavya: identical in BOTH
+Case 582: daBanIya: identical in BOTH
+Case 583: daBitavya: identical in BOTH
+Case 584: daBya: identical in BOTH
+Case 585: damanIya: identical in BOTH
+Case 586: damitavya: identical in BOTH
+Case 587: damya: identical in BOTH
+Case 588: dayanIya: identical in BOTH
+Case 589: dayitavya: identical in BOTH
+Case 590: daraRIya: identical in BOTH
+Case 591: daritavya: identical in BOTH
+Case 592: darpaRIya: identical in BOTH
+Case 593: darptavya: identical in BOTH
+Case 594: darBaRIya: identical in BOTH
+Case 595: darBitavya: identical in BOTH
+Case 596: darSanIya: identical in BOTH
+Case 597: darSya: identical in BOTH
+Case 598: darhaRIya: identical in BOTH
+Case 599: darhitavya: identical in BOTH
+Case 600: dalanIya: identical in BOTH
+Case 601: dalitavya: identical in BOTH
+Case 602: davanIya: identical in BOTH
+Case 603: dasanIya: identical in BOTH
+Case 604: dasitavya: identical in BOTH
+Case 605: dahanIya: identical in BOTH
+Case 606: dAGya: identical in BOTH
+Case 607: dAtavya: identical in BOTH
+Case 608: dAnIya: identical in BOTH
+Case 609: dAyya: identical in BOTH
+Case 610: dArya: identical in BOTH
+Case 611: dAlya: identical in BOTH
+Case 612: dASanIya: identical in BOTH
+Case 613: dASitavya: identical in BOTH
+Case 614: dASya: identical in BOTH
+Case 615: dAsya: identical in BOTH
+Case 616: dAhya: identical in BOTH
+Case 617: dIkzaRIya: identical in BOTH
+Case 618: dIkzitavya: identical in BOTH
+Case 619: dIkzya: identical in BOTH
+Case 620: dIpanIya: identical in BOTH
+Case 621: dIpitavya: identical in BOTH
+Case 622: dIpya: identical in BOTH
+Case 623: duhya: identical in BOTH
+Case 624: dftya: identical in BOTH
+Case 625: dfpya: identical in BOTH
+Case 626: dfBya: identical in BOTH
+Case 627: dfSya: identical in BOTH
+Case 628: dfhya: identical in BOTH
+Case 629: degDavya: identical in BOTH
+Case 630: deya: identical in BOTH
+Case 631: devanIya: identical in BOTH
+Case 632: devayitavya: identical in BOTH
+Case 633: devitavya: identical in BOTH
+Case 634: devya: identical in BOTH
+Case 635: deSanIya: identical in BOTH
+Case 636: deSya: identical in BOTH
+Case 637: dezwavya: identical in BOTH
+Case 638: dehanIya: identical in BOTH
+Case 639: dehya: identical in BOTH
+Case 640: dogDavya: identical in BOTH
+Case 641: dotavya: identical in BOTH
+Case 642: dolayitavya: identical in BOTH
+Case 643: dozaRIya: identical in BOTH
+Case 644: dozwavya: identical in BOTH
+Case 645: dozya: identical in BOTH
+Case 646: dohanIya: identical in BOTH
+Case 647: dohya: identical in BOTH
+Case 648: dyotanIya: identical in BOTH
+Case 649: dyotya: identical in BOTH
+Case 650: dravaRIya: identical in BOTH
+Case 651: drARIya: identical in BOTH
+Case 652: drAtavya: identical in BOTH
+Case 653: dreya: identical in BOTH
+Case 654: drohaRIya: identical in BOTH
+Case 655: drohitavya: identical in BOTH
+Case 656: drohya: identical in BOTH
+Case 657: dvezaRIya: identical in BOTH
+Case 658: dvezwavya: identical in BOTH
+Case 659: dvezya: identical in BOTH
+Case 660: Damya: identical in BOTH
+Case 661: DayanIya: identical in BOTH
+Case 662: DaraRIya: identical in BOTH
+Case 663: Dartavya: identical in BOTH
+Case 664: DarzaRIya: identical in BOTH
+Case 665: Darzitavya: identical in BOTH
+Case 666: DavanIya: identical in BOTH
+Case 667: Davitavya: identical in BOTH
+Case 668: Davya: identical in BOTH
+Case 669: DAtavya: identical in BOTH
+Case 670: DAnIya: identical in BOTH
+Case 671: DArya: identical in BOTH
+Case 672: DAvanIya: identical in BOTH
+Case 673: DAvitavya: identical in BOTH
+Case 674: DAvya: identical in BOTH
+Case 675: DukzaRIya: identical in BOTH
+Case 676: Dukzitavya: identical in BOTH
+Case 677: Dukzya: identical in BOTH
+Case 678: Dfzya: identical in BOTH
+Case 679: Detavya: identical in BOTH
+Case 680: Deya: identical in BOTH
+Case 681: DmAtavya: identical in BOTH
+Case 682: DmAnIya: identical in BOTH
+Case 683: DyAtavya: identical in BOTH
+Case 684: DyAnIya: identical in BOTH
+Case 685: Dyeya: identical in BOTH
+Case 686: DravaRIya: identical in BOTH
+Case 687: Drotavya: identical in BOTH
+Case 688: DvaMsanIya: identical in BOTH
+Case 689: DvaMsitavya: identical in BOTH
+Case 690: DvaMsya: identical in BOTH
+Case 691: DvananIya: identical in BOTH
+Case 692: Dvanitavya: identical in BOTH
+Case 693: DvaraRIya: identical in BOTH
+Case 694: Dvartavya: identical in BOTH
+Case 695: Dvarya: identical in BOTH
+Case 696: DvANkzaRIya: identical in BOTH
+Case 697: DvANkzitavya: identical in BOTH
+Case 698: DvANkzya: identical in BOTH
+Case 699: DvAnya: identical in BOTH
+Case 700: nakzaRIya: identical in BOTH
+Case 701: nakzitavya: identical in BOTH
+Case 702: nakzya: identical in BOTH
+Case 703: nawanIya: identical in BOTH
+Case 704: nawitavya: identical in BOTH
+Case 705: nadanIya: identical in BOTH
+Case 706: naditavya: identical in BOTH
+Case 707: nadDavya: identical in BOTH
+Case 708: nantavya: identical in BOTH
+Case 709: nandanIya: identical in BOTH
+Case 710: nanditavya: identical in BOTH
+Case 711: nandya: identical in BOTH
+Case 712: namanIya: identical in BOTH
+Case 713: namya: identical in BOTH
+Case 714: nayanIya: identical in BOTH
+Case 715: nayitavya: identical in BOTH
+Case 716: nartanIya: identical in BOTH
+Case 717: nartitavya: identical in BOTH
+Case 718: narttavya: identical in BOTH
+Case 719: nardanIya: identical in BOTH
+Case 720: narditavya: identical in BOTH
+Case 721: nardya: identical in BOTH
+Case 722: navanIya: identical in BOTH
+Case 723: navitavya: identical in BOTH
+Case 724: naSanIya: identical in BOTH
+Case 725: naSitavya: identical in BOTH
+Case 726: nazwavya: identical in BOTH
+Case 727: nahanIya: identical in BOTH
+Case 728: nAwya: identical in BOTH
+Case 729: nATanIya: identical in BOTH
+Case 730: nATitavya: identical in BOTH
+Case 731: nATya: identical in BOTH
+Case 732: nAdya: identical in BOTH
+Case 733: nASya: identical in BOTH
+Case 734: nAhya: identical in BOTH
+Case 735: niYjanIya: identical in BOTH
+Case 736: niYjitavya: identical in BOTH
+Case 737: nindanIya: identical in BOTH
+Case 738: ninditavya: identical in BOTH
+Case 739: nindya: identical in BOTH
+Case 740: nftya: identical in BOTH
+Case 741: nektavya: identical in BOTH
+Case 742: netavya: identical in BOTH
+Case 743: neya: identical in BOTH
+Case 744: nodanIya: identical in BOTH
+Case 745: nodya: identical in BOTH
+Case 746: paktavya: identical in BOTH
+Case 747: pacanIya: identical in BOTH
+Case 748: pawanIya: identical in BOTH
+Case 749: pawitavya: identical in BOTH
+Case 750: paWanIya: identical in BOTH
+Case 751: paWitavya: identical in BOTH
+Case 752: paRanIya: identical in BOTH
+Case 753: paRitavya: identical in BOTH
+Case 754: patanIya: identical in BOTH
+Case 755: patitavya: identical in BOTH
+Case 756: paTanIya: identical in BOTH
+Case 757: paTitavya: identical in BOTH
+Case 758: padanIya: identical in BOTH
+Case 759: payanIya: identical in BOTH
+Case 760: paraRIya: identical in BOTH
+Case 761: paritavya: identical in BOTH
+Case 762: parcanIya: identical in BOTH
+Case 763: parcitavya: identical in BOTH
+Case 764: partavya: identical in BOTH
+Case 765: parTanIya: identical in BOTH
+Case 766: parTayitavya: identical in BOTH
+Case 767: parzaRIya: identical in BOTH
+Case 768: parzitavya: identical in BOTH
+Case 769: palAyanIya: identical in BOTH
+Case 770: palAyitavya: identical in BOTH
+Case 771: palAyya: identical in BOTH
+Case 772: pavanIya: identical in BOTH
+Case 773: pavitavya: identical in BOTH
+Case 774: pavya: identical in BOTH
+Case 775: pAkya: identical in BOTH
+Case 776: pAwya: identical in BOTH
+Case 777: pAWya: identical in BOTH
+Case 778: pARya: identical in BOTH
+Case 779: pAtavya: identical in BOTH
+Case 780: pAtya: identical in BOTH
+Case 781: pATya: identical in BOTH
+Case 782: pAdya: identical in BOTH
+Case 783: pAnIya: identical in BOTH
+Case 784: pArya: identical in BOTH
+Case 785: pASayitavya: identical in BOTH
+Case 786: pASya: identical in BOTH
+Case 787: piYjanIya: identical in BOTH
+Case 788: piYjitavya: identical in BOTH
+Case 789: piRqayitavya: identical in BOTH
+Case 790: pIqanIya: identical in BOTH
+Case 791: pIqayitavya: identical in BOTH
+Case 792: pIqya: identical in BOTH
+Case 793: pUjanIya: identical in BOTH
+Case 794: pUjayitavya: identical in BOTH
+Case 795: pUyanIya: identical in BOTH
+Case 796: pUyitavya: identical in BOTH
+Case 797: pUyya: identical in BOTH
+Case 798: pUlayitavya: identical in BOTH
+Case 799: pfcya: identical in BOTH
+Case 800: pfTya: identical in BOTH
+Case 801: pfzya: identical in BOTH
+Case 802: peya: identical in BOTH
+Case 803: peSanIya: identical in BOTH
+Case 804: peSitavya: identical in BOTH
+Case 805: peSya: identical in BOTH
+Case 806: pezaRIya: identical in BOTH
+Case 807: pezwavya: identical in BOTH
+Case 808: pezya: identical in BOTH
+Case 809: poTanIya: identical in BOTH
+Case 810: poTitavya: identical in BOTH
+Case 811: poTya: identical in BOTH
+Case 812: pozaRIya: identical in BOTH
+Case 813: pozwavya: identical in BOTH
+Case 814: pozya: identical in BOTH
+Case 815: pyAtavya: identical in BOTH
+Case 816: pyAnIya: identical in BOTH
+Case 817: pyeya: identical in BOTH
+Case 818: praTanIya: identical in BOTH
+Case 819: praTitavya: identical in BOTH
+Case 820: prayaRIya: identical in BOTH
+Case 821: pravaRIya: identical in BOTH
+Case 822: prARIya: identical in BOTH
+Case 823: prATya: identical in BOTH
+Case 824: pretavya: identical in BOTH
+Case 825: preya: identical in BOTH
+Case 826: protavya: identical in BOTH
+Case 827: plavanIya: identical in BOTH
+Case 828: plotavya: identical in BOTH
+Case 829: plozaRIya: identical in BOTH
+Case 830: plozitavya: identical in BOTH
+Case 831: plozya: identical in BOTH
+Case 832: PalanIya: identical in BOTH
+Case 833: Palitavya: identical in BOTH
+Case 834: PAlya: identical in BOTH
+Case 835: PullanIya: identical in BOTH
+Case 836: Pullitavya: identical in BOTH
+Case 837: Pullya: identical in BOTH
+Case 838: baMhanIya: identical in BOTH
+Case 839: baMhitavya: identical in BOTH
+Case 840: baMhya: identical in BOTH
+Case 841: bandDavya: identical in BOTH
+Case 842: banDanIya: identical in BOTH
+Case 843: banDya: identical in BOTH
+Case 844: barhaRIya: identical in BOTH
+Case 845: barhitavya: identical in BOTH
+Case 846: balanIya: identical in BOTH
+Case 847: balitavya: identical in BOTH
+Case 848: bADanIya: identical in BOTH
+Case 849: bADitavya: identical in BOTH
+Case 850: bADya: identical in BOTH
+Case 851: bAlya: identical in BOTH
+Case 852: bfhya: identical in BOTH
+Case 853: bodDavya: identical in BOTH
+Case 854: boDanIya: identical in BOTH
+Case 855: boDya: identical in BOTH
+Case 856: Baktavya: identical in BOTH
+Case 857: BakzaRIya: identical in BOTH
+Case 858: Bakzitavya: identical in BOTH
+Case 859: Bakzya: identical in BOTH
+Case 860: BajanIya: identical in BOTH
+Case 861: BaYjanIya: identical in BOTH
+Case 862: BaRanIya: identical in BOTH
+Case 863: BaRitavya: identical in BOTH
+Case 864: BaRqanIya: identical in BOTH
+Case 865: BaRqitavya: identical in BOTH
+Case 866: BaRqya: identical in BOTH
+Case 867: BandanIya: identical in BOTH
+Case 868: Banditavya: identical in BOTH
+Case 869: Bandya: identical in BOTH
+Case 870: BayanIya: identical in BOTH
+Case 871: BaraRIya: identical in BOTH
+Case 872: BarjanIya: identical in BOTH
+Case 873: Bartavya: identical in BOTH
+Case 874: BartsanIya: identical in BOTH
+Case 875: Bartsayitavya: identical in BOTH
+Case 876: Bartsya: identical in BOTH
+Case 877: BavanIya: identical in BOTH
+Case 878: Bavitavya: identical in BOTH
+Case 879: BazaRIya: identical in BOTH
+Case 880: BasanIya: identical in BOTH
+Case 881: Basitavya: identical in BOTH
+Case 882: BAgya: identical in BOTH
+Case 883: BARya: identical in BOTH
+Case 884: BAtavya: identical in BOTH
+Case 885: BAnIya: identical in BOTH
+Case 886: BArya: identical in BOTH
+Case 887: BAvya: identical in BOTH
+Case 888: BAzaRIya: identical in BOTH
+Case 889: BAzitavya: identical in BOTH
+Case 890: BAzya: identical in BOTH
+Case 891: BAsanIya: identical in BOTH
+Case 892: BAsitavya: identical in BOTH
+Case 893: BAsya: identical in BOTH
+Case 894: Bidya: identical in BOTH
+Case 895: BUzaRIya: identical in BOTH
+Case 896: BUzitavya: identical in BOTH
+Case 897: BUzya: identical in BOTH
+Case 898: Bftya: identical in BOTH
+Case 899: Betavya: identical in BOTH
+Case 900: Bettavya: identical in BOTH
+Case 901: BedanIya: identical in BOTH
+Case 902: Bedya: identical in BOTH
+Case 903: Beya: identical in BOTH
+Case 904: Boktavya: identical in BOTH
+Case 905: Bogya: identical in BOTH
+Case 906: BojanIya: identical in BOTH
+Case 907: BraMSanIya: identical in BOTH
+Case 908: BraMSitavya: identical in BOTH
+Case 909: BraMSya: identical in BOTH
+Case 910: BramaRIya: identical in BOTH
+Case 911: Bramitavya: identical in BOTH
+Case 912: Bramya: identical in BOTH
+Case 913: BrAgya: identical in BOTH
+Case 914: BrAjanIya: identical in BOTH
+Case 915: BrAjitavya: identical in BOTH
+Case 916: maMhanIya: identical in BOTH
+Case 917: maMhitavya: identical in BOTH
+Case 918: maMhya: identical in BOTH
+Case 919: majjanIya: identical in BOTH
+Case 920: majjitavya: identical in BOTH
+Case 921: maRqanIya: identical in BOTH
+Case 922: maRqitavya: identical in BOTH
+Case 923: maRqya: identical in BOTH
+Case 924: madanIya: identical in BOTH
+Case 925: maditavya: identical in BOTH
+Case 926: mananIya: identical in BOTH
+Case 927: mantavya: identical in BOTH
+Case 928: mantrayitavya: identical in BOTH
+Case 929: manTanIya: identical in BOTH
+Case 930: manTitavya: identical in BOTH
+Case 931: manTya: identical in BOTH
+Case 932: mandanIya: identical in BOTH
+Case 933: manditavya: identical in BOTH
+Case 934: mandya: identical in BOTH
+Case 935: mayanIya: identical in BOTH
+Case 936: maraRIya: identical in BOTH
+Case 937: marqanIya: identical in BOTH
+Case 938: marqitavya: identical in BOTH
+Case 939: martavya: identical in BOTH
+Case 940: mardanIya: identical in BOTH
+Case 941: marditavya: identical in BOTH
+Case 942: marDanIya: identical in BOTH
+Case 943: marDitavya: identical in BOTH
+Case 944: marSanIya: identical in BOTH
+Case 945: marzaRIya: identical in BOTH
+Case 946: marzwavya: identical in BOTH
+Case 947: mahanIya: identical in BOTH
+Case 948: mahitavya: identical in BOTH
+Case 949: mAtavya: identical in BOTH
+Case 950: mAdya: identical in BOTH
+Case 951: mAnIya: identical in BOTH
+Case 952: mAnya: identical in BOTH
+Case 953: mArgaRIya: identical in BOTH
+Case 954: mArgayitavya: identical in BOTH
+Case 955: mArgya: identical in BOTH
+Case 956: mArjanIya: identical in BOTH
+Case 957: mArya: identical in BOTH
+Case 958: mArzwavya: identical in BOTH
+Case 959: mAlayitavya: identical in BOTH
+Case 960: mAhya: identical in BOTH
+Case 961: miSrayitavya: identical in BOTH
+Case 962: mIlanIya: identical in BOTH
+Case 963: mIlitavya: identical in BOTH
+Case 964: mIlya: identical in BOTH
+Case 965: mUzaRIya: identical in BOTH
+Case 966: mUzitavya: identical in BOTH
+Case 967: mUzya: identical in BOTH
+Case 968: mfjya: identical in BOTH
+Case 969: mfqya: identical in BOTH
+Case 970: mfdya: identical in BOTH
+Case 971: mfDya: identical in BOTH
+Case 972: mfSya: identical in BOTH
+Case 973: mfzya: identical in BOTH
+Case 974: meQavya: identical in BOTH
+Case 975: metavya: identical in BOTH
+Case 976: meTanIya: identical in BOTH
+Case 977: meTitavya: identical in BOTH
+Case 978: meTya: identical in BOTH
+Case 979: medanIya: identical in BOTH
+Case 980: meditavya: identical in BOTH
+Case 981: medya: identical in BOTH
+Case 982: meya: identical in BOTH
+Case 983: melanIya: identical in BOTH
+Case 984: melya: identical in BOTH
+Case 985: mezaRIya: identical in BOTH
+Case 986: mezitavya: identical in BOTH
+Case 987: mezya: identical in BOTH
+Case 988: mehanIya: identical in BOTH
+Case 989: mehya: identical in BOTH
+Case 990: moktavya: identical in BOTH
+Case 991: mokya: identical in BOTH
+Case 992: mokzaRIya: identical in BOTH
+Case 993: mokzayitavya: identical in BOTH
+Case 994: mokzitavya: identical in BOTH
+Case 995: mokzya: identical in BOTH
+Case 996: mocanIya: identical in BOTH
+Case 997: modanIya: identical in BOTH
+Case 998: moditavya: identical in BOTH
+Case 999: modya: identical in BOTH
+Case 1000: mozaRIya: identical in BOTH
+Case 1001: mozitavya: identical in BOTH
+Case 1002: mozya: identical in BOTH
+Case 1003: mohanIya: identical in BOTH
+Case 1004: mohitavya: identical in BOTH
+Case 1005: mohya: identical in BOTH
+Case 1006: mnAtavya: identical in BOTH
+Case 1007: mnAnIya: identical in BOTH
+Case 1008: mneya: identical in BOTH
+Case 1009: mlAtavya: identical in BOTH
+Case 1010: mlAnIya: identical in BOTH
+Case 1011: mleya: identical in BOTH
+Case 1012: yajanIya: identical in BOTH
+Case 1013: yatanIya: identical in BOTH
+Case 1014: yatitavya: identical in BOTH
+Case 1015: yantavya: identical in BOTH
+Case 1016: yantrayitavya: identical in BOTH
+Case 1017: yabDavya: identical in BOTH
+Case 1018: yaBanIya: identical in BOTH
+Case 1019: yaBya: identical in BOTH
+Case 1020: yamanIya: identical in BOTH
+Case 1021: yamya: identical in BOTH
+Case 1022: yavitavya: identical in BOTH
+Case 1023: yasanIya: identical in BOTH
+Case 1024: yasitavya: identical in BOTH
+Case 1025: yAcanIya: identical in BOTH
+Case 1026: yAcitavya: identical in BOTH
+Case 1027: yAcya: identical in BOTH
+Case 1028: yAjya: identical in BOTH
+Case 1029: yAtavya: identical in BOTH
+Case 1030: yAtya: identical in BOTH
+Case 1031: yAnIya: identical in BOTH
+Case 1032: yAsya: identical in BOTH
+Case 1033: yugya: identical in BOTH
+Case 1034: yeya: identical in BOTH
+Case 1035: yoktavya: identical in BOTH
+Case 1036: yogya: identical in BOTH
+Case 1037: yojanIya: identical in BOTH
+Case 1038: yodDavya: identical in BOTH
+Case 1039: yoDanIya: identical in BOTH
+Case 1040: yoDya: identical in BOTH
+Case 1041: raMhaRIya: identical in BOTH
+Case 1042: raMhitavya: identical in BOTH
+Case 1043: raMhya: identical in BOTH
+Case 1044: rakzaRIya: identical in BOTH
+Case 1045: rakzitavya: identical in BOTH
+Case 1046: rakzya: identical in BOTH
+Case 1047: raNgya: identical in BOTH
+Case 1048: racanIya: identical in BOTH
+Case 1049: racayitavya: identical in BOTH
+Case 1050: raYjanIya: identical in BOTH
+Case 1051: raRanIya: identical in BOTH
+Case 1052: raRitavya: identical in BOTH
+Case 1053: radanIya: identical in BOTH
+Case 1054: raditavya: identical in BOTH
+Case 1055: radDavya: identical in BOTH
+Case 1056: raDanIya: identical in BOTH
+Case 1057: raDitavya: identical in BOTH
+Case 1058: rantavya: identical in BOTH
+Case 1059: rabDavya: identical in BOTH
+Case 1060: raBaRIya: identical in BOTH
+Case 1061: raBya: identical in BOTH
+Case 1062: ramaRIya: identical in BOTH
+Case 1063: ramya: identical in BOTH
+Case 1064: rayaRIya: identical in BOTH
+Case 1065: ravaRIya: identical in BOTH
+Case 1066: ravitavya: identical in BOTH
+Case 1067: rasayitavya: identical in BOTH
+Case 1068: rahaRIya: identical in BOTH
+Case 1069: rahayitavya: identical in BOTH
+Case 1070: rAjanIya: identical in BOTH
+Case 1071: rAjitavya: identical in BOTH
+Case 1072: rARIya: identical in BOTH
+Case 1073: rARya: identical in BOTH
+Case 1074: rAtavya: identical in BOTH
+Case 1075: rAdya: identical in BOTH
+Case 1076: rADanIya: identical in BOTH
+Case 1077: rADya: identical in BOTH
+Case 1078: rUkzayitavya: identical in BOTH
+Case 1079: rUpaRIya: identical in BOTH
+Case 1080: rUpayitavya: identical in BOTH
+Case 1081: rUpya: identical in BOTH
+Case 1082: rektavya: identical in BOTH
+Case 1083: rekya: identical in BOTH
+Case 1084: recanIya: identical in BOTH
+Case 1085: retavya: identical in BOTH
+Case 1086: reya: identical in BOTH
+Case 1087: rezaRIya: identical in BOTH
+Case 1088: rezitavya: identical in BOTH
+Case 1089: rezwavya: identical in BOTH
+Case 1090: rezya: identical in BOTH
+Case 1091: roktavya: identical in BOTH
+Case 1092: rogya: identical in BOTH
+Case 1093: rocanIya: identical in BOTH
+Case 1094: rocya: identical in BOTH
+Case 1095: rojanIya: identical in BOTH
+Case 1096: roQavya: identical in BOTH
+Case 1097: rodanIya: identical in BOTH
+Case 1098: roditavya: identical in BOTH
+Case 1099: rodDavya: identical in BOTH
+Case 1100: rodya: identical in BOTH
+Case 1101: roDanIya: identical in BOTH
+Case 1102: roDya: identical in BOTH
+Case 1103: rozaRIya: identical in BOTH
+Case 1104: rozitavya: identical in BOTH
+Case 1105: rozwavya: identical in BOTH
+Case 1106: rozya: identical in BOTH
+Case 1107: rohaRIya: identical in BOTH
+Case 1108: rohya: identical in BOTH
+Case 1109: lakzaRIya: identical in BOTH
+Case 1110: lakzayitavya: identical in BOTH
+Case 1111: lakzya: identical in BOTH
+Case 1112: laganIya: identical in BOTH
+Case 1113: lagitavya: identical in BOTH
+Case 1114: laNganIya: identical in BOTH
+Case 1115: laNgitavya: identical in BOTH
+Case 1116: laNgya: identical in BOTH
+Case 1117: laNGanIya: identical in BOTH
+Case 1118: laNGitavya: identical in BOTH
+Case 1119: laNGya: identical in BOTH
+Case 1120: lajjanIya: identical in BOTH
+Case 1121: lajjitavya: identical in BOTH
+Case 1122: lapanIya: identical in BOTH
+Case 1123: lapitavya: identical in BOTH
+Case 1124: lapya: identical in BOTH
+Case 1125: labDavya: identical in BOTH
+Case 1126: laBanIya: identical in BOTH
+Case 1127: laBya: identical in BOTH
+Case 1128: lambanIya: identical in BOTH
+Case 1129: lambitavya: identical in BOTH
+Case 1130: lambya: identical in BOTH
+Case 1131: layanIya: identical in BOTH
+Case 1132: lalanIya: identical in BOTH
+Case 1133: lalitavya: identical in BOTH
+Case 1134: lavanIya: identical in BOTH
+Case 1135: lavitavya: identical in BOTH
+Case 1136: lazaRIya: identical in BOTH
+Case 1137: lazitavya: identical in BOTH
+Case 1138: lasanIya: identical in BOTH
+Case 1139: lasitavya: identical in BOTH
+Case 1140: lAgya: identical in BOTH
+Case 1141: lAYCanIya: identical in BOTH
+Case 1142: lAYCitavya: identical in BOTH
+Case 1143: lAYCya: identical in BOTH
+Case 1144: lAlya: identical in BOTH
+Case 1145: lAzya: identical in BOTH
+Case 1146: lAsya: identical in BOTH
+Case 1147: luYcanIya: identical in BOTH
+Case 1148: luYcitavya: identical in BOTH
+Case 1149: leKanIya: identical in BOTH
+Case 1150: leKitavya: identical in BOTH
+Case 1151: leKya: identical in BOTH
+Case 1152: leQavya: identical in BOTH
+Case 1153: letavya: identical in BOTH
+Case 1154: lepanIya: identical in BOTH
+Case 1155: leptavya: identical in BOTH
+Case 1156: lepya: identical in BOTH
+Case 1157: leya: identical in BOTH
+Case 1158: leSanIya: identical in BOTH
+Case 1159: leSya: identical in BOTH
+Case 1160: lezwavya: identical in BOTH
+Case 1161: lehanIya: identical in BOTH
+Case 1162: lehya: identical in BOTH
+Case 1163: lokanIya: identical in BOTH
+Case 1164: lokayitavya: identical in BOTH
+Case 1165: lokitavya: identical in BOTH
+Case 1166: lokya: identical in BOTH
+Case 1167: locanIya: identical in BOTH
+Case 1168: locitavya: identical in BOTH
+Case 1169: loWanIya: identical in BOTH
+Case 1170: loWitavya: identical in BOTH
+Case 1171: loWya: identical in BOTH
+Case 1172: lopanIya: identical in BOTH
+Case 1173: loptavya: identical in BOTH
+Case 1174: lopya: identical in BOTH
+Case 1175: lobDavya: identical in BOTH
+Case 1176: loBanIya: identical in BOTH
+Case 1177: loBitavya: identical in BOTH
+Case 1178: loBya: identical in BOTH
+Case 1179: vaktavya: identical in BOTH
+Case 1180: vaNkya: identical in BOTH
+Case 1181: vacanIya: identical in BOTH
+Case 1182: vaYcanIya: identical in BOTH
+Case 1183: vaYcitavya: identical in BOTH
+Case 1184: vaYcya: identical in BOTH
+Case 1185: vadanIya: identical in BOTH
+Case 1186: vaditavya: identical in BOTH
+Case 1187: vadya: identical in BOTH
+Case 1188: vananIya: identical in BOTH
+Case 1189: vanitavya: identical in BOTH
+Case 1190: vandanIya: identical in BOTH
+Case 1191: vanditavya: identical in BOTH
+Case 1192: vandya: identical in BOTH
+Case 1193: vapanIya: identical in BOTH
+Case 1194: vaptavya: identical in BOTH
+Case 1195: vapya: identical in BOTH
+Case 1196: vamanIya: identical in BOTH
+Case 1197: vamitavya: identical in BOTH
+Case 1198: vamya: identical in BOTH
+Case 1199: vayanIya: identical in BOTH
+Case 1200: varaRIya: identical in BOTH
+Case 1201: varitavya: identical in BOTH
+Case 1202: varjanIya: identical in BOTH
+Case 1203: varjitavya: identical in BOTH
+Case 1204: varRayitavya: identical in BOTH
+Case 1205: vartanIya: identical in BOTH
+Case 1206: vartitavya: identical in BOTH
+Case 1207: varDanIya: identical in BOTH
+Case 1208: varDitavya: identical in BOTH
+Case 1209: varzaRIya: identical in BOTH
+Case 1210: varzitavya: identical in BOTH
+Case 1211: varzya: identical in BOTH
+Case 1212: varhaRIya: identical in BOTH
+Case 1213: varhitavya: identical in BOTH
+Case 1214: valanIya: identical in BOTH
+Case 1215: valitavya: identical in BOTH
+Case 1216: valganIya: identical in BOTH
+Case 1217: valgitavya: identical in BOTH
+Case 1218: valgya: identical in BOTH
+Case 1219: vaSya: identical in BOTH
+Case 1220: vasanIya: identical in BOTH
+Case 1221: vastavya: identical in BOTH
+Case 1222: vahanIya: identical in BOTH
+Case 1223: vahitavya: identical in BOTH
+Case 1224: vahya: identical in BOTH
+Case 1225: vAkya: identical in BOTH
+Case 1226: vAYCanIya: identical in BOTH
+Case 1227: vAYCitavya: identical in BOTH
+Case 1228: vAYCya: identical in BOTH
+Case 1229: vAtavya: identical in BOTH
+Case 1230: vAdya: identical in BOTH
+Case 1231: vAnIya: identical in BOTH
+Case 1232: vAnya: identical in BOTH
+Case 1233: vArya: identical in BOTH
+Case 1234: vAlya: identical in BOTH
+Case 1235: vASanIya: identical in BOTH
+Case 1236: vASitavya: identical in BOTH
+Case 1237: vASya: identical in BOTH
+Case 1238: vAsayitavya: identical in BOTH
+Case 1239: vAsya: identical in BOTH
+Case 1240: vAhya: identical in BOTH
+Case 1241: vIgya: identical in BOTH
+Case 1242: vIjanIya: identical in BOTH
+Case 1243: vIjitavya: identical in BOTH
+Case 1244: vfjya: identical in BOTH
+Case 1245: vftya: identical in BOTH
+Case 1246: vfDya: identical in BOTH
+Case 1247: vfzya: identical in BOTH
+Case 1248: vfhya: identical in BOTH
+Case 1249: vektavya: identical in BOTH
+Case 1250: vekya: identical in BOTH
+Case 1251: vegya: identical in BOTH
+Case 1252: vecanIya: identical in BOTH
+Case 1253: vejanIya: identical in BOTH
+Case 1254: vetavya: identical in BOTH
+Case 1255: vedanIya: identical in BOTH
+Case 1256: vedya: identical in BOTH
+Case 1257: veDanIya: identical in BOTH
+Case 1258: veDya: identical in BOTH
+Case 1259: venanIya: identical in BOTH
+Case 1260: venitavya: identical in BOTH
+Case 1261: venya: identical in BOTH
+Case 1262: vepanIya: identical in BOTH
+Case 1263: vepya: identical in BOTH
+Case 1264: veya: identical in BOTH
+Case 1265: veSanIya: identical in BOTH
+Case 1266: veSya: identical in BOTH
+Case 1267: vezaRIya: identical in BOTH
+Case 1268: vezwanIya: identical in BOTH
+Case 1269: vezwavya: identical in BOTH
+Case 1270: vezwitavya: identical in BOTH
+Case 1271: vezwya: identical in BOTH
+Case 1272: vezya: identical in BOTH
+Case 1273: voQavya: identical in BOTH
+Case 1274: vyaTanIya: identical in BOTH
+Case 1275: vyaTitavya: identical in BOTH
+Case 1276: vyAtavya: identical in BOTH
+Case 1277: vyATya: identical in BOTH
+Case 1278: vyAnIya: identical in BOTH
+Case 1279: vyeya: identical in BOTH
+Case 1280: vraSkya: identical in BOTH
+Case 1281: vraScanIya: identical in BOTH
+Case 1282: vraScitavya: identical in BOTH
+Case 1283: vrIqanIya: identical in BOTH
+Case 1284: vrIqitavya: identical in BOTH
+Case 1285: vrIqya: identical in BOTH
+Case 1286: SaMsanIya: identical in BOTH
+Case 1287: SaMsya: identical in BOTH
+Case 1288: SakanIya: identical in BOTH
+Case 1289: Saktavya: identical in BOTH
+Case 1290: Sakya: identical in BOTH
+Case 1291: SaNkanIya: identical in BOTH
+Case 1292: SaNkitavya: identical in BOTH
+Case 1293: SaNkya: identical in BOTH
+Case 1294: SadanIya: identical in BOTH
+Case 1295: SapanIya: identical in BOTH
+Case 1296: Saptavya: identical in BOTH
+Case 1297: Sapya: identical in BOTH
+Case 1298: Sabdayitavya: identical in BOTH
+Case 1299: SamanIya: identical in BOTH
+Case 1300: Samitavya: identical in BOTH
+Case 1301: Samya: identical in BOTH
+Case 1302: SayanIya: identical in BOTH
+Case 1303: Sayitavya: identical in BOTH
+Case 1304: SaraRIya: identical in BOTH
+Case 1305: Saritavya: identical in BOTH
+Case 1306: SalanIya: identical in BOTH
+Case 1307: Salitavya: identical in BOTH
+Case 1308: SavanIya: identical in BOTH
+Case 1309: Savya: identical in BOTH
+Case 1310: SaSanIya: identical in BOTH
+Case 1311: SaSitavya: identical in BOTH
+Case 1312: SasanIya: identical in BOTH
+Case 1313: Sasitavya: identical in BOTH
+Case 1314: Sasya: identical in BOTH
+Case 1315: SAtavya: identical in BOTH
+Case 1316: SAdya: identical in BOTH
+Case 1317: SAnIya: identical in BOTH
+Case 1318: SAlya: identical in BOTH
+Case 1319: SASya: identical in BOTH
+Case 1320: SAsanIya: identical in BOTH
+Case 1321: SAsitavya: identical in BOTH
+Case 1322: SAsya: identical in BOTH
+Case 1323: SikzaRIya: identical in BOTH
+Case 1324: Sikzitavya: identical in BOTH
+Case 1325: Sikzya: identical in BOTH
+Case 1326: Sizya: identical in BOTH
+Case 1327: SIlanIya: identical in BOTH
+Case 1328: SIlitavya: identical in BOTH
+Case 1329: SIlya: identical in BOTH
+Case 1330: SumBanIya: identical in BOTH
+Case 1331: SumBitavya: identical in BOTH
+Case 1332: SumBya: identical in BOTH
+Case 1333: Setavya: identical in BOTH
+Case 1334: Seya: identical in BOTH
+Case 1335: SezaRIya: identical in BOTH
+Case 1336: Sezwavya: identical in BOTH
+Case 1337: Sezya: identical in BOTH
+Case 1338: Sokya: identical in BOTH
+Case 1339: SocanIya: identical in BOTH
+Case 1340: Socitavya: identical in BOTH
+Case 1341: SodDavya: identical in BOTH
+Case 1342: SoDanIya: identical in BOTH
+Case 1343: SoDya: identical in BOTH
+Case 1344: SoBanIya: identical in BOTH
+Case 1345: SoBitavya: identical in BOTH
+Case 1346: SoBya: identical in BOTH
+Case 1347: SozaRIya: identical in BOTH
+Case 1348: Sozwavya: identical in BOTH
+Case 1349: Sozya: identical in BOTH
+Case 1350: ScotanIya: identical in BOTH
+Case 1351: Scotitavya: identical in BOTH
+Case 1352: Scotya: identical in BOTH
+Case 1353: SyAtavya: identical in BOTH
+Case 1354: SyAnIya: identical in BOTH
+Case 1355: Syeya: identical in BOTH
+Case 1356: SramaRIya: identical in BOTH
+Case 1357: Sramitavya: identical in BOTH
+Case 1358: SramBaRIya: identical in BOTH
+Case 1359: SramBya: identical in BOTH
+Case 1360: Sramya: identical in BOTH
+Case 1361: SrayaRIya: identical in BOTH
+Case 1362: Srayitavya: identical in BOTH
+Case 1363: SravaRIya: identical in BOTH
+Case 1364: Sreya: identical in BOTH
+Case 1365: Srotavya: identical in BOTH
+Case 1366: SlAGanIya: identical in BOTH
+Case 1367: SlAGitavya: identical in BOTH
+Case 1368: SlAGya: identical in BOTH
+Case 1369: SlezaRIya: identical in BOTH
+Case 1370: Slezwavya: identical in BOTH
+Case 1371: Slezya: identical in BOTH
+Case 1372: Svayitavya: identical in BOTH
+Case 1373: SvasanIya: identical in BOTH
+Case 1374: Svasitavya: identical in BOTH
+Case 1375: SvAsya: identical in BOTH
+Case 1376: SvetanIya: identical in BOTH
+Case 1377: Svetitavya: identical in BOTH
+Case 1378: Svetya: identical in BOTH
+Case 1379: sacanIya: identical in BOTH
+Case 1380: sacitavya: identical in BOTH
+Case 1381: saYjanIya: identical in BOTH
+Case 1382: sadanIya: identical in BOTH
+Case 1383: sananIya: identical in BOTH
+Case 1384: sanitavya: identical in BOTH
+Case 1385: sapanIya: identical in BOTH
+Case 1386: sapitavya: identical in BOTH
+Case 1387: sapya: identical in BOTH
+Case 1388: saraRIya: identical in BOTH
+Case 1389: sarjanIya: identical in BOTH
+Case 1390: sartavya: identical in BOTH
+Case 1391: sarpaRIya: identical in BOTH
+Case 1392: sarptavya: identical in BOTH
+Case 1393: savanIya: identical in BOTH
+Case 1394: savitavya: identical in BOTH
+Case 1395: sahya: identical in BOTH
+Case 1396: sAkya: identical in BOTH
+Case 1397: sAtavya: identical in BOTH
+Case 1398: sAdya: identical in BOTH
+Case 1399: sAnIya: identical in BOTH
+Case 1400: sAntvayitavya: identical in BOTH
+Case 1401: sAnya: identical in BOTH
+Case 1402: sArya: identical in BOTH
+Case 1403: sUcanIya: identical in BOTH
+Case 1404: sUcayitavya: identical in BOTH
+Case 1405: sUtrayitavya: identical in BOTH
+Case 1406: sUdanIya: identical in BOTH
+Case 1407: sUdayitavya: identical in BOTH
+Case 1408: sUdya: identical in BOTH
+Case 1409: sfjya: identical in BOTH
+Case 1410: sfpya: identical in BOTH
+Case 1411: sektavya: identical in BOTH
+Case 1412: sekya: identical in BOTH
+Case 1413: secanIya: identical in BOTH
+Case 1414: setavya: identical in BOTH
+Case 1415: sedDavya: identical in BOTH
+Case 1416: seDanIya: identical in BOTH
+Case 1417: seDya: identical in BOTH
+Case 1418: sevanIya: identical in BOTH
+Case 1419: sevitavya: identical in BOTH
+Case 1420: sevya: identical in BOTH
+Case 1421: sotavya: identical in BOTH
+Case 1422: soraRIya: identical in BOTH
+Case 1423: soritavya: identical in BOTH
+Case 1424: sorya: identical in BOTH
+Case 1425: skandanIya: identical in BOTH
+Case 1426: skandya: identical in BOTH
+Case 1427: skamBanIya: identical in BOTH
+Case 1428: skamBitavya: identical in BOTH
+Case 1429: skamBya: identical in BOTH
+Case 1430: sKalanIya: identical in BOTH
+Case 1431: sKalitavya: identical in BOTH
+Case 1432: sKAlya: identical in BOTH
+Case 1433: stananIya: identical in BOTH
+Case 1434: stanitavya: identical in BOTH
+Case 1435: stamBanIya: identical in BOTH
+Case 1436: stamBitavya: identical in BOTH
+Case 1437: stamBya: identical in BOTH
+Case 1438: staraRIya: identical in BOTH
+Case 1439: starya: identical in BOTH
+Case 1440: stavanIya: identical in BOTH
+Case 1441: stAnya: identical in BOTH
+Case 1442: stAvya: identical in BOTH
+Case 1443: stutya: identical in BOTH
+Case 1444: stenayitavya: identical in BOTH
+Case 1445: stotavya: identical in BOTH
+Case 1446: stoBanIya: identical in BOTH
+Case 1447: stoBitavya: identical in BOTH
+Case 1448: stoBya: identical in BOTH
+Case 1449: styAtavya: identical in BOTH
+Case 1450: styAnIya: identical in BOTH
+Case 1451: styeya: identical in BOTH
+Case 1452: sTAtavya: identical in BOTH
+Case 1453: sTAnIya: identical in BOTH
+Case 1454: sTeya: identical in BOTH
+Case 1455: snavanIya: identical in BOTH
+Case 1456: snavitavya: identical in BOTH
+Case 1457: snAtavya: identical in BOTH
+Case 1458: snAnIya: identical in BOTH
+Case 1459: sneya: identical in BOTH
+Case 1460: snehanIya: identical in BOTH
+Case 1461: snehitavya: identical in BOTH
+Case 1462: snehya: identical in BOTH
+Case 1463: snohanIya: identical in BOTH
+Case 1464: snohitavya: identical in BOTH
+Case 1465: snohya: identical in BOTH
+Case 1466: spandanIya: identical in BOTH
+Case 1467: spanditavya: identical in BOTH
+Case 1468: spandya: identical in BOTH
+Case 1469: sparDanIya: identical in BOTH
+Case 1470: sparDitavya: identical in BOTH
+Case 1471: sparDya: identical in BOTH
+Case 1472: sparSanIya: identical in BOTH
+Case 1473: sparzwavya: identical in BOTH
+Case 1474: spfSya: identical in BOTH
+Case 1475: spfhayitavya: identical in BOTH
+Case 1476: spfhya: identical in BOTH
+Case 1477: sPalanIya: identical in BOTH
+Case 1478: sPalitavya: identical in BOTH
+Case 1479: sPAlya: identical in BOTH
+Case 1480: sPowanIya: identical in BOTH
+Case 1481: sPowya: identical in BOTH
+Case 1482: sPoraRIya: identical in BOTH
+Case 1483: sPorya: identical in BOTH
+Case 1484: smayanIya: identical in BOTH
+Case 1485: smaraRIya: identical in BOTH
+Case 1486: smartavya: identical in BOTH
+Case 1487: smArya: identical in BOTH
+Case 1488: smetavya: identical in BOTH
+Case 1489: smeya: identical in BOTH
+Case 1490: syandanIya: identical in BOTH
+Case 1491: syanditavya: identical in BOTH
+Case 1492: syandya: identical in BOTH
+Case 1493: sraMsanIya: identical in BOTH
+Case 1494: sraMsitavya: identical in BOTH
+Case 1495: sraMsya: identical in BOTH
+Case 1496: sravaRIya: identical in BOTH
+Case 1497: srazwavya: identical in BOTH
+Case 1498: srotavya: identical in BOTH
+Case 1499: svaNgya: identical in BOTH
+Case 1500: svadanIya: identical in BOTH
+Case 1501: svaditavya: identical in BOTH
+Case 1502: svananIya: identical in BOTH
+Case 1503: svanitavya: identical in BOTH
+Case 1504: svapanIya: identical in BOTH
+Case 1505: svaptavya: identical in BOTH
+Case 1506: svapya: identical in BOTH
+Case 1507: svaraRIya: identical in BOTH
+Case 1508: svaritavya: identical in BOTH
+Case 1509: svAdya: identical in BOTH
+Case 1510: svAnya: identical in BOTH
+Case 1511: svArya: identical in BOTH
+Case 1512: svedanIya: identical in BOTH
+Case 1513: svedya: identical in BOTH
+Case 1514: haWanIya: identical in BOTH
+Case 1515: haWitavya: identical in BOTH
+Case 1516: hadanIya: identical in BOTH
+Case 1517: hananIya: identical in BOTH
+Case 1518: hantavya: identical in BOTH
+Case 1519: hayanIya: identical in BOTH
+Case 1520: haraRIya: identical in BOTH
+Case 1521: hartavya: identical in BOTH
+Case 1522: harzaRIya: identical in BOTH
+Case 1523: harzitavya: identical in BOTH
+Case 1524: havanIya: identical in BOTH
+Case 1525: hasanIya: identical in BOTH
+Case 1526: hasitavya: identical in BOTH
+Case 1527: hAWya: identical in BOTH
+Case 1528: hAtavya: identical in BOTH
+Case 1529: hAdya: identical in BOTH
+Case 1530: hAnIya: identical in BOTH
+Case 1531: hArya: identical in BOTH
+Case 1532: hAsya: identical in BOTH
+Case 1533: hiMsanIya: identical in BOTH
+Case 1534: hiMsitavya: identical in BOTH
+Case 1535: hikkanIya: identical in BOTH
+Case 1536: hikkitavya: identical in BOTH
+Case 1537: hikkya: identical in BOTH
+Case 1538: huRqanIya: identical in BOTH
+Case 1539: huRqitavya: identical in BOTH
+Case 1540: huRqya: identical in BOTH
+Case 1541: hfzya: identical in BOTH
+Case 1542: hetavya: identical in BOTH
+Case 1543: heya: identical in BOTH
+Case 1544: hotavya: identical in BOTH
+Case 1545: hnavanIya: identical in BOTH
+Case 1546: hnotavya: identical in BOTH
+Case 1547: hrayaRIya: identical in BOTH
+Case 1548: hrasanIya: identical in BOTH
+Case 1549: hrasitavya: identical in BOTH
+Case 1550: hrAdanIya: identical in BOTH
+Case 1551: hrAditavya: identical in BOTH
+Case 1552: hrAdya: identical in BOTH
+Case 1553: hrAsya: identical in BOTH
+Case 1554: hreya: identical in BOTH
+Case 1555: hlAdanIya: identical in BOTH
+Case 1556: hlAditavya: identical in BOTH
+Case 1557: hlAdya: identical in BOTH
+Case 1558: hvaraRIya: identical in BOTH
+Case 1559: hvartavya: identical in BOTH
+Case 1560: hvalanIya: identical in BOTH
+Case 1561: hvalitavya: identical in BOTH
+Case 1562: hvAtavya: identical in BOTH
+Case 1563: hvArya: identical in BOTH
+Case 1564: hvAlya: identical in BOTH
+--------------------------------------------------
+3430 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMSanIya: in pysan
+Case 02: aMSApanIya: in pysan
+Case 03: aMSApayitavya: in pysan
+Case 04: aMSya: in pysan
+Case 05: aMsanIya: in pysan
+Case 06: aMsayitavya: in pysan
+Case 07: aMsApanIya: in pysan
+Case 08: aMsApayitavya: in pysan
+Case 09: aMsya: in pysan
+Case 10: aMhanIya: in pysan
+Case 11: aMhayitavya: in pysan
+Case 12: aMhitavya: in pysan
+Case 13: aMhya: in pysan
+Case 14: akanIya: in pysan
+Case 15: akitavya: in pysan
+Case 16: aganIya: in pysan
+Case 17: agitavya: in pysan
+Case 18: aGanIya: in pysan
+Case 19: aGayitavya: in pysan
+Case 20: aNkanIya: in pysan
+Case 21: aNkitavya: in pysan
+Case 22: aNKanIya: in pysan
+Case 23: aNKya: in pysan
+Case 24: aNgayitavya: in pysan
+Case 25: aNGanIya: in pysan
+Case 26: aNGitavya: in pysan
+Case 27: aNGya: in pysan
+Case 28: acanIya: in pysan
+Case 29: acitavya: in pysan
+Case 30: aYkya: in pysan
+Case 31: aYgya: in pysan
+Case 32: aYcayitavya: in pysan
+Case 33: awwanIya: in pysan
+Case 34: awwayitavya: in pysan
+Case 35: awwitavya: in pysan
+Case 36: awwya: in pysan
+Case 37: aWanIya: in pysan
+Case 38: aWitavya: in pysan
+Case 39: aqanIya: in pysan
+Case 40: aqitavya: in pysan
+Case 41: aqqanIya: in pysan
+Case 42: aqqitavya: in pysan
+Case 43: aqqya: in pysan
+Case 44: aRanIya: in pysan
+Case 45: aRitavya: in pysan
+Case 46: aRWanIya: in pysan
+Case 47: aRWitavya: in pysan
+Case 48: aRWya: in pysan
+Case 49: anitavya: in pysan
+Case 50: antanIya: in pysan
+Case 51: antitavya: in pysan
+Case 52: antya: in pysan
+Case 53: andanIya: in pysan
+Case 54: anditavya: in pysan
+Case 55: andya: in pysan
+Case 56: anDanIya: in pysan
+Case 57: anDya: in pysan
+Case 58: annavya: in pysan
+Case 59: aBraRIya: in pysan
+Case 60: aBritavya: in pysan
+Case 61: aBrya: in pysan
+Case 62: amanIya: in pysan
+Case 63: amitavya: in pysan
+Case 64: ambanIya: in pysan
+Case 65: ambitavya: in pysan
+Case 66: ambya: in pysan
+Case 67: ayitavya: in pysan
+Case 68: arkya: in pysan
+Case 69: arCanIya: in pysan
+Case 70: arCitavya: in pysan
+Case 71: arCya: in pysan
+Case 72: arRanIya: in pysan
+Case 73: arRitavya: in pysan
+Case 74: arRya: in pysan
+Case 75: artanIya: in pysan
+Case 76: artitavya: in pysan
+Case 77: artya: in pysan
+Case 78: arTitavya: in pysan
+Case 79: arDya: in pysan
+Case 80: arPaRIya: in pysan
+Case 81: arPitavya: in pysan
+Case 82: arPya: in pysan
+Case 83: arbaRIya: in pysan
+Case 84: arbitavya: in pysan
+Case 85: arbya: in pysan
+Case 86: arvaRIya: in pysan
+Case 87: arvitavya: in pysan
+Case 88: arvya: in pysan
+Case 89: arzya: in pysan
+Case 90: arhya: in pysan
+Case 91: alanIya: in pysan
+Case 92: alitavya: in pysan
+Case 93: avalokanIya: in pysan
+Case 94: avalokayitavya: in pysan
+Case 95: avalokitavya: in pysan
+Case 96: avalokya: in pysan
+Case 97: avya: in pysan
+Case 98: azaRIya: in pysan
+Case 99: azitavya: in pysan
+Case 100: ahanIya: in pysan
+Case 101: ahitavya: in pysan
+Case 102: Akya: in pysan
+Case 103: Agya: in pysan
+Case 104: AGya: in pysan
+Case 105: AWya: in pysan
+Case 106: Aqya: in pysan
+Case 107: ARya: in pysan
+Case 108: Amya: in pysan
+Case 109: Ayya: in pysan
+Case 110: Alya: in pysan
+Case 111: Azya: in pysan
+Case 112: Ahya: in pysan
+Case 113: iNKanIya: in pysan
+Case 114: iNKitavya: in pysan
+Case 115: iNKya: in pysan
+Case 116: iNgitavya: in pysan
+Case 117: IKanIya: in pysan
+Case 118: IKitavya: in pysan
+Case 119: IKya: in pysan
+Case 120: Igya: in pysan
+Case 121: IjanIya: in pysan
+Case 122: Ijitavya: in pysan
+Case 123: IntanIya: in pysan
+Case 124: Intitavya: in pysan
+Case 125: Intya: in pysan
+Case 126: IrzyaRIya: in pysan
+Case 127: Irzyitavya: in pysan
+Case 128: Irzyya: in pysan
+Case 129: ISitavya: in pysan
+Case 130: uNKanIya: in pysan
+Case 131: uNKitavya: in pysan
+Case 132: uNKya: in pysan
+Case 133: uDrasanIya: in pysan
+Case 134: uDrasitavya: in pysan
+Case 135: uDrAsanIya: in pysan
+Case 136: uDrAsayitavya: in pysan
+Case 137: uDrAsya: in pysan
+Case 138: upAraRIya: in pysan
+Case 139: upAritavya: in pysan
+Case 140: upArya: in pysan
+Case 141: ubgya: in pysan
+Case 142: ubjanIya: in pysan
+Case 143: ubjitavya: in pysan
+Case 144: ulAqanIya: in pysan
+Case 145: ulAqayitavya: in pysan
+Case 146: ulAqya: in pysan
+Case 147: UyanIya: in pysan
+Case 148: Uyitavya: in pysan
+Case 149: Uyya: in pysan
+Case 150: UrRavanIya: in pysan
+Case 151: UrRavitavya: in pysan
+Case 152: UrRAvya: in pysan
+Case 153: UrRoya: in pysan
+Case 154: UrdanIya: in pysan
+Case 155: Urditavya: in pysan
+Case 156: Urdya: in pysan
+Case 157: UrvaRIya: in pysan
+Case 158: Urvitavya: in pysan
+Case 159: Urvya: in pysan
+Case 160: UzaRIya: in pysan
+Case 161: Uzitavya: in pysan
+Case 162: Uzya: in pysan
+Case 163: fcya: in pysan
+Case 164: fCya: in pysan
+Case 165: fjya: in pysan
+Case 166: fYgya: in pysan
+Case 167: fYjanIya: in pysan
+Case 168: fYjitavya: in pysan
+Case 169: fRya: in pysan
+Case 170: ftya: in pysan
+Case 171: fPya: in pysan
+Case 172: fzya: in pysan
+Case 173: eKanIya: in pysan
+Case 174: eKitavya: in pysan
+Case 175: eKya: in pysan
+Case 176: ewanIya: in pysan
+Case 177: ewitavya: in pysan
+Case 178: ewya: in pysan
+Case 179: eWanIya: in pysan
+Case 180: eWitavya: in pysan
+Case 181: eWya: in pysan
+Case 182: eraRIya: in pysan
+Case 183: eritavya: in pysan
+Case 184: erya: in pysan
+Case 185: elayitavya: in pysan
+Case 186: oKanIya: in pysan
+Case 187: oKitavya: in pysan
+Case 188: oKya: in pysan
+Case 189: ogya: in pysan
+Case 190: ocitavya: in pysan
+Case 191: oCanIya: in pysan
+Case 192: oCitavya: in pysan
+Case 193: oCya: in pysan
+Case 194: ojanIya: in pysan
+Case 195: ojayitavya: in pysan
+Case 196: ojitavya: in pysan
+Case 197: oWanIya: in pysan
+Case 198: oWitavya: in pysan
+Case 199: oWya: in pysan
+Case 200: oRanIya: in pysan
+Case 201: oRitavya: in pysan
+Case 202: oRya: in pysan
+Case 203: otavya: in pysan
+Case 204: odanIya: in pysan
+Case 205: oditavya: in pysan
+Case 206: odya: in pysan
+Case 207: oBanIya: in pysan
+Case 208: oBitavya: in pysan
+Case 209: oBya: in pysan
+Case 210: oya: in pysan
+Case 211: olaRqanIya: in pysan
+Case 212: olaRqayitavya: in pysan
+Case 213: olaRqitavya: in pysan
+Case 214: olaRqya: in pysan
+Case 215: ohanIya: in pysan
+Case 216: ohitavya: in pysan
+Case 217: ohya: in pysan
+Case 218: kaMsanIya: in pysan
+Case 219: kaMsitavya: in pysan
+Case 220: kaMsya: in pysan
+Case 221: kakanIya: in pysan
+Case 222: kakitavya: in pysan
+Case 223: kaKanIya: in pysan
+Case 224: kaKitavya: in pysan
+Case 225: kaganIya: in pysan
+Case 226: kagitavya: in pysan
+Case 227: kaNkanIya: in pysan
+Case 228: kaNkitavya: in pysan
+Case 229: kaNkya: in pysan
+Case 230: kacanIya: in pysan
+Case 231: kacitavya: in pysan
+Case 232: kajanIya: in pysan
+Case 233: kajitavya: in pysan
+Case 234: kaYkya: in pysan
+Case 235: kaYcanIya: in pysan
+Case 236: kaYcitavya: in pysan
+Case 237: kawanIya: in pysan
+Case 238: kawitavya: in pysan
+Case 239: kawwanIya: in pysan
+Case 240: kawwayitavya: in pysan
+Case 241: kawwya: in pysan
+Case 242: kaWanIya: in pysan
+Case 243: kaWitavya: in pysan
+Case 244: kaqanIya: in pysan
+Case 245: kaqitavya: in pysan
+Case 246: kaqqanIya: in pysan
+Case 247: kaqqitavya: in pysan
+Case 248: kaqqya: in pysan
+Case 249: kaRanIya: in pysan
+Case 250: kaRitavya: in pysan
+Case 251: kaRwanIya: in pysan
+Case 252: kaRwitavya: in pysan
+Case 253: kaRwya: in pysan
+Case 254: kaRWanIya: in pysan
+Case 255: kaRWayitavya: in pysan
+Case 256: kaRWitavya: in pysan
+Case 257: kaRWya: in pysan
+Case 258: kaRqitavya: in pysan
+Case 259: katraRIya: in pysan
+Case 260: katrayitavya: in pysan
+Case 261: katrya: in pysan
+Case 262: kadanIya: in pysan
+Case 263: kaditavya: in pysan
+Case 264: kanitavya: in pysan
+Case 265: kandanIya: in pysan
+Case 266: kanditavya: in pysan
+Case 267: kandya: in pysan
+Case 268: kabanIya: in pysan
+Case 269: kabitavya: in pysan
+Case 270: kabya: in pysan
+Case 271: kamanIya: in pysan
+Case 272: kamitavya: in pysan
+Case 273: kambanIya: in pysan
+Case 274: kambitavya: in pysan
+Case 275: kambya: in pysan
+Case 276: kamya: in pysan
+Case 277: kayanIya: in pysan
+Case 278: kargya: in pysan
+Case 279: karjanIya: in pysan
+Case 280: karjitavya: in pysan
+Case 281: karRanIya: in pysan
+Case 282: karRya: in pysan
+Case 283: kartya: in pysan
+Case 284: kartraRIya: in pysan
+Case 285: kartrayitavya: in pysan
+Case 286: kartrya: in pysan
+Case 287: kardanIya: in pysan
+Case 288: karditavya: in pysan
+Case 289: kardya: in pysan
+Case 290: karpya: in pysan
+Case 291: karbaRIya: in pysan
+Case 292: karbitavya: in pysan
+Case 293: karbya: in pysan
+Case 294: karya: in pysan
+Case 295: karvaRIya: in pysan
+Case 296: karvitavya: in pysan
+Case 297: karvya: in pysan
+Case 298: karSya: in pysan
+Case 299: karzya: in pysan
+Case 300: kalitavya: in pysan
+Case 301: kalpitavya: in pysan
+Case 302: kalptavya: in pysan
+Case 303: kallanIya: in pysan
+Case 304: kallitavya: in pysan
+Case 305: kallya: in pysan
+Case 306: kavitavya: in pysan
+Case 307: kaSanIya: in pysan
+Case 308: kaSitavya: in pysan
+Case 309: kAMsanIya: in pysan
+Case 310: kAMsitavya: in pysan
+Case 311: kAMsya: in pysan
+Case 312: kAkya: in pysan
+Case 313: kAKya: in pysan
+Case 314: kAgya: in pysan
+Case 315: kAYkya: in pysan
+Case 316: kAYcanIya: in pysan
+Case 317: kAYcitavya: in pysan
+Case 318: kAwya: in pysan
+Case 319: kAWya: in pysan
+Case 320: kAqya: in pysan
+Case 321: kARanIya: in pysan
+Case 322: kARayitavya: in pysan
+Case 323: kARya: in pysan
+Case 324: kAtavya: in pysan
+Case 325: kATya: in pysan
+Case 326: kAdya: in pysan
+Case 327: kAnIya: in pysan
+Case 328: kAbya: in pysan
+Case 329: kAmya: in pysan
+Case 330: kAraRIya: in pysan
+Case 331: kArayitavya: in pysan
+Case 332: kAlanIya: in pysan
+Case 333: kAlayitavya: in pysan
+Case 334: kAlya: in pysan
+Case 335: kAvanIya: in pysan
+Case 336: kAvayitavya: in pysan
+Case 337: kAvya: in pysan
+Case 338: kAsanIya: in pysan
+Case 339: kAsitavya: in pysan
+Case 340: kizkaRIya: in pysan
+Case 341: kizkayitavya: in pysan
+Case 342: kizkya: in pysan
+Case 343: kIwanIya: in pysan
+Case 344: kIwayitavya: in pysan
+Case 345: kIwya: in pysan
+Case 346: kuMSanIya: in pysan
+Case 347: kuMSitavya: in pysan
+Case 348: kuMSya: in pysan
+Case 349: kuYkya: in pysan
+Case 350: kuYgya: in pysan
+Case 351: kuYcanIya: in pysan
+Case 352: kuYcitavya: in pysan
+Case 353: kuYjanIya: in pysan
+Case 354: kuYjitavya: in pysan
+Case 355: kuwwanIya: in pysan
+Case 356: kuwwya: in pysan
+Case 357: kuRanIya: in pysan
+Case 358: kuRayitavya: in pysan
+Case 359: kuRWayitavya: in pysan
+Case 360: kuRqayitavya: in pysan
+Case 361: kundraRIya: in pysan
+Case 362: kundrayitavya: in pysan
+Case 363: kundrya: in pysan
+Case 364: kumbanIya: in pysan
+Case 365: kumbitavya: in pysan
+Case 366: kumbya: in pysan
+Case 367: kuzya: in pysan
+Case 368: kuhanIya: in pysan
+Case 369: kuhayitavya: in pysan
+Case 370: kUgya: in pysan
+Case 371: kUwanIya: in pysan
+Case 372: kUwayitavya: in pysan
+Case 373: kUwya: in pysan
+Case 374: kUqanIya: in pysan
+Case 375: kUqayitavya: in pysan
+Case 376: kUqitavya: in pysan
+Case 377: kUqya: in pysan
+Case 378: kURanIya: in pysan
+Case 379: kURitavya: in pysan
+Case 380: kURya: in pysan
+Case 381: kUpanIya: in pysan
+Case 382: kUpayitavya: in pysan
+Case 383: kUpya: in pysan
+Case 384: kUrdanIya: in pysan
+Case 385: kUrditavya: in pysan
+Case 386: kUrdya: in pysan
+Case 387: kUlanIya: in pysan
+Case 388: kUlitavya: in pysan
+Case 389: kUlya: in pysan
+Case 390: kfpaRIya: in pysan
+Case 391: kfpayitavya: in pysan
+Case 392: kfpAyitavya: in pysan
+Case 393: kFtya: in pysan
+Case 394: kewanIya: in pysan
+Case 395: kewitavya: in pysan
+Case 396: kewya: in pysan
+Case 397: ketanIya: in pysan
+Case 398: ketavya: in pysan
+Case 399: ketitavya: in pysan
+Case 400: ketya: in pysan
+Case 401: kepanIya: in pysan
+Case 402: kepitavya: in pysan
+Case 403: kepya: in pysan
+Case 404: keya: in pysan
+Case 405: kelanIya: in pysan
+Case 406: kelayitavya: in pysan
+Case 407: kelitavya: in pysan
+Case 408: kelya: in pysan
+Case 409: kevanIya: in pysan
+Case 410: kevitavya: in pysan
+Case 411: kevya: in pysan
+Case 412: kokanIya: in pysan
+Case 413: kokitavya: in pysan
+Case 414: kokya: in pysan
+Case 415: kogya: in pysan
+Case 416: kojanIya: in pysan
+Case 417: kojitavya: in pysan
+Case 418: kowayitavya: in pysan
+Case 419: koqanIya: in pysan
+Case 420: koqitavya: in pysan
+Case 421: koqya: in pysan
+Case 422: koRanIya: in pysan
+Case 423: koRayitavya: in pysan
+Case 424: koRitavya: in pysan
+Case 425: koRya: in pysan
+Case 426: kotavya: in pysan
+Case 427: koTanIya: in pysan
+Case 428: koTitavya: in pysan
+Case 429: koTya: in pysan
+Case 430: kodanIya: in pysan
+Case 431: kodayitavya: in pysan
+Case 432: kodya: in pysan
+Case 433: kopayitavya: in pysan
+Case 434: koya: in pysan
+Case 435: koraRIya: in pysan
+Case 436: koritavya: in pysan
+Case 437: korya: in pysan
+Case 438: koSanIya: in pysan
+Case 439: koSitavya: in pysan
+Case 440: koSya: in pysan
+Case 441: kozaRIya: in pysan
+Case 442: kozitavya: in pysan
+Case 443: kozwavya: in pysan
+Case 444: kozya: in pysan
+Case 445: kohya: in pysan
+Case 446: knaMsanIya: in pysan
+Case 447: knaMsayitavya: in pysan
+Case 448: knaMsitavya: in pysan
+Case 449: knaMsya: in pysan
+Case 450: knaTanIya: in pysan
+Case 451: knaTitavya: in pysan
+Case 452: knavanIya: in pysan
+Case 453: knasanIya: in pysan
+Case 454: knasitavya: in pysan
+Case 455: knATya: in pysan
+Case 456: knAvya: in pysan
+Case 457: knAsya: in pysan
+Case 458: knUyanIya: in pysan
+Case 459: knUyitavya: in pysan
+Case 460: knUyya: in pysan
+Case 461: knotavya: in pysan
+Case 462: knoya: in pysan
+Case 463: kmaraRIya: in pysan
+Case 464: kmaritavya: in pysan
+Case 465: kmArya: in pysan
+Case 466: kraMSanIya: in pysan
+Case 467: kraMSitavya: in pysan
+Case 468: kraMSya: in pysan
+Case 469: kraTanIya: in pysan
+Case 470: kraTitavya: in pysan
+Case 471: krapaRIya: in pysan
+Case 472: krapitavya: in pysan
+Case 473: krapya: in pysan
+Case 474: krATya: in pysan
+Case 475: krApya: in pysan
+Case 476: krAmya: in pysan
+Case 477: kruYkya: in pysan
+Case 478: kroqanIya: in pysan
+Case 479: kroqayitavya: in pysan
+Case 480: kroqitavya: in pysan
+Case 481: kroqya: in pysan
+Case 482: klaTanIya: in pysan
+Case 483: klaTitavya: in pysan
+Case 484: klandanIya: in pysan
+Case 485: klanditavya: in pysan
+Case 486: klandya: in pysan
+Case 487: klavya: in pysan
+Case 488: klATya: in pysan
+Case 489: klAmya: in pysan
+Case 490: klindanIya: in pysan
+Case 491: klinditavya: in pysan
+Case 492: klindya: in pysan
+Case 493: klIbanIya: in pysan
+Case 494: klIbayitavya: in pysan
+Case 495: klIbitavya: in pysan
+Case 496: klIbya: in pysan
+Case 497: klennavya: in pysan
+Case 498: klezwavya: in pysan
+Case 499: kvaRanIya: in pysan
+Case 500: kvaRitavya: in pysan
+Case 501: kvARya: in pysan
+Case 502: kzajanIya: in pysan
+Case 503: kzajitavya: in pysan
+Case 504: kzaRanIya: in pysan
+Case 505: kzaRitavya: in pysan
+Case 506: kzapayitavya: in pysan
+Case 507: kzampaRIya: in pysan
+Case 508: kzampitavya: in pysan
+Case 509: kzampya: in pysan
+Case 510: kzAgya: in pysan
+Case 511: kzAjanIya: in pysan
+Case 512: kzAjayitavya: in pysan
+Case 513: kzARIya: in pysan
+Case 514: kzAtavya: in pysan
+Case 515: kzAnya: in pysan
+Case 516: kzApya: in pysan
+Case 517: kzAmya: in pysan
+Case 518: kzAlanIya: in pysan
+Case 519: kzAlayitavya: in pysan
+Case 520: kzAlya: in pysan
+Case 521: kzAvya: in pysan
+Case 522: kzIgya: in pysan
+Case 523: kzIjanIya: in pysan
+Case 524: kzIjitavya: in pysan
+Case 525: kzIbaRIya: in pysan
+Case 526: kzIbitavya: in pysan
+Case 527: kzIbya: in pysan
+Case 528: kzIvaRIya: in pysan
+Case 529: kzIvitavya: in pysan
+Case 530: kzIvya: in pysan
+Case 531: kzumpaRIya: in pysan
+Case 532: kzumpitavya: in pysan
+Case 533: kzumpya: in pysan
+Case 534: kzeRanIya: in pysan
+Case 535: kzeRitavya: in pysan
+Case 536: kzeRya: in pysan
+Case 537: kzevaRIya: in pysan
+Case 538: kzevitavya: in pysan
+Case 539: kzevya: in pysan
+Case 540: kzowanIya: in pysan
+Case 541: kzowayitavya: in pysan
+Case 542: kzowya: in pysan
+Case 543: kzoRRavya: in pysan
+Case 544: kzopaRIya: in pysan
+Case 545: kzopitavya: in pysan
+Case 546: kzopya: in pysan
+Case 547: kzoya: in pysan
+Case 548: kzoraRIya: in pysan
+Case 549: kzoritavya: in pysan
+Case 550: kzorya: in pysan
+Case 551: kzRavanIya: in pysan
+Case 552: kzRavitavya: in pysan
+Case 553: kzRAvya: in pysan
+Case 554: kzRoya: in pysan
+Case 555: kzmAyaRIya: in pysan
+Case 556: kzmAyitavya: in pysan
+Case 557: kzmAyya: in pysan
+Case 558: kzmIlanIya: in pysan
+Case 559: kzmIlitavya: in pysan
+Case 560: kzmIlya: in pysan
+Case 561: kzvedanIya: in pysan
+Case 562: kzveditavya: in pysan
+Case 563: kzvedya: in pysan
+Case 564: kzvelanIya: in pysan
+Case 565: kzvelitavya: in pysan
+Case 566: kzvelya: in pysan
+Case 567: KacanIya: in pysan
+Case 568: Kacitavya: in pysan
+Case 569: KajanIya: in pysan
+Case 570: Kajitavya: in pysan
+Case 571: KaYgya: in pysan
+Case 572: KaYjanIya: in pysan
+Case 573: KaYjitavya: in pysan
+Case 574: KawanIya: in pysan
+Case 575: Kawitavya: in pysan
+Case 576: KawwanIya: in pysan
+Case 577: Kawwayitavya: in pysan
+Case 578: Kawwya: in pysan
+Case 579: KaRqayitavya: in pysan
+Case 580: KaRqitavya: in pysan
+Case 581: KadanIya: in pysan
+Case 582: Kaditavya: in pysan
+Case 583: KambanIya: in pysan
+Case 584: Kambitavya: in pysan
+Case 585: Kambya: in pysan
+Case 586: Kargya: in pysan
+Case 587: KarjanIya: in pysan
+Case 588: Karjitavya: in pysan
+Case 589: KardanIya: in pysan
+Case 590: Karditavya: in pysan
+Case 591: Kardya: in pysan
+Case 592: KarbaRIya: in pysan
+Case 593: Karbitavya: in pysan
+Case 594: Karbya: in pysan
+Case 595: KarvaRIya: in pysan
+Case 596: Karvitavya: in pysan
+Case 597: Karvya: in pysan
+Case 598: KalanIya: in pysan
+Case 599: Kalitavya: in pysan
+Case 600: KallanIya: in pysan
+Case 601: Kallitavya: in pysan
+Case 602: Kallya: in pysan
+Case 603: KavanIya: in pysan
+Case 604: KazaRIya: in pysan
+Case 605: Kazitavya: in pysan
+Case 606: KAkya: in pysan
+Case 607: KAgya: in pysan
+Case 608: KAcanIya: in pysan
+Case 609: KAcayitavya: in pysan
+Case 610: KAwya: in pysan
+Case 611: KAqanIya: in pysan
+Case 612: KAqayitavya: in pysan
+Case 613: KAqya: in pysan
+Case 614: KAtavya: in pysan
+Case 615: KAnIya: in pysan
+Case 616: KAlya: in pysan
+Case 617: KAvya: in pysan
+Case 618: KAzya: in pysan
+Case 619: KuRqanIya: in pysan
+Case 620: KuRqayitavya: in pysan
+Case 621: KuRqitavya: in pysan
+Case 622: KuRqya: in pysan
+Case 623: KurdanIya: in pysan
+Case 624: Kurditavya: in pysan
+Case 625: Kurdya: in pysan
+Case 626: KewanIya: in pysan
+Case 627: Kewayitavya: in pysan
+Case 628: Kewitavya: in pysan
+Case 629: Kewya: in pysan
+Case 630: Kennavya: in pysan
+Case 631: Kogya: in pysan
+Case 632: KojanIya: in pysan
+Case 633: Kojitavya: in pysan
+Case 634: KowanIya: in pysan
+Case 635: Kowayitavya: in pysan
+Case 636: Kowitavya: in pysan
+Case 637: Kowya: in pysan
+Case 638: KoqanIya: in pysan
+Case 639: Koqayitavya: in pysan
+Case 640: Koqitavya: in pysan
+Case 641: Koqya: in pysan
+Case 642: Kotavya: in pysan
+Case 643: KodanIya: in pysan
+Case 644: Koditavya: in pysan
+Case 645: Kodya: in pysan
+Case 646: Koya: in pysan
+Case 647: KoraRIya: in pysan
+Case 648: Koritavya: in pysan
+Case 649: Korya: in pysan
+Case 650: gaYgya: in pysan
+Case 651: gaYjanIya: in pysan
+Case 652: gaYjitavya: in pysan
+Case 653: gaqanIya: in pysan
+Case 654: gaqitavya: in pysan
+Case 655: gaRqanIya: in pysan
+Case 656: gaRqitavya: in pysan
+Case 657: gaRqya: in pysan
+Case 658: gadayitavya: in pysan
+Case 659: gaDanIya: in pysan
+Case 660: gaDitavya: in pysan
+Case 661: ganDanIya: in pysan
+Case 662: ganDayitavya: in pysan
+Case 663: ganDya: in pysan
+Case 664: gambanIya: in pysan
+Case 665: gambitavya: in pysan
+Case 666: gambya: in pysan
+Case 667: gargya: in pysan
+Case 668: gartavya: in pysan
+Case 669: gardayitavya: in pysan
+Case 670: garDya: in pysan
+Case 671: garbaRIya: in pysan
+Case 672: garbitavya: in pysan
+Case 673: garbya: in pysan
+Case 674: garya: in pysan
+Case 675: garvaRIya: in pysan
+Case 676: garvitavya: in pysan
+Case 677: garvya: in pysan
+Case 678: gavanIya: in pysan
+Case 679: gAgya: in pysan
+Case 680: gAjanIya: in pysan
+Case 681: gAjayitavya: in pysan
+Case 682: gAqanIya: in pysan
+Case 683: gAqayitavya: in pysan
+Case 684: gAqya: in pysan
+Case 685: gAQavya: in pysan
+Case 686: gARya: in pysan
+Case 687: gAdanIya: in pysan
+Case 688: gAdayitavya: in pysan
+Case 689: gADanIya: in pysan
+Case 690: gADitavya: in pysan
+Case 691: gADya: in pysan
+Case 692: gAmya: in pysan
+Case 693: gAraRIya: in pysan
+Case 694: gArayitavya: in pysan
+Case 695: gAvya: in pysan
+Case 696: gAhayitavya: in pysan
+Case 697: guYgya: in pysan
+Case 698: guRWanIya: in pysan
+Case 699: guRWayitavya: in pysan
+Case 700: guRWya: in pysan
+Case 701: guRqanIya: in pysan
+Case 702: guRqayitavya: in pysan
+Case 703: guRqya: in pysan
+Case 704: gurdanIya: in pysan
+Case 705: gurditavya: in pysan
+Case 706: gurdya: in pysan
+Case 707: gurvaRIya: in pysan
+Case 708: gurvitavya: in pysan
+Case 709: gurvya: in pysan
+Case 710: gUrdanIya: in pysan
+Case 711: gUrdayitavya: in pysan
+Case 712: gUrditavya: in pysan
+Case 713: gUrdya: in pysan
+Case 714: gUrDanIya: in pysan
+Case 715: gUrDayitavya: in pysan
+Case 716: gUrDya: in pysan
+Case 717: gUhanIya: in pysan
+Case 718: gepanIya: in pysan
+Case 719: gepitavya: in pysan
+Case 720: gepya: in pysan
+Case 721: gevanIya: in pysan
+Case 722: gevitavya: in pysan
+Case 723: gevya: in pysan
+Case 724: gezaRIya: in pysan
+Case 725: gezitavya: in pysan
+Case 726: gezya: in pysan
+Case 727: gogya: in pysan
+Case 728: gojanIya: in pysan
+Case 729: gojitavya: in pysan
+Case 730: goqanIya: in pysan
+Case 731: goqitavya: in pysan
+Case 732: goqya: in pysan
+Case 733: gotavya: in pysan
+Case 734: godanIya: in pysan
+Case 735: goditavya: in pysan
+Case 736: godya: in pysan
+Case 737: goDanIya: in pysan
+Case 738: goDitavya: in pysan
+Case 739: goDya: in pysan
+Case 740: gopitavya: in pysan
+Case 741: goptavya: in pysan
+Case 742: gopya: in pysan
+Case 743: goPanIya: in pysan
+Case 744: goPitavya: in pysan
+Case 745: goPya: in pysan
+Case 746: goya: in pysan
+Case 747: graTanIya: in pysan
+Case 748: graTitavya: in pysan
+Case 749: grahitavya: in pysan
+Case 750: grATya: in pysan
+Case 751: grokya: in pysan
+Case 752: grocanIya: in pysan
+Case 753: grocitavya: in pysan
+Case 754: glasanIya: in pysan
+Case 755: glasitavya: in pysan
+Case 756: glAnIya: in pysan
+Case 757: glAsya: in pysan
+Case 758: gluYkya: in pysan
+Case 759: gluYcanIya: in pysan
+Case 760: gluYcitavya: in pysan
+Case 761: glepanIya: in pysan
+Case 762: glepitavya: in pysan
+Case 763: glepya: in pysan
+Case 764: glevanIya: in pysan
+Case 765: glevitavya: in pysan
+Case 766: glevya: in pysan
+Case 767: glezaRIya: in pysan
+Case 768: glezitavya: in pysan
+Case 769: glezya: in pysan
+Case 770: glokya: in pysan
+Case 771: glocanIya: in pysan
+Case 772: glocitavya: in pysan
+Case 773: GaMzaRIya: in pysan
+Case 774: GaMzitavya: in pysan
+Case 775: GaMzya: in pysan
+Case 776: GagGanIya: in pysan
+Case 777: GagGitavya: in pysan
+Case 778: GagGya: in pysan
+Case 779: GaRanIya: in pysan
+Case 780: GaRitavya: in pysan
+Case 781: GaRwanIya: in pysan
+Case 782: GaRwitavya: in pysan
+Case 783: GaRwya: in pysan
+Case 784: GambanIya: in pysan
+Case 785: Gambitavya: in pysan
+Case 786: Gambya: in pysan
+Case 787: GarRanIya: in pysan
+Case 788: GarRitavya: in pysan
+Case 789: GarRya: in pysan
+Case 790: GarbaRIya: in pysan
+Case 791: Garbitavya: in pysan
+Case 792: Garbya: in pysan
+Case 793: Garya: in pysan
+Case 794: Garzya: in pysan
+Case 795: GavanIya: in pysan
+Case 796: GasanIya: in pysan
+Case 797: Gastavya: in pysan
+Case 798: GARya: in pysan
+Case 799: GAraRIya: in pysan
+Case 800: GArayitavya: in pysan
+Case 801: GAvya: in pysan
+Case 802: GAsya: in pysan
+Case 803: GiRRanIya: in pysan
+Case 804: GiRRitavya: in pysan
+Case 805: GiRRya: in pysan
+Case 806: GuRRanIya: in pysan
+Case 807: GuRRitavya: in pysan
+Case 808: GuRRya: in pysan
+Case 809: GUraRIya: in pysan
+Case 810: GUritavya: in pysan
+Case 811: GUrya: in pysan
+Case 812: GfRRanIya: in pysan
+Case 813: GfRRitavya: in pysan
+Case 814: GfRRya: in pysan
+Case 815: GfRya: in pysan
+Case 816: GowanIya: in pysan
+Case 817: Gowitavya: in pysan
+Case 818: Gowya: in pysan
+Case 819: GoqanIya: in pysan
+Case 820: Goqitavya: in pysan
+Case 821: Goqya: in pysan
+Case 822: GoRanIya: in pysan
+Case 823: GoRitavya: in pysan
+Case 824: GoRya: in pysan
+Case 825: Gotavya: in pysan
+Case 826: Goya: in pysan
+Case 827: GolanIya: in pysan
+Case 828: Golayitavya: in pysan
+Case 829: Golya: in pysan
+Case 830: NavanIya: in pysan
+Case 831: NAvya: in pysan
+Case 832: Notavya: in pysan
+Case 833: Noya: in pysan
+Case 834: cakanIya: in pysan
+Case 835: cakitavya: in pysan
+Case 836: cakkanIya: in pysan
+Case 837: cakkayitavya: in pysan
+Case 838: cakkya: in pysan
+Case 839: caGanIya: in pysan
+Case 840: caGitavya: in pysan
+Case 841: caYkya: in pysan
+Case 842: caRanIya: in pysan
+Case 843: caRitavya: in pysan
+Case 844: caRqanIya: in pysan
+Case 845: caRqitavya: in pysan
+Case 846: caRqya: in pysan
+Case 847: catya: in pysan
+Case 848: cadanIya: in pysan
+Case 849: caditavya: in pysan
+Case 850: cananIya: in pysan
+Case 851: canitavya: in pysan
+Case 852: capanIya: in pysan
+Case 853: capayitavya: in pysan
+Case 854: capitavya: in pysan
+Case 855: capya: in pysan
+Case 856: campanIya: in pysan
+Case 857: campayitavya: in pysan
+Case 858: campya: in pysan
+Case 859: cambanIya: in pysan
+Case 860: cambitavya: in pysan
+Case 861: cambya: in pysan
+Case 862: cayitavya: in pysan
+Case 863: carkya: in pysan
+Case 864: carGaRIya: in pysan
+Case 865: carGitavya: in pysan
+Case 866: carGya: in pysan
+Case 867: carcanIya: in pysan
+Case 868: carcitavya: in pysan
+Case 869: cartanIya: in pysan
+Case 870: cartitavya: in pysan
+Case 871: cartya: in pysan
+Case 872: carbaRIya: in pysan
+Case 873: carbitavya: in pysan
+Case 874: carbya: in pysan
+Case 875: carvaRIya: in pysan
+Case 876: carvayitavya: in pysan
+Case 877: carvya: in pysan
+Case 878: cahanIya: in pysan
+Case 879: cahitavya: in pysan
+Case 880: cAkya: in pysan
+Case 881: cAGya: in pysan
+Case 882: cARya: in pysan
+Case 883: cAdya: in pysan
+Case 884: cAnya: in pysan
+Case 885: cApya: in pysan
+Case 886: cAmya: in pysan
+Case 887: cAhanIya: in pysan
+Case 888: cAhayitavya: in pysan
+Case 889: cAhya: in pysan
+Case 890: cikkanIya: in pysan
+Case 891: cikkayitavya: in pysan
+Case 892: cikkya: in pysan
+Case 893: cirayaRIya: in pysan
+Case 894: cirayitavya: in pysan
+Case 895: cireya: in pysan
+Case 896: cIkanIya: in pysan
+Case 897: cIkayitavya: in pysan
+Case 898: cIkitavya: in pysan
+Case 899: cIkya: in pysan
+Case 900: cIvanIya: in pysan
+Case 901: cIvayitavya: in pysan
+Case 902: cIvitavya: in pysan
+Case 903: cIvya: in pysan
+Case 904: cukkanIya: in pysan
+Case 905: cukkayitavya: in pysan
+Case 906: cukkya: in pysan
+Case 907: cuwwanIya: in pysan
+Case 908: cuwwayitavya: in pysan
+Case 909: cuwwya: in pysan
+Case 910: cuqqanIya: in pysan
+Case 911: cuqqitavya: in pysan
+Case 912: cuqqya: in pysan
+Case 913: cuRWanIya: in pysan
+Case 914: cuRWayitavya: in pysan
+Case 915: cuRWya: in pysan
+Case 916: cumbayitavya: in pysan
+Case 917: culumpanIya: in pysan
+Case 918: culumpitavya: in pysan
+Case 919: culumpya: in pysan
+Case 920: cURanIya: in pysan
+Case 921: cURayitavya: in pysan
+Case 922: cURya: in pysan
+Case 923: cUraRIya: in pysan
+Case 924: cUrayitavya: in pysan
+Case 925: cUritavya: in pysan
+Case 926: cUrRanIya: in pysan
+Case 927: cUrRya: in pysan
+Case 928: cUrya: in pysan
+Case 929: cewanIya: in pysan
+Case 930: cewitavya: in pysan
+Case 931: cewya: in pysan
+Case 932: celanIya: in pysan
+Case 933: celitavya: in pysan
+Case 934: celya: in pysan
+Case 935: cowanIya: in pysan
+Case 936: cowayitavya: in pysan
+Case 937: cowitavya: in pysan
+Case 938: cowya: in pysan
+Case 939: coqanIya: in pysan
+Case 940: coqitavya: in pysan
+Case 941: coqya: in pysan
+Case 942: coRanIya: in pysan
+Case 943: coRitavya: in pysan
+Case 944: coRya: in pysan
+Case 945: cotanIya: in pysan
+Case 946: cotitavya: in pysan
+Case 947: cotya: in pysan
+Case 948: coditavya: in pysan
+Case 949: copanIya: in pysan
+Case 950: copitavya: in pysan
+Case 951: copya: in pysan
+Case 952: colanIya: in pysan
+Case 953: colayitavya: in pysan
+Case 954: colya: in pysan
+Case 955: cyAvanIya: in pysan
+Case 956: cyAvayitavya: in pysan
+Case 957: cyAvya: in pysan
+Case 958: cyotanIya: in pysan
+Case 959: cyotitavya: in pysan
+Case 960: cyotya: in pysan
+Case 961: cyoya: in pysan
+Case 962: cyosanIya: in pysan
+Case 963: cyosayitavya: in pysan
+Case 964: cyosya: in pysan
+Case 965: CamanIya: in pysan
+Case 966: Camitavya: in pysan
+Case 967: CampanIya: in pysan
+Case 968: Campayitavya: in pysan
+Case 969: Campya: in pysan
+Case 970: Camya: in pysan
+Case 971: CardanIya: in pysan
+Case 972: Carditavya: in pysan
+Case 973: Cardya: in pysan
+Case 974: CarpaRIya: in pysan
+Case 975: Carpitavya: in pysan
+Case 976: Carpya: in pysan
+Case 977: CazaRIya: in pysan
+Case 978: Cazitavya: in pysan
+Case 979: CAtavya: in pysan
+Case 980: CAdanIya: in pysan
+Case 981: CAdayitavya: in pysan
+Case 982: CAnIya: in pysan
+Case 983: CAmya: in pysan
+Case 984: CAlanIya: in pysan
+Case 985: CAlayitavya: in pysan
+Case 986: CAlya: in pysan
+Case 987: CAzya: in pysan
+Case 988: Cfdya: in pysan
+Case 989: Cfpya: in pysan
+Case 990: Cennavya: in pysan
+Case 991: Ceya: in pysan
+Case 992: CowanIya: in pysan
+Case 993: Cowayitavya: in pysan
+Case 994: Cowitavya: in pysan
+Case 995: Cowya: in pysan
+Case 996: CoqanIya: in pysan
+Case 997: Coqitavya: in pysan
+Case 998: Coqya: in pysan
+Case 999: CopanIya: in pysan
+Case 1000: Copitavya: in pysan
+Case 1001: Copya: in pysan
+Case 1002: CoraRIya: in pysan
+Case 1003: Coritavya: in pysan
+Case 1004: Corya: in pysan
+Case 1005: jaMsanIya: in pysan
+Case 1006: jaMsayitavya: in pysan
+Case 1007: jaMsitavya: in pysan
+Case 1008: jaMsya: in pysan
+Case 1009: jaNkzaRIya: in pysan
+Case 1010: jaNkzitavya: in pysan
+Case 1011: jaNkzya: in pysan
+Case 1012: jajanIya: in pysan
+Case 1013: jajitavya: in pysan
+Case 1014: janya: in pysan
+Case 1015: jarkya: in pysan
+Case 1016: jargya: in pysan
+Case 1017: jarcanIya: in pysan
+Case 1018: jarcitavya: in pysan
+Case 1019: jarCanIya: in pysan
+Case 1020: jarCitavya: in pysan
+Case 1021: jarCya: in pysan
+Case 1022: jarjanIya: in pysan
+Case 1023: jarjitavya: in pysan
+Case 1024: jartavya: in pysan
+Case 1025: jartsanIya: in pysan
+Case 1026: jartsitavya: in pysan
+Case 1027: jartsya: in pysan
+Case 1028: jarya: in pysan
+Case 1029: jalanIya: in pysan
+Case 1030: jalitavya: in pysan
+Case 1031: jAgaritavya: in pysan
+Case 1032: jAgarya: in pysan
+Case 1033: jAgya: in pysan
+Case 1034: jAnIya: in pysan
+Case 1035: jApya: in pysan
+Case 1036: jABya: in pysan
+Case 1037: jAmya: in pysan
+Case 1038: jAlanIya: in pysan
+Case 1039: jAlayitavya: in pysan
+Case 1040: jAlya: in pysan
+Case 1041: jirayaRIya: in pysan
+Case 1042: jirayitavya: in pysan
+Case 1043: jireya: in pysan
+Case 1044: juNganIya: in pysan
+Case 1045: juNgitavya: in pysan
+Case 1046: juNgya: in pysan
+Case 1047: juYkya: in pysan
+Case 1048: juYcanIya: in pysan
+Case 1049: juYcayitavya: in pysan
+Case 1050: juYcitavya: in pysan
+Case 1051: juzya: in pysan
+Case 1052: jUraRIya: in pysan
+Case 1053: jUritavya: in pysan
+Case 1054: jUrya: in pysan
+Case 1055: jUrvaRIya: in pysan
+Case 1056: jUrvitavya: in pysan
+Case 1057: jUrvya: in pysan
+Case 1058: jemanIya: in pysan
+Case 1059: jemitavya: in pysan
+Case 1060: jemya: in pysan
+Case 1061: jezaRIya: in pysan
+Case 1062: jezitavya: in pysan
+Case 1063: jezya: in pysan
+Case 1064: jehanIya: in pysan
+Case 1065: jehitavya: in pysan
+Case 1066: jehya: in pysan
+Case 1067: jowanIya: in pysan
+Case 1068: jowitavya: in pysan
+Case 1069: jowya: in pysan
+Case 1070: joqanIya: in pysan
+Case 1071: joqayitavya: in pysan
+Case 1072: joqitavya: in pysan
+Case 1073: joqya: in pysan
+Case 1074: jonanIya: in pysan
+Case 1075: jonitavya: in pysan
+Case 1076: jonya: in pysan
+Case 1077: joraRIya: in pysan
+Case 1078: joritavya: in pysan
+Case 1079: jorya: in pysan
+Case 1080: jolanIya: in pysan
+Case 1081: jolayitavya: in pysan
+Case 1082: jolya: in pysan
+Case 1083: jrayaRIya: in pysan
+Case 1084: jretavya: in pysan
+Case 1085: jreya: in pysan
+Case 1086: JawanIya: in pysan
+Case 1087: Jawitavya: in pysan
+Case 1088: JamanIya: in pysan
+Case 1089: Jamitavya: in pysan
+Case 1090: Jamya: in pysan
+Case 1091: JaraRIya: in pysan
+Case 1092: Jaritavya: in pysan
+Case 1093: Jarkya: in pysan
+Case 1094: JarcanIya: in pysan
+Case 1095: Jarcitavya: in pysan
+Case 1096: Jarya: in pysan
+Case 1097: JavanIya: in pysan
+Case 1098: JazaRIya: in pysan
+Case 1099: Jazitavya: in pysan
+Case 1100: JAwya: in pysan
+Case 1101: JAmya: in pysan
+Case 1102: JAvya: in pysan
+Case 1103: JAzya: in pysan
+Case 1104: JUzaRIya: in pysan
+Case 1105: JUzitavya: in pysan
+Case 1106: JUzya: in pysan
+Case 1107: Jotavya: in pysan
+Case 1108: Joya: in pysan
+Case 1109: JyavanIya: in pysan
+Case 1110: JyAvya: in pysan
+Case 1111: Jyotavya: in pysan
+Case 1112: Jyoya: in pysan
+Case 1113: waNkanIya: in pysan
+Case 1114: waNkayitavya: in pysan
+Case 1115: waNkya: in pysan
+Case 1116: wIkanIya: in pysan
+Case 1117: wIkitavya: in pysan
+Case 1118: wIkya: in pysan
+Case 1119: wekanIya: in pysan
+Case 1120: wekitavya: in pysan
+Case 1121: wekya: in pysan
+Case 1122: wOkanIya: in pysan
+Case 1123: wOkitavya: in pysan
+Case 1124: wOkya: in pysan
+Case 1125: wvalanIya: in pysan
+Case 1126: wvalitavya: in pysan
+Case 1127: wvAlya: in pysan
+Case 1128: qapya: in pysan
+Case 1129: qamanIya: in pysan
+Case 1130: qamitavya: in pysan
+Case 1131: qampanIya: in pysan
+Case 1132: qampayitavya: in pysan
+Case 1133: qampya: in pysan
+Case 1134: qamBanIya: in pysan
+Case 1135: qamBayitavya: in pysan
+Case 1136: qamBya: in pysan
+Case 1137: qamya: in pysan
+Case 1138: qApanIya: in pysan
+Case 1139: qApayitavya: in pysan
+Case 1140: qApya: in pysan
+Case 1141: qAmya: in pysan
+Case 1142: qepanIya: in pysan
+Case 1143: qepayitavya: in pysan
+Case 1144: qepitavya: in pysan
+Case 1145: qepya: in pysan
+Case 1146: QOkanIya: in pysan
+Case 1147: QOkitavya: in pysan
+Case 1148: QOkya: in pysan
+Case 1149: takya: in pysan
+Case 1150: taNkanIya: in pysan
+Case 1151: taNkitavya: in pysan
+Case 1152: taNganIya: in pysan
+Case 1153: taNgitavya: in pysan
+Case 1154: taNgya: in pysan
+Case 1155: taYkya: in pysan
+Case 1156: tawanIya: in pysan
+Case 1157: tawitavya: in pysan
+Case 1158: taRqanIya: in pysan
+Case 1159: taRqitavya: in pysan
+Case 1160: taRqya: in pysan
+Case 1161: tandanIya: in pysan
+Case 1162: tanditavya: in pysan
+Case 1163: tandya: in pysan
+Case 1164: tandritavya: in pysan
+Case 1165: tayanIya: in pysan
+Case 1166: tayitavya: in pysan
+Case 1167: tarQavya: in pysan
+Case 1168: tarRanIya: in pysan
+Case 1169: tarRitavya: in pysan
+Case 1170: tarRya: in pysan
+Case 1171: tardya: in pysan
+Case 1172: tarpitavya: in pysan
+Case 1173: tarpya: in pysan
+Case 1174: tarPaRIya: in pysan
+Case 1175: tarPitavya: in pysan
+Case 1176: tarPya: in pysan
+Case 1177: tarya: in pysan
+Case 1178: tarzya: in pysan
+Case 1179: tarhaRIya: in pysan
+Case 1180: tarhitavya: in pysan
+Case 1181: tarhya: in pysan
+Case 1182: talanIya: in pysan
+Case 1183: talitavya: in pysan
+Case 1184: tavanIya: in pysan
+Case 1185: tazwavya: in pysan
+Case 1186: tasanIya: in pysan
+Case 1187: tasitavya: in pysan
+Case 1188: tAwya: in pysan
+Case 1189: tAqanIya: in pysan
+Case 1190: tAqayitavya: in pysan
+Case 1191: tAqya: in pysan
+Case 1192: tAnanIya: in pysan
+Case 1193: tAnayitavya: in pysan
+Case 1194: tApya: in pysan
+Case 1195: tAmya: in pysan
+Case 1196: tAyanIya: in pysan
+Case 1197: tAyitavya: in pysan
+Case 1198: tAyya: in pysan
+Case 1199: tAlanIya: in pysan
+Case 1200: tAlayitavya: in pysan
+Case 1201: tAlya: in pysan
+Case 1202: tAvya: in pysan
+Case 1203: tAsya: in pysan
+Case 1204: tillanIya: in pysan
+Case 1205: tillitavya: in pysan
+Case 1206: tillya: in pysan
+Case 1207: tIkanIya: in pysan
+Case 1208: tIkitavya: in pysan
+Case 1209: tIkya: in pysan
+Case 1210: tImanIya: in pysan
+Case 1211: tImitavya: in pysan
+Case 1212: tImya: in pysan
+Case 1213: tIvanIya: in pysan
+Case 1214: tIvitavya: in pysan
+Case 1215: tIvya: in pysan
+Case 1216: tuqqanIya: in pysan
+Case 1217: tuqqitavya: in pysan
+Case 1218: tuqqya: in pysan
+Case 1219: tuRqanIya: in pysan
+Case 1220: tuRqitavya: in pysan
+Case 1221: tuRqya: in pysan
+Case 1222: tundanIya: in pysan
+Case 1223: tunditavya: in pysan
+Case 1224: tundya: in pysan
+Case 1225: tumpanIya: in pysan
+Case 1226: tumpitavya: in pysan
+Case 1227: tumpya: in pysan
+Case 1228: tumbanIya: in pysan
+Case 1229: tumbayitavya: in pysan
+Case 1230: tumbitavya: in pysan
+Case 1231: tumbya: in pysan
+Case 1232: turvaRIya: in pysan
+Case 1233: turvitavya: in pysan
+Case 1234: turvya: in pysan
+Case 1235: tUqanIya: in pysan
+Case 1236: tUqitavya: in pysan
+Case 1237: tUqya: in pysan
+Case 1238: tURanIya: in pysan
+Case 1239: tURayitavya: in pysan
+Case 1240: tURya: in pysan
+Case 1241: tUlanIya: in pysan
+Case 1242: tUlayitavya: in pysan
+Case 1243: tUlitavya: in pysan
+Case 1244: tUlya: in pysan
+Case 1245: tUzaRIya: in pysan
+Case 1246: tUzitavya: in pysan
+Case 1247: tUzya: in pysan
+Case 1248: tfkzaRIya: in pysan
+Case 1249: tfkzitavya: in pysan
+Case 1250: tfkzya: in pysan
+Case 1251: tfRya: in pysan
+Case 1252: tfPya: in pysan
+Case 1253: tfmpaRIya: in pysan
+Case 1254: tfmpitavya: in pysan
+Case 1255: tfmpya: in pysan
+Case 1256: tfmPaRIya: in pysan
+Case 1257: tfmPitavya: in pysan
+Case 1258: tfmPya: in pysan
+Case 1259: tfhya: in pysan
+Case 1260: tekanIya: in pysan
+Case 1261: tekitavya: in pysan
+Case 1262: tekya: in pysan
+Case 1263: teganIya: in pysan
+Case 1264: tegitavya: in pysan
+Case 1265: teGanIya: in pysan
+Case 1266: teGitavya: in pysan
+Case 1267: teGya: in pysan
+Case 1268: tepanIya: in pysan
+Case 1269: tepitavya: in pysan
+Case 1270: tepya: in pysan
+Case 1271: temanIya: in pysan
+Case 1272: temitavya: in pysan
+Case 1273: temya: in pysan
+Case 1274: telanIya: in pysan
+Case 1275: telayitavya: in pysan
+Case 1276: telitavya: in pysan
+Case 1277: telya: in pysan
+Case 1278: tevanIya: in pysan
+Case 1279: tevitavya: in pysan
+Case 1280: tevya: in pysan
+Case 1281: togya: in pysan
+Case 1282: tojanIya: in pysan
+Case 1283: tojitavya: in pysan
+Case 1284: towanIya: in pysan
+Case 1285: towitavya: in pysan
+Case 1286: towya: in pysan
+Case 1287: toqanIya: in pysan
+Case 1288: toqitavya: in pysan
+Case 1289: toqya: in pysan
+Case 1290: toRanIya: in pysan
+Case 1291: toRitavya: in pysan
+Case 1292: toRya: in pysan
+Case 1293: totavya: in pysan
+Case 1294: tonnavya: in pysan
+Case 1295: toBanIya: in pysan
+Case 1296: toBitavya: in pysan
+Case 1297: toBya: in pysan
+Case 1298: toya: in pysan
+Case 1299: toraRIya: in pysan
+Case 1300: toritavya: in pysan
+Case 1301: torya: in pysan
+Case 1302: tolya: in pysan
+Case 1303: toSanIya: in pysan
+Case 1304: toSitavya: in pysan
+Case 1305: toSya: in pysan
+Case 1306: tosanIya: in pysan
+Case 1307: tositavya: in pysan
+Case 1308: tosya: in pysan
+Case 1309: tohanIya: in pysan
+Case 1310: tohitavya: in pysan
+Case 1311: tohya: in pysan
+Case 1312: traMsanIya: in pysan
+Case 1313: traMsayitavya: in pysan
+Case 1314: traMsitavya: in pysan
+Case 1315: traMsya: in pysan
+Case 1316: traKaRIya: in pysan
+Case 1317: traKitavya: in pysan
+Case 1318: trandanIya: in pysan
+Case 1319: tranditavya: in pysan
+Case 1320: trandya: in pysan
+Case 1321: traptavya: in pysan
+Case 1322: trAKya: in pysan
+Case 1323: trARIya: in pysan
+Case 1324: trApya: in pysan
+Case 1325: trAsanIya: in pysan
+Case 1326: trAsayitavya: in pysan
+Case 1327: triNKaRIya: in pysan
+Case 1328: triNKitavya: in pysan
+Case 1329: triNKya: in pysan
+Case 1330: trumpaRIya: in pysan
+Case 1331: trumpitavya: in pysan
+Case 1332: trumpya: in pysan
+Case 1333: trumPaRIya: in pysan
+Case 1334: trumPitavya: in pysan
+Case 1335: trumPya: in pysan
+Case 1336: tropaRIya: in pysan
+Case 1337: tropitavya: in pysan
+Case 1338: tropya: in pysan
+Case 1339: troPaRIya: in pysan
+Case 1340: troPitavya: in pysan
+Case 1341: troPya: in pysan
+Case 1342: trOkaRIya: in pysan
+Case 1343: trOkitavya: in pysan
+Case 1344: trOkya: in pysan
+Case 1345: tvaNganIya: in pysan
+Case 1346: tvaNgitavya: in pysan
+Case 1347: tvaNgya: in pysan
+Case 1348: tvacanIya: in pysan
+Case 1349: tvacitavya: in pysan
+Case 1350: tvaYkya: in pysan
+Case 1351: tvaYcanIya: in pysan
+Case 1352: tvaYcitavya: in pysan
+Case 1353: tvAkya: in pysan
+Case 1354: TarvaRIya: in pysan
+Case 1355: Tarvitavya: in pysan
+Case 1356: Tarvya: in pysan
+Case 1357: TurvaRIya: in pysan
+Case 1358: Turvitavya: in pysan
+Case 1359: Turvya: in pysan
+Case 1360: ToqanIya: in pysan
+Case 1361: Toqitavya: in pysan
+Case 1362: Toqya: in pysan
+Case 1363: daMSayitavya: in pysan
+Case 1364: daMzwavya: in pysan
+Case 1365: daMsanIya: in pysan
+Case 1366: daMsayitavya: in pysan
+Case 1367: daMsitavya: in pysan
+Case 1368: daMsya: in pysan
+Case 1369: daMhanIya: in pysan
+Case 1370: daMhayitavya: in pysan
+Case 1371: daMhya: in pysan
+Case 1372: daNGanIya: in pysan
+Case 1373: daNGitavya: in pysan
+Case 1374: daNGya: in pysan
+Case 1375: dadanIya: in pysan
+Case 1376: daditavya: in pysan
+Case 1377: daDanIya: in pysan
+Case 1378: daDitavya: in pysan
+Case 1379: danvanIya: in pysan
+Case 1380: danvitavya: in pysan
+Case 1381: danvya: in pysan
+Case 1382: damBanIya: in pysan
+Case 1383: damBitavya: in pysan
+Case 1384: damBya: in pysan
+Case 1385: dartavya: in pysan
+Case 1386: darpya: in pysan
+Case 1387: darBayitavya: in pysan
+Case 1388: darBya: in pysan
+Case 1389: darya: in pysan
+Case 1390: darzwavya: in pysan
+Case 1391: darhya: in pysan
+Case 1392: davitavya: in pysan
+Case 1393: dAdya: in pysan
+Case 1394: dADya: in pysan
+Case 1395: dAnanIya: in pysan
+Case 1396: dAnitavya: in pysan
+Case 1397: dAnya: in pysan
+Case 1398: dABya: in pysan
+Case 1399: dAmya: in pysan
+Case 1400: dAyanIya: in pysan
+Case 1401: dAyitavya: in pysan
+Case 1402: dAvya: in pysan
+Case 1403: dAsanIya: in pysan
+Case 1404: dAsitavya: in pysan
+Case 1405: dinvanIya: in pysan
+Case 1406: dinvitavya: in pysan
+Case 1407: dinvya: in pysan
+Case 1408: dimpanIya: in pysan
+Case 1409: dimpayitavya: in pysan
+Case 1410: dimpya: in pysan
+Case 1411: dimBanIya: in pysan
+Case 1412: dimBayitavya: in pysan
+Case 1413: dimBya: in pysan
+Case 1414: dIDayanIya: in pysan
+Case 1415: dIDayitavya: in pysan
+Case 1416: dIDeya: in pysan
+Case 1417: durvaRIya: in pysan
+Case 1418: durvitavya: in pysan
+Case 1419: durvya: in pysan
+Case 1420: dfMhaRIya: in pysan
+Case 1421: dfMhitavya: in pysan
+Case 1422: dfMhya: in pysan
+Case 1423: detavya: in pysan
+Case 1424: depanIya: in pysan
+Case 1425: depitavya: in pysan
+Case 1426: depya: in pysan
+Case 1427: doDanIya: in pysan
+Case 1428: doDitavya: in pysan
+Case 1429: doDya: in pysan
+Case 1430: doya: in pysan
+Case 1431: dolanIya: in pysan
+Case 1432: dolya: in pysan
+Case 1433: dyavanIya: in pysan
+Case 1434: dyAtavya: in pysan
+Case 1435: dyAnIya: in pysan
+Case 1436: dyAvya: in pysan
+Case 1437: dyeya: in pysan
+Case 1438: dyotavya: in pysan
+Case 1439: dyotitavya: in pysan
+Case 1440: dyoya: in pysan
+Case 1441: dramaRIya: in pysan
+Case 1442: dramitavya: in pysan
+Case 1443: dramya: in pysan
+Case 1444: dravitavya: in pysan
+Case 1445: drAKaRIya: in pysan
+Case 1446: drAKitavya: in pysan
+Case 1447: drAKya: in pysan
+Case 1448: drANkzaRIya: in pysan
+Case 1449: drANkzitavya: in pysan
+Case 1450: drANkzya: in pysan
+Case 1451: drAqanIya: in pysan
+Case 1452: drAqitavya: in pysan
+Case 1453: drAqya: in pysan
+Case 1454: drAmya: in pysan
+Case 1455: drAvya: in pysan
+Case 1456: drAhaRIya: in pysan
+Case 1457: drAhitavya: in pysan
+Case 1458: drAhya: in pysan
+Case 1459: drummaRIya: in pysan
+Case 1460: drummitavya: in pysan
+Case 1461: drummya: in pysan
+Case 1462: drUqanIya: in pysan
+Case 1463: drUqitavya: in pysan
+Case 1464: drUqya: in pysan
+Case 1465: drekaRIya: in pysan
+Case 1466: drekitavya: in pysan
+Case 1467: drekya: in pysan
+Case 1468: droqanIya: in pysan
+Case 1469: droqitavya: in pysan
+Case 1470: droqya: in pysan
+Case 1471: droQavya: in pysan
+Case 1472: droRanIya: in pysan
+Case 1473: droRitavya: in pysan
+Case 1474: droRya: in pysan
+Case 1475: drotavya: in pysan
+Case 1476: droya: in pysan
+Case 1477: dvaraRIya: in pysan
+Case 1478: dvartavya: in pysan
+Case 1479: dvarya: in pysan
+Case 1480: dvArya: in pysan
+Case 1481: DakkanIya: in pysan
+Case 1482: Dakkayitavya: in pysan
+Case 1483: Dakkya: in pysan
+Case 1484: DaRanIya: in pysan
+Case 1485: DaRitavya: in pysan
+Case 1486: DananIya: in pysan
+Case 1487: Danitavya: in pysan
+Case 1488: DamanIya: in pysan
+Case 1489: Damitavya: in pysan
+Case 1490: Daritavya: in pysan
+Case 1491: Dargya: in pysan
+Case 1492: DarjanIya: in pysan
+Case 1493: Darjitavya: in pysan
+Case 1494: Darya: in pysan
+Case 1495: Darzya: in pysan
+Case 1496: DARya: in pysan
+Case 1497: DAnya: in pysan
+Case 1498: DAmya: in pysan
+Case 1499: DikzaRIya: in pysan
+Case 1500: Dikzitavya: in pysan
+Case 1501: Dikzya: in pysan
+Case 1502: DIkzaRIya: in pysan
+Case 1503: DIkzitavya: in pysan
+Case 1504: DIkzya: in pysan
+Case 1505: DUpanIya: in pysan
+Case 1506: DUpitavya: in pysan
+Case 1507: DUpya: in pysan
+Case 1508: DUraRIya: in pysan
+Case 1509: DUritavya: in pysan
+Case 1510: DUrya: in pysan
+Case 1511: DUrvaRIya: in pysan
+Case 1512: DUrvitavya: in pysan
+Case 1513: DUrvya: in pysan
+Case 1514: DUSanIya: in pysan
+Case 1515: DUSayitavya: in pysan
+Case 1516: DUSya: in pysan
+Case 1517: Dfjya: in pysan
+Case 1518: DezaRIya: in pysan
+Case 1519: Dezitavya: in pysan
+Case 1520: Dezya: in pysan
+Case 1521: Dotavya: in pysan
+Case 1522: Doya: in pysan
+Case 1523: DoraRIya: in pysan
+Case 1524: Doritavya: in pysan
+Case 1525: Dorya: in pysan
+Case 1526: Dmeya: in pysan
+Case 1527: DrajanIya: in pysan
+Case 1528: Drajitavya: in pysan
+Case 1529: DraRanIya: in pysan
+Case 1530: DraRitavya: in pysan
+Case 1531: DrasanIya: in pysan
+Case 1532: Drasitavya: in pysan
+Case 1533: DrAgya: in pysan
+Case 1534: DrARIya: in pysan
+Case 1535: DrARya: in pysan
+Case 1536: DrAtavya: in pysan
+Case 1537: DrAvya: in pysan
+Case 1538: DrAsya: in pysan
+Case 1539: DrekaRIya: in pysan
+Case 1540: Drekitavya: in pysan
+Case 1541: Drekya: in pysan
+Case 1542: Dregya: in pysan
+Case 1543: DrejanIya: in pysan
+Case 1544: Drejitavya: in pysan
+Case 1545: Dreya: in pysan
+Case 1546: Droya: in pysan
+Case 1547: DvajanIya: in pysan
+Case 1548: Dvajitavya: in pysan
+Case 1549: DvaRanIya: in pysan
+Case 1550: DvaRitavya: in pysan
+Case 1551: DvAgya: in pysan
+Case 1552: DvARya: in pysan
+Case 1553: DvArya: in pysan
+Case 1554: DvraRanIya: in pysan
+Case 1555: DvraRitavya: in pysan
+Case 1556: DvrARya: in pysan
+Case 1557: nakkanIya: in pysan
+Case 1558: nakkayitavya: in pysan
+Case 1559: nakkya: in pysan
+Case 1560: naKanIya: in pysan
+Case 1561: naKitavya: in pysan
+Case 1562: najanIya: in pysan
+Case 1563: najitavya: in pysan
+Case 1564: naBanIya: in pysan
+Case 1565: naBitavya: in pysan
+Case 1566: naBya: in pysan
+Case 1567: nambanIya: in pysan
+Case 1568: nambitavya: in pysan
+Case 1569: nambya: in pysan
+Case 1570: naraRIya: in pysan
+Case 1571: naritavya: in pysan
+Case 1572: nartya: in pysan
+Case 1573: narbaRIya: in pysan
+Case 1574: narbitavya: in pysan
+Case 1575: narbya: in pysan
+Case 1576: narya: in pysan
+Case 1577: nalanIya: in pysan
+Case 1578: nalitavya: in pysan
+Case 1579: nasanIya: in pysan
+Case 1580: nasitavya: in pysan
+Case 1581: nAKya: in pysan
+Case 1582: nAgya: in pysan
+Case 1583: nAqanIya: in pysan
+Case 1584: nAqayitavya: in pysan
+Case 1585: nAqya: in pysan
+Case 1586: nADanIya: in pysan
+Case 1587: nADitavya: in pysan
+Case 1588: nADya: in pysan
+Case 1589: nABya: in pysan
+Case 1590: nAmya: in pysan
+Case 1591: nAyya: in pysan
+Case 1592: nAlanIya: in pysan
+Case 1593: nAlayitavya: in pysan
+Case 1594: nAlya: in pysan
+Case 1595: nAvya: in pysan
+Case 1596: nAsanIya: in pysan
+Case 1597: nAsitavya: in pysan
+Case 1598: nAsya: in pysan
+Case 1599: niMsanIya: in pysan
+Case 1600: niMsitavya: in pysan
+Case 1601: niMsya: in pysan
+Case 1602: nikzaRIya: in pysan
+Case 1603: nikzitavya: in pysan
+Case 1604: nikzya: in pysan
+Case 1605: niYgya: in pysan
+Case 1606: ninvanIya: in pysan
+Case 1607: ninvitavya: in pysan
+Case 1608: ninvya: in pysan
+Case 1609: nizkaRIya: in pysan
+Case 1610: nizkayitavya: in pysan
+Case 1611: nizkya: in pysan
+Case 1612: nIlanIya: in pysan
+Case 1613: nIlitavya: in pysan
+Case 1614: nIlya: in pysan
+Case 1615: nIvanIya: in pysan
+Case 1616: nIvitavya: in pysan
+Case 1617: nIvya: in pysan
+Case 1618: negya: in pysan
+Case 1619: nejanIya: in pysan
+Case 1620: nedanIya: in pysan
+Case 1621: neditavya: in pysan
+Case 1622: nedya: in pysan
+Case 1623: nelanIya: in pysan
+Case 1624: nelitavya: in pysan
+Case 1625: nelya: in pysan
+Case 1626: neSanIya: in pysan
+Case 1627: neSitavya: in pysan
+Case 1628: neSya: in pysan
+Case 1629: nezaRIya: in pysan
+Case 1630: nezitavya: in pysan
+Case 1631: nezya: in pysan
+Case 1632: noqanIya: in pysan
+Case 1633: noqitavya: in pysan
+Case 1634: noqya: in pysan
+Case 1635: nonnavya: in pysan
+Case 1636: noya: in pysan
+Case 1637: paMSanIya: in pysan
+Case 1638: paMSitavya: in pysan
+Case 1639: paMSya: in pysan
+Case 1640: pakzaRIya: in pysan
+Case 1641: pakzitavya: in pysan
+Case 1642: pakzya: in pysan
+Case 1643: pacya: in pysan
+Case 1644: pawayitavya: in pysan
+Case 1645: paRqanIya: in pysan
+Case 1646: paRqayitavya: in pysan
+Case 1647: paRqitavya: in pysan
+Case 1648: paRqya: in pysan
+Case 1649: paRya: in pysan
+Case 1650: pananIya: in pysan
+Case 1651: panitavya: in pysan
+Case 1652: panTanIya: in pysan
+Case 1653: panTayitavya: in pysan
+Case 1654: panTitavya: in pysan
+Case 1655: panTya: in pysan
+Case 1656: pannavya: in pysan
+Case 1657: pambanIya: in pysan
+Case 1658: pambitavya: in pysan
+Case 1659: pambya: in pysan
+Case 1660: payitavya: in pysan
+Case 1661: parkya: in pysan
+Case 1662: pargya: in pysan
+Case 1663: parjanIya: in pysan
+Case 1664: parjitavya: in pysan
+Case 1665: parqanIya: in pysan
+Case 1666: parqitavya: in pysan
+Case 1667: parqya: in pysan
+Case 1668: parRanIya: in pysan
+Case 1669: parRayitavya: in pysan
+Case 1670: parRitavya: in pysan
+Case 1671: parRya: in pysan
+Case 1672: parTya: in pysan
+Case 1673: pardanIya: in pysan
+Case 1674: parditavya: in pysan
+Case 1675: pardya: in pysan
+Case 1676: parpaRIya: in pysan
+Case 1677: parpitavya: in pysan
+Case 1678: parpya: in pysan
+Case 1679: parbaRIya: in pysan
+Case 1680: parbitavya: in pysan
+Case 1681: parbya: in pysan
+Case 1682: parya: in pysan
+Case 1683: parvaRIya: in pysan
+Case 1684: parvitavya: in pysan
+Case 1685: parvya: in pysan
+Case 1686: parzya: in pysan
+Case 1687: palanIya: in pysan
+Case 1688: palitavya: in pysan
+Case 1689: pallanIya: in pysan
+Case 1690: pallitavya: in pysan
+Case 1691: pallya: in pysan
+Case 1692: pazaRIya: in pysan
+Case 1693: pazitavya: in pysan
+Case 1694: pasanIya: in pysan
+Case 1695: pasitavya: in pysan
+Case 1696: pAcya: in pysan
+Case 1697: pAwanIya: in pysan
+Case 1698: pAwayitavya: in pysan
+Case 1699: pAnya: in pysan
+Case 1700: pAyanIya: in pysan
+Case 1701: pAyitavya: in pysan
+Case 1702: pAyya: in pysan
+Case 1703: pAlanIya: in pysan
+Case 1704: pAlayitavya: in pysan
+Case 1705: pAlya: in pysan
+Case 1706: pAvya: in pysan
+Case 1707: pASanIya: in pysan
+Case 1708: pAzya: in pysan
+Case 1709: pAsanIya: in pysan
+Case 1710: pAsayitavya: in pysan
+Case 1711: pAsya: in pysan
+Case 1712: piMsanIya: in pysan
+Case 1713: piMsayitavya: in pysan
+Case 1714: piMsitavya: in pysan
+Case 1715: piMsya: in pysan
+Case 1716: pickya: in pysan
+Case 1717: piccanIya: in pysan
+Case 1718: piccayitavya: in pysan
+Case 1719: piYgya: in pysan
+Case 1720: piYjayitavya: in pysan
+Case 1721: piRqanIya: in pysan
+Case 1722: piRqitavya: in pysan
+Case 1723: piRqya: in pysan
+Case 1724: pinvanIya: in pysan
+Case 1725: pinvitavya: in pysan
+Case 1726: pinvya: in pysan
+Case 1727: pIlanIya: in pysan
+Case 1728: pIlitavya: in pysan
+Case 1729: pIlya: in pysan
+Case 1730: puMsanIya: in pysan
+Case 1731: puMsayitavya: in pysan
+Case 1732: puMsya: in pysan
+Case 1733: puwanIya: in pysan
+Case 1734: puwayitavya: in pysan
+Case 1735: puwwanIya: in pysan
+Case 1736: puwwayitavya: in pysan
+Case 1737: puwwya: in pysan
+Case 1738: puRwanIya: in pysan
+Case 1739: puRwayitavya: in pysan
+Case 1740: puRwya: in pysan
+Case 1741: puRqanIya: in pysan
+Case 1742: puRqitavya: in pysan
+Case 1743: puRqya: in pysan
+Case 1744: purvaRIya: in pysan
+Case 1745: purvitavya: in pysan
+Case 1746: purvya: in pysan
+Case 1747: puzya: in pysan
+Case 1748: pustanIya: in pysan
+Case 1749: pustayitavya: in pysan
+Case 1750: pustya: in pysan
+Case 1751: pUgya: in pysan
+Case 1752: pURanIya: in pysan
+Case 1753: pURayitavya: in pysan
+Case 1754: pURya: in pysan
+Case 1755: pUrvaRIya: in pysan
+Case 1756: pUrvayitavya: in pysan
+Case 1757: pUlanIya: in pysan
+Case 1758: pUlitavya: in pysan
+Case 1759: pUlya: in pysan
+Case 1760: pUzaRIya: in pysan
+Case 1761: pUzitavya: in pysan
+Case 1762: pUzya: in pysan
+Case 1763: pfjya: in pysan
+Case 1764: pfqya: in pysan
+Case 1765: pfRya: in pysan
+Case 1766: peCanIya: in pysan
+Case 1767: peCayitavya: in pysan
+Case 1768: peCitavya: in pysan
+Case 1769: peCya: in pysan
+Case 1770: pewanIya: in pysan
+Case 1771: pewitavya: in pysan
+Case 1772: pewya: in pysan
+Case 1773: peWanIya: in pysan
+Case 1774: peWitavya: in pysan
+Case 1775: peWya: in pysan
+Case 1776: peRanIya: in pysan
+Case 1777: peRitavya: in pysan
+Case 1778: peRya: in pysan
+Case 1779: petavya: in pysan
+Case 1780: pebanIya: in pysan
+Case 1781: pebitavya: in pysan
+Case 1782: pebya: in pysan
+Case 1783: pelanIya: in pysan
+Case 1784: pelayitavya: in pysan
+Case 1785: pelitavya: in pysan
+Case 1786: pelya: in pysan
+Case 1787: pevanIya: in pysan
+Case 1788: pevitavya: in pysan
+Case 1789: pevya: in pysan
+Case 1790: pezitavya: in pysan
+Case 1791: pesanIya: in pysan
+Case 1792: pesayitavya: in pysan
+Case 1793: pesitavya: in pysan
+Case 1794: pesya: in pysan
+Case 1795: pERanIya: in pysan
+Case 1796: pERitavya: in pysan
+Case 1797: pERya: in pysan
+Case 1798: poCanIya: in pysan
+Case 1799: poCitavya: in pysan
+Case 1800: poCya: in pysan
+Case 1801: poYCanIya: in pysan
+Case 1802: poYCitavya: in pysan
+Case 1803: poYCya: in pysan
+Case 1804: powanIya: in pysan
+Case 1805: powayitavya: in pysan
+Case 1806: powitavya: in pysan
+Case 1807: powya: in pysan
+Case 1808: poqanIya: in pysan
+Case 1809: poqitavya: in pysan
+Case 1810: poqya: in pysan
+Case 1811: poRanIya: in pysan
+Case 1812: poRayitavya: in pysan
+Case 1813: poRitavya: in pysan
+Case 1814: poRya: in pysan
+Case 1815: poya: in pysan
+Case 1816: poraRIya: in pysan
+Case 1817: poritavya: in pysan
+Case 1818: porya: in pysan
+Case 1819: posanIya: in pysan
+Case 1820: posayitavya: in pysan
+Case 1821: posya: in pysan
+Case 1822: pyAyanIya: in pysan
+Case 1823: pyAyitavya: in pysan
+Case 1824: pyAyya: in pysan
+Case 1825: pyozaRIya: in pysan
+Case 1826: pyozayitavya: in pysan
+Case 1827: pyozitavya: in pysan
+Case 1828: pyozya: in pysan
+Case 1829: pyosanIya: in pysan
+Case 1830: pyositavya: in pysan
+Case 1831: pyosya: in pysan
+Case 1832: praCanIya: in pysan
+Case 1833: praCitavya: in pysan
+Case 1834: prayitavya: in pysan
+Case 1835: prasanIya: in pysan
+Case 1836: prasitavya: in pysan
+Case 1837: prACya: in pysan
+Case 1838: prAtavya: in pysan
+Case 1839: prATanIya: in pysan
+Case 1840: prATayitavya: in pysan
+Case 1841: prAvya: in pysan
+Case 1842: prAsya: in pysan
+Case 1843: prezaRIya: in pysan
+Case 1844: prezitavya: in pysan
+Case 1845: prezya: in pysan
+Case 1846: prERanIya: in pysan
+Case 1847: prERitavya: in pysan
+Case 1848: prERya: in pysan
+Case 1849: proTanIya: in pysan
+Case 1850: proTitavya: in pysan
+Case 1851: proTya: in pysan
+Case 1852: proya: in pysan
+Case 1853: prozaRIya: in pysan
+Case 1854: prozayitavya: in pysan
+Case 1855: prozitavya: in pysan
+Case 1856: prozya: in pysan
+Case 1857: plakzaRIya: in pysan
+Case 1858: plakzitavya: in pysan
+Case 1859: plakzya: in pysan
+Case 1860: plabanIya: in pysan
+Case 1861: plabitavya: in pysan
+Case 1862: plabya: in pysan
+Case 1863: playanIya: in pysan
+Case 1864: plAbya: in pysan
+Case 1865: plAvya: in pysan
+Case 1866: pletavya: in pysan
+Case 1867: pleya: in pysan
+Case 1868: plevanIya: in pysan
+Case 1869: plevitavya: in pysan
+Case 1870: plevya: in pysan
+Case 1871: plehanIya: in pysan
+Case 1872: plehitavya: in pysan
+Case 1873: plehya: in pysan
+Case 1874: ploya: in pysan
+Case 1875: plosanIya: in pysan
+Case 1876: plositavya: in pysan
+Case 1877: plosya: in pysan
+Case 1878: psAtavya: in pysan
+Case 1879: psAnIya: in pysan
+Case 1880: pseya: in pysan
+Case 1881: PakkanIya: in pysan
+Case 1882: Pakkitavya: in pysan
+Case 1883: Pakkya: in pysan
+Case 1884: PaRanIya: in pysan
+Case 1885: PaRitavya: in pysan
+Case 1886: ParvaRIya: in pysan
+Case 1887: Parvitavya: in pysan
+Case 1888: Parvya: in pysan
+Case 1889: PARya: in pysan
+Case 1890: PelanIya: in pysan
+Case 1891: Pelitavya: in pysan
+Case 1892: Pelya: in pysan
+Case 1893: badanIya: in pysan
+Case 1894: baditavya: in pysan
+Case 1895: barQavya: in pysan
+Case 1896: barbaRIya: in pysan
+Case 1897: barbitavya: in pysan
+Case 1898: barbya: in pysan
+Case 1899: barhayitavya: in pysan
+Case 1900: barhya: in pysan
+Case 1901: bAqanIya: in pysan
+Case 1902: bAqitavya: in pysan
+Case 1903: bAqya: in pysan
+Case 1904: bAdya: in pysan
+Case 1905: bAlanIya: in pysan
+Case 1906: bAlayitavya: in pysan
+Case 1907: bIBanIya: in pysan
+Case 1908: bIBitavya: in pysan
+Case 1909: bIBya: in pysan
+Case 1910: bukkanIya: in pysan
+Case 1911: bukkayitavya: in pysan
+Case 1912: bukkitavya: in pysan
+Case 1913: bukkya: in pysan
+Case 1914: buNganIya: in pysan
+Case 1915: buNgitavya: in pysan
+Case 1916: buNgya: in pysan
+Case 1917: bundanIya: in pysan
+Case 1918: bunditavya: in pysan
+Case 1919: bundya: in pysan
+Case 1920: bunDanIya: in pysan
+Case 1921: bunDayitavya: in pysan
+Case 1922: bunDitavya: in pysan
+Case 1923: bunDya: in pysan
+Case 1924: bfMhaRIya: in pysan
+Case 1925: bfMhitavya: in pysan
+Case 1926: bfMhya: in pysan
+Case 1927: bewanIya: in pysan
+Case 1928: bewitavya: in pysan
+Case 1929: bewya: in pysan
+Case 1930: bedanIya: in pysan
+Case 1931: beditavya: in pysan
+Case 1932: bedya: in pysan
+Case 1933: belanIya: in pysan
+Case 1934: belayitavya: in pysan
+Case 1935: belitavya: in pysan
+Case 1936: belya: in pysan
+Case 1937: beSanIya: in pysan
+Case 1938: beSitavya: in pysan
+Case 1939: beSya: in pysan
+Case 1940: besanIya: in pysan
+Case 1941: besitavya: in pysan
+Case 1942: besya: in pysan
+Case 1943: bowanIya: in pysan
+Case 1944: bowayitavya: in pysan
+Case 1945: bowitavya: in pysan
+Case 1946: bowya: in pysan
+Case 1947: boqanIya: in pysan
+Case 1948: boqitavya: in pysan
+Case 1949: boqya: in pysan
+Case 1950: bodanIya: in pysan
+Case 1951: boditavya: in pysan
+Case 1952: bodya: in pysan
+Case 1953: boDitavya: in pysan
+Case 1954: bolanIya: in pysan
+Case 1955: bolayitavya: in pysan
+Case 1956: bolya: in pysan
+Case 1957: bosanIya: in pysan
+Case 1958: bositavya: in pysan
+Case 1959: bosya: in pysan
+Case 1960: bravaRIya: in pysan
+Case 1961: bravitavya: in pysan
+Case 1962: brahmaRIya: in pysan
+Case 1963: brahmitavya: in pysan
+Case 1964: brahmya: in pysan
+Case 1965: brAvya: in pysan
+Case 1966: broya: in pysan
+Case 1967: Bakzayitavya: in pysan
+Case 1968: BaYktavya: in pysan
+Case 1969: BaYgya: in pysan
+Case 1970: BawanIya: in pysan
+Case 1971: Bawitavya: in pysan
+Case 1972: BaRwanIya: in pysan
+Case 1973: BaRwayitavya: in pysan
+Case 1974: BaRwya: in pysan
+Case 1975: BananIya: in pysan
+Case 1976: Banitavya: in pysan
+Case 1977: Baritavya: in pysan
+Case 1978: Bargya: in pysan
+Case 1979: Barjitavya: in pysan
+Case 1980: BarqanIya: in pysan
+Case 1981: Barqitavya: in pysan
+Case 1982: Barqya: in pysan
+Case 1983: BarbaRIya: in pysan
+Case 1984: Barbitavya: in pysan
+Case 1985: Barbya: in pysan
+Case 1986: Barya: in pysan
+Case 1987: BarvaRIya: in pysan
+Case 1988: Barvitavya: in pysan
+Case 1989: Barvya: in pysan
+Case 1990: BarSanIya: in pysan
+Case 1991: BarSitavya: in pysan
+Case 1992: BarSya: in pysan
+Case 1993: BalanIya: in pysan
+Case 1994: Balitavya: in pysan
+Case 1995: Bazitavya: in pysan
+Case 1996: BAwanIya: in pysan
+Case 1997: BAwayitavya: in pysan
+Case 1998: BAwya: in pysan
+Case 1999: BAnya: in pysan
+Case 2000: BAmanIya: in pysan
+Case 2001: BAmitavya: in pysan
+Case 2002: BAmya: in pysan
+Case 2003: BAlanIya: in pysan
+Case 2004: BAlayitavya: in pysan
+Case 2005: BAlya: in pysan
+Case 2006: BikzaRIya: in pysan
+Case 2007: Bikzitavya: in pysan
+Case 2008: Bikzya: in pysan
+Case 2009: BindanIya: in pysan
+Case 2010: Binditavya: in pysan
+Case 2011: Bindya: in pysan
+Case 2012: BuRqanIya: in pysan
+Case 2013: BuRqitavya: in pysan
+Case 2014: BuRqya: in pysan
+Case 2015: BUya: in pysan
+Case 2016: BfMSanIya: in pysan
+Case 2017: BfMSayitavya: in pysan
+Case 2018: BfMSitavya: in pysan
+Case 2019: BfMSya: in pysan
+Case 2020: BfkzaRIya: in pysan
+Case 2021: Bfkzitavya: in pysan
+Case 2022: Bfkzya: in pysan
+Case 2023: Bfjya: in pysan
+Case 2024: Bfqya: in pysan
+Case 2025: BfSya: in pysan
+Case 2026: BezaRIya: in pysan
+Case 2027: Bezitavya: in pysan
+Case 2028: Bezya: in pysan
+Case 2029: Bojya: in pysan
+Case 2030: ByasanIya: in pysan
+Case 2031: Byasitavya: in pysan
+Case 2032: ByAsya: in pysan
+Case 2033: BrakzaRIya: in pysan
+Case 2034: Brakzitavya: in pysan
+Case 2035: Brakzya: in pysan
+Case 2036: Brajgya: in pysan
+Case 2037: BrajjanIya: in pysan
+Case 2038: Brajjitavya: in pysan
+Case 2039: BraRanIya: in pysan
+Case 2040: BraRitavya: in pysan
+Case 2041: BrayaRIya: in pysan
+Case 2042: BraSanIya: in pysan
+Case 2043: BraSitavya: in pysan
+Case 2044: BrARya: in pysan
+Case 2045: BrAmya: in pysan
+Case 2046: BrASanIya: in pysan
+Case 2047: BrASitavya: in pysan
+Case 2048: BrASya: in pysan
+Case 2049: BrURanIya: in pysan
+Case 2050: BrURayitavya: in pysan
+Case 2051: BrURya: in pysan
+Case 2052: Bretavya: in pysan
+Case 2053: Breya: in pysan
+Case 2054: BrezaRIya: in pysan
+Case 2055: Brezitavya: in pysan
+Case 2056: Brezya: in pysan
+Case 2057: BroqanIya: in pysan
+Case 2058: Broqitavya: in pysan
+Case 2059: Broqya: in pysan
+Case 2060: BlASanIya: in pysan
+Case 2061: BlASitavya: in pysan
+Case 2062: BlASya: in pysan
+Case 2063: makzaRIya: in pysan
+Case 2064: makzitavya: in pysan
+Case 2065: makzya: in pysan
+Case 2066: maKanIya: in pysan
+Case 2067: maKitavya: in pysan
+Case 2068: maNkanIya: in pysan
+Case 2069: maNkitavya: in pysan
+Case 2070: maNkya: in pysan
+Case 2071: maNganIya: in pysan
+Case 2072: maNgitavya: in pysan
+Case 2073: maNgya: in pysan
+Case 2074: maNGanIya: in pysan
+Case 2075: maNGitavya: in pysan
+Case 2076: maNGya: in pysan
+Case 2077: macanIya: in pysan
+Case 2078: macitavya: in pysan
+Case 2079: majgya: in pysan
+Case 2080: maYkya: in pysan
+Case 2081: maYgya: in pysan
+Case 2082: maYcanIya: in pysan
+Case 2083: maYcitavya: in pysan
+Case 2084: maYjanIya: in pysan
+Case 2085: maYjayitavya: in pysan
+Case 2086: maWanIya: in pysan
+Case 2087: maWitavya: in pysan
+Case 2088: maRanIya: in pysan
+Case 2089: maRitavya: in pysan
+Case 2090: maRwanIya: in pysan
+Case 2091: maRwayitavya: in pysan
+Case 2092: maRwya: in pysan
+Case 2093: maRWanIya: in pysan
+Case 2094: maRWitavya: in pysan
+Case 2095: maRWya: in pysan
+Case 2096: maTanIya: in pysan
+Case 2097: maTitavya: in pysan
+Case 2098: madya: in pysan
+Case 2099: mantraRIya: in pysan
+Case 2100: mantrya: in pysan
+Case 2101: maBraRIya: in pysan
+Case 2102: maBritavya: in pysan
+Case 2103: maBrya: in pysan
+Case 2104: mambanIya: in pysan
+Case 2105: mambitavya: in pysan
+Case 2106: mambya: in pysan
+Case 2107: mayitavya: in pysan
+Case 2108: maritavya: in pysan
+Case 2109: markya: in pysan
+Case 2110: margaRIya: in pysan
+Case 2111: margitavya: in pysan
+Case 2112: margya: in pysan
+Case 2113: marcanIya: in pysan
+Case 2114: marcayitavya: in pysan
+Case 2115: marCanIya: in pysan
+Case 2116: marCitavya: in pysan
+Case 2117: marCya: in pysan
+Case 2118: marjanIya: in pysan
+Case 2119: marjitavya: in pysan
+Case 2120: marqayitavya: in pysan
+Case 2121: marqya: in pysan
+Case 2122: marRanIya: in pysan
+Case 2123: marRitavya: in pysan
+Case 2124: marRya: in pysan
+Case 2125: mardya: in pysan
+Case 2126: marDya: in pysan
+Case 2127: marbaRIya: in pysan
+Case 2128: marbitavya: in pysan
+Case 2129: marbya: in pysan
+Case 2130: marya: in pysan
+Case 2131: marvaRIya: in pysan
+Case 2132: marvitavya: in pysan
+Case 2133: marvya: in pysan
+Case 2134: marSya: in pysan
+Case 2135: marzya: in pysan
+Case 2136: malanIya: in pysan
+Case 2137: malitavya: in pysan
+Case 2138: mallanIya: in pysan
+Case 2139: mallitavya: in pysan
+Case 2140: mallya: in pysan
+Case 2141: mavanIya: in pysan
+Case 2142: mavitavya: in pysan
+Case 2143: mavya: in pysan
+Case 2144: mavyanIya: in pysan
+Case 2145: mavyitavya: in pysan
+Case 2146: mavyya: in pysan
+Case 2147: maSanIya: in pysan
+Case 2148: maSitavya: in pysan
+Case 2149: masanIya: in pysan
+Case 2150: masitavya: in pysan
+Case 2151: maskanIya: in pysan
+Case 2152: maskitavya: in pysan
+Case 2153: maskya: in pysan
+Case 2154: mahayitavya: in pysan
+Case 2155: mAkya: in pysan
+Case 2156: mAKya: in pysan
+Case 2157: mANkzaRIya: in pysan
+Case 2158: mANkzitavya: in pysan
+Case 2159: mANkzya: in pysan
+Case 2160: mAWya: in pysan
+Case 2161: mAqanIya: in pysan
+Case 2162: mAqitavya: in pysan
+Case 2163: mAqya: in pysan
+Case 2164: mARya: in pysan
+Case 2165: mATya: in pysan
+Case 2166: mAnanIya: in pysan
+Case 2167: mAnayitavya: in pysan
+Case 2168: mAnitavya: in pysan
+Case 2169: mAnTanIya: in pysan
+Case 2170: mAnTitavya: in pysan
+Case 2171: mAnTya: in pysan
+Case 2172: mAyanIya: in pysan
+Case 2173: mAyayitavya: in pysan
+Case 2174: mAyya: in pysan
+Case 2175: mArgitavya: in pysan
+Case 2176: mArjayitavya: in pysan
+Case 2177: mAlanIya: in pysan
+Case 2178: mAlya: in pysan
+Case 2179: mAvya: in pysan
+Case 2180: mASya: in pysan
+Case 2181: mAsya: in pysan
+Case 2182: mAhanIya: in pysan
+Case 2183: mAhitavya: in pysan
+Case 2184: miYgya: in pysan
+Case 2185: miYjanIya: in pysan
+Case 2186: miYjayitavya: in pysan
+Case 2187: miSraRIya: in pysan
+Case 2188: miSrya: in pysan
+Case 2189: mImanIya: in pysan
+Case 2190: mImitavya: in pysan
+Case 2191: mImya: in pysan
+Case 2192: mIvanIya: in pysan
+Case 2193: mIvitavya: in pysan
+Case 2194: mIvya: in pysan
+Case 2195: muYkya: in pysan
+Case 2196: muYcanIya: in pysan
+Case 2197: muYcitavya: in pysan
+Case 2198: muRqanIya: in pysan
+Case 2199: muRqitavya: in pysan
+Case 2200: muRqya: in pysan
+Case 2201: murCanIya: in pysan
+Case 2202: murCitavya: in pysan
+Case 2203: murCya: in pysan
+Case 2204: murvaRIya: in pysan
+Case 2205: murvitavya: in pysan
+Case 2206: murvya: in pysan
+Case 2207: mustanIya: in pysan
+Case 2208: mustayitavya: in pysan
+Case 2209: mustya: in pysan
+Case 2210: mUlanIya: in pysan
+Case 2211: mUlitavya: in pysan
+Case 2212: mUlya: in pysan
+Case 2213: mfgya: in pysan
+Case 2214: mfcya: in pysan
+Case 2215: mfCya: in pysan
+Case 2216: mfRya: in pysan
+Case 2217: meCanIya: in pysan
+Case 2218: meCitavya: in pysan
+Case 2219: meCya: in pysan
+Case 2220: meqanIya: in pysan
+Case 2221: meqitavya: in pysan
+Case 2222: meqya: in pysan
+Case 2223: medayitavya: in pysan
+Case 2224: meDanIya: in pysan
+Case 2225: meDitavya: in pysan
+Case 2226: meDya: in pysan
+Case 2227: mepanIya: in pysan
+Case 2228: mepitavya: in pysan
+Case 2229: mepya: in pysan
+Case 2230: melitavya: in pysan
+Case 2231: mevanIya: in pysan
+Case 2232: mevitavya: in pysan
+Case 2233: mevya: in pysan
+Case 2234: meSanIya: in pysan
+Case 2235: meSitavya: in pysan
+Case 2236: meSya: in pysan
+Case 2237: mesanIya: in pysan
+Case 2238: mesitavya: in pysan
+Case 2239: mesya: in pysan
+Case 2240: mogya: in pysan
+Case 2241: moCanIya: in pysan
+Case 2242: moCitavya: in pysan
+Case 2243: moCya: in pysan
+Case 2244: mojanIya: in pysan
+Case 2245: mojayitavya: in pysan
+Case 2246: mowanIya: in pysan
+Case 2247: mowayitavya: in pysan
+Case 2248: mowitavya: in pysan
+Case 2249: mowya: in pysan
+Case 2250: moqanIya: in pysan
+Case 2251: moqitavya: in pysan
+Case 2252: moqya: in pysan
+Case 2253: moQavya: in pysan
+Case 2254: moRanIya: in pysan
+Case 2255: moRitavya: in pysan
+Case 2256: moRya: in pysan
+Case 2257: modayitavya: in pysan
+Case 2258: moya: in pysan
+Case 2259: moraRIya: in pysan
+Case 2260: moritavya: in pysan
+Case 2261: morya: in pysan
+Case 2262: myakzaRIya: in pysan
+Case 2263: myakzitavya: in pysan
+Case 2264: myakzya: in pysan
+Case 2265: mrakzaRIya: in pysan
+Case 2266: mrakzitavya: in pysan
+Case 2267: mrakzya: in pysan
+Case 2268: mradanIya: in pysan
+Case 2269: mraditavya: in pysan
+Case 2270: mrAdya: in pysan
+Case 2271: mruYkya: in pysan
+Case 2272: mruYcanIya: in pysan
+Case 2273: mruYcitavya: in pysan
+Case 2274: mreqanIya: in pysan
+Case 2275: mreqitavya: in pysan
+Case 2276: mreqya: in pysan
+Case 2277: mretanIya: in pysan
+Case 2278: mretitavya: in pysan
+Case 2279: mretya: in pysan
+Case 2280: mrokya: in pysan
+Case 2281: mrocanIya: in pysan
+Case 2282: mrocitavya: in pysan
+Case 2283: mlakzaRIya: in pysan
+Case 2284: mlakzayitavya: in pysan
+Case 2285: mlakzya: in pysan
+Case 2286: mluYkya: in pysan
+Case 2287: mluYcanIya: in pysan
+Case 2288: mluYcitavya: in pysan
+Case 2289: mleCanIya: in pysan
+Case 2290: mleCayitavya: in pysan
+Case 2291: mleCitavya: in pysan
+Case 2292: mleCya: in pysan
+Case 2293: mlewanIya: in pysan
+Case 2294: mlewitavya: in pysan
+Case 2295: mlewya: in pysan
+Case 2296: mlevanIya: in pysan
+Case 2297: mlevitavya: in pysan
+Case 2298: mlevya: in pysan
+Case 2299: mlokya: in pysan
+Case 2300: mlocanIya: in pysan
+Case 2301: mlocitavya: in pysan
+Case 2302: yaktavya: in pysan
+Case 2303: yakzaRIya: in pysan
+Case 2304: yakzayitavya: in pysan
+Case 2305: yakzitavya: in pysan
+Case 2306: yakzya: in pysan
+Case 2307: yatya: in pysan
+Case 2308: yantraRIya: in pysan
+Case 2309: yantrya: in pysan
+Case 2310: yavanIya: in pysan
+Case 2311: yABya: in pysan
+Case 2312: yAmya: in pysan
+Case 2313: yAvya: in pysan
+Case 2314: yuNganIya: in pysan
+Case 2315: yuNgitavya: in pysan
+Case 2316: yuNgya: in pysan
+Case 2317: yUzaRIya: in pysan
+Case 2318: yUzitavya: in pysan
+Case 2319: yUzya: in pysan
+Case 2320: yezaRIya: in pysan
+Case 2321: yezitavya: in pysan
+Case 2322: yezya: in pysan
+Case 2323: yoCanIya: in pysan
+Case 2324: yoCitavya: in pysan
+Case 2325: yoCya: in pysan
+Case 2326: yojya: in pysan
+Case 2327: yotanIya: in pysan
+Case 2328: yotitavya: in pysan
+Case 2329: yotya: in pysan
+Case 2330: yopanIya: in pysan
+Case 2331: yopitavya: in pysan
+Case 2332: yopya: in pysan
+Case 2333: yoya: in pysan
+Case 2334: yOwanIya: in pysan
+Case 2335: yOwitavya: in pysan
+Case 2336: yOwya: in pysan
+Case 2337: raKaRIya: in pysan
+Case 2338: raKitavya: in pysan
+Case 2339: ragaRIya: in pysan
+Case 2340: ragitavya: in pysan
+Case 2341: raNKaRIya: in pysan
+Case 2342: raNKitavya: in pysan
+Case 2343: raNKya: in pysan
+Case 2344: raNgaRIya: in pysan
+Case 2345: raNgitavya: in pysan
+Case 2346: raNGaRIya: in pysan
+Case 2347: raNGayitavya: in pysan
+Case 2348: raNGitavya: in pysan
+Case 2349: raNGya: in pysan
+Case 2350: raYktavya: in pysan
+Case 2351: raYgya: in pysan
+Case 2352: rawanIya: in pysan
+Case 2353: rawitavya: in pysan
+Case 2354: raWanIya: in pysan
+Case 2355: raWitavya: in pysan
+Case 2356: raRvanIya: in pysan
+Case 2357: raRvitavya: in pysan
+Case 2358: raRvya: in pysan
+Case 2359: rapaRIya: in pysan
+Case 2360: rapitavya: in pysan
+Case 2361: rapya: in pysan
+Case 2362: raPaRIya: in pysan
+Case 2363: raPitavya: in pysan
+Case 2364: raPya: in pysan
+Case 2365: ramPaRIya: in pysan
+Case 2366: ramPitavya: in pysan
+Case 2367: ramPya: in pysan
+Case 2368: rambaRIya: in pysan
+Case 2369: rambitavya: in pysan
+Case 2370: rambya: in pysan
+Case 2371: ramBaRIya: in pysan
+Case 2372: ramBitavya: in pysan
+Case 2373: ramBya: in pysan
+Case 2374: rayitavya: in pysan
+Case 2375: rasanIya: in pysan
+Case 2376: rasitavya: in pysan
+Case 2377: rAkaRIya: in pysan
+Case 2378: rAkayitavya: in pysan
+Case 2379: rAkya: in pysan
+Case 2380: rAKaRIya: in pysan
+Case 2381: rAKitavya: in pysan
+Case 2382: rAKya: in pysan
+Case 2383: rAgaRIya: in pysan
+Case 2384: rAgayitavya: in pysan
+Case 2385: rAgya: in pysan
+Case 2386: rAGaRIya: in pysan
+Case 2387: rAGitavya: in pysan
+Case 2388: rAGya: in pysan
+Case 2389: rAwya: in pysan
+Case 2390: rAWya: in pysan
+Case 2391: rARanIya: in pysan
+Case 2392: rARayitavya: in pysan
+Case 2393: rADitavya: in pysan
+Case 2394: rApya: in pysan
+Case 2395: rAPya: in pysan
+Case 2396: rABya: in pysan
+Case 2397: rAyya: in pysan
+Case 2398: rAvya: in pysan
+Case 2399: rAsanIya: in pysan
+Case 2400: rAsitavya: in pysan
+Case 2401: rAsya: in pysan
+Case 2402: rAhya: in pysan
+Case 2403: riNKaRIya: in pysan
+Case 2404: riNKitavya: in pysan
+Case 2405: riNKya: in pysan
+Case 2406: riNgaRIya: in pysan
+Case 2407: riNgitavya: in pysan
+Case 2408: riNgya: in pysan
+Case 2409: riRvanIya: in pysan
+Case 2410: riRvitavya: in pysan
+Case 2411: riRvya: in pysan
+Case 2412: rimPaRIya: in pysan
+Case 2413: rimPitavya: in pysan
+Case 2414: rimPya: in pysan
+Case 2415: rIvaRIya: in pysan
+Case 2416: rIvitavya: in pysan
+Case 2417: rIvya: in pysan
+Case 2418: ruMSanIya: in pysan
+Case 2419: ruMSayitavya: in pysan
+Case 2420: ruMSitavya: in pysan
+Case 2421: ruMSya: in pysan
+Case 2422: ruRwanIya: in pysan
+Case 2423: ruRwitavya: in pysan
+Case 2424: ruRwya: in pysan
+Case 2425: ruRWanIya: in pysan
+Case 2426: ruRWitavya: in pysan
+Case 2427: ruRWya: in pysan
+Case 2428: rUkzaRIya: in pysan
+Case 2429: rUkzya: in pysan
+Case 2430: rUzaRIya: in pysan
+Case 2431: rUzitavya: in pysan
+Case 2432: rUzya: in pysan
+Case 2433: rekaRIya: in pysan
+Case 2434: rekitavya: in pysan
+Case 2435: reKaRIya: in pysan
+Case 2436: reKitavya: in pysan
+Case 2437: reKya: in pysan
+Case 2438: regya: in pysan
+Case 2439: rejanIya: in pysan
+Case 2440: rejitavya: in pysan
+Case 2441: rewanIya: in pysan
+Case 2442: rewitavya: in pysan
+Case 2443: rewya: in pysan
+Case 2444: reqanIya: in pysan
+Case 2445: reqitavya: in pysan
+Case 2446: reqya: in pysan
+Case 2447: repaRIya: in pysan
+Case 2448: repitavya: in pysan
+Case 2449: repya: in pysan
+Case 2450: rePaRIya: in pysan
+Case 2451: rePitavya: in pysan
+Case 2452: rePya: in pysan
+Case 2453: reBaRIya: in pysan
+Case 2454: reBitavya: in pysan
+Case 2455: reBya: in pysan
+Case 2456: reSanIya: in pysan
+Case 2457: reSya: in pysan
+Case 2458: rehaRIya: in pysan
+Case 2459: rehitavya: in pysan
+Case 2460: rehya: in pysan
+Case 2461: rocitavya: in pysan
+Case 2462: rowanIya: in pysan
+Case 2463: rowayitavya: in pysan
+Case 2464: rowya: in pysan
+Case 2465: roWanIya: in pysan
+Case 2466: roWitavya: in pysan
+Case 2467: roWya: in pysan
+Case 2468: roqanIya: in pysan
+Case 2469: roqitavya: in pysan
+Case 2470: roqya: in pysan
+Case 2471: ropaRIya: in pysan
+Case 2472: ropitavya: in pysan
+Case 2473: ropya: in pysan
+Case 2474: roya: in pysan
+Case 2475: roSanIya: in pysan
+Case 2476: roSya: in pysan
+Case 2477: rOwanIya: in pysan
+Case 2478: rOwitavya: in pysan
+Case 2479: rOwya: in pysan
+Case 2480: lakzitavya: in pysan
+Case 2481: laKanIya: in pysan
+Case 2482: laKitavya: in pysan
+Case 2483: laNGayitavya: in pysan
+Case 2484: laCanIya: in pysan
+Case 2485: laCitavya: in pysan
+Case 2486: lajanIya: in pysan
+Case 2487: lajayitavya: in pysan
+Case 2488: lajitavya: in pysan
+Case 2489: lajgya: in pysan
+Case 2490: laYgya: in pysan
+Case 2491: laYjanIya: in pysan
+Case 2492: laYjayitavya: in pysan
+Case 2493: laYjitavya: in pysan
+Case 2494: lawanIya: in pysan
+Case 2495: lawitavya: in pysan
+Case 2496: laqanIya: in pysan
+Case 2497: laqitavya: in pysan
+Case 2498: laRqanIya: in pysan
+Case 2499: laRqayitavya: in pysan
+Case 2500: laRqya: in pysan
+Case 2501: lamBanIya: in pysan
+Case 2502: lamBitavya: in pysan
+Case 2503: lamBya: in pysan
+Case 2504: layitavya: in pysan
+Case 2505: lardanIya: in pysan
+Case 2506: lardayitavya: in pysan
+Case 2507: lardya: in pysan
+Case 2508: larbaRIya: in pysan
+Case 2509: larbitavya: in pysan
+Case 2510: larbya: in pysan
+Case 2511: lAkanIya: in pysan
+Case 2512: lAkayitavya: in pysan
+Case 2513: lAkya: in pysan
+Case 2514: lAKanIya: in pysan
+Case 2515: lAKitavya: in pysan
+Case 2516: lAKya: in pysan
+Case 2517: lAganIya: in pysan
+Case 2518: lAgayitavya: in pysan
+Case 2519: lAGanIya: in pysan
+Case 2520: lAGitavya: in pysan
+Case 2521: lAGya: in pysan
+Case 2522: lACya: in pysan
+Case 2523: lAjanIya: in pysan
+Case 2524: lAjayitavya: in pysan
+Case 2525: lAjitavya: in pysan
+Case 2526: lAYgya: in pysan
+Case 2527: lAYjanIya: in pysan
+Case 2528: lAYjitavya: in pysan
+Case 2529: lAwya: in pysan
+Case 2530: lAqanIya: in pysan
+Case 2531: lAqayitavya: in pysan
+Case 2532: lAqya: in pysan
+Case 2533: lAtavya: in pysan
+Case 2534: lAnIya: in pysan
+Case 2535: lApya: in pysan
+Case 2536: lABanIya: in pysan
+Case 2537: lABayitavya: in pysan
+Case 2538: lABya: in pysan
+Case 2539: lAyya: in pysan
+Case 2540: lAvya: in pysan
+Case 2541: lASanIya: in pysan
+Case 2542: lASayitavya: in pysan
+Case 2543: lASya: in pysan
+Case 2544: lAzaRIya: in pysan
+Case 2545: lAzayitavya: in pysan
+Case 2546: lAsanIya: in pysan
+Case 2547: lAsayitavya: in pysan
+Case 2548: liNKanIya: in pysan
+Case 2549: liNKitavya: in pysan
+Case 2550: liNKya: in pysan
+Case 2551: liNganIya: in pysan
+Case 2552: liNgayitavya: in pysan
+Case 2553: liNgitavya: in pysan
+Case 2554: liNgya: in pysan
+Case 2555: luYkya: in pysan
+Case 2556: luRwanIya: in pysan
+Case 2557: luRwayitavya: in pysan
+Case 2558: luRwitavya: in pysan
+Case 2559: luRwya: in pysan
+Case 2560: lunTanIya: in pysan
+Case 2561: lunTitavya: in pysan
+Case 2562: lunTya: in pysan
+Case 2563: lumbanIya: in pysan
+Case 2564: lumbayitavya: in pysan
+Case 2565: lumbya: in pysan
+Case 2566: lUzaRIya: in pysan
+Case 2567: lUzayitavya: in pysan
+Case 2568: lUzitavya: in pysan
+Case 2569: lUzya: in pysan
+Case 2570: lepitavya: in pysan
+Case 2571: lERanIya: in pysan
+Case 2572: lERitavya: in pysan
+Case 2573: lERya: in pysan
+Case 2574: locayitavya: in pysan
+Case 2575: lowanIya: in pysan
+Case 2576: lowayitavya: in pysan
+Case 2577: lowitavya: in pysan
+Case 2578: lowya: in pysan
+Case 2579: loWayitavya: in pysan
+Case 2580: loqanIya: in pysan
+Case 2581: loqitavya: in pysan
+Case 2582: loqya: in pysan
+Case 2583: loya: in pysan
+Case 2584: lozaRIya: in pysan
+Case 2585: lozitavya: in pysan
+Case 2586: lozwanIya: in pysan
+Case 2587: lozwitavya: in pysan
+Case 2588: lozwya: in pysan
+Case 2589: lozya: in pysan
+Case 2590: lOqanIya: in pysan
+Case 2591: lOqitavya: in pysan
+Case 2592: lOqya: in pysan
+Case 2593: lpayanIya: in pysan
+Case 2594: lpetavya: in pysan
+Case 2595: lpeya: in pysan
+Case 2596: lvayanIya: in pysan
+Case 2597: lvetavya: in pysan
+Case 2598: lveya: in pysan
+Case 2599: vakanIya: in pysan
+Case 2600: vakitavya: in pysan
+Case 2601: vakkanIya: in pysan
+Case 2602: vakkitavya: in pysan
+Case 2603: vakkya: in pysan
+Case 2604: vakzaRIya: in pysan
+Case 2605: vakzitavya: in pysan
+Case 2606: vakzya: in pysan
+Case 2607: vaKanIya: in pysan
+Case 2608: vaKitavya: in pysan
+Case 2609: vaGya: in pysan
+Case 2610: vaNKanIya: in pysan
+Case 2611: vaNKitavya: in pysan
+Case 2612: vaNKya: in pysan
+Case 2613: vaNganIya: in pysan
+Case 2614: vaNgitavya: in pysan
+Case 2615: vaNgya: in pysan
+Case 2616: vaNGanIya: in pysan
+Case 2617: vaNGitavya: in pysan
+Case 2618: vaNGya: in pysan
+Case 2619: vajanIya: in pysan
+Case 2620: vajitavya: in pysan
+Case 2621: vawanIya: in pysan
+Case 2622: vawayitavya: in pysan
+Case 2623: vawitavya: in pysan
+Case 2624: vawwanIya: in pysan
+Case 2625: vawwitavya: in pysan
+Case 2626: vawwya: in pysan
+Case 2627: vaWanIya: in pysan
+Case 2628: vaWitavya: in pysan
+Case 2629: vaqQanIya: in pysan
+Case 2630: vaqQitavya: in pysan
+Case 2631: vaqQya: in pysan
+Case 2632: vaRanIya: in pysan
+Case 2633: vaRitavya: in pysan
+Case 2634: vaRwanIya: in pysan
+Case 2635: vaRwayitavya: in pysan
+Case 2636: vaRwitavya: in pysan
+Case 2637: vaRwya: in pysan
+Case 2638: vaRWanIya: in pysan
+Case 2639: vaRWitavya: in pysan
+Case 2640: vaRWya: in pysan
+Case 2641: vaRqanIya: in pysan
+Case 2642: vaRqayitavya: in pysan
+Case 2643: vaRqitavya: in pysan
+Case 2644: vaRqya: in pysan
+Case 2645: vaBraRIya: in pysan
+Case 2646: vaBritavya: in pysan
+Case 2647: vaBrya: in pysan
+Case 2648: vayitavya: in pysan
+Case 2649: varkaRIya: in pysan
+Case 2650: varkitavya: in pysan
+Case 2651: varkya: in pysan
+Case 2652: vargya: in pysan
+Case 2653: varcanIya: in pysan
+Case 2654: varcitavya: in pysan
+Case 2655: varQavya: in pysan
+Case 2656: varRanIya: in pysan
+Case 2657: varRitavya: in pysan
+Case 2658: varRya: in pysan
+Case 2659: vartya: in pysan
+Case 2660: varDayitavya: in pysan
+Case 2661: varDya: in pysan
+Case 2662: varPaRIya: in pysan
+Case 2663: varPitavya: in pysan
+Case 2664: varPya: in pysan
+Case 2665: varya: in pysan
+Case 2666: varSanIya: in pysan
+Case 2667: varSitavya: in pysan
+Case 2668: varSya: in pysan
+Case 2669: varhya: in pysan
+Case 2670: valkanIya: in pysan
+Case 2671: valkayitavya: in pysan
+Case 2672: valkya: in pysan
+Case 2673: valBanIya: in pysan
+Case 2674: valBitavya: in pysan
+Case 2675: valBya: in pysan
+Case 2676: vallanIya: in pysan
+Case 2677: vallitavya: in pysan
+Case 2678: vallya: in pysan
+Case 2679: valhanIya: in pysan
+Case 2680: valhayitavya: in pysan
+Case 2681: valhitavya: in pysan
+Case 2682: valhya: in pysan
+Case 2683: vazaRIya: in pysan
+Case 2684: vazitavya: in pysan
+Case 2685: vazkaRIya: in pysan
+Case 2686: vazkitavya: in pysan
+Case 2687: vazkya: in pysan
+Case 2688: vasayitavya: in pysan
+Case 2689: vaskanIya: in pysan
+Case 2690: vaskitavya: in pysan
+Case 2691: vaskya: in pysan
+Case 2692: vastanIya: in pysan
+Case 2693: vastayitavya: in pysan
+Case 2694: vastya: in pysan
+Case 2695: vasya: in pysan
+Case 2696: vAKya: in pysan
+Case 2697: vAgya: in pysan
+Case 2698: vANkzaRIya: in pysan
+Case 2699: vANkzitavya: in pysan
+Case 2700: vANkzya: in pysan
+Case 2701: vAcya: in pysan
+Case 2702: vAwya: in pysan
+Case 2703: vAWya: in pysan
+Case 2704: vARya: in pysan
+Case 2705: vAtanIya: in pysan
+Case 2706: vAtayitavya: in pysan
+Case 2707: vAtya: in pysan
+Case 2708: vApya: in pysan
+Case 2709: vAmya: in pysan
+Case 2710: vAyya: in pysan
+Case 2711: vAvartanIya: in pysan
+Case 2712: vAvartitavya: in pysan
+Case 2713: vAvartya: in pysan
+Case 2714: vAvftya: in pysan
+Case 2715: vAzya: in pysan
+Case 2716: vAsanIya: in pysan
+Case 2717: vAhanIya: in pysan
+Case 2718: vAhitavya: in pysan
+Case 2719: viRwanIya: in pysan
+Case 2720: viRwayitavya: in pysan
+Case 2721: viRwya: in pysan
+Case 2722: vizkaRIya: in pysan
+Case 2723: vizkayitavya: in pysan
+Case 2724: vizkya: in pysan
+Case 2725: vIjayitavya: in pysan
+Case 2726: vIraRIya: in pysan
+Case 2727: vIrayitavya: in pysan
+Case 2728: vIrya: in pysan
+Case 2729: vuRwanIya: in pysan
+Case 2730: vuRwayitavya: in pysan
+Case 2731: vuRwya: in pysan
+Case 2732: vfMhaRIya: in pysan
+Case 2733: vfMhitavya: in pysan
+Case 2734: vfMhya: in pysan
+Case 2735: vfkya: in pysan
+Case 2736: vfkzaRIya: in pysan
+Case 2737: vfkzitavya: in pysan
+Case 2738: vfkzya: in pysan
+Case 2739: vfRya: in pysan
+Case 2740: vfSya: in pysan
+Case 2741: vekzaRIya: in pysan
+Case 2742: vekzayitavya: in pysan
+Case 2743: vekzya: in pysan
+Case 2744: veCanIya: in pysan
+Case 2745: veCayitavya: in pysan
+Case 2746: veCya: in pysan
+Case 2747: vewanIya: in pysan
+Case 2748: vewitavya: in pysan
+Case 2749: vewya: in pysan
+Case 2750: vewyanIya: in pysan
+Case 2751: vewyitavya: in pysan
+Case 2752: vewyya: in pysan
+Case 2753: veqanIya: in pysan
+Case 2754: veqitavya: in pysan
+Case 2755: veqya: in pysan
+Case 2756: veTanIya: in pysan
+Case 2757: veTitavya: in pysan
+Case 2758: veTya: in pysan
+Case 2759: veDitavya: in pysan
+Case 2760: vennavya: in pysan
+Case 2761: vepitavya: in pysan
+Case 2762: velanIya: in pysan
+Case 2763: velayitavya: in pysan
+Case 2764: velitavya: in pysan
+Case 2765: velya: in pysan
+Case 2766: vellanIya: in pysan
+Case 2767: vellitavya: in pysan
+Case 2768: vellya: in pysan
+Case 2769: vevayanIya: in pysan
+Case 2770: vevayitavya: in pysan
+Case 2771: veveya: in pysan
+Case 2772: vesanIya: in pysan
+Case 2773: vesitavya: in pysan
+Case 2774: vesya: in pysan
+Case 2775: vehanIya: in pysan
+Case 2776: vehitavya: in pysan
+Case 2777: vehya: in pysan
+Case 2778: vehlanIya: in pysan
+Case 2779: vehlitavya: in pysan
+Case 2780: vehlya: in pysan
+Case 2781: vyacanIya: in pysan
+Case 2782: vyacitavya: in pysan
+Case 2783: vyaTya: in pysan
+Case 2784: vyadDavya: in pysan
+Case 2785: vyaDanIya: in pysan
+Case 2786: vyapya: in pysan
+Case 2787: vyayanIya: in pysan
+Case 2788: vyayayitavya: in pysan
+Case 2789: vyayitavya: in pysan
+Case 2790: vyAkya: in pysan
+Case 2791: vyADya: in pysan
+Case 2792: vyApanIya: in pysan
+Case 2793: vyApayitavya: in pysan
+Case 2794: vyApya: in pysan
+Case 2795: vyAyya: in pysan
+Case 2796: vyozaRIya: in pysan
+Case 2797: vyozayitavya: in pysan
+Case 2798: vyozitavya: in pysan
+Case 2799: vyozya: in pysan
+Case 2800: vraRanIya: in pysan
+Case 2801: vraRitavya: in pysan
+Case 2802: vrayaRIya: in pysan
+Case 2803: vraSktavya: in pysan
+Case 2804: vrAgya: in pysan
+Case 2805: vrAjanIya: in pysan
+Case 2806: vrAjayitavya: in pysan
+Case 2807: vrARanIya: in pysan
+Case 2808: vrARayitavya: in pysan
+Case 2809: vrARya: in pysan
+Case 2810: vretavya: in pysan
+Case 2811: vreya: in pysan
+Case 2812: vroqanIya: in pysan
+Case 2813: vroqitavya: in pysan
+Case 2814: vroqya: in pysan
+Case 2815: vlayanIya: in pysan
+Case 2816: vletavya: in pysan
+Case 2817: vleya: in pysan
+Case 2818: SaMsitavya: in pysan
+Case 2819: SacanIya: in pysan
+Case 2820: Sacitavya: in pysan
+Case 2821: SawanIya: in pysan
+Case 2822: Sawitavya: in pysan
+Case 2823: SaWanIya: in pysan
+Case 2824: SaWayitavya: in pysan
+Case 2825: SaWitavya: in pysan
+Case 2826: SaRanIya: in pysan
+Case 2827: SaRitavya: in pysan
+Case 2828: SaRqanIya: in pysan
+Case 2829: SaRqitavya: in pysan
+Case 2830: SaRqya: in pysan
+Case 2831: Sannavya: in pysan
+Case 2832: SabdanIya: in pysan
+Case 2833: Sabdya: in pysan
+Case 2834: SambanIya: in pysan
+Case 2835: Sambayitavya: in pysan
+Case 2836: Sambitavya: in pysan
+Case 2837: Sambya: in pysan
+Case 2838: SarDanIya: in pysan
+Case 2839: SarDitavya: in pysan
+Case 2840: SarDya: in pysan
+Case 2841: SarbaRIya: in pysan
+Case 2842: Sarbitavya: in pysan
+Case 2843: Sarbya: in pysan
+Case 2844: Sarya: in pysan
+Case 2845: SarvaRIya: in pysan
+Case 2846: Sarvitavya: in pysan
+Case 2847: Sarvya: in pysan
+Case 2848: SalBanIya: in pysan
+Case 2849: SalBitavya: in pysan
+Case 2850: SalBya: in pysan
+Case 2851: Savitavya: in pysan
+Case 2852: SazaRIya: in pysan
+Case 2853: Sazitavya: in pysan
+Case 2854: SAkya: in pysan
+Case 2855: SAKanIya: in pysan
+Case 2856: SAKitavya: in pysan
+Case 2857: SAKya: in pysan
+Case 2858: SAwanIya: in pysan
+Case 2859: SAwayitavya: in pysan
+Case 2860: SAwya: in pysan
+Case 2861: SAWanIya: in pysan
+Case 2862: SAWayitavya: in pysan
+Case 2863: SAWya: in pysan
+Case 2864: SAqanIya: in pysan
+Case 2865: SAqitavya: in pysan
+Case 2866: SAqya: in pysan
+Case 2867: SARanIya: in pysan
+Case 2868: SARayitavya: in pysan
+Case 2869: SARya: in pysan
+Case 2870: SApya: in pysan
+Case 2871: SAmya: in pysan
+Case 2872: SAlanIya: in pysan
+Case 2873: SAlayitavya: in pysan
+Case 2874: SAlitavya: in pysan
+Case 2875: SAvya: in pysan
+Case 2876: SAzya: in pysan
+Case 2877: SiNKanIya: in pysan
+Case 2878: SiNKitavya: in pysan
+Case 2879: SiNKya: in pysan
+Case 2880: SiNGanIya: in pysan
+Case 2881: SiNGitavya: in pysan
+Case 2882: SiNGya: in pysan
+Case 2883: SiYgya: in pysan
+Case 2884: SiYjanIya: in pysan
+Case 2885: SiYjitavya: in pysan
+Case 2886: SIkanIya: in pysan
+Case 2887: SIkitavya: in pysan
+Case 2888: SIkya: in pysan
+Case 2889: SIBanIya: in pysan
+Case 2890: SIBitavya: in pysan
+Case 2891: SIBya: in pysan
+Case 2892: SucyanIya: in pysan
+Case 2893: Sucyitavya: in pysan
+Case 2894: Sucyya: in pysan
+Case 2895: SuRWanIya: in pysan
+Case 2896: SuRWayitavya: in pysan
+Case 2897: SuRWitavya: in pysan
+Case 2898: SuRWya: in pysan
+Case 2899: SuRqanIya: in pysan
+Case 2900: SuRqitavya: in pysan
+Case 2901: SuRqya: in pysan
+Case 2902: SulkanIya: in pysan
+Case 2903: Sulkayitavya: in pysan
+Case 2904: Sulkya: in pysan
+Case 2905: SulbanIya: in pysan
+Case 2906: Sulbayitavya: in pysan
+Case 2907: Sulbya: in pysan
+Case 2908: SUraRIya: in pysan
+Case 2909: SUrayitavya: in pysan
+Case 2910: SUritavya: in pysan
+Case 2911: SUrpaRIya: in pysan
+Case 2912: SUrpayitavya: in pysan
+Case 2913: SUrpya: in pysan
+Case 2914: SUrya: in pysan
+Case 2915: SUlanIya: in pysan
+Case 2916: SUlitavya: in pysan
+Case 2917: SUlya: in pysan
+Case 2918: SUzaRIya: in pysan
+Case 2919: SUzitavya: in pysan
+Case 2920: SUzya: in pysan
+Case 2921: SfDya: in pysan
+Case 2922: SewanIya: in pysan
+Case 2923: Sewitavya: in pysan
+Case 2924: Sewya: in pysan
+Case 2925: SemanIya: in pysan
+Case 2926: Semitavya: in pysan
+Case 2927: Semya: in pysan
+Case 2928: SelanIya: in pysan
+Case 2929: Selitavya: in pysan
+Case 2930: Selya: in pysan
+Case 2931: SevanIya: in pysan
+Case 2932: Sevitavya: in pysan
+Case 2933: Sevya: in pysan
+Case 2934: SokanIya: in pysan
+Case 2935: Sokitavya: in pysan
+Case 2936: SoWanIya: in pysan
+Case 2937: SoWayitavya: in pysan
+Case 2938: SoWitavya: in pysan
+Case 2939: SoWya: in pysan
+Case 2940: SoRanIya: in pysan
+Case 2941: SoRitavya: in pysan
+Case 2942: SoRya: in pysan
+Case 2943: Sotavya: in pysan
+Case 2944: SonanIya: in pysan
+Case 2945: Sonitavya: in pysan
+Case 2946: Sonya: in pysan
+Case 2947: Soya: in pysan
+Case 2948: SOwanIya: in pysan
+Case 2949: SOwitavya: in pysan
+Case 2950: SOwya: in pysan
+Case 2951: ScyotanIya: in pysan
+Case 2952: Scyotitavya: in pysan
+Case 2953: Scyotya: in pysan
+Case 2954: SnaTanIya: in pysan
+Case 2955: SnaTitavya: in pysan
+Case 2956: SnATya: in pysan
+Case 2957: SmIlanIya: in pysan
+Case 2958: SmIlitavya: in pysan
+Case 2959: SmIlya: in pysan
+Case 2960: SraNkaRIya: in pysan
+Case 2961: SraNkitavya: in pysan
+Case 2962: SraNkya: in pysan
+Case 2963: SraNgaRIya: in pysan
+Case 2964: SraNgitavya: in pysan
+Case 2965: SraNgya: in pysan
+Case 2966: SraRanIya: in pysan
+Case 2967: SraRitavya: in pysan
+Case 2968: SraTanIya: in pysan
+Case 2969: SraTitavya: in pysan
+Case 2970: SramBitavya: in pysan
+Case 2971: SrARanIya: in pysan
+Case 2972: SrARayitavya: in pysan
+Case 2973: SrARIya: in pysan
+Case 2974: SrARya: in pysan
+Case 2975: SrAtavya: in pysan
+Case 2976: SrATya: in pysan
+Case 2977: SrAmya: in pysan
+Case 2978: SrAvya: in pysan
+Case 2979: Sretavya: in pysan
+Case 2980: SrezaRIya: in pysan
+Case 2981: Srezitavya: in pysan
+Case 2982: Srezya: in pysan
+Case 2983: SroRanIya: in pysan
+Case 2984: SroRitavya: in pysan
+Case 2985: SroRya: in pysan
+Case 2986: Sroya: in pysan
+Case 2987: SlaNkanIya: in pysan
+Case 2988: SlaNkitavya: in pysan
+Case 2989: SlaNkya: in pysan
+Case 2990: SlaNganIya: in pysan
+Case 2991: SlaNgitavya: in pysan
+Case 2992: SlaNgya: in pysan
+Case 2993: SlaTanIya: in pysan
+Case 2994: SlaTitavya: in pysan
+Case 2995: SlAKanIya: in pysan
+Case 2996: SlAKitavya: in pysan
+Case 2997: SlAKya: in pysan
+Case 2998: SlATya: in pysan
+Case 2999: SlokanIya: in pysan
+Case 3000: Slokitavya: in pysan
+Case 3001: Slokya: in pysan
+Case 3002: SloRanIya: in pysan
+Case 3003: SloRitavya: in pysan
+Case 3004: SloRya: in pysan
+Case 3005: SvaNkanIya: in pysan
+Case 3006: SvaNkitavya: in pysan
+Case 3007: SvaNkya: in pysan
+Case 3008: SvaNganIya: in pysan
+Case 3009: SvaNgitavya: in pysan
+Case 3010: SvaNgya: in pysan
+Case 3011: SvacanIya: in pysan
+Case 3012: Svacitavya: in pysan
+Case 3013: SvajanIya: in pysan
+Case 3014: Svajitavya: in pysan
+Case 3015: SvaBraRIya: in pysan
+Case 3016: SvaBrayitavya: in pysan
+Case 3017: SvaBrya: in pysan
+Case 3018: SvayanIya: in pysan
+Case 3019: SvalanIya: in pysan
+Case 3020: Svalitavya: in pysan
+Case 3021: SvalkanIya: in pysan
+Case 3022: Svalkayitavya: in pysan
+Case 3023: Svalkya: in pysan
+Case 3024: SvAkya: in pysan
+Case 3025: SvAgya: in pysan
+Case 3026: SvAWanIya: in pysan
+Case 3027: SvAWayitavya: in pysan
+Case 3028: SvAWya: in pysan
+Case 3029: SvAtraRIya: in pysan
+Case 3030: SvAtritavya: in pysan
+Case 3031: SvAtrya: in pysan
+Case 3032: SvAlya: in pysan
+Case 3033: SvindanIya: in pysan
+Case 3034: Svinditavya: in pysan
+Case 3035: Svindya: in pysan
+Case 3036: Sveya: in pysan
+Case 3037: zawwanIya: in pysan
+Case 3038: zawwayitavya: in pysan
+Case 3039: zawwya: in pysan
+Case 3040: zazkaRIya: in pysan
+Case 3041: zazkitavya: in pysan
+Case 3042: zazkya: in pysan
+Case 3043: zukkaRIya: in pysan
+Case 3044: zukkitavya: in pysan
+Case 3045: zukkya: in pysan
+Case 3046: zWevanIya: in pysan
+Case 3047: zWevitavya: in pysan
+Case 3048: zWevya: in pysan
+Case 3049: zvakkaRIya: in pysan
+Case 3050: zvakkitavya: in pysan
+Case 3051: zvakkya: in pysan
+Case 3052: zvazkaRIya: in pysan
+Case 3053: zvazkitavya: in pysan
+Case 3054: zvazkya: in pysan
+Case 3055: sakzaRIya: in pysan
+Case 3056: sakzitavya: in pysan
+Case 3057: sakzya: in pysan
+Case 3058: saganIya: in pysan
+Case 3059: sagitavya: in pysan
+Case 3060: saGanIya: in pysan
+Case 3061: saGitavya: in pysan
+Case 3062: sajgya: in pysan
+Case 3063: sajjanIya: in pysan
+Case 3064: sajjitavya: in pysan
+Case 3065: saYktavya: in pysan
+Case 3066: saYgya: in pysan
+Case 3067: sawanIya: in pysan
+Case 3068: sawitavya: in pysan
+Case 3069: sawwanIya: in pysan
+Case 3070: sawwayitavya: in pysan
+Case 3071: sawwya: in pysan
+Case 3072: satraRIya: in pysan
+Case 3073: satrayitavya: in pysan
+Case 3074: satrya: in pysan
+Case 3075: sannavya: in pysan
+Case 3076: saBAgya: in pysan
+Case 3077: saBAjanIya: in pysan
+Case 3078: saBAjayitavya: in pysan
+Case 3079: samanIya: in pysan
+Case 3080: samitavya: in pysan
+Case 3081: samya: in pysan
+Case 3082: sayanIya: in pysan
+Case 3083: sayitavya: in pysan
+Case 3084: saritavya: in pysan
+Case 3085: sargya: in pysan
+Case 3086: sarjitavya: in pysan
+Case 3087: sarpya: in pysan
+Case 3088: sarbaRIya: in pysan
+Case 3089: sarbitavya: in pysan
+Case 3090: sarbya: in pysan
+Case 3091: sarBaRIya: in pysan
+Case 3092: sarBitavya: in pysan
+Case 3093: sarBya: in pysan
+Case 3094: sarya: in pysan
+Case 3095: salanIya: in pysan
+Case 3096: salitavya: in pysan
+Case 3097: sasanIya: in pysan
+Case 3098: sasitavya: in pysan
+Case 3099: sAkzaRIya: in pysan
+Case 3100: sAkzitavya: in pysan
+Case 3101: sAkzya: in pysan
+Case 3102: sAgya: in pysan
+Case 3103: sAGya: in pysan
+Case 3104: sAwanIya: in pysan
+Case 3105: sAwayitavya: in pysan
+Case 3106: sAwya: in pysan
+Case 3107: sAWanIya: in pysan
+Case 3108: sAWayitavya: in pysan
+Case 3109: sAWya: in pysan
+Case 3110: sAdDavya: in pysan
+Case 3111: sADanIya: in pysan
+Case 3112: sADya: in pysan
+Case 3113: sAntvanIya: in pysan
+Case 3114: sAntvya: in pysan
+Case 3115: sApya: in pysan
+Case 3116: sAmanIya: in pysan
+Case 3117: sAmayanIya: in pysan
+Case 3118: sAmayaya: in pysan
+Case 3119: sAmayAyitavya: in pysan
+Case 3120: sAmayitavya: in pysan
+Case 3121: sAmya: in pysan
+Case 3122: sAyya: in pysan
+Case 3123: sAraRIya: in pysan
+Case 3124: sArayitavya: in pysan
+Case 3125: sAlya: in pysan
+Case 3126: sAvya: in pysan
+Case 3127: sAsya: in pysan
+Case 3128: siDya: in pysan
+Case 3129: suKanIya: in pysan
+Case 3130: suKayitavya: in pysan
+Case 3131: suwwanIya: in pysan
+Case 3132: suwwayitavya: in pysan
+Case 3133: suwwya: in pysan
+Case 3134: sUkya: in pysan
+Case 3135: sUtraRIya: in pysan
+Case 3136: sUtrya: in pysan
+Case 3137: sUditavya: in pysan
+Case 3138: sUrkzaRIya: in pysan
+Case 3139: sUrkzitavya: in pysan
+Case 3140: sUrkzya: in pysan
+Case 3141: sUrya: in pysan
+Case 3142: sUzaRIya: in pysan
+Case 3143: sUzitavya: in pysan
+Case 3144: sUzya: in pysan
+Case 3145: sfBya: in pysan
+Case 3146: sekanIya: in pysan
+Case 3147: sekitavya: in pysan
+Case 3148: sewanIya: in pysan
+Case 3149: sewitavya: in pysan
+Case 3150: sewya: in pysan
+Case 3151: seya: in pysan
+Case 3152: soKanIya: in pysan
+Case 3153: soKitavya: in pysan
+Case 3154: soKya: in pysan
+Case 3155: soBanIya: in pysan
+Case 3156: soBitavya: in pysan
+Case 3157: soBya: in pysan
+Case 3158: soya: in pysan
+Case 3159: sorayitavya: in pysan
+Case 3160: sohanIya: in pysan
+Case 3161: sohitavya: in pysan
+Case 3162: sohya: in pysan
+Case 3163: skanDanIya: in pysan
+Case 3164: skanDayitavya: in pysan
+Case 3165: skanDya: in pysan
+Case 3166: skannnavya: in pysan
+Case 3167: skavanIya: in pysan
+Case 3168: skAvya: in pysan
+Case 3169: skundanIya: in pysan
+Case 3170: skunditavya: in pysan
+Case 3171: skundya: in pysan
+Case 3172: skotavya: in pysan
+Case 3173: skoya: in pysan
+Case 3174: sKadanIya: in pysan
+Case 3175: sKaditavya: in pysan
+Case 3176: sKAdya: in pysan
+Case 3177: stakanIya: in pysan
+Case 3178: stakitavya: in pysan
+Case 3179: starQavya: in pysan
+Case 3180: startavya: in pysan
+Case 3181: starhaRIya: in pysan
+Case 3182: starhitavya: in pysan
+Case 3183: starhya: in pysan
+Case 3184: stAkya: in pysan
+Case 3185: stAtavya: in pysan
+Case 3186: stAnIya: in pysan
+Case 3187: stArya: in pysan
+Case 3188: stumBanIya: in pysan
+Case 3189: stumBitavya: in pysan
+Case 3190: stumBya: in pysan
+Case 3191: stUpanIya: in pysan
+Case 3192: stUpayitavya: in pysan
+Case 3193: stUpitavya: in pysan
+Case 3194: stUpya: in pysan
+Case 3195: stfkzaRIya: in pysan
+Case 3196: stfkzitavya: in pysan
+Case 3197: stfkzya: in pysan
+Case 3198: stfhya: in pysan
+Case 3199: steGanIya: in pysan
+Case 3200: steGitavya: in pysan
+Case 3201: steGya: in pysan
+Case 3202: stenanIya: in pysan
+Case 3203: stenya: in pysan
+Case 3204: stepanIya: in pysan
+Case 3205: stepayitavya: in pysan
+Case 3206: stepitavya: in pysan
+Case 3207: stepya: in pysan
+Case 3208: stemanIya: in pysan
+Case 3209: stemitavya: in pysan
+Case 3210: stemya: in pysan
+Case 3211: steya: in pysan
+Case 3212: stokya: in pysan
+Case 3213: stocanIya: in pysan
+Case 3214: stocitavya: in pysan
+Case 3215: stoya: in pysan
+Case 3216: sTaganIya: in pysan
+Case 3217: sTagitavya: in pysan
+Case 3218: sTalanIya: in pysan
+Case 3219: sTalitavya: in pysan
+Case 3220: sTAgya: in pysan
+Case 3221: sTAlya: in pysan
+Case 3222: sTUlanIya: in pysan
+Case 3223: sTUlayitavya: in pysan
+Case 3224: sTUlya: in pysan
+Case 3225: sTeraRIya: in pysan
+Case 3226: sTeritavya: in pysan
+Case 3227: sTerya: in pysan
+Case 3228: sToqanIya: in pysan
+Case 3229: sToqitavya: in pysan
+Case 3230: sToqya: in pysan
+Case 3231: snAvya: in pysan
+Case 3232: snewanIya: in pysan
+Case 3233: snewayitavya: in pysan
+Case 3234: snewya: in pysan
+Case 3235: sneQavya: in pysan
+Case 3236: snokya: in pysan
+Case 3237: snocanIya: in pysan
+Case 3238: snocitavya: in pysan
+Case 3239: snoya: in pysan
+Case 3240: snosanIya: in pysan
+Case 3241: snositavya: in pysan
+Case 3242: snosya: in pysan
+Case 3243: sparaRIya: in pysan
+Case 3244: sparitavya: in pysan
+Case 3245: spartavya: in pysan
+Case 3246: sparya: in pysan
+Case 3247: sparSya: in pysan
+Case 3248: sparzaRIya: in pysan
+Case 3249: sparzitavya: in pysan
+Case 3250: sparzya: in pysan
+Case 3251: sparhya: in pysan
+Case 3252: spaSanIya: in pysan
+Case 3253: spaSitavya: in pysan
+Case 3254: spArya: in pysan
+Case 3255: spASanIya: in pysan
+Case 3256: spASayitavya: in pysan
+Case 3257: spASya: in pysan
+Case 3258: spfhaRIya: in pysan
+Case 3259: sPawanIya: in pysan
+Case 3260: sPawitavya: in pysan
+Case 3261: sPaRqanIya: in pysan
+Case 3262: sPaRqayitavya: in pysan
+Case 3263: sPaRqya: in pysan
+Case 3264: sParaRIya: in pysan
+Case 3265: sParitavya: in pysan
+Case 3266: sPAwanIya: in pysan
+Case 3267: sPAwayitavya: in pysan
+Case 3268: sPAwya: in pysan
+Case 3269: sPAyanIya: in pysan
+Case 3270: sPAyitavya: in pysan
+Case 3271: sPAyya: in pysan
+Case 3272: sPArya: in pysan
+Case 3273: sPiwwanIya: in pysan
+Case 3274: sPiwwayitavya: in pysan
+Case 3275: sPiwwya: in pysan
+Case 3276: sPuwwanIya: in pysan
+Case 3277: sPuwwayitavya: in pysan
+Case 3278: sPuwwya: in pysan
+Case 3279: sPuRwanIya: in pysan
+Case 3280: sPuRwayitavya: in pysan
+Case 3281: sPuRwitavya: in pysan
+Case 3282: sPuRwya: in pysan
+Case 3283: sPuRqanIya: in pysan
+Case 3284: sPuRqayitavya: in pysan
+Case 3285: sPuRqitavya: in pysan
+Case 3286: sPuRqya: in pysan
+Case 3287: sPUrgya: in pysan
+Case 3288: sPUrCanIya: in pysan
+Case 3289: sPUrCitavya: in pysan
+Case 3290: sPUrCya: in pysan
+Case 3291: sPUrjanIya: in pysan
+Case 3292: sPUrjitavya: in pysan
+Case 3293: sPewanIya: in pysan
+Case 3294: sPewayitavya: in pysan
+Case 3295: sPewya: in pysan
+Case 3296: sPowitavya: in pysan
+Case 3297: sPoqanIya: in pysan
+Case 3298: sPoqitavya: in pysan
+Case 3299: sPoqya: in pysan
+Case 3300: sPoritavya: in pysan
+Case 3301: sPolanIya: in pysan
+Case 3302: sPolitavya: in pysan
+Case 3303: sPolya: in pysan
+Case 3304: smarya: in pysan
+Case 3305: smewanIya: in pysan
+Case 3306: smewayitavya: in pysan
+Case 3307: smewya: in pysan
+Case 3308: syannnavya: in pysan
+Case 3309: syamanIya: in pysan
+Case 3310: syamitavya: in pysan
+Case 3311: syamya: in pysan
+Case 3312: syAmya: in pysan
+Case 3313: sraMhaRIya: in pysan
+Case 3314: sraMhitavya: in pysan
+Case 3315: sraMhya: in pysan
+Case 3316: srAvya: in pysan
+Case 3317: srekaRIya: in pysan
+Case 3318: srekitavya: in pysan
+Case 3319: srekya: in pysan
+Case 3320: sreDanIya: in pysan
+Case 3321: sreDitavya: in pysan
+Case 3322: sreDya: in pysan
+Case 3323: sreBaRIya: in pysan
+Case 3324: sreBitavya: in pysan
+Case 3325: sreBya: in pysan
+Case 3326: srevaRIya: in pysan
+Case 3327: srevitavya: in pysan
+Case 3328: srevya: in pysan
+Case 3329: sroya: in pysan
+Case 3330: svaNganIya: in pysan
+Case 3331: svaNgitavya: in pysan
+Case 3332: svajanIya: in pysan
+Case 3333: svajitavya: in pysan
+Case 3334: svarayitavya: in pysan
+Case 3335: svartavya: in pysan
+Case 3336: svardanIya: in pysan
+Case 3337: svarditavya: in pysan
+Case 3338: svardya: in pysan
+Case 3339: svarya: in pysan
+Case 3340: svAgya: in pysan
+Case 3341: svApya: in pysan
+Case 3342: svennavya: in pysan
+Case 3343: hawanIya: in pysan
+Case 3344: hawitavya: in pysan
+Case 3345: haditavya: in pysan
+Case 3346: hammanIya: in pysan
+Case 3347: hammitavya: in pysan
+Case 3348: hammya: in pysan
+Case 3349: hayitavya: in pysan
+Case 3350: harya: in pysan
+Case 3351: harzya: in pysan
+Case 3352: halanIya: in pysan
+Case 3353: halitavya: in pysan
+Case 3354: hAwya: in pysan
+Case 3355: hAyya: in pysan
+Case 3356: hAlya: in pysan
+Case 3357: hAvya: in pysan
+Case 3358: hiMsya: in pysan
+Case 3359: hiRqanIya: in pysan
+Case 3360: hiRqitavya: in pysan
+Case 3361: hiRqya: in pysan
+Case 3362: hurCanIya: in pysan
+Case 3363: hurCitavya: in pysan
+Case 3364: hurCya: in pysan
+Case 3365: hUqanIya: in pysan
+Case 3366: hUqitavya: in pysan
+Case 3367: hUqya: in pysan
+Case 3368: heWanIya: in pysan
+Case 3369: heWitavya: in pysan
+Case 3370: heWya: in pysan
+Case 3371: heqanIya: in pysan
+Case 3372: heqitavya: in pysan
+Case 3373: heqya: in pysan
+Case 3374: heQanIya: in pysan
+Case 3375: heQitavya: in pysan
+Case 3376: heQya: in pysan
+Case 3377: helanIya: in pysan
+Case 3378: helitavya: in pysan
+Case 3379: helya: in pysan
+Case 3380: hezaRIya: in pysan
+Case 3381: hezitavya: in pysan
+Case 3382: hezya: in pysan
+Case 3383: hoqanIya: in pysan
+Case 3384: hoqitavya: in pysan
+Case 3385: hoqya: in pysan
+Case 3386: hoya: in pysan
+Case 3387: holanIya: in pysan
+Case 3388: holitavya: in pysan
+Case 3389: holya: in pysan
+Case 3390: hnAvya: in pysan
+Case 3391: hnoya: in pysan
+Case 3392: hmalanIya: in pysan
+Case 3393: hmalitavya: in pysan
+Case 3394: hmAlya: in pysan
+Case 3395: hragaRIya: in pysan
+Case 3396: hragitavya: in pysan
+Case 3397: hravaRIya: in pysan
+Case 3398: hrAgya: in pysan
+Case 3399: hrAvya: in pysan
+Case 3400: hrICanIya: in pysan
+Case 3401: hrICitavya: in pysan
+Case 3402: hrICya: in pysan
+Case 3403: hretavya: in pysan
+Case 3404: hrepaRIya: in pysan
+Case 3405: hrepitavya: in pysan
+Case 3406: hrepya: in pysan
+Case 3407: hrezaRIya: in pysan
+Case 3408: hrezitavya: in pysan
+Case 3409: hrezya: in pysan
+Case 3410: hroqanIya: in pysan
+Case 3411: hroqitavya: in pysan
+Case 3412: hroqya: in pysan
+Case 3413: hrotavya: in pysan
+Case 3414: hroya: in pysan
+Case 3415: hrOqanIya: in pysan
+Case 3416: hrOqitavya: in pysan
+Case 3417: hrOqya: in pysan
+Case 3418: hlaganIya: in pysan
+Case 3419: hlagitavya: in pysan
+Case 3420: hlapya: in pysan
+Case 3421: hlasanIya: in pysan
+Case 3422: hlasitavya: in pysan
+Case 3423: hlAgya: in pysan
+Case 3424: hlApanIya: in pysan
+Case 3425: hlApayitavya: in pysan
+Case 3426: hlApya: in pysan
+Case 3427: hlAsya: in pysan
+Case 3428: hvarya: in pysan
+Case 3429: hvAnIya: in pysan
+Case 3430: hveya: in pysan
+--------------------------------------------------
+406 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: agadyitavya: in huet
+Case 02: aGAyitavya: in huet
+Case 03: aNktavya: in huet
+Case 04: aNgitavya: in huet
+Case 05: ajirAyitavya: in huet
+Case 06: ajya: in huet
+Case 07: attavya: in huet
+Case 08: aDvarIyitavya: in huet
+Case 09: aDvaryitavya: in huet
+Case 10: apsarAyitavya: in huet
+Case 11: aBrAyitavya: in huet
+Case 12: amitrayitavya: in huet
+Case 13: amItavya: in huet
+Case 14: amyanIya: in huet
+Case 15: arGya: in huet
+Case 16: arTApayitavya: in huet
+Case 17: aSanAyitavya: in huet
+Case 18: aSanIyitavya: in huet
+Case 19: aSvasyitavya: in huet
+Case 20: aSvAyitavya: in huet
+Case 21: azwavya: in huet
+Case 22: asUyitavya: in huet
+Case 23: AkarRayitavya: in huet
+Case 24: Akulayitavya: in huet
+Case 25: Andolayitavya: in huet
+Case 26: Avilayitavya: in huet
+Case 27: irasyitavya: in huet
+Case 28: izuDyitavya: in huet
+Case 29: IrzaRIya: in huet
+Case 30: Irzitavya: in huet
+Case 31: Irzya: in huet
+Case 32: utkaRWanIya: in huet
+Case 33: utkaRWitavya: in huet
+Case 34: utkaRWya: in huet
+Case 35: utkayitavya: in huet
+Case 36: udakIyitavya: in huet
+Case 37: udanyitavya: in huet
+Case 38: unmanAyitavya: in huet
+Case 39: umBanIya: in huet
+Case 40: umBitavya: in huet
+Case 41: umBya: in huet
+Case 42: urasyitavya: in huet
+Case 43: urozaRIya: in huet
+Case 44: urozitavya: in huet
+Case 45: urozya: in huet
+Case 46: uzasyitavya: in huet
+Case 47: UzmAyitavya: in huet
+Case 48: enanIya: in huet
+Case 49: enitavya: in huet
+Case 50: enya: in huet
+Case 51: ezwavya: in huet
+Case 52: kaRqUyitavya: in huet
+Case 53: kaRvAyitavya: in huet
+Case 54: kaTya: in huet
+Case 55: kadarTayitavya: in huet
+Case 56: karItavya: in huet
+Case 57: karuRAyitavya: in huet
+Case 58: kartrIyitavya: in huet
+Case 59: karptavya: in huet
+Case 60: kalaNkayitavya: in huet
+Case 61: kalahAyitavya: in huet
+Case 62: kaluzayitavya: in huet
+Case 63: kaluzAyitavya: in huet
+Case 64: kalya: in huet
+Case 65: kavalayitavya: in huet
+Case 66: kavIyitavya: in huet
+Case 67: kazwAyitavya: in huet
+Case 68: kutsitavya: in huet
+Case 69: kusumayitavya: in huet
+Case 70: kUjya: in huet
+Case 71: kfcCrAyitavya: in huet
+Case 72: kfpya: in huet
+Case 73: kelAyitavya: in huet
+Case 74: kocya: in huet
+Case 75: krantavya: in huet
+Case 76: krazwavya: in huet
+Case 77: kruYcya: in huet
+Case 78: klIbaya: in huet
+Case 79: klIbAnIya: in huet
+Case 80: klIbAyitavya: in huet
+Case 81: klIbetavya: in huet
+Case 82: klettavya: in huet
+Case 83: kzananIya: in huet
+Case 84: kzanitavya: in huet
+Case 85: kzayitavya: in huet
+Case 86: kzayya: in huet
+Case 87: kzavya: in huet
+Case 88: kzIrasyitavya: in huet
+Case 89: kzottavya: in huet
+Case 90: Kaqayitavya: in huet
+Case 91: Kettavya: in huet
+Case 92: KelAyitavya: in huet
+Case 93: gaRya: in huet
+Case 94: gadgadyitavya: in huet
+Case 95: garItavya: in huet
+Case 96: garjya: in huet
+Case 97: garvayitavya: in huet
+Case 98: garvAyitavya: in huet
+Case 99: gavezaRIya: in huet
+Case 100: gavezayitavya: in huet
+Case 101: gavezitavya: in huet
+Case 102: gavezya: in huet
+Case 103: gavyitavya: in huet
+Case 104: gAjya: in huet
+Case 105: guYjya: in huet
+Case 106: gupya: in huet
+Case 107: gfhya: in huet
+Case 108: gopayitavya: in huet
+Case 109: gopAyitavya: in huet
+Case 110: gomayitavya: in huet
+Case 111: gohanIya: in huet
+Case 112: graTya: in huet
+Case 113: granTanIya: in huet
+Case 114: granTitavya: in huet
+Case 115: grahItavya: in huet
+Case 116: glAyanIya: in huet
+Case 117: Gozwavya: in huet
+Case 118: caNkya: in huet
+Case 119: citya: in huet
+Case 120: citrIyitavya: in huet
+Case 121: curya: in huet
+Case 122: coritavya: in huet
+Case 123: cozya: in huet
+Case 124: cyavanIya: in huet
+Case 125: cyavya: in huet
+Case 126: cyotavya: in huet
+Case 127: CandanIya: in huet
+Case 128: Canditavya: in huet
+Case 129: Candya: in huet
+Case 130: Calayitavya: in huet
+Case 131: Cidrayitavya: in huet
+Case 132: Cettavya: in huet
+Case 133: jayitavya: in huet
+Case 134: jayya: in huet
+Case 135: jarItavya: in huet
+Case 136: jalAyitavya: in huet
+Case 137: javanIya: in huet
+Case 138: javitavya: in huet
+Case 139: javya: in huet
+Case 140: jahitavya: in huet
+Case 141: jAgartavya: in huet
+Case 142: jitya: in huet
+Case 143: jihmAyitavya: in huet
+Case 144: jvaraRIya: in huet
+Case 145: jvaritavya: in huet
+Case 146: jvArya: in huet
+Case 147: taNktavya: in huet
+Case 148: tantrayitavya: in huet
+Case 149: tandrayitavya: in huet
+Case 150: tapasyitavya: in huet
+Case 151: tapitavya: in huet
+Case 152: taraNgayitavya: in huet
+Case 153: tarItavya: in huet
+Case 154: taruRayitavya: in huet
+Case 155: taruRAyitavya: in huet
+Case 156: tavizIyitavya: in huet
+Case 157: tArya: in huet
+Case 158: tirasyitavya: in huet
+Case 159: tulayitavya: in huet
+Case 160: tulya: in huet
+Case 161: tuhinayitavya: in huet
+Case 162: tottavya: in huet
+Case 163: tyajitavya: in huet
+Case 164: tyajya: in huet
+Case 165: trAyaRIya: in huet
+Case 166: daMSitavya: in huet
+Case 167: daRqayitavya: in huet
+Case 168: darItavya: in huet
+Case 169: darpitavya: in huet
+Case 170: davya: in huet
+Case 171: dahitavya: in huet
+Case 172: dIvanIya: in huet
+Case 173: dIvitavya: in huet
+Case 174: dIvya: in huet
+Case 175: duHKyitavya: in huet
+Case 176: durdinAyitavya: in huet
+Case 177: dravya: in huet
+Case 178: drazwavya: in huet
+Case 179: drogDavya: in huet
+Case 180: DanAyitavya: in huet
+Case 181: DanIyitavya: in huet
+Case 182: DIrayitavya: in huet
+Case 183: DUmAyitavya: in huet
+Case 184: Dravya: in huet
+Case 185: naMzwavya: in huet
+Case 186: namasyitavya: in huet
+Case 187: namitavya: in huet
+Case 188: navya: in huet
+Case 189: nAvyitavya: in huet
+Case 190: nikazAyitavya: in huet
+Case 191: niNgya: in huet
+Case 192: nIhArAyitavya: in huet
+Case 193: nUtanayitavya: in huet
+Case 194: nottavya: in huet
+Case 195: pawapawAyitavya: in huet
+Case 196: pattavya: in huet
+Case 197: payasyitavya: in huet
+Case 198: payAyitavya: in huet
+Case 199: parItavya: in huet
+Case 200: parokzAyitavya: in huet
+Case 201: pavitrayitavya: in huet
+Case 202: paSanIya: in huet
+Case 203: piNgya: in huet
+Case 204: pIyUzavarzAyitavya: in huet
+Case 205: putrakAmyitavya: in huet
+Case 206: putriyitavya: in huet
+Case 207: putrIyitavya: in huet
+Case 208: pulakayitavya: in huet
+Case 209: puzkarAyitavya: in huet
+Case 210: puzpAyitavya: in huet
+Case 211: puzpyitavya: in huet
+Case 212: pUjya: in huet
+Case 213: pUlaya: in huet
+Case 214: pUlAnIya: in huet
+Case 215: pUletavya: in huet
+Case 216: pfcCya: in huet
+Case 217: pratikUlayitavya: in huet
+Case 218: pravya: in huet
+Case 219: praSanIya: in huet
+Case 220: prazwavya: in huet
+Case 221: prasAdayitavya: in huet
+Case 222: prAsAdIyitavya: in huet
+Case 223: priyAyitavya: in huet
+Case 224: plavya: in huet
+Case 225: PenAyitavya: in huet
+Case 226: banDitavya: in huet
+Case 227: bAzpAyitavya: in huet
+Case 228: BaNktavya: in huet
+Case 229: BaNgya: in huet
+Case 230: Bajitavya: in huet
+Case 231: Barzwavya: in huet
+Case 232: Bavya: in huet
+Case 233: Bazwavya: in huet
+Case 234: Bizajyitavya: in huet
+Case 235: Bfggya: in huet
+Case 236: BfSAyitavya: in huet
+Case 237: Brazwavya: in huet
+Case 238: maggya: in huet
+Case 239: maNktavya: in huet
+Case 240: maDusyitavya: in huet
+Case 241: maDvasyitavya: in huet
+Case 242: manitavya: in huet
+Case 243: mantUyitavya: in huet
+Case 244: marzitavya: in huet
+Case 245: malinayitavya: in huet
+Case 246: mahIyitavya: in huet
+Case 247: mAMsIyitavya: in huet
+Case 248: mArjitavya: in huet
+Case 249: mArjya: in huet
+Case 250: mAlyaguRAyitavya: in huet
+Case 251: midya: in huet
+Case 252: mindayitavya: in huet
+Case 253: militavya: in huet
+Case 254: mukulayitavya: in huet
+Case 255: muKarayitavya: in huet
+Case 256: muRqayitavya: in huet
+Case 257: mudrayitavya: in huet
+Case 258: mUtrayitavya: in huet
+Case 259: mUrCanIya: in huet
+Case 260: mUrCitavya: in huet
+Case 261: mUrCya: in huet
+Case 262: mfgayitavya: in huet
+Case 263: mfqayitavya: in huet
+Case 264: mfzAyitavya: in huet
+Case 265: meGAyitavya: in huet
+Case 266: mogDavya: in huet
+Case 267: mlecCanIya: in huet
+Case 268: mlecCitavya: in huet
+Case 269: mlecCya: in huet
+Case 270: yajya: in huet
+Case 271: yamitavya: in huet
+Case 272: yazwavya: in huet
+Case 273: yugAyitavya: in huet
+Case 274: yUya: in huet
+Case 275: raNktavya: in huet
+Case 276: racya: in huet
+Case 277: raTakAmyitavya: in huet
+Case 278: ravya: in huet
+Case 279: rahya: in huet
+Case 280: rAjIyitavya: in huet
+Case 281: rAjya: in huet
+Case 282: rAdDavya: in huet
+Case 283: rucya: in huet
+Case 284: roDitavya: in huet
+Case 285: romanTAyitavya: in huet
+Case 286: laggya: in huet
+Case 287: laGayitavya: in huet
+Case 288: laBitavya: in huet
+Case 289: lavaRasyitavya: in huet
+Case 290: lavya: in huet
+Case 291: lAlAyitavya: in huet
+Case 292: liKitavya: in huet
+Case 293: luNkya: in huet
+Case 294: luRWanIya: in huet
+Case 295: luRWitavya: in huet
+Case 296: luRWya: in huet
+Case 297: lelAnIya: in huet
+Case 298: lelAya: in huet
+Case 299: lelAyitavya: in huet
+Case 300: lolanIya: in huet
+Case 301: lolitavya: in huet
+Case 302: lolya: in huet
+Case 303: lohitAyitavya: in huet
+Case 304: vaDanIya: in huet
+Case 305: vaDya: in huet
+Case 306: vapitavya: in huet
+Case 307: varivasyitavya: in huet
+Case 308: varItavya: in huet
+Case 309: vareRya: in huet
+Case 310: varttavya: in huet
+Case 311: valgUyitavya: in huet
+Case 312: vaSanIya: in huet
+Case 313: vaSitavya: in huet
+Case 314: vasitavya: in huet
+Case 315: vAcyitavya: in huet
+Case 316: vijitavya: in huet
+Case 317: vimanAyitavya: in huet
+Case 318: viSadayitavya: in huet
+Case 319: vizAyitavya: in huet
+Case 320: vfzasyitavya: in huet
+Case 321: vfzIyitavya: in huet
+Case 322: vejitavya: in huet
+Case 323: vettavya: in huet
+Case 324: vedApayitavya: in huet
+Case 325: veditavya: in huet
+Case 326: vedDavya: in huet
+Case 327: vErAyitavya: in huet
+Case 328: vrajanIya: in huet
+Case 329: vrajitavya: in huet
+Case 330: vraRayitavya: in huet
+Case 331: vrazwavya: in huet
+Case 332: vrAjya: in huet
+Case 333: Sattavya: in huet
+Case 334: SabdAyitavya: in huet
+Case 335: SarItavya: in huet
+Case 336: SalaBAyitavya: in huet
+Case 337: Sazya: in huet
+Case 338: Sastavya: in huet
+Case 339: SAntayitavya: in huet
+Case 340: SAya: in huet
+Case 341: SArya: in huet
+Case 342: SiTilayitavya: in huet
+Case 343: SiTilAyitavya: in huet
+Case 344: SiSUyitavya: in huet
+Case 345: SIGrAyitavya: in huet
+Case 346: Soktavya: in huet
+Case 347: SyAmAyitavya: in huet
+Case 348: Syenayitavya: in huet
+Case 349: SyenAyitavya: in huet
+Case 350: Sravya: in huet
+Case 351: zaRQayitavya: in huet
+Case 352: zWIvanIya: in huet
+Case 353: zWIvitavya: in huet
+Case 354: zWIvya: in huet
+Case 355: saKIyitavya: in huet
+Case 356: saNkawAyitavya: in huet
+Case 357: saNktavya: in huet
+Case 358: saNgya: in huet
+Case 359: saNgrAmayitavya: in huet
+Case 360: sajjIyitavya: in huet
+Case 361: sajya: in huet
+Case 362: sattavya: in huet
+Case 363: satyApayitavya: in huet
+Case 364: sapiRqayitavya: in huet
+Case 365: saPalayitavya: in huet
+Case 366: samudrAyitavya: in huet
+Case 367: savya: in huet
+Case 368: sahanIya: in huet
+Case 369: sahitavya: in huet
+Case 370: sAQavya: in huet
+Case 371: sAya: in huet
+Case 372: sAvaDAnayitavya: in huet
+Case 373: sIditavya: in huet
+Case 374: sIvanIya: in huet
+Case 375: sIvya: in huet
+Case 376: suKAyitavya: in huet
+Case 377: suKyitavya: in huet
+Case 378: sudinAyitavya: in huet
+Case 379: sumanAyitavya: in huet
+Case 380: sUcya: in huet
+Case 381: seDitavya: in huet
+Case 382: skanttavya: in huet
+Case 383: staritavya: in huet
+Case 384: starItavya: in huet
+Case 385: stavitavya: in huet
+Case 386: sTagayitavya: in huet
+Case 387: snavya: in huet
+Case 388: snegDavya: in huet
+Case 389: snogDavya: in huet
+Case 390: sparhaRIya: in huet
+Case 391: sPAtavya: in huet
+Case 392: sPAnIya: in huet
+Case 393: sPuwitavya: in huet
+Case 394: sPuritavya: in huet
+Case 395: sPeya: in huet
+Case 396: syanttavya: in huet
+Case 397: sravya: in huet
+Case 398: svaNktavya: in huet
+Case 399: svaYjanIya: in huet
+Case 400: svapitavya: in huet
+Case 401: svalpaSilAyitavya: in huet
+Case 402: svettavya: in huet
+Case 403: hattavya: in huet
+Case 404: havya: in huet
+Case 405: hiMzya: in huet
+Case 406: hnavya: in huet
