@@ -8,7 +8,7 @@ ppa =  active past participle (Huet)
 pap =  past active participle (slp1)
 
 ```
-python huet_parts.py ../huet/SL_parts.xml pap > huet_parts_log.txt
+python huet_parts.py ../huet/SL_parts.xml ppa > huet_parts_log.txt
 ```
 output files are huet_stems_pap.txt and huet_decl_tables_pap.txt
 
@@ -78,6 +78,6 @@ output is compare_decl_tables_pap.txt
 
 ## first summary
 
-See [issue#20](https://github.com/funderburkjim/elispsanskrit/issues/20) for some discussion of the comparison.
+See [issue#21](https://github.com/funderburkjim/elispsanskrit/issues/21) for some discussion of the comparison.
 
 
