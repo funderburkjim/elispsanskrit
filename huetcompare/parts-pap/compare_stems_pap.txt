@@ -1,0 +1,1998 @@
+--------------------------------------------------
+524 cases of STEM in BOTH
+--------------------------------------------------
+Case 01: aMSitavat: identical in BOTH
+Case 02: aktavat: identical in BOTH
+Case 03: aGitavat: identical in BOTH
+Case 04: aNkitavat: identical in BOTH
+Case 05: aNKitavat: identical in BOTH
+Case 06: aNgitavat: identical in BOTH
+Case 07: ajitavat: identical in BOTH
+Case 08: aYcitavat: identical in BOTH
+Case 09: awitavat: identical in BOTH
+Case 10: atitavat: identical in BOTH
+Case 11: anitavat: identical in BOTH
+Case 12: anDitavat: identical in BOTH
+Case 13: aBritavat: identical in BOTH
+Case 14: amitavat: identical in BOTH
+Case 15: arcitavat: identical in BOTH
+Case 16: arjitavat: identical in BOTH
+Case 17: arTitavat: identical in BOTH
+Case 18: arhitavat: identical in BOTH
+Case 19: avitavat: identical in BOTH
+Case 20: azwavat: identical in BOTH
+Case 21: astavat: identical in BOTH
+Case 22: Aptavat: identical in BOTH
+Case 23: Asitavat: identical in BOTH
+Case 24: iNgitavat: identical in BOTH
+Case 25: itavat: identical in BOTH
+Case 26: idDavat: identical in BOTH
+Case 27: inditavat: identical in BOTH
+Case 28: invitavat: identical in BOTH
+Case 29: izwavat: identical in BOTH
+Case 30: Ikzitavat: identical in BOTH
+Case 31: INKitavat: identical in BOTH
+Case 32: Iqitavat: identical in BOTH
+Case 33: Iritavat: identical in BOTH
+Case 34: ISitavat: identical in BOTH
+Case 35: Izitavat: identical in BOTH
+Case 36: Ihitavat: identical in BOTH
+Case 37: uktavat: identical in BOTH
+Case 38: ukzitavat: identical in BOTH
+Case 39: ucitavat: identical in BOTH
+Case 40: ujJitavat: identical in BOTH
+Case 41: uYCitavat: identical in BOTH
+Case 42: utavat: identical in BOTH
+Case 43: uttavat: identical in BOTH
+Case 44: uditavat: identical in BOTH
+Case 45: unnavat: identical in BOTH
+Case 46: uptavat: identical in BOTH
+Case 47: uzitavat: identical in BOTH
+Case 48: UQavat: identical in BOTH
+Case 49: Uhitavat: identical in BOTH
+Case 50: ftavat: identical in BOTH
+Case 51: fdDavat: identical in BOTH
+Case 52: fzwavat: identical in BOTH
+Case 53: ejitavat: identical in BOTH
+Case 54: eDitavat: identical in BOTH
+Case 55: kaRqitavat: identical in BOTH
+Case 56: katTitavat: identical in BOTH
+Case 57: kaTitavat: identical in BOTH
+Case 58: kampitavat: identical in BOTH
+Case 59: karRitavat: identical in BOTH
+Case 60: kalitavat: identical in BOTH
+Case 61: kavitavat: identical in BOTH
+Case 62: kazitavat: identical in BOTH
+Case 63: kazwavat: identical in BOTH
+Case 64: kasitavat: identical in BOTH
+Case 65: kANkzitavat: identical in BOTH
+Case 66: kASitavat: identical in BOTH
+Case 67: kIrRavat: identical in BOTH
+Case 68: kIrtitavat: identical in BOTH
+Case 69: kIlitavat: identical in BOTH
+Case 70: kucitavat: identical in BOTH
+Case 71: kuYcitavat: identical in BOTH
+Case 72: kuwwitavat: identical in BOTH
+Case 73: kuRWitavat: identical in BOTH
+Case 74: kuRqitavat: identical in BOTH
+Case 75: kutsitavat: identical in BOTH
+Case 76: kunTitavat: identical in BOTH
+Case 77: kupitavat: identical in BOTH
+Case 78: kUjitavat: identical in BOTH
+Case 79: kUtavat: identical in BOTH
+Case 80: kftavat: identical in BOTH
+Case 81: kfttavat: identical in BOTH
+Case 82: kfzwavat: identical in BOTH
+Case 83: kxptavat: identical in BOTH
+Case 84: kelitavat: identical in BOTH
+Case 85: kranditavat: identical in BOTH
+Case 86: krAntavat: identical in BOTH
+Case 87: krIqitavat: identical in BOTH
+Case 88: krItavat: identical in BOTH
+Case 89: kruYcitavat: identical in BOTH
+Case 90: krudDavat: identical in BOTH
+Case 91: kruzwavat: identical in BOTH
+Case 92: klavitavat: identical in BOTH
+Case 93: klinnavat: identical in BOTH
+Case 94: kliSitavat: identical in BOTH
+Case 95: klizwavat: identical in BOTH
+Case 96: klIbitavat: identical in BOTH
+Case 97: kvaTitavat: identical in BOTH
+Case 98: kzatavat: identical in BOTH
+Case 99: kzaritavat: identical in BOTH
+Case 100: kziptavat: identical in BOTH
+Case 101: kzIRavat: identical in BOTH
+Case 102: kzuRRavat: identical in BOTH
+Case 103: kzutavat: identical in BOTH
+Case 104: kzuDitavat: identical in BOTH
+Case 105: kzubDavat: identical in BOTH
+Case 106: kzuBitavat: identical in BOTH
+Case 107: KaRqitavat: identical in BOTH
+Case 108: KAtavat: identical in BOTH
+Case 109: KAditavat: identical in BOTH
+Case 110: Kinnavat: identical in BOTH
+Case 111: Kelitavat: identical in BOTH
+Case 112: KyAtavat: identical in BOTH
+Case 113: gaRitavat: identical in BOTH
+Case 114: gatavat: identical in BOTH
+Case 115: gaditavat: identical in BOTH
+Case 116: garjitavat: identical in BOTH
+Case 117: garditavat: identical in BOTH
+Case 118: garvitavat: identical in BOTH
+Case 119: garhitavat: identical in BOTH
+Case 120: galitavat: identical in BOTH
+Case 121: galBitavat: identical in BOTH
+Case 122: gAQavat: identical in BOTH
+Case 123: gAhitavat: identical in BOTH
+Case 124: gItavat: identical in BOTH
+Case 125: gIrRavat: identical in BOTH
+Case 126: guYjitavat: identical in BOTH
+Case 127: guptavat: identical in BOTH
+Case 128: gumPitavat: identical in BOTH
+Case 129: gUQavat: identical in BOTH
+Case 130: gfhItavat: identical in BOTH
+Case 131: grastavat: identical in BOTH
+Case 132: glAnavat: identical in BOTH
+Case 133: Gawitavat: identical in BOTH
+Case 134: Gawwitavat: identical in BOTH
+Case 135: Guzwavat: identical in BOTH
+Case 136: GUrRitavat: identical in BOTH
+Case 137: Gftavat: identical in BOTH
+Case 138: Gfzwavat: identical in BOTH
+Case 139: GrAtavat: identical in BOTH
+Case 140: caYcitavat: identical in BOTH
+Case 141: cawitavat: identical in BOTH
+Case 142: canditavat: identical in BOTH
+Case 143: caritavat: identical in BOTH
+Case 144: carcitavat: identical in BOTH
+Case 145: calitavat: identical in BOTH
+Case 146: citavat: identical in BOTH
+Case 147: cittavat: identical in BOTH
+Case 148: cintitavat: identical in BOTH
+Case 149: cuditavat: identical in BOTH
+Case 150: cumbitavat: identical in BOTH
+Case 151: cUrRitavat: identical in BOTH
+Case 152: cezwitavat: identical in BOTH
+Case 153: cyutavat: identical in BOTH
+Case 154: Cannavat: identical in BOTH
+Case 155: Cinnavat: identical in BOTH
+Case 156: jagDavat: identical in BOTH
+Case 157: japitavat: identical in BOTH
+Case 158: jalitavat: identical in BOTH
+Case 159: jalpitavat: identical in BOTH
+Case 160: jAtavat: identical in BOTH
+Case 161: jitavat: identical in BOTH
+Case 162: jinvitavat: identical in BOTH
+Case 163: jItavat: identical in BOTH
+Case 164: jIrRavat: identical in BOTH
+Case 165: jIvitavat: identical in BOTH
+Case 166: juzwavat: identical in BOTH
+Case 167: jfmBitavat: identical in BOTH
+Case 168: jYAtavat: identical in BOTH
+Case 169: jvalitavat: identical in BOTH
+Case 170: qambitavat: identical in BOTH
+Case 171: qInavat: identical in BOTH
+Case 172: tatavat: identical in BOTH
+Case 173: tandritavat: identical in BOTH
+Case 174: taptavat: identical in BOTH
+Case 175: tamitavat: identical in BOTH
+Case 176: tarkitavat: identical in BOTH
+Case 177: tarjitavat: identical in BOTH
+Case 178: tazwavat: identical in BOTH
+Case 179: tIrRavat: identical in BOTH
+Case 180: tunnavat: identical in BOTH
+Case 181: tuzwavat: identical in BOTH
+Case 182: tUrRavat: identical in BOTH
+Case 183: tfptavat: identical in BOTH
+Case 184: tfzitavat: identical in BOTH
+Case 185: tyaktavat: identical in BOTH
+Case 186: traptavat: identical in BOTH
+Case 187: trastavat: identical in BOTH
+Case 188: trAtavat: identical in BOTH
+Case 189: truwitavat: identical in BOTH
+Case 190: tvaritavat: identical in BOTH
+Case 191: daMSitavat: identical in BOTH
+Case 192: dakzitavat: identical in BOTH
+Case 193: dagDavat: identical in BOTH
+Case 194: dattavat: identical in BOTH
+Case 195: dabDavat: identical in BOTH
+Case 196: dayitavat: identical in BOTH
+Case 197: dalitavat: identical in BOTH
+Case 198: dastavat: identical in BOTH
+Case 199: dAntavat: identical in BOTH
+Case 200: digDavat: identical in BOTH
+Case 201: ditavat: identical in BOTH
+Case 202: dizwavat: identical in BOTH
+Case 203: dIkzitavat: identical in BOTH
+Case 204: dIptavat: identical in BOTH
+Case 205: dIrRavat: identical in BOTH
+Case 206: dugDavat: identical in BOTH
+Case 207: dutavat: identical in BOTH
+Case 208: duzwavat: identical in BOTH
+Case 209: dfQavat: identical in BOTH
+Case 210: dfptavat: identical in BOTH
+Case 211: dfzwavat: identical in BOTH
+Case 212: devitavat: identical in BOTH
+Case 213: dolitavat: identical in BOTH
+Case 214: dyutitavat: identical in BOTH
+Case 215: dyUtavat: identical in BOTH
+Case 216: dyUnavat: identical in BOTH
+Case 217: drARavat: identical in BOTH
+Case 218: drugDavat: identical in BOTH
+Case 219: drutavat: identical in BOTH
+Case 220: drUQavat: identical in BOTH
+Case 221: dvizwavat: identical in BOTH
+Case 222: Danitavat: identical in BOTH
+Case 223: Damitavat: identical in BOTH
+Case 224: DAvitavat: identical in BOTH
+Case 225: DItavat: identical in BOTH
+Case 226: Dukzitavat: identical in BOTH
+Case 227: Dutavat: identical in BOTH
+Case 228: DUtavat: identical in BOTH
+Case 229: Dftavat: identical in BOTH
+Case 230: Dfzwavat: identical in BOTH
+Case 231: DOtavat: identical in BOTH
+Case 232: DmAtavat: identical in BOTH
+Case 233: DyAtavat: identical in BOTH
+Case 234: Drutavat: identical in BOTH
+Case 235: Dvanitavat: identical in BOTH
+Case 236: Dvastavat: identical in BOTH
+Case 237: DvANkzitavat: identical in BOTH
+Case 238: nakzitavat: identical in BOTH
+Case 239: nawitavat: identical in BOTH
+Case 240: natavat: identical in BOTH
+Case 241: naditavat: identical in BOTH
+Case 242: nadDavat: identical in BOTH
+Case 243: nanditavat: identical in BOTH
+Case 244: narditavat: identical in BOTH
+Case 245: nazwavat: identical in BOTH
+Case 246: niktavat: identical in BOTH
+Case 247: ninditavat: identical in BOTH
+Case 248: nItavat: identical in BOTH
+Case 249: nutavat: identical in BOTH
+Case 250: nuttavat: identical in BOTH
+Case 251: nunnavat: identical in BOTH
+Case 252: nfttavat: identical in BOTH
+Case 253: pakvavat: identical in BOTH
+Case 254: paWitavat: identical in BOTH
+Case 255: paRitavat: identical in BOTH
+Case 256: patitavat: identical in BOTH
+Case 257: pannavat: identical in BOTH
+Case 258: palAyitavat: identical in BOTH
+Case 259: pASitavat: identical in BOTH
+Case 260: piYjitavat: identical in BOTH
+Case 261: piRqitavat: identical in BOTH
+Case 262: pizwavat: identical in BOTH
+Case 263: pIqitavat: identical in BOTH
+Case 264: pItavat: identical in BOTH
+Case 265: pInavat: identical in BOTH
+Case 266: puzwavat: identical in BOTH
+Case 267: pUjitavat: identical in BOTH
+Case 268: pUtavat: identical in BOTH
+Case 269: pUrRavat: identical in BOTH
+Case 270: pUlitavat: identical in BOTH
+Case 271: pfktavat: identical in BOTH
+Case 272: pyAnavat: identical in BOTH
+Case 273: praTitavat: identical in BOTH
+Case 274: prItavat: identical in BOTH
+Case 275: plutavat: identical in BOTH
+Case 276: Palitavat: identical in BOTH
+Case 277: Pullitavat: identical in BOTH
+Case 278: badDavat: identical in BOTH
+Case 279: bADitavat: identical in BOTH
+Case 280: budDavat: identical in BOTH
+Case 281: bfMhitavat: identical in BOTH
+Case 282: bfQavat: identical in BOTH
+Case 283: Baktavat: identical in BOTH
+Case 284: Bakzitavat: identical in BOTH
+Case 285: Bagnavat: identical in BOTH
+Case 286: BaRitavat: identical in BOTH
+Case 287: BaRqitavat: identical in BOTH
+Case 288: Banditavat: identical in BOTH
+Case 289: Bartsitavat: identical in BOTH
+Case 290: Basitavat: identical in BOTH
+Case 291: BAtavat: identical in BOTH
+Case 292: BAzitavat: identical in BOTH
+Case 293: BAsitavat: identical in BOTH
+Case 294: Binnavat: identical in BOTH
+Case 295: BItavat: identical in BOTH
+Case 296: Buktavat: identical in BOTH
+Case 297: Bugnavat: identical in BOTH
+Case 298: BUtavat: identical in BOTH
+Case 299: BUzitavat: identical in BOTH
+Case 300: Bftavat: identical in BOTH
+Case 301: BfSitavat: identical in BOTH
+Case 302: Brazwavat: identical in BOTH
+Case 303: BrAjitavat: identical in BOTH
+Case 304: BrAntavat: identical in BOTH
+Case 305: maRqitavat: identical in BOTH
+Case 306: matavat: identical in BOTH
+Case 307: mattavat: identical in BOTH
+Case 308: maTitavat: identical in BOTH
+Case 309: mantritavat: identical in BOTH
+Case 310: manditavat: identical in BOTH
+Case 311: mahitavat: identical in BOTH
+Case 312: mArgitavat: identical in BOTH
+Case 313: mAlitavat: identical in BOTH
+Case 314: mitavat: identical in BOTH
+Case 315: miditavat: identical in BOTH
+Case 316: militavat: identical in BOTH
+Case 317: miSritavat: identical in BOTH
+Case 318: mizitavat: identical in BOTH
+Case 319: mIlitavat: identical in BOTH
+Case 320: muktavat: identical in BOTH
+Case 321: mugDavat: identical in BOTH
+Case 322: muRqitavat: identical in BOTH
+Case 323: muditavat: identical in BOTH
+Case 324: muzitavat: identical in BOTH
+Case 325: mUQavat: identical in BOTH
+Case 326: mUrCitavat: identical in BOTH
+Case 327: mUrtavat: identical in BOTH
+Case 328: mfgitavat: identical in BOTH
+Case 329: mfqitavat: identical in BOTH
+Case 330: mftavat: identical in BOTH
+Case 331: mfzwavat: identical in BOTH
+Case 332: mokzitavat: identical in BOTH
+Case 333: moditavat: identical in BOTH
+Case 334: mnAtavat: identical in BOTH
+Case 335: mlAnavat: identical in BOTH
+Case 336: yatavat: identical in BOTH
+Case 337: yatitavat: identical in BOTH
+Case 338: yattavat: identical in BOTH
+Case 339: yantritavat: identical in BOTH
+Case 340: yabDavat: identical in BOTH
+Case 341: yasitavat: identical in BOTH
+Case 342: yAcitavat: identical in BOTH
+Case 343: yAtavat: identical in BOTH
+Case 344: yuktavat: identical in BOTH
+Case 345: yutavat: identical in BOTH
+Case 346: yudDavat: identical in BOTH
+Case 347: raMhitavat: identical in BOTH
+Case 348: raktavat: identical in BOTH
+Case 349: rakzitavat: identical in BOTH
+Case 350: racitavat: identical in BOTH
+Case 351: raRitavat: identical in BOTH
+Case 352: ratavat: identical in BOTH
+Case 353: radDavat: identical in BOTH
+Case 354: rabDavat: identical in BOTH
+Case 355: rasitavat: identical in BOTH
+Case 356: rahitavat: identical in BOTH
+Case 357: rAjitavat: identical in BOTH
+Case 358: rAtavat: identical in BOTH
+Case 359: rAdDavat: identical in BOTH
+Case 360: riktavat: identical in BOTH
+Case 361: rizwavat: identical in BOTH
+Case 362: rIRavat: identical in BOTH
+Case 363: rucitavat: identical in BOTH
+Case 364: rutavat: identical in BOTH
+Case 365: ruditavat: identical in BOTH
+Case 366: rudDavat: identical in BOTH
+Case 367: ruzwavat: identical in BOTH
+Case 368: rUkzitavat: identical in BOTH
+Case 369: rUQavat: identical in BOTH
+Case 370: rUpitavat: identical in BOTH
+Case 371: lakzitavat: identical in BOTH
+Case 372: lagitavat: identical in BOTH
+Case 373: laNgitavat: identical in BOTH
+Case 374: laNGitavat: identical in BOTH
+Case 375: lajjitavat: identical in BOTH
+Case 376: lapitavat: identical in BOTH
+Case 377: labDavat: identical in BOTH
+Case 378: lambitavat: identical in BOTH
+Case 379: lalitavat: identical in BOTH
+Case 380: lazitavat: identical in BOTH
+Case 381: lasitavat: identical in BOTH
+Case 382: lAYCitavat: identical in BOTH
+Case 383: liKitavat: identical in BOTH
+Case 384: liptavat: identical in BOTH
+Case 385: lizwavat: identical in BOTH
+Case 386: lIQavat: identical in BOTH
+Case 387: lInavat: identical in BOTH
+Case 388: luYcitavat: identical in BOTH
+Case 389: luWitavat: identical in BOTH
+Case 390: luptavat: identical in BOTH
+Case 391: lubDavat: identical in BOTH
+Case 392: luBitavat: identical in BOTH
+Case 393: lUnavat: identical in BOTH
+Case 394: lokitavat: identical in BOTH
+Case 395: locitavat: identical in BOTH
+Case 396: vatavat: identical in BOTH
+Case 397: vanditavat: identical in BOTH
+Case 398: varRitavat: identical in BOTH
+Case 399: valitavat: identical in BOTH
+Case 400: valgitavat: identical in BOTH
+Case 401: vasitavat: identical in BOTH
+Case 402: vAYCitavat: identical in BOTH
+Case 403: vAtavat: identical in BOTH
+Case 404: vAntavat: identical in BOTH
+Case 405: vASitavat: identical in BOTH
+Case 406: vAsitavat: identical in BOTH
+Case 407: viktavat: identical in BOTH
+Case 408: vignavat: identical in BOTH
+Case 409: vittavat: identical in BOTH
+Case 410: viditavat: identical in BOTH
+Case 411: vidDavat: identical in BOTH
+Case 412: vinnavat: identical in BOTH
+Case 413: vipitavat: identical in BOTH
+Case 414: vizwavat: identical in BOTH
+Case 415: vItavat: identical in BOTH
+Case 416: vfkRavat: identical in BOTH
+Case 417: vfktavat: identical in BOTH
+Case 418: vfQavat: identical in BOTH
+Case 419: vftavat: identical in BOTH
+Case 420: vfttavat: identical in BOTH
+Case 421: vfdDavat: identical in BOTH
+Case 422: vfzwavat: identical in BOTH
+Case 423: venitavat: identical in BOTH
+Case 424: vezwitavat: identical in BOTH
+Case 425: vyaTitavat: identical in BOTH
+Case 426: vraRitavat: identical in BOTH
+Case 427: vrIqitavat: identical in BOTH
+Case 428: Saktavat: identical in BOTH
+Case 429: SaNkitavat: identical in BOTH
+Case 430: Sannavat: identical in BOTH
+Case 431: Sapitavat: identical in BOTH
+Case 432: Saptavat: identical in BOTH
+Case 433: Sabditavat: identical in BOTH
+Case 434: Sayitavat: identical in BOTH
+Case 435: Sasitavat: identical in BOTH
+Case 436: Sastavat: identical in BOTH
+Case 437: SAtavat: identical in BOTH
+Case 438: SAntavat: identical in BOTH
+Case 439: Sikzitavat: identical in BOTH
+Case 440: Sitavat: identical in BOTH
+Case 441: Sizwavat: identical in BOTH
+Case 442: SIrRavat: identical in BOTH
+Case 443: SudDavat: identical in BOTH
+Case 444: SumBitavat: identical in BOTH
+Case 445: Suzkavat: identical in BOTH
+Case 446: SUnavat: identical in BOTH
+Case 447: SoBitavat: identical in BOTH
+Case 448: Scutitavat: identical in BOTH
+Case 449: SramBitavat: identical in BOTH
+Case 450: SrAntavat: identical in BOTH
+Case 451: Sritavat: identical in BOTH
+Case 452: Srutavat: identical in BOTH
+Case 453: SlAGitavat: identical in BOTH
+Case 454: Slizwavat: identical in BOTH
+Case 455: Svasitavat: identical in BOTH
+Case 456: saktavat: identical in BOTH
+Case 457: sajjitavat: identical in BOTH
+Case 458: sannavat: identical in BOTH
+Case 459: sAtavat: identical in BOTH
+Case 460: sAntvitavat: identical in BOTH
+Case 461: siktavat: identical in BOTH
+Case 462: sitavat: identical in BOTH
+Case 463: sidDavat: identical in BOTH
+Case 464: suKitavat: identical in BOTH
+Case 465: sutavat: identical in BOTH
+Case 466: suptavat: identical in BOTH
+Case 467: sUcitavat: identical in BOTH
+Case 468: sUtavat: identical in BOTH
+Case 469: sUtritavat: identical in BOTH
+Case 470: sUditavat: identical in BOTH
+Case 471: sftavat: identical in BOTH
+Case 472: sfptavat: identical in BOTH
+Case 473: sfzwavat: identical in BOTH
+Case 474: sevitavat: identical in BOTH
+Case 475: soQavat: identical in BOTH
+Case 476: skamBitavat: identical in BOTH
+Case 477: sKalitavat: identical in BOTH
+Case 478: stanitavat: identical in BOTH
+Case 479: stutavat: identical in BOTH
+Case 480: stftavat: identical in BOTH
+Case 481: stenitavat: identical in BOTH
+Case 482: styAnavat: identical in BOTH
+Case 483: sTagitavat: identical in BOTH
+Case 484: sTitavat: identical in BOTH
+Case 485: snAtavat: identical in BOTH
+Case 486: snigDavat: identical in BOTH
+Case 487: snutavat: identical in BOTH
+Case 488: snuhitavat: identical in BOTH
+Case 489: spanditavat: identical in BOTH
+Case 490: sparDitavat: identical in BOTH
+Case 491: spazwavat: identical in BOTH
+Case 492: spfzwavat: identical in BOTH
+Case 493: spfhitavat: identical in BOTH
+Case 494: sPItavat: identical in BOTH
+Case 495: sPuwitavat: identical in BOTH
+Case 496: sPuritavat: identical in BOTH
+Case 497: smitavat: identical in BOTH
+Case 498: smftavat: identical in BOTH
+Case 499: syannavat: identical in BOTH
+Case 500: syUtavat: identical in BOTH
+Case 501: srutavat: identical in BOTH
+Case 502: svaditavat: identical in BOTH
+Case 503: svanitavat: identical in BOTH
+Case 504: svaritavat: identical in BOTH
+Case 505: svinnavat: identical in BOTH
+Case 506: hatavat: identical in BOTH
+Case 507: hasitavat: identical in BOTH
+Case 508: hAnavat: identical in BOTH
+Case 509: hiMsitavat: identical in BOTH
+Case 510: hikkitavat: identical in BOTH
+Case 511: hitavat: identical in BOTH
+Case 512: hInavat: identical in BOTH
+Case 513: huRqitavat: identical in BOTH
+Case 514: hutavat: identical in BOTH
+Case 515: hUtavat: identical in BOTH
+Case 516: hftavat: identical in BOTH
+Case 517: hfzitavat: identical in BOTH
+Case 518: hfzwavat: identical in BOTH
+Case 519: hrasitavat: identical in BOTH
+Case 520: hrAditavat: identical in BOTH
+Case 521: hrIRavat: identical in BOTH
+Case 522: hrItavat: identical in BOTH
+Case 523: hlAditavat: identical in BOTH
+Case 524: hvalitavat: identical in BOTH
+--------------------------------------------------
+1190 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMSApitavat: in pysan
+Case 02: aMsApitavat: in pysan
+Case 03: aMsitavat: in pysan
+Case 04: aMhitavat: in pysan
+Case 05: akitavat: in pysan
+Case 06: agitavat: in pysan
+Case 07: aNGitavat: in pysan
+Case 08: acitavat: in pysan
+Case 09: aYktavat: in pysan
+Case 10: awwitavat: in pysan
+Case 11: aWitavat: in pysan
+Case 12: aqitavat: in pysan
+Case 13: aqqitavat: in pysan
+Case 14: aRitavat: in pysan
+Case 15: aRWitavat: in pysan
+Case 16: antavat: in pysan
+Case 17: antitavat: in pysan
+Case 18: anditavat: in pysan
+Case 19: annavat: in pysan
+Case 20: ambitavat: in pysan
+Case 21: ayitavat: in pysan
+Case 22: arRavat: in pysan
+Case 23: arRRavat: in pysan
+Case 24: arbitavat: in pysan
+Case 25: arvitavat: in pysan
+Case 26: alitavat: in pysan
+Case 27: avalokitavat: in pysan
+Case 28: azitavat: in pysan
+Case 29: ahitavat: in pysan
+Case 30: iKitavat: in pysan
+Case 31: iNKitavat: in pysan
+Case 32: iwitavat: in pysan
+Case 33: iritavat: in pysan
+Case 34: ilitavat: in pysan
+Case 35: IKitavat: in pysan
+Case 36: Ijitavat: in pysan
+Case 37: Itavat: in pysan
+Case 38: Intitavat: in pysan
+Case 39: Irzyitavat: in pysan
+Case 40: uKitavat: in pysan
+Case 41: uNKitavat: in pysan
+Case 42: uCitavat: in pysan
+Case 43: uWitavat: in pysan
+Case 44: uDrasitavat: in pysan
+Case 45: uDrAsitavat: in pysan
+Case 46: upAritavat: in pysan
+Case 47: ubjitavat: in pysan
+Case 48: uBitavat: in pysan
+Case 49: ulAqitavat: in pysan
+Case 50: uSitavat: in pysan
+Case 51: uhitavat: in pysan
+Case 52: Uyitavat: in pysan
+Case 53: UrRutavat: in pysan
+Case 54: Urditavat: in pysan
+Case 55: Urvitavat: in pysan
+Case 56: Uzitavat: in pysan
+Case 57: fcitavat: in pysan
+Case 58: fCitavat: in pysan
+Case 59: fjitavat: in pysan
+Case 60: fYjitavat: in pysan
+Case 61: fRavat: in pysan
+Case 62: ftitavat: in pysan
+Case 63: fPitavat: in pysan
+Case 64: eWitavat: in pysan
+Case 65: elitavat: in pysan
+Case 66: ezitavat: in pysan
+Case 67: oKitavat: in pysan
+Case 68: ojitavat: in pysan
+Case 69: oRitavat: in pysan
+Case 70: olaRqitavat: in pysan
+Case 71: kaMsitavat: in pysan
+Case 72: kakitavat: in pysan
+Case 73: kaKitavat: in pysan
+Case 74: kagitavat: in pysan
+Case 75: kaNkitavat: in pysan
+Case 76: kacitavat: in pysan
+Case 77: kajitavat: in pysan
+Case 78: kaYcitavat: in pysan
+Case 79: kawitavat: in pysan
+Case 80: kawwitavat: in pysan
+Case 81: kaWitavat: in pysan
+Case 82: kaqitavat: in pysan
+Case 83: kaqqitavat: in pysan
+Case 84: kaRitavat: in pysan
+Case 85: kaRwitavat: in pysan
+Case 86: kaRWitavat: in pysan
+Case 87: katritavat: in pysan
+Case 88: kaditavat: in pysan
+Case 89: kanitavat: in pysan
+Case 90: kanditavat: in pysan
+Case 91: kabitavat: in pysan
+Case 92: kambitavat: in pysan
+Case 93: karjitavat: in pysan
+Case 94: kartritavat: in pysan
+Case 95: karditavat: in pysan
+Case 96: karbitavat: in pysan
+Case 97: karvitavat: in pysan
+Case 98: karSitavat: in pysan
+Case 99: kallitavat: in pysan
+Case 100: kaSitavat: in pysan
+Case 101: kAMsitavat: in pysan
+Case 102: kAYcitavat: in pysan
+Case 103: kARitavat: in pysan
+Case 104: kAtavat: in pysan
+Case 105: kAntavat: in pysan
+Case 106: kArRavat: in pysan
+Case 107: kAlitavat: in pysan
+Case 108: kAvitavat: in pysan
+Case 109: kAsitavat: in pysan
+Case 110: kiwitavat: in pysan
+Case 111: kitavat: in pysan
+Case 112: kititavat: in pysan
+Case 113: kilitavat: in pysan
+Case 114: kizkitavat: in pysan
+Case 115: kIwitavat: in pysan
+Case 116: kuMSitavat: in pysan
+Case 117: kukitavat: in pysan
+Case 118: kujitavat: in pysan
+Case 119: kuYjitavat: in pysan
+Case 120: kuwitavat: in pysan
+Case 121: kuqitavat: in pysan
+Case 122: kuRitavat: in pysan
+Case 123: kutavat: in pysan
+Case 124: kuTitavat: in pysan
+Case 125: kundritavat: in pysan
+Case 126: kumbitavat: in pysan
+Case 127: kuritavat: in pysan
+Case 128: kulitavat: in pysan
+Case 129: kuSitavat: in pysan
+Case 130: kuzitavat: in pysan
+Case 131: kuhitavat: in pysan
+Case 132: kUwitavat: in pysan
+Case 133: kUqitavat: in pysan
+Case 134: kURitavat: in pysan
+Case 135: kUpitavat: in pysan
+Case 136: kUrditavat: in pysan
+Case 137: kUlitavat: in pysan
+Case 138: kfpitavat: in pysan
+Case 139: kepitavat: in pysan
+Case 140: kevitavat: in pysan
+Case 141: kowitavat: in pysan
+Case 142: koRitavat: in pysan
+Case 143: koditavat: in pysan
+Case 144: kopitavat: in pysan
+Case 145: knaMsitavat: in pysan
+Case 146: knaTitavat: in pysan
+Case 147: knasitavat: in pysan
+Case 148: knutavat: in pysan
+Case 149: knUyitavat: in pysan
+Case 150: kmaritavat: in pysan
+Case 151: kraMSitavat: in pysan
+Case 152: kraTitavat: in pysan
+Case 153: krapitavat: in pysan
+Case 154: kruqitavat: in pysan
+Case 155: kroqitavat: in pysan
+Case 156: klaTitavat: in pysan
+Case 157: klanditavat: in pysan
+Case 158: klAntavat: in pysan
+Case 159: klinditavat: in pysan
+Case 160: kleSitavat: in pysan
+Case 161: kvaRitavat: in pysan
+Case 162: kzajitavat: in pysan
+Case 163: kzaditavat: in pysan
+Case 164: kzapitavat: in pysan
+Case 165: kzampitavat: in pysan
+Case 166: kzAjitavat: in pysan
+Case 167: kzAntavat: in pysan
+Case 168: kzAmavat: in pysan
+Case 169: kzAlitavat: in pysan
+Case 170: kzitavat: in pysan
+Case 171: kzivitavat: in pysan
+Case 172: kzIjitavat: in pysan
+Case 173: kzIbitavat: in pysan
+Case 174: kzIvavat: in pysan
+Case 175: kzupitavat: in pysan
+Case 176: kzumpitavat: in pysan
+Case 177: kzuritavat: in pysan
+Case 178: kzowitavat: in pysan
+Case 179: kzRutavat: in pysan
+Case 180: kzmAtavat: in pysan
+Case 181: kzmAyitavat: in pysan
+Case 182: kzmIlitavat: in pysan
+Case 183: kzviqitavat: in pysan
+Case 184: kzviRRavat: in pysan
+Case 185: kzviditavat: in pysan
+Case 186: kzvelitavat: in pysan
+Case 187: Kacitavat: in pysan
+Case 188: Kajitavat: in pysan
+Case 189: KaYjitavat: in pysan
+Case 190: Kawitavat: in pysan
+Case 191: Kawwitavat: in pysan
+Case 192: Kaditavat: in pysan
+Case 193: Kambitavat: in pysan
+Case 194: Karjitavat: in pysan
+Case 195: Karditavat: in pysan
+Case 196: Karbitavat: in pysan
+Case 197: Karvitavat: in pysan
+Case 198: Kalitavat: in pysan
+Case 199: Kallitavat: in pysan
+Case 200: Kazitavat: in pysan
+Case 201: KAcitavat: in pysan
+Case 202: KAqitavat: in pysan
+Case 203: Kiwitavat: in pysan
+Case 204: Kujitavat: in pysan
+Case 205: KuRqitavat: in pysan
+Case 206: Kutavat: in pysan
+Case 207: Kuditavat: in pysan
+Case 208: Kuritavat: in pysan
+Case 209: Kurditavat: in pysan
+Case 210: Kewitavat: in pysan
+Case 211: Kowitavat: in pysan
+Case 212: Koqitavat: in pysan
+Case 213: Koritavat: in pysan
+Case 214: gajitavat: in pysan
+Case 215: gaYjitavat: in pysan
+Case 216: gaqitavat: in pysan
+Case 217: gaRqitavat: in pysan
+Case 218: gaDitavat: in pysan
+Case 219: ganDitavat: in pysan
+Case 220: gambitavat: in pysan
+Case 221: garbitavat: in pysan
+Case 222: gAjitavat: in pysan
+Case 223: gAqitavat: in pysan
+Case 224: gAtavat: in pysan
+Case 225: gAditavat: in pysan
+Case 226: gADitavat: in pysan
+Case 227: gArRavat: in pysan
+Case 228: gujitavat: in pysan
+Case 229: guqitavat: in pysan
+Case 230: guRWitavat: in pysan
+Case 231: guRqitavat: in pysan
+Case 232: gutavat: in pysan
+Case 233: guditavat: in pysan
+Case 234: guDitavat: in pysan
+Case 235: guPitavat: in pysan
+Case 236: guritavat: in pysan
+Case 237: gurditavat: in pysan
+Case 238: gurvitavat: in pysan
+Case 239: gUrditavat: in pysan
+Case 240: gUrDitavat: in pysan
+Case 241: gftavat: in pysan
+Case 242: gfDitavat: in pysan
+Case 243: gepitavat: in pysan
+Case 244: gevitavat: in pysan
+Case 245: gezitavat: in pysan
+Case 246: graTitavat: in pysan
+Case 247: grucitavat: in pysan
+Case 248: glasitavat: in pysan
+Case 249: glucitavat: in pysan
+Case 250: gluYcitavat: in pysan
+Case 251: glepitavat: in pysan
+Case 252: glevitavat: in pysan
+Case 253: glezitavat: in pysan
+Case 254: GaMzitavat: in pysan
+Case 255: GagGitavat: in pysan
+Case 256: GaRitavat: in pysan
+Case 257: GaRwitavat: in pysan
+Case 258: Gambitavat: in pysan
+Case 259: Garbitavat: in pysan
+Case 260: Gastavat: in pysan
+Case 261: GAritavat: in pysan
+Case 262: GiRRitavat: in pysan
+Case 263: Guwitavat: in pysan
+Case 264: Guqitavat: in pysan
+Case 265: GuRitavat: in pysan
+Case 266: GuRRitavat: in pysan
+Case 267: Gutavat: in pysan
+Case 268: GUritavat: in pysan
+Case 269: GfRRitavat: in pysan
+Case 270: Golitavat: in pysan
+Case 271: GrARavat: in pysan
+Case 272: Gritavat: in pysan
+Case 273: Nutavat: in pysan
+Case 274: cakAsitavat: in pysan
+Case 275: cakitavat: in pysan
+Case 276: cakkitavat: in pysan
+Case 277: cakzitavat: in pysan
+Case 278: caGitavat: in pysan
+Case 279: caRitavat: in pysan
+Case 280: caRqitavat: in pysan
+Case 281: catitavat: in pysan
+Case 282: caditavat: in pysan
+Case 283: canitavat: in pysan
+Case 284: capitavat: in pysan
+Case 285: campitavat: in pysan
+Case 286: cambitavat: in pysan
+Case 287: cayitavat: in pysan
+Case 288: carGitavat: in pysan
+Case 289: carbitavat: in pysan
+Case 290: carvitavat: in pysan
+Case 291: cahitavat: in pysan
+Case 292: cAntavat: in pysan
+Case 293: cAhitavat: in pysan
+Case 294: cikkitavat: in pysan
+Case 295: ciwitavat: in pysan
+Case 296: ciritavat: in pysan
+Case 297: cilitavat: in pysan
+Case 298: cIkitavat: in pysan
+Case 299: cIvitavat: in pysan
+Case 300: cukkitavat: in pysan
+Case 301: cuwitavat: in pysan
+Case 302: cuwwitavat: in pysan
+Case 303: cuqitavat: in pysan
+Case 304: cuqqitavat: in pysan
+Case 305: cuRitavat: in pysan
+Case 306: cuRWitavat: in pysan
+Case 307: cutitavat: in pysan
+Case 308: cupitavat: in pysan
+Case 309: culumpitavat: in pysan
+Case 310: cURitavat: in pysan
+Case 311: cUritavat: in pysan
+Case 312: cUzitavat: in pysan
+Case 313: cftitavat: in pysan
+Case 314: celitavat: in pysan
+Case 315: cowitavat: in pysan
+Case 316: coritavat: in pysan
+Case 317: colitavat: in pysan
+Case 318: cyutitavat: in pysan
+Case 319: cyositavat: in pysan
+Case 320: Camitavat: in pysan
+Case 321: Campitavat: in pysan
+Case 322: Cazitavat: in pysan
+Case 323: CAtavat: in pysan
+Case 324: CAditavat: in pysan
+Case 325: CAlitavat: in pysan
+Case 326: Citavat: in pysan
+Case 327: Cuwitavat: in pysan
+Case 328: Cuqitavat: in pysan
+Case 329: Cupitavat: in pysan
+Case 330: Curitavat: in pysan
+Case 331: Cfditavat: in pysan
+Case 332: Cfpitavat: in pysan
+Case 333: Cowitavat: in pysan
+Case 334: jaMsitavat: in pysan
+Case 335: jakzitavat: in pysan
+Case 336: jaNkzitavat: in pysan
+Case 337: jajitavat: in pysan
+Case 338: jaBitavat: in pysan
+Case 339: jamitavat: in pysan
+Case 340: jarcitavat: in pysan
+Case 341: jarCitavat: in pysan
+Case 342: jarjitavat: in pysan
+Case 343: jartsitavat: in pysan
+Case 344: jasitavat: in pysan
+Case 345: jAgaritavat: in pysan
+Case 346: jAlitavat: in pysan
+Case 347: jimitavat: in pysan
+Case 348: jiritavat: in pysan
+Case 349: jizitavat: in pysan
+Case 350: jInavat: in pysan
+Case 351: juNgitavat: in pysan
+Case 352: juYcitavat: in pysan
+Case 353: juwitavat: in pysan
+Case 354: juqitavat: in pysan
+Case 355: junitavat: in pysan
+Case 356: juritavat: in pysan
+Case 357: jUritavat: in pysan
+Case 358: jUrvitavat: in pysan
+Case 359: jftavat: in pysan
+Case 360: jezitavat: in pysan
+Case 361: jehitavat: in pysan
+Case 362: joqitavat: in pysan
+Case 363: jolitavat: in pysan
+Case 364: jyutitavat: in pysan
+Case 365: jritavat: in pysan
+Case 366: Jawitavat: in pysan
+Case 367: Jamitavat: in pysan
+Case 368: Jarcitavat: in pysan
+Case 369: Jazitavat: in pysan
+Case 370: JIstavat: in pysan
+Case 371: Jutavat: in pysan
+Case 372: JUzitavat: in pysan
+Case 373: Jyutavat: in pysan
+Case 374: waNkitavat: in pysan
+Case 375: wikitavat: in pysan
+Case 376: wIkitavat: in pysan
+Case 377: wOkitavat: in pysan
+Case 378: wvalitavat: in pysan
+Case 379: qamitavat: in pysan
+Case 380: qampitavat: in pysan
+Case 381: qamBitavat: in pysan
+Case 382: qayitavat: in pysan
+Case 383: qApitavat: in pysan
+Case 384: qipitavat: in pysan
+Case 385: qepitavat: in pysan
+Case 386: QOkitavat: in pysan
+Case 387: takitavat: in pysan
+Case 388: taNkitavat: in pysan
+Case 389: taNgitavat: in pysan
+Case 390: taYcitavat: in pysan
+Case 391: tawitavat: in pysan
+Case 392: taRqitavat: in pysan
+Case 393: tanditavat: in pysan
+Case 394: tayitavat: in pysan
+Case 395: tarditavat: in pysan
+Case 396: talitavat: in pysan
+Case 397: tasitavat: in pysan
+Case 398: tAqitavat: in pysan
+Case 399: tAntavat: in pysan
+Case 400: tAyitavat: in pysan
+Case 401: tAlitavat: in pysan
+Case 402: tikitavat: in pysan
+Case 403: tigitavat: in pysan
+Case 404: tiGitavat: in pysan
+Case 405: tijitavat: in pysan
+Case 406: tipitavat: in pysan
+Case 407: timitavat: in pysan
+Case 408: tilitavat: in pysan
+Case 409: tillitavat: in pysan
+Case 410: tIkitavat: in pysan
+Case 411: tImitavat: in pysan
+Case 412: tIvitavat: in pysan
+Case 413: tujitavat: in pysan
+Case 414: tuwitavat: in pysan
+Case 415: tuqitavat: in pysan
+Case 416: tuqqitavat: in pysan
+Case 417: tuRitavat: in pysan
+Case 418: tuRqitavat: in pysan
+Case 419: tutavat: in pysan
+Case 420: tunditavat: in pysan
+Case 421: tupitavat: in pysan
+Case 422: tuBitavat: in pysan
+Case 423: tumpitavat: in pysan
+Case 424: tumbitavat: in pysan
+Case 425: turitavat: in pysan
+Case 426: turvitavat: in pysan
+Case 427: tuSitavat: in pysan
+Case 428: tusitavat: in pysan
+Case 429: tuhitavat: in pysan
+Case 430: tUqitavat: in pysan
+Case 431: tURitavat: in pysan
+Case 432: tUlitavat: in pysan
+Case 433: tUzitavat: in pysan
+Case 434: tfkzitavat: in pysan
+Case 435: tfditavat: in pysan
+Case 436: tfPitavat: in pysan
+Case 437: tfmpitavat: in pysan
+Case 438: tfmPitavat: in pysan
+Case 439: tfzwavat: in pysan
+Case 440: tfhitavat: in pysan
+Case 441: tepitavat: in pysan
+Case 442: telitavat: in pysan
+Case 443: tevitavat: in pysan
+Case 444: toqitavat: in pysan
+Case 445: tolitavat: in pysan
+Case 446: traMsitavat: in pysan
+Case 447: traKitavat: in pysan
+Case 448: tranditavat: in pysan
+Case 449: trARavat: in pysan
+Case 450: trAstavat: in pysan
+Case 451: triNKitavat: in pysan
+Case 452: tritavat: in pysan
+Case 453: trupitavat: in pysan
+Case 454: truPitavat: in pysan
+Case 455: trumpitavat: in pysan
+Case 456: trumPitavat: in pysan
+Case 457: trOkitavat: in pysan
+Case 458: tvakzitavat: in pysan
+Case 459: tvaNgitavat: in pysan
+Case 460: tvacitavat: in pysan
+Case 461: tvaYcitavat: in pysan
+Case 462: tvizwavat: in pysan
+Case 463: tsaritavat: in pysan
+Case 464: Tarvitavat: in pysan
+Case 465: Tuqitavat: in pysan
+Case 466: Turvitavat: in pysan
+Case 467: daMsitavat: in pysan
+Case 468: daMhitavat: in pysan
+Case 469: daGitavat: in pysan
+Case 470: daNGitavat: in pysan
+Case 471: daditavat: in pysan
+Case 472: dadfmhitavat: in pysan
+Case 473: daDitavat: in pysan
+Case 474: danvitavat: in pysan
+Case 475: daBitavat: in pysan
+Case 476: darBitavat: in pysan
+Case 477: dazwavat: in pysan
+Case 478: dasitavat: in pysan
+Case 479: dAtavat: in pysan
+Case 480: dAnitavat: in pysan
+Case 481: dAyitavat: in pysan
+Case 482: dASitavat: in pysan
+Case 483: dAsitavat: in pysan
+Case 484: dinvitavat: in pysan
+Case 485: dipitavat: in pysan
+Case 486: dimpitavat: in pysan
+Case 487: dimBitavat: in pysan
+Case 488: dIDItavat: in pysan
+Case 489: dInavat: in pysan
+Case 490: duDitavat: in pysan
+Case 491: durvitavat: in pysan
+Case 492: dUtavat: in pysan
+Case 493: dUnavat: in pysan
+Case 494: dfMhitavat: in pysan
+Case 495: dftavat: in pysan
+Case 496: dfBitavat: in pysan
+Case 497: dyAnavat: in pysan
+Case 498: dyutavat: in pysan
+Case 499: dramitavat: in pysan
+Case 500: drAKitavat: in pysan
+Case 501: drANkzitavat: in pysan
+Case 502: drAqitavat: in pysan
+Case 503: drAhitavat: in pysan
+Case 504: druqitavat: in pysan
+Case 505: druRitavat: in pysan
+Case 506: drummitavat: in pysan
+Case 507: drUqitavat: in pysan
+Case 508: drUtavat: in pysan
+Case 509: drekitavat: in pysan
+Case 510: dvftavat: in pysan
+Case 511: Dakkitavat: in pysan
+Case 512: DaRitavat: in pysan
+Case 513: Davitavat: in pysan
+Case 514: Dikzitavat: in pysan
+Case 515: Ditavat: in pysan
+Case 516: Dizitavat: in pysan
+Case 517: DIkzitavat: in pysan
+Case 518: DInavat: in pysan
+Case 519: DIstavat: in pysan
+Case 520: DUnavat: in pysan
+Case 521: DUpitavat: in pysan
+Case 522: DUritavat: in pysan
+Case 523: DUrvitavat: in pysan
+Case 524: DUSitavat: in pysan
+Case 525: Dfjitavat: in pysan
+Case 526: Doritavat: in pysan
+Case 527: Drajitavat: in pysan
+Case 528: DraRitavat: in pysan
+Case 529: Drasitavat: in pysan
+Case 530: DrARavat: in pysan
+Case 531: Drijitavat: in pysan
+Case 532: Drekitavat: in pysan
+Case 533: Dvajitavat: in pysan
+Case 534: DvaRitavat: in pysan
+Case 535: Dvftavat: in pysan
+Case 536: DvraRitavat: in pysan
+Case 537: nakkitavat: in pysan
+Case 538: naKitavat: in pysan
+Case 539: najitavat: in pysan
+Case 540: naBitavat: in pysan
+Case 541: nambitavat: in pysan
+Case 542: nayitavat: in pysan
+Case 543: narbitavat: in pysan
+Case 544: nalitavat: in pysan
+Case 545: nasitavat: in pysan
+Case 546: nAqitavat: in pysan
+Case 547: nATitavat: in pysan
+Case 548: nADitavat: in pysan
+Case 549: nAlitavat: in pysan
+Case 550: nAsitavat: in pysan
+Case 551: niMsitavat: in pysan
+Case 552: nikzitavat: in pysan
+Case 553: niYjitavat: in pysan
+Case 554: ninvitavat: in pysan
+Case 555: nilitavat: in pysan
+Case 556: niSitavat: in pysan
+Case 557: nizitavat: in pysan
+Case 558: nizkitavat: in pysan
+Case 559: nIrRavat: in pysan
+Case 560: nIlitavat: in pysan
+Case 561: nIvitavat: in pysan
+Case 562: nuqitavat: in pysan
+Case 563: neditavat: in pysan
+Case 564: nezitavat: in pysan
+Case 565: paMSitavat: in pysan
+Case 566: pakzitavat: in pysan
+Case 567: pawitavat: in pysan
+Case 568: paRqitavat: in pysan
+Case 569: paTitavat: in pysan
+Case 570: panitavat: in pysan
+Case 571: panTitavat: in pysan
+Case 572: pambitavat: in pysan
+Case 573: payitavat: in pysan
+Case 574: parRitavat: in pysan
+Case 575: parTitavat: in pysan
+Case 576: parditavat: in pysan
+Case 577: parpitavat: in pysan
+Case 578: parbitavat: in pysan
+Case 579: parvitavat: in pysan
+Case 580: parzitavat: in pysan
+Case 581: palitavat: in pysan
+Case 582: pallitavat: in pysan
+Case 583: pavitavat: in pysan
+Case 584: pazitavat: in pysan
+Case 585: pasitavat: in pysan
+Case 586: pAwitavat: in pysan
+Case 587: pAtavat: in pysan
+Case 588: pAyitavat: in pysan
+Case 589: pAlitavat: in pysan
+Case 590: pAsitavat: in pysan
+Case 591: piMsitavat: in pysan
+Case 592: piccitavat: in pysan
+Case 593: piCitavat: in pysan
+Case 594: piwitavat: in pysan
+Case 595: piWitavat: in pysan
+Case 596: pitavat: in pysan
+Case 597: pinvitavat: in pysan
+Case 598: piSitavat: in pysan
+Case 599: pisitavat: in pysan
+Case 600: pIlitavat: in pysan
+Case 601: puMsitavat: in pysan
+Case 602: puCitavat: in pysan
+Case 603: puwitavat: in pysan
+Case 604: puwwitavat: in pysan
+Case 605: puqitavat: in pysan
+Case 606: puRitavat: in pysan
+Case 607: puRwitavat: in pysan
+Case 608: puRqitavat: in pysan
+Case 609: puTitavat: in pysan
+Case 610: puritavat: in pysan
+Case 611: purvitavat: in pysan
+Case 612: puzitavat: in pysan
+Case 613: pustavat: in pysan
+Case 614: pustitavat: in pysan
+Case 615: pURitavat: in pysan
+Case 616: pUyitavat: in pysan
+Case 617: pUrvitavat: in pysan
+Case 618: pUzitavat: in pysan
+Case 619: pfjitavat: in pysan
+Case 620: pfqitavat: in pysan
+Case 621: pfRitavat: in pysan
+Case 622: pftavat: in pysan
+Case 623: pfzitavat: in pysan
+Case 624: peCitavat: in pysan
+Case 625: peRitavat: in pysan
+Case 626: pebitavat: in pysan
+Case 627: pelitavat: in pysan
+Case 628: pevitavat: in pysan
+Case 629: pezitavat: in pysan
+Case 630: pesitavat: in pysan
+Case 631: pERitavat: in pysan
+Case 632: poYCitavat: in pysan
+Case 633: powitavat: in pysan
+Case 634: poRitavat: in pysan
+Case 635: positavat: in pysan
+Case 636: pyuzitavat: in pysan
+Case 637: pyusitavat: in pysan
+Case 638: pyozitavat: in pysan
+Case 639: praCitavat: in pysan
+Case 640: prasitavat: in pysan
+Case 641: prARavat: in pysan
+Case 642: prATitavat: in pysan
+Case 643: prutavat: in pysan
+Case 644: pruTitavat: in pysan
+Case 645: pruzitavat: in pysan
+Case 646: prezitavat: in pysan
+Case 647: prERitavat: in pysan
+Case 648: proTitavat: in pysan
+Case 649: prozitavat: in pysan
+Case 650: plakzitavat: in pysan
+Case 651: plabitavat: in pysan
+Case 652: plihitavat: in pysan
+Case 653: plInavat: in pysan
+Case 654: pluzitavat: in pysan
+Case 655: plusitavat: in pysan
+Case 656: plevitavat: in pysan
+Case 657: psAtavat: in pysan
+Case 658: Pakkitavat: in pysan
+Case 659: PaRitavat: in pysan
+Case 660: Parvitavat: in pysan
+Case 661: Pullavat: in pysan
+Case 662: Pelitavat: in pysan
+Case 663: baMhitavat: in pysan
+Case 664: baditavat: in pysan
+Case 665: barbitavat: in pysan
+Case 666: barhitavat: in pysan
+Case 667: balitavat: in pysan
+Case 668: bAqitavat: in pysan
+Case 669: bAlitavat: in pysan
+Case 670: biwitavat: in pysan
+Case 671: biditavat: in pysan
+Case 672: bilitavat: in pysan
+Case 673: biSitavat: in pysan
+Case 674: bisitavat: in pysan
+Case 675: bIBitavat: in pysan
+Case 676: bukkitavat: in pysan
+Case 677: buNgitavat: in pysan
+Case 678: buwitavat: in pysan
+Case 679: buqitavat: in pysan
+Case 680: buditavat: in pysan
+Case 681: bunditavat: in pysan
+Case 682: bunDitavat: in pysan
+Case 683: busitavat: in pysan
+Case 684: bfhitavat: in pysan
+Case 685: belitavat: in pysan
+Case 686: bowitavat: in pysan
+Case 687: boDitavat: in pysan
+Case 688: bolitavat: in pysan
+Case 689: brahmitavat: in pysan
+Case 690: brUtavat: in pysan
+Case 691: Bawitavat: in pysan
+Case 692: BaRwitavat: in pysan
+Case 693: Banitavat: in pysan
+Case 694: Barbitavat: in pysan
+Case 695: Barvitavat: in pysan
+Case 696: Balitavat: in pysan
+Case 697: Bazitavat: in pysan
+Case 698: BAwitavat: in pysan
+Case 699: BAmitavat: in pysan
+Case 700: BAlitavat: in pysan
+Case 701: Bikzitavat: in pysan
+Case 702: Biditavat: in pysan
+Case 703: Binditavat: in pysan
+Case 704: BuRqitavat: in pysan
+Case 705: BUrRavat: in pysan
+Case 706: BfMSitavat: in pysan
+Case 707: Bfkzitavat: in pysan
+Case 708: Bfjitavat: in pysan
+Case 709: Bfqitavat: in pysan
+Case 710: Bezitavat: in pysan
+Case 711: Byasitavat: in pysan
+Case 712: Brakzitavat: in pysan
+Case 713: Brajjitavat: in pysan
+Case 714: BraRitavat: in pysan
+Case 715: Bramitavat: in pysan
+Case 716: BraSitavat: in pysan
+Case 717: BrASitavat: in pysan
+Case 718: BrItavat: in pysan
+Case 719: Bruqitavat: in pysan
+Case 720: BrURitavat: in pysan
+Case 721: Brezitavat: in pysan
+Case 722: BlASitavat: in pysan
+Case 723: maMhitavat: in pysan
+Case 724: makzitavat: in pysan
+Case 725: maKitavat: in pysan
+Case 726: maNkitavat: in pysan
+Case 727: maNgitavat: in pysan
+Case 728: maNGitavat: in pysan
+Case 729: macitavat: in pysan
+Case 730: majjitavat: in pysan
+Case 731: maYcitavat: in pysan
+Case 732: maYjitavat: in pysan
+Case 733: maWitavat: in pysan
+Case 734: maRitavat: in pysan
+Case 735: maRwitavat: in pysan
+Case 736: maRWitavat: in pysan
+Case 737: manTitavat: in pysan
+Case 738: maBritavat: in pysan
+Case 739: mambitavat: in pysan
+Case 740: mayitavat: in pysan
+Case 741: marcitavat: in pysan
+Case 742: marjitavat: in pysan
+Case 743: marqitavat: in pysan
+Case 744: marbitavat: in pysan
+Case 745: marvitavat: in pysan
+Case 746: malitavat: in pysan
+Case 747: mallitavat: in pysan
+Case 748: mavitavat: in pysan
+Case 749: mavyitavat: in pysan
+Case 750: maSitavat: in pysan
+Case 751: masitavat: in pysan
+Case 752: maskitavat: in pysan
+Case 753: mANkzitavat: in pysan
+Case 754: mAqitavat: in pysan
+Case 755: mAnitavat: in pysan
+Case 756: mAnTitavat: in pysan
+Case 757: mAynavat: in pysan
+Case 758: mArjitavat: in pysan
+Case 759: mAhitavat: in pysan
+Case 760: miCitavat: in pysan
+Case 761: miYjitavat: in pysan
+Case 762: miQavat: in pysan
+Case 763: miTitavat: in pysan
+Case 764: miDitavat: in pysan
+Case 765: miSitavat: in pysan
+Case 766: misitavat: in pysan
+Case 767: mInavat: in pysan
+Case 768: mImitavat: in pysan
+Case 769: mIvitavat: in pysan
+Case 770: muCitavat: in pysan
+Case 771: muYcitavat: in pysan
+Case 772: muwitavat: in pysan
+Case 773: muqitavat: in pysan
+Case 774: muRitavat: in pysan
+Case 775: muritavat: in pysan
+Case 776: murvitavat: in pysan
+Case 777: mustitavat: in pysan
+Case 778: mUtavat: in pysan
+Case 779: mUrRavat: in pysan
+Case 780: mUlitavat: in pysan
+Case 781: mUzitavat: in pysan
+Case 782: mfCitavat: in pysan
+Case 783: mfRitavat: in pysan
+Case 784: mfditavat: in pysan
+Case 785: mfDitavat: in pysan
+Case 786: meqitavat: in pysan
+Case 787: meditavat: in pysan
+Case 788: mepitavat: in pysan
+Case 789: mevitavat: in pysan
+Case 790: mojitavat: in pysan
+Case 791: mowitavat: in pysan
+Case 792: myakzitavat: in pysan
+Case 793: mrakzitavat: in pysan
+Case 794: mraditavat: in pysan
+Case 795: mrititavat: in pysan
+Case 796: mrucitavat: in pysan
+Case 797: mruYcitavat: in pysan
+Case 798: mreqitavat: in pysan
+Case 799: mlakzitavat: in pysan
+Case 800: mlucitavat: in pysan
+Case 801: mluYcitavat: in pysan
+Case 802: mleCitavat: in pysan
+Case 803: mlewitavat: in pysan
+Case 804: mlevitavat: in pysan
+Case 805: yakzitavat: in pysan
+Case 806: yuNgitavat: in pysan
+Case 807: yuCitavat: in pysan
+Case 808: yutitavat: in pysan
+Case 809: yupitavat: in pysan
+Case 810: yUzitavat: in pysan
+Case 811: yezitavat: in pysan
+Case 812: yOwitavat: in pysan
+Case 813: raKitavat: in pysan
+Case 814: ragitavat: in pysan
+Case 815: raNKitavat: in pysan
+Case 816: raNgitavat: in pysan
+Case 817: raNGitavat: in pysan
+Case 818: rawitavat: in pysan
+Case 819: raWitavat: in pysan
+Case 820: raRvitavat: in pysan
+Case 821: raditavat: in pysan
+Case 822: rapitavat: in pysan
+Case 823: raPitavat: in pysan
+Case 824: ramPitavat: in pysan
+Case 825: rambitavat: in pysan
+Case 826: ramBitavat: in pysan
+Case 827: rayitavat: in pysan
+Case 828: razwavat: in pysan
+Case 829: rAkitavat: in pysan
+Case 830: rAKitavat: in pysan
+Case 831: rAgitavat: in pysan
+Case 832: rAGitavat: in pysan
+Case 833: rARitavat: in pysan
+Case 834: rAsitavat: in pysan
+Case 835: riKitavat: in pysan
+Case 836: riNKitavat: in pysan
+Case 837: riNgitavat: in pysan
+Case 838: riRvitavat: in pysan
+Case 839: ritavat: in pysan
+Case 840: riPitavat: in pysan
+Case 841: riBitavat: in pysan
+Case 842: rimPitavat: in pysan
+Case 843: rihitavat: in pysan
+Case 844: rIvitavat: in pysan
+Case 845: ruMSitavat: in pysan
+Case 846: rujYavat: in pysan
+Case 847: ruWitavat: in pysan
+Case 848: ruRwitavat: in pysan
+Case 849: ruRWitavat: in pysan
+Case 850: rupitavat: in pysan
+Case 851: rUzitavat: in pysan
+Case 852: rekitavat: in pysan
+Case 853: rejitavat: in pysan
+Case 854: rewitavat: in pysan
+Case 855: reqitavat: in pysan
+Case 856: repitavat: in pysan
+Case 857: rezitavat: in pysan
+Case 858: rowitavat: in pysan
+Case 859: roqitavat: in pysan
+Case 860: rOwitavat: in pysan
+Case 861: laKitavat: in pysan
+Case 862: laCitavat: in pysan
+Case 863: lajitavat: in pysan
+Case 864: lajinavat: in pysan
+Case 865: laYjitavat: in pysan
+Case 866: lawitavat: in pysan
+Case 867: laqitavat: in pysan
+Case 868: laRqitavat: in pysan
+Case 869: lamBitavat: in pysan
+Case 870: layitavat: in pysan
+Case 871: larditavat: in pysan
+Case 872: larbitavat: in pysan
+Case 873: lAkitavat: in pysan
+Case 874: lAKitavat: in pysan
+Case 875: lAgitavat: in pysan
+Case 876: lAGavat: in pysan
+Case 877: lAjitavat: in pysan
+Case 878: lAYjitavat: in pysan
+Case 879: lAqitavat: in pysan
+Case 880: lAtavat: in pysan
+Case 881: lABitavat: in pysan
+Case 882: lASitavat: in pysan
+Case 883: lAzitavat: in pysan
+Case 884: lAsitavat: in pysan
+Case 885: liNKitavat: in pysan
+Case 886: liNgitavat: in pysan
+Case 887: luwitavat: in pysan
+Case 888: luqitavat: in pysan
+Case 889: luRwitavat: in pysan
+Case 890: lunTitavat: in pysan
+Case 891: lumbitavat: in pysan
+Case 892: luzitavat: in pysan
+Case 893: lUzitavat: in pysan
+Case 894: lepitavat: in pysan
+Case 895: lERitavat: in pysan
+Case 896: lowitavat: in pysan
+Case 897: loWitavat: in pysan
+Case 898: lozwitavat: in pysan
+Case 899: lOqitavat: in pysan
+Case 900: lpItavat: in pysan
+Case 901: lvItavat: in pysan
+Case 902: vakitavat: in pysan
+Case 903: vakkitavat: in pysan
+Case 904: vakzitavat: in pysan
+Case 905: vaKitavat: in pysan
+Case 906: vaNKitavat: in pysan
+Case 907: vaNgitavat: in pysan
+Case 908: vaNGitavat: in pysan
+Case 909: vajitavat: in pysan
+Case 910: vaYcitavat: in pysan
+Case 911: vawitavat: in pysan
+Case 912: vawwitavat: in pysan
+Case 913: vaWitavat: in pysan
+Case 914: vaqQitavat: in pysan
+Case 915: vaRitavat: in pysan
+Case 916: vaRwitavat: in pysan
+Case 917: vaRWitavat: in pysan
+Case 918: vaRqitavat: in pysan
+Case 919: vaBritavat: in pysan
+Case 920: vayitavat: in pysan
+Case 921: varcitavat: in pysan
+Case 922: varDitavat: in pysan
+Case 923: varPitavat: in pysan
+Case 924: valkitavat: in pysan
+Case 925: valBitavat: in pysan
+Case 926: vallitavat: in pysan
+Case 927: valhitavat: in pysan
+Case 928: vazitavat: in pysan
+Case 929: vazkitavat: in pysan
+Case 930: vaskitavat: in pysan
+Case 931: vastitavat: in pysan
+Case 932: vANkzitavat: in pysan
+Case 933: vAtitavat: in pysan
+Case 934: vAnavat: in pysan
+Case 935: vAvftitavat: in pysan
+Case 936: vAhitavat: in pysan
+Case 937: vicitavat: in pysan
+Case 938: viwitavat: in pysan
+Case 939: viqitavat: in pysan
+Case 940: viRwitavat: in pysan
+Case 941: viTitavat: in pysan
+Case 942: viDitavat: in pysan
+Case 943: vilitavat: in pysan
+Case 944: vizkitavat: in pysan
+Case 945: vIjitavat: in pysan
+Case 946: vIritavat: in pysan
+Case 947: vuRwitavat: in pysan
+Case 948: vUrRavat: in pysan
+Case 949: vfMhitavat: in pysan
+Case 950: vfkitavat: in pysan
+Case 951: vfkzitavat: in pysan
+Case 952: vfRitavat: in pysan
+Case 953: vfSitavat: in pysan
+Case 954: vfhitavat: in pysan
+Case 955: vekzitavat: in pysan
+Case 956: veCitavat: in pysan
+Case 957: vewyitavat: in pysan
+Case 958: veDitavat: in pysan
+Case 959: vepitavat: in pysan
+Case 960: velitavat: in pysan
+Case 961: vellitavat: in pysan
+Case 962: vevItavat: in pysan
+Case 963: vesitavat: in pysan
+Case 964: vehitavat: in pysan
+Case 965: vehlitavat: in pysan
+Case 966: vyayitavat: in pysan
+Case 967: vyApitavat: in pysan
+Case 968: vyuzitavat: in pysan
+Case 969: vyozitavat: in pysan
+Case 970: vrAjitavat: in pysan
+Case 971: vrARitavat: in pysan
+Case 972: vrIRavat: in pysan
+Case 973: vruqitavat: in pysan
+Case 974: vlInavat: in pysan
+Case 975: Sacitavat: in pysan
+Case 976: Sawitavat: in pysan
+Case 977: SaWitavat: in pysan
+Case 978: SaRitavat: in pysan
+Case 979: SaRqitavat: in pysan
+Case 980: Sambitavat: in pysan
+Case 981: Sarbitavat: in pysan
+Case 982: Sarvitavat: in pysan
+Case 983: Salitavat: in pysan
+Case 984: SalBitavat: in pysan
+Case 985: Savitavat: in pysan
+Case 986: SaSitavat: in pysan
+Case 987: Sazitavat: in pysan
+Case 988: SAKitavat: in pysan
+Case 989: SAwitavat: in pysan
+Case 990: SAWitavat: in pysan
+Case 991: SAqitavat: in pysan
+Case 992: SARitavat: in pysan
+Case 993: SAmitavat: in pysan
+Case 994: SAlitavat: in pysan
+Case 995: SiNKitavat: in pysan
+Case 996: SiNGitavat: in pysan
+Case 997: SiYjitavat: in pysan
+Case 998: Siwitavat: in pysan
+Case 999: Simitavat: in pysan
+Case 1000: Silitavat: in pysan
+Case 1001: SIkitavat: in pysan
+Case 1002: SIBitavat: in pysan
+Case 1003: SIlitavat: in pysan
+Case 1004: Sukitavat: in pysan
+Case 1005: Sucitavat: in pysan
+Case 1006: Sucyitavat: in pysan
+Case 1007: SuWitavat: in pysan
+Case 1008: SuRWitavat: in pysan
+Case 1009: SuRqitavat: in pysan
+Case 1010: Sutavat: in pysan
+Case 1011: Sunitavat: in pysan
+Case 1012: Sulkitavat: in pysan
+Case 1013: Sulbitavat: in pysan
+Case 1014: SUritavat: in pysan
+Case 1015: SUrpitavat: in pysan
+Case 1016: SUlitavat: in pysan
+Case 1017: SUzitavat: in pysan
+Case 1018: Sftavat: in pysan
+Case 1019: SfDitavat: in pysan
+Case 1020: Selitavat: in pysan
+Case 1021: Sevitavat: in pysan
+Case 1022: SoWitavat: in pysan
+Case 1023: SoRitavat: in pysan
+Case 1024: SOwitavat: in pysan
+Case 1025: Scotitavat: in pysan
+Case 1026: Scyutitavat: in pysan
+Case 1027: SnaTitavat: in pysan
+Case 1028: SmIlitavat: in pysan
+Case 1029: SyAnavat: in pysan
+Case 1030: SraNkitavat: in pysan
+Case 1031: SraNgitavat: in pysan
+Case 1032: SraRitavat: in pysan
+Case 1033: SraTitavat: in pysan
+Case 1034: Srapitavat: in pysan
+Case 1035: SrARavat: in pysan
+Case 1036: SrARitavat: in pysan
+Case 1037: Srizitavat: in pysan
+Case 1038: SrItavat: in pysan
+Case 1039: SroRitavat: in pysan
+Case 1040: SlaNkitavat: in pysan
+Case 1041: SlaNgitavat: in pysan
+Case 1042: SlaTitavat: in pysan
+Case 1043: SlAKitavat: in pysan
+Case 1044: Slokitavat: in pysan
+Case 1045: SloRitavat: in pysan
+Case 1046: SvaNkitavat: in pysan
+Case 1047: SvaNgitavat: in pysan
+Case 1048: Svacitavat: in pysan
+Case 1049: Svajitavat: in pysan
+Case 1050: SvaBritavat: in pysan
+Case 1051: Svalitavat: in pysan
+Case 1052: Svalkitavat: in pysan
+Case 1053: Svastavat: in pysan
+Case 1054: SvAWitavat: in pysan
+Case 1055: SvAtritavat: in pysan
+Case 1056: Svititavat: in pysan
+Case 1057: Svinditavat: in pysan
+Case 1058: zawwitavat: in pysan
+Case 1059: zazkitavat: in pysan
+Case 1060: zukkitavat: in pysan
+Case 1061: zWyUtavat: in pysan
+Case 1062: zvakkitavat: in pysan
+Case 1063: zvazkitavat: in pysan
+Case 1064: sakzitavat: in pysan
+Case 1065: sagitavat: in pysan
+Case 1066: saGitavat: in pysan
+Case 1067: sacitavat: in pysan
+Case 1068: sawitavat: in pysan
+Case 1069: sawwitavat: in pysan
+Case 1070: satritavat: in pysan
+Case 1071: sadDavat: in pysan
+Case 1072: sapitavat: in pysan
+Case 1073: saBAjitavat: in pysan
+Case 1074: samitavat: in pysan
+Case 1075: sayitavat: in pysan
+Case 1076: sarjitavat: in pysan
+Case 1077: sarbitavat: in pysan
+Case 1078: salitavat: in pysan
+Case 1079: sasitavat: in pysan
+Case 1080: sAkzitavat: in pysan
+Case 1081: sAwitavat: in pysan
+Case 1082: sAWitavat: in pysan
+Case 1083: sAmaytavat: in pysan
+Case 1084: sAmitavat: in pysan
+Case 1085: sArtavat: in pysan
+Case 1086: sAhitavat: in pysan
+Case 1087: siwitavat: in pysan
+Case 1088: sinavat: in pysan
+Case 1089: sIstavat: in pysan
+Case 1090: suwwitavat: in pysan
+Case 1091: suBitavat: in pysan
+Case 1092: suritavat: in pysan
+Case 1093: suhitavat: in pysan
+Case 1094: sUnavat: in pysan
+Case 1095: sUrkzitavat: in pysan
+Case 1096: sUzitavat: in pysan
+Case 1097: sfBitavat: in pysan
+Case 1098: sekitavat: in pysan
+Case 1099: setavat: in pysan
+Case 1100: soritavat: in pysan
+Case 1101: skadnavat: in pysan
+Case 1102: skanDitavat: in pysan
+Case 1103: skutavat: in pysan
+Case 1104: skunditavat: in pysan
+Case 1105: sKaditavat: in pysan
+Case 1106: stakitavat: in pysan
+Case 1107: stabDavat: in pysan
+Case 1108: stAtavat: in pysan
+Case 1109: stiGitavat: in pysan
+Case 1110: stipitavat: in pysan
+Case 1111: stimitavat: in pysan
+Case 1112: stItavat: in pysan
+Case 1113: stImavat: in pysan
+Case 1114: stucitavat: in pysan
+Case 1115: stuBitavat: in pysan
+Case 1116: stumBitavat: in pysan
+Case 1117: stUpitavat: in pysan
+Case 1118: stfkzitavat: in pysan
+Case 1119: stfQavat: in pysan
+Case 1120: stepitavat: in pysan
+Case 1121: sTalitavat: in pysan
+Case 1122: sTiritavat: in pysan
+Case 1123: sTuqitavat: in pysan
+Case 1124: sTUlitavat: in pysan
+Case 1125: snucitavat: in pysan
+Case 1126: snusitavat: in pysan
+Case 1127: snewitavat: in pysan
+Case 1128: sparzitavat: in pysan
+Case 1129: spaSitavat: in pysan
+Case 1130: spASitavat: in pysan
+Case 1131: spAzwavat: in pysan
+Case 1132: spUstavat: in pysan
+Case 1133: spftavat: in pysan
+Case 1134: sPawitavat: in pysan
+Case 1135: sPaRqitavat: in pysan
+Case 1136: sParitavat: in pysan
+Case 1137: sPalitavat: in pysan
+Case 1138: sPAwitavat: in pysan
+Case 1139: sPiwwitavat: in pysan
+Case 1140: sPuwwitavat: in pysan
+Case 1141: sPuqitavat: in pysan
+Case 1142: sPuRwitavat: in pysan
+Case 1143: sPuRqitavat: in pysan
+Case 1144: sPulitavat: in pysan
+Case 1145: sPUrgRavat: in pysan
+Case 1146: sPUrCitavat: in pysan
+Case 1147: sPewitavat: in pysan
+Case 1148: smewitavat: in pysan
+Case 1149: syamitavat: in pysan
+Case 1150: sraMhitavat: in pysan
+Case 1151: srastavat: in pysan
+Case 1152: sriDitavat: in pysan
+Case 1153: sriBitavat: in pysan
+Case 1154: srekitavat: in pysan
+Case 1155: svaNgitavat: in pysan
+Case 1156: svajitavat: in pysan
+Case 1157: svarditavat: in pysan
+Case 1158: sviditavat: in pysan
+Case 1159: svftavat: in pysan
+Case 1160: hawitavat: in pysan
+Case 1161: haWitavat: in pysan
+Case 1162: haditavat: in pysan
+Case 1163: hammitavat: in pysan
+Case 1164: hayitavat: in pysan
+Case 1165: halitavat: in pysan
+Case 1166: hiRqitavat: in pysan
+Case 1167: hilitavat: in pysan
+Case 1168: huqitavat: in pysan
+Case 1169: hurCitavat: in pysan
+Case 1170: hulitavat: in pysan
+Case 1171: hUqitavat: in pysan
+Case 1172: heWitavat: in pysan
+Case 1173: heqitavat: in pysan
+Case 1174: heQitavat: in pysan
+Case 1175: hezitavat: in pysan
+Case 1176: hoqitavat: in pysan
+Case 1177: hnutavat: in pysan
+Case 1178: hmalitavat: in pysan
+Case 1179: hragitavat: in pysan
+Case 1180: hrICitavat: in pysan
+Case 1181: hruqitavat: in pysan
+Case 1182: hrutavat: in pysan
+Case 1183: hrepitavat: in pysan
+Case 1184: hrezitavat: in pysan
+Case 1185: hrOqitavat: in pysan
+Case 1186: hlagitavat: in pysan
+Case 1187: hlannavat: in pysan
+Case 1188: hlasitavat: in pysan
+Case 1189: hlApitavat: in pysan
+Case 1190: hvftavat: in pysan
+--------------------------------------------------
+275 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: aknavat: in huet
+Case 02: agaditavat: in huet
+Case 03: ajiritavat: in huet
+Case 04: attavat: in huet
+Case 05: aDvaritavat: in huet
+Case 06: apsaretavat: in huet
+Case 07: amitritavat: in huet
+Case 08: arditavat: in huet
+Case 09: aSanitavat: in huet
+Case 10: aSitavat: in huet
+Case 11: aSvitavat: in huet
+Case 12: asUyitavat: in huet
+Case 13: AkarRitavat: in huet
+Case 14: Akulitavat: in huet
+Case 15: Antavat: in huet
+Case 16: Andolitavat: in huet
+Case 17: Avilitavat: in huet
+Case 18: intavat: in huet
+Case 19: iretavat: in huet
+Case 20: iltavat: in huet
+Case 21: izitavat: in huet
+Case 22: izuDitavat: in huet
+Case 23: Irzitavat: in huet
+Case 24: utkaRWitavat: in huet
+Case 25: utkitavat: in huet
+Case 26: udakitavat: in huet
+Case 27: udetavat: in huet
+Case 28: unmanetavat: in huet
+Case 29: ubDavat: in huet
+Case 30: umBitavat: in huet
+Case 31: uruzwavat: in huet
+Case 32: uretavat: in huet
+Case 33: uzetavat: in huet
+Case 34: uzwavat: in huet
+Case 35: Utavat: in huet
+Case 36: Uzmetavat: in huet
+Case 37: kaRvitavat: in huet
+Case 38: kadarTitavat: in huet
+Case 39: karuRitavat: in huet
+Case 40: kartitavat: in huet
+Case 41: kalaNkitavat: in huet
+Case 42: kalahitavat: in huet
+Case 43: kaluzitavat: in huet
+Case 44: kavalitavat: in huet
+Case 45: kazwitavat: in huet
+Case 46: kuwwavat: in huet
+Case 47: kultavat: in huet
+Case 48: kusumitavat: in huet
+Case 49: kfcCritavat: in huet
+Case 50: kfptavat: in huet
+Case 51: kfSitavat: in huet
+Case 52: klantavat: in huet
+Case 53: klIbatavat: in huet
+Case 54: kzattavat: in huet
+Case 55: kzaptavat: in huet
+Case 56: kzamitavat: in huet
+Case 57: kzItavat: in huet
+Case 58: kzIritavat: in huet
+Case 59: kzveqitavat: in huet
+Case 60: Kaqitavat: in huet
+Case 61: Keltavat: in huet
+Case 62: gaktavat: in huet
+Case 63: gadgaditavat: in huet
+Case 64: gavezitavat: in huet
+Case 65: gavezwavat: in huet
+Case 66: gitavat: in huet
+Case 67: gIrtavat: in huet
+Case 68: gupitavat: in huet
+Case 69: gurtavat: in huet
+Case 70: gfdDavat: in huet
+Case 71: gfBItavat: in huet
+Case 72: gopitavat: in huet
+Case 73: gomayitavat: in huet
+Case 74: granTitavat: in huet
+Case 75: Guzitavat: in huet
+Case 76: cakAstavat: in huet
+Case 77: cattavat: in huet
+Case 78: cantavat: in huet
+Case 79: cazwavat: in huet
+Case 80: citritavat: in huet
+Case 81: curitavat: in huet
+Case 82: cUzwavat: in huet
+Case 83: Canditavat: in huet
+Case 84: Calitavat: in huet
+Case 85: Cidritavat: in huet
+Case 86: jantavat: in huet
+Case 87: japtavat: in huet
+Case 88: jabDavat: in huet
+Case 89: jastavat: in huet
+Case 90: jAgritavat: in huet
+Case 91: jihmitavat: in huet
+Case 92: jUtavat: in huet
+Case 93: jyuttavat: in huet
+Case 94: jvartavat: in huet
+Case 95: taktavat: in huet
+Case 96: tantavat: in huet
+Case 97: tantritavat: in huet
+Case 98: tapitavat: in huet
+Case 99: tapetavat: in huet
+Case 100: taraNgitavat: in huet
+Case 101: taruRitavat: in huet
+Case 102: tavizitavat: in huet
+Case 103: tiktavat: in huet
+Case 104: tiretavat: in huet
+Case 105: tuptavat: in huet
+Case 106: tulitavat: in huet
+Case 107: tuhinitavat: in huet
+Case 108: tfRRavat: in huet
+Case 109: tvartavat: in huet
+Case 110: tvazwavat: in huet
+Case 111: tvizitavat: in huet
+Case 112: tsartavat: in huet
+Case 113: daGnavat: in huet
+Case 114: daRqitavat: in huet
+Case 115: dAzwavat: in huet
+Case 116: dItavat: in huet
+Case 117: duHKitavat: in huet
+Case 118: durdinitavat: in huet
+Case 119: dfpitavat: in huet
+Case 120: dfbDavat: in huet
+Case 121: dyuttavat: in huet
+Case 122: dyotitavat: in huet
+Case 123: druhitavat: in huet
+Case 124: Darzitavat: in huet
+Case 125: DIritavat: in huet
+Case 126: DUmitavat: in huet
+Case 127: DUrtavat: in huet
+Case 128: nametavat: in huet
+Case 129: naSitavat: in huet
+Case 130: nAtTavat: in huet
+Case 131: nikazitavat: in huet
+Case 132: nitavat: in huet
+Case 133: nIhAritavat: in huet
+Case 134: nuditavat: in huet
+Case 135: nUtanitavat: in huet
+Case 136: pawapawitavat: in huet
+Case 137: pawwavat: in huet
+Case 138: pattavat: in huet
+Case 139: patTavat: in huet
+Case 140: payetavat: in huet
+Case 141: parokzitavat: in huet
+Case 142: pavitritavat: in huet
+Case 143: pIyUzavarzitavat: in huet
+Case 144: putTavat: in huet
+Case 145: putrakAmitavat: in huet
+Case 146: putritavat: in huet
+Case 147: pulakitavat: in huet
+Case 148: puzkaritavat: in huet
+Case 149: puzpitavat: in huet
+Case 150: pUrtavat: in huet
+Case 151: pUlatavat: in huet
+Case 152: pfTitavat: in huet
+Case 153: pfzwavat: in huet
+Case 154: pratikUlitavat: in huet
+Case 155: prasAditavat: in huet
+Case 156: prAsAditavat: in huet
+Case 157: pritavat: in huet
+Case 158: priyitavat: in huet
+Case 159: prUtavat: in huet
+Case 160: pluzwavat: in huet
+Case 161: Penitavat: in huet
+Case 162: bahitavat: in huet
+Case 163: bAzpitavat: in huet
+Case 164: Bazwavat: in huet
+Case 165: Bizetavat: in huet
+Case 166: Bfzwavat: in huet
+Case 167: magnavat: in huet
+Case 168: maDitavat: in huet
+Case 169: mantitavat: in huet
+Case 170: malinitavat: in huet
+Case 171: mAMsitavat: in huet
+Case 172: mAnavat: in huet
+Case 173: mAlyaguRitavat: in huet
+Case 174: mitTavat: in huet
+Case 175: minnavat: in huet
+Case 176: mIQavat: in huet
+Case 177: mItavat: in huet
+Case 178: mukulitavat: in huet
+Case 179: muKaritavat: in huet
+Case 180: mudritavat: in huet
+Case 181: muhitavat: in huet
+Case 182: mUtritavat: in huet
+Case 183: mUzwavat: in huet
+Case 184: mfjitavat: in huet
+Case 185: mfwwavat: in huet
+Case 186: mfttavat: in huet
+Case 187: mfdDavat: in huet
+Case 188: mfzitavat: in huet
+Case 189: meGitavat: in huet
+Case 190: mlizwavat: in huet
+Case 191: mlecCitavat: in huet
+Case 192: mlezwavat: in huet
+Case 193: yastavat: in huet
+Case 194: yugitavat: in huet
+Case 195: rattavat: in huet
+Case 196: raTakAmitavat: in huet
+Case 197: raDitavat: in huet
+Case 198: rAjetavat: in huet
+Case 199: rizitavat: in huet
+Case 200: ruktavat: in huet
+Case 201: ruzitavat: in huet
+Case 202: roditavat: in huet
+Case 203: romanTitavat: in huet
+Case 204: lagnavat: in huet
+Case 205: laGitavat: in huet
+Case 206: lavaRitavat: in huet
+Case 207: lAlitavat: in huet
+Case 208: luRWitavat: in huet
+Case 209: lulitavat: in huet
+Case 210: leletavat: in huet
+Case 211: lolitavat: in huet
+Case 212: lohititavat: in huet
+Case 213: vaNktavat: in huet
+Case 214: vaditavat: in huet
+Case 215: varivetavat: in huet
+Case 216: vimanitavat: in huet
+Case 217: viSaditavat: in huet
+Case 218: vizitavat: in huet
+Case 219: vIktavat: in huet
+Case 220: vfzitavat: in huet
+Case 221: vetavat: in huet
+Case 222: veditavat: in huet
+Case 223: vEritavat: in huet
+Case 224: vrajitavat: in huet
+Case 225: Sakitavat: in huet
+Case 226: SalaBitavat: in huet
+Case 227: Saltavat: in huet
+Case 228: SAntitavat: in huet
+Case 229: SAsitavat: in huet
+Case 230: SAstavat: in huet
+Case 231: SiTilitavat: in huet
+Case 232: SiSitavat: in huet
+Case 233: SIGritavat: in huet
+Case 234: SItavat: in huet
+Case 235: SIltavat: in huet
+Case 236: Suktavat: in huet
+Case 237: SuBitavat: in huet
+Case 238: SyAmitavat: in huet
+Case 239: Syenitavat: in huet
+Case 240: SrabDavat: in huet
+Case 241: Svittavat: in huet
+Case 242: zaRQitavat: in huet
+Case 243: zWIvitavat: in huet
+Case 244: saKitavat: in huet
+Case 245: saNkawitavat: in huet
+Case 246: saNgrAmitavat: in huet
+Case 247: satyitavat: in huet
+Case 248: sapiRqitavat: in huet
+Case 249: saptavat: in huet
+Case 250: saPalitavat: in huet
+Case 251: samudritavat: in huet
+Case 252: sahitavat: in huet
+Case 253: sAQavat: in huet
+Case 254: sAvaDAnitavat: in huet
+Case 255: sudinitavat: in huet
+Case 256: sumanetavat: in huet
+Case 257: surtavat: in huet
+Case 258: skannavat: in huet
+Case 259: stamBitavat: in huet
+Case 260: stIrRavat: in huet
+Case 261: stubDavat: in huet
+Case 262: snihitavat: in huet
+Case 263: snIQavat: in huet
+Case 264: snugDavat: in huet
+Case 265: snUQavat: in huet
+Case 266: sPaltavat: in huet
+Case 267: sraMstavat: in huet
+Case 268: svaYjitavat: in huet
+Case 269: svartavat: in huet
+Case 270: svalpaSilitavat: in huet
+Case 271: hawWavat: in huet
+Case 272: hannavat: in huet
+Case 273: hAtavat: in huet
+Case 274: hnUtavat: in huet
+Case 275: hvartavat: in huet
