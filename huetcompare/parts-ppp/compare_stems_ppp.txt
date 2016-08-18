@@ -1,0 +1,1998 @@
+--------------------------------------------------
+524 cases of STEM in BOTH
+--------------------------------------------------
+Case 01: aMSita: identical in BOTH
+Case 02: akta: identical in BOTH
+Case 03: aGita: identical in BOTH
+Case 04: aNkita: identical in BOTH
+Case 05: aNKita: identical in BOTH
+Case 06: aNgita: identical in BOTH
+Case 07: ajita: identical in BOTH
+Case 08: aYcita: identical in BOTH
+Case 09: awita: identical in BOTH
+Case 10: atita: identical in BOTH
+Case 11: anita: identical in BOTH
+Case 12: anDita: identical in BOTH
+Case 13: aBrita: identical in BOTH
+Case 14: amita: identical in BOTH
+Case 15: arcita: identical in BOTH
+Case 16: arjita: identical in BOTH
+Case 17: arTita: identical in BOTH
+Case 18: arhita: identical in BOTH
+Case 19: avita: identical in BOTH
+Case 20: azwa: identical in BOTH
+Case 21: asta: identical in BOTH
+Case 22: Apta: identical in BOTH
+Case 23: Asita: identical in BOTH
+Case 24: iNgita: identical in BOTH
+Case 25: ita: identical in BOTH
+Case 26: idDa: identical in BOTH
+Case 27: indita: identical in BOTH
+Case 28: invita: identical in BOTH
+Case 29: izwa: identical in BOTH
+Case 30: Ikzita: identical in BOTH
+Case 31: INKita: identical in BOTH
+Case 32: Iqita: identical in BOTH
+Case 33: Irita: identical in BOTH
+Case 34: ISita: identical in BOTH
+Case 35: Izita: identical in BOTH
+Case 36: Ihita: identical in BOTH
+Case 37: ukta: identical in BOTH
+Case 38: ukzita: identical in BOTH
+Case 39: ucita: identical in BOTH
+Case 40: ujJita: identical in BOTH
+Case 41: uYCita: identical in BOTH
+Case 42: uta: identical in BOTH
+Case 43: utta: identical in BOTH
+Case 44: udita: identical in BOTH
+Case 45: unna: identical in BOTH
+Case 46: upta: identical in BOTH
+Case 47: uzita: identical in BOTH
+Case 48: UQa: identical in BOTH
+Case 49: Uhita: identical in BOTH
+Case 50: fta: identical in BOTH
+Case 51: fdDa: identical in BOTH
+Case 52: fzwa: identical in BOTH
+Case 53: ejita: identical in BOTH
+Case 54: eDita: identical in BOTH
+Case 55: kaRqita: identical in BOTH
+Case 56: katTita: identical in BOTH
+Case 57: kaTita: identical in BOTH
+Case 58: kampita: identical in BOTH
+Case 59: karRita: identical in BOTH
+Case 60: kalita: identical in BOTH
+Case 61: kavita: identical in BOTH
+Case 62: kazita: identical in BOTH
+Case 63: kazwa: identical in BOTH
+Case 64: kasita: identical in BOTH
+Case 65: kANkzita: identical in BOTH
+Case 66: kASita: identical in BOTH
+Case 67: kIrRa: identical in BOTH
+Case 68: kIrtita: identical in BOTH
+Case 69: kIlita: identical in BOTH
+Case 70: kucita: identical in BOTH
+Case 71: kuYcita: identical in BOTH
+Case 72: kuwwita: identical in BOTH
+Case 73: kuRWita: identical in BOTH
+Case 74: kuRqita: identical in BOTH
+Case 75: kutsita: identical in BOTH
+Case 76: kunTita: identical in BOTH
+Case 77: kupita: identical in BOTH
+Case 78: kUjita: identical in BOTH
+Case 79: kUta: identical in BOTH
+Case 80: kfta: identical in BOTH
+Case 81: kftta: identical in BOTH
+Case 82: kfzwa: identical in BOTH
+Case 83: kxpta: identical in BOTH
+Case 84: kelita: identical in BOTH
+Case 85: krandita: identical in BOTH
+Case 86: krAnta: identical in BOTH
+Case 87: krIqita: identical in BOTH
+Case 88: krIta: identical in BOTH
+Case 89: kruYcita: identical in BOTH
+Case 90: krudDa: identical in BOTH
+Case 91: kruzwa: identical in BOTH
+Case 92: klavita: identical in BOTH
+Case 93: klinna: identical in BOTH
+Case 94: kliSita: identical in BOTH
+Case 95: klizwa: identical in BOTH
+Case 96: klIbita: identical in BOTH
+Case 97: kvaTita: identical in BOTH
+Case 98: kzata: identical in BOTH
+Case 99: kzarita: identical in BOTH
+Case 100: kzipta: identical in BOTH
+Case 101: kzIRa: identical in BOTH
+Case 102: kzuRRa: identical in BOTH
+Case 103: kzuta: identical in BOTH
+Case 104: kzuDita: identical in BOTH
+Case 105: kzubDa: identical in BOTH
+Case 106: kzuBita: identical in BOTH
+Case 107: KaRqita: identical in BOTH
+Case 108: KAta: identical in BOTH
+Case 109: KAdita: identical in BOTH
+Case 110: Kinna: identical in BOTH
+Case 111: Kelita: identical in BOTH
+Case 112: KyAta: identical in BOTH
+Case 113: gaRita: identical in BOTH
+Case 114: gata: identical in BOTH
+Case 115: gadita: identical in BOTH
+Case 116: garjita: identical in BOTH
+Case 117: gardita: identical in BOTH
+Case 118: garvita: identical in BOTH
+Case 119: garhita: identical in BOTH
+Case 120: galita: identical in BOTH
+Case 121: galBita: identical in BOTH
+Case 122: gAQa: identical in BOTH
+Case 123: gAhita: identical in BOTH
+Case 124: gIta: identical in BOTH
+Case 125: gIrRa: identical in BOTH
+Case 126: guYjita: identical in BOTH
+Case 127: gupta: identical in BOTH
+Case 128: gumPita: identical in BOTH
+Case 129: gUQa: identical in BOTH
+Case 130: gfhIta: identical in BOTH
+Case 131: grasta: identical in BOTH
+Case 132: glAna: identical in BOTH
+Case 133: Gawita: identical in BOTH
+Case 134: Gawwita: identical in BOTH
+Case 135: Guzwa: identical in BOTH
+Case 136: GUrRita: identical in BOTH
+Case 137: Gfta: identical in BOTH
+Case 138: Gfzwa: identical in BOTH
+Case 139: GrAta: identical in BOTH
+Case 140: caYcita: identical in BOTH
+Case 141: cawita: identical in BOTH
+Case 142: candita: identical in BOTH
+Case 143: carita: identical in BOTH
+Case 144: carcita: identical in BOTH
+Case 145: calita: identical in BOTH
+Case 146: cita: identical in BOTH
+Case 147: citta: identical in BOTH
+Case 148: cintita: identical in BOTH
+Case 149: cudita: identical in BOTH
+Case 150: cumbita: identical in BOTH
+Case 151: cUrRita: identical in BOTH
+Case 152: cezwita: identical in BOTH
+Case 153: cyuta: identical in BOTH
+Case 154: Canna: identical in BOTH
+Case 155: Cinna: identical in BOTH
+Case 156: jagDa: identical in BOTH
+Case 157: japita: identical in BOTH
+Case 158: jalita: identical in BOTH
+Case 159: jalpita: identical in BOTH
+Case 160: jAta: identical in BOTH
+Case 161: jita: identical in BOTH
+Case 162: jinvita: identical in BOTH
+Case 163: jIta: identical in BOTH
+Case 164: jIrRa: identical in BOTH
+Case 165: jIvita: identical in BOTH
+Case 166: juzwa: identical in BOTH
+Case 167: jfmBita: identical in BOTH
+Case 168: jYAta: identical in BOTH
+Case 169: jvalita: identical in BOTH
+Case 170: qambita: identical in BOTH
+Case 171: qIna: identical in BOTH
+Case 172: tata: identical in BOTH
+Case 173: tandrita: identical in BOTH
+Case 174: tapta: identical in BOTH
+Case 175: tamita: identical in BOTH
+Case 176: tarkita: identical in BOTH
+Case 177: tarjita: identical in BOTH
+Case 178: tazwa: identical in BOTH
+Case 179: tIrRa: identical in BOTH
+Case 180: tunna: identical in BOTH
+Case 181: tuzwa: identical in BOTH
+Case 182: tUrRa: identical in BOTH
+Case 183: tfpta: identical in BOTH
+Case 184: tfzita: identical in BOTH
+Case 185: tyakta: identical in BOTH
+Case 186: trapta: identical in BOTH
+Case 187: trasta: identical in BOTH
+Case 188: trAta: identical in BOTH
+Case 189: truwita: identical in BOTH
+Case 190: tvarita: identical in BOTH
+Case 191: daMSita: identical in BOTH
+Case 192: dakzita: identical in BOTH
+Case 193: dagDa: identical in BOTH
+Case 194: datta: identical in BOTH
+Case 195: dabDa: identical in BOTH
+Case 196: dayita: identical in BOTH
+Case 197: dalita: identical in BOTH
+Case 198: dasta: identical in BOTH
+Case 199: dAnta: identical in BOTH
+Case 200: digDa: identical in BOTH
+Case 201: dita: identical in BOTH
+Case 202: dizwa: identical in BOTH
+Case 203: dIkzita: identical in BOTH
+Case 204: dIpta: identical in BOTH
+Case 205: dIrRa: identical in BOTH
+Case 206: dugDa: identical in BOTH
+Case 207: duta: identical in BOTH
+Case 208: duzwa: identical in BOTH
+Case 209: dfQa: identical in BOTH
+Case 210: dfpta: identical in BOTH
+Case 211: dfzwa: identical in BOTH
+Case 212: devita: identical in BOTH
+Case 213: dolita: identical in BOTH
+Case 214: dyutita: identical in BOTH
+Case 215: dyUta: identical in BOTH
+Case 216: dyUna: identical in BOTH
+Case 217: drARa: identical in BOTH
+Case 218: drugDa: identical in BOTH
+Case 219: druta: identical in BOTH
+Case 220: drUQa: identical in BOTH
+Case 221: dvizwa: identical in BOTH
+Case 222: Danita: identical in BOTH
+Case 223: Damita: identical in BOTH
+Case 224: DAvita: identical in BOTH
+Case 225: DIta: identical in BOTH
+Case 226: Dukzita: identical in BOTH
+Case 227: Duta: identical in BOTH
+Case 228: DUta: identical in BOTH
+Case 229: Dfta: identical in BOTH
+Case 230: Dfzwa: identical in BOTH
+Case 231: DOta: identical in BOTH
+Case 232: DmAta: identical in BOTH
+Case 233: DyAta: identical in BOTH
+Case 234: Druta: identical in BOTH
+Case 235: Dvanita: identical in BOTH
+Case 236: Dvasta: identical in BOTH
+Case 237: DvANkzita: identical in BOTH
+Case 238: nakzita: identical in BOTH
+Case 239: nawita: identical in BOTH
+Case 240: nata: identical in BOTH
+Case 241: nadita: identical in BOTH
+Case 242: nadDa: identical in BOTH
+Case 243: nandita: identical in BOTH
+Case 244: nardita: identical in BOTH
+Case 245: nazwa: identical in BOTH
+Case 246: nikta: identical in BOTH
+Case 247: nindita: identical in BOTH
+Case 248: nIta: identical in BOTH
+Case 249: nuta: identical in BOTH
+Case 250: nutta: identical in BOTH
+Case 251: nunna: identical in BOTH
+Case 252: nftta: identical in BOTH
+Case 253: pakva: identical in BOTH
+Case 254: paWita: identical in BOTH
+Case 255: paRita: identical in BOTH
+Case 256: patita: identical in BOTH
+Case 257: panna: identical in BOTH
+Case 258: palAyita: identical in BOTH
+Case 259: pASita: identical in BOTH
+Case 260: piYjita: identical in BOTH
+Case 261: piRqita: identical in BOTH
+Case 262: pizwa: identical in BOTH
+Case 263: pIqita: identical in BOTH
+Case 264: pIta: identical in BOTH
+Case 265: pIna: identical in BOTH
+Case 266: puzwa: identical in BOTH
+Case 267: pUjita: identical in BOTH
+Case 268: pUta: identical in BOTH
+Case 269: pUrRa: identical in BOTH
+Case 270: pUlita: identical in BOTH
+Case 271: pfkta: identical in BOTH
+Case 272: pyAna: identical in BOTH
+Case 273: praTita: identical in BOTH
+Case 274: prIta: identical in BOTH
+Case 275: pluta: identical in BOTH
+Case 276: Palita: identical in BOTH
+Case 277: Pullita: identical in BOTH
+Case 278: badDa: identical in BOTH
+Case 279: bADita: identical in BOTH
+Case 280: budDa: identical in BOTH
+Case 281: bfMhita: identical in BOTH
+Case 282: bfQa: identical in BOTH
+Case 283: Bakta: identical in BOTH
+Case 284: Bakzita: identical in BOTH
+Case 285: Bagna: identical in BOTH
+Case 286: BaRita: identical in BOTH
+Case 287: BaRqita: identical in BOTH
+Case 288: Bandita: identical in BOTH
+Case 289: Bartsita: identical in BOTH
+Case 290: Basita: identical in BOTH
+Case 291: BAta: identical in BOTH
+Case 292: BAzita: identical in BOTH
+Case 293: BAsita: identical in BOTH
+Case 294: Binna: identical in BOTH
+Case 295: BIta: identical in BOTH
+Case 296: Bukta: identical in BOTH
+Case 297: Bugna: identical in BOTH
+Case 298: BUta: identical in BOTH
+Case 299: BUzita: identical in BOTH
+Case 300: Bfta: identical in BOTH
+Case 301: BfSita: identical in BOTH
+Case 302: Brazwa: identical in BOTH
+Case 303: BrAjita: identical in BOTH
+Case 304: BrAnta: identical in BOTH
+Case 305: maRqita: identical in BOTH
+Case 306: mata: identical in BOTH
+Case 307: matta: identical in BOTH
+Case 308: maTita: identical in BOTH
+Case 309: mantrita: identical in BOTH
+Case 310: mandita: identical in BOTH
+Case 311: mahita: identical in BOTH
+Case 312: mArgita: identical in BOTH
+Case 313: mAlita: identical in BOTH
+Case 314: mita: identical in BOTH
+Case 315: midita: identical in BOTH
+Case 316: milita: identical in BOTH
+Case 317: miSrita: identical in BOTH
+Case 318: mizita: identical in BOTH
+Case 319: mIlita: identical in BOTH
+Case 320: mukta: identical in BOTH
+Case 321: mugDa: identical in BOTH
+Case 322: muRqita: identical in BOTH
+Case 323: mudita: identical in BOTH
+Case 324: muzita: identical in BOTH
+Case 325: mUQa: identical in BOTH
+Case 326: mUrCita: identical in BOTH
+Case 327: mUrta: identical in BOTH
+Case 328: mfgita: identical in BOTH
+Case 329: mfqita: identical in BOTH
+Case 330: mfta: identical in BOTH
+Case 331: mfzwa: identical in BOTH
+Case 332: mokzita: identical in BOTH
+Case 333: modita: identical in BOTH
+Case 334: mnAta: identical in BOTH
+Case 335: mlAna: identical in BOTH
+Case 336: yata: identical in BOTH
+Case 337: yatita: identical in BOTH
+Case 338: yatta: identical in BOTH
+Case 339: yantrita: identical in BOTH
+Case 340: yabDa: identical in BOTH
+Case 341: yasita: identical in BOTH
+Case 342: yAcita: identical in BOTH
+Case 343: yAta: identical in BOTH
+Case 344: yukta: identical in BOTH
+Case 345: yuta: identical in BOTH
+Case 346: yudDa: identical in BOTH
+Case 347: raMhita: identical in BOTH
+Case 348: rakta: identical in BOTH
+Case 349: rakzita: identical in BOTH
+Case 350: racita: identical in BOTH
+Case 351: raRita: identical in BOTH
+Case 352: rata: identical in BOTH
+Case 353: radDa: identical in BOTH
+Case 354: rabDa: identical in BOTH
+Case 355: rasita: identical in BOTH
+Case 356: rahita: identical in BOTH
+Case 357: rAjita: identical in BOTH
+Case 358: rAta: identical in BOTH
+Case 359: rAdDa: identical in BOTH
+Case 360: rikta: identical in BOTH
+Case 361: rizwa: identical in BOTH
+Case 362: rIRa: identical in BOTH
+Case 363: rucita: identical in BOTH
+Case 364: ruta: identical in BOTH
+Case 365: rudita: identical in BOTH
+Case 366: rudDa: identical in BOTH
+Case 367: ruzwa: identical in BOTH
+Case 368: rUkzita: identical in BOTH
+Case 369: rUQa: identical in BOTH
+Case 370: rUpita: identical in BOTH
+Case 371: lakzita: identical in BOTH
+Case 372: lagita: identical in BOTH
+Case 373: laNgita: identical in BOTH
+Case 374: laNGita: identical in BOTH
+Case 375: lajjita: identical in BOTH
+Case 376: lapita: identical in BOTH
+Case 377: labDa: identical in BOTH
+Case 378: lambita: identical in BOTH
+Case 379: lalita: identical in BOTH
+Case 380: lazita: identical in BOTH
+Case 381: lasita: identical in BOTH
+Case 382: lAYCita: identical in BOTH
+Case 383: liKita: identical in BOTH
+Case 384: lipta: identical in BOTH
+Case 385: lizwa: identical in BOTH
+Case 386: lIQa: identical in BOTH
+Case 387: lIna: identical in BOTH
+Case 388: luYcita: identical in BOTH
+Case 389: luWita: identical in BOTH
+Case 390: lupta: identical in BOTH
+Case 391: lubDa: identical in BOTH
+Case 392: luBita: identical in BOTH
+Case 393: lUna: identical in BOTH
+Case 394: lokita: identical in BOTH
+Case 395: locita: identical in BOTH
+Case 396: vata: identical in BOTH
+Case 397: vandita: identical in BOTH
+Case 398: varRita: identical in BOTH
+Case 399: valita: identical in BOTH
+Case 400: valgita: identical in BOTH
+Case 401: vasita: identical in BOTH
+Case 402: vAYCita: identical in BOTH
+Case 403: vAta: identical in BOTH
+Case 404: vAnta: identical in BOTH
+Case 405: vASita: identical in BOTH
+Case 406: vAsita: identical in BOTH
+Case 407: vikta: identical in BOTH
+Case 408: vigna: identical in BOTH
+Case 409: vitta: identical in BOTH
+Case 410: vidita: identical in BOTH
+Case 411: vidDa: identical in BOTH
+Case 412: vinna: identical in BOTH
+Case 413: vipita: identical in BOTH
+Case 414: vizwa: identical in BOTH
+Case 415: vIta: identical in BOTH
+Case 416: vfkRa: identical in BOTH
+Case 417: vfkta: identical in BOTH
+Case 418: vfQa: identical in BOTH
+Case 419: vfta: identical in BOTH
+Case 420: vftta: identical in BOTH
+Case 421: vfdDa: identical in BOTH
+Case 422: vfzwa: identical in BOTH
+Case 423: venita: identical in BOTH
+Case 424: vezwita: identical in BOTH
+Case 425: vyaTita: identical in BOTH
+Case 426: vraRita: identical in BOTH
+Case 427: vrIqita: identical in BOTH
+Case 428: Sakta: identical in BOTH
+Case 429: SaNkita: identical in BOTH
+Case 430: Sanna: identical in BOTH
+Case 431: Sapita: identical in BOTH
+Case 432: Sapta: identical in BOTH
+Case 433: Sabdita: identical in BOTH
+Case 434: Sayita: identical in BOTH
+Case 435: Sasita: identical in BOTH
+Case 436: Sasta: identical in BOTH
+Case 437: SAta: identical in BOTH
+Case 438: SAnta: identical in BOTH
+Case 439: Sikzita: identical in BOTH
+Case 440: Sita: identical in BOTH
+Case 441: Sizwa: identical in BOTH
+Case 442: SIrRa: identical in BOTH
+Case 443: SudDa: identical in BOTH
+Case 444: SumBita: identical in BOTH
+Case 445: Suzka: identical in BOTH
+Case 446: SUna: identical in BOTH
+Case 447: SoBita: identical in BOTH
+Case 448: Scutita: identical in BOTH
+Case 449: SramBita: identical in BOTH
+Case 450: SrAnta: identical in BOTH
+Case 451: Srita: identical in BOTH
+Case 452: Sruta: identical in BOTH
+Case 453: SlAGita: identical in BOTH
+Case 454: Slizwa: identical in BOTH
+Case 455: Svasita: identical in BOTH
+Case 456: sakta: identical in BOTH
+Case 457: sajjita: identical in BOTH
+Case 458: sanna: identical in BOTH
+Case 459: sAta: identical in BOTH
+Case 460: sAntvita: identical in BOTH
+Case 461: sikta: identical in BOTH
+Case 462: sita: identical in BOTH
+Case 463: sidDa: identical in BOTH
+Case 464: suKita: identical in BOTH
+Case 465: suta: identical in BOTH
+Case 466: supta: identical in BOTH
+Case 467: sUcita: identical in BOTH
+Case 468: sUta: identical in BOTH
+Case 469: sUtrita: identical in BOTH
+Case 470: sUdita: identical in BOTH
+Case 471: sfta: identical in BOTH
+Case 472: sfpta: identical in BOTH
+Case 473: sfzwa: identical in BOTH
+Case 474: sevita: identical in BOTH
+Case 475: soQa: identical in BOTH
+Case 476: skamBita: identical in BOTH
+Case 477: sKalita: identical in BOTH
+Case 478: stanita: identical in BOTH
+Case 479: stuta: identical in BOTH
+Case 480: stfta: identical in BOTH
+Case 481: stenita: identical in BOTH
+Case 482: styAna: identical in BOTH
+Case 483: sTagita: identical in BOTH
+Case 484: sTita: identical in BOTH
+Case 485: snAta: identical in BOTH
+Case 486: snigDa: identical in BOTH
+Case 487: snuta: identical in BOTH
+Case 488: snuhita: identical in BOTH
+Case 489: spandita: identical in BOTH
+Case 490: sparDita: identical in BOTH
+Case 491: spazwa: identical in BOTH
+Case 492: spfzwa: identical in BOTH
+Case 493: spfhita: identical in BOTH
+Case 494: sPIta: identical in BOTH
+Case 495: sPuwita: identical in BOTH
+Case 496: sPurita: identical in BOTH
+Case 497: smita: identical in BOTH
+Case 498: smfta: identical in BOTH
+Case 499: syanna: identical in BOTH
+Case 500: syUta: identical in BOTH
+Case 501: sruta: identical in BOTH
+Case 502: svadita: identical in BOTH
+Case 503: svanita: identical in BOTH
+Case 504: svarita: identical in BOTH
+Case 505: svinna: identical in BOTH
+Case 506: hata: identical in BOTH
+Case 507: hasita: identical in BOTH
+Case 508: hAna: identical in BOTH
+Case 509: hiMsita: identical in BOTH
+Case 510: hikkita: identical in BOTH
+Case 511: hita: identical in BOTH
+Case 512: hIna: identical in BOTH
+Case 513: huRqita: identical in BOTH
+Case 514: huta: identical in BOTH
+Case 515: hUta: identical in BOTH
+Case 516: hfta: identical in BOTH
+Case 517: hfzita: identical in BOTH
+Case 518: hfzwa: identical in BOTH
+Case 519: hrasita: identical in BOTH
+Case 520: hrAdita: identical in BOTH
+Case 521: hrIRa: identical in BOTH
+Case 522: hrIta: identical in BOTH
+Case 523: hlAdita: identical in BOTH
+Case 524: hvalita: identical in BOTH
+--------------------------------------------------
+1190 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMSApita: in pysan
+Case 02: aMsApita: in pysan
+Case 03: aMsita: in pysan
+Case 04: aMhita: in pysan
+Case 05: akita: in pysan
+Case 06: agita: in pysan
+Case 07: aNGita: in pysan
+Case 08: acita: in pysan
+Case 09: aYkta: in pysan
+Case 10: awwita: in pysan
+Case 11: aWita: in pysan
+Case 12: aqita: in pysan
+Case 13: aqqita: in pysan
+Case 14: aRita: in pysan
+Case 15: aRWita: in pysan
+Case 16: anta: in pysan
+Case 17: antita: in pysan
+Case 18: andita: in pysan
+Case 19: anna: in pysan
+Case 20: ambita: in pysan
+Case 21: ayita: in pysan
+Case 22: arRa: in pysan
+Case 23: arRRa: in pysan
+Case 24: arbita: in pysan
+Case 25: arvita: in pysan
+Case 26: alita: in pysan
+Case 27: avalokita: in pysan
+Case 28: azita: in pysan
+Case 29: ahita: in pysan
+Case 30: iKita: in pysan
+Case 31: iNKita: in pysan
+Case 32: iwita: in pysan
+Case 33: irita: in pysan
+Case 34: ilita: in pysan
+Case 35: IKita: in pysan
+Case 36: Ijita: in pysan
+Case 37: Ita: in pysan
+Case 38: Intita: in pysan
+Case 39: Irzyita: in pysan
+Case 40: uKita: in pysan
+Case 41: uNKita: in pysan
+Case 42: uCita: in pysan
+Case 43: uWita: in pysan
+Case 44: uDrasita: in pysan
+Case 45: uDrAsita: in pysan
+Case 46: upArita: in pysan
+Case 47: ubjita: in pysan
+Case 48: uBita: in pysan
+Case 49: ulAqita: in pysan
+Case 50: uSita: in pysan
+Case 51: uhita: in pysan
+Case 52: Uyita: in pysan
+Case 53: UrRuta: in pysan
+Case 54: Urdita: in pysan
+Case 55: Urvita: in pysan
+Case 56: Uzita: in pysan
+Case 57: fcita: in pysan
+Case 58: fCita: in pysan
+Case 59: fjita: in pysan
+Case 60: fYjita: in pysan
+Case 61: fRa: in pysan
+Case 62: ftita: in pysan
+Case 63: fPita: in pysan
+Case 64: eWita: in pysan
+Case 65: elita: in pysan
+Case 66: ezita: in pysan
+Case 67: oKita: in pysan
+Case 68: ojita: in pysan
+Case 69: oRita: in pysan
+Case 70: olaRqita: in pysan
+Case 71: kaMsita: in pysan
+Case 72: kakita: in pysan
+Case 73: kaKita: in pysan
+Case 74: kagita: in pysan
+Case 75: kaNkita: in pysan
+Case 76: kacita: in pysan
+Case 77: kajita: in pysan
+Case 78: kaYcita: in pysan
+Case 79: kawita: in pysan
+Case 80: kawwita: in pysan
+Case 81: kaWita: in pysan
+Case 82: kaqita: in pysan
+Case 83: kaqqita: in pysan
+Case 84: kaRita: in pysan
+Case 85: kaRwita: in pysan
+Case 86: kaRWita: in pysan
+Case 87: katrita: in pysan
+Case 88: kadita: in pysan
+Case 89: kanita: in pysan
+Case 90: kandita: in pysan
+Case 91: kabita: in pysan
+Case 92: kambita: in pysan
+Case 93: karjita: in pysan
+Case 94: kartrita: in pysan
+Case 95: kardita: in pysan
+Case 96: karbita: in pysan
+Case 97: karvita: in pysan
+Case 98: karSita: in pysan
+Case 99: kallita: in pysan
+Case 100: kaSita: in pysan
+Case 101: kAMsita: in pysan
+Case 102: kAYcita: in pysan
+Case 103: kARita: in pysan
+Case 104: kAta: in pysan
+Case 105: kAnta: in pysan
+Case 106: kArRa: in pysan
+Case 107: kAlita: in pysan
+Case 108: kAvita: in pysan
+Case 109: kAsita: in pysan
+Case 110: kiwita: in pysan
+Case 111: kita: in pysan
+Case 112: kitita: in pysan
+Case 113: kilita: in pysan
+Case 114: kizkita: in pysan
+Case 115: kIwita: in pysan
+Case 116: kuMSita: in pysan
+Case 117: kukita: in pysan
+Case 118: kujita: in pysan
+Case 119: kuYjita: in pysan
+Case 120: kuwita: in pysan
+Case 121: kuqita: in pysan
+Case 122: kuRita: in pysan
+Case 123: kuta: in pysan
+Case 124: kuTita: in pysan
+Case 125: kundrita: in pysan
+Case 126: kumbita: in pysan
+Case 127: kurita: in pysan
+Case 128: kulita: in pysan
+Case 129: kuSita: in pysan
+Case 130: kuzita: in pysan
+Case 131: kuhita: in pysan
+Case 132: kUwita: in pysan
+Case 133: kUqita: in pysan
+Case 134: kURita: in pysan
+Case 135: kUpita: in pysan
+Case 136: kUrdita: in pysan
+Case 137: kUlita: in pysan
+Case 138: kfpita: in pysan
+Case 139: kepita: in pysan
+Case 140: kevita: in pysan
+Case 141: kowita: in pysan
+Case 142: koRita: in pysan
+Case 143: kodita: in pysan
+Case 144: kopita: in pysan
+Case 145: knaMsita: in pysan
+Case 146: knaTita: in pysan
+Case 147: knasita: in pysan
+Case 148: knuta: in pysan
+Case 149: knUyita: in pysan
+Case 150: kmarita: in pysan
+Case 151: kraMSita: in pysan
+Case 152: kraTita: in pysan
+Case 153: krapita: in pysan
+Case 154: kruqita: in pysan
+Case 155: kroqita: in pysan
+Case 156: klaTita: in pysan
+Case 157: klandita: in pysan
+Case 158: klAnta: in pysan
+Case 159: klindita: in pysan
+Case 160: kleSita: in pysan
+Case 161: kvaRita: in pysan
+Case 162: kzajita: in pysan
+Case 163: kzadita: in pysan
+Case 164: kzapita: in pysan
+Case 165: kzampita: in pysan
+Case 166: kzAjita: in pysan
+Case 167: kzAnta: in pysan
+Case 168: kzAma: in pysan
+Case 169: kzAlita: in pysan
+Case 170: kzita: in pysan
+Case 171: kzivita: in pysan
+Case 172: kzIjita: in pysan
+Case 173: kzIbita: in pysan
+Case 174: kzIva: in pysan
+Case 175: kzupita: in pysan
+Case 176: kzumpita: in pysan
+Case 177: kzurita: in pysan
+Case 178: kzowita: in pysan
+Case 179: kzRuta: in pysan
+Case 180: kzmAta: in pysan
+Case 181: kzmAyita: in pysan
+Case 182: kzmIlita: in pysan
+Case 183: kzviqita: in pysan
+Case 184: kzviRRa: in pysan
+Case 185: kzvidita: in pysan
+Case 186: kzvelita: in pysan
+Case 187: Kacita: in pysan
+Case 188: Kajita: in pysan
+Case 189: KaYjita: in pysan
+Case 190: Kawita: in pysan
+Case 191: Kawwita: in pysan
+Case 192: Kadita: in pysan
+Case 193: Kambita: in pysan
+Case 194: Karjita: in pysan
+Case 195: Kardita: in pysan
+Case 196: Karbita: in pysan
+Case 197: Karvita: in pysan
+Case 198: Kalita: in pysan
+Case 199: Kallita: in pysan
+Case 200: Kazita: in pysan
+Case 201: KAcita: in pysan
+Case 202: KAqita: in pysan
+Case 203: Kiwita: in pysan
+Case 204: Kujita: in pysan
+Case 205: KuRqita: in pysan
+Case 206: Kuta: in pysan
+Case 207: Kudita: in pysan
+Case 208: Kurita: in pysan
+Case 209: Kurdita: in pysan
+Case 210: Kewita: in pysan
+Case 211: Kowita: in pysan
+Case 212: Koqita: in pysan
+Case 213: Korita: in pysan
+Case 214: gajita: in pysan
+Case 215: gaYjita: in pysan
+Case 216: gaqita: in pysan
+Case 217: gaRqita: in pysan
+Case 218: gaDita: in pysan
+Case 219: ganDita: in pysan
+Case 220: gambita: in pysan
+Case 221: garbita: in pysan
+Case 222: gAjita: in pysan
+Case 223: gAqita: in pysan
+Case 224: gAta: in pysan
+Case 225: gAdita: in pysan
+Case 226: gADita: in pysan
+Case 227: gArRa: in pysan
+Case 228: gujita: in pysan
+Case 229: guqita: in pysan
+Case 230: guRWita: in pysan
+Case 231: guRqita: in pysan
+Case 232: guta: in pysan
+Case 233: gudita: in pysan
+Case 234: guDita: in pysan
+Case 235: guPita: in pysan
+Case 236: gurita: in pysan
+Case 237: gurdita: in pysan
+Case 238: gurvita: in pysan
+Case 239: gUrdita: in pysan
+Case 240: gUrDita: in pysan
+Case 241: gfta: in pysan
+Case 242: gfDita: in pysan
+Case 243: gepita: in pysan
+Case 244: gevita: in pysan
+Case 245: gezita: in pysan
+Case 246: graTita: in pysan
+Case 247: grucita: in pysan
+Case 248: glasita: in pysan
+Case 249: glucita: in pysan
+Case 250: gluYcita: in pysan
+Case 251: glepita: in pysan
+Case 252: glevita: in pysan
+Case 253: glezita: in pysan
+Case 254: GaMzita: in pysan
+Case 255: GagGita: in pysan
+Case 256: GaRita: in pysan
+Case 257: GaRwita: in pysan
+Case 258: Gambita: in pysan
+Case 259: Garbita: in pysan
+Case 260: Gasta: in pysan
+Case 261: GArita: in pysan
+Case 262: GiRRita: in pysan
+Case 263: Guwita: in pysan
+Case 264: Guqita: in pysan
+Case 265: GuRita: in pysan
+Case 266: GuRRita: in pysan
+Case 267: Guta: in pysan
+Case 268: GUrita: in pysan
+Case 269: GfRRita: in pysan
+Case 270: Golita: in pysan
+Case 271: GrARa: in pysan
+Case 272: Grita: in pysan
+Case 273: Nuta: in pysan
+Case 274: cakAsita: in pysan
+Case 275: cakita: in pysan
+Case 276: cakkita: in pysan
+Case 277: cakzita: in pysan
+Case 278: caGita: in pysan
+Case 279: caRita: in pysan
+Case 280: caRqita: in pysan
+Case 281: catita: in pysan
+Case 282: cadita: in pysan
+Case 283: canita: in pysan
+Case 284: capita: in pysan
+Case 285: campita: in pysan
+Case 286: cambita: in pysan
+Case 287: cayita: in pysan
+Case 288: carGita: in pysan
+Case 289: carbita: in pysan
+Case 290: carvita: in pysan
+Case 291: cahita: in pysan
+Case 292: cAnta: in pysan
+Case 293: cAhita: in pysan
+Case 294: cikkita: in pysan
+Case 295: ciwita: in pysan
+Case 296: cirita: in pysan
+Case 297: cilita: in pysan
+Case 298: cIkita: in pysan
+Case 299: cIvita: in pysan
+Case 300: cukkita: in pysan
+Case 301: cuwita: in pysan
+Case 302: cuwwita: in pysan
+Case 303: cuqita: in pysan
+Case 304: cuqqita: in pysan
+Case 305: cuRita: in pysan
+Case 306: cuRWita: in pysan
+Case 307: cutita: in pysan
+Case 308: cupita: in pysan
+Case 309: culumpita: in pysan
+Case 310: cURita: in pysan
+Case 311: cUrita: in pysan
+Case 312: cUzita: in pysan
+Case 313: cftita: in pysan
+Case 314: celita: in pysan
+Case 315: cowita: in pysan
+Case 316: corita: in pysan
+Case 317: colita: in pysan
+Case 318: cyutita: in pysan
+Case 319: cyosita: in pysan
+Case 320: Camita: in pysan
+Case 321: Campita: in pysan
+Case 322: Cazita: in pysan
+Case 323: CAta: in pysan
+Case 324: CAdita: in pysan
+Case 325: CAlita: in pysan
+Case 326: Cita: in pysan
+Case 327: Cuwita: in pysan
+Case 328: Cuqita: in pysan
+Case 329: Cupita: in pysan
+Case 330: Curita: in pysan
+Case 331: Cfdita: in pysan
+Case 332: Cfpita: in pysan
+Case 333: Cowita: in pysan
+Case 334: jaMsita: in pysan
+Case 335: jakzita: in pysan
+Case 336: jaNkzita: in pysan
+Case 337: jajita: in pysan
+Case 338: jaBita: in pysan
+Case 339: jamita: in pysan
+Case 340: jarcita: in pysan
+Case 341: jarCita: in pysan
+Case 342: jarjita: in pysan
+Case 343: jartsita: in pysan
+Case 344: jasita: in pysan
+Case 345: jAgarita: in pysan
+Case 346: jAlita: in pysan
+Case 347: jimita: in pysan
+Case 348: jirita: in pysan
+Case 349: jizita: in pysan
+Case 350: jIna: in pysan
+Case 351: juNgita: in pysan
+Case 352: juYcita: in pysan
+Case 353: juwita: in pysan
+Case 354: juqita: in pysan
+Case 355: junita: in pysan
+Case 356: jurita: in pysan
+Case 357: jUrita: in pysan
+Case 358: jUrvita: in pysan
+Case 359: jfta: in pysan
+Case 360: jezita: in pysan
+Case 361: jehita: in pysan
+Case 362: joqita: in pysan
+Case 363: jolita: in pysan
+Case 364: jyutita: in pysan
+Case 365: jrita: in pysan
+Case 366: Jawita: in pysan
+Case 367: Jamita: in pysan
+Case 368: Jarcita: in pysan
+Case 369: Jazita: in pysan
+Case 370: JIsta: in pysan
+Case 371: Juta: in pysan
+Case 372: JUzita: in pysan
+Case 373: Jyuta: in pysan
+Case 374: waNkita: in pysan
+Case 375: wikita: in pysan
+Case 376: wIkita: in pysan
+Case 377: wOkita: in pysan
+Case 378: wvalita: in pysan
+Case 379: qamita: in pysan
+Case 380: qampita: in pysan
+Case 381: qamBita: in pysan
+Case 382: qayita: in pysan
+Case 383: qApita: in pysan
+Case 384: qipita: in pysan
+Case 385: qepita: in pysan
+Case 386: QOkita: in pysan
+Case 387: takita: in pysan
+Case 388: taNkita: in pysan
+Case 389: taNgita: in pysan
+Case 390: taYcita: in pysan
+Case 391: tawita: in pysan
+Case 392: taRqita: in pysan
+Case 393: tandita: in pysan
+Case 394: tayita: in pysan
+Case 395: tardita: in pysan
+Case 396: talita: in pysan
+Case 397: tasita: in pysan
+Case 398: tAqita: in pysan
+Case 399: tAnta: in pysan
+Case 400: tAyita: in pysan
+Case 401: tAlita: in pysan
+Case 402: tikita: in pysan
+Case 403: tigita: in pysan
+Case 404: tiGita: in pysan
+Case 405: tijita: in pysan
+Case 406: tipita: in pysan
+Case 407: timita: in pysan
+Case 408: tilita: in pysan
+Case 409: tillita: in pysan
+Case 410: tIkita: in pysan
+Case 411: tImita: in pysan
+Case 412: tIvita: in pysan
+Case 413: tujita: in pysan
+Case 414: tuwita: in pysan
+Case 415: tuqita: in pysan
+Case 416: tuqqita: in pysan
+Case 417: tuRita: in pysan
+Case 418: tuRqita: in pysan
+Case 419: tuta: in pysan
+Case 420: tundita: in pysan
+Case 421: tupita: in pysan
+Case 422: tuBita: in pysan
+Case 423: tumpita: in pysan
+Case 424: tumbita: in pysan
+Case 425: turita: in pysan
+Case 426: turvita: in pysan
+Case 427: tuSita: in pysan
+Case 428: tusita: in pysan
+Case 429: tuhita: in pysan
+Case 430: tUqita: in pysan
+Case 431: tURita: in pysan
+Case 432: tUlita: in pysan
+Case 433: tUzita: in pysan
+Case 434: tfkzita: in pysan
+Case 435: tfdita: in pysan
+Case 436: tfPita: in pysan
+Case 437: tfmpita: in pysan
+Case 438: tfmPita: in pysan
+Case 439: tfzwa: in pysan
+Case 440: tfhita: in pysan
+Case 441: tepita: in pysan
+Case 442: telita: in pysan
+Case 443: tevita: in pysan
+Case 444: toqita: in pysan
+Case 445: tolita: in pysan
+Case 446: traMsita: in pysan
+Case 447: traKita: in pysan
+Case 448: trandita: in pysan
+Case 449: trARa: in pysan
+Case 450: trAsta: in pysan
+Case 451: triNKita: in pysan
+Case 452: trita: in pysan
+Case 453: trupita: in pysan
+Case 454: truPita: in pysan
+Case 455: trumpita: in pysan
+Case 456: trumPita: in pysan
+Case 457: trOkita: in pysan
+Case 458: tvakzita: in pysan
+Case 459: tvaNgita: in pysan
+Case 460: tvacita: in pysan
+Case 461: tvaYcita: in pysan
+Case 462: tvizwa: in pysan
+Case 463: tsarita: in pysan
+Case 464: Tarvita: in pysan
+Case 465: Tuqita: in pysan
+Case 466: Turvita: in pysan
+Case 467: daMsita: in pysan
+Case 468: daMhita: in pysan
+Case 469: daGita: in pysan
+Case 470: daNGita: in pysan
+Case 471: dadita: in pysan
+Case 472: dadfmhita: in pysan
+Case 473: daDita: in pysan
+Case 474: danvita: in pysan
+Case 475: daBita: in pysan
+Case 476: darBita: in pysan
+Case 477: dazwa: in pysan
+Case 478: dasita: in pysan
+Case 479: dAta: in pysan
+Case 480: dAnita: in pysan
+Case 481: dAyita: in pysan
+Case 482: dASita: in pysan
+Case 483: dAsita: in pysan
+Case 484: dinvita: in pysan
+Case 485: dipita: in pysan
+Case 486: dimpita: in pysan
+Case 487: dimBita: in pysan
+Case 488: dIDIta: in pysan
+Case 489: dIna: in pysan
+Case 490: duDita: in pysan
+Case 491: durvita: in pysan
+Case 492: dUta: in pysan
+Case 493: dUna: in pysan
+Case 494: dfMhita: in pysan
+Case 495: dfta: in pysan
+Case 496: dfBita: in pysan
+Case 497: dyAna: in pysan
+Case 498: dyuta: in pysan
+Case 499: dramita: in pysan
+Case 500: drAKita: in pysan
+Case 501: drANkzita: in pysan
+Case 502: drAqita: in pysan
+Case 503: drAhita: in pysan
+Case 504: druqita: in pysan
+Case 505: druRita: in pysan
+Case 506: drummita: in pysan
+Case 507: drUqita: in pysan
+Case 508: drUta: in pysan
+Case 509: drekita: in pysan
+Case 510: dvfta: in pysan
+Case 511: Dakkita: in pysan
+Case 512: DaRita: in pysan
+Case 513: Davita: in pysan
+Case 514: Dikzita: in pysan
+Case 515: Dita: in pysan
+Case 516: Dizita: in pysan
+Case 517: DIkzita: in pysan
+Case 518: DIna: in pysan
+Case 519: DIsta: in pysan
+Case 520: DUna: in pysan
+Case 521: DUpita: in pysan
+Case 522: DUrita: in pysan
+Case 523: DUrvita: in pysan
+Case 524: DUSita: in pysan
+Case 525: Dfjita: in pysan
+Case 526: Dorita: in pysan
+Case 527: Drajita: in pysan
+Case 528: DraRita: in pysan
+Case 529: Drasita: in pysan
+Case 530: DrARa: in pysan
+Case 531: Drijita: in pysan
+Case 532: Drekita: in pysan
+Case 533: Dvajita: in pysan
+Case 534: DvaRita: in pysan
+Case 535: Dvfta: in pysan
+Case 536: DvraRita: in pysan
+Case 537: nakkita: in pysan
+Case 538: naKita: in pysan
+Case 539: najita: in pysan
+Case 540: naBita: in pysan
+Case 541: nambita: in pysan
+Case 542: nayita: in pysan
+Case 543: narbita: in pysan
+Case 544: nalita: in pysan
+Case 545: nasita: in pysan
+Case 546: nAqita: in pysan
+Case 547: nATita: in pysan
+Case 548: nADita: in pysan
+Case 549: nAlita: in pysan
+Case 550: nAsita: in pysan
+Case 551: niMsita: in pysan
+Case 552: nikzita: in pysan
+Case 553: niYjita: in pysan
+Case 554: ninvita: in pysan
+Case 555: nilita: in pysan
+Case 556: niSita: in pysan
+Case 557: nizita: in pysan
+Case 558: nizkita: in pysan
+Case 559: nIrRa: in pysan
+Case 560: nIlita: in pysan
+Case 561: nIvita: in pysan
+Case 562: nuqita: in pysan
+Case 563: nedita: in pysan
+Case 564: nezita: in pysan
+Case 565: paMSita: in pysan
+Case 566: pakzita: in pysan
+Case 567: pawita: in pysan
+Case 568: paRqita: in pysan
+Case 569: paTita: in pysan
+Case 570: panita: in pysan
+Case 571: panTita: in pysan
+Case 572: pambita: in pysan
+Case 573: payita: in pysan
+Case 574: parRita: in pysan
+Case 575: parTita: in pysan
+Case 576: pardita: in pysan
+Case 577: parpita: in pysan
+Case 578: parbita: in pysan
+Case 579: parvita: in pysan
+Case 580: parzita: in pysan
+Case 581: palita: in pysan
+Case 582: pallita: in pysan
+Case 583: pavita: in pysan
+Case 584: pazita: in pysan
+Case 585: pasita: in pysan
+Case 586: pAwita: in pysan
+Case 587: pAta: in pysan
+Case 588: pAyita: in pysan
+Case 589: pAlita: in pysan
+Case 590: pAsita: in pysan
+Case 591: piMsita: in pysan
+Case 592: piccita: in pysan
+Case 593: piCita: in pysan
+Case 594: piwita: in pysan
+Case 595: piWita: in pysan
+Case 596: pita: in pysan
+Case 597: pinvita: in pysan
+Case 598: piSita: in pysan
+Case 599: pisita: in pysan
+Case 600: pIlita: in pysan
+Case 601: puMsita: in pysan
+Case 602: puCita: in pysan
+Case 603: puwita: in pysan
+Case 604: puwwita: in pysan
+Case 605: puqita: in pysan
+Case 606: puRita: in pysan
+Case 607: puRwita: in pysan
+Case 608: puRqita: in pysan
+Case 609: puTita: in pysan
+Case 610: purita: in pysan
+Case 611: purvita: in pysan
+Case 612: puzita: in pysan
+Case 613: pusta: in pysan
+Case 614: pustita: in pysan
+Case 615: pURita: in pysan
+Case 616: pUyita: in pysan
+Case 617: pUrvita: in pysan
+Case 618: pUzita: in pysan
+Case 619: pfjita: in pysan
+Case 620: pfqita: in pysan
+Case 621: pfRita: in pysan
+Case 622: pfta: in pysan
+Case 623: pfzita: in pysan
+Case 624: peCita: in pysan
+Case 625: peRita: in pysan
+Case 626: pebita: in pysan
+Case 627: pelita: in pysan
+Case 628: pevita: in pysan
+Case 629: pezita: in pysan
+Case 630: pesita: in pysan
+Case 631: pERita: in pysan
+Case 632: poYCita: in pysan
+Case 633: powita: in pysan
+Case 634: poRita: in pysan
+Case 635: posita: in pysan
+Case 636: pyuzita: in pysan
+Case 637: pyusita: in pysan
+Case 638: pyozita: in pysan
+Case 639: praCita: in pysan
+Case 640: prasita: in pysan
+Case 641: prARa: in pysan
+Case 642: prATita: in pysan
+Case 643: pruta: in pysan
+Case 644: pruTita: in pysan
+Case 645: pruzita: in pysan
+Case 646: prezita: in pysan
+Case 647: prERita: in pysan
+Case 648: proTita: in pysan
+Case 649: prozita: in pysan
+Case 650: plakzita: in pysan
+Case 651: plabita: in pysan
+Case 652: plihita: in pysan
+Case 653: plIna: in pysan
+Case 654: pluzita: in pysan
+Case 655: plusita: in pysan
+Case 656: plevita: in pysan
+Case 657: psAta: in pysan
+Case 658: Pakkita: in pysan
+Case 659: PaRita: in pysan
+Case 660: Parvita: in pysan
+Case 661: Pulla: in pysan
+Case 662: Pelita: in pysan
+Case 663: baMhita: in pysan
+Case 664: badita: in pysan
+Case 665: barbita: in pysan
+Case 666: barhita: in pysan
+Case 667: balita: in pysan
+Case 668: bAqita: in pysan
+Case 669: bAlita: in pysan
+Case 670: biwita: in pysan
+Case 671: bidita: in pysan
+Case 672: bilita: in pysan
+Case 673: biSita: in pysan
+Case 674: bisita: in pysan
+Case 675: bIBita: in pysan
+Case 676: bukkita: in pysan
+Case 677: buNgita: in pysan
+Case 678: buwita: in pysan
+Case 679: buqita: in pysan
+Case 680: budita: in pysan
+Case 681: bundita: in pysan
+Case 682: bunDita: in pysan
+Case 683: busita: in pysan
+Case 684: bfhita: in pysan
+Case 685: belita: in pysan
+Case 686: bowita: in pysan
+Case 687: boDita: in pysan
+Case 688: bolita: in pysan
+Case 689: brahmita: in pysan
+Case 690: brUta: in pysan
+Case 691: Bawita: in pysan
+Case 692: BaRwita: in pysan
+Case 693: Banita: in pysan
+Case 694: Barbita: in pysan
+Case 695: Barvita: in pysan
+Case 696: Balita: in pysan
+Case 697: Bazita: in pysan
+Case 698: BAwita: in pysan
+Case 699: BAmita: in pysan
+Case 700: BAlita: in pysan
+Case 701: Bikzita: in pysan
+Case 702: Bidita: in pysan
+Case 703: Bindita: in pysan
+Case 704: BuRqita: in pysan
+Case 705: BUrRa: in pysan
+Case 706: BfMSita: in pysan
+Case 707: Bfkzita: in pysan
+Case 708: Bfjita: in pysan
+Case 709: Bfqita: in pysan
+Case 710: Bezita: in pysan
+Case 711: Byasita: in pysan
+Case 712: Brakzita: in pysan
+Case 713: Brajjita: in pysan
+Case 714: BraRita: in pysan
+Case 715: Bramita: in pysan
+Case 716: BraSita: in pysan
+Case 717: BrASita: in pysan
+Case 718: BrIta: in pysan
+Case 719: Bruqita: in pysan
+Case 720: BrURita: in pysan
+Case 721: Brezita: in pysan
+Case 722: BlASita: in pysan
+Case 723: maMhita: in pysan
+Case 724: makzita: in pysan
+Case 725: maKita: in pysan
+Case 726: maNkita: in pysan
+Case 727: maNgita: in pysan
+Case 728: maNGita: in pysan
+Case 729: macita: in pysan
+Case 730: majjita: in pysan
+Case 731: maYcita: in pysan
+Case 732: maYjita: in pysan
+Case 733: maWita: in pysan
+Case 734: maRita: in pysan
+Case 735: maRwita: in pysan
+Case 736: maRWita: in pysan
+Case 737: manTita: in pysan
+Case 738: maBrita: in pysan
+Case 739: mambita: in pysan
+Case 740: mayita: in pysan
+Case 741: marcita: in pysan
+Case 742: marjita: in pysan
+Case 743: marqita: in pysan
+Case 744: marbita: in pysan
+Case 745: marvita: in pysan
+Case 746: malita: in pysan
+Case 747: mallita: in pysan
+Case 748: mavita: in pysan
+Case 749: mavyita: in pysan
+Case 750: maSita: in pysan
+Case 751: masita: in pysan
+Case 752: maskita: in pysan
+Case 753: mANkzita: in pysan
+Case 754: mAqita: in pysan
+Case 755: mAnita: in pysan
+Case 756: mAnTita: in pysan
+Case 757: mAyna: in pysan
+Case 758: mArjita: in pysan
+Case 759: mAhita: in pysan
+Case 760: miCita: in pysan
+Case 761: miYjita: in pysan
+Case 762: miQa: in pysan
+Case 763: miTita: in pysan
+Case 764: miDita: in pysan
+Case 765: miSita: in pysan
+Case 766: misita: in pysan
+Case 767: mIna: in pysan
+Case 768: mImita: in pysan
+Case 769: mIvita: in pysan
+Case 770: muCita: in pysan
+Case 771: muYcita: in pysan
+Case 772: muwita: in pysan
+Case 773: muqita: in pysan
+Case 774: muRita: in pysan
+Case 775: murita: in pysan
+Case 776: murvita: in pysan
+Case 777: mustita: in pysan
+Case 778: mUta: in pysan
+Case 779: mUrRa: in pysan
+Case 780: mUlita: in pysan
+Case 781: mUzita: in pysan
+Case 782: mfCita: in pysan
+Case 783: mfRita: in pysan
+Case 784: mfdita: in pysan
+Case 785: mfDita: in pysan
+Case 786: meqita: in pysan
+Case 787: medita: in pysan
+Case 788: mepita: in pysan
+Case 789: mevita: in pysan
+Case 790: mojita: in pysan
+Case 791: mowita: in pysan
+Case 792: myakzita: in pysan
+Case 793: mrakzita: in pysan
+Case 794: mradita: in pysan
+Case 795: mritita: in pysan
+Case 796: mrucita: in pysan
+Case 797: mruYcita: in pysan
+Case 798: mreqita: in pysan
+Case 799: mlakzita: in pysan
+Case 800: mlucita: in pysan
+Case 801: mluYcita: in pysan
+Case 802: mleCita: in pysan
+Case 803: mlewita: in pysan
+Case 804: mlevita: in pysan
+Case 805: yakzita: in pysan
+Case 806: yuNgita: in pysan
+Case 807: yuCita: in pysan
+Case 808: yutita: in pysan
+Case 809: yupita: in pysan
+Case 810: yUzita: in pysan
+Case 811: yezita: in pysan
+Case 812: yOwita: in pysan
+Case 813: raKita: in pysan
+Case 814: ragita: in pysan
+Case 815: raNKita: in pysan
+Case 816: raNgita: in pysan
+Case 817: raNGita: in pysan
+Case 818: rawita: in pysan
+Case 819: raWita: in pysan
+Case 820: raRvita: in pysan
+Case 821: radita: in pysan
+Case 822: rapita: in pysan
+Case 823: raPita: in pysan
+Case 824: ramPita: in pysan
+Case 825: rambita: in pysan
+Case 826: ramBita: in pysan
+Case 827: rayita: in pysan
+Case 828: razwa: in pysan
+Case 829: rAkita: in pysan
+Case 830: rAKita: in pysan
+Case 831: rAgita: in pysan
+Case 832: rAGita: in pysan
+Case 833: rARita: in pysan
+Case 834: rAsita: in pysan
+Case 835: riKita: in pysan
+Case 836: riNKita: in pysan
+Case 837: riNgita: in pysan
+Case 838: riRvita: in pysan
+Case 839: rita: in pysan
+Case 840: riPita: in pysan
+Case 841: riBita: in pysan
+Case 842: rimPita: in pysan
+Case 843: rihita: in pysan
+Case 844: rIvita: in pysan
+Case 845: ruMSita: in pysan
+Case 846: rujYa: in pysan
+Case 847: ruWita: in pysan
+Case 848: ruRwita: in pysan
+Case 849: ruRWita: in pysan
+Case 850: rupita: in pysan
+Case 851: rUzita: in pysan
+Case 852: rekita: in pysan
+Case 853: rejita: in pysan
+Case 854: rewita: in pysan
+Case 855: reqita: in pysan
+Case 856: repita: in pysan
+Case 857: rezita: in pysan
+Case 858: rowita: in pysan
+Case 859: roqita: in pysan
+Case 860: rOwita: in pysan
+Case 861: laKita: in pysan
+Case 862: laCita: in pysan
+Case 863: lajita: in pysan
+Case 864: lajina: in pysan
+Case 865: laYjita: in pysan
+Case 866: lawita: in pysan
+Case 867: laqita: in pysan
+Case 868: laRqita: in pysan
+Case 869: lamBita: in pysan
+Case 870: layita: in pysan
+Case 871: lardita: in pysan
+Case 872: larbita: in pysan
+Case 873: lAkita: in pysan
+Case 874: lAKita: in pysan
+Case 875: lAgita: in pysan
+Case 876: lAGa: in pysan
+Case 877: lAjita: in pysan
+Case 878: lAYjita: in pysan
+Case 879: lAqita: in pysan
+Case 880: lAta: in pysan
+Case 881: lABita: in pysan
+Case 882: lASita: in pysan
+Case 883: lAzita: in pysan
+Case 884: lAsita: in pysan
+Case 885: liNKita: in pysan
+Case 886: liNgita: in pysan
+Case 887: luwita: in pysan
+Case 888: luqita: in pysan
+Case 889: luRwita: in pysan
+Case 890: lunTita: in pysan
+Case 891: lumbita: in pysan
+Case 892: luzita: in pysan
+Case 893: lUzita: in pysan
+Case 894: lepita: in pysan
+Case 895: lERita: in pysan
+Case 896: lowita: in pysan
+Case 897: loWita: in pysan
+Case 898: lozwita: in pysan
+Case 899: lOqita: in pysan
+Case 900: lpIta: in pysan
+Case 901: lvIta: in pysan
+Case 902: vakita: in pysan
+Case 903: vakkita: in pysan
+Case 904: vakzita: in pysan
+Case 905: vaKita: in pysan
+Case 906: vaNKita: in pysan
+Case 907: vaNgita: in pysan
+Case 908: vaNGita: in pysan
+Case 909: vajita: in pysan
+Case 910: vaYcita: in pysan
+Case 911: vawita: in pysan
+Case 912: vawwita: in pysan
+Case 913: vaWita: in pysan
+Case 914: vaqQita: in pysan
+Case 915: vaRita: in pysan
+Case 916: vaRwita: in pysan
+Case 917: vaRWita: in pysan
+Case 918: vaRqita: in pysan
+Case 919: vaBrita: in pysan
+Case 920: vayita: in pysan
+Case 921: varcita: in pysan
+Case 922: varDita: in pysan
+Case 923: varPita: in pysan
+Case 924: valkita: in pysan
+Case 925: valBita: in pysan
+Case 926: vallita: in pysan
+Case 927: valhita: in pysan
+Case 928: vazita: in pysan
+Case 929: vazkita: in pysan
+Case 930: vaskita: in pysan
+Case 931: vastita: in pysan
+Case 932: vANkzita: in pysan
+Case 933: vAtita: in pysan
+Case 934: vAna: in pysan
+Case 935: vAvftita: in pysan
+Case 936: vAhita: in pysan
+Case 937: vicita: in pysan
+Case 938: viwita: in pysan
+Case 939: viqita: in pysan
+Case 940: viRwita: in pysan
+Case 941: viTita: in pysan
+Case 942: viDita: in pysan
+Case 943: vilita: in pysan
+Case 944: vizkita: in pysan
+Case 945: vIjita: in pysan
+Case 946: vIrita: in pysan
+Case 947: vuRwita: in pysan
+Case 948: vUrRa: in pysan
+Case 949: vfMhita: in pysan
+Case 950: vfkita: in pysan
+Case 951: vfkzita: in pysan
+Case 952: vfRita: in pysan
+Case 953: vfSita: in pysan
+Case 954: vfhita: in pysan
+Case 955: vekzita: in pysan
+Case 956: veCita: in pysan
+Case 957: vewyita: in pysan
+Case 958: veDita: in pysan
+Case 959: vepita: in pysan
+Case 960: velita: in pysan
+Case 961: vellita: in pysan
+Case 962: vevIta: in pysan
+Case 963: vesita: in pysan
+Case 964: vehita: in pysan
+Case 965: vehlita: in pysan
+Case 966: vyayita: in pysan
+Case 967: vyApita: in pysan
+Case 968: vyuzita: in pysan
+Case 969: vyozita: in pysan
+Case 970: vrAjita: in pysan
+Case 971: vrARita: in pysan
+Case 972: vrIRa: in pysan
+Case 973: vruqita: in pysan
+Case 974: vlIna: in pysan
+Case 975: Sacita: in pysan
+Case 976: Sawita: in pysan
+Case 977: SaWita: in pysan
+Case 978: SaRita: in pysan
+Case 979: SaRqita: in pysan
+Case 980: Sambita: in pysan
+Case 981: Sarbita: in pysan
+Case 982: Sarvita: in pysan
+Case 983: Salita: in pysan
+Case 984: SalBita: in pysan
+Case 985: Savita: in pysan
+Case 986: SaSita: in pysan
+Case 987: Sazita: in pysan
+Case 988: SAKita: in pysan
+Case 989: SAwita: in pysan
+Case 990: SAWita: in pysan
+Case 991: SAqita: in pysan
+Case 992: SARita: in pysan
+Case 993: SAmita: in pysan
+Case 994: SAlita: in pysan
+Case 995: SiNKita: in pysan
+Case 996: SiNGita: in pysan
+Case 997: SiYjita: in pysan
+Case 998: Siwita: in pysan
+Case 999: Simita: in pysan
+Case 1000: Silita: in pysan
+Case 1001: SIkita: in pysan
+Case 1002: SIBita: in pysan
+Case 1003: SIlita: in pysan
+Case 1004: Sukita: in pysan
+Case 1005: Sucita: in pysan
+Case 1006: Sucyita: in pysan
+Case 1007: SuWita: in pysan
+Case 1008: SuRWita: in pysan
+Case 1009: SuRqita: in pysan
+Case 1010: Suta: in pysan
+Case 1011: Sunita: in pysan
+Case 1012: Sulkita: in pysan
+Case 1013: Sulbita: in pysan
+Case 1014: SUrita: in pysan
+Case 1015: SUrpita: in pysan
+Case 1016: SUlita: in pysan
+Case 1017: SUzita: in pysan
+Case 1018: Sfta: in pysan
+Case 1019: SfDita: in pysan
+Case 1020: Selita: in pysan
+Case 1021: Sevita: in pysan
+Case 1022: SoWita: in pysan
+Case 1023: SoRita: in pysan
+Case 1024: SOwita: in pysan
+Case 1025: Scotita: in pysan
+Case 1026: Scyutita: in pysan
+Case 1027: SnaTita: in pysan
+Case 1028: SmIlita: in pysan
+Case 1029: SyAna: in pysan
+Case 1030: SraNkita: in pysan
+Case 1031: SraNgita: in pysan
+Case 1032: SraRita: in pysan
+Case 1033: SraTita: in pysan
+Case 1034: Srapita: in pysan
+Case 1035: SrARa: in pysan
+Case 1036: SrARita: in pysan
+Case 1037: Srizita: in pysan
+Case 1038: SrIta: in pysan
+Case 1039: SroRita: in pysan
+Case 1040: SlaNkita: in pysan
+Case 1041: SlaNgita: in pysan
+Case 1042: SlaTita: in pysan
+Case 1043: SlAKita: in pysan
+Case 1044: Slokita: in pysan
+Case 1045: SloRita: in pysan
+Case 1046: SvaNkita: in pysan
+Case 1047: SvaNgita: in pysan
+Case 1048: Svacita: in pysan
+Case 1049: Svajita: in pysan
+Case 1050: SvaBrita: in pysan
+Case 1051: Svalita: in pysan
+Case 1052: Svalkita: in pysan
+Case 1053: Svasta: in pysan
+Case 1054: SvAWita: in pysan
+Case 1055: SvAtrita: in pysan
+Case 1056: Svitita: in pysan
+Case 1057: Svindita: in pysan
+Case 1058: zawwita: in pysan
+Case 1059: zazkita: in pysan
+Case 1060: zukkita: in pysan
+Case 1061: zWyUta: in pysan
+Case 1062: zvakkita: in pysan
+Case 1063: zvazkita: in pysan
+Case 1064: sakzita: in pysan
+Case 1065: sagita: in pysan
+Case 1066: saGita: in pysan
+Case 1067: sacita: in pysan
+Case 1068: sawita: in pysan
+Case 1069: sawwita: in pysan
+Case 1070: satrita: in pysan
+Case 1071: sadDa: in pysan
+Case 1072: sapita: in pysan
+Case 1073: saBAjita: in pysan
+Case 1074: samita: in pysan
+Case 1075: sayita: in pysan
+Case 1076: sarjita: in pysan
+Case 1077: sarbita: in pysan
+Case 1078: salita: in pysan
+Case 1079: sasita: in pysan
+Case 1080: sAkzita: in pysan
+Case 1081: sAwita: in pysan
+Case 1082: sAWita: in pysan
+Case 1083: sAmayta: in pysan
+Case 1084: sAmita: in pysan
+Case 1085: sArta: in pysan
+Case 1086: sAhita: in pysan
+Case 1087: siwita: in pysan
+Case 1088: sina: in pysan
+Case 1089: sIsta: in pysan
+Case 1090: suwwita: in pysan
+Case 1091: suBita: in pysan
+Case 1092: surita: in pysan
+Case 1093: suhita: in pysan
+Case 1094: sUna: in pysan
+Case 1095: sUrkzita: in pysan
+Case 1096: sUzita: in pysan
+Case 1097: sfBita: in pysan
+Case 1098: sekita: in pysan
+Case 1099: seta: in pysan
+Case 1100: sorita: in pysan
+Case 1101: skadna: in pysan
+Case 1102: skanDita: in pysan
+Case 1103: skuta: in pysan
+Case 1104: skundita: in pysan
+Case 1105: sKadita: in pysan
+Case 1106: stakita: in pysan
+Case 1107: stabDa: in pysan
+Case 1108: stAta: in pysan
+Case 1109: stiGita: in pysan
+Case 1110: stipita: in pysan
+Case 1111: stimita: in pysan
+Case 1112: stIta: in pysan
+Case 1113: stIma: in pysan
+Case 1114: stucita: in pysan
+Case 1115: stuBita: in pysan
+Case 1116: stumBita: in pysan
+Case 1117: stUpita: in pysan
+Case 1118: stfkzita: in pysan
+Case 1119: stfQa: in pysan
+Case 1120: stepita: in pysan
+Case 1121: sTalita: in pysan
+Case 1122: sTirita: in pysan
+Case 1123: sTuqita: in pysan
+Case 1124: sTUlita: in pysan
+Case 1125: snucita: in pysan
+Case 1126: snusita: in pysan
+Case 1127: snewita: in pysan
+Case 1128: sparzita: in pysan
+Case 1129: spaSita: in pysan
+Case 1130: spASita: in pysan
+Case 1131: spAzwa: in pysan
+Case 1132: spUsta: in pysan
+Case 1133: spfta: in pysan
+Case 1134: sPawita: in pysan
+Case 1135: sPaRqita: in pysan
+Case 1136: sParita: in pysan
+Case 1137: sPalita: in pysan
+Case 1138: sPAwita: in pysan
+Case 1139: sPiwwita: in pysan
+Case 1140: sPuwwita: in pysan
+Case 1141: sPuqita: in pysan
+Case 1142: sPuRwita: in pysan
+Case 1143: sPuRqita: in pysan
+Case 1144: sPulita: in pysan
+Case 1145: sPUrgRa: in pysan
+Case 1146: sPUrCita: in pysan
+Case 1147: sPewita: in pysan
+Case 1148: smewita: in pysan
+Case 1149: syamita: in pysan
+Case 1150: sraMhita: in pysan
+Case 1151: srasta: in pysan
+Case 1152: sriDita: in pysan
+Case 1153: sriBita: in pysan
+Case 1154: srekita: in pysan
+Case 1155: svaNgita: in pysan
+Case 1156: svajita: in pysan
+Case 1157: svardita: in pysan
+Case 1158: svidita: in pysan
+Case 1159: svfta: in pysan
+Case 1160: hawita: in pysan
+Case 1161: haWita: in pysan
+Case 1162: hadita: in pysan
+Case 1163: hammita: in pysan
+Case 1164: hayita: in pysan
+Case 1165: halita: in pysan
+Case 1166: hiRqita: in pysan
+Case 1167: hilita: in pysan
+Case 1168: huqita: in pysan
+Case 1169: hurCita: in pysan
+Case 1170: hulita: in pysan
+Case 1171: hUqita: in pysan
+Case 1172: heWita: in pysan
+Case 1173: heqita: in pysan
+Case 1174: heQita: in pysan
+Case 1175: hezita: in pysan
+Case 1176: hoqita: in pysan
+Case 1177: hnuta: in pysan
+Case 1178: hmalita: in pysan
+Case 1179: hragita: in pysan
+Case 1180: hrICita: in pysan
+Case 1181: hruqita: in pysan
+Case 1182: hruta: in pysan
+Case 1183: hrepita: in pysan
+Case 1184: hrezita: in pysan
+Case 1185: hrOqita: in pysan
+Case 1186: hlagita: in pysan
+Case 1187: hlanna: in pysan
+Case 1188: hlasita: in pysan
+Case 1189: hlApita: in pysan
+Case 1190: hvfta: in pysan
+--------------------------------------------------
+275 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: akna: in huet
+Case 02: agadita: in huet
+Case 03: ajirita: in huet
+Case 04: atta: in huet
+Case 05: aDvarita: in huet
+Case 06: apsareta: in huet
+Case 07: amitrita: in huet
+Case 08: ardita: in huet
+Case 09: aSanita: in huet
+Case 10: aSita: in huet
+Case 11: aSvita: in huet
+Case 12: asUyita: in huet
+Case 13: AkarRita: in huet
+Case 14: Akulita: in huet
+Case 15: Anta: in huet
+Case 16: Andolita: in huet
+Case 17: Avilita: in huet
+Case 18: inta: in huet
+Case 19: ireta: in huet
+Case 20: ilta: in huet
+Case 21: izita: in huet
+Case 22: izuDita: in huet
+Case 23: Irzita: in huet
+Case 24: utkaRWita: in huet
+Case 25: utkita: in huet
+Case 26: udakita: in huet
+Case 27: udeta: in huet
+Case 28: unmaneta: in huet
+Case 29: ubDa: in huet
+Case 30: umBita: in huet
+Case 31: uruzwa: in huet
+Case 32: ureta: in huet
+Case 33: uzeta: in huet
+Case 34: uzwa: in huet
+Case 35: Uta: in huet
+Case 36: Uzmeta: in huet
+Case 37: kaRvita: in huet
+Case 38: kadarTita: in huet
+Case 39: karuRita: in huet
+Case 40: kartita: in huet
+Case 41: kalaNkita: in huet
+Case 42: kalahita: in huet
+Case 43: kaluzita: in huet
+Case 44: kavalita: in huet
+Case 45: kazwita: in huet
+Case 46: kuwwa: in huet
+Case 47: kulta: in huet
+Case 48: kusumita: in huet
+Case 49: kfcCrita: in huet
+Case 50: kfpta: in huet
+Case 51: kfSita: in huet
+Case 52: klanta: in huet
+Case 53: klIbata: in huet
+Case 54: kzatta: in huet
+Case 55: kzapta: in huet
+Case 56: kzamita: in huet
+Case 57: kzIta: in huet
+Case 58: kzIrita: in huet
+Case 59: kzveqita: in huet
+Case 60: Kaqita: in huet
+Case 61: Kelta: in huet
+Case 62: gakta: in huet
+Case 63: gadgadita: in huet
+Case 64: gavezita: in huet
+Case 65: gavezwa: in huet
+Case 66: gita: in huet
+Case 67: gIrta: in huet
+Case 68: gupita: in huet
+Case 69: gurta: in huet
+Case 70: gfdDa: in huet
+Case 71: gfBIta: in huet
+Case 72: gopita: in huet
+Case 73: gomayita: in huet
+Case 74: granTita: in huet
+Case 75: Guzita: in huet
+Case 76: cakAsta: in huet
+Case 77: catta: in huet
+Case 78: canta: in huet
+Case 79: cazwa: in huet
+Case 80: citrita: in huet
+Case 81: curita: in huet
+Case 82: cUzwa: in huet
+Case 83: Candita: in huet
+Case 84: Calita: in huet
+Case 85: Cidrita: in huet
+Case 86: janta: in huet
+Case 87: japta: in huet
+Case 88: jabDa: in huet
+Case 89: jasta: in huet
+Case 90: jAgrita: in huet
+Case 91: jihmita: in huet
+Case 92: jUta: in huet
+Case 93: jyutta: in huet
+Case 94: jvarta: in huet
+Case 95: takta: in huet
+Case 96: tanta: in huet
+Case 97: tantrita: in huet
+Case 98: tapita: in huet
+Case 99: tapeta: in huet
+Case 100: taraNgita: in huet
+Case 101: taruRita: in huet
+Case 102: tavizita: in huet
+Case 103: tikta: in huet
+Case 104: tireta: in huet
+Case 105: tupta: in huet
+Case 106: tulita: in huet
+Case 107: tuhinita: in huet
+Case 108: tfRRa: in huet
+Case 109: tvarta: in huet
+Case 110: tvazwa: in huet
+Case 111: tvizita: in huet
+Case 112: tsarta: in huet
+Case 113: daGna: in huet
+Case 114: daRqita: in huet
+Case 115: dAzwa: in huet
+Case 116: dIta: in huet
+Case 117: duHKita: in huet
+Case 118: durdinita: in huet
+Case 119: dfpita: in huet
+Case 120: dfbDa: in huet
+Case 121: dyutta: in huet
+Case 122: dyotita: in huet
+Case 123: druhita: in huet
+Case 124: Darzita: in huet
+Case 125: DIrita: in huet
+Case 126: DUmita: in huet
+Case 127: DUrta: in huet
+Case 128: nameta: in huet
+Case 129: naSita: in huet
+Case 130: nAtTa: in huet
+Case 131: nikazita: in huet
+Case 132: nita: in huet
+Case 133: nIhArita: in huet
+Case 134: nudita: in huet
+Case 135: nUtanita: in huet
+Case 136: pawapawita: in huet
+Case 137: pawwa: in huet
+Case 138: patta: in huet
+Case 139: patTa: in huet
+Case 140: payeta: in huet
+Case 141: parokzita: in huet
+Case 142: pavitrita: in huet
+Case 143: pIyUzavarzita: in huet
+Case 144: putTa: in huet
+Case 145: putrakAmita: in huet
+Case 146: putrita: in huet
+Case 147: pulakita: in huet
+Case 148: puzkarita: in huet
+Case 149: puzpita: in huet
+Case 150: pUrta: in huet
+Case 151: pUlata: in huet
+Case 152: pfTita: in huet
+Case 153: pfzwa: in huet
+Case 154: pratikUlita: in huet
+Case 155: prasAdita: in huet
+Case 156: prAsAdita: in huet
+Case 157: prita: in huet
+Case 158: priyita: in huet
+Case 159: prUta: in huet
+Case 160: pluzwa: in huet
+Case 161: Penita: in huet
+Case 162: bahita: in huet
+Case 163: bAzpita: in huet
+Case 164: Bazwa: in huet
+Case 165: Bizeta: in huet
+Case 166: Bfzwa: in huet
+Case 167: magna: in huet
+Case 168: maDita: in huet
+Case 169: mantita: in huet
+Case 170: malinita: in huet
+Case 171: mAMsita: in huet
+Case 172: mAna: in huet
+Case 173: mAlyaguRita: in huet
+Case 174: mitTa: in huet
+Case 175: minna: in huet
+Case 176: mIQa: in huet
+Case 177: mIta: in huet
+Case 178: mukulita: in huet
+Case 179: muKarita: in huet
+Case 180: mudrita: in huet
+Case 181: muhita: in huet
+Case 182: mUtrita: in huet
+Case 183: mUzwa: in huet
+Case 184: mfjita: in huet
+Case 185: mfwwa: in huet
+Case 186: mftta: in huet
+Case 187: mfdDa: in huet
+Case 188: mfzita: in huet
+Case 189: meGita: in huet
+Case 190: mlizwa: in huet
+Case 191: mlecCita: in huet
+Case 192: mlezwa: in huet
+Case 193: yasta: in huet
+Case 194: yugita: in huet
+Case 195: ratta: in huet
+Case 196: raTakAmita: in huet
+Case 197: raDita: in huet
+Case 198: rAjeta: in huet
+Case 199: rizita: in huet
+Case 200: rukta: in huet
+Case 201: ruzita: in huet
+Case 202: rodita: in huet
+Case 203: romanTita: in huet
+Case 204: lagna: in huet
+Case 205: laGita: in huet
+Case 206: lavaRita: in huet
+Case 207: lAlita: in huet
+Case 208: luRWita: in huet
+Case 209: lulita: in huet
+Case 210: leleta: in huet
+Case 211: lolita: in huet
+Case 212: lohitita: in huet
+Case 213: vaNkta: in huet
+Case 214: vadita: in huet
+Case 215: variveta: in huet
+Case 216: vimanita: in huet
+Case 217: viSadita: in huet
+Case 218: vizita: in huet
+Case 219: vIkta: in huet
+Case 220: vfzita: in huet
+Case 221: veta: in huet
+Case 222: vedita: in huet
+Case 223: vErita: in huet
+Case 224: vrajita: in huet
+Case 225: Sakita: in huet
+Case 226: SalaBita: in huet
+Case 227: Salta: in huet
+Case 228: SAntita: in huet
+Case 229: SAsita: in huet
+Case 230: SAsta: in huet
+Case 231: SiTilita: in huet
+Case 232: SiSita: in huet
+Case 233: SIGrita: in huet
+Case 234: SIta: in huet
+Case 235: SIlta: in huet
+Case 236: Sukta: in huet
+Case 237: SuBita: in huet
+Case 238: SyAmita: in huet
+Case 239: Syenita: in huet
+Case 240: SrabDa: in huet
+Case 241: Svitta: in huet
+Case 242: zaRQita: in huet
+Case 243: zWIvita: in huet
+Case 244: saKita: in huet
+Case 245: saNkawita: in huet
+Case 246: saNgrAmita: in huet
+Case 247: satyita: in huet
+Case 248: sapiRqita: in huet
+Case 249: sapta: in huet
+Case 250: saPalita: in huet
+Case 251: samudrita: in huet
+Case 252: sahita: in huet
+Case 253: sAQa: in huet
+Case 254: sAvaDAnita: in huet
+Case 255: sudinita: in huet
+Case 256: sumaneta: in huet
+Case 257: surta: in huet
+Case 258: skanna: in huet
+Case 259: stamBita: in huet
+Case 260: stIrRa: in huet
+Case 261: stubDa: in huet
+Case 262: snihita: in huet
+Case 263: snIQa: in huet
+Case 264: snugDa: in huet
+Case 265: snUQa: in huet
+Case 266: sPalta: in huet
+Case 267: sraMsta: in huet
+Case 268: svaYjita: in huet
+Case 269: svarta: in huet
+Case 270: svalpaSilita: in huet
+Case 271: hawWa: in huet
+Case 272: hanna: in huet
+Case 273: hAta: in huet
+Case 274: hnUta: in huet
+Case 275: hvarta: in huet
