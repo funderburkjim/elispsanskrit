@@ -1,0 +1,1706 @@
+--------------------------------------------------
+492 cases of STEM IN BOTH
+--------------------------------------------------
+Case 01: akzyamARa: identical in BOTH
+Case 02: aNgyamAna: identical in BOTH
+Case 03: acyamAna: identical in BOTH
+Case 04: ajyamAna: identical in BOTH
+Case 05: awyamAna: identical in BOTH
+Case 06: atyamAna: identical in BOTH
+Case 07: adyamAna: identical in BOTH
+Case 08: amyamAna: identical in BOTH
+Case 09: arTyamAna: identical in BOTH
+Case 10: ardyamAna: identical in BOTH
+Case 11: aryamARa: identical in BOTH
+Case 12: arhyamARa: identical in BOTH
+Case 13: avyamAna: identical in BOTH
+Case 14: aSyamAna: identical in BOTH
+Case 15: asyamAna: identical in BOTH
+Case 16: ApyamAna: identical in BOTH
+Case 17: AsyamAna: identical in BOTH
+Case 18: iNgyamAna: identical in BOTH
+Case 19: ijyamAna: identical in BOTH
+Case 20: iDyamAna: identical in BOTH
+Case 21: indyamAna: identical in BOTH
+Case 22: invyamAna: identical in BOTH
+Case 23: ilyamAna: identical in BOTH
+Case 24: izyamARa: identical in BOTH
+Case 25: IkzyamARa: identical in BOTH
+Case 26: INKyamAna: identical in BOTH
+Case 27: IqyamAna: identical in BOTH
+Case 28: IyamAna: identical in BOTH
+Case 29: IryamARa: identical in BOTH
+Case 30: IzyamARa: identical in BOTH
+Case 31: IhyamAna: identical in BOTH
+Case 32: ukzyamARa: identical in BOTH
+Case 33: ucyamAna: identical in BOTH
+Case 34: ujJyamAna: identical in BOTH
+Case 35: uYCyamAna: identical in BOTH
+Case 36: udyamAna: identical in BOTH
+Case 37: upyamAna: identical in BOTH
+Case 38: uByamAna: identical in BOTH
+Case 39: uSyamAna: identical in BOTH
+Case 40: uzyamARa: identical in BOTH
+Case 41: uhyamAna: identical in BOTH
+Case 42: UyamAna: identical in BOTH
+Case 43: UhyamAna: identical in BOTH
+Case 44: fcyamAna: identical in BOTH
+Case 45: fjyamAna: identical in BOTH
+Case 46: fDyamAna: identical in BOTH
+Case 47: fzyamARa: identical in BOTH
+Case 48: ejyamAna: identical in BOTH
+Case 49: eDyamAna: identical in BOTH
+Case 50: kaRqyamAna: identical in BOTH
+Case 51: katTyamAna: identical in BOTH
+Case 52: kaTyamAna: identical in BOTH
+Case 53: kampyamAna: identical in BOTH
+Case 54: kalyamAna: identical in BOTH
+Case 55: kazyamARa: identical in BOTH
+Case 56: kasyamAna: identical in BOTH
+Case 57: kANkzyamARa: identical in BOTH
+Case 58: kASyamAna: identical in BOTH
+Case 59: kIrtyamAna: identical in BOTH
+Case 60: kIryamARa: identical in BOTH
+Case 61: kIlyamAna: identical in BOTH
+Case 62: kucyamAna: identical in BOTH
+Case 63: kuwyamAna: identical in BOTH
+Case 64: kuRWyamAna: identical in BOTH
+Case 65: kuRqyamAna: identical in BOTH
+Case 66: kutsyamAna: identical in BOTH
+Case 67: kunTyamAna: identical in BOTH
+Case 68: kupyamAna: identical in BOTH
+Case 69: kulyamAna: identical in BOTH
+Case 70: kUjyamAna: identical in BOTH
+Case 71: kftyamAna: identical in BOTH
+Case 72: kfpyamARa: identical in BOTH
+Case 73: kfSyamAna: identical in BOTH
+Case 74: kfzyamARa: identical in BOTH
+Case 75: krandyamAna: identical in BOTH
+Case 76: kramyamARa: identical in BOTH
+Case 77: kriyamARa: identical in BOTH
+Case 78: krIqyamAna: identical in BOTH
+Case 79: krIyamARa: identical in BOTH
+Case 80: kruDyamAna: identical in BOTH
+Case 81: kruSyamAna: identical in BOTH
+Case 82: klamyamAna: identical in BOTH
+Case 83: klavyamAna: identical in BOTH
+Case 84: klidyamAna: identical in BOTH
+Case 85: kliSyamAna: identical in BOTH
+Case 86: kvaTyamAna: identical in BOTH
+Case 87: kzadyamAna: identical in BOTH
+Case 88: kzapyamARa: identical in BOTH
+Case 89: kzamyamARa: identical in BOTH
+Case 90: kzaryamARa: identical in BOTH
+Case 91: kzipyamARa: identical in BOTH
+Case 92: kzIyamARa: identical in BOTH
+Case 93: kzudyamAna: identical in BOTH
+Case 94: kzuDyamAna: identical in BOTH
+Case 95: kzuByamARa: identical in BOTH
+Case 96: kzviqyamAna: identical in BOTH
+Case 97: KanyamAna: identical in BOTH
+Case 98: KAdyamAna: identical in BOTH
+Case 99: KidyamAna: identical in BOTH
+Case 100: KelyamAna: identical in BOTH
+Case 101: gajyamAna: identical in BOTH
+Case 102: gaRyamAna: identical in BOTH
+Case 103: gadyamAna: identical in BOTH
+Case 104: gamyamAna: identical in BOTH
+Case 105: garjyamAna: identical in BOTH
+Case 106: gardyamAna: identical in BOTH
+Case 107: garhyamARa: identical in BOTH
+Case 108: galByamAna: identical in BOTH
+Case 109: galyamAna: identical in BOTH
+Case 110: gAhyamAna: identical in BOTH
+Case 111: gIyamAna: identical in BOTH
+Case 112: gIryamARa: identical in BOTH
+Case 113: gujyamAna: identical in BOTH
+Case 114: guPyamAna: identical in BOTH
+Case 115: guryamARa: identical in BOTH
+Case 116: guhyamAna: identical in BOTH
+Case 117: gfDyamAna: identical in BOTH
+Case 118: gfhyamARa: identical in BOTH
+Case 119: gopyamAna: identical in BOTH
+Case 120: graTyamAna: identical in BOTH
+Case 121: grasyamAna: identical in BOTH
+Case 122: GawwyamAna: identical in BOTH
+Case 123: GawyamAna: identical in BOTH
+Case 124: GuzyamARa: identical in BOTH
+Case 125: GUrRyamAna: identical in BOTH
+Case 126: GfzyamARa: identical in BOTH
+Case 127: GriyamARa: identical in BOTH
+Case 128: cakAsyamAna: identical in BOTH
+Case 129: cakzyamARa: identical in BOTH
+Case 130: cawyamAna: identical in BOTH
+Case 131: catyamAna: identical in BOTH
+Case 132: candyamAna: identical in BOTH
+Case 133: camyamAna: identical in BOTH
+Case 134: caryamARa: identical in BOTH
+Case 135: calyamAna: identical in BOTH
+Case 136: cityamAna: identical in BOTH
+Case 137: cIyamAna: identical in BOTH
+Case 138: cudyamAna: identical in BOTH
+Case 139: cumbyamAna: identical in BOTH
+Case 140: cUzyamARa: identical in BOTH
+Case 141: cezwyamAna: identical in BOTH
+Case 142: coryamARa: identical in BOTH
+Case 143: CadyamAna: identical in BOTH
+Case 144: CidyamAna: identical in BOTH
+Case 145: jakzyamARa: identical in BOTH
+Case 146: janyamAna: identical in BOTH
+Case 147: japyamAna: identical in BOTH
+Case 148: jaByamAna: identical in BOTH
+Case 149: jamyamAna: identical in BOTH
+Case 150: jalpyamAna: identical in BOTH
+Case 151: jasyamAna: identical in BOTH
+Case 152: jAgaryamARa: identical in BOTH
+Case 153: jinvyamAna: identical in BOTH
+Case 154: jIyamAna: identical in BOTH
+Case 155: jIryamARa: identical in BOTH
+Case 156: jIvyamAna: identical in BOTH
+Case 157: juzyamARa: identical in BOTH
+Case 158: jfmByamARa: identical in BOTH
+Case 159: jYAyamAna: identical in BOTH
+Case 160: jyutyamAna: identical in BOTH
+Case 161: jvalyamAna: identical in BOTH
+Case 162: qambyamAna: identical in BOTH
+Case 163: qIyamAna: identical in BOTH
+Case 164: takyamAna: identical in BOTH
+Case 165: takzyamARa: identical in BOTH
+Case 166: tandryamARa: identical in BOTH
+Case 167: tanyamAna: identical in BOTH
+Case 168: tapyamAna: identical in BOTH
+Case 169: tamyamAna: identical in BOTH
+Case 170: tarkyamARa: identical in BOTH
+Case 171: tarjyamAna: identical in BOTH
+Case 172: tijyamAna: identical in BOTH
+Case 173: tIryamARa: identical in BOTH
+Case 174: tudyamAna: identical in BOTH
+Case 175: tupyamAna: identical in BOTH
+Case 176: tuzyamARa: identical in BOTH
+Case 177: tfdyamAna: identical in BOTH
+Case 178: tfpyamARa: identical in BOTH
+Case 179: tfzyamARa: identical in BOTH
+Case 180: tyajyamAna: identical in BOTH
+Case 181: trapyamARa: identical in BOTH
+Case 182: trasyamAna: identical in BOTH
+Case 183: truwyamAna: identical in BOTH
+Case 184: tvakzyamARa: identical in BOTH
+Case 185: tvaryamARa: identical in BOTH
+Case 186: tvizyamARa: identical in BOTH
+Case 187: tsaryamARa: identical in BOTH
+Case 188: dakzyamARa: identical in BOTH
+Case 189: daGyamAna: identical in BOTH
+Case 190: daByamAna: identical in BOTH
+Case 191: damyamAna: identical in BOTH
+Case 192: dayyamAna: identical in BOTH
+Case 193: dalyamAna: identical in BOTH
+Case 194: daSyamAna: identical in BOTH
+Case 195: dasyamAna: identical in BOTH
+Case 196: dahyamAna: identical in BOTH
+Case 197: dASyamAna: identical in BOTH
+Case 198: diSyamAna: identical in BOTH
+Case 199: dihyamAna: identical in BOTH
+Case 200: dIkzyamARa: identical in BOTH
+Case 201: dIpyamAna: identical in BOTH
+Case 202: dIyamAna: identical in BOTH
+Case 203: dIryamARa: identical in BOTH
+Case 204: dIvyamAna: identical in BOTH
+Case 205: duzyamARa: identical in BOTH
+Case 206: duhyamAna: identical in BOTH
+Case 207: dUyamAna: identical in BOTH
+Case 208: dfpyamARa: identical in BOTH
+Case 209: dfByamARa: identical in BOTH
+Case 210: dfSyamAna: identical in BOTH
+Case 211: dfhyamARa: identical in BOTH
+Case 212: devyamAna: identical in BOTH
+Case 213: druhyamARa: identical in BOTH
+Case 214: dvizyamARa: identical in BOTH
+Case 215: DamyamAna: identical in BOTH
+Case 216: DAvyamAna: identical in BOTH
+Case 217: DIyamAna: identical in BOTH
+Case 218: DukzyamARa: identical in BOTH
+Case 219: DUyamAna: identical in BOTH
+Case 220: DfzyamARa: identical in BOTH
+Case 221: DriyamARa: identical in BOTH
+Case 222: DrUyamARa: identical in BOTH
+Case 223: DvanyamAna: identical in BOTH
+Case 224: DvaryamARa: identical in BOTH
+Case 225: DvANkzyamARa: identical in BOTH
+Case 226: nakzyamARa: identical in BOTH
+Case 227: nawyamAna: identical in BOTH
+Case 228: nadyamAna: identical in BOTH
+Case 229: nandyamAna: identical in BOTH
+Case 230: namyamAna: identical in BOTH
+Case 231: nardyamAna: identical in BOTH
+Case 232: naSyamAna: identical in BOTH
+Case 233: nahyamAna: identical in BOTH
+Case 234: nATyamAna: identical in BOTH
+Case 235: nijyamAna: identical in BOTH
+Case 236: nindyamAna: identical in BOTH
+Case 237: nIyamAna: identical in BOTH
+Case 238: nudyamAna: identical in BOTH
+Case 239: nUyamAna: identical in BOTH
+Case 240: nftyamAna: identical in BOTH
+Case 241: pacyamAna: identical in BOTH
+Case 242: pawyamAna: identical in BOTH
+Case 243: paWyamAna: identical in BOTH
+Case 244: paRyamAna: identical in BOTH
+Case 245: patyamAna: identical in BOTH
+Case 246: paTyamAna: identical in BOTH
+Case 247: padyamAna: identical in BOTH
+Case 248: parTyamAna: identical in BOTH
+Case 249: palAyyamAna: identical in BOTH
+Case 250: piSyamAna: identical in BOTH
+Case 251: pizyamARa: identical in BOTH
+Case 252: pIqyamAna: identical in BOTH
+Case 253: pIyamAna: identical in BOTH
+Case 254: puTyamAna: identical in BOTH
+Case 255: puzyamARa: identical in BOTH
+Case 256: pUjyamAna: identical in BOTH
+Case 257: pUyamAna: identical in BOTH
+Case 258: pUyyamAna: identical in BOTH
+Case 259: pUryamARa: identical in BOTH
+Case 260: pfcyamAna: identical in BOTH
+Case 261: pfzyamARa: identical in BOTH
+Case 262: pyAyyamAna: identical in BOTH
+Case 263: praTyamAna: identical in BOTH
+Case 264: priyamARa: identical in BOTH
+Case 265: prIyamARa: identical in BOTH
+Case 266: prUyamARa: identical in BOTH
+Case 267: pluzyamARa: identical in BOTH
+Case 268: PalyamAna: identical in BOTH
+Case 269: PullyamAna: identical in BOTH
+Case 270: baDyamAna: identical in BOTH
+Case 271: balyamAna: identical in BOTH
+Case 272: bADyamAna: identical in BOTH
+Case 273: buDyamAna: identical in BOTH
+Case 274: bfhyamARa: identical in BOTH
+Case 275: BakzyamARa: identical in BOTH
+Case 276: BajyamAna: identical in BOTH
+Case 277: BaRqyamAna: identical in BOTH
+Case 278: BaRyamAna: identical in BOTH
+Case 279: BandyamAna: identical in BOTH
+Case 280: BartsyamAna: identical in BOTH
+Case 281: BazyamARa: identical in BOTH
+Case 282: BasyamAna: identical in BOTH
+Case 283: BAyamAna: identical in BOTH
+Case 284: BAzyamARa: identical in BOTH
+Case 285: BAsyamAna: identical in BOTH
+Case 286: BidyamAna: identical in BOTH
+Case 287: BIyamAna: identical in BOTH
+Case 288: BujyamAna: identical in BOTH
+Case 289: BUyamAna: identical in BOTH
+Case 290: BUzyamARa: identical in BOTH
+Case 291: BramyamARa: identical in BOTH
+Case 292: BraSyamAna: identical in BOTH
+Case 293: BrAjyamAna: identical in BOTH
+Case 294: BriyamARa: identical in BOTH
+Case 295: majjyamAna: identical in BOTH
+Case 296: maRqyamAna: identical in BOTH
+Case 297: maTyamAna: identical in BOTH
+Case 298: madyamAna: identical in BOTH
+Case 299: mandyamAna: identical in BOTH
+Case 300: manyamAna: identical in BOTH
+Case 301: marqyamAna: identical in BOTH
+Case 302: mahyamAna: identical in BOTH
+Case 303: mArgyamARa: identical in BOTH
+Case 304: miTyamAna: identical in BOTH
+Case 305: midyamAna: identical in BOTH
+Case 306: milyamAna: identical in BOTH
+Case 307: mizyamARa: identical in BOTH
+Case 308: mihyamAna: identical in BOTH
+Case 309: mIyamAna: identical in BOTH
+Case 310: mIlyamAna: identical in BOTH
+Case 311: mucyamAna: identical in BOTH
+Case 312: mudyamAna: identical in BOTH
+Case 313: muzyamARa: identical in BOTH
+Case 314: muhyamAna: identical in BOTH
+Case 315: mUzyamARa: identical in BOTH
+Case 316: mfjyamAna: identical in BOTH
+Case 317: mfqyamAna: identical in BOTH
+Case 318: mfdyamAna: identical in BOTH
+Case 319: mfDyamAna: identical in BOTH
+Case 320: mfSyamAna: identical in BOTH
+Case 321: mfzyamARa: identical in BOTH
+Case 322: medyamAna: identical in BOTH
+Case 323: mokzyamARa: identical in BOTH
+Case 324: mnAyamAna: identical in BOTH
+Case 325: mriyamARa: identical in BOTH
+Case 326: yatyamAna: identical in BOTH
+Case 327: yaByamAna: identical in BOTH
+Case 328: yamyamAna: identical in BOTH
+Case 329: yasyamAna: identical in BOTH
+Case 330: yAcyamAna: identical in BOTH
+Case 331: yujyamAna: identical in BOTH
+Case 332: yuDyamAna: identical in BOTH
+Case 333: yUyamAna: identical in BOTH
+Case 334: raMhyamARa: identical in BOTH
+Case 335: rakzyamARa: identical in BOTH
+Case 336: racyamAna: identical in BOTH
+Case 337: rajyamAna: identical in BOTH
+Case 338: raRyamAna: identical in BOTH
+Case 339: radyamAna: identical in BOTH
+Case 340: raDyamAna: identical in BOTH
+Case 341: raByamARa: identical in BOTH
+Case 342: ramyamARa: identical in BOTH
+Case 343: rahyamARa: identical in BOTH
+Case 344: rAjyamAna: identical in BOTH
+Case 345: rADyamAna: identical in BOTH
+Case 346: ricyamAna: identical in BOTH
+Case 347: rizyamARa: identical in BOTH
+Case 348: rIyamARa: identical in BOTH
+Case 349: rujyamAna: identical in BOTH
+Case 350: rudyamAna: identical in BOTH
+Case 351: ruDyamAna: identical in BOTH
+Case 352: ruzyamARa: identical in BOTH
+Case 353: ruhyamARa: identical in BOTH
+Case 354: rUpyamARa: identical in BOTH
+Case 355: rUyamARa: identical in BOTH
+Case 356: lakzyamARa: identical in BOTH
+Case 357: lagyamAna: identical in BOTH
+Case 358: laNgyamAna: identical in BOTH
+Case 359: laNGyamAna: identical in BOTH
+Case 360: lajjyamAna: identical in BOTH
+Case 361: lapyamAna: identical in BOTH
+Case 362: laByamAna: identical in BOTH
+Case 363: lambyamAna: identical in BOTH
+Case 364: lalyamAna: identical in BOTH
+Case 365: lazyamARa: identical in BOTH
+Case 366: lasyamAna: identical in BOTH
+Case 367: lAYCyamAna: identical in BOTH
+Case 368: liKyamAna: identical in BOTH
+Case 369: lipyamAna: identical in BOTH
+Case 370: liSyamAna: identical in BOTH
+Case 371: lihyamAna: identical in BOTH
+Case 372: lIyamAna: identical in BOTH
+Case 373: luWyamAna: identical in BOTH
+Case 374: lupyamAna: identical in BOTH
+Case 375: luByamAna: identical in BOTH
+Case 376: lUyamAna: identical in BOTH
+Case 377: lokyamAna: identical in BOTH
+Case 378: locyamAna: identical in BOTH
+Case 379: vandyamAna: identical in BOTH
+Case 380: vanyamAna: identical in BOTH
+Case 381: vamyamAna: identical in BOTH
+Case 382: valgyamAna: identical in BOTH
+Case 383: valyamAna: identical in BOTH
+Case 384: vasyamAna: identical in BOTH
+Case 385: vAYCyamAna: identical in BOTH
+Case 386: vASyamAna: identical in BOTH
+Case 387: vicyamAna: identical in BOTH
+Case 388: vijyamAna: identical in BOTH
+Case 389: vidyamAna: identical in BOTH
+Case 390: viDyamAna: identical in BOTH
+Case 391: viSyamAna: identical in BOTH
+Case 392: vizyamARa: identical in BOTH
+Case 393: vIjyamAna: identical in BOTH
+Case 394: vIyamAna: identical in BOTH
+Case 395: vfjyamAna: identical in BOTH
+Case 396: vftyamAna: identical in BOTH
+Case 397: vfDyamAna: identical in BOTH
+Case 398: vfScyamAna: identical in BOTH
+Case 399: vfzyamARa: identical in BOTH
+Case 400: vfhyamARa: identical in BOTH
+Case 401: venyamAna: identical in BOTH
+Case 402: vezwyamAna: identical in BOTH
+Case 403: vyaTyamAna: identical in BOTH
+Case 404: vriyamARa: identical in BOTH
+Case 405: vrIqyamAna: identical in BOTH
+Case 406: SakyamAna: identical in BOTH
+Case 407: SaNkyamAna: identical in BOTH
+Case 408: SadyamAna: identical in BOTH
+Case 409: SapyamAna: identical in BOTH
+Case 410: SamyamAna: identical in BOTH
+Case 411: SayyamAna: identical in BOTH
+Case 412: SalyamAna: identical in BOTH
+Case 413: SaSyamAna: identical in BOTH
+Case 414: SasyamAna: identical in BOTH
+Case 415: SikzyamARa: identical in BOTH
+Case 416: SizyamARa: identical in BOTH
+Case 417: SIyamAna: identical in BOTH
+Case 418: SIryamARa: identical in BOTH
+Case 419: SIlyamAna: identical in BOTH
+Case 420: SucyamAna: identical in BOTH
+Case 421: SuDyamAna: identical in BOTH
+Case 422: SuByamAna: identical in BOTH
+Case 423: SumByamAna: identical in BOTH
+Case 424: SuzyamARa: identical in BOTH
+Case 425: SUyamAna: identical in BOTH
+Case 426: ScutyamAna: identical in BOTH
+Case 427: SramyamARa: identical in BOTH
+Case 428: SrIyamARa: identical in BOTH
+Case 429: SrUyamARa: identical in BOTH
+Case 430: SlAGyamAna: identical in BOTH
+Case 431: SlizyamARa: identical in BOTH
+Case 432: SvasyamAna: identical in BOTH
+Case 433: SvityamAna: identical in BOTH
+Case 434: sacyamAna: identical in BOTH
+Case 435: sajyamAna: identical in BOTH
+Case 436: sadyamAna: identical in BOTH
+Case 437: sanyamAna: identical in BOTH
+Case 438: sapyamAna: identical in BOTH
+Case 439: sahyamAna: identical in BOTH
+Case 440: sicyamAna: identical in BOTH
+Case 441: siDyamAna: identical in BOTH
+Case 442: sIyamAna: identical in BOTH
+Case 443: supyamAna: identical in BOTH
+Case 444: suryamARa: identical in BOTH
+Case 445: sUcyamAna: identical in BOTH
+Case 446: sUdyamAna: identical in BOTH
+Case 447: sUyamAna: identical in BOTH
+Case 448: sfjyamAna: identical in BOTH
+Case 449: sfpyamARa: identical in BOTH
+Case 450: sevyamAna: identical in BOTH
+Case 451: skamByamAna: identical in BOTH
+Case 452: sKalyamAna: identical in BOTH
+Case 453: stanyamAna: identical in BOTH
+Case 454: staByamAna: identical in BOTH
+Case 455: stuByamAna: identical in BOTH
+Case 456: stUyamAna: identical in BOTH
+Case 457: sTIyamAna: identical in BOTH
+Case 458: snihyamAna: identical in BOTH
+Case 459: snuhyamAna: identical in BOTH
+Case 460: snUyamAna: identical in BOTH
+Case 461: spandyamAna: identical in BOTH
+Case 462: sparDyamAna: identical in BOTH
+Case 463: spfSyamAna: identical in BOTH
+Case 464: sPalyamAna: identical in BOTH
+Case 465: sPuwyamAna: identical in BOTH
+Case 466: sPuryamARa: identical in BOTH
+Case 467: smaryamARa: identical in BOTH
+Case 468: smIyamAna: identical in BOTH
+Case 469: sriyamARa: identical in BOTH
+Case 470: svajyamAna: identical in BOTH
+Case 471: svadyamAna: identical in BOTH
+Case 472: svanyamAna: identical in BOTH
+Case 473: svaryamARa: identical in BOTH
+Case 474: svidyamAna: identical in BOTH
+Case 475: haWyamAna: identical in BOTH
+Case 476: hadyamAna: identical in BOTH
+Case 477: hanyamAna: identical in BOTH
+Case 478: hasyamAna: identical in BOTH
+Case 479: hAyamAna: identical in BOTH
+Case 480: hiMsyamAna: identical in BOTH
+Case 481: hikkyamAna: identical in BOTH
+Case 482: hIyamAna: identical in BOTH
+Case 483: huRqyamAna: identical in BOTH
+Case 484: hUyamAna: identical in BOTH
+Case 485: hfzyamARa: identical in BOTH
+Case 486: hnUyamAna: identical in BOTH
+Case 487: hrasyamAna: identical in BOTH
+Case 488: hrAdyamAna: identical in BOTH
+Case 489: hriyamARa: identical in BOTH
+Case 490: hlAdyamAna: identical in BOTH
+Case 491: hvaryamARa: identical in BOTH
+Case 492: hvalyamAna: identical in BOTH
+--------------------------------------------------
+1156 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMSApyamAna: in pysan
+Case 02: aMSyamAna: in pysan
+Case 03: aMsApyamAna: in pysan
+Case 04: aMsyamAna: in pysan
+Case 05: aMhyamAna: in pysan
+Case 06: akyamAna: in pysan
+Case 07: agyamAna: in pysan
+Case 08: aGyamAna: in pysan
+Case 09: aNkyamAna: in pysan
+Case 10: aNKyamAna: in pysan
+Case 11: aNGyamAna: in pysan
+Case 12: aYcyamAna: in pysan
+Case 13: awwyamAna: in pysan
+Case 14: aWyamAna: in pysan
+Case 15: aqqyamAna: in pysan
+Case 16: aqyamAna: in pysan
+Case 17: aRWyamAna: in pysan
+Case 18: aRyamAna: in pysan
+Case 19: antyamAna: in pysan
+Case 20: andyamAna: in pysan
+Case 21: anDyamAna: in pysan
+Case 22: anyamAna: in pysan
+Case 23: aBryamARa: in pysan
+Case 24: ambyamAna: in pysan
+Case 25: ayyamAna: in pysan
+Case 26: arcyamAna: in pysan
+Case 27: arjyamAna: in pysan
+Case 28: arbyamARa: in pysan
+Case 29: arvyamARa: in pysan
+Case 30: alyamAna: in pysan
+Case 31: avalokyamAna: in pysan
+Case 32: azyamARa: in pysan
+Case 33: ahyamAna: in pysan
+Case 34: iKyamAna: in pysan
+Case 35: iNKyamAna: in pysan
+Case 36: iwyamAna: in pysan
+Case 37: iryamARa: in pysan
+Case 38: IKyamAna: in pysan
+Case 39: IjyamAna: in pysan
+Case 40: IntyamAna: in pysan
+Case 41: IrzyyamARa: in pysan
+Case 42: ISyamAna: in pysan
+Case 43: uKyamAna: in pysan
+Case 44: uNKyamAna: in pysan
+Case 45: uCyamAna: in pysan
+Case 46: uWyamAna: in pysan
+Case 47: uDrasyamAna: in pysan
+Case 48: uDrAsyamAna: in pysan
+Case 49: upAryamARa: in pysan
+Case 50: ubjyamAna: in pysan
+Case 51: ulAqyamAna: in pysan
+Case 52: UyyamAna: in pysan
+Case 53: UrRUyamAna: in pysan
+Case 54: UrdyamAna: in pysan
+Case 55: UrvyamARa: in pysan
+Case 56: UzyamARa: in pysan
+Case 57: fCyamAna: in pysan
+Case 58: fYjyamAna: in pysan
+Case 59: fRyamAna: in pysan
+Case 60: ftIyamAna: in pysan
+Case 61: ftyamAna: in pysan
+Case 62: fPyamARa: in pysan
+Case 63: eWyamAna: in pysan
+Case 64: elyamAna: in pysan
+Case 65: ezyamARa: in pysan
+Case 66: oKyamAna: in pysan
+Case 67: ojyamAna: in pysan
+Case 68: oRyamAna: in pysan
+Case 69: olaRqyamAna: in pysan
+Case 70: kaMsyamAna: in pysan
+Case 71: kakyamAna: in pysan
+Case 72: kaKyamAna: in pysan
+Case 73: kagyamAna: in pysan
+Case 74: kaNkyamAna: in pysan
+Case 75: kacyamAna: in pysan
+Case 76: kajyamAna: in pysan
+Case 77: kaYcyamAna: in pysan
+Case 78: kawwyamAna: in pysan
+Case 79: kawyamAna: in pysan
+Case 80: kaWyamAna: in pysan
+Case 81: kaqqyamAna: in pysan
+Case 82: kaqyamAna: in pysan
+Case 83: kaRwyamAna: in pysan
+Case 84: kaRWyamAna: in pysan
+Case 85: kaRyamAna: in pysan
+Case 86: katryamARa: in pysan
+Case 87: kadyamAna: in pysan
+Case 88: kandyamAna: in pysan
+Case 89: kanyamAna: in pysan
+Case 90: kabyamAna: in pysan
+Case 91: kambyamAna: in pysan
+Case 92: kamyamAna: in pysan
+Case 93: karjyamAna: in pysan
+Case 94: karRyamAna: in pysan
+Case 95: kartryamARa: in pysan
+Case 96: kardyamAna: in pysan
+Case 97: karbyamARa: in pysan
+Case 98: karvyamARa: in pysan
+Case 99: kallyamAna: in pysan
+Case 100: kavyamAna: in pysan
+Case 101: kaSyamAna: in pysan
+Case 102: kAMsyamAna: in pysan
+Case 103: kAYcyamAna: in pysan
+Case 104: kARyamAna: in pysan
+Case 105: kAmyamAna: in pysan
+Case 106: kAryamARa: in pysan
+Case 107: kAlyamAna: in pysan
+Case 108: kAvyamAna: in pysan
+Case 109: kAsyamAna: in pysan
+Case 110: kiwyamAna: in pysan
+Case 111: kityamAna: in pysan
+Case 112: kilyamAna: in pysan
+Case 113: kizkyamARa: in pysan
+Case 114: kIwyamAna: in pysan
+Case 115: kIyamAna: in pysan
+Case 116: kuMSyamAna: in pysan
+Case 117: kukyamAna: in pysan
+Case 118: kujyamAna: in pysan
+Case 119: kuYcyamAna: in pysan
+Case 120: kuYjyamAna: in pysan
+Case 121: kuwwyamAna: in pysan
+Case 122: kuqyamAna: in pysan
+Case 123: kuRyamAna: in pysan
+Case 124: kuTyamAna: in pysan
+Case 125: kundryamARa: in pysan
+Case 126: kumbyamAna: in pysan
+Case 127: kuryamARa: in pysan
+Case 128: kuSyamAna: in pysan
+Case 129: kuzyamARa: in pysan
+Case 130: kuhyamAna: in pysan
+Case 131: kUwyamAna: in pysan
+Case 132: kUqyamAna: in pysan
+Case 133: kURyamAna: in pysan
+Case 134: kUpyamAna: in pysan
+Case 135: kUyamAna: in pysan
+Case 136: kUrdyamAna: in pysan
+Case 137: kUlyamAna: in pysan
+Case 138: kxpyamAna: in pysan
+Case 139: kepyamAna: in pysan
+Case 140: kelyamAna: in pysan
+Case 141: kevyamAna: in pysan
+Case 142: kEyamAna: in pysan
+Case 143: kowyamAna: in pysan
+Case 144: koRyamAna: in pysan
+Case 145: kodyamAna: in pysan
+Case 146: kopyamAna: in pysan
+Case 147: knaMsyamAna: in pysan
+Case 148: knaTyamAna: in pysan
+Case 149: knasyamAna: in pysan
+Case 150: knUyamAna: in pysan
+Case 151: knUyyamAna: in pysan
+Case 152: kmaryamARa: in pysan
+Case 153: kraMSyamAna: in pysan
+Case 154: kraTyamAna: in pysan
+Case 155: krapyamARa: in pysan
+Case 156: kruYcyamAna: in pysan
+Case 157: kruqyamAna: in pysan
+Case 158: kroqyamAna: in pysan
+Case 159: klaTyamAna: in pysan
+Case 160: klandyamAna: in pysan
+Case 161: klindyamAna: in pysan
+Case 162: klIbyamAna: in pysan
+Case 163: kleSyamAna: in pysan
+Case 164: kvaRyamAna: in pysan
+Case 165: kzajyamAna: in pysan
+Case 166: kzaRyamAna: in pysan
+Case 167: kzampyamARa: in pysan
+Case 168: kzAjyamAna: in pysan
+Case 169: kzAyamARa: in pysan
+Case 170: kzAlyamAna: in pysan
+Case 171: kziRyamAna: in pysan
+Case 172: kzivyamARa: in pysan
+Case 173: kzIjyamAna: in pysan
+Case 174: kzIbyamARa: in pysan
+Case 175: kzIvyamARa: in pysan
+Case 176: kzupyamARa: in pysan
+Case 177: kzumpyamARa: in pysan
+Case 178: kzuryamARa: in pysan
+Case 179: kzUyamARa: in pysan
+Case 180: kzowyamAna: in pysan
+Case 181: kzRUyamAna: in pysan
+Case 182: kzmAyyamARa: in pysan
+Case 183: kzmIlyamAna: in pysan
+Case 184: kzvidyamAna: in pysan
+Case 185: kzvelyamAna: in pysan
+Case 186: KacyamAna: in pysan
+Case 187: KajyamAna: in pysan
+Case 188: KaYjyamAna: in pysan
+Case 189: KawwyamAna: in pysan
+Case 190: KawyamAna: in pysan
+Case 191: KaRqyamAna: in pysan
+Case 192: KadyamAna: in pysan
+Case 193: KambyamAna: in pysan
+Case 194: KarjyamAna: in pysan
+Case 195: KardyamAna: in pysan
+Case 196: KarbyamARa: in pysan
+Case 197: KarvyamARa: in pysan
+Case 198: KalyamAna: in pysan
+Case 199: KallyamAna: in pysan
+Case 200: KazyamARa: in pysan
+Case 201: KAcyamAna: in pysan
+Case 202: KAqyamAna: in pysan
+Case 203: KAyamAna: in pysan
+Case 204: KiwyamAna: in pysan
+Case 205: KujyamAna: in pysan
+Case 206: KuRqyamAna: in pysan
+Case 207: KudyamAna: in pysan
+Case 208: KurdyamAna: in pysan
+Case 209: KuryamARa: in pysan
+Case 210: KUyamAna: in pysan
+Case 211: KewyamAna: in pysan
+Case 212: KEyamAna: in pysan
+Case 213: KowyamAna: in pysan
+Case 214: KoqyamAna: in pysan
+Case 215: KoryamARa: in pysan
+Case 216: KyAyamAna: in pysan
+Case 217: gaYjyamAna: in pysan
+Case 218: gaqyamAna: in pysan
+Case 219: gaRqyamAna: in pysan
+Case 220: gaDyamAna: in pysan
+Case 221: ganDyamAna: in pysan
+Case 222: gambyamAna: in pysan
+Case 223: garbyamARa: in pysan
+Case 224: garvyamARa: in pysan
+Case 225: gAjyamAna: in pysan
+Case 226: gAqyamAna: in pysan
+Case 227: gAdyamAna: in pysan
+Case 228: gADyamAna: in pysan
+Case 229: gAyamAna: in pysan
+Case 230: gAryamARa: in pysan
+Case 231: guYjyamAna: in pysan
+Case 232: guqyamAna: in pysan
+Case 233: guRWyamAna: in pysan
+Case 234: guRqyamAna: in pysan
+Case 235: gudyamAna: in pysan
+Case 236: guDyamAna: in pysan
+Case 237: gupyamAna: in pysan
+Case 238: gumPyamAna: in pysan
+Case 239: gurdyamAna: in pysan
+Case 240: gurvyamARa: in pysan
+Case 241: gUyamAna: in pysan
+Case 242: gUrdyamAna: in pysan
+Case 243: gUrDyamAna: in pysan
+Case 244: gepyamAna: in pysan
+Case 245: gevyamAna: in pysan
+Case 246: gezyamARa: in pysan
+Case 247: gopAyyamAna: in pysan
+Case 248: griyamARa: in pysan
+Case 249: grucyamAna: in pysan
+Case 250: glasyamAna: in pysan
+Case 251: glAyamAna: in pysan
+Case 252: glucyamAna: in pysan
+Case 253: gluYcyamAna: in pysan
+Case 254: glepyamAna: in pysan
+Case 255: glevyamAna: in pysan
+Case 256: glezyamARa: in pysan
+Case 257: GaMzyamARa: in pysan
+Case 258: GagGyamAna: in pysan
+Case 259: GaRwyamAna: in pysan
+Case 260: GaRyamAna: in pysan
+Case 261: GambyamAna: in pysan
+Case 262: GarbyamARa: in pysan
+Case 263: GAryamARa: in pysan
+Case 264: GiRRyamAna: in pysan
+Case 265: GuwyamAna: in pysan
+Case 266: GuqyamAna: in pysan
+Case 267: GuRRyamAna: in pysan
+Case 268: GuRyamAna: in pysan
+Case 269: GUyamAna: in pysan
+Case 270: GUryamARa: in pysan
+Case 271: GfRRyamAna: in pysan
+Case 272: GfRyamAna: in pysan
+Case 273: GolyamAna: in pysan
+Case 274: GrAyamARa: in pysan
+Case 275: NUyamAna: in pysan
+Case 276: cakkyamAna: in pysan
+Case 277: cakyamAna: in pysan
+Case 278: caGyamAna: in pysan
+Case 279: caYcyamAna: in pysan
+Case 280: caRqyamAna: in pysan
+Case 281: caRyamAna: in pysan
+Case 282: cadyamAna: in pysan
+Case 283: canyamAna: in pysan
+Case 284: capyamAna: in pysan
+Case 285: campyamAna: in pysan
+Case 286: cambyamAna: in pysan
+Case 287: cayyamAna: in pysan
+Case 288: carGyamARa: in pysan
+Case 289: carcyamAna: in pysan
+Case 290: carbyamARa: in pysan
+Case 291: carvyamARa: in pysan
+Case 292: cahyamAna: in pysan
+Case 293: cAhyamAna: in pysan
+Case 294: cikkyamAna: in pysan
+Case 295: ciwyamAna: in pysan
+Case 296: cintyamAna: in pysan
+Case 297: cirIyamARa: in pysan
+Case 298: cilyamAna: in pysan
+Case 299: cIkyamAna: in pysan
+Case 300: cIvyamAna: in pysan
+Case 301: cukkyamAna: in pysan
+Case 302: cuwwyamAna: in pysan
+Case 303: cuwyamAna: in pysan
+Case 304: cuqqyamAna: in pysan
+Case 305: cuqyamAna: in pysan
+Case 306: cuRWyamAna: in pysan
+Case 307: cuRyamAna: in pysan
+Case 308: cutyamAna: in pysan
+Case 309: cupyamAna: in pysan
+Case 310: culumpyamAna: in pysan
+Case 311: cURyamAna: in pysan
+Case 312: cUrRyamAna: in pysan
+Case 313: cUryamARa: in pysan
+Case 314: cftyamAna: in pysan
+Case 315: celyamAna: in pysan
+Case 316: cowyamAna: in pysan
+Case 317: colyamAna: in pysan
+Case 318: cyAvyamAna: in pysan
+Case 319: cyutyamAna: in pysan
+Case 320: cyosyamAna: in pysan
+Case 321: CampyamAna: in pysan
+Case 322: CamyamAna: in pysan
+Case 323: CazyamARa: in pysan
+Case 324: CAdyamAna: in pysan
+Case 325: CAlyamAna: in pysan
+Case 326: CuwyamAna: in pysan
+Case 327: CuqyamAna: in pysan
+Case 328: CupyamAna: in pysan
+Case 329: CuryamARa: in pysan
+Case 330: CfdyamAna: in pysan
+Case 331: CfpyamARa: in pysan
+Case 332: CowyamAna: in pysan
+Case 333: CoyamAna: in pysan
+Case 334: jaMsyamAna: in pysan
+Case 335: jaNkzyamARa: in pysan
+Case 336: jajyamAna: in pysan
+Case 337: jarcyamAna: in pysan
+Case 338: jarCyamAna: in pysan
+Case 339: jarjyamAna: in pysan
+Case 340: jartsyamAna: in pysan
+Case 341: jalyamAna: in pysan
+Case 342: jAyamAna: in pysan
+Case 343: jAlyamAna: in pysan
+Case 344: jimyamAna: in pysan
+Case 345: jirIyamARa: in pysan
+Case 346: jizyamARa: in pysan
+Case 347: juNgyamAna: in pysan
+Case 348: juYcyamAna: in pysan
+Case 349: juwyamAna: in pysan
+Case 350: juqyamAna: in pysan
+Case 351: junyamAna: in pysan
+Case 352: juryamARa: in pysan
+Case 353: jUryamARa: in pysan
+Case 354: jUrvyamARa: in pysan
+Case 355: jezyamARa: in pysan
+Case 356: jehyamAna: in pysan
+Case 357: jEyamAna: in pysan
+Case 358: joqyamAna: in pysan
+Case 359: jolyamAna: in pysan
+Case 360: jyAyamAna: in pysan
+Case 361: jriyamARa: in pysan
+Case 362: jrIyamARa: in pysan
+Case 363: JawyamAna: in pysan
+Case 364: JamyamAna: in pysan
+Case 365: JarcyamAna: in pysan
+Case 366: JazyamARa: in pysan
+Case 367: JIryamARa: in pysan
+Case 368: JUyamAna: in pysan
+Case 369: JUzyamARa: in pysan
+Case 370: JyUyamAna: in pysan
+Case 371: waNkyamAna: in pysan
+Case 372: wikyamAna: in pysan
+Case 373: wIkyamAna: in pysan
+Case 374: wOkyamAna: in pysan
+Case 375: wvalyamAna: in pysan
+Case 376: qampyamAna: in pysan
+Case 377: qamByamAna: in pysan
+Case 378: qamyamAna: in pysan
+Case 379: qApyamAna: in pysan
+Case 380: qipyamAna: in pysan
+Case 381: qepyamAna: in pysan
+Case 382: QOkyamAna: in pysan
+Case 383: taNkyamAna: in pysan
+Case 384: taNgyamAna: in pysan
+Case 385: taYcyamAna: in pysan
+Case 386: tawyamAna: in pysan
+Case 387: taRqyamAna: in pysan
+Case 388: tandyamAna: in pysan
+Case 389: tayyamAna: in pysan
+Case 390: tardyamAna: in pysan
+Case 391: talyamAna: in pysan
+Case 392: tasyamAna: in pysan
+Case 393: tAqyamAna: in pysan
+Case 394: tAyamAna: in pysan
+Case 395: tAyyamAna: in pysan
+Case 396: tAlyamAna: in pysan
+Case 397: tikyamAna: in pysan
+Case 398: tigyamAna: in pysan
+Case 399: tiGyamAna: in pysan
+Case 400: tipyamAna: in pysan
+Case 401: timyamAna: in pysan
+Case 402: tilyamAna: in pysan
+Case 403: tillyamAna: in pysan
+Case 404: tIkyamAna: in pysan
+Case 405: tImyamAna: in pysan
+Case 406: tIvyamAna: in pysan
+Case 407: tujyamAna: in pysan
+Case 408: tuwyamAna: in pysan
+Case 409: tuqqyamAna: in pysan
+Case 410: tuqyamAna: in pysan
+Case 411: tuRqyamAna: in pysan
+Case 412: tuRyamAna: in pysan
+Case 413: tundyamAna: in pysan
+Case 414: tuByamAna: in pysan
+Case 415: tumpyamAna: in pysan
+Case 416: tumbyamAna: in pysan
+Case 417: turyamARa: in pysan
+Case 418: turvyamARa: in pysan
+Case 419: tuSyamAna: in pysan
+Case 420: tusyamAna: in pysan
+Case 421: tuhyamAna: in pysan
+Case 422: tUqyamAna: in pysan
+Case 423: tURyamAna: in pysan
+Case 424: tUyamAna: in pysan
+Case 425: tUlyamAna: in pysan
+Case 426: tUzyamARa: in pysan
+Case 427: tfkzyamARa: in pysan
+Case 428: tfRyamAna: in pysan
+Case 429: tfPyamARa: in pysan
+Case 430: tfmpyamARa: in pysan
+Case 431: tfmPyamARa: in pysan
+Case 432: tfhyamARa: in pysan
+Case 433: tepyamAna: in pysan
+Case 434: telyamAna: in pysan
+Case 435: tevyamAna: in pysan
+Case 436: toqyamAna: in pysan
+Case 437: tolyamAna: in pysan
+Case 438: traMsyamAna: in pysan
+Case 439: traKyamARa: in pysan
+Case 440: trandyamAna: in pysan
+Case 441: trAyamARa: in pysan
+Case 442: trAsyamAna: in pysan
+Case 443: triNKyamARa: in pysan
+Case 444: trupyamARa: in pysan
+Case 445: truPyamARa: in pysan
+Case 446: trumpyamARa: in pysan
+Case 447: trumPyamARa: in pysan
+Case 448: trOkyamARa: in pysan
+Case 449: tvaNgyamAna: in pysan
+Case 450: tvacyamAna: in pysan
+Case 451: tvaYcyamAna: in pysan
+Case 452: TarvyamARa: in pysan
+Case 453: TuqyamAna: in pysan
+Case 454: TurvyamARa: in pysan
+Case 455: daMSyamAna: in pysan
+Case 456: daMsyamAna: in pysan
+Case 457: daMhyamAna: in pysan
+Case 458: daNGyamAna: in pysan
+Case 459: dadyamAna: in pysan
+Case 460: daDyamAna: in pysan
+Case 461: danvyamAna: in pysan
+Case 462: darByamARa: in pysan
+Case 463: dAnyamAna: in pysan
+Case 464: dAyamAna: in pysan
+Case 465: dAyyamAna: in pysan
+Case 466: dAsyamAna: in pysan
+Case 467: dinvyamAna: in pysan
+Case 468: dipyamAna: in pysan
+Case 469: dimpyamAna: in pysan
+Case 470: dimByamAna: in pysan
+Case 471: dIDIyamAna: in pysan
+Case 472: duDyamAna: in pysan
+Case 473: durvyamARa: in pysan
+Case 474: dfMhyamARa: in pysan
+Case 475: dEyamAna: in pysan
+Case 476: dolyamAna: in pysan
+Case 477: dyAyamAna: in pysan
+Case 478: dyutyamAna: in pysan
+Case 479: dyUyamAna: in pysan
+Case 480: dramyamARa: in pysan
+Case 481: drAKyamARa: in pysan
+Case 482: drANkzyamARa: in pysan
+Case 483: drAqyamAna: in pysan
+Case 484: drAyamARa: in pysan
+Case 485: drAhyamARa: in pysan
+Case 486: driyamARa: in pysan
+Case 487: druqyamAna: in pysan
+Case 488: druRyamAna: in pysan
+Case 489: drummyamARa: in pysan
+Case 490: drUqyamAna: in pysan
+Case 491: drUyamARa: in pysan
+Case 492: drekyamARa: in pysan
+Case 493: dvaryamARa: in pysan
+Case 494: DakkyamAna: in pysan
+Case 495: DaRyamAna: in pysan
+Case 496: DanyamAna: in pysan
+Case 497: DavyamAna: in pysan
+Case 498: DikzyamARa: in pysan
+Case 499: DizyamARa: in pysan
+Case 500: DIkzyamARa: in pysan
+Case 501: DIryamARa: in pysan
+Case 502: DUpyamAna: in pysan
+Case 503: DUryamARa: in pysan
+Case 504: DUrvyamARa: in pysan
+Case 505: DUSyamAna: in pysan
+Case 506: DfjyamAna: in pysan
+Case 507: DoryamARa: in pysan
+Case 508: DmAyamAna: in pysan
+Case 509: DyAyamAna: in pysan
+Case 510: DrajyamAna: in pysan
+Case 511: DraRyamAna: in pysan
+Case 512: DrasyamAna: in pysan
+Case 513: DrAyamARa: in pysan
+Case 514: DrijyamAna: in pysan
+Case 515: DrekyamARa: in pysan
+Case 516: DvaMsyamAna: in pysan
+Case 517: DvajyamAna: in pysan
+Case 518: DvaRyamAna: in pysan
+Case 519: DvraRyamAna: in pysan
+Case 520: nakkyamAna: in pysan
+Case 521: naKyamAna: in pysan
+Case 522: najyamAna: in pysan
+Case 523: naByamAna: in pysan
+Case 524: nambyamAna: in pysan
+Case 525: nayyamAna: in pysan
+Case 526: narbyamARa: in pysan
+Case 527: nalyamAna: in pysan
+Case 528: nasyamAna: in pysan
+Case 529: nAqyamAna: in pysan
+Case 530: nADyamAna: in pysan
+Case 531: nAlyamAna: in pysan
+Case 532: nAsyamAna: in pysan
+Case 533: niMsyamAna: in pysan
+Case 534: nikzyamARa: in pysan
+Case 535: niYjyamAna: in pysan
+Case 536: ninvyamAna: in pysan
+Case 537: nilyamAna: in pysan
+Case 538: niSyamAna: in pysan
+Case 539: nizkyamARa: in pysan
+Case 540: nizyamARa: in pysan
+Case 541: nIryamARa: in pysan
+Case 542: nIlyamAna: in pysan
+Case 543: nIvyamAna: in pysan
+Case 544: nuqyamAna: in pysan
+Case 545: nedyamAna: in pysan
+Case 546: nezyamARa: in pysan
+Case 547: paMSyamAna: in pysan
+Case 548: pakzyamARa: in pysan
+Case 549: paRAyyamAna: in pysan
+Case 550: paRqyamAna: in pysan
+Case 551: panAyyamAna: in pysan
+Case 552: panTyamAna: in pysan
+Case 553: panyamAna: in pysan
+Case 554: pambyamAna: in pysan
+Case 555: payyamAna: in pysan
+Case 556: parRyamAna: in pysan
+Case 557: pardyamAna: in pysan
+Case 558: parpyamARa: in pysan
+Case 559: parbyamARa: in pysan
+Case 560: parvyamARa: in pysan
+Case 561: parzyamARa: in pysan
+Case 562: palyamAna: in pysan
+Case 563: pallyamAna: in pysan
+Case 564: pavyamAna: in pysan
+Case 565: pazyamARa: in pysan
+Case 566: pasyamAna: in pysan
+Case 567: pAwyamAna: in pysan
+Case 568: pAyamAna: in pysan
+Case 569: pAyyamAna: in pysan
+Case 570: pAlyamAna: in pysan
+Case 571: pASyamAna: in pysan
+Case 572: pAsyamAna: in pysan
+Case 573: piMsyamAna: in pysan
+Case 574: piccyamAna: in pysan
+Case 575: piCyamAna: in pysan
+Case 576: piYjyamAna: in pysan
+Case 577: piwyamAna: in pysan
+Case 578: piWyamAna: in pysan
+Case 579: piRqyamAna: in pysan
+Case 580: pinvyamAna: in pysan
+Case 581: pisyamAna: in pysan
+Case 582: pIlyamAna: in pysan
+Case 583: puMsyamAna: in pysan
+Case 584: puCyamAna: in pysan
+Case 585: puwwyamAna: in pysan
+Case 586: puwyamAna: in pysan
+Case 587: puqyamAna: in pysan
+Case 588: puRwyamAna: in pysan
+Case 589: puRqyamAna: in pysan
+Case 590: puRyamAna: in pysan
+Case 591: puryamARa: in pysan
+Case 592: purvyamARa: in pysan
+Case 593: pustyamAna: in pysan
+Case 594: pURyamAna: in pysan
+Case 595: pUrvyamARa: in pysan
+Case 596: pUlyamAna: in pysan
+Case 597: pUzyamARa: in pysan
+Case 598: pfjyamAna: in pysan
+Case 599: pfqyamAna: in pysan
+Case 600: pfRyamAna: in pysan
+Case 601: peCyamAna: in pysan
+Case 602: peRyamAna: in pysan
+Case 603: pebyamAna: in pysan
+Case 604: pelyamAna: in pysan
+Case 605: pevyamAna: in pysan
+Case 606: pezyamARa: in pysan
+Case 607: pesyamAna: in pysan
+Case 608: pERyamAna: in pysan
+Case 609: poYCyamAna: in pysan
+Case 610: powyamAna: in pysan
+Case 611: poRyamAna: in pysan
+Case 612: posyamAna: in pysan
+Case 613: pyAyamAna: in pysan
+Case 614: pyuzyamARa: in pysan
+Case 615: pyusyamAna: in pysan
+Case 616: pyozyamARa: in pysan
+Case 617: praCyamAna: in pysan
+Case 618: prasyamAna: in pysan
+Case 619: prATyamAna: in pysan
+Case 620: prAyamARa: in pysan
+Case 621: pruTyamAna: in pysan
+Case 622: pruzyamARa: in pysan
+Case 623: prezyamARa: in pysan
+Case 624: prERyamAna: in pysan
+Case 625: proTyamAna: in pysan
+Case 626: prozyamARa: in pysan
+Case 627: plakzyamARa: in pysan
+Case 628: plabyamAna: in pysan
+Case 629: plihyamAna: in pysan
+Case 630: plIyamAna: in pysan
+Case 631: plusyamAna: in pysan
+Case 632: plUyamAna: in pysan
+Case 633: plevyamAna: in pysan
+Case 634: psAyamAna: in pysan
+Case 635: PakkyamAna: in pysan
+Case 636: PaRyamAna: in pysan
+Case 637: ParvyamARa: in pysan
+Case 638: PelyamAna: in pysan
+Case 639: baMhyamAna: in pysan
+Case 640: badyamAna: in pysan
+Case 641: barbyamARa: in pysan
+Case 642: barhyamARa: in pysan
+Case 643: bAqyamAna: in pysan
+Case 644: bAlyamAna: in pysan
+Case 645: biwyamAna: in pysan
+Case 646: bidyamAna: in pysan
+Case 647: bilyamAna: in pysan
+Case 648: biSyamAna: in pysan
+Case 649: bisyamAna: in pysan
+Case 650: bIByamAna: in pysan
+Case 651: bukkyamAna: in pysan
+Case 652: buNgyamAna: in pysan
+Case 653: buwyamAna: in pysan
+Case 654: buqyamAna: in pysan
+Case 655: budyamAna: in pysan
+Case 656: bundyamAna: in pysan
+Case 657: bunDyamAna: in pysan
+Case 658: busyamAna: in pysan
+Case 659: bfMhyamARa: in pysan
+Case 660: belyamAna: in pysan
+Case 661: bowyamAna: in pysan
+Case 662: bolyamAna: in pysan
+Case 663: brahmyamARa: in pysan
+Case 664: BawyamAna: in pysan
+Case 665: BaRwyamAna: in pysan
+Case 666: BanyamAna: in pysan
+Case 667: BarbyamARa: in pysan
+Case 668: BarvyamARa: in pysan
+Case 669: BalyamAna: in pysan
+Case 670: BAwyamAna: in pysan
+Case 671: BAmyamAna: in pysan
+Case 672: BAlyamAna: in pysan
+Case 673: BikzyamARa: in pysan
+Case 674: BindyamAna: in pysan
+Case 675: BuRqyamAna: in pysan
+Case 676: BUryamARa: in pysan
+Case 677: BfMSyamAna: in pysan
+Case 678: BfkzyamARa: in pysan
+Case 679: BfjyamAna: in pysan
+Case 680: BfqyamAna: in pysan
+Case 681: BfSyamAna: in pysan
+Case 682: BezyamARa: in pysan
+Case 683: ByasyamAna: in pysan
+Case 684: BrakzyamARa: in pysan
+Case 685: BrajjyamAna: in pysan
+Case 686: BraRyamAna: in pysan
+Case 687: BrASyamAna: in pysan
+Case 688: BrIyamARa: in pysan
+Case 689: BruqyamAna: in pysan
+Case 690: BrURyamAna: in pysan
+Case 691: BrezyamARa: in pysan
+Case 692: BlASyamAna: in pysan
+Case 693: maMhyamAna: in pysan
+Case 694: makzyamARa: in pysan
+Case 695: maKyamAna: in pysan
+Case 696: maNkyamAna: in pysan
+Case 697: maNgyamAna: in pysan
+Case 698: maNGyamAna: in pysan
+Case 699: macyamAna: in pysan
+Case 700: maYcyamAna: in pysan
+Case 701: maYjyamAna: in pysan
+Case 702: maWyamAna: in pysan
+Case 703: maRwyamAna: in pysan
+Case 704: maRWyamAna: in pysan
+Case 705: maRyamAna: in pysan
+Case 706: mantryamARa: in pysan
+Case 707: maBryamARa: in pysan
+Case 708: mambyamAna: in pysan
+Case 709: mayyamAna: in pysan
+Case 710: marcyamAna: in pysan
+Case 711: marjyamAna: in pysan
+Case 712: marbyamARa: in pysan
+Case 713: marvyamARa: in pysan
+Case 714: malyamAna: in pysan
+Case 715: mallyamAna: in pysan
+Case 716: mavyamAna: in pysan
+Case 717: mavyyamAna: in pysan
+Case 718: maSyamAna: in pysan
+Case 719: maskyamAna: in pysan
+Case 720: masyamAna: in pysan
+Case 721: mANkzyamARa: in pysan
+Case 722: mAqyamAna: in pysan
+Case 723: mAnTyamAna: in pysan
+Case 724: mAnyamAna: in pysan
+Case 725: mAyyamAna: in pysan
+Case 726: mArjyamAna: in pysan
+Case 727: mAlyamAna: in pysan
+Case 728: mAhyamAna: in pysan
+Case 729: miCyamAna: in pysan
+Case 730: miYjyamAna: in pysan
+Case 731: miDyamAna: in pysan
+Case 732: miSyamAna: in pysan
+Case 733: miSryamARa: in pysan
+Case 734: misyamAna: in pysan
+Case 735: mImyamAna: in pysan
+Case 736: mIvyamAna: in pysan
+Case 737: muCyamAna: in pysan
+Case 738: mujyamAna: in pysan
+Case 739: muYcyamAna: in pysan
+Case 740: muwyamAna: in pysan
+Case 741: muqyamAna: in pysan
+Case 742: muRqyamAna: in pysan
+Case 743: muRyamAna: in pysan
+Case 744: murCyamAna: in pysan
+Case 745: muryamARa: in pysan
+Case 746: murvyamARa: in pysan
+Case 747: mustyamAna: in pysan
+Case 748: mUyamAna: in pysan
+Case 749: mUryamARa: in pysan
+Case 750: mUlyamAna: in pysan
+Case 751: mfgyamARa: in pysan
+Case 752: mfCyamAna: in pysan
+Case 753: mfRyamAna: in pysan
+Case 754: meqyamAna: in pysan
+Case 755: mepyamAna: in pysan
+Case 756: meyamAna: in pysan
+Case 757: mevyamAna: in pysan
+Case 758: mojyamAna: in pysan
+Case 759: mowyamAna: in pysan
+Case 760: modyamAna: in pysan
+Case 761: myakzyamARa: in pysan
+Case 762: mrakzyamARa: in pysan
+Case 763: mradyamAna: in pysan
+Case 764: mrityamAna: in pysan
+Case 765: mrucyamAna: in pysan
+Case 766: mruYcyamAna: in pysan
+Case 767: mreqyamAna: in pysan
+Case 768: mlakzyamARa: in pysan
+Case 769: mlAyamAna: in pysan
+Case 770: mlucyamAna: in pysan
+Case 771: mluYcyamAna: in pysan
+Case 772: mleCyamAna: in pysan
+Case 773: mlewyamAna: in pysan
+Case 774: mlevyamAna: in pysan
+Case 775: yakzyamARa: in pysan
+Case 776: yantryamARa: in pysan
+Case 777: yAyamAna: in pysan
+Case 778: yuNgyamAna: in pysan
+Case 779: yuCyamAna: in pysan
+Case 780: yutyamAna: in pysan
+Case 781: yupyamAna: in pysan
+Case 782: yUzyamARa: in pysan
+Case 783: yezyamARa: in pysan
+Case 784: yOwyamAna: in pysan
+Case 785: raKyamARa: in pysan
+Case 786: ragyamARa: in pysan
+Case 787: raNKyamARa: in pysan
+Case 788: raNgyamARa: in pysan
+Case 789: raNGyamARa: in pysan
+Case 790: rawyamAna: in pysan
+Case 791: raWyamAna: in pysan
+Case 792: raRvyamAna: in pysan
+Case 793: rapyamARa: in pysan
+Case 794: raPyamARa: in pysan
+Case 795: ramPyamARa: in pysan
+Case 796: rambyamARa: in pysan
+Case 797: ramByamARa: in pysan
+Case 798: rayyamARa: in pysan
+Case 799: rasyamAna: in pysan
+Case 800: rAkyamARa: in pysan
+Case 801: rAKyamARa: in pysan
+Case 802: rAgyamARa: in pysan
+Case 803: rAGyamARa: in pysan
+Case 804: rARyamAna: in pysan
+Case 805: rAyamARa: in pysan
+Case 806: rAsyamAna: in pysan
+Case 807: riKyamARa: in pysan
+Case 808: riNKyamARa: in pysan
+Case 809: riNgyamARa: in pysan
+Case 810: riRvyamAna: in pysan
+Case 811: riPyamARa: in pysan
+Case 812: riByamARa: in pysan
+Case 813: rimPyamARa: in pysan
+Case 814: riSyamAna: in pysan
+Case 815: rihyamARa: in pysan
+Case 816: rIvyamARa: in pysan
+Case 817: ruMSyamAna: in pysan
+Case 818: rucyamAna: in pysan
+Case 819: ruWyamAna: in pysan
+Case 820: ruRwyamAna: in pysan
+Case 821: ruRWyamAna: in pysan
+Case 822: rupyamARa: in pysan
+Case 823: ruSyamAna: in pysan
+Case 824: rUkzyamARa: in pysan
+Case 825: rUzyamARa: in pysan
+Case 826: rekyamARa: in pysan
+Case 827: rejyamAna: in pysan
+Case 828: rewyamAna: in pysan
+Case 829: reqyamAna: in pysan
+Case 830: repyamARa: in pysan
+Case 831: rezyamARa: in pysan
+Case 832: rEyamARa: in pysan
+Case 833: rowyamAna: in pysan
+Case 834: roqyamAna: in pysan
+Case 835: rOwyamAna: in pysan
+Case 836: laKyamAna: in pysan
+Case 837: laCyamAna: in pysan
+Case 838: lajyamAna: in pysan
+Case 839: laYjyamAna: in pysan
+Case 840: lawyamAna: in pysan
+Case 841: laqyamAna: in pysan
+Case 842: laRqyamAna: in pysan
+Case 843: lamByamAna: in pysan
+Case 844: layyamAna: in pysan
+Case 845: lardyamAna: in pysan
+Case 846: larbyamARa: in pysan
+Case 847: lAkyamAna: in pysan
+Case 848: lAKyamAna: in pysan
+Case 849: lAgyamAna: in pysan
+Case 850: lAGyamAna: in pysan
+Case 851: lAjyamAna: in pysan
+Case 852: lAYjyamAna: in pysan
+Case 853: lAqyamAna: in pysan
+Case 854: lAByamAna: in pysan
+Case 855: lAyamAna: in pysan
+Case 856: lASyamAna: in pysan
+Case 857: lAzyamARa: in pysan
+Case 858: lAsyamAna: in pysan
+Case 859: liNKyamAna: in pysan
+Case 860: liNgyamAna: in pysan
+Case 861: luYcyamAna: in pysan
+Case 862: luwyamAna: in pysan
+Case 863: luqyamAna: in pysan
+Case 864: luRwyamAna: in pysan
+Case 865: lunTyamAna: in pysan
+Case 866: lumbyamAna: in pysan
+Case 867: luzyamARa: in pysan
+Case 868: lUzyamARa: in pysan
+Case 869: lepyamAna: in pysan
+Case 870: lERyamAna: in pysan
+Case 871: lowyamAna: in pysan
+Case 872: loWyamAna: in pysan
+Case 873: lozwyamAna: in pysan
+Case 874: lOqyamAna: in pysan
+Case 875: lpIyamAna: in pysan
+Case 876: lvIyamAna: in pysan
+Case 877: vakkyamAna: in pysan
+Case 878: vakyamAna: in pysan
+Case 879: vakzyamARa: in pysan
+Case 880: vaKyamAna: in pysan
+Case 881: vaNKyamAna: in pysan
+Case 882: vaNgyamAna: in pysan
+Case 883: vaNGyamAna: in pysan
+Case 884: vajyamAna: in pysan
+Case 885: vaYcyamAna: in pysan
+Case 886: vawwyamAna: in pysan
+Case 887: vawyamAna: in pysan
+Case 888: vaWyamAna: in pysan
+Case 889: vaqQyamAna: in pysan
+Case 890: vaRwyamAna: in pysan
+Case 891: vaRWyamAna: in pysan
+Case 892: vaRqyamAna: in pysan
+Case 893: vaRyamAna: in pysan
+Case 894: vaBryamARa: in pysan
+Case 895: vayyamAna: in pysan
+Case 896: varcyamAna: in pysan
+Case 897: varRyamAna: in pysan
+Case 898: varDyamAna: in pysan
+Case 899: varPyamARa: in pysan
+Case 900: valkyamAna: in pysan
+Case 901: valByamAna: in pysan
+Case 902: vallyamAna: in pysan
+Case 903: valhyamAna: in pysan
+Case 904: vazkyamARa: in pysan
+Case 905: vazyamARa: in pysan
+Case 906: vaskyamAna: in pysan
+Case 907: vastyamAna: in pysan
+Case 908: vANkzyamARa: in pysan
+Case 909: vAtyamAna: in pysan
+Case 910: vAyamAna: in pysan
+Case 911: vAvftyamAna: in pysan
+Case 912: vAsyamAna: in pysan
+Case 913: vAhyamAna: in pysan
+Case 914: viwyamAna: in pysan
+Case 915: viqyamAna: in pysan
+Case 916: viRwyamAna: in pysan
+Case 917: viTyamAna: in pysan
+Case 918: vipyamAna: in pysan
+Case 919: vilyamAna: in pysan
+Case 920: vizkyamARa: in pysan
+Case 921: vIryamARa: in pysan
+Case 922: vuRwyamAna: in pysan
+Case 923: vUryamARa: in pysan
+Case 924: vfMhyamARa: in pysan
+Case 925: vfkyamARa: in pysan
+Case 926: vfkzyamARa: in pysan
+Case 927: vfRyamAna: in pysan
+Case 928: vfSyamAna: in pysan
+Case 929: vekzyamARa: in pysan
+Case 930: veCyamAna: in pysan
+Case 931: vewyyamAna: in pysan
+Case 932: veDyamAna: in pysan
+Case 933: vepyamAna: in pysan
+Case 934: velyamAna: in pysan
+Case 935: vellyamAna: in pysan
+Case 936: vevIyamAna: in pysan
+Case 937: vesyamAna: in pysan
+Case 938: vehyamAna: in pysan
+Case 939: vehlyamAna: in pysan
+Case 940: vEyamAna: in pysan
+Case 941: vyayyamAna: in pysan
+Case 942: vyApyamAna: in pysan
+Case 943: vyuzyamARa: in pysan
+Case 944: vyozyamARa: in pysan
+Case 945: vraRyamAna: in pysan
+Case 946: vrAjyamAna: in pysan
+Case 947: vrARyamAna: in pysan
+Case 948: vrIyamARa: in pysan
+Case 949: vruqyamAna: in pysan
+Case 950: vlIyamAna: in pysan
+Case 951: SaMsyamAna: in pysan
+Case 952: SacyamAna: in pysan
+Case 953: SawyamAna: in pysan
+Case 954: SaWyamAna: in pysan
+Case 955: SaRqyamAna: in pysan
+Case 956: SaRyamAna: in pysan
+Case 957: SabdyamAna: in pysan
+Case 958: SambyamAna: in pysan
+Case 959: SarbyamARa: in pysan
+Case 960: SarvyamARa: in pysan
+Case 961: SalByamAna: in pysan
+Case 962: SavyamAna: in pysan
+Case 963: SazyamARa: in pysan
+Case 964: SAKyamAna: in pysan
+Case 965: SAwyamAna: in pysan
+Case 966: SAWyamAna: in pysan
+Case 967: SAqyamAna: in pysan
+Case 968: SARyamAna: in pysan
+Case 969: SAlyamAna: in pysan
+Case 970: SiNKyamAna: in pysan
+Case 971: SiNGyamAna: in pysan
+Case 972: SiYjyamAna: in pysan
+Case 973: SiwyamAna: in pysan
+Case 974: SimyamAna: in pysan
+Case 975: SilyamAna: in pysan
+Case 976: SIkyamAna: in pysan
+Case 977: SIByamAna: in pysan
+Case 978: SukyamAna: in pysan
+Case 979: SucyyamAna: in pysan
+Case 980: SuWyamAna: in pysan
+Case 981: SuRWyamAna: in pysan
+Case 982: SuRqyamAna: in pysan
+Case 983: SunyamAna: in pysan
+Case 984: SulkyamAna: in pysan
+Case 985: SulbyamAna: in pysan
+Case 986: SUrpyamARa: in pysan
+Case 987: SUryamARa: in pysan
+Case 988: SUlyamAna: in pysan
+Case 989: SUzyamARa: in pysan
+Case 990: SfDyamAna: in pysan
+Case 991: SelyamAna: in pysan
+Case 992: SevyamAna: in pysan
+Case 993: SoWyamAna: in pysan
+Case 994: SoRyamAna: in pysan
+Case 995: SoyamAna: in pysan
+Case 996: SOwyamAna: in pysan
+Case 997: ScyutyamAna: in pysan
+Case 998: SnaTyamAna: in pysan
+Case 999: SmIlyamAna: in pysan
+Case 1000: SyAyamAna: in pysan
+Case 1001: SraNkyamARa: in pysan
+Case 1002: SraNgyamARa: in pysan
+Case 1003: SraRyamAna: in pysan
+Case 1004: SraTyamAna: in pysan
+Case 1005: SramByamARa: in pysan
+Case 1006: SrARyamAna: in pysan
+Case 1007: SrAyamARa: in pysan
+Case 1008: SrizyamARa: in pysan
+Case 1009: SroRyamAna: in pysan
+Case 1010: SlaNkyamAna: in pysan
+Case 1011: SlaNgyamAna: in pysan
+Case 1012: SlaTyamAna: in pysan
+Case 1013: SlAKyamAna: in pysan
+Case 1014: SlokyamAna: in pysan
+Case 1015: SloRyamAna: in pysan
+Case 1016: SvaNkyamAna: in pysan
+Case 1017: SvaNgyamAna: in pysan
+Case 1018: SvacyamAna: in pysan
+Case 1019: SvajyamAna: in pysan
+Case 1020: SvaBryamARa: in pysan
+Case 1021: SvalkyamAna: in pysan
+Case 1022: SvalyamAna: in pysan
+Case 1023: SvAWyamAna: in pysan
+Case 1024: SvAtryamARa: in pysan
+Case 1025: SvindyamAna: in pysan
+Case 1026: zawwyamAna: in pysan
+Case 1027: zazkyamARa: in pysan
+Case 1028: zukkyamARa: in pysan
+Case 1029: zWivyamAna: in pysan
+Case 1030: zvakkyamARa: in pysan
+Case 1031: zvazkyamARa: in pysan
+Case 1032: sakzyamARa: in pysan
+Case 1033: sagyamAna: in pysan
+Case 1034: saGyamAna: in pysan
+Case 1035: sajjyamAna: in pysan
+Case 1036: sawwyamAna: in pysan
+Case 1037: sawyamAna: in pysan
+Case 1038: satryamARa: in pysan
+Case 1039: saBAjyamAna: in pysan
+Case 1040: samyamAna: in pysan
+Case 1041: sayyamAna: in pysan
+Case 1042: sarjyamAna: in pysan
+Case 1043: sarbyamARa: in pysan
+Case 1044: salyamAna: in pysan
+Case 1045: sasyamAna: in pysan
+Case 1046: sAkzyamARa: in pysan
+Case 1047: sAwyamAna: in pysan
+Case 1048: sAWyamAna: in pysan
+Case 1049: sADyamAna: in pysan
+Case 1050: sAntvyamAna: in pysan
+Case 1051: sAmayyamAna: in pysan
+Case 1052: sAmyamAna: in pysan
+Case 1053: sAyamAna: in pysan
+Case 1054: sAryamARa: in pysan
+Case 1055: sAhyamAna: in pysan
+Case 1056: siwyamAna: in pysan
+Case 1057: sivyamAna: in pysan
+Case 1058: sIryamARa: in pysan
+Case 1059: suKyamAna: in pysan
+Case 1060: suwwyamAna: in pysan
+Case 1061: suByamAna: in pysan
+Case 1062: suhyamAna: in pysan
+Case 1063: sUtryamARa: in pysan
+Case 1064: sUrkzyamARa: in pysan
+Case 1065: sUzyamARa: in pysan
+Case 1066: sfByamARa: in pysan
+Case 1067: sekyamAna: in pysan
+Case 1068: sEyamAna: in pysan
+Case 1069: soryamARa: in pysan
+Case 1070: skadyamAna: in pysan
+Case 1071: skanDyamAna: in pysan
+Case 1072: skundyamAna: in pysan
+Case 1073: skUyamAna: in pysan
+Case 1074: sKadyamAna: in pysan
+Case 1075: stakyamAna: in pysan
+Case 1076: staryamARa: in pysan
+Case 1077: stAyamAna: in pysan
+Case 1078: stiGyamAna: in pysan
+Case 1079: stipyamAna: in pysan
+Case 1080: stimyamAna: in pysan
+Case 1081: stucyamAna: in pysan
+Case 1082: stumByamAna: in pysan
+Case 1083: stUpyamAna: in pysan
+Case 1084: stfkzyamARa: in pysan
+Case 1085: stfhyamARa: in pysan
+Case 1086: stenyamAna: in pysan
+Case 1087: stepyamAna: in pysan
+Case 1088: styAyamAna: in pysan
+Case 1089: sTagyamAna: in pysan
+Case 1090: sTalyamAna: in pysan
+Case 1091: sTiryamARa: in pysan
+Case 1092: sTuqyamAna: in pysan
+Case 1093: sTUlyamAna: in pysan
+Case 1094: snAyamAna: in pysan
+Case 1095: snucyamAna: in pysan
+Case 1096: snusyamAna: in pysan
+Case 1097: snewyamAna: in pysan
+Case 1098: sparyamARa: in pysan
+Case 1099: sparzyamARa: in pysan
+Case 1100: spaSyamAna: in pysan
+Case 1101: spASyamAna: in pysan
+Case 1102: spUryamARa: in pysan
+Case 1103: spfhyamARa: in pysan
+Case 1104: sPawyamAna: in pysan
+Case 1105: sPaRqyamAna: in pysan
+Case 1106: sParyamARa: in pysan
+Case 1107: sPAwyamAna: in pysan
+Case 1108: sPAyyamAna: in pysan
+Case 1109: sPiwwyamAna: in pysan
+Case 1110: sPuwwyamAna: in pysan
+Case 1111: sPuqyamAna: in pysan
+Case 1112: sPuRwyamAna: in pysan
+Case 1113: sPuRqyamAna: in pysan
+Case 1114: sPulyamAna: in pysan
+Case 1115: sPUrCyamAna: in pysan
+Case 1116: sPUrjyamAna: in pysan
+Case 1117: sPewyamAna: in pysan
+Case 1118: smewyamAna: in pysan
+Case 1119: syadyamAna: in pysan
+Case 1120: syamyamAna: in pysan
+Case 1121: sraMhyamARa: in pysan
+Case 1122: srasyamAna: in pysan
+Case 1123: sriDyamAna: in pysan
+Case 1124: sriByamARa: in pysan
+Case 1125: srivyamARa: in pysan
+Case 1126: srUyamARa: in pysan
+Case 1127: srekyamARa: in pysan
+Case 1128: svaNgyamAna: in pysan
+Case 1129: svardyamAna: in pysan
+Case 1130: hawyamAna: in pysan
+Case 1131: hammyamAna: in pysan
+Case 1132: hayyamAna: in pysan
+Case 1133: halyamAna: in pysan
+Case 1134: hiRqyamAna: in pysan
+Case 1135: hilyamAna: in pysan
+Case 1136: huqyamAna: in pysan
+Case 1137: hurCyamAna: in pysan
+Case 1138: hulyamAna: in pysan
+Case 1139: hUqyamAna: in pysan
+Case 1140: heWyamAna: in pysan
+Case 1141: heqyamAna: in pysan
+Case 1142: heQyamAna: in pysan
+Case 1143: hezyamARa: in pysan
+Case 1144: hoqyamAna: in pysan
+Case 1145: hmalyamAna: in pysan
+Case 1146: hragyamARa: in pysan
+Case 1147: hrICyamAna: in pysan
+Case 1148: hrIyamARa: in pysan
+Case 1149: hruqyamAna: in pysan
+Case 1150: hrUyamARa: in pysan
+Case 1151: hrepyamARa: in pysan
+Case 1152: hrezyamARa: in pysan
+Case 1153: hrOqyamAna: in pysan
+Case 1154: hlagyamAna: in pysan
+Case 1155: hlasyamAna: in pysan
+Case 1156: hlApyamAna: in pysan
+--------------------------------------------------
+49 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: inyamAna: in huet
+Case 02: IrzyamARa: in huet
+Case 03: utkaRWyamAna: in huet
+Case 04: uruzyamARa: in huet
+Case 05: krucyamAna: in huet
+Case 06: klIbayamAna: in huet
+Case 07: kzanyamAna: in huet
+Case 08: kzuyamARa: in huet
+Case 09: KIyamAna: in huet
+Case 10: gavezyamARa: in huet
+Case 11: glIyamAna: in huet
+Case 12: GrIyamARa: in huet
+Case 13: cacyamAna: in huet
+Case 14: curyamARa: in huet
+Case 15: cyUyamAna: in huet
+Case 16: CandyamAna: in huet
+Case 17: jUyamAna: in huet
+Case 18: jvaryamARa: in huet
+Case 19: tacyamAna: in huet
+Case 20: trIyamARa: in huet
+Case 21: drIyamARa: in huet
+Case 22: DvasyamAna: in huet
+Case 23: pijyamAna: in huet
+Case 24: pUlayamAna: in huet
+Case 25: pfcCyamAna: in huet
+Case 26: pluyamAna: in huet
+Case 27: bahyamAna: in huet
+Case 28: brUyamARa: in huet
+Case 29: BfjjyamAna: in huet
+Case 30: mUrCyamAna: in huet
+Case 31: mlIyamAna: in huet
+Case 32: mlecCyamAna: in huet
+Case 33: lucyamAna: in huet
+Case 34: luRWyamAna: in huet
+Case 35: lulyamAna: in huet
+Case 36: leleyamAna: in huet
+Case 37: vacyamAna: in huet
+Case 38: vrajyamAna: in huet
+Case 39: SAyamAna: in huet
+Case 40: zWIvyamAna: in huet
+Case 41: skandyamAna: in huet
+Case 42: stIyamAna: in huet
+Case 43: stIryamARa: in huet
+Case 44: snIyamAna: in huet
+Case 45: sparhyamARa: in huet
+Case 46: sPIyamAna: in huet
+Case 47: syandyamAna: in huet
+Case 48: sraMsyamAna: in huet
+Case 49: sruyamARa: in huet
