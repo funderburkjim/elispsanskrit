@@ -1,0 +1,793 @@
+--------------------------------------------------
+163 cases of IDENTICAL STEMS
+--------------------------------------------------
+Case 01: AnaSAna:A identical in BOTH
+Case 02: IjAna:A identical in BOTH
+Case 03: UdAna:A identical in BOTH
+Case 04: UpAna:A identical in BOTH
+Case 05: UhAna:A identical in BOTH
+Case 06: cakatTAna:A identical in BOTH
+Case 07: cakampAna:A identical in BOTH
+Case 08: cakASAna:A identical in BOTH
+Case 09: cakfpARa:A identical in BOTH
+Case 10: cakfzARa:A identical in BOTH
+Case 11: cakxpAna:A identical in BOTH
+Case 12: cakramARa:A identical in BOTH
+Case 13: cakrARa:A identical in BOTH
+Case 14: caklavAna:A identical in BOTH
+Case 15: cakzadAna:A identical in BOTH
+Case 16: cakzapARa:A identical in BOTH
+Case 17: cakzamARa:A identical in BOTH
+Case 18: caKaRqAna:A identical in BOTH
+Case 19: cacakzARa:A identical in BOTH
+Case 20: cikyAna:A identical in BOTH
+Case 21: ciklIbAna:A identical in BOTH
+Case 22: cicezwAna:A identical in BOTH
+Case 23: cicCidAna:A identical in BOTH
+Case 24: cukuRqAna:A identical in BOTH
+Case 25: cukzudAna:A identical in BOTH
+Case 26: cucudAna:A identical in BOTH
+Case 27: cucUzARa:A identical in BOTH
+Case 28: cetAna:A identical in BOTH
+Case 29: jagarhARa:A identical in BOTH
+Case 30: jagalBAna:A identical in BOTH
+Case 31: jagAhAna:A identical in BOTH
+Case 32: jagrasAna:A identical in BOTH
+Case 33: jaGawAna:A identical in BOTH
+Case 34: jaGawwAna:A identical in BOTH
+Case 35: jajfmBARa:A identical in BOTH
+Case 36: jajYAna:A identical in BOTH
+Case 37: jahadAna:A identical in BOTH
+Case 38: jahAna:A identical in BOTH
+Case 39: jahrARa:A identical in BOTH
+Case 40: jahrAdAna:A identical in BOTH
+Case 41: jahlAdAna:A identical in BOTH
+Case 42: jigyAna:A identical in BOTH
+Case 43: jihikkAna:A identical in BOTH
+Case 44: jugurARa:A identical in BOTH
+Case 45: juGUrRAna:A identical in BOTH
+Case 46: jujuzARa:A identical in BOTH
+Case 47: jujyutAna:A identical in BOTH
+Case 48: juhuRqAna:A identical in BOTH
+Case 49: qiqyAna:A identical in BOTH
+Case 50: tataYcAna:A identical in BOTH
+Case 51: tatfdAna:A identical in BOTH
+Case 52: tatrARa:A identical in BOTH
+Case 53: tatvarARa:A identical in BOTH
+Case 54: tastarARa:A identical in BOTH
+Case 55: tasTAna:A identical in BOTH
+Case 56: titijAna:A identical in BOTH
+Case 57: titvizARa:A identical in BOTH
+Case 58: tenAna:A identical in BOTH
+Case 59: tepAna:A identical in BOTH
+Case 60: dadAna:A identical in BOTH
+Case 61: dadrARa:A identical in BOTH
+Case 62: daDAna:A identical in BOTH
+Case 63: daDAvAna:A identical in BOTH
+Case 64: daDrARa:A identical in BOTH
+Case 65: daDvaMsAna:A identical in BOTH
+Case 66: didihAna:A identical in BOTH
+Case 67: didIkzARa:A identical in BOTH
+Case 68: didIpAna:A identical in BOTH
+Case 69: didyutAna:A identical in BOTH
+Case 70: didvizARa:A identical in BOTH
+Case 71: diDyAna:A identical in BOTH
+Case 72: duduhAna:A identical in BOTH
+Case 73: duDukzARa:A identical in BOTH
+Case 74: nanakzARa:A identical in BOTH
+Case 75: nanATAna:A identical in BOTH
+Case 76: niniYjAna:A identical in BOTH
+Case 77: ninyAna:A identical in BOTH
+Case 78: nunudAna:A identical in BOTH
+Case 79: nehAna:A identical in BOTH
+Case 80: papraTAna:A identical in BOTH
+Case 81: paspandAna:A identical in BOTH
+Case 82: pipiYjAna:A identical in BOTH
+Case 83: pipyAna:A identical in BOTH
+Case 84: pecAna:A identical in BOTH
+Case 85: peRAna:A identical in BOTH
+Case 86: petAna:A identical in BOTH
+Case 87: pedAna:A identical in BOTH
+Case 88: babaMhAna:A identical in BOTH
+Case 89: babADAna:A identical in BOTH
+Case 90: baBaRqAna:A identical in BOTH
+Case 91: baBandAna:A identical in BOTH
+Case 92: baBAzARa:A identical in BOTH
+Case 93: baBAsAna:A identical in BOTH
+Case 94: baBfjAna:A identical in BOTH
+Case 95: baBraMSAna:A identical in BOTH
+Case 96: baBrAjAna:A identical in BOTH
+Case 97: baBrARa:A identical in BOTH
+Case 98: biBidAna:A identical in BOTH
+Case 99: bubuDAna:A identical in BOTH
+Case 100: buBujAna:A identical in BOTH
+Case 101: BejAna:A identical in BOTH
+Case 102: mamandAna:A identical in BOTH
+Case 103: mamAna:A identical in BOTH
+Case 104: mamfDAna:A identical in BOTH
+Case 105: mamfzARa:A identical in BOTH
+Case 106: mamrARa:A identical in BOTH
+Case 107: mimiTAna:A identical in BOTH
+Case 108: mimidAna:A identical in BOTH
+Case 109: mimilAna:A identical in BOTH
+Case 110: mimyAna:A identical in BOTH
+Case 111: mumucAna:A identical in BOTH
+Case 112: mumudAna:A identical in BOTH
+Case 113: menAna:A identical in BOTH
+Case 114: yayAcAna:A identical in BOTH
+Case 115: yuyujAna:A identical in BOTH
+Case 116: yuyuDAna:A identical in BOTH
+Case 117: yetAna:A identical in BOTH
+Case 118: raraYjAna:A identical in BOTH
+Case 119: rarAjAna:A identical in BOTH
+Case 120: riricAna:A identical in BOTH
+Case 121: rurucAna:A identical in BOTH
+Case 122: ruruDAna:A identical in BOTH
+Case 123: reBARa:A identical in BOTH
+Case 124: remARa:A identical in BOTH
+Case 125: lalaNGAna:A identical in BOTH
+Case 126: lalajjAna:A identical in BOTH
+Case 127: lalambAna:A identical in BOTH
+Case 128: lilipAna:A identical in BOTH
+Case 129: lilyAna:A identical in BOTH
+Case 130: lulupAna:A identical in BOTH
+Case 131: leBAna:A identical in BOTH
+Case 132: lezARa:A identical in BOTH
+Case 133: vavandAna:A identical in BOTH
+Case 134: vavalAna:A identical in BOTH
+Case 135: vavASAna:A identical in BOTH
+Case 136: vavftAna:A identical in BOTH
+Case 137: vavfDAna:A identical in BOTH
+Case 138: vavrARa:A identical in BOTH
+Case 139: vivicAna:A identical in BOTH
+Case 140: vivijAna:A identical in BOTH
+Case 141: vivipAna:A identical in BOTH
+Case 142: vivIjAna:A identical in BOTH
+Case 143: vivyaTAna:A identical in BOTH
+Case 144: vivyAna:A identical in BOTH
+Case 145: vivrIqAna:A identical in BOTH
+Case 146: SaSaNkAna:A identical in BOTH
+Case 147: SaSAna:A identical in BOTH
+Case 148: SaSramBARa:A identical in BOTH
+Case 149: SaSlAGAna:A identical in BOTH
+Case 150: SiSikzARa:A identical in BOTH
+Case 151: SiSyAna:A identical in BOTH
+Case 152: SiSvitAna:A identical in BOTH
+Case 153: SuSuBAna:A identical in BOTH
+Case 154: SedAna:A identical in BOTH
+Case 155: SepAna:A identical in BOTH
+Case 156: sasraMsAna:A identical in BOTH
+Case 157: sasvajAna:A identical in BOTH
+Case 158: sasvadAna:A identical in BOTH
+Case 159: sizicAna:A identical in BOTH
+Case 160: sizevARa:A identical in BOTH
+Case 161: sizvidAna:A identical in BOTH
+Case 162: secAna:A identical in BOTH
+Case 163: sehAna:A identical in BOTH
+--------------------------------------------------
+520 cases of STEM IN PYSAN ONLY
+--------------------------------------------------
+Case 01: ayejAna:A in pysan
+Case 02: ayeWAna:A in pysan
+Case 03: ayeDAna:A in pysan
+Case 04: ayezARa:A in pysan
+Case 05: AkAna:A in pysan
+Case 06: AGAna:A in pysan
+Case 07: AcAna:A in pysan
+Case 08: AjAna:A in pysan
+Case 09: AwAna:A in pysan
+Case 10: AWAna:A in pysan
+Case 11: ARAna:A in pysan
+Case 12: AtAna:A in pysan
+Case 13: AnaMhAna:A in pysan
+Case 14: AnakzARa:A in pysan
+Case 15: AnawwAna:A in pysan
+Case 16: AnarTAna:A in pysan
+Case 17: AnardAna:A in pysan
+Case 18: AnfjAna:A in pysan
+Case 19: AnfYjAna:A in pysan
+Case 20: AnfRAna:A in pysan
+Case 21: AnftAna:A in pysan
+Case 22: AbAna:A in pysan
+Case 23: AyAna:A in pysan
+Case 24: AzARa:A in pysan
+Case 25: iyayAna:A in pysan
+Case 26: InDAna:A in pysan
+Case 27: uvAna:A in pysan
+Case 28: UkzARa:A in pysan
+Case 29: UrRunuvAna:A in pysan
+Case 30: UzARa:A in pysan
+Case 31: greTAna:A in pysan
+Case 32: cakaMsAna:A in pysan
+Case 33: cakakAna:A in pysan
+Case 34: cakaNkAna:A in pysan
+Case 35: cakaYcAna:A in pysan
+Case 36: cakaRWAna:A in pysan
+Case 37: cakaRqAna:A in pysan
+Case 38: cakadAna:A in pysan
+Case 39: cakabAna:A in pysan
+Case 40: cakamAna:A in pysan
+Case 41: cakalAna:A in pysan
+Case 42: cakallAna:A in pysan
+Case 43: cakavAna:A in pysan
+Case 44: cakazARa:A in pysan
+Case 45: cakAMsAna:A in pysan
+Case 46: cakAYcAna:A in pysan
+Case 47: cakirARa:A in pysan
+Case 48: cakrandAna:A in pysan
+Case 49: cakrapARa:A in pysan
+Case 50: caklamAna:A in pysan
+Case 51: cakvaTAna:A in pysan
+Case 52: cakzajAna:A in pysan
+Case 53: cakzampARa:A in pysan
+Case 54: cakzmAyARa:A in pysan
+Case 55: caKallAna:A in pysan
+Case 56: cacaRqAna:A in pysan
+Case 57: cacandAna:A in pysan
+Case 58: cacambAna:A in pysan
+Case 59: cacarGARa:A in pysan
+Case 60: cacarcAna:A in pysan
+Case 61: cacarbARa:A in pysan
+Case 62: cacftAna:A in pysan
+Case 63: caCadAna:A in pysan
+Case 64: caCamAna:A in pysan
+Case 65: caCazARa:A in pysan
+Case 66: caCAna:A in pysan
+Case 67: caCfdAna:A in pysan
+Case 68: caCfpARa:A in pysan
+Case 69: casKadAna:A in pysan
+Case 70: cikitAna:A in pysan
+Case 71: cikIlAna:A in pysan
+Case 72: cikepAna:A in pysan
+Case 73: cikevAna:A in pysan
+Case 74: cikriyARa:A in pysan
+Case 75: ciklidAna:A in pysan
+Case 76: ciklindAna:A in pysan
+Case 77: cikleSAna:A in pysan
+Case 78: cikziRAna:A in pysan
+Case 79: cikzIvARa:A in pysan
+Case 80: cikzviqAna:A in pysan
+Case 81: cikzvidAna:A in pysan
+Case 82: ciKidAna:A in pysan
+Case 83: cicitAna:A in pysan
+Case 84: cicilAna:A in pysan
+Case 85: cicIkAna:A in pysan
+Case 86: cicIvAna:A in pysan
+Case 87: cicelAna:A in pysan
+Case 88: cukuMSAna:A in pysan
+Case 89: cukukAna:A in pysan
+Case 90: cukuTAna:A in pysan
+Case 91: cukunTAna:A in pysan
+Case 92: cukupAna:A in pysan
+Case 93: cukumbAna:A in pysan
+Case 94: cukulAna:A in pysan
+Case 95: cukuvAna:A in pysan
+Case 96: cukuzARa:A in pysan
+Case 97: cukURAna:A in pysan
+Case 98: cukUrdAna:A in pysan
+Case 99: cuknuvAna:A in pysan
+Case 100: cuknUyAna:A in pysan
+Case 101: cukzuBARa:A in pysan
+Case 102: cuKujAna:A in pysan
+Case 103: cuKuRqAna:A in pysan
+Case 104: cuKurdAna:A in pysan
+Case 105: cuKuvAna:A in pysan
+Case 106: cucuwAna:A in pysan
+Case 107: cucuqAna:A in pysan
+Case 108: cucuqqAna:A in pysan
+Case 109: cucuRAna:A in pysan
+Case 110: cucutAna:A in pysan
+Case 111: cucupAna:A in pysan
+Case 112: cucumbAna:A in pysan
+Case 113: cucUrARa:A in pysan
+Case 114: cucyutAna:A in pysan
+Case 115: cuCuwAna:A in pysan
+Case 116: cuCuqAna:A in pysan
+Case 117: cuCupAna:A in pysan
+Case 118: cuCurARa:A in pysan
+Case 119: cuskundAna:A in pysan
+Case 120: cuskuvAna:A in pysan
+Case 121: cekAna:A in pysan
+Case 122: ceGAna:A in pysan
+Case 123: cedAna:A in pysan
+Case 124: cenAna:A in pysan
+Case 125: cepAna:A in pysan
+Case 126: cemAna:A in pysan
+Case 127: ceyAna:A in pysan
+Case 128: cerARa:A in pysan
+Case 129: celAna:A in pysan
+Case 130: cehAna:A in pysan
+Case 131: jagaDAna:A in pysan
+Case 132: jagADAna:A in pysan
+Case 133: jagAna:A in pysan
+Case 134: jagirARa:A in pysan
+Case 135: jaglasAna:A in pysan
+Case 136: jaGaMzARa:A in pysan
+Case 137: jaGaRAna:A in pysan
+Case 138: jaGaRwAna:A in pysan
+Case 139: jaGambAna:A in pysan
+Case 140: jaGfRAna:A in pysan
+Case 141: jaGfRRAna:A in pysan
+Case 142: jaGrARa:A in pysan
+Case 143: jajaMsAna:A in pysan
+Case 144: jajamBAna:A in pysan
+Case 145: jajarcAna:A in pysan
+Case 146: jajarCAna:A in pysan
+Case 147: jajarjAna:A in pysan
+Case 148: jajartsAna:A in pysan
+Case 149: jajalpAna:A in pysan
+Case 150: jajAgrARa:A in pysan
+Case 151: jajAna:A in pysan
+Case 152: jajirARa:A in pysan
+Case 153: jajyAna:A in pysan
+Case 154: jajrARa:A in pysan
+Case 155: jaJawAna:A in pysan
+Case 156: jaJarcAna:A in pysan
+Case 157: jaJazARa:A in pysan
+Case 158: jaJirARa:A in pysan
+Case 159: jahfzARa:A in pysan
+Case 160: jahrasAna:A in pysan
+Case 161: jahlagAna:A in pysan
+Case 162: jahvAna:A in pysan
+Case 163: jigepAna:A in pysan
+Case 164: jigevAna:A in pysan
+Case 165: jigezARa:A in pysan
+Case 166: jiglepAna:A in pysan
+Case 167: jiglevAna:A in pysan
+Case 168: jiglezARa:A in pysan
+Case 169: jiGiRRAna:A in pysan
+Case 170: jijimAna:A in pysan
+Case 171: jijizARa:A in pysan
+Case 172: jijIvAna:A in pysan
+Case 173: jijezARa:A in pysan
+Case 174: jijehAna:A in pysan
+Case 175: jijyAna:A in pysan
+Case 176: jijriyARa:A in pysan
+Case 177: jihiRqAna:A in pysan
+Case 178: jiheWAna:A in pysan
+Case 179: jiheqAna:A in pysan
+Case 180: jihezARa:A in pysan
+Case 181: jihrepARa:A in pysan
+Case 182: jihrezARa:A in pysan
+Case 183: jugudAna:A in pysan
+Case 184: juguDAna:A in pysan
+Case 185: juguPAna:A in pysan
+Case 186: jugurdAna:A in pysan
+Case 187: juguvAna:A in pysan
+Case 188: juguhAna:A in pysan
+Case 189: juGuwAna:A in pysan
+Case 190: juGuRAna:A in pysan
+Case 191: juGuRRAna:A in pysan
+Case 192: juGuvAna:A in pysan
+Case 193: juGUrARa:A in pysan
+Case 194: jujuNgAna:A in pysan
+Case 195: jujuwAna:A in pysan
+Case 196: jujuqAna:A in pysan
+Case 197: jujunAna:A in pysan
+Case 198: jujUrARa:A in pysan
+Case 199: juJuvAna:A in pysan
+Case 200: juJyuvAna:A in pysan
+Case 201: juhoqAna:A in pysan
+Case 202: juhnuvAna:A in pysan
+Case 203: jepAna:A in pysan
+Case 204: jemAna:A in pysan
+Case 205: jelAna:A in pysan
+Case 206: YuNuvAna:A in pysan
+Case 207: wiwikAna:A in pysan
+Case 208: wiwIkAna:A in pysan
+Case 209: wuwOkAna:A in pysan
+Case 210: quQOkAna:A in pysan
+Case 211: tatakzARa:A in pysan
+Case 212: tataNgAna:A in pysan
+Case 213: tataRqAna:A in pysan
+Case 214: tatandAna:A in pysan
+Case 215: tatarjAna:A in pysan
+Case 216: tatAyAna:A in pysan
+Case 217: tatirARa:A in pysan
+Case 218: tatfkzARa:A in pysan
+Case 219: tatfRAna:A in pysan
+Case 220: tatfpARa:A in pysan
+Case 221: tatfPARa:A in pysan
+Case 222: tatfmpARa:A in pysan
+Case 223: tatfmPARa:A in pysan
+Case 224: tatfzARa:A in pysan
+Case 225: tatfhARa:A in pysan
+Case 226: tatyajAna:A in pysan
+Case 227: tatraMsAna:A in pysan
+Case 228: tatraKARa:A in pysan
+Case 229: tatrandAna:A in pysan
+Case 230: tatrasAna:A in pysan
+Case 231: tatvakzARa:A in pysan
+Case 232: tatvaNgAna:A in pysan
+Case 233: tatvacAna:A in pysan
+Case 234: tatvaYcAna:A in pysan
+Case 235: tatsarARa:A in pysan
+Case 236: tastamBAna:A in pysan
+Case 237: titikAna:A in pysan
+Case 238: titigAna:A in pysan
+Case 239: titiGAna:A in pysan
+Case 240: titilAna:A in pysan
+Case 241: titIkAna:A in pysan
+Case 242: titImAna:A in pysan
+Case 243: titIvAna:A in pysan
+Case 244: titepAna:A in pysan
+Case 245: titevAna:A in pysan
+Case 246: tizwipAna:A in pysan
+Case 247: tizwepAna:A in pysan
+Case 248: tutujAna:A in pysan
+Case 249: tutuwAna:A in pysan
+Case 250: tutuqAna:A in pysan
+Case 251: tutuRqAna:A in pysan
+Case 252: tutundAna:A in pysan
+Case 253: tutupAna:A in pysan
+Case 254: tutuBAna:A in pysan
+Case 255: tutumpAna:A in pysan
+Case 256: tutumbAna:A in pysan
+Case 257: tuturARa:A in pysan
+Case 258: tutuvAna:A in pysan
+Case 259: tutuSAna:A in pysan
+Case 260: tutuzARa:A in pysan
+Case 261: tutusAna:A in pysan
+Case 262: tutuhAna:A in pysan
+Case 263: tutUqAna:A in pysan
+Case 264: tutUlAna:A in pysan
+Case 265: tutUzARa:A in pysan
+Case 266: tutoqAna:A in pysan
+Case 267: tutruwAna:A in pysan
+Case 268: tutrupARa:A in pysan
+Case 269: tutruPARa:A in pysan
+Case 270: tutrumPARa:A in pysan
+Case 271: tutrOkARa:A in pysan
+Case 272: tuTuqAna:A in pysan
+Case 273: tuTurvARa:A in pysan
+Case 274: tuzwucAna:A in pysan
+Case 275: tuzwuBAna:A in pysan
+Case 276: tuzwuvAna:A in pysan
+Case 277: tekAna:A in pysan
+Case 278: temAna:A in pysan
+Case 279: teyAna:A in pysan
+Case 280: telAna:A in pysan
+Case 281: tesAna:A in pysan
+Case 282: trepARa:A in pysan
+Case 283: tresAna:A in pysan
+Case 284: dadaMSAna:A in pysan
+Case 285: dadaMsAna:A in pysan
+Case 286: dadaNGAna:A in pysan
+Case 287: dadadAna:A in pysan
+Case 288: dadamBAna:A in pysan
+Case 289: dadAnAna:A in pysan
+Case 290: dadAyAna:A in pysan
+Case 291: dadAsAna:A in pysan
+Case 292: dadirARa:A in pysan
+Case 293: dadfMhARa:A in pysan
+Case 294: dadfSAna:A in pysan
+Case 295: dadrAqAna:A in pysan
+Case 296: dadrAhARa:A in pysan
+Case 297: daDavAna:A in pysan
+Case 298: daDrasAna:A in pysan
+Case 299: digyAna:A in pysan
+Case 300: didipAna:A in pysan
+Case 301: didivAna:A in pysan
+Case 302: didIyAna:A in pysan
+Case 303: didrekARa:A in pysan
+Case 304: diDikzARa:A in pysan
+Case 305: diDIkzARa:A in pysan
+Case 306: diDrekARa:A in pysan
+Case 307: duduvAna:A in pysan
+Case 308: dudruqAna:A in pysan
+Case 309: dudrUqAna:A in pysan
+Case 310: duDuvAna:A in pysan
+Case 311: duDUrARa:A in pysan
+Case 312: deGAna:A in pysan
+Case 313: deDAna:A in pysan
+Case 314: deBAna:A in pysan
+Case 315: demAna:A in pysan
+Case 316: delAna:A in pysan
+Case 317: desAna:A in pysan
+Case 318: dehAna:A in pysan
+Case 319: nanADAna:A in pysan
+Case 320: nanAsAna:A in pysan
+Case 321: niniMsAna:A in pysan
+Case 322: ninijAna:A in pysan
+Case 323: nininvAna:A in pysan
+Case 324: ninezARa:A in pysan
+Case 325: nunuvAna:A in pysan
+Case 326: neKAna:A in pysan
+Case 327: nejAna:A in pysan
+Case 328: neBAna:A in pysan
+Case 329: neyAna:A in pysan
+Case 330: neSAna:A in pysan
+Case 331: nesAna:A in pysan
+Case 332: papaMSAna:A in pysan
+Case 333: papakzARa:A in pysan
+Case 334: papaRqAna:A in pysan
+Case 335: papardAna:A in pysan
+Case 336: paparzARa:A in pysan
+Case 337: papallAna:A in pysan
+Case 338: papAna:A in pysan
+Case 339: papAyAna:A in pysan
+Case 340: papfjAna:A in pysan
+Case 341: papfzARa:A in pysan
+Case 342: papyAna:A in pysan
+Case 343: papyAyAna:A in pysan
+Case 344: paprasAna:A in pysan
+Case 345: paplakzARa:A in pysan
+Case 346: paplabAna:A in pysan
+Case 347: pasparDAna:A in pysan
+Case 348: pasparzARa:A in pysan
+Case 349: paspaSAna:A in pysan
+Case 350: pasPAyAna:A in pysan
+Case 351: pipiMsAna:A in pysan
+Case 352: pipiRqAna:A in pysan
+Case 353: pipisAna:A in pysan
+Case 354: pipIlAna:A in pysan
+Case 355: pipebAna:A in pysan
+Case 356: pipevAna:A in pysan
+Case 357: pipezARa:A in pysan
+Case 358: pipriyARa:A in pysan
+Case 359: piprezARa:A in pysan
+Case 360: piplihAna:A in pysan
+Case 361: piplevAna:A in pysan
+Case 362: pupuvAna:A in pysan
+Case 363: pupoYCAna:A in pysan
+Case 364: pupruTAna:A in pysan
+Case 365: pupruvARa:A in pysan
+Case 366: pupruzARa:A in pysan
+Case 367: puproTAna:A in pysan
+Case 368: pupluvAna:A in pysan
+Case 369: pusPuRqAna:A in pysan
+Case 370: penAna:A in pysan
+Case 371: peyAna:A in pysan
+Case 372: pevAna:A in pysan
+Case 373: pezARa:A in pysan
+Case 374: pesAna:A in pysan
+Case 375: babarhARa:A in pysan
+Case 376: babAqAna:A in pysan
+Case 377: baBakzARa:A in pysan
+Case 378: baBalAna:A in pysan
+Case 379: baBAmAna:A in pysan
+Case 380: baBfkzARa:A in pysan
+Case 381: baByasAna:A in pysan
+Case 382: baBrakzARa:A in pysan
+Case 383: baBrajjAna:A in pysan
+Case 384: baBraSAna:A in pysan
+Case 385: baBrASAna:A in pysan
+Case 386: baBlASAna:A in pysan
+Case 387: bibisAna:A in pysan
+Case 388: bibIBAna:A in pysan
+Case 389: biBikzARa:A in pysan
+Case 390: biBezARa:A in pysan
+Case 391: biByAna:A in pysan
+Case 392: biBrezARa:A in pysan
+Case 393: bubudAna:A in pysan
+Case 394: bubundAna:A in pysan
+Case 395: bubunDAna:A in pysan
+Case 396: bubruvARa:A in pysan
+Case 397: buBuRqAna:A in pysan
+Case 398: BrejAna:A in pysan
+Case 399: BreSAna:A in pysan
+Case 400: BleSAna:A in pysan
+Case 401: mamaMhAna:A in pysan
+Case 402: mamaNkAna:A in pysan
+Case 403: mamaNgAna:A in pysan
+Case 404: mamaYcAna:A in pysan
+Case 405: mamaRWAna:A in pysan
+Case 406: mamallAna:A in pysan
+Case 407: mamaskAna:A in pysan
+Case 408: mamAqAna:A in pysan
+Case 409: mamAhAna:A in pysan
+Case 410: mamfCAna:A in pysan
+Case 411: mamradAna:A in pysan
+Case 412: mimiDAna:A in pysan
+Case 413: mimevAna:A in pysan
+Case 414: mimlevAna:A in pysan
+Case 415: mumuRqAna:A in pysan
+Case 416: mumuvAna:A in pysan
+Case 417: mumokzARa:A in pysan
+Case 418: mecAna:A in pysan
+Case 419: meyAna:A in pysan
+Case 420: melAna:A in pysan
+Case 421: yayakzARa:A in pysan
+Case 422: yuyutAna:A in pysan
+Case 423: raraNGARa:A in pysan
+Case 424: rarambARa:A in pysan
+Case 425: raramBARa:A in pysan
+Case 426: rarAGARa:A in pysan
+Case 427: rarAsAna:A in pysan
+Case 428: rirIvARa:A in pysan
+Case 429: rirekARa:A in pysan
+Case 430: rirejAna:A in pysan
+Case 431: rirewAna:A in pysan
+Case 432: rireqAna:A in pysan
+Case 433: rirepARa:A in pysan
+Case 434: rirezARa:A in pysan
+Case 435: ruruWAna:A in pysan
+Case 436: ruruvARa:A in pysan
+Case 437: rejAna:A in pysan
+Case 438: reyARa:A in pysan
+Case 439: lalakzARa:A in pysan
+Case 440: lalamBAna:A in pysan
+Case 441: lalAGAna:A in pysan
+Case 442: liliSAna:A in pysan
+Case 443: lilepAna:A in pysan
+Case 444: luluwAna:A in pysan
+Case 445: luluvAna:A in pysan
+Case 446: lulokAna:A in pysan
+Case 447: lulocAna:A in pysan
+Case 448: lulozwAna:A in pysan
+Case 449: lejAna:A in pysan
+Case 450: leyAna:A in pysan
+Case 451: lesAna:A in pysan
+Case 452: vavakAna:A in pysan
+Case 453: vavakkAna:A in pysan
+Case 454: vavaNGAna:A in pysan
+Case 455: vavawAna:A in pysan
+Case 456: vavaRWAna:A in pysan
+Case 457: vavaRqAna:A in pysan
+Case 458: vavanAna:A in pysan
+Case 459: vavayAna:A in pysan
+Case 460: vavarcAna:A in pysan
+Case 461: vavalBAna:A in pysan
+Case 462: vavalhAna:A in pysan
+Case 463: vavazkARa:A in pysan
+Case 464: vavaskAna:A in pysan
+Case 465: vavAna:A in pysan
+Case 466: vavAhAna:A in pysan
+Case 467: vavurARa:A in pysan
+Case 468: vavfkARa:A in pysan
+Case 469: vavfkzARa:A in pysan
+Case 470: vavfjAna:A in pysan
+Case 471: vavfRAna:A in pysan
+Case 472: vavyayAna:A in pysan
+Case 473: vidAna:A in pysan
+Case 474: viviTAna:A in pysan
+Case 475: viviDAna:A in pysan
+Case 476: viveDAna:A in pysan
+Case 477: vivepAna:A in pysan
+Case 478: vivezwAna:A in pysan
+Case 479: SaSaRqAna:A in pysan
+Case 480: SaSalBAna:A in pysan
+Case 481: SaSAqAna:A in pysan
+Case 482: SaSAlAna:A in pysan
+Case 483: SaSfDAna:A in pysan
+Case 484: SaSraNkARa:A in pysan
+Case 485: SaSrARa:A in pysan
+Case 486: SaSlaNkAna:A in pysan
+Case 487: SaSvaNkAna:A in pysan
+Case 488: SaSvacAna:A in pysan
+Case 489: SaSvajAna:A in pysan
+Case 490: SiSiYjAna:A in pysan
+Case 491: SiSIkAna:A in pysan
+Case 492: SiSIBAna:A in pysan
+Case 493: SiSevAna:A in pysan
+Case 494: SiSriyARa:A in pysan
+Case 495: SiSvindAna:A in pysan
+Case 496: SuSucAna:A in pysan
+Case 497: SuSuDAna:A in pysan
+Case 498: SuSUrARa:A in pysan
+Case 499: SuSlokAna:A in pysan
+Case 500: SecAna:A in pysan
+Case 501: SemAna:A in pysan
+Case 502: SelAna:A in pysan
+Case 503: zazvakkARa:A in pysan
+Case 504: zazvazkARa:A in pysan
+Case 505: zuzukkARa:A in pysan
+Case 506: sasADAna:A in pysan
+Case 507: sastyAna:A in pysan
+Case 508: sasyandAna:A in pysan
+Case 509: sasraMhARa:A in pysan
+Case 510: sasvardAna:A in pysan
+Case 511: sizekARa:A in pysan
+Case 512: sizmiyARa:A in pysan
+Case 513: sizyARa:A in pysan
+Case 514: sisrekARa:A in pysan
+Case 515: suzuvARa:A in pysan
+Case 516: suzUdAna:A in pysan
+Case 517: susnucAna:A in pysan
+Case 518: segAna:A in pysan
+Case 519: sedAna:A in pysan
+Case 520: seyAna:A in pysan
+--------------------------------------------------
+101 cases of STEM IN HUET ONLY
+--------------------------------------------------
+Case 01: arARa:A in huet
+Case 02: AnaYcAna:A in huet
+Case 03: AnaYjAna:A in huet
+Case 04: AnarhARa:A in huet
+Case 05: AsIna:A in huet
+Case 06: IkzARa:A in huet
+Case 07: INKAna:A in huet
+Case 08: IqAna:A in huet
+Case 09: IyAna:A in huet
+Case 10: IrARa:A in huet
+Case 11: ISAna:A in huet
+Case 12: IzARa:A in huet
+Case 13: IhAna:A in huet
+Case 14: UtkaRWAna:A in huet
+Case 15: UruzARa:A in huet
+Case 16: UvAna:A in huet
+Case 17: fjAna:A in huet
+Case 18: eDAna:A in huet
+Case 19: cakarARa:A in huet
+Case 20: cakANkzARa:A in huet
+Case 21: cakzanAna:A in huet
+Case 22: caKnAna:A in huet
+Case 23: cacaYcAna:A in huet
+Case 24: cacCadAna:A in huet
+Case 25: cacCandAna:A in huet
+Case 26: caskamBAna:A in huet
+Case 27: cikryARa:A in huet
+Case 28: cikzipARa:A in huet
+Case 29: cukucAna:A in huet
+Case 30: cukuRWAna:A in huet
+Case 31: cukutsAna:A in huet
+Case 32: cukvAna:A in huet
+Case 33: cucurARa:A in huet
+Case 34: cucyvAna:A in huet
+Case 35: jagavezARa:A in huet
+Case 36: jagfhARa:A in huet
+Case 37: jagmAna:A in huet
+Case 38: jaGnAna:A in huet
+Case 39: jajarARa:A in huet
+Case 40: jahvarARa:A in huet
+Case 41: jugUhAna:A in huet
+Case 42: jujvAna:A in huet
+Case 43: juhnvAna:A in huet
+Case 44: juhvAna:A in huet
+Case 45: jeBAna:A in huet
+Case 46: tatrapARa:A in huet
+Case 47: tastyAna:A in huet
+Case 48: tutudAna:A in huet
+Case 49: tuzwvAna:A in huet
+Case 50: dadakzARa:A in huet
+Case 51: dadASAna:A in huet
+Case 52: daDfzARa:A in huet
+Case 53: daDvANkzARa:A in huet
+Case 54: didiSAna:A in huet
+Case 55: didevAna:A in huet
+Case 56: duDvAna:A in huet
+Case 57: deyAna:A in huet
+Case 58: nemAna:A in huet
+Case 59: papalAyAna:A in huet
+Case 60: papfcAna:A in huet
+Case 61: papracCAna:A in huet
+Case 62: paspfDAna:A in huet
+Case 63: pasPAna:A in huet
+Case 64: pipryARa:A in huet
+Case 65: pupuTAna:A in huet
+Case 66: pupuzARa:A in huet
+Case 67: pupUyAna:A in huet
+Case 68: pupUlAna:A in huet
+Case 69: puprvARa:A in huet
+Case 70: pupluzARa:A in huet
+Case 71: puplvAna:A in huet
+Case 72: pupvAna:A in huet
+Case 73: puPullAna:A in huet
+Case 74: peWAna:A in huet
+Case 75: babanDAna:A in huet
+Case 76: baBUvAna:A in huet
+Case 77: mamfjAna:A in huet
+Case 78: mamfdAna:A in huet
+Case 79: mamokzARa:A in huet
+Case 80: mizmyARa:A in huet
+Case 81: mumUzARa:A in huet
+Case 82: mehAna:A in huet
+Case 83: yuyvAna:A in huet
+Case 84: rarADAna:A in huet
+Case 85: riryARa:A in huet
+Case 86: lalokAna:A in huet
+Case 87: lalocAna:A in huet
+Case 88: lilihAna:A in huet
+Case 89: luluYcAna:A in huet
+Case 90: luluWAna:A in huet
+Case 91: lulvAna:A in huet
+Case 92: vavenAna:A in huet
+Case 93: vavezwAna:A in huet
+Case 94: vividAna:A in huet
+Case 95: viviSAna:A in huet
+Case 96: vesAna:A in huet
+Case 97: SaSyAna:A in huet
+Case 98: SiSryARa:A in huet
+Case 99: sizyandAna:A in huet
+Case 100: suzvARa:A in huet
+Case 101: senAna:A in huet
