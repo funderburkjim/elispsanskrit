@@ -73,6 +73,6 @@ output is compare_decl_tables_ppftm.txt
 
 ## first summary
 
-See [issue#24](https://github.com/funderburkjim/elispsanskrit/issues/24) for some discussion of the comparison.
+See [issue#25](https://github.com/funderburkjim/elispsanskrit/issues/25) for some discussion of the comparison.
 
 
