@@ -1,0 +1,1834 @@
+--------------------------------------------------
+383 cases of ROOT HAS SAME FORMS IN HUET and PYSAN
+--------------------------------------------------
+Case 01: aYj:aNktum,aYjitum identical in BOTH
+Case 02: aw:awitum identical in BOTH
+Case 03: at:atitum identical in BOTH
+Case 04: ad:attum identical in BOTH
+Case 05: an:anitum identical in BOTH
+Case 06: ard:arditum identical in BOTH
+Case 07: arh:arhitum identical in BOTH
+Case 08: av:avitum identical in BOTH
+Case 09: Ap:Aptum identical in BOTH
+Case 10: As:Asitum identical in BOTH
+Case 11: i:etum identical in BOTH
+Case 12: ind:inditum identical in BOTH
+Case 13: inD:inDitum identical in BOTH
+Case 14: inv:invitum identical in BOTH
+Case 15: iz:ezitum,ezwum identical in BOTH
+Case 16: Ikz:Ikzitum identical in BOTH
+Case 17: INK:INKitum identical in BOTH
+Case 18: Iq:Iqitum identical in BOTH
+Case 19: Ir:Iritum identical in BOTH
+Case 20: IS:ISitum identical in BOTH
+Case 21: Iz:Izitum identical in BOTH
+Case 22: Ih:Ihitum identical in BOTH
+Case 23: ukz:ukzitum identical in BOTH
+Case 24: ujJ:ujJitum identical in BOTH
+Case 25: uYC:uYCitum identical in BOTH
+Case 26: und:unditum identical in BOTH
+Case 27: uz:ozitum identical in BOTH
+Case 28: Uh:Uhitum identical in BOTH
+Case 29: fc:arcitum identical in BOTH
+Case 30: fj:arjitum identical in BOTH
+Case 31: fD:arDitum identical in BOTH
+Case 32: fz:arzitum identical in BOTH
+Case 33: ej:ejitum identical in BOTH
+Case 34: eD:eDitum identical in BOTH
+Case 35: katT:katTitum identical in BOTH
+Case 36: kaT:kaTayitum identical in BOTH
+Case 37: kamp:kampitum identical in BOTH
+Case 38: kaz:kazitum identical in BOTH
+Case 39: kas:kasitum identical in BOTH
+Case 40: kANkz:kANkzitum identical in BOTH
+Case 41: kAS:kASitum identical in BOTH
+Case 42: kIrt:kIrtayitum identical in BOTH
+Case 43: kIl:kIlitum identical in BOTH
+Case 44: kunT:kunTitum identical in BOTH
+Case 45: kul:kolitum identical in BOTH
+Case 46: kU:kavitum identical in BOTH
+Case 47: kUj:kUjitum identical in BOTH
+Case 48: kf:kartum identical in BOTH
+Case 49: kft:kartitum,karttum identical in BOTH
+Case 50: kfS:karSitum identical in BOTH
+Case 51: kfz:karzwum,krazwum identical in BOTH
+Case 52: kxp:kalpitum,kalptum identical in BOTH
+Case 53: krand:kranditum identical in BOTH
+Case 54: krI:kretum identical in BOTH
+Case 55: krIq:krIqitum identical in BOTH
+Case 56: kruYc:kruYcitum identical in BOTH
+Case 57: kruD:krodDum identical in BOTH
+Case 58: kruS:krozwum identical in BOTH
+Case 59: klam:klamitum identical in BOTH
+Case 60: klav:klavitum identical in BOTH
+Case 61: klid:klettum,kleditum identical in BOTH
+Case 62: kvaT:kvaTitum identical in BOTH
+Case 63: kzad:kzaditum identical in BOTH
+Case 64: kzam:kzantum,kzamitum identical in BOTH
+Case 65: kzar:kzaritum identical in BOTH
+Case 66: kzi:kzetum identical in BOTH
+Case 67: kzip:kzeptum identical in BOTH
+Case 68: kzu:kzavitum identical in BOTH
+Case 69: kzud:kzottum identical in BOTH
+Case 70: kzuD:kzodDum identical in BOTH
+Case 71: kzuB:kzoBitum identical in BOTH
+Case 72: kzviq:kzveqitum identical in BOTH
+Case 73: Kan:Kanitum identical in BOTH
+Case 74: KAd:KAditum identical in BOTH
+Case 75: Kid:Kettum identical in BOTH
+Case 76: Kel:Kelitum identical in BOTH
+Case 77: KyA:KyAtum identical in BOTH
+Case 78: gaR:gaRayitum identical in BOTH
+Case 79: gam:gantum identical in BOTH
+Case 80: garj:garjitum identical in BOTH
+Case 81: garh:garhayitum,garhitum identical in BOTH
+Case 82: gal:galitum identical in BOTH
+Case 83: galB:galBitum identical in BOTH
+Case 84: gA:gAtum identical in BOTH
+Case 85: guYj:guYjitum identical in BOTH
+Case 86: gumP:gumPitum identical in BOTH
+Case 87: guh:gUhitum,goQum identical in BOTH
+Case 88: gfD:garDitum identical in BOTH
+Case 89: gras:grasitum identical in BOTH
+Case 90: grah:grahItum identical in BOTH
+Case 91: glE:glAtum identical in BOTH
+Case 92: Gaw:Gawitum identical in BOTH
+Case 93: Gaww:Gawwayitum,Gawwitum identical in BOTH
+Case 94: GUrR:GUrRitum identical in BOTH
+Case 95: Gf:Gartum identical in BOTH
+Case 96: Gfz:Garzitum identical in BOTH
+Case 97: GrA:GrAtum identical in BOTH
+Case 98: cakAs:cakAsitum identical in BOTH
+Case 99: cakz:cakzitum identical in BOTH
+Case 100: caYc:caYcitum identical in BOTH
+Case 101: caw:cawitum identical in BOTH
+Case 102: cat:catitum identical in BOTH
+Case 103: cand:canditum identical in BOTH
+Case 104: cam:camitum identical in BOTH
+Case 105: cal:calitum identical in BOTH
+Case 106: ci:cetum identical in BOTH
+Case 107: cit:cetitum identical in BOTH
+Case 108: cint:cintayitum identical in BOTH
+Case 109: cUz:cUzitum identical in BOTH
+Case 110: cezw:cezwitum identical in BOTH
+Case 111: Cid:Cettum identical in BOTH
+Case 112: jap:japitum identical in BOTH
+Case 113: jam:jamitum identical in BOTH
+Case 114: jalp:jalpitum identical in BOTH
+Case 115: jas:jasitum identical in BOTH
+Case 116: jinv:jinvitum identical in BOTH
+Case 117: jIv:jIvitum identical in BOTH
+Case 118: juz:jozitum identical in BOTH
+Case 119: jfmB:jfmBitum identical in BOTH
+Case 120: jF:jaritum,jarItum identical in BOTH
+Case 121: jYA:jYAtum identical in BOTH
+Case 122: jyA:jyAtum identical in BOTH
+Case 123: jyut:jyotitum identical in BOTH
+Case 124: jval:jvalitum identical in BOTH
+Case 125: qamb:qambayitum identical in BOTH
+Case 126: qI:qayitum identical in BOTH
+Case 127: tak:takitum identical in BOTH
+Case 128: tam:tamitum identical in BOTH
+Case 129: tark:tarkayitum identical in BOTH
+Case 130: tarj:tarjitum identical in BOTH
+Case 131: tij:tejitum identical in BOTH
+Case 132: tud:tottum identical in BOTH
+Case 133: tup:topitum identical in BOTH
+Case 134: tuz:tozwum identical in BOTH
+Case 135: tfz:tarzitum identical in BOTH
+Case 136: tF:taritum,tarItum identical in BOTH
+Case 137: trE:trAtum identical in BOTH
+Case 138: tvakz:tvakzitum identical in BOTH
+Case 139: tvar:tvaritum identical in BOTH
+Case 140: tviz:tvezwum identical in BOTH
+Case 141: tsar:tsaritum identical in BOTH
+Case 142: dakz:dakzitum identical in BOTH
+Case 143: daG:daGitum identical in BOTH
+Case 144: daB:daBitum identical in BOTH
+Case 145: dam:damitum identical in BOTH
+Case 146: day:dayitum identical in BOTH
+Case 147: dal:dalitum identical in BOTH
+Case 148: das:dasitum identical in BOTH
+Case 149: dA:dAtum identical in BOTH
+Case 150: dAS:dASitum identical in BOTH
+Case 151: diS:dezwum identical in BOTH
+Case 152: dIkz:dIkzitum identical in BOTH
+Case 153: dIp:dIpitum identical in BOTH
+Case 154: duz:dozwum identical in BOTH
+Case 155: dfS:drazwum identical in BOTH
+Case 156: dfh:darhitum identical in BOTH
+Case 157: dF:daritum,darItum identical in BOTH
+Case 158: dyut:dyotitum identical in BOTH
+Case 159: drA:drAtum identical in BOTH
+Case 160: dru:drotum identical in BOTH
+Case 161: dviz:dvezwum identical in BOTH
+Case 162: DA:DAtum identical in BOTH
+Case 163: DAv:DAvitum identical in BOTH
+Case 164: DI:Detum identical in BOTH
+Case 165: Dukz:Dukzitum identical in BOTH
+Case 166: Dfz:Darzitum identical in BOTH
+Case 167: Dru:Drotum identical in BOTH
+Case 168: DvaMs:DvaMsitum identical in BOTH
+Case 169: Dvan:Dvanitum identical in BOTH
+Case 170: DvANkz:DvANkzitum identical in BOTH
+Case 171: Dvf:Dvartum identical in BOTH
+Case 172: nakz:nakzitum identical in BOTH
+Case 173: naw:nawitum identical in BOTH
+Case 174: nad:naditum identical in BOTH
+Case 175: nand:nanditum identical in BOTH
+Case 176: nard:narditum identical in BOTH
+Case 177: nah:nadDum identical in BOTH
+Case 178: nAT:nATitum identical in BOTH
+Case 179: nind:ninditum identical in BOTH
+Case 180: nud:nottum identical in BOTH
+Case 181: pac:paktum identical in BOTH
+Case 182: paW:paWitum identical in BOTH
+Case 183: pat:patitum identical in BOTH
+Case 184: paT:paTitum identical in BOTH
+Case 185: pad:pattum identical in BOTH
+Case 186: palAy:palAyitum identical in BOTH
+Case 187: pA:pAtum identical in BOTH
+Case 188: pi:petum identical in BOTH
+Case 189: piS:peSitum identical in BOTH
+Case 190: piz:pezwum identical in BOTH
+Case 191: pIq:pIqayitum identical in BOTH
+Case 192: puT:poTitum identical in BOTH
+Case 193: puz:pozwum identical in BOTH
+Case 194: pU:pavitum identical in BOTH
+Case 195: pUj:pUjayitum identical in BOTH
+Case 196: pUy:pUyitum identical in BOTH
+Case 197: pf:partum identical in BOTH
+Case 198: pfc:parcitum identical in BOTH
+Case 199: pfT:parTayitum identical in BOTH
+Case 200: pfz:parzitum identical in BOTH
+Case 201: pru:protum identical in BOTH
+Case 202: plu:plotum identical in BOTH
+Case 203: pluz:plozitum identical in BOTH
+Case 204: Pal:Palitum identical in BOTH
+Case 205: Pull:Pullitum identical in BOTH
+Case 206: baMh:baMhitum identical in BOTH
+Case 207: bAD:bADitum identical in BOTH
+Case 208: BaYj:BaNktum identical in BOTH
+Case 209: BaR:BaRitum identical in BOTH
+Case 210: BaRq:BaRqitum identical in BOTH
+Case 211: Band:Banditum identical in BOTH
+Case 212: Barts:Bartsayitum identical in BOTH
+Case 213: Bas:Basitum identical in BOTH
+Case 214: BA:BAtum identical in BOTH
+Case 215: BAs:BAsitum identical in BOTH
+Case 216: Bid:Bettum identical in BOTH
+Case 217: BI:Betum identical in BOTH
+Case 218: Buj:Boktum identical in BOTH
+Case 219: BU:Bavitum identical in BOTH
+Case 220: BUz:BUzitum identical in BOTH
+Case 221: Bf:Bartum identical in BOTH
+Case 222: BraMS:BraMSitum identical in BOTH
+Case 223: Bram:Bramitum identical in BOTH
+Case 224: BrAj:BrAjitum identical in BOTH
+Case 225: maMh:maMhitum identical in BOTH
+Case 226: maRq:maRqitum identical in BOTH
+Case 227: mad:maditum identical in BOTH
+Case 228: manT:manTitum identical in BOTH
+Case 229: mand:manditum identical in BOTH
+Case 230: mA:mAtum identical in BOTH
+Case 231: miT:meTitum identical in BOTH
+Case 232: miz:mezitum identical in BOTH
+Case 233: mih:meQum identical in BOTH
+Case 234: mIl:mIlitum identical in BOTH
+Case 235: muc:moktum identical in BOTH
+Case 236: muz:mozitum identical in BOTH
+Case 237: mUz:mUzitum identical in BOTH
+Case 238: mf:martum identical in BOTH
+Case 239: mfd:marditum identical in BOTH
+Case 240: mfD:marDitum identical in BOTH
+Case 241: mokz:mokzayitum,mokzitum identical in BOTH
+Case 242: mnA:mnAtum identical in BOTH
+Case 243: yaj:yazwum identical in BOTH
+Case 244: yat:yatitum identical in BOTH
+Case 245: yaB:yabDum identical in BOTH
+Case 246: yas:yasitum identical in BOTH
+Case 247: yA:yAtum identical in BOTH
+Case 248: yAc:yAcitum identical in BOTH
+Case 249: yu:yavitum identical in BOTH
+Case 250: yuj:yoktum identical in BOTH
+Case 251: yuD:yodDum identical in BOTH
+Case 252: raMh:raMhitum identical in BOTH
+Case 253: rakz:rakzitum identical in BOTH
+Case 254: rac:racayitum identical in BOTH
+Case 255: raYj:raNktum identical in BOTH
+Case 256: rad:raditum identical in BOTH
+Case 257: raD:radDum,raDitum identical in BOTH
+Case 258: raB:rabDum identical in BOTH
+Case 259: rah:rahayitum identical in BOTH
+Case 260: rA:rAtum identical in BOTH
+Case 261: rAj:rAjitum identical in BOTH
+Case 262: ric:rektum identical in BOTH
+Case 263: riz:rezitum,rezwum identical in BOTH
+Case 264: ru:ravitum identical in BOTH
+Case 265: ruc:rocitum identical in BOTH
+Case 266: ruj:roktum identical in BOTH
+Case 267: rud:roditum identical in BOTH
+Case 268: ruz:rozitum,rozwum identical in BOTH
+Case 269: ruh:roQum identical in BOTH
+Case 270: rUp:rUpayitum identical in BOTH
+Case 271: laNg:laNgitum identical in BOTH
+Case 272: lajj:lajjitum identical in BOTH
+Case 273: lap:lapitum identical in BOTH
+Case 274: lamb:lambitum identical in BOTH
+Case 275: lal:lalitum identical in BOTH
+Case 276: lAYC:lAYCitum identical in BOTH
+Case 277: lip:leptum identical in BOTH
+Case 278: liS:lezwum identical in BOTH
+Case 279: lih:leQum identical in BOTH
+Case 280: luYc:luYcitum identical in BOTH
+Case 281: lup:loptum identical in BOTH
+Case 282: luB:lobDum,loBitum identical in BOTH
+Case 283: lU:lavitum identical in BOTH
+Case 284: lok:lokayitum,lokitum identical in BOTH
+Case 285: vac:vaktum identical in BOTH
+Case 286: vaYc:vaYcitum identical in BOTH
+Case 287: vad:vaditum identical in BOTH
+Case 288: van:vanitum identical in BOTH
+Case 289: vand:vanditum identical in BOTH
+Case 290: vam:vamitum identical in BOTH
+Case 291: val:valitum identical in BOTH
+Case 292: valg:valgitum identical in BOTH
+Case 293: vaS:vaSitum identical in BOTH
+Case 294: vah:vahitum,voQum identical in BOTH
+Case 295: vA:vAtum identical in BOTH
+Case 296: vAYC:vAYCitum identical in BOTH
+Case 297: vAS:vASitum identical in BOTH
+Case 298: vic:vektum identical in BOTH
+Case 299: vip:vepitum identical in BOTH
+Case 300: viS:vezwum identical in BOTH
+Case 301: viz:vezwum identical in BOTH
+Case 302: vI:vetum identical in BOTH
+Case 303: vf:varitum,varItum identical in BOTH
+Case 304: vfj:varjitum identical in BOTH
+Case 305: vfD:varDitum identical in BOTH
+Case 306: vfz:varzitum identical in BOTH
+Case 307: ven:venitum identical in BOTH
+Case 308: vezw:vezwitum identical in BOTH
+Case 309: vyaT:vyaTitum identical in BOTH
+Case 310: vraSc:vraScitum,vrazwum identical in BOTH
+Case 311: vrIq:vrIqitum identical in BOTH
+Case 312: Sak:Saktum identical in BOTH
+Case 313: SaNk:SaNkitum identical in BOTH
+Case 314: Sad:Sattum identical in BOTH
+Case 315: Sap:Saptum identical in BOTH
+Case 316: Sam:Samitum identical in BOTH
+Case 317: SaS:SaSitum identical in BOTH
+Case 318: Sas:Sasitum identical in BOTH
+Case 319: SAs:SAsitum identical in BOTH
+Case 320: Sikz:Sikzitum identical in BOTH
+Case 321: Siz:Sezwum identical in BOTH
+Case 322: SI:Sayitum,Setum identical in BOTH
+Case 323: SIl:SIlitum identical in BOTH
+Case 324: SuD:SodDum identical in BOTH
+Case 325: SuB:SoBitum identical in BOTH
+Case 326: SumB:SumBitum identical in BOTH
+Case 327: Suz:Sozwum identical in BOTH
+Case 328: SF:Saritum,SarItum identical in BOTH
+Case 329: Scut:Scotitum identical in BOTH
+Case 330: Sram:Sramitum identical in BOTH
+Case 331: SramB:SramBitum identical in BOTH
+Case 332: Sri:Srayitum identical in BOTH
+Case 333: Sru:Srotum identical in BOTH
+Case 334: SlAG:SlAGitum identical in BOTH
+Case 335: Sliz:Slezwum identical in BOTH
+Case 336: Svas:Svasitum identical in BOTH
+Case 337: Svit:Svetitum identical in BOTH
+Case 338: sac:sacitum identical in BOTH
+Case 339: san:sanitum identical in BOTH
+Case 340: sap:sapitum identical in BOTH
+Case 341: sic:sektum identical in BOTH
+Case 342: sUc:sUcayitum identical in BOTH
+Case 343: sfj:srazwum identical in BOTH
+Case 344: sev:sevitum identical in BOTH
+Case 345: skamB:skamBitum identical in BOTH
+Case 346: sKal:sKalitum identical in BOTH
+Case 347: stan:stanitum identical in BOTH
+Case 348: stamB:stamBitum identical in BOTH
+Case 349: stuB:stoBitum identical in BOTH
+Case 350: sTA:sTAtum identical in BOTH
+Case 351: snA:snAtum identical in BOTH
+Case 352: snu:snavitum identical in BOTH
+Case 353: spand:spanditum identical in BOTH
+Case 354: sparD:sparDitum identical in BOTH
+Case 355: spfh:spfhayitum identical in BOTH
+Case 356: sPal:sPalitum identical in BOTH
+Case 357: sPuw:sPuwitum identical in BOTH
+Case 358: sPur:sPuritum identical in BOTH
+Case 359: smi:smetum identical in BOTH
+Case 360: smf:smartum identical in BOTH
+Case 361: syand:syanttum,syanditum identical in BOTH
+Case 362: sraMs:sraMsitum identical in BOTH
+Case 363: sru:srotum identical in BOTH
+Case 364: svad:svaditum identical in BOTH
+Case 365: svan:svanitum identical in BOTH
+Case 366: svid:svettum identical in BOTH
+Case 367: haW:haWitum identical in BOTH
+Case 368: han:hantum identical in BOTH
+Case 369: has:hasitum identical in BOTH
+Case 370: hi:hetum identical in BOTH
+Case 371: hiMs:hiMsitum identical in BOTH
+Case 372: hikk:hikkitum identical in BOTH
+Case 373: hu:hotum identical in BOTH
+Case 374: huRq:huRqitum identical in BOTH
+Case 375: hf:hartum identical in BOTH
+Case 376: hfz:harzitum identical in BOTH
+Case 377: hnu:hnotum identical in BOTH
+Case 378: hras:hrasitum identical in BOTH
+Case 379: hrAd:hrAditum identical in BOTH
+Case 380: hrI:hretum identical in BOTH
+Case 381: hlAd:hlAditum identical in BOTH
+Case 382: hval:hvalitum identical in BOTH
+Case 383: hvf:hvartum identical in BOTH
+--------------------------------------------------
+63 cases of HUET FORMS < PYSAN FORMS
+--------------------------------------------------
+Case 01: aj has ajitum(huet) < ajitum + vetum(pysan)
+Case 02: aYc has aYcitum(huet) < aYcitum + aYcayitum(pysan)
+Case 03: arT has arTayitum(huet) < arTayitum + arTitum(pysan)
+Case 04: aS has aSitum(huet) < aSitum + azwum(pysan)
+Case 05: as has asitum(huet) < asitum + Bavitum(pysan)
+Case 06: il has elitum(huet) < elitum + elayitum(pysan)
+Case 07: kaRq has kaRqayitum(huet) < kaRqayitum + kaRqitum(pysan)
+Case 08: kal has kalayitum(huet) < kalayitum + kAlayitum,kalitum(pysan)
+Case 09: kuRW has kuRWitum(huet) < kuRWitum + kuRWayitum(pysan)
+Case 10: kuRq has kuRqitum(huet) < kuRqitum + kuRqayitum(pysan)
+Case 11: kup has kopitum(huet) < kopitum + kopayitum(pysan)
+Case 12: kF has karitum,karItum(huet) < karitum,karItum + kArayItum,kArayitum(pysan)
+Case 13: kliS has kleSitum(huet) < kleSitum + klezwum(pysan)
+Case 14: kzap has kzapitum(huet) < kzapitum + kzapayitum(pysan)
+Case 15: KaRq has KaRqitum(huet) < KaRqitum + KaRqayitum(pysan)
+Case 16: gaj has gajitum(huet) < gajitum + gAjayitum(pysan)
+Case 17: gad has gaditum(huet) < gaditum + gAdayitum,gadayitum(pysan)
+Case 18: gard has garditum(huet) < garditum + gardayitum(pysan)
+Case 19: gAh has gAhitum(huet) < gAhitum + gAQum(pysan)
+Case 20: cumb has cumbitum(huet) < cumbitum + cumbayitum(pysan)
+Case 21: Cad has Caditum(huet) < Caditum + CAdayitum(pysan)
+Case 22: takz has takzitum(huet) < takzitum + tazwum(pysan)
+Case 23: tan has tanitum(huet) < tanitum + tAnayitum(pysan)
+Case 24: tfp has tarptum(huet) < tarptum + tarpitum,traptum(pysan)
+Case 25: trap has trapitum(huet) < trapitum + traptum(pysan)
+Case 26: tras has trasitum(huet) < trasitum + trAsayitum(pysan)
+Case 27: dfB has darBitum(huet) < darBitum + darBayitum(pysan)
+Case 28: dev has devitum(huet) < devitum + devayitum(pysan)
+Case 29: druh has drogDum,drohitum(huet) < drogDum,drohitum + droQum(pysan)
+Case 30: DU has Davitum(huet) < Davitum + Dotum,Duvitum(pysan)
+Case 31: Df has Dartum(huet) < Dartum + Daritum(pysan)
+Case 32: paw has pawitum(huet) < pawitum + pAwayitum,pawayitum(pysan)
+Case 33: paR has paRitum(huet) < paRitum + paRAyitum(pysan)
+Case 34: piYj has piYjitum(huet) < piYjitum + piYjayitum(pysan)
+Case 35: praT has praTitum(huet) < praTitum + prATayitum(pysan)
+Case 36: prI has pretum(huet) < pretum + prayitum(pysan)
+Case 37: bal has balitum(huet) < balitum + bAlayitum(pysan)
+Case 38: bfh has barhitum(huet) < barhitum + barQum(pysan)
+Case 39: Bakz has Bakzitum(huet) < Bakzitum + Bakzayitum(pysan)
+Case 40: mah has mahitum(huet) < mahitum + mahayitum(pysan)
+Case 41: mArg has mArgayitum(huet) < mArgayitum + mArgitum(pysan)
+Case 42: mI has metum(huet) < metum + mAtum(pysan)
+Case 43: mud has moditum(huet) < moditum + modayitum(pysan)
+Case 44: muh has mogDum,mohitum(huet) < mogDum,mohitum + moQum(pysan)
+Case 45: mfS has marzwum(huet) < marzwum + mrazwum(pysan)
+Case 46: raR has raRitum(huet) < raRitum + rARayitum(pysan)
+Case 47: lakz has lakzayitum(huet) < lakzayitum + lakzitum(pysan)
+Case 48: lag has lagitum(huet) < lagitum + lAgayitum(pysan)
+Case 49: laNG has laNGitum(huet) < laNGitum + laNGayitum(pysan)
+Case 50: laz has lazitum(huet) < lazitum + lAzayitum(pysan)
+Case 51: las has lasitum(huet) < lasitum + lAsayitum(pysan)
+Case 52: lI has letum(huet) < letum + lAtum(pysan)
+Case 53: luW has loWitum(huet) < loWitum + loWayitum(pysan)
+Case 54: loc has locitum(huet) < locitum + locayitum(pysan)
+Case 55: vIj has vIjitum(huet) < vIjitum + vIjayitum(pysan)
+Case 56: vfh has varhitum(huet) < varhitum + varQum(pysan)
+Case 57: Sal has Salitum(huet) < Salitum + SAlayitum(pysan)
+Case 58: sur has soritum(huet) < soritum + sorayitum(pysan)
+Case 59: sUd has sUdayitum(huet) < sUdayitum + sUditum(pysan)
+Case 60: sf has sartum(huet) < sartum + sArayitum(pysan)
+Case 61: snih has snegDum,snehitum(huet) < snegDum,snehitum + sneQum(pysan)
+Case 62: spfS has sparzwum(huet) < sparzwum + sprazwum(pysan)
+Case 63: svar has svaritum(huet) < svaritum + svarayitum(pysan)
+--------------------------------------------------
+40 cases of HUET FORMS > PYSAN FORMS
+--------------------------------------------------
+Case 01: akz has akzitum + azwum(huet) > akzitum (pysan)
+Case 02: kuts has kutsayitum + kutsitum(huet) > kutsayitum (pysan)
+Case 03: kram has kramitum + krantum(huet) > kramitum (pysan)
+Case 04: Guz has Gozitum + Gozwum(huet) > Gozitum (pysan)
+Case 05: car has caritum + cartum(huet) > caritum (pysan)
+Case 06: cur has corayitum + coritum(huet) > corayitum (pysan)
+Case 07: jan has janitum + jAtum(huet) > janitum (pysan)
+Case 08: ji has jetum + jayitum(huet) > jetum (pysan)
+Case 09: taYc has taYcitum + taNktum(huet) > taYcitum (pysan)
+Case 10: tap has taptum + tapitum(huet) > taptum (pysan)
+Case 11: tul has tolayitum + tulayitum(huet) > tolayitum (pysan)
+Case 12: tfd has tarditum + tfdas(huet) > tarditum (pysan)
+Case 13: dah has dagDum + dahitum(huet) > dagDum (pysan)
+Case 14: nam has nantum + namitum(huet) > nantum (pysan)
+Case 15: naS has naMzwum,naSitum + nazwum(huet) > naMzwum,naSitum (pysan)
+Case 16: nij has nektum + niYjitum(huet) > nektum (pysan)
+Case 17: nI has netum + nayitum(huet) > netum (pysan)
+Case 18: nft has nartitum + narttum(huet) > nartitum (pysan)
+Case 19: banD has bandDum + banDitum(huet) > bandDum (pysan)
+Case 20: BAz has BAzitum + BAzwum(huet) > BAzitum (pysan)
+Case 21: majj has majjitum + maNktum(huet) > majjitum (pysan)
+Case 22: man has mantum + manitum(huet) > mantum (pysan)
+Case 23: yam has yantum + yamitum(huet) > yantum (pysan)
+Case 24: ram has rantum + ramitum(huet) > rantum (pysan)
+Case 25: ruD has rodDum + roDitum(huet) > rodDum (pysan)
+Case 26: laB has labDum + laBitum(huet) > labDum (pysan)
+Case 27: liK has leKitum + liKitum(huet) > leKitum (pysan)
+Case 28: vap has vaptum + vapitum(huet) > vaptum (pysan)
+Case 29: vid has vettum + veditum(huet) > vettum (pysan)
+Case 30: vft has vartitum + varttum(huet) > vartitum (pysan)
+Case 31: Suc has Socitum + Soktum(huet) > Socitum (pysan)
+Case 32: sad has sattum + sIditum(huet) > sattum (pysan)
+Case 33: siD has sedDum + seDitum(huet) > sedDum (pysan)
+Case 34: su has sotum + savitum(huet) > sotum (pysan)
+Case 35: sU has savitum + sotum(huet) > savitum (pysan)
+Case 36: skand has skanttum + skanditum(huet) > skanttum (pysan)
+Case 37: stu has stotum + stavitum(huet) > stotum (pysan)
+Case 38: snuh has snohitum + snogDum(huet) > snohitum (pysan)
+Case 39: svap has svaptum + svapitum(huet) > svaptum (pysan)
+Case 40: hA has hAtum + jahitum(huet) > hAtum (pysan)
+--------------------------------------------------
+45 cases of DIFFERENT FORMS
+--------------------------------------------------
+Case 01: aNg has aNgitum(huet) != aNgayitum(pysan)
+Case 02: am has amItum(huet) != amitum(pysan)
+Case 03: uc has ucitum(huet) != ocitum(pysan)
+Case 04: f has artum(huet) != astum(pysan)
+Case 05: kuc has kocitum(huet) != kucitum(pysan)
+Case 06: kuw has kowitum(huet) != kuwitum,kowayitum(pysan)
+Case 07: kfp has karpitum,karptum(huet) != karpitum,kfpayitum,kfpAyitum(pysan)
+Case 08: kzan has kzanitum(huet) != kzaRitum(pysan)
+Case 09: gup has gopayitum(huet) != gopAyitum,gopitum,goptum(pysan)
+Case 10: gur has goritum(huet) != guritum(pysan)
+Case 11: gF has garitum,garItum,giritum(huet) != garitum,garItum,gArayitum,gArayItum(pysan)
+Case 12: cyu has cyotum(huet) != cyAvayitum(pysan)
+Case 13: jakz has jagDum(huet) != jakzitum(pysan)
+Case 14: jaB has jaBitum(huet) != jamBitum(pysan)
+Case 15: jAgf has jAgartum(huet) != jAgaritum(pysan)
+Case 16: tandr has tandrayitum(huet) != tandritum(pysan)
+Case 17: tyaj has tyaktum,tyajitum(huet) != tyazwum(pysan)
+Case 18: truw has trowitum(huet) != truwitum(pysan)
+Case 19: daMS has daMSitum(huet) != daMSayitum,daMzwum(pysan)
+Case 20: dih has degDum(huet) != deQum(pysan)
+Case 21: du has dotum(huet) != dutum(pysan)
+Case 22: duh has dogDum(huet) != doQum(pysan)
+Case 23: dfp has darpitum,darptum(huet) != darptum,draptum(pysan)
+Case 24: Dam has DmAtum(huet) != Damitum(pysan)
+Case 25: nu has navitum(huet) != nuvitum(pysan)
+Case 26: pF has pUritum(huet) != paritum,parItum(pysan)
+Case 27: buD has bodDum(huet) != boDitum(pysan)
+Case 28: Baj has Baktum,Bajitum(huet) != Bazwum(pysan)
+Case 29: Baz has Bazwum(huet) != Bazitum(pysan)
+Case 30: mi has metum(huet) != mAtum(pysan)
+Case 31: mid has mindayitum,meditum(huet) != medayitum,meditum(pysan)
+Case 32: mil has militum(huet) != melitum(pysan)
+Case 33: mfj has mArjitum,mArzwum(huet) != marjayitum,marjitum,marzwum(pysan)
+Case 34: mfq has marqitum,mfqayitum(huet) != marqayitum,marqitum(pysan)
+Case 35: mfz has marzitum(huet) != marzwum,mrazwum(pysan)
+Case 36: rAD has rAdDum(huet) != rADitum(pysan)
+Case 37: vas has vasitum,vastum(huet) != vasayitum,vastum,vAsayitum(pysan)
+Case 38: vij has vijitum,vejitum(huet) != viktum(pysan)
+Case 39: vyaD has vedDum(huet) != vyadDum(pysan)
+Case 40: vraj has vrajitum(huet) != vrAjayitum(pysan)
+Case 41: SaMs has Sastum(huet) != SaMsitum(pysan)
+Case 42: saYj has saktum(huet) != saNktum(pysan)
+Case 43: sah has sahitum,sAQum(huet) != sahitum,sAhayitum,sAhoQum,soQum(pysan)
+Case 44: sfp has sarptum,sfpas(huet) != sarptum,sraptum(pysan)
+Case 45: had has hattum(huet) != haditum(pysan)
+--------------------------------------------------
+1083 cases of ROOT IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMS:aMSayitum,aMSApayitum in pysan
+Case 02: aMs:aMsayitum,aMsApayitum in pysan
+Case 03: aMh:aMhayitum,aMhitum in pysan
+Case 04: ak:akitum in pysan
+Case 05: ag:agitum in pysan
+Case 06: aG:aGayitum in pysan
+Case 07: aNk:aNkayitum,aNkitum in pysan
+Case 08: aNK:aNKayitum in pysan
+Case 09: aNG:aNGitum in pysan
+Case 10: ac:acitum in pysan
+Case 11: aww:awwayitum,awwitum in pysan
+Case 12: aW:aWitum in pysan
+Case 13: aq:aqitum in pysan
+Case 14: aqq:aqqitum in pysan
+Case 15: aR:aRitum in pysan
+Case 16: aRW:aRWitum in pysan
+Case 17: ant:antitum in pysan
+Case 18: and:anditum in pysan
+Case 19: anD:anDayitum in pysan
+Case 20: aBr:aBritum in pysan
+Case 21: amb:ambitum in pysan
+Case 22: ay:ayitum in pysan
+Case 23: arc:arcitum in pysan
+Case 24: arj:arjitum in pysan
+Case 25: arb:arbitum in pysan
+Case 26: arv:arvitum in pysan
+Case 27: al:alitum in pysan
+Case 28: avalok:avalokayitum,avalokitum in pysan
+Case 29: az:azitum in pysan
+Case 30: ah:ahitum in pysan
+Case 31: iK:eKitum in pysan
+Case 32: iNK:iNKitum in pysan
+Case 33: iNg:iNgitum in pysan
+Case 34: iw:ewitum in pysan
+Case 35: ir:eritum in pysan
+Case 36: I:etum in pysan
+Case 37: IK:IKitum in pysan
+Case 38: Ij:Ijitum in pysan
+Case 39: Int:Intitum in pysan
+Case 40: Irzy:Irzyitum in pysan
+Case 41: u:otum in pysan
+Case 42: uK:oKitum in pysan
+Case 43: uNK:uNKitum in pysan
+Case 44: uC:oCitum in pysan
+Case 45: uW:oWitum in pysan
+Case 46: ud:oditum in pysan
+Case 47: uDras:uDrasitum,uDrAsayitum in pysan
+Case 48: upAr:upAritum in pysan
+Case 49: ubj:ubjitum in pysan
+Case 50: uB:oBitum in pysan
+Case 51: ulaq:ulAqayitum in pysan
+Case 52: uh:ohitum in pysan
+Case 53: Uy:Uyitum in pysan
+Case 54: UrRu:UrRavitum,UrRuvitum in pysan
+Case 55: Urd:Urditum in pysan
+Case 56: Urv:Urvitum in pysan
+Case 57: Uz:Uzitum in pysan
+Case 58: fC:arCitum in pysan
+Case 59: fYj:fYjitum in pysan
+Case 60: fR:arRitum in pysan
+Case 61: ft:artitum,ftIyitum in pysan
+Case 62: fP:arPitum in pysan
+Case 63: eW:eWitum in pysan
+Case 64: ez:ezitum in pysan
+Case 65: oK:oKitum in pysan
+Case 66: oj:ojayitum,ojitum in pysan
+Case 67: oR:oRitum in pysan
+Case 68: olaRq:olaRqayitum,olaRqitum in pysan
+Case 69: kaMs:kaMsitum in pysan
+Case 70: kak:kakitum in pysan
+Case 71: kaK:kaKitum in pysan
+Case 72: kag:kagitum in pysan
+Case 73: kaNk:kaNkitum in pysan
+Case 74: kac:kacitum in pysan
+Case 75: kaj:kajitum in pysan
+Case 76: kaYc:kaYcitum in pysan
+Case 77: kaw:kawitum in pysan
+Case 78: kaww:kawwayitum in pysan
+Case 79: kaW:kaWitum in pysan
+Case 80: kaq:kaqitum in pysan
+Case 81: kaqq:kaqqitum in pysan
+Case 82: kaR:kaRitum,kARayitum in pysan
+Case 83: kaRw:kaRwitum in pysan
+Case 84: kaRW:kaRWayitum,kaRWitum in pysan
+Case 85: katr:katrayitum in pysan
+Case 86: kad:kaditum in pysan
+Case 87: kan:kanitum in pysan
+Case 88: kand:kanditum in pysan
+Case 89: kab:kabitum in pysan
+Case 90: kam:kamitum,kAmayitum in pysan
+Case 91: kamb:kambitum in pysan
+Case 92: karj:karjitum in pysan
+Case 93: karR:karRayitum in pysan
+Case 94: kartr:kartrayitum in pysan
+Case 95: kard:karditum in pysan
+Case 96: karb:karbitum in pysan
+Case 97: karv:karvitum in pysan
+Case 98: kall:kallitum in pysan
+Case 99: kav:kavitum,kAvayitum in pysan
+Case 100: kaS:kaSitum in pysan
+Case 101: kAMs:kAMsitum in pysan
+Case 102: kAYc:kAYcitum in pysan
+Case 103: kAs:kAsitum in pysan
+Case 104: ki:ketum in pysan
+Case 105: kiw:kewitum in pysan
+Case 106: kit:ketitum in pysan
+Case 107: kil:kelayitum,kelitum in pysan
+Case 108: kizk:kizkayitum in pysan
+Case 109: kIw:kIwayitum in pysan
+Case 110: ku:kutum in pysan
+Case 111: kuMS:kuMSitum in pysan
+Case 112: kuk:kokitum in pysan
+Case 113: kuj:kujitum in pysan
+Case 114: kuYc:kuYcitum in pysan
+Case 115: kuYj:kuYjitum in pysan
+Case 116: kuww:kuwwayitum in pysan
+Case 117: kuq:koqitum in pysan
+Case 118: kuR:kuRayitum,koRayitum,koRitum in pysan
+Case 119: kuT:koTitum in pysan
+Case 120: kud:kodayitum in pysan
+Case 121: kundr:kundrayitum in pysan
+Case 122: kumb:kumbitum in pysan
+Case 123: kur:koritum in pysan
+Case 124: kuS:koSitum in pysan
+Case 125: kuz:kozitum,kozwum in pysan
+Case 126: kuh:kuhayitum in pysan
+Case 127: kUw:kUwayitum in pysan
+Case 128: kUq:kUqayitum,kUqitum in pysan
+Case 129: kUR:kURitum in pysan
+Case 130: kUp:kUpayitum in pysan
+Case 131: kUrd:kUrditum in pysan
+Case 132: kUl:kUlitum in pysan
+Case 133: kFt:kIrtayitum in pysan
+Case 134: kep:kepitum in pysan
+Case 135: kel:kelitum in pysan
+Case 136: kev:kevitum in pysan
+Case 137: kE:kAtum in pysan
+Case 138: knaMs:knaMsayitum,knaMsitum in pysan
+Case 139: knaT:knaTitum in pysan
+Case 140: knas:knasitum in pysan
+Case 141: knu:knotum in pysan
+Case 142: knUy:knUyitum in pysan
+Case 143: kmar:kmaritum in pysan
+Case 144: kraMS:kraMSitum in pysan
+Case 145: kraT:kraTitum in pysan
+Case 146: krap:krapitum in pysan
+Case 147: kruq:kroqayitum,kroqitum in pysan
+Case 148: klaT:klaTitum in pysan
+Case 149: kland:klanditum in pysan
+Case 150: klind:klinditum in pysan
+Case 151: klIb:klIbayitum,klIbitum in pysan
+Case 152: kleS:kleSitum in pysan
+Case 153: kvaR:kvaRitum in pysan
+Case 154: kzaj:kzajitum,kzAjayitum in pysan
+Case 155: kzaR:kzaRitum in pysan
+Case 156: kzamp:kzampitum in pysan
+Case 157: kzal:kzAlayitum in pysan
+Case 158: kziR:kzeRitum in pysan
+Case 159: kziv:kzevitum in pysan
+Case 160: kzIj:kzIjitum in pysan
+Case 161: kzIb:kzIbitum in pysan
+Case 162: kzIv:kzIvitum in pysan
+Case 163: kzup:kzopitum in pysan
+Case 164: kzump:kzumpitum in pysan
+Case 165: kzur:kzoritum in pysan
+Case 166: kzE:kzAtum in pysan
+Case 167: kzow:kzowayitum in pysan
+Case 168: kzRu:kzRavitum in pysan
+Case 169: kzmAy:kzmAyitum in pysan
+Case 170: kzmIl:kzmIlitum in pysan
+Case 171: kzvid:kzveditum in pysan
+Case 172: kzvel:kzvelitum in pysan
+Case 173: Kac:Kacitum,KAcayitum in pysan
+Case 174: Kaj:Kajitum in pysan
+Case 175: KaYj:KaYjitum in pysan
+Case 176: Kaw:Kawitum in pysan
+Case 177: Kaww:Kawwayitum in pysan
+Case 178: Kaq:KAqayitum in pysan
+Case 179: Kad:Kaditum in pysan
+Case 180: Kamb:Kambitum in pysan
+Case 181: Karj:Karjitum in pysan
+Case 182: Kard:Karditum in pysan
+Case 183: Karb:Karbitum in pysan
+Case 184: Karv:Karvitum in pysan
+Case 185: Kal:Kalitum in pysan
+Case 186: Kall:Kallitum in pysan
+Case 187: Kaz:Kazitum in pysan
+Case 188: Kiw:Kewitum in pysan
+Case 189: Ku:Kotum in pysan
+Case 190: Kuj:Kojitum in pysan
+Case 191: KuRq:KuRqayitum,KuRqitum in pysan
+Case 192: Kud:Koditum in pysan
+Case 193: Kur:Koritum in pysan
+Case 194: Kurd:Kurditum in pysan
+Case 195: Kew:Kewayitum in pysan
+Case 196: KE:KAtum in pysan
+Case 197: Kow:Kowayitum,Kowitum in pysan
+Case 198: Koq:Koqayitum,Koqitum in pysan
+Case 199: Kor:Koritum in pysan
+Case 200: gaYj:gaYjitum in pysan
+Case 201: gaq:gaqitum,gAqayitum in pysan
+Case 202: gaRq:gaRqitum in pysan
+Case 203: gaD:gaDitum in pysan
+Case 204: ganD:ganDayitum in pysan
+Case 205: gamb:gambitum in pysan
+Case 206: garb:garbitum in pysan
+Case 207: garv:garvitum in pysan
+Case 208: gah:gAhayitum in pysan
+Case 209: gAD:gADitum in pysan
+Case 210: gu:gotum in pysan
+Case 211: guj:gojitum in pysan
+Case 212: guq:goqitum in pysan
+Case 213: guRW:guRWayitum in pysan
+Case 214: guRq:guRqayitum in pysan
+Case 215: gud:goditum in pysan
+Case 216: guD:goDitum in pysan
+Case 217: guP:goPitum in pysan
+Case 218: gurd:gurditum,gUrdayitum in pysan
+Case 219: gurv:gurvitum in pysan
+Case 220: gUrd:gUrditum in pysan
+Case 221: gUrD:gUrDayitum in pysan
+Case 222: gf:gartum in pysan
+Case 223: gep:gepitum in pysan
+Case 224: gev:gevitum in pysan
+Case 225: gez:gezitum in pysan
+Case 226: gE:gAtum in pysan
+Case 227: graT:graTitum in pysan
+Case 228: gruc:grocitum in pysan
+Case 229: glas:glasitum in pysan
+Case 230: gluc:glocitum in pysan
+Case 231: gluYc:gluYcitum in pysan
+Case 232: glep:glepitum in pysan
+Case 233: glev:glevitum in pysan
+Case 234: glez:glezitum in pysan
+Case 235: GaMz:GaMzitum in pysan
+Case 236: GagG:GagGitum in pysan
+Case 237: GaR:GaRitum in pysan
+Case 238: GaRw:GaRwitum in pysan
+Case 239: Gamb:Gambitum in pysan
+Case 240: Gar:GArayitum in pysan
+Case 241: Garb:Garbitum in pysan
+Case 242: Gas:Gastum in pysan
+Case 243: GiRR:GiRRitum in pysan
+Case 244: Gu:Gotum in pysan
+Case 245: Guw:Gowitum in pysan
+Case 246: Guq:Goqitum in pysan
+Case 247: GuR:GoRitum in pysan
+Case 248: GuRR:GuRRitum in pysan
+Case 249: GUr:GUritum in pysan
+Case 250: GfR:GarRitum in pysan
+Case 251: GfRR:GfRRitum in pysan
+Case 252: Gol:Golayitum in pysan
+Case 253: Nu:Notum in pysan
+Case 254: cak:cakitum in pysan
+Case 255: cakk:cakkayitum in pysan
+Case 256: caG:caGitum in pysan
+Case 257: caR:caRitum in pysan
+Case 258: caRq:caRqitum in pysan
+Case 259: cad:caditum in pysan
+Case 260: can:canitum in pysan
+Case 261: cap:capayitum,capitum in pysan
+Case 262: camp:campayitum in pysan
+Case 263: camb:cambitum in pysan
+Case 264: cay:cayitum in pysan
+Case 265: carG:carGitum in pysan
+Case 266: carc:carcayitum,carcitum in pysan
+Case 267: carb:carbitum in pysan
+Case 268: carv:carvayitum in pysan
+Case 269: cah:cahitum,cAhayitum in pysan
+Case 270: cikk:cikkayitum in pysan
+Case 271: ciw:cewitum in pysan
+Case 272: ciri:cirayitum in pysan
+Case 273: cil:celitum in pysan
+Case 274: cIk:cIkayitum,cIkitum in pysan
+Case 275: cIv:cIvayitum,cIvitum in pysan
+Case 276: cukk:cukkayitum in pysan
+Case 277: cuw:cowayitum,cowitum in pysan
+Case 278: cuww:cuwwayitum in pysan
+Case 279: cuq:coqitum in pysan
+Case 280: cuqq:cuqqitum in pysan
+Case 281: cuR:coRitum in pysan
+Case 282: cuRW:cuRWayitum in pysan
+Case 283: cut:cotitum in pysan
+Case 284: cud:coditum in pysan
+Case 285: cup:copitum in pysan
+Case 286: cul:colayitum in pysan
+Case 287: culump:culumpitum in pysan
+Case 288: cUR:cURayitum in pysan
+Case 289: cUr:cUrayitum,cUritum in pysan
+Case 290: cUrR:cUrRayitum in pysan
+Case 291: cft:cartitum in pysan
+Case 292: cel:celitum in pysan
+Case 293: cyut:cyotitum in pysan
+Case 294: cyus:cyosayitum in pysan
+Case 295: Cam:Camitum in pysan
+Case 296: Camp:Campayitum in pysan
+Case 297: Cal:CAlayitum in pysan
+Case 298: Caz:Cazitum in pysan
+Case 299: Cuw:Cowayitum,Cowitum in pysan
+Case 300: Cuq:Coqitum in pysan
+Case 301: Cup:Copitum in pysan
+Case 302: Cur:Coritum in pysan
+Case 303: Cfd:Carditum in pysan
+Case 304: Cfp:Carpitum in pysan
+Case 305: Co:CAtum in pysan
+Case 306: jaMs:jaMsayitum,jaMsitum in pysan
+Case 307: jaNkz:jaNkzitum in pysan
+Case 308: jaj:jajitum in pysan
+Case 309: jarc:jarcitum in pysan
+Case 310: jarC:jarCitum in pysan
+Case 311: jarj:jarjitum in pysan
+Case 312: jarts:jartsitum in pysan
+Case 313: jal:jalitum,jAlayitum in pysan
+Case 314: jim:jemitum in pysan
+Case 315: jiri:jirayitum in pysan
+Case 316: jiz:jezitum in pysan
+Case 317: juNg:juNgitum in pysan
+Case 318: juYc:juYcayitum,juYcitum in pysan
+Case 319: juw:jowitum in pysan
+Case 320: juq:joqayitum,joqitum in pysan
+Case 321: jun:jonitum in pysan
+Case 322: jur:joritum in pysan
+Case 323: jul:jolayitum in pysan
+Case 324: jUr:jUritum in pysan
+Case 325: jUrv:jUrvitum in pysan
+Case 326: jf:jartum in pysan
+Case 327: jez:jezitum in pysan
+Case 328: jeh:jehitum in pysan
+Case 329: jE:jAtum in pysan
+Case 330: jyo:jyAtum in pysan
+Case 331: jri:jretum in pysan
+Case 332: Jaw:Jawitum in pysan
+Case 333: Jam:Jamitum in pysan
+Case 334: Jarc:Jarcitum in pysan
+Case 335: Jaz:Jazitum in pysan
+Case 336: Ju:Jotum in pysan
+Case 337: JUz:JUzitum in pysan
+Case 338: JF:Jaritum,JarItum in pysan
+Case 339: Jyu:Jyotum in pysan
+Case 340: waNk:waNkayitum in pysan
+Case 341: wik:wekitum in pysan
+Case 342: wIk:wIkitum in pysan
+Case 343: wOk:wOkitum in pysan
+Case 344: wval:wvalitum in pysan
+Case 345: qap:qApayitum in pysan
+Case 346: qam:qamitum in pysan
+Case 347: qamp:qampayitum in pysan
+Case 348: qamB:qamBayitum in pysan
+Case 349: qip:qepayitum,qepitum in pysan
+Case 350: QOk:QOkitum in pysan
+Case 351: taNk:taNkitum in pysan
+Case 352: taNg:taNgitum in pysan
+Case 353: taw:tawitum in pysan
+Case 354: taq:tAqayitum in pysan
+Case 355: taRq:taRqitum in pysan
+Case 356: tand:tanditum in pysan
+Case 357: tay:tayitum in pysan
+Case 358: tard:tarditum in pysan
+Case 359: tal:talitum,tAlayitum in pysan
+Case 360: tas:tasitum in pysan
+Case 361: tAy:tAyitum in pysan
+Case 362: tik:tekitum in pysan
+Case 363: tig:tegitum in pysan
+Case 364: tiG:teGitum in pysan
+Case 365: tip:tepitum in pysan
+Case 366: tim:temitum in pysan
+Case 367: til:telayitum,telitum in pysan
+Case 368: till:tillitum in pysan
+Case 369: tIk:tIkitum in pysan
+Case 370: tIm:tImitum in pysan
+Case 371: tIv:tIvitum in pysan
+Case 372: tu:totum in pysan
+Case 373: tuj:tojitum in pysan
+Case 374: tuw:towitum in pysan
+Case 375: tuq:toqitum in pysan
+Case 376: tuqq:tuqqitum in pysan
+Case 377: tuR:toRitum in pysan
+Case 378: tuRq:tuRqitum in pysan
+Case 379: tund:tunditum in pysan
+Case 380: tuB:toBitum in pysan
+Case 381: tump:tumpitum in pysan
+Case 382: tumb:tumbayitum,tumbitum in pysan
+Case 383: tur:toritum in pysan
+Case 384: turv:turvitum in pysan
+Case 385: tuS:toSitum in pysan
+Case 386: tus:tositum in pysan
+Case 387: tuh:tohitum in pysan
+Case 388: tUq:tUqitum in pysan
+Case 389: tUR:tURayitum in pysan
+Case 390: tUl:tUlayitum,tUlitum in pysan
+Case 391: tUz:tUzitum in pysan
+Case 392: tfkz:tfkzitum in pysan
+Case 393: tfR:tarRitum in pysan
+Case 394: tfP:tarPitum in pysan
+Case 395: tfmp:tfmpitum in pysan
+Case 396: tfmP:tfmPitum in pysan
+Case 397: tfh:tarQum,tarhitum in pysan
+Case 398: tep:tepitum in pysan
+Case 399: tev:tevitum in pysan
+Case 400: toq:toqitum in pysan
+Case 401: traMs:traMsayitum,traMsitum in pysan
+Case 402: traK:traKitum in pysan
+Case 403: trand:tranditum in pysan
+Case 404: triNK:triNKitum in pysan
+Case 405: trup:tropitum in pysan
+Case 406: truP:troPitum in pysan
+Case 407: trump:trumpitum in pysan
+Case 408: trumP:trumPitum in pysan
+Case 409: trOk:trOkitum in pysan
+Case 410: tvaNg:tvaNgitum in pysan
+Case 411: tvac:tvacitum in pysan
+Case 412: tvaYc:tvaYcitum in pysan
+Case 413: Tarv:Tarvitum in pysan
+Case 414: Tuq:Toqitum in pysan
+Case 415: Turv:Turvitum in pysan
+Case 416: daMs:daMsayitum,daMsitum in pysan
+Case 417: daMh:daMhayitum in pysan
+Case 418: daNG:daNGitum in pysan
+Case 419: dad:daditum in pysan
+Case 420: daD:daDitum in pysan
+Case 421: danv:danvitum in pysan
+Case 422: damB:damBitum in pysan
+Case 423: dAn:dAnitum in pysan
+Case 424: dAy:dAyitum in pysan
+Case 425: dAs:dAsitum in pysan
+Case 426: dinv:dinvitum in pysan
+Case 427: dip:depitum in pysan
+Case 428: dimp:dimpayitum in pysan
+Case 429: dimB:dimBayitum in pysan
+Case 430: div:devayitum,devitum in pysan
+Case 431: dI:dAtum in pysan
+Case 432: dIDI:dIDitum in pysan
+Case 433: duD:doDitum in pysan
+Case 434: durv:durvitum in pysan
+Case 435: dul:dolayitum in pysan
+Case 436: dU:davitum in pysan
+Case 437: df:dartum in pysan
+Case 438: dfMh:dfMhitum in pysan
+Case 439: de:dAtum in pysan
+Case 440: dE:dAtum in pysan
+Case 441: do:dAtum in pysan
+Case 442: dyu:dyotum in pysan
+Case 443: dyE:dyAtum in pysan
+Case 444: dram:dramitum in pysan
+Case 445: drAK:drAKitum in pysan
+Case 446: drANkz:drANkzitum in pysan
+Case 447: drAq:drAqitum in pysan
+Case 448: drAh:drAhitum in pysan
+Case 449: druq:droqitum in pysan
+Case 450: druR:droRitum in pysan
+Case 451: drumm:drummitum in pysan
+Case 452: drU:dravitum in pysan
+Case 453: drUq:drUqitum in pysan
+Case 454: drek:drekitum in pysan
+Case 455: drE:drAtum in pysan
+Case 456: dvf:dvartum in pysan
+Case 457: Dakk:Dakkayitum in pysan
+Case 458: DaR:DaRitum in pysan
+Case 459: Dan:Danitum in pysan
+Case 460: Dav:Davitum in pysan
+Case 461: Di:Detum in pysan
+Case 462: Dikz:Dikzitum in pysan
+Case 463: Diz:Dezitum in pysan
+Case 464: DIkz:DIkzitum in pysan
+Case 465: Du:Dotum in pysan
+Case 466: DUp:DUpAyitum,DUpitum in pysan
+Case 467: DUr:DUritum in pysan
+Case 468: DUrv:DUrvitum in pysan
+Case 469: DUS:DUSayitum in pysan
+Case 470: Dfj:Darjitum in pysan
+Case 471: DF:Daritum,DarItum in pysan
+Case 472: De:DAtum in pysan
+Case 473: Dor:Doritum in pysan
+Case 474: DmA:DmAtum in pysan
+Case 475: DyE:DyAtum in pysan
+Case 476: Draj:Drajitum in pysan
+Case 477: DraR:DraRitum in pysan
+Case 478: Dras:Drasitum in pysan
+Case 479: DrA:DrAtum in pysan
+Case 480: Drij:Drejitum in pysan
+Case 481: Drek:Drekitum in pysan
+Case 482: DrE:DrAtum in pysan
+Case 483: Dvaj:Dvajitum in pysan
+Case 484: DvaR:DvaRitum in pysan
+Case 485: DvraR:DvraRitum in pysan
+Case 486: nakk:nakkayitum in pysan
+Case 487: naK:naKitum in pysan
+Case 488: naj:najitum in pysan
+Case 489: naq:nAqayitum in pysan
+Case 490: naB:naBitum in pysan
+Case 491: namb:nambitum in pysan
+Case 492: nay:nayitum in pysan
+Case 493: narb:narbitum in pysan
+Case 494: nal:nalitum,nAlayitum in pysan
+Case 495: nas:nasitum in pysan
+Case 496: nAD:nADitum in pysan
+Case 497: nAs:nAsitum in pysan
+Case 498: niMs:niMsitum in pysan
+Case 499: nikz:nikzitum in pysan
+Case 500: niYj:niYjitum in pysan
+Case 501: ninv:ninvitum in pysan
+Case 502: nil:nelitum in pysan
+Case 503: niS:neSitum in pysan
+Case 504: niz:nezitum in pysan
+Case 505: nizk:nizkayitum in pysan
+Case 506: nIl:nIlitum in pysan
+Case 507: nIv:nIvitum in pysan
+Case 508: nuq:noqitum in pysan
+Case 509: nF:naritum,narItum in pysan
+Case 510: ned:neditum in pysan
+Case 511: nez:nezitum in pysan
+Case 512: paMS:paMSitum in pysan
+Case 513: pakz:pakzitum in pysan
+Case 514: paRq:paRqayitum,paRqitum in pysan
+Case 515: pan:panAyitum,panitum in pysan
+Case 516: panT:panTayitum,panTitum in pysan
+Case 517: pamb:pambitum in pysan
+Case 518: pay:payitum in pysan
+Case 519: parR:parRayitum in pysan
+Case 520: pard:parditum in pysan
+Case 521: parp:parpitum in pysan
+Case 522: parb:parbitum in pysan
+Case 523: parv:parvitum in pysan
+Case 524: parz:parzitum in pysan
+Case 525: pal:palitum in pysan
+Case 526: pall:pallitum in pysan
+Case 527: pav:pavitum in pysan
+Case 528: paS:pASayitum in pysan
+Case 529: paz:pazitum in pysan
+Case 530: pas:pasitum,pAsayitum in pysan
+Case 531: pAy:pAyitum in pysan
+Case 532: pAl:pAlayitum in pysan
+Case 533: piMs:piMsayitum,piMsitum in pysan
+Case 534: picc:piccayitum in pysan
+Case 535: piC:peCayitum,peCitum in pysan
+Case 536: piw:pewitum in pysan
+Case 537: piW:peWitum in pysan
+Case 538: piRq:piRqayitum,piRqitum in pysan
+Case 539: pinv:pinvitum in pysan
+Case 540: pil:pelayitum in pysan
+Case 541: pis:pesayitum,pesitum in pysan
+Case 542: pI:petum in pysan
+Case 543: pIl:pIlitum in pysan
+Case 544: puMs:puMsayitum in pysan
+Case 545: puC:poCitum in pysan
+Case 546: puw:puwayitum,puwitum,powayitum in pysan
+Case 547: puww:puwwayitum in pysan
+Case 548: puq:poqitum in pysan
+Case 549: puR:poRayitum,poRitum in pysan
+Case 550: puRw:puRwayitum in pysan
+Case 551: puRq:puRqitum in pysan
+Case 552: pur:poritum in pysan
+Case 553: purv:purvitum,pUrvayitum in pysan
+Case 554: pus:posayitum in pysan
+Case 555: pust:pustayitum in pysan
+Case 556: pUR:pURayitum in pysan
+Case 557: pUl:pUlayitum,pUlitum in pysan
+Case 558: pUz:pUzitum in pysan
+Case 559: pfj:parjitum in pysan
+Case 560: pfq:parqitum in pysan
+Case 561: pfR:parRitum in pysan
+Case 562: peR:peRitum in pysan
+Case 563: peb:pebitum in pysan
+Case 564: pel:pelayitum,pelitum in pysan
+Case 565: pev:pevitum in pysan
+Case 566: pez:pezitum in pysan
+Case 567: pes:pesitum in pysan
+Case 568: pE:pAtum in pysan
+Case 569: pER:pERitum in pysan
+Case 570: poYC:poYCitum in pysan
+Case 571: pyAy:pyAyitum in pysan
+Case 572: pyuz:pyozayitum,pyozitum in pysan
+Case 573: pyus:pyositum in pysan
+Case 574: pyE:pyAtum in pysan
+Case 575: praC:praCitum in pysan
+Case 576: pras:prasitum in pysan
+Case 577: prA:prAtum in pysan
+Case 578: pruT:proTitum in pysan
+Case 579: pruz:prozayitum,prozitum in pysan
+Case 580: pre:prAtum in pysan
+Case 581: prez:prezitum in pysan
+Case 582: prER:prERitum in pysan
+Case 583: proT:proTitum in pysan
+Case 584: plakz:plakzitum in pysan
+Case 585: plab:plabitum in pysan
+Case 586: plih:plehitum in pysan
+Case 587: plI:pletum in pysan
+Case 588: plus:plositum in pysan
+Case 589: plev:plevitum in pysan
+Case 590: psA:psAtum in pysan
+Case 591: Pakk:Pakkitum in pysan
+Case 592: PaR:PaRitum in pysan
+Case 593: Parv:Parvitum in pysan
+Case 594: Pel:Pelitum in pysan
+Case 595: bad:baditum in pysan
+Case 596: barb:barbitum in pysan
+Case 597: barh:barhayitum,barhitum in pysan
+Case 598: bAq:bAqitum in pysan
+Case 599: biw:bewitum in pysan
+Case 600: bid:beditum in pysan
+Case 601: bil:belayitum,belitum in pysan
+Case 602: biS:beSitum in pysan
+Case 603: bis:besitum in pysan
+Case 604: bIB:bIBitum in pysan
+Case 605: bukk:bukkayitum,bukkitum in pysan
+Case 606: buNg:buNgitum in pysan
+Case 607: buw:bowayitum,bowitum in pysan
+Case 608: buq:boqitum in pysan
+Case 609: bud:boditum in pysan
+Case 610: bund:bunditum in pysan
+Case 611: bunD:bunDayitum,bunDitum in pysan
+Case 612: bul:bolayitum in pysan
+Case 613: bus:bositum in pysan
+Case 614: bfMh:bfMhitum in pysan
+Case 615: brahm:brahmitum in pysan
+Case 616: brU:vacitum in pysan
+Case 617: Baw:Bawitum,BAwayitum in pysan
+Case 618: BaRw:BaRwayitum in pysan
+Case 619: Ban:Banitum in pysan
+Case 620: Barb:Barbitum in pysan
+Case 621: Barv:Barvitum in pysan
+Case 622: Bal:Balitum,BAlayitum in pysan
+Case 623: BAm:BAmitum in pysan
+Case 624: Bikz:Bikzitum in pysan
+Case 625: Bind:Binditum in pysan
+Case 626: BuRq:BuRqitum in pysan
+Case 627: BfMS:BfMSayitum,BfMSitum in pysan
+Case 628: Bfkz:Bfkzitum in pysan
+Case 629: Bfj:Barjitum in pysan
+Case 630: Bfq:Barqitum in pysan
+Case 631: BfS:BarSitum in pysan
+Case 632: BF:Baritum,BarItum in pysan
+Case 633: Bez:Bezitum in pysan
+Case 634: Byas:Byasitum in pysan
+Case 635: Brakz:Brakzitum in pysan
+Case 636: Brajj:Brajjitum in pysan
+Case 637: BraR:BraRitum in pysan
+Case 638: BraS:BraSitum in pysan
+Case 639: BrAS:BrASitum in pysan
+Case 640: BrI:Bretum in pysan
+Case 641: Bruq:Broqitum in pysan
+Case 642: BrUR:BrURayitum in pysan
+Case 643: Brez:Brezitum in pysan
+Case 644: BlAS:BlASitum in pysan
+Case 645: makz:makzitum in pysan
+Case 646: maK:maKitum in pysan
+Case 647: maNk:maNkitum in pysan
+Case 648: maNg:maNgitum in pysan
+Case 649: maNG:maNGitum in pysan
+Case 650: mac:macitum in pysan
+Case 651: maYc:maYcitum in pysan
+Case 652: maYj:maYjayitum in pysan
+Case 653: maW:maWitum in pysan
+Case 654: maR:maRitum in pysan
+Case 655: maRw:maRwayitum in pysan
+Case 656: maRW:maRWitum in pysan
+Case 657: maT:maTitum in pysan
+Case 658: mantr:mantrayitum in pysan
+Case 659: maBr:maBritum in pysan
+Case 660: mamb:mambitum in pysan
+Case 661: may:mayitum in pysan
+Case 662: marc:marcayitum in pysan
+Case 663: marj:marjitum in pysan
+Case 664: marb:marbitum in pysan
+Case 665: marv:marvitum in pysan
+Case 666: mal:malitum,mAlayitum in pysan
+Case 667: mall:mallitum in pysan
+Case 668: mav:mavitum in pysan
+Case 669: mavy:mavyitum in pysan
+Case 670: maS:maSitum in pysan
+Case 671: mas:masitum in pysan
+Case 672: mask:maskitum in pysan
+Case 673: mANkz:mANkzitum in pysan
+Case 674: mAq:mAqitum in pysan
+Case 675: mAn:mAnayitum,mAnitum in pysan
+Case 676: mAnT:mAnTitum in pysan
+Case 677: mArj:mArjayitum in pysan
+Case 678: mAh:mAhitum in pysan
+Case 679: miC:meCitum in pysan
+Case 680: miYj:miYjayitum in pysan
+Case 681: miD:meDitum in pysan
+Case 682: miS:meSitum in pysan
+Case 683: miSr:miSrayitum in pysan
+Case 684: mis:mesitum in pysan
+Case 685: mIm:mImitum in pysan
+Case 686: mIv:mIvitum in pysan
+Case 687: muC:moCitum in pysan
+Case 688: muj:moktum,mojayitum in pysan
+Case 689: muYc:muYcitum in pysan
+Case 690: muw:mowayitum,mowitum in pysan
+Case 691: muq:moqitum in pysan
+Case 692: muR:moRitum in pysan
+Case 693: muRq:muRqitum in pysan
+Case 694: mur:moritum in pysan
+Case 695: murC:murCitum in pysan
+Case 696: murv:murvitum in pysan
+Case 697: must:mustayitum in pysan
+Case 698: mU:mavitum in pysan
+Case 699: mUl:mUlitum in pysan
+Case 700: mfg:margitum in pysan
+Case 701: mfc:marcayitum in pysan
+Case 702: mfC:marCitum in pysan
+Case 703: mfR:marRitum in pysan
+Case 704: mF:maritum,marItum in pysan
+Case 705: me:mAtum in pysan
+Case 706: meq:meqitum in pysan
+Case 707: mep:mepitum in pysan
+Case 708: mev:mevitum in pysan
+Case 709: myakz:myakzitum in pysan
+Case 710: mrakz:mrakzitum in pysan
+Case 711: mrad:mraditum in pysan
+Case 712: mrit:mretitum in pysan
+Case 713: mruc:mrocitum in pysan
+Case 714: mruYc:mruYcitum in pysan
+Case 715: mreq:mreqitum in pysan
+Case 716: mlakz:mlakzayitum in pysan
+Case 717: mluc:mlocitum in pysan
+Case 718: mluYc:mluYcitum in pysan
+Case 719: mleC:mleCayitum,mleCitum in pysan
+Case 720: mlew:mlewitum in pysan
+Case 721: mlev:mlevitum in pysan
+Case 722: mlE:mlAtum in pysan
+Case 723: yakz:yakzayitum,yakzitum in pysan
+Case 724: yantr:yantrayitum in pysan
+Case 725: yuNg:yuNgitum in pysan
+Case 726: yuC:yoCitum in pysan
+Case 727: yut:yotitum in pysan
+Case 728: yup:yopitum in pysan
+Case 729: yUz:yUzitum in pysan
+Case 730: yez:yezitum in pysan
+Case 731: yOw:yOwitum in pysan
+Case 732: rak:rAkayitum in pysan
+Case 733: raK:raKitum in pysan
+Case 734: rag:ragitum,rAgayitum in pysan
+Case 735: raNK:raNKitum in pysan
+Case 736: raNg:raNgitum in pysan
+Case 737: raNG:raNGayitum,raNGitum in pysan
+Case 738: raw:rawitum in pysan
+Case 739: raW:raWitum in pysan
+Case 740: raRv:raRvitum in pysan
+Case 741: rap:rapitum in pysan
+Case 742: raP:raPitum in pysan
+Case 743: ramP:ramPitum in pysan
+Case 744: ramb:rambitum in pysan
+Case 745: ramB:ramBitum in pysan
+Case 746: ray:rayitum in pysan
+Case 747: ras:rasayitum,rasitum in pysan
+Case 748: rAK:rAKitum in pysan
+Case 749: rAG:rAGitum in pysan
+Case 750: rAs:rAsitum in pysan
+Case 751: riK:reKitum in pysan
+Case 752: riNK:riNKitum in pysan
+Case 753: riNg:riNgitum in pysan
+Case 754: riRv:riRvitum in pysan
+Case 755: riP:rePitum in pysan
+Case 756: riB:reBitum in pysan
+Case 757: rimP:rimPitum in pysan
+Case 758: riS:rezwum in pysan
+Case 759: rih:rehitum in pysan
+Case 760: rI:retum in pysan
+Case 761: rIv:rIvitum in pysan
+Case 762: ruMS:ruMSayitum,ruMSitum in pysan
+Case 763: ruw:rowayitum in pysan
+Case 764: ruW:roWitum in pysan
+Case 765: ruRw:ruRwitum in pysan
+Case 766: ruRW:ruRWitum in pysan
+Case 767: rup:ropitum in pysan
+Case 768: ruS:rozwum in pysan
+Case 769: rUkz:rUkzayitum in pysan
+Case 770: rUz:rUzitum in pysan
+Case 771: rek:rekitum in pysan
+Case 772: rej:rejitum in pysan
+Case 773: rew:rewitum in pysan
+Case 774: req:reqitum in pysan
+Case 775: rep:repitum in pysan
+Case 776: rez:rezitum in pysan
+Case 777: rE:rAtum in pysan
+Case 778: roq:roqitum in pysan
+Case 779: rOw:rOwitum in pysan
+Case 780: lak:lAkayitum in pysan
+Case 781: laK:laKitum in pysan
+Case 782: laC:laCitum in pysan
+Case 783: laj:lajayitum,lajitum,lAjayitum in pysan
+Case 784: laYj:laYjayitum,laYjitum in pysan
+Case 785: law:lawitum in pysan
+Case 786: laq:laqitum,lAqayitum in pysan
+Case 787: laRq:laRqayitum in pysan
+Case 788: lamB:lamBitum in pysan
+Case 789: lay:layitum in pysan
+Case 790: lard:lardayitum in pysan
+Case 791: larb:larbitum in pysan
+Case 792: laS:lASayitum in pysan
+Case 793: lA:lAtum in pysan
+Case 794: lAK:lAKitum in pysan
+Case 795: lAG:lAGitum in pysan
+Case 796: lAj:lAjitum in pysan
+Case 797: lAYj:lAYjitum in pysan
+Case 798: lAq:lAqayitum in pysan
+Case 799: lAB:lABayitum in pysan
+Case 800: liNK:liNKitum in pysan
+Case 801: liNg:liNgayitum,liNgitum in pysan
+Case 802: luw:luwitum,lowayitum in pysan
+Case 803: luq:loqitum in pysan
+Case 804: luRw:luRwayitum,luRwitum in pysan
+Case 805: lunT:lunTitum in pysan
+Case 806: lumb:lumbayitum in pysan
+Case 807: luz:lozitum in pysan
+Case 808: lUz:lUzayitum,lUzitum in pysan
+Case 809: lep:lepitum in pysan
+Case 810: lER:lERitum in pysan
+Case 811: low:lowitum in pysan
+Case 812: lozw:lozwitum in pysan
+Case 813: lOq:lOqitum in pysan
+Case 814: lpI:lpetum in pysan
+Case 815: lvI:lvetum in pysan
+Case 816: vak:vakitum in pysan
+Case 817: vakk:vakkitum in pysan
+Case 818: vakz:vakzitum in pysan
+Case 819: vaK:vaKitum in pysan
+Case 820: vaNK:vaNKitum in pysan
+Case 821: vaNg:vaNgitum in pysan
+Case 822: vaNG:vaNGitum in pysan
+Case 823: vaj:vajitum in pysan
+Case 824: vaw:vawayitum,vawitum in pysan
+Case 825: vaww:vawwitum in pysan
+Case 826: vaW:vaWitum in pysan
+Case 827: vaqQ:vaqQitum in pysan
+Case 828: vaR:vaRitum in pysan
+Case 829: vaRw:vaRwayitum,vaRwitum in pysan
+Case 830: vaRW:vaRWitum in pysan
+Case 831: vaRq:vaRqayitum,vaRqitum in pysan
+Case 832: vaBr:vaBritum in pysan
+Case 833: vay:vayitum in pysan
+Case 834: varc:varcitum in pysan
+Case 835: varR:varRayitum in pysan
+Case 836: varD:varDayitum in pysan
+Case 837: varP:varPitum in pysan
+Case 838: valk:valkayitum in pysan
+Case 839: valB:valBitum in pysan
+Case 840: vall:vallitum in pysan
+Case 841: valh:valhayitum,valhitum in pysan
+Case 842: vaz:vazitum in pysan
+Case 843: vazk:vazkitum in pysan
+Case 844: vask:vaskitum in pysan
+Case 845: vast:vastayitum in pysan
+Case 846: vANkz:vANkzitum in pysan
+Case 847: vAt:vAtayitum in pysan
+Case 848: vAvft:vAvartitum in pysan
+Case 849: vAs:vAsayitum in pysan
+Case 850: vAh:vAhitum in pysan
+Case 851: viC:veCayitum in pysan
+Case 852: viw:vewitum in pysan
+Case 853: viq:veqitum in pysan
+Case 854: viRw:viRwayitum in pysan
+Case 855: viT:veTitum in pysan
+Case 856: viD:veDitum in pysan
+Case 857: vil:velayitum,velitum in pysan
+Case 858: vizk:vizkayitum in pysan
+Case 859: vIr:vIrayitum in pysan
+Case 860: vuRw:vuRwayitum in pysan
+Case 861: vfMh:vfMhitum in pysan
+Case 862: vfk:varkitum in pysan
+Case 863: vfkz:vfkzitum in pysan
+Case 864: vfR:varRitum in pysan
+Case 865: vfS:varSitum in pysan
+Case 866: vF:varitum,varItum in pysan
+Case 867: ve:vAtum in pysan
+Case 868: vekz:vekzayitum in pysan
+Case 869: vewy:vewyitum in pysan
+Case 870: veD:veDitum in pysan
+Case 871: vep:vepitum in pysan
+Case 872: vel:velayitum,velitum in pysan
+Case 873: vell:vellitum in pysan
+Case 874: vevI:vevitum in pysan
+Case 875: ves:vesitum in pysan
+Case 876: veh:vehitum in pysan
+Case 877: vehl:vehlitum in pysan
+Case 878: vE:vAtum in pysan
+Case 879: vyac:vyacitum in pysan
+Case 880: vyap:vyApayitum in pysan
+Case 881: vyay:vyayayitum,vyayitum in pysan
+Case 882: vyuz:vyozayitum,vyozitum in pysan
+Case 883: vye:vyAtum in pysan
+Case 884: vraR:vraRitum,vrARayitum in pysan
+Case 885: vrI:vretum in pysan
+Case 886: vruq:vroqitum in pysan
+Case 887: vlI:vletum in pysan
+Case 888: Sac:Sacitum in pysan
+Case 889: Saw:Sawitum,SAwayitum in pysan
+Case 890: SaW:SaWayitum,SaWitum,SAWayitum in pysan
+Case 891: SaR:SaRitum,SARayitum in pysan
+Case 892: SaRq:SaRqitum in pysan
+Case 893: Sabd:Sabdayitum in pysan
+Case 894: Samb:Sambayitum,Sambitum in pysan
+Case 895: Sarb:Sarbitum in pysan
+Case 896: Sarv:Sarvitum in pysan
+Case 897: SalB:SalBitum in pysan
+Case 898: Sav:Savitum in pysan
+Case 899: Saz:Sazitum in pysan
+Case 900: SAK:SAKitum in pysan
+Case 901: SAq:SAqitum in pysan
+Case 902: SAl:SAlayitum,SAlitum in pysan
+Case 903: Si:Setum in pysan
+Case 904: SiNK:SiNKitum in pysan
+Case 905: SiNG:SiNGitum in pysan
+Case 906: SiYj:SiYjitum in pysan
+Case 907: Siw:Sewitum in pysan
+Case 908: Sim:Semitum in pysan
+Case 909: Sil:Selitum in pysan
+Case 910: SIk:SIkitum in pysan
+Case 911: SIB:SIBitum in pysan
+Case 912: Su:Sotum in pysan
+Case 913: Suk:Sokitum in pysan
+Case 914: Sucy:Sucyitum in pysan
+Case 915: SuW:SoWayitum,SoWitum in pysan
+Case 916: SuRW:SuRWayitum,SuRWitum in pysan
+Case 917: SuRq:SuRqitum in pysan
+Case 918: Sun:Sonitum in pysan
+Case 919: Sulk:Sulkayitum in pysan
+Case 920: Sulb:Sulbayitum in pysan
+Case 921: SUr:SUrayitum,SUritum in pysan
+Case 922: SUrp:SUrpayitum in pysan
+Case 923: SUl:SUlitum in pysan
+Case 924: SUz:SUzitum in pysan
+Case 925: SfD:SarDitum in pysan
+Case 926: Sel:Selitum in pysan
+Case 927: Sev:Sevitum in pysan
+Case 928: So:SAtum in pysan
+Case 929: SoR:SoRitum in pysan
+Case 930: SOw:SOwitum in pysan
+Case 931: Scyut:Scyotitum in pysan
+Case 932: SnaT:SnaTitum in pysan
+Case 933: SmIl:SmIlitum in pysan
+Case 934: SyE:SyAtum in pysan
+Case 935: SraNk:SraNkitum in pysan
+Case 936: SraNg:SraNgitum in pysan
+Case 937: SraR:SraRitum,SrARayitum in pysan
+Case 938: SraT:SraTitum in pysan
+Case 939: SrA:SrAtum in pysan
+Case 940: Sriz:Srezitum in pysan
+Case 941: SrI:Sretum in pysan
+Case 942: SrE:SrAtum in pysan
+Case 943: SroR:SroRitum in pysan
+Case 944: SlaNk:SlaNkitum in pysan
+Case 945: SlaNg:SlaNgitum in pysan
+Case 946: SlaT:SlaTitum in pysan
+Case 947: SlAK:SlAKitum in pysan
+Case 948: Slok:Slokitum in pysan
+Case 949: SloR:SloRitum in pysan
+Case 950: SvaNk:SvaNkitum in pysan
+Case 951: SvaNg:SvaNgitum in pysan
+Case 952: Svac:Svacitum in pysan
+Case 953: Svaj:Svajitum in pysan
+Case 954: SvaW:SvAWayitum in pysan
+Case 955: SvaBr:SvaBrayitum in pysan
+Case 956: Sval:Svalitum in pysan
+Case 957: Svalk:Svalkayitum in pysan
+Case 958: SvAtr:SvAtritum in pysan
+Case 959: Svi:Svayitum in pysan
+Case 960: Svind:Svinditum in pysan
+Case 961: zaww:zawwayitum in pysan
+Case 962: zazk:zazkitum in pysan
+Case 963: zukk:zukkitum in pysan
+Case 964: zWiv:zWevitum in pysan
+Case 965: zvakk:zvakkitum in pysan
+Case 966: zvazk:zvazkitum in pysan
+Case 967: sakz:sakzitum in pysan
+Case 968: sag:sagitum in pysan
+Case 969: saG:saGitum in pysan
+Case 970: sajj:sajjitum in pysan
+Case 971: saw:sawitum,sAwayitum in pysan
+Case 972: saww:sawwayitum in pysan
+Case 973: saW:sAWayitum in pysan
+Case 974: satr:satrayitum in pysan
+Case 975: saBAj:saBAjayitum in pysan
+Case 976: sam:samitum,sAmayitum in pysan
+Case 977: say:sayitum in pysan
+Case 978: sarj:sarjitum in pysan
+Case 979: sarb:sarbitum in pysan
+Case 980: sal:salitum in pysan
+Case 981: sas:sasitum in pysan
+Case 982: sAkz:sAkzitum in pysan
+Case 983: sAw:sAwayitum in pysan
+Case 984: sAD:sAdDum in pysan
+Case 985: sAntv:sAntvayitum in pysan
+Case 986: sAmaya:sAmayAyitum in pysan
+Case 987: si:setum in pysan
+Case 988: siw:sewitum in pysan
+Case 989: siv:sevitum in pysan
+Case 990: suK:suKayitum,soKitum in pysan
+Case 991: suww:suwwayitum in pysan
+Case 992: suB:soBitum in pysan
+Case 993: suh:sohitum in pysan
+Case 994: sUtr:sUtrayitum in pysan
+Case 995: sUrkz:sUrkzitum in pysan
+Case 996: sUz:sUzitum in pysan
+Case 997: sfB:sarBitum in pysan
+Case 998: sF:saritum,sarItum in pysan
+Case 999: sek:sekitum in pysan
+Case 1000: sE:sAtum in pysan
+Case 1001: so:sAtum in pysan
+Case 1002: skanD:skanDayitum in pysan
+Case 1003: sku:skotum in pysan
+Case 1004: skund:skunditum in pysan
+Case 1005: sKad:sKaditum in pysan
+Case 1006: stak:stakitum in pysan
+Case 1007: stiG:steGitum in pysan
+Case 1008: stip:stepitum in pysan
+Case 1009: stim:stemitum in pysan
+Case 1010: stuc:stocitum in pysan
+Case 1011: stumB:stumBitum in pysan
+Case 1012: stUp:stUpayitum,stUpitum in pysan
+Case 1013: stf:startum in pysan
+Case 1014: stfkz:stfkzitum in pysan
+Case 1015: stfh:starQum,starhitum in pysan
+Case 1016: sten:stenayitum in pysan
+Case 1017: step:stepayitum,stepitum in pysan
+Case 1018: stE:stAtum in pysan
+Case 1019: styE:styAtum in pysan
+Case 1020: sTag:sTagitum in pysan
+Case 1021: sTal:sTalitum in pysan
+Case 1022: sTir:sTeritum in pysan
+Case 1023: sTuq:sToqitum in pysan
+Case 1024: sTUl:sTUlayitum in pysan
+Case 1025: sniw:snewayitum in pysan
+Case 1026: snuc:snocitum in pysan
+Case 1027: snus:snositum in pysan
+Case 1028: snE:snAtum in pysan
+Case 1029: sparz:sparzitum in pysan
+Case 1030: spaS:spaSitum,spASayitum in pysan
+Case 1031: spf:spartum in pysan
+Case 1032: spF:sparitum,sparItum in pysan
+Case 1033: sPaw:sPawitum,sPAwayitum in pysan
+Case 1034: sPaRq:sPaRqayitum in pysan
+Case 1035: sPar:sParitum in pysan
+Case 1036: sPAy:sPAyitum in pysan
+Case 1037: sPiw:sPewayitum in pysan
+Case 1038: sPiww:sPiwwayitum in pysan
+Case 1039: sPuww:sPuwwayitum in pysan
+Case 1040: sPuq:sPoqitum in pysan
+Case 1041: sPuRw:sPuRwayitum,sPuRwitum in pysan
+Case 1042: sPuRq:sPuRqayitum,sPuRqitum in pysan
+Case 1043: sPul:sPolitum in pysan
+Case 1044: sPUrC:sPUrCitum in pysan
+Case 1045: sPUrj:sPUrjitum in pysan
+Case 1046: smiw:smewayitum in pysan
+Case 1047: syam:syamitum in pysan
+Case 1048: sraMh:sraMhitum in pysan
+Case 1049: sriD:sreDitum in pysan
+Case 1050: sriB:sreBitum in pysan
+Case 1051: sriv:srevitum in pysan
+Case 1052: srek:srekitum in pysan
+Case 1053: svaNg:svaNgitum in pysan
+Case 1054: svaj:svajitum in pysan
+Case 1055: svard:svarditum in pysan
+Case 1056: svf:svaritum,svartum in pysan
+Case 1057: haw:hawitum in pysan
+Case 1058: hamm:hammitum in pysan
+Case 1059: hay:hayitum in pysan
+Case 1060: hal:halitum in pysan
+Case 1061: hiRq:hiRqitum in pysan
+Case 1062: hil:helitum in pysan
+Case 1063: huq:hoqitum in pysan
+Case 1064: hurC:hurCitum in pysan
+Case 1065: hul:holitum in pysan
+Case 1066: hUq:hUqitum in pysan
+Case 1067: heW:heWitum in pysan
+Case 1068: heq:heqitum in pysan
+Case 1069: heQ:heQitum in pysan
+Case 1070: hez:hezitum in pysan
+Case 1071: hoq:hoqitum in pysan
+Case 1072: hmal:hmalitum in pysan
+Case 1073: hrag:hragitum in pysan
+Case 1074: hrIC:hrICitum in pysan
+Case 1075: hru:hrotum in pysan
+Case 1076: hruq:hroqitum in pysan
+Case 1077: hrep:hrepitum in pysan
+Case 1078: hrez:hrezitum in pysan
+Case 1079: hrOq:hrOqitum in pysan
+Case 1080: hlag:hlagitum in pysan
+Case 1081: hlap:hlApayitum in pysan
+Case 1082: hlas:hlasitum in pysan
+Case 1083: hve:hvAtum in pysan
+--------------------------------------------------
+202 cases of ROOT IN HUET ONLY
+--------------------------------------------------
+Case 01: aMSa:aMSayitum in huet
+Case 02: agada:agadyitum in huet
+Case 03: aGa:aGAyitum in huet
+Case 04: aNka:aNkayitum in huet
+Case 05: aNKa:aNKayitum in huet
+Case 06: ajira:ajirAyitum in huet
+Case 07: aDvara:aDvarIyitum,aDvaryitum in huet
+Case 08: anDa:anDayitum in huet
+Case 09: apsaras:apsarAyitum in huet
+Case 10: aBra:aBrAyitum in huet
+Case 11: amitra:amitrayitum in huet
+Case 12: arTa:arTApayitum in huet
+Case 13: aSana:aSanAyitum,aSanIyitum in huet
+Case 14: aSva:aSvasyitum,aSvAyitum in huet
+Case 15: asUya:asUyitum in huet
+Case 16: AkarRa:AkarRayitum in huet
+Case 17: Akula:Akulayitum in huet
+Case 18: Andola:Andolayitum in huet
+Case 19: Avila:Avilayitum in huet
+Case 20: in:enitum in huet
+Case 21: iras:irasyitum in huet
+Case 22: izuDi:izuDyitum in huet
+Case 23: Irz:Irzitum in huet
+Case 24: utka:utkayitum in huet
+Case 25: utkaRW:utkaRWitum in huet
+Case 26: udaka:udakIyitum in huet
+Case 27: udan:udanyitum in huet
+Case 28: unmanas:unmanAyitum in huet
+Case 29: umB:umBitum in huet
+Case 30: uras:urasyitum in huet
+Case 31: uruz:urozitum in huet
+Case 32: uzas:uzasyitum in huet
+Case 33: Uzman:UzmAyitum in huet
+Case 34: kaRqu:kaRqUyitum in huet
+Case 35: kaRva:kaRvAyitum in huet
+Case 36: kadarTa:kadarTayitum in huet
+Case 37: karuRa:karuRAyitum in huet
+Case 38: karRa:karRayitum in huet
+Case 39: kartf:kartrIyitum in huet
+Case 40: kalaNka:kalaNkayitum in huet
+Case 41: kalaha:kalahAyitum in huet
+Case 42: kaluza:kaluzayitum,kaluzAyitum in huet
+Case 43: kavala:kavalayitum in huet
+Case 44: kavi:kavIyitum in huet
+Case 45: kazwa:kazwAyitum in huet
+Case 46: kuwwa:kuwwayitum in huet
+Case 47: kusuma:kusumayitum in huet
+Case 48: kfcCra:kfcCrAyitum in huet
+Case 49: kelA:kelAyitum in huet
+Case 50: klIba:klIbAyitum,klIbetum in huet
+Case 51: kzI:kzayitum,kzetum in huet
+Case 52: kzIra:kzIrasyitum in huet
+Case 53: Kaqa:Kaqayitum in huet
+Case 54: Kela:KelAyitum in huet
+Case 55: gadgada:gadgadyitum in huet
+Case 56: garva:garvayitum,garvAyitum in huet
+Case 57: gavez:gavezayitum,gavezitum in huet
+Case 58: go:gavyitum in huet
+Case 59: gopA:gopAyitum in huet
+Case 60: gomaya:gomayitum in huet
+Case 61: granT:granTitum in huet
+Case 62: carca:carcayitum in huet
+Case 63: citra:citrIyitum in huet
+Case 64: cUrRa:cUrRayitum in huet
+Case 65: Cand:Canditum in huet
+Case 66: Cala:Calayitum in huet
+Case 67: Cidra:Cidrayitum in huet
+Case 68: jala:jalAyitum in huet
+Case 69: jihma:jihmAyitum in huet
+Case 70: jU:javitum in huet
+Case 71: jvar:jvaritum in huet
+Case 72: tantra:tantrayitum in huet
+Case 73: tapas:tapasyitum in huet
+Case 74: taraNga:taraNgayitum in huet
+Case 75: taruRa:taruRayitum,taruRAyitum in huet
+Case 76: taviza:tavizIyitum in huet
+Case 77: tiras:tirasyitum in huet
+Case 78: tuhina:tuhinayitum in huet
+Case 79: daRqa:daRqayitum in huet
+Case 80: dIv:dIvitum in huet
+Case 81: duHKa:duHKyitum in huet
+Case 82: durdina:durdinAyitum in huet
+Case 83: deva:devayitum in huet
+Case 84: dola:dolayitum in huet
+Case 85: Dana:DanAyitum,DanIyitum in huet
+Case 86: DIra:DIrayitum in huet
+Case 87: DUma:DUmAyitum in huet
+Case 88: DyA:DyAtum in huet
+Case 89: namas:namasyitum in huet
+Case 90: nikaza:nikazAyitum in huet
+Case 91: nIhAra:nIhArAyitum in huet
+Case 92: nUtana:nUtanayitum in huet
+Case 93: nO:nAvyitum in huet
+Case 94: pawapawA:pawapawAyitum in huet
+Case 95: payas:payasyitum,payAyitum in huet
+Case 96: parokza:parokzAyitum in huet
+Case 97: pavitra:pavitrayitum in huet
+Case 98: pASa:pASayitum in huet
+Case 99: piRqa:piRqayitum in huet
+Case 100: pIyUzavarza:pIyUzavarzAyitum in huet
+Case 101: putra:putriyitum,putrIyitum in huet
+Case 102: putrakAma:putrakAmyitum in huet
+Case 103: pulaka:pulakayitum in huet
+Case 104: puzkara:puzkarAyitum in huet
+Case 105: puzpa:puzpAyitum,puzpyitum in huet
+Case 106: pUla:pUlayitum,pUletum in huet
+Case 107: pyA:pyAtum in huet
+Case 108: pratikUla:pratikUlayitum in huet
+Case 109: praS:prazwum in huet
+Case 110: prasAda:prasAdayitum in huet
+Case 111: prAsAda:prAsAdIyitum in huet
+Case 112: priya:priyAyitum in huet
+Case 113: Pena:PenAyitum in huet
+Case 114: bAzpa:bAzpAyitum in huet
+Case 115: Bizaj:Bizajyitum in huet
+Case 116: Bfjj:Barzwum,Brazwum in huet
+Case 117: BfSa:BfSAyitum in huet
+Case 118: maDu:maDusyitum,maDvasyitum in huet
+Case 119: mantu:mantUyitum in huet
+Case 120: mantra:mantrayitum in huet
+Case 121: malina:malinayitum in huet
+Case 122: mahI:mahIyitum in huet
+Case 123: mAMsa:mAMsIyitum in huet
+Case 124: mAlA:mAlayitum in huet
+Case 125: mAlyaguRa:mAlyaguRAyitum in huet
+Case 126: miSra:miSrayitum in huet
+Case 127: mukula:mukulayitum in huet
+Case 128: muKara:muKarayitum in huet
+Case 129: muRqa:muRqayitum in huet
+Case 130: mudrA:mudrayitum in huet
+Case 131: mUtra:mUtrayitum in huet
+Case 132: mUrC:mUrCitum in huet
+Case 133: mfga:mfgayitum in huet
+Case 134: mfzA:mfzAyitum in huet
+Case 135: meGa:meGAyitum in huet
+Case 136: mlA:mlAtum in huet
+Case 137: mlecC:mlecCitum in huet
+Case 138: yantra:yantrayitum in huet
+Case 139: yuga:yugAyitum in huet
+Case 140: raTakAma:raTakAmyitum in huet
+Case 141: rasa:rasayitum in huet
+Case 142: rAjan:rAjIyitum in huet
+Case 143: ri:retum in huet
+Case 144: rUkza:rUkzayitum in huet
+Case 145: romanTa:romanTAyitum in huet
+Case 146: laGa:laGayitum in huet
+Case 147: lavaRa:lavaRasyitum in huet
+Case 148: lAlA:lAlAyitum in huet
+Case 149: luRW:luRWitum in huet
+Case 150: lul:lolitum in huet
+Case 151: lelA:lelAyitum in huet
+Case 152: lohita:lohitAyitum in huet
+Case 153: varivas:varivasyitum in huet
+Case 154: varRa:varRayitum in huet
+Case 155: valgu:valgUyitum in huet
+Case 156: vAc:vAcyitum in huet
+Case 157: vAsa:vAsayitum in huet
+Case 158: vimanA:vimanAyitum in huet
+Case 159: viSada:viSadayitum in huet
+Case 160: viza:vizAyitum in huet
+Case 161: vfza:vfzasyitum,vfzIyitum in huet
+Case 162: veda:vedApayitum in huet
+Case 163: vEra:vErAyitum in huet
+Case 164: vyA:vyAtum in huet
+Case 165: vraRa:vraRayitum in huet
+Case 166: Sabda:Sabdayitum,SabdAyitum in huet
+Case 167: SalaBa:SalaBAyitum in huet
+Case 168: SA:SAtum in huet
+Case 169: SAnta:SAntayitum in huet
+Case 170: SiTila:SiTilayitum,SiTilAyitum in huet
+Case 171: SiSu:SiSUyitum in huet
+Case 172: SIGra:SIGrAyitum in huet
+Case 173: SU:Svayitum in huet
+Case 174: SyA:SyAtum in huet
+Case 175: SyAma:SyAmAyitum in huet
+Case 176: Syena:Syenayitum,SyenAyitum in huet
+Case 177: zaRQa:zaRQayitum in huet
+Case 178: zWIv:zWIvitum in huet
+Case 179: saKi:saKIyitum in huet
+Case 180: saNkawa:saNkawAyitum in huet
+Case 181: saNgrAma:saNgrAmayitum in huet
+Case 182: sajja:sajjIyitum in huet
+Case 183: satya:satyApayitum in huet
+Case 184: sapiRqa:sapiRqayitum in huet
+Case 185: saPala:saPalayitum in huet
+Case 186: samudra:samudrAyitum in huet
+Case 187: sA:sAtum,setum in huet
+Case 188: sAntva:sAntvayitum in huet
+Case 189: sAvaDAna:sAvaDAnayitum in huet
+Case 190: sIv:sIvitum in huet
+Case 191: suKa:suKAyitum,suKyitum in huet
+Case 192: sudina:sudinAyitum in huet
+Case 193: sumanas:sumanAyitum in huet
+Case 194: sUtra:sUtrayitum in huet
+Case 195: stF:staritum,starItum in huet
+Case 196: stena:stenayitum in huet
+Case 197: styA:styAtum in huet
+Case 198: sTaga:sTagayitum in huet
+Case 199: sPA:sPAtum in huet
+Case 200: svaYj:svaktum in huet
+Case 201: svalpaSilA:svalpaSilAyitum in huet
+Case 202: hU:hvayitum,hvAtum in huet
