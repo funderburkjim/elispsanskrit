@@ -56,31 +56,9 @@ The output is compare_indecl_ipp.txt, which provides some analysis of the
 similarities and differences between huet_indecl_ipp.txt and
 pysan_indecl_ipp.txt
 
-## Generate pysan declensions
-
-The rest of this readme is a placeholder. Currently, there are not
-precomputed declensions for passive past participles.  However, this
-is not viewed as a major problem, in terms of comparison with Huet, since
-ipp stems are declined with the common paradigms of adjectives ending in 'a'
-
-
-```
-python pysan_adverbs.py ipp  ../../grammar/prod/outputs/MW-verb-ipp-decl.txt
-
-```
-This input file of declensions of passive past participles is somewhat awkward to compare with the Huet file.  It constructs an output file for each
-of the Huet declensions (huet_decl_tables_ipp), by matching on the
-participle stem and class of the underlying root and the gender.
-
-##  compare declension tables
-```
-python compare_decl_tables.py ipp 
-```
-
-output is compare_decl_tables_ipp.txt
 
 ## first summary
 
-See [issue#20](https://github.com/funderburkjim/elispsanskrit/issues/20) for some discussion of the comparison.
+See [issue#26](https://github.com/funderburkjim/elispsanskrit/issues/26) for some discussion of the comparison.
 
 
