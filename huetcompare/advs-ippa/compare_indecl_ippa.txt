@@ -1,0 +1,1834 @@
+--------------------------------------------------
+402 cases of ROOT HAS SAME FORMS IN HUET and PYSAN
+--------------------------------------------------
+Case 01: aNg:aNgya identical in BOTH
+Case 02: aj:ajya identical in BOTH
+Case 03: aYj:ajya identical in BOTH
+Case 04: aw:awya identical in BOTH
+Case 05: at:atya identical in BOTH
+Case 06: ad:adya identical in BOTH
+Case 07: an:anya identical in BOTH
+Case 08: arT:arTya identical in BOTH
+Case 09: ard:ardya identical in BOTH
+Case 10: arh:arhya identical in BOTH
+Case 11: av:avya identical in BOTH
+Case 12: aS:aSya identical in BOTH
+Case 13: Ap:Apya identical in BOTH
+Case 14: As:Asya identical in BOTH
+Case 15: i:itya identical in BOTH
+Case 16: iNg:iNgya identical in BOTH
+Case 17: ind:indya identical in BOTH
+Case 18: inv:invya identical in BOTH
+Case 19: iz:izya identical in BOTH
+Case 20: Ikz:Ikzya identical in BOTH
+Case 21: INK:INKya identical in BOTH
+Case 22: Iq:Iqya identical in BOTH
+Case 23: Ir:Irya identical in BOTH
+Case 24: IS:ISya identical in BOTH
+Case 25: Iz:Izya identical in BOTH
+Case 26: Ih:Ihya identical in BOTH
+Case 27: ukz:ukzya identical in BOTH
+Case 28: uc:ucya identical in BOTH
+Case 29: ujJ:ujJya identical in BOTH
+Case 30: uYC:uYCya identical in BOTH
+Case 31: uz:uzya identical in BOTH
+Case 32: Uh:Uhya identical in BOTH
+Case 33: f:ftya identical in BOTH
+Case 34: fD:fDya identical in BOTH
+Case 35: fz:fzya identical in BOTH
+Case 36: ej:ejya identical in BOTH
+Case 37: eD:eDya identical in BOTH
+Case 38: kaRq:kaRqya identical in BOTH
+Case 39: katT:katTya identical in BOTH
+Case 40: kaT:kaTayya identical in BOTH
+Case 41: kamp:kampya identical in BOTH
+Case 42: kas:kasya identical in BOTH
+Case 43: kANkz:kANkzya identical in BOTH
+Case 44: kAS:kASya identical in BOTH
+Case 45: kIrt:kIrtya identical in BOTH
+Case 46: kIl:kIlya identical in BOTH
+Case 47: kuc:kucya identical in BOTH
+Case 48: kuRW:kuRWya identical in BOTH
+Case 49: kuRq:kuRqya identical in BOTH
+Case 50: kuts:kutsya identical in BOTH
+Case 51: kunT:kunTya identical in BOTH
+Case 52: kul:kulya identical in BOTH
+Case 53: kU:kUya identical in BOTH
+Case 54: kUj:kUjya identical in BOTH
+Case 55: kft:kftya identical in BOTH
+Case 56: kfS:kfSya identical in BOTH
+Case 57: kfz:kfzya identical in BOTH
+Case 58: kxp:kxpya identical in BOTH
+Case 59: krand:krandya identical in BOTH
+Case 60: krI:krIya identical in BOTH
+Case 61: krIq:krIqya identical in BOTH
+Case 62: kruD:kruDya identical in BOTH
+Case 63: kruS:kruSya identical in BOTH
+Case 64: klam:klamya identical in BOTH
+Case 65: klav:klavya identical in BOTH
+Case 66: kliS:kliSya identical in BOTH
+Case 67: kvaT:kvaTya identical in BOTH
+Case 68: kzad:kzadya identical in BOTH
+Case 69: kzar:kzarya identical in BOTH
+Case 70: kzip:kzipya identical in BOTH
+Case 71: kzu:kzutya identical in BOTH
+Case 72: kzud:kzudya identical in BOTH
+Case 73: kzuD:kzuDya identical in BOTH
+Case 74: kzuB:kzuBya identical in BOTH
+Case 75: KaRq:KaRqya identical in BOTH
+Case 76: KAd:KAdya identical in BOTH
+Case 77: Kel:Kelya identical in BOTH
+Case 78: KyA:KyAya identical in BOTH
+Case 79: gaR:gaRayya identical in BOTH
+Case 80: gam:gatya,gamya identical in BOTH
+Case 81: garj:garjya identical in BOTH
+Case 82: gard:gardya identical in BOTH
+Case 83: garh:garhya identical in BOTH
+Case 84: gal:galya identical in BOTH
+Case 85: galB:galBya identical in BOTH
+Case 86: gAh:gAhya identical in BOTH
+Case 87: guYj:guYjya identical in BOTH
+Case 88: guh:guhya identical in BOTH
+Case 89: gfD:gfDya identical in BOTH
+Case 90: gras:grasya identical in BOTH
+Case 91: glE:glAya identical in BOTH
+Case 92: Gaw:Gawya identical in BOTH
+Case 93: Gaww:Gawwya identical in BOTH
+Case 94: Guz:Guzya identical in BOTH
+Case 95: GUrR:GUrRya identical in BOTH
+Case 96: Gf:Gftya identical in BOTH
+Case 97: Gfz:Gfzya identical in BOTH
+Case 98: GrA:GrAya identical in BOTH
+Case 99: cakAs:cakAsya identical in BOTH
+Case 100: cakz:cakzya identical in BOTH
+Case 101: caw:cawya identical in BOTH
+Case 102: cat:catya identical in BOTH
+Case 103: cand:candya identical in BOTH
+Case 104: cam:camya identical in BOTH
+Case 105: car:carya identical in BOTH
+Case 106: cal:calya identical in BOTH
+Case 107: ci:citya identical in BOTH
+Case 108: cit:citya identical in BOTH
+Case 109: cint:cintya identical in BOTH
+Case 110: cud:cudya identical in BOTH
+Case 111: cumb:cumbya identical in BOTH
+Case 112: cUz:cUzya identical in BOTH
+Case 113: cezw:cezwya identical in BOTH
+Case 114: Cid:Cidya identical in BOTH
+Case 115: jap:japya identical in BOTH
+Case 116: jaB:jaBya identical in BOTH
+Case 117: jam:jamya identical in BOTH
+Case 118: jalp:jalpya identical in BOTH
+Case 119: jas:jasya identical in BOTH
+Case 120: ji:jitya identical in BOTH
+Case 121: jinv:jinvya identical in BOTH
+Case 122: jIv:jIvya identical in BOTH
+Case 123: juz:juzya identical in BOTH
+Case 124: jfmB:jfmBya identical in BOTH
+Case 125: jF:jIrya identical in BOTH
+Case 126: jYA:jYAya identical in BOTH
+Case 127: jyut:jyutya identical in BOTH
+Case 128: jval:jvalya identical in BOTH
+Case 129: qamb:qambya identical in BOTH
+Case 130: qI:qIya identical in BOTH
+Case 131: tak:takya identical in BOTH
+Case 132: takz:takzya identical in BOTH
+Case 133: tandr:tandrya identical in BOTH
+Case 134: tap:tapya identical in BOTH
+Case 135: tam:tamya identical in BOTH
+Case 136: tark:tarkya identical in BOTH
+Case 137: tarj:tarjya identical in BOTH
+Case 138: tij:tijya identical in BOTH
+Case 139: tud:tudya identical in BOTH
+Case 140: tup:tupya identical in BOTH
+Case 141: tuz:tuzya identical in BOTH
+Case 142: tfd:tfdya identical in BOTH
+Case 143: tfp:tfpya identical in BOTH
+Case 144: tF:tIrya identical in BOTH
+Case 145: tyaj:tyajya identical in BOTH
+Case 146: trap:trapya identical in BOTH
+Case 147: truw:truwya identical in BOTH
+Case 148: trE:trAya identical in BOTH
+Case 149: tvakz:tvakzya identical in BOTH
+Case 150: tviz:tvizya identical in BOTH
+Case 151: tsar:tsarya identical in BOTH
+Case 152: dakz:dakzya identical in BOTH
+Case 153: daG:daGya identical in BOTH
+Case 154: daB:daBya identical in BOTH
+Case 155: day:dayya identical in BOTH
+Case 156: dal:dalya identical in BOTH
+Case 157: das:dasya identical in BOTH
+Case 158: dah:dahya identical in BOTH
+Case 159: dAS:dASya identical in BOTH
+Case 160: diS:diSya identical in BOTH
+Case 161: dih:dihya identical in BOTH
+Case 162: dIkz:dIkzya identical in BOTH
+Case 163: dIp:dIpya identical in BOTH
+Case 164: du:dutya identical in BOTH
+Case 165: duz:duzya identical in BOTH
+Case 166: duh:duhya identical in BOTH
+Case 167: dfp:dfpya identical in BOTH
+Case 168: dfS:dfSya identical in BOTH
+Case 169: dfh:dfhya identical in BOTH
+Case 170: dF:dIrya identical in BOTH
+Case 171: dyut:dyutya identical in BOTH
+Case 172: drA:drAya identical in BOTH
+Case 173: dru:drutya identical in BOTH
+Case 174: druh:druhya identical in BOTH
+Case 175: dviz:dvizya identical in BOTH
+Case 176: DAv:DAvya identical in BOTH
+Case 177: DI:DIya identical in BOTH
+Case 178: Dukz:Dukzya identical in BOTH
+Case 179: Df:Dftya identical in BOTH
+Case 180: Dfz:Dfzya identical in BOTH
+Case 181: Dru:Drutya identical in BOTH
+Case 182: DvANkz:DvANkzya identical in BOTH
+Case 183: nakz:nakzya identical in BOTH
+Case 184: naw:nawya identical in BOTH
+Case 185: nad:nadya identical in BOTH
+Case 186: nand:nandya identical in BOTH
+Case 187: nam:natya,namya identical in BOTH
+Case 188: nard:nardya identical in BOTH
+Case 189: naS:naSya identical in BOTH
+Case 190: nah:nahya identical in BOTH
+Case 191: nAT:nATya identical in BOTH
+Case 192: nij:nijya identical in BOTH
+Case 193: nind:nindya identical in BOTH
+Case 194: nI:nIya identical in BOTH
+Case 195: nu:nutya identical in BOTH
+Case 196: nud:nudya identical in BOTH
+Case 197: nft:nftya identical in BOTH
+Case 198: paW:paWya identical in BOTH
+Case 199: paR:paRya identical in BOTH
+Case 200: pat:patya identical in BOTH
+Case 201: paT:paTya identical in BOTH
+Case 202: pad:padya identical in BOTH
+Case 203: palAy:palAyya identical in BOTH
+Case 204: piS:piSya identical in BOTH
+Case 205: piz:pizya identical in BOTH
+Case 206: pIq:pIqya identical in BOTH
+Case 207: puT:puTya identical in BOTH
+Case 208: puz:puzya identical in BOTH
+Case 209: pU:pUya identical in BOTH
+Case 210: pUj:pUjya identical in BOTH
+Case 211: pfc:pfcya identical in BOTH
+Case 212: pfz:pfzya identical in BOTH
+Case 213: pF:pUrya identical in BOTH
+Case 214: prI:prIya identical in BOTH
+Case 215: pluz:pluzya identical in BOTH
+Case 216: Pal:Palya identical in BOTH
+Case 217: Pull:Pullya identical in BOTH
+Case 218: bAD:bADya identical in BOTH
+Case 219: buD:buDya identical in BOTH
+Case 220: bfh:bfhya identical in BOTH
+Case 221: Bakz:Bakzya identical in BOTH
+Case 222: Baj:Bajya identical in BOTH
+Case 223: BaR:BaRya identical in BOTH
+Case 224: BaRq:BaRqya identical in BOTH
+Case 225: Band:Bandya identical in BOTH
+Case 226: Barts:Bartsya identical in BOTH
+Case 227: Baz:Bazya identical in BOTH
+Case 228: Bas:Basya identical in BOTH
+Case 229: BA:BAya identical in BOTH
+Case 230: BAz:BAzya identical in BOTH
+Case 231: BAs:BAsya identical in BOTH
+Case 232: Bid:Bidya identical in BOTH
+Case 233: BI:BIya identical in BOTH
+Case 234: BUz:BUzya identical in BOTH
+Case 235: Bf:Bftya identical in BOTH
+Case 236: BraMS:BraSya identical in BOTH
+Case 237: BrAj:BrAjya identical in BOTH
+Case 238: maRq:maRqya identical in BOTH
+Case 239: mad:madya identical in BOTH
+Case 240: manT:maTya identical in BOTH
+Case 241: mand:mandya identical in BOTH
+Case 242: mArg:mArgya identical in BOTH
+Case 243: miT:miTya identical in BOTH
+Case 244: mil:milya identical in BOTH
+Case 245: miz:mizya identical in BOTH
+Case 246: mih:mihya identical in BOTH
+Case 247: mIl:mIlya identical in BOTH
+Case 248: muc:mucya identical in BOTH
+Case 249: muz:muzya identical in BOTH
+Case 250: muh:muhya identical in BOTH
+Case 251: mUz:mUzya identical in BOTH
+Case 252: mf:mftya identical in BOTH
+Case 253: mfd:mfdya identical in BOTH
+Case 254: mfD:mfDya identical in BOTH
+Case 255: mfS:mfSya identical in BOTH
+Case 256: mfz:mfzya identical in BOTH
+Case 257: mokz:mokzya identical in BOTH
+Case 258: mnA:mnAya identical in BOTH
+Case 259: yaj:ijya identical in BOTH
+Case 260: yat:yatya identical in BOTH
+Case 261: yaB:yaBya identical in BOTH
+Case 262: yas:yasya identical in BOTH
+Case 263: yA:yAya identical in BOTH
+Case 264: yAc:yAcya identical in BOTH
+Case 265: yu:yutya identical in BOTH
+Case 266: yuj:yujya identical in BOTH
+Case 267: yuD:yuDya identical in BOTH
+Case 268: raMh:raMhya identical in BOTH
+Case 269: rakz:rakzya identical in BOTH
+Case 270: rac:racayya identical in BOTH
+Case 271: raYj:rajya identical in BOTH
+Case 272: rad:radya identical in BOTH
+Case 273: raD:raDya identical in BOTH
+Case 274: raB:raBya identical in BOTH
+Case 275: rah:rahayya identical in BOTH
+Case 276: rA:rAya identical in BOTH
+Case 277: rAj:rAjya identical in BOTH
+Case 278: rAD:rADya identical in BOTH
+Case 279: ric:ricya identical in BOTH
+Case 280: riz:rizya identical in BOTH
+Case 281: ru:rutya identical in BOTH
+Case 282: ruc:rucya identical in BOTH
+Case 283: ruj:rujya identical in BOTH
+Case 284: rud:rudya identical in BOTH
+Case 285: ruD:ruDya identical in BOTH
+Case 286: ruz:ruzya identical in BOTH
+Case 287: ruh:ruhya identical in BOTH
+Case 288: rUp:rUpya identical in BOTH
+Case 289: lakz:lakzya identical in BOTH
+Case 290: laNg:laNgya identical in BOTH
+Case 291: laNG:laNGya identical in BOTH
+Case 292: lajj:lajjya identical in BOTH
+Case 293: lap:lapya identical in BOTH
+Case 294: laB:laBya identical in BOTH
+Case 295: lamb:lambya identical in BOTH
+Case 296: lal:lalya identical in BOTH
+Case 297: lAYC:lAYCya identical in BOTH
+Case 298: liK:liKya identical in BOTH
+Case 299: lip:lipya identical in BOTH
+Case 300: liS:liSya identical in BOTH
+Case 301: lih:lihya identical in BOTH
+Case 302: lup:lupya identical in BOTH
+Case 303: luB:luBya identical in BOTH
+Case 304: lU:lUya identical in BOTH
+Case 305: lok:lokya identical in BOTH
+Case 306: loc:locya identical in BOTH
+Case 307: vac:ucya identical in BOTH
+Case 308: vaYc:vaYcya identical in BOTH
+Case 309: vand:vandya identical in BOTH
+Case 310: vap:upya identical in BOTH
+Case 311: val:valya identical in BOTH
+Case 312: valg:valgya identical in BOTH
+Case 313: vah:uhya identical in BOTH
+Case 314: vAYC:vAYCya identical in BOTH
+Case 315: vAS:vASya identical in BOTH
+Case 316: vic:vicya identical in BOTH
+Case 317: vid:vidya identical in BOTH
+Case 318: viD:viDya identical in BOTH
+Case 319: viS:viSya identical in BOTH
+Case 320: viz:vizya identical in BOTH
+Case 321: vI:vIya identical in BOTH
+Case 322: vIj:vIjya identical in BOTH
+Case 323: vf:vftya identical in BOTH
+Case 324: vfj:vfjya identical in BOTH
+Case 325: vft:vftya identical in BOTH
+Case 326: vfD:vfDya identical in BOTH
+Case 327: vfz:vfzya identical in BOTH
+Case 328: vfh:vfhya identical in BOTH
+Case 329: ven:venya identical in BOTH
+Case 330: vezw:vezwya identical in BOTH
+Case 331: vyaT:vyaTya identical in BOTH
+Case 332: vyaD:viDya identical in BOTH
+Case 333: vrIq:vrIqya identical in BOTH
+Case 334: Sak:Sakya identical in BOTH
+Case 335: SaNk:SaNkya identical in BOTH
+Case 336: Sad:Sadya identical in BOTH
+Case 337: Sap:Sapya identical in BOTH
+Case 338: Sas:Sasya identical in BOTH
+Case 339: Sikz:Sikzya identical in BOTH
+Case 340: Siz:Sizya identical in BOTH
+Case 341: SIl:SIlya identical in BOTH
+Case 342: Suc:Sucya identical in BOTH
+Case 343: SuD:SuDya identical in BOTH
+Case 344: SuB:SuBya identical in BOTH
+Case 345: SumB:SumBya identical in BOTH
+Case 346: Suz:Suzya identical in BOTH
+Case 347: SF:SIrya identical in BOTH
+Case 348: Scut:Scutya identical in BOTH
+Case 349: Sram:Sramya identical in BOTH
+Case 350: Sri:Sritya identical in BOTH
+Case 351: SlAG:SlAGya identical in BOTH
+Case 352: Sliz:Slizya identical in BOTH
+Case 353: Svas:Svasya identical in BOTH
+Case 354: Svit:Svitya identical in BOTH
+Case 355: sad:sadya identical in BOTH
+Case 356: sap:sapya identical in BOTH
+Case 357: sic:sicya identical in BOTH
+Case 358: siD:siDya identical in BOTH
+Case 359: su:sutya identical in BOTH
+Case 360: sUc:sUcya identical in BOTH
+Case 361: sUd:sUdya identical in BOTH
+Case 362: sfj:sfjya identical in BOTH
+Case 363: sfp:sfpya identical in BOTH
+Case 364: sev:sevya identical in BOTH
+Case 365: skamB:skamBya identical in BOTH
+Case 366: sKal:sKalya identical in BOTH
+Case 367: stan:stanya identical in BOTH
+Case 368: stamB:staBya identical in BOTH
+Case 369: stu:stutya identical in BOTH
+Case 370: stuB:stuBya identical in BOTH
+Case 371: sTA:sTAya identical in BOTH
+Case 372: snA:snAya identical in BOTH
+Case 373: snih:snihya identical in BOTH
+Case 374: snu:snutya identical in BOTH
+Case 375: snuh:snuhya identical in BOTH
+Case 376: spand:spandya identical in BOTH
+Case 377: sparD:sparDya identical in BOTH
+Case 378: spfS:spfSya identical in BOTH
+Case 379: spfh:spfhayya identical in BOTH
+Case 380: sPal:sPalya identical in BOTH
+Case 381: sPuw:sPuwya identical in BOTH
+Case 382: smi:smitya identical in BOTH
+Case 383: smf:smftya identical in BOTH
+Case 384: sru:srutya identical in BOTH
+Case 385: svad:svadya identical in BOTH
+Case 386: svan:svanya identical in BOTH
+Case 387: svap:supya identical in BOTH
+Case 388: svid:svidya identical in BOTH
+Case 389: haW:haWya identical in BOTH
+Case 390: had:hadya identical in BOTH
+Case 391: has:hasya identical in BOTH
+Case 392: hi:hitya identical in BOTH
+Case 393: hikk:hikkya identical in BOTH
+Case 394: hu:hutya identical in BOTH
+Case 395: huRq:huRqya identical in BOTH
+Case 396: hf:hftya identical in BOTH
+Case 397: hfz:hfzya identical in BOTH
+Case 398: hras:hrasya identical in BOTH
+Case 399: hrAd:hrAdya identical in BOTH
+Case 400: hrI:hrIya identical in BOTH
+Case 401: hlAd:hlAdya identical in BOTH
+Case 402: hval:hvalya identical in BOTH
+--------------------------------------------------
+32 cases of HUET FORMS < PYSAN FORMS
+--------------------------------------------------
+Case 01: il has ilya(huet) < ilya + elya(pysan)
+Case 02: kal has kalayya(huet) < kalayya + kAlya,kalya(pysan)
+Case 03: kuw has kuwya(huet) < kuwya + kowya(pysan)
+Case 04: kup has kupya(huet) < kupya + kopya(pysan)
+Case 05: kfp has kfpya(huet) < kfpya + kfpayya(pysan)
+Case 06: kF has kIrya(huet) < kIrya + kArya(pysan)
+Case 07: kzap has kzapya(huet) < kzapya + kzapayya(pysan)
+Case 08: gaj has gajya(huet) < gajya + gAjya(pysan)
+Case 09: gad has gadya(huet) < gadya + gAdya,gadayya(pysan)
+Case 10: gF has gIrya(huet) < gIrya + gArya(pysan)
+Case 11: Cad has Cadya(huet) < Cadya + CAdya(pysan)
+Case 12: jan has jAya(huet) < jAya + janya(pysan)
+Case 13: tan has tatya,tanya(huet) < tatya,tanya + tAnya(pysan)
+Case 14: tras has trasya(huet) < trasya + trAsya(pysan)
+Case 15: daMS has daSya(huet) < daSya + daMSya(pysan)
+Case 16: dfB has dfBya(huet) < dfBya + darBya(pysan)
+Case 17: paw has pawya(huet) < pawya + pAwya,pawayya(pysan)
+Case 18: praT has praTya(huet) < praTya + prATya(pysan)
+Case 19: mah has mahya(huet) < mahya + mahayya(pysan)
+Case 20: mud has mudya(huet) < mudya + modya(pysan)
+Case 21: mfj has mfjya(huet) < mfjya + marjya(pysan)
+Case 22: yam has yamya(huet) < yamya + yatya(pysan)
+Case 23: raR has raRya(huet) < raRya + rARya(pysan)
+Case 24: lag has lagya(huet) < lagya + lAgya(pysan)
+Case 25: laz has lazya(huet) < lazya + lAzya(pysan)
+Case 26: las has lasya(huet) < lasya + lAsya(pysan)
+Case 27: lI has lIya(huet) < lIya + lAya(pysan)
+Case 28: luW has luWya(huet) < luWya + loWya(pysan)
+Case 29: vas has uzya,vasya(huet) < uzya,vasya + vAsya,vasayya(pysan)
+Case 30: Sal has Salya(huet) < Salya + SAlya(pysan)
+Case 31: san has sAya(huet) < sAya + sanya(pysan)
+Case 32: svar has svarya(huet) < svarya + svarayya(pysan)
+--------------------------------------------------
+28 cases of HUET FORMS > PYSAN FORMS
+--------------------------------------------------
+Case 01: as has asya + Asam(huet) > asya (pysan)
+Case 02: und has undya + udya(huet) > undya (pysan)
+Case 03: kaz has kazya + kAzam(huet) > kazya (pysan)
+Case 04: kf has kftya + kAram(huet) > kftya (pysan)
+Case 05: kram has kramya + krAmam(huet) > kramya (pysan)
+Case 06: grah has gfhya + gfBya(huet) > gfhya (pysan)
+Case 07: tfz has tfzya + tarzam(huet) > tfzya (pysan)
+Case 08: tvar has tvarya + tUrya(huet) > tvarya (pysan)
+Case 09: dA has dAya + dAyam,dIya(huet) > dAya (pysan)
+Case 10: DA has DAya + DIya(huet) > DAya (pysan)
+Case 11: DU has DUya + Duya(huet) > DUya (pysan)
+Case 12: plu has plutya + plUya(huet) > plutya (pysan)
+Case 13: banD has baDya + banDam(huet) > baDya (pysan)
+Case 14: Buj has Bujya + Bojam,Bugya(huet) > Bujya (pysan)
+Case 15: BU has BUya + BAvam(huet) > BUya (pysan)
+Case 16: man has matya,manya + mAya(huet) > matya,manya (pysan)
+Case 17: mA has mAya + mIya(huet) > mAya (pysan)
+Case 18: vad has udya + vAdam(huet) > udya (pysan)
+Case 19: van has vatya + vanya(huet) > vatya (pysan)
+Case 20: vA has vAya + Uya,uya(huet) > vAya (pysan)
+Case 21: SAs has SAsya + Sizya(huet) > SAsya (pysan)
+Case 22: Sru has Srutya + SrAvam(huet) > Srutya (pysan)
+Case 23: saYj has sajya + saYgam(huet) > sajya (pysan)
+Case 24: sU has sUya + suya(huet) > sUya (pysan)
+Case 25: skand has skadya + skandya(huet) > skadya (pysan)
+Case 26: syand has syadya + syandya(huet) > syadya (pysan)
+Case 27: han has hatya + hanya(huet) > hatya (pysan)
+Case 28: hA has hAya + hIya(huet) > hAya (pysan)
+--------------------------------------------------
+67 cases of DIFFERENT FORMSQ
+--------------------------------------------------
+Case 01: aYc has akya,acya(huet) != acya,aYcya(pysan)
+Case 02: am has Anya(huet) != amya(pysan)
+Case 03: inD has iDya(huet) != inDya(pysan)
+Case 04: fc has arcya(huet) != fcya(pysan)
+Case 05: fj has arjya(huet) != fjya(pysan)
+Case 06: kruYc has krucya(huet) != kruYcya(pysan)
+Case 07: klid has klinya(huet) != klidya(pysan)
+Case 08: kzan has kzaya(huet) != kzatya(pysan)
+Case 09: kzam has kzARya(huet) != kzamya(pysan)
+Case 10: kzi has kzItya(huet) != kzIya(pysan)
+Case 11: kzviq has kzveqya(huet) != kzviqya(pysan)
+Case 12: Kan has KAnam,KAya(huet) != Kanya,KAya(pysan)
+Case 13: Kid has Kinya(huet) != Kidya(pysan)
+Case 14: gA has gIya(huet) != gAya(pysan)
+Case 15: gup has gupayya(huet) != gupya(pysan)
+Case 16: gumP has guPya(huet) != gumPya(pysan)
+Case 17: gur has gurya(huet) != gUrya(pysan)
+Case 18: caYc has cacya(huet) != caYcya(pysan)
+Case 19: cur has curayya,curya(huet) != corya(pysan)
+Case 20: cyu has cyutya(huet) != cyAvya(pysan)
+Case 21: jakz has jaGya(huet) != jakzya(pysan)
+Case 22: jAgf has jAgartya(huet) != jAgarya(pysan)
+Case 23: jyA has jIya(huet) != jyAya(pysan)
+Case 24: taYc has tacya(huet) != taYcya(pysan)
+Case 25: tul has tulayya(huet) != tolya(pysan)
+Case 26: dam has dAnya(huet) != damya(pysan)
+Case 27: dev has dyUya(huet) != devya(pysan)
+Case 28: Dam has DmAya(huet) != Damya(pysan)
+Case 29: DvaMs has Dvasya(huet) != DvaMsya(pysan)
+Case 30: Dvan has DvAnya(huet) != Dvanya(pysan)
+Case 31: Dvf has DUrtya(huet) != Dvftya(pysan)
+Case 32: pac has pakya(huet) != pacya(pysan)
+Case 33: pA has pAyam,pIya(huet) != pAya(pysan)
+Case 34: pi has pIya(huet) != pitya(pysan)
+Case 35: piYj has pijya(huet) != piYjya(pysan)
+Case 36: pUy has pUya(huet) != pUyya(pysan)
+Case 37: pf has pritya(huet) != pftya(pysan)
+Case 38: pfT has pfTayya(huet) != parTya(pysan)
+Case 39: pru has prUtya(huet) != prutya(pysan)
+Case 40: baMh has bahya(huet) != baMhya(pysan)
+Case 41: BaYj has Bagya(huet) != Bajya(pysan)
+Case 42: Bram has BrARya(huet) != Bramya(pysan)
+Case 43: maMh has mahya(huet) != maMhya(pysan)
+Case 44: majj has magya(huet) != majjya(pysan)
+Case 45: mi has mitya(huet) != mAya(pysan)
+Case 46: mid has midayya(huet) != midya,medya(pysan)
+Case 47: mI has mIya(huet) != mAya,mAyya(pysan)
+Case 48: mfq has mfqayya,mfqya(huet) != marqya,mfqya(pysan)
+Case 49: ram has raya(huet) != ratya,ramya(pysan)
+Case 50: luYc has lucya(huet) != luYcya(pysan)
+Case 51: vam has vAnya(huet) != vamya(pysan)
+Case 52: vij has vigya(huet) != vijya(pysan)
+Case 53: vip has vepya(huet) != vipya(pysan)
+Case 54: vraj has vrajya(huet) != vrAjya(pysan)
+Case 55: vraSc has vfSya(huet) != vfScya(pysan)
+Case 56: SaMs has Sasya(huet) != SaMsya(pysan)
+Case 57: Sam has SAnya(huet) != Samya(pysan)
+Case 58: SI has Sayya(huet) != SIya(pysan)
+Case 59: SramB has SraBya(huet) != SramBya(pysan)
+Case 60: sah has sahya,sohya(huet) != sahya,sAhya(pysan)
+Case 61: sur has surya(huet) != sUrya,sorya(pysan)
+Case 62: sf has sAram,sftya(huet) != sArya,sftya(pysan)
+Case 63: sPur has sPurya(huet) != sPUrya(pysan)
+Case 64: sraMs has sraMsya(huet) != srasya(pysan)
+Case 65: hiMs has hiMzya(huet) != hiMsya(pysan)
+Case 66: hnu has hnUtya(huet) != hnutya(pysan)
+Case 67: hvf has hvartya(huet) != hvftya(pysan)
+--------------------------------------------------
+1085 cases of ROOT IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMS:aMSApya,aMSya in pysan
+Case 02: aMs:aMsApya,aMsya in pysan
+Case 03: aMh:aMhya in pysan
+Case 04: ak:akya in pysan
+Case 05: akz:akzya in pysan
+Case 06: ag:agya in pysan
+Case 07: aG:aGayya in pysan
+Case 08: aNk:aNkya in pysan
+Case 09: aNK:aNKya in pysan
+Case 10: aNG:aNGya in pysan
+Case 11: ac:acya in pysan
+Case 12: aww:awwya in pysan
+Case 13: aW:aWya in pysan
+Case 14: aq:aqya in pysan
+Case 15: aqq:aqqya in pysan
+Case 16: aR:aRya in pysan
+Case 17: aRW:aRWya in pysan
+Case 18: ant:antya in pysan
+Case 19: and:andya in pysan
+Case 20: anD:anDya in pysan
+Case 21: aBr:aBrya in pysan
+Case 22: amb:ambya in pysan
+Case 23: ay:ayya in pysan
+Case 24: arc:arcya in pysan
+Case 25: arj:arjya in pysan
+Case 26: arb:arbya in pysan
+Case 27: arv:arvya in pysan
+Case 28: al:alya in pysan
+Case 29: avalok:avalokya in pysan
+Case 30: az:azya in pysan
+Case 31: ah:ahya in pysan
+Case 32: iK:iKya in pysan
+Case 33: iNK:iNKya in pysan
+Case 34: iw:iwya in pysan
+Case 35: ir:Irya in pysan
+Case 36: I:Iya in pysan
+Case 37: IK:IKya in pysan
+Case 38: Ij:Ijya in pysan
+Case 39: Int:Intya in pysan
+Case 40: Irzy:Irzyya in pysan
+Case 41: u:utya in pysan
+Case 42: uK:uKya in pysan
+Case 43: uNK:uNKya in pysan
+Case 44: uC:uCya in pysan
+Case 45: uW:uWya in pysan
+Case 46: ud:udya in pysan
+Case 47: uDras:uDrasya,uDrAsya in pysan
+Case 48: upAr:upArya in pysan
+Case 49: ubj:ubjya in pysan
+Case 50: uB:uBya in pysan
+Case 51: ulaq:ulAqya in pysan
+Case 52: uh:uhya in pysan
+Case 53: Uy:Uyya in pysan
+Case 54: UrRu:UrRutya in pysan
+Case 55: Urd:Urdya in pysan
+Case 56: Urv:Urvya in pysan
+Case 57: Uz:Uzya in pysan
+Case 58: fC:fCya in pysan
+Case 59: fYj:fYjya in pysan
+Case 60: fR:ftya in pysan
+Case 61: ft:ftya in pysan
+Case 62: fP:fPya in pysan
+Case 63: eW:eWya in pysan
+Case 64: ez:ezya in pysan
+Case 65: oK:oKya in pysan
+Case 66: oj:ojya in pysan
+Case 67: oR:oRya in pysan
+Case 68: olaRq:olaRqya in pysan
+Case 69: kaMs:kaMsya in pysan
+Case 70: kak:kakya in pysan
+Case 71: kaK:kaKya in pysan
+Case 72: kag:kagya in pysan
+Case 73: kaNk:kaNkya in pysan
+Case 74: kac:kacya in pysan
+Case 75: kaj:kajya in pysan
+Case 76: kaYc:kaYcya in pysan
+Case 77: kaw:kawya in pysan
+Case 78: kaww:kawwya in pysan
+Case 79: kaW:kaWya in pysan
+Case 80: kaq:kaqya in pysan
+Case 81: kaqq:kaqqya in pysan
+Case 82: kaR:kaRya,kARya in pysan
+Case 83: kaRw:kaRwya in pysan
+Case 84: kaRW:kaRWya in pysan
+Case 85: katr:katrya in pysan
+Case 86: kad:kadya in pysan
+Case 87: kan:kanya in pysan
+Case 88: kand:kandya in pysan
+Case 89: kab:kabya in pysan
+Case 90: kam:kamya in pysan
+Case 91: kamb:kambya in pysan
+Case 92: karj:karjya in pysan
+Case 93: karR:karRya in pysan
+Case 94: kartr:kartrya in pysan
+Case 95: kard:kardya in pysan
+Case 96: karb:karbya in pysan
+Case 97: karv:karvya in pysan
+Case 98: kall:kallya in pysan
+Case 99: kav:kavya,kAvya in pysan
+Case 100: kaS:kaSya in pysan
+Case 101: kAMs:kAMsya in pysan
+Case 102: kAYc:kAYcya in pysan
+Case 103: kAs:kAsya in pysan
+Case 104: ki:kitya in pysan
+Case 105: kiw:kiwya in pysan
+Case 106: kit:kitya in pysan
+Case 107: kil:kilya,kelya in pysan
+Case 108: kizk:kizkya in pysan
+Case 109: kIw:kIwya in pysan
+Case 110: ku:kutya in pysan
+Case 111: kuMS:kuMSya in pysan
+Case 112: kuk:kukya in pysan
+Case 113: kuj:kujya in pysan
+Case 114: kuYc:kuYcya in pysan
+Case 115: kuYj:kuYjya in pysan
+Case 116: kuww:kuwwya in pysan
+Case 117: kuq:kuqya in pysan
+Case 118: kuR:kuRayya,kuRya,koRya in pysan
+Case 119: kuT:kuTya in pysan
+Case 120: kud:kodya in pysan
+Case 121: kundr:kundrya in pysan
+Case 122: kumb:kumbya in pysan
+Case 123: kur:kUrya in pysan
+Case 124: kuS:kuSya in pysan
+Case 125: kuz:kuzya in pysan
+Case 126: kuh:kuhayya in pysan
+Case 127: kUw:kUwya in pysan
+Case 128: kUq:kUqya in pysan
+Case 129: kUR:kURya in pysan
+Case 130: kUp:kUpya in pysan
+Case 131: kUrd:kUrdya in pysan
+Case 132: kUl:kUlya in pysan
+Case 133: kFt:kIrtya in pysan
+Case 134: kep:kepya in pysan
+Case 135: kel:kelya in pysan
+Case 136: kev:kevya in pysan
+Case 137: kE:kAya in pysan
+Case 138: knaMs:knaMsya in pysan
+Case 139: knaT:knaTya in pysan
+Case 140: knas:knasya in pysan
+Case 141: knu:knutya in pysan
+Case 142: knUy:knUyya in pysan
+Case 143: kmar:kmarya in pysan
+Case 144: kraMS:kraMSya in pysan
+Case 145: kraT:kraTya in pysan
+Case 146: krap:krapya in pysan
+Case 147: kruq:kruqya,kroqya in pysan
+Case 148: klaT:klaTya in pysan
+Case 149: kland:klandya in pysan
+Case 150: klind:klindya in pysan
+Case 151: klIb:klIbya in pysan
+Case 152: kleS:kleSya in pysan
+Case 153: kvaR:kvaRya in pysan
+Case 154: kzaj:kzajya,kzAjya in pysan
+Case 155: kzaR:kzatya in pysan
+Case 156: kzamp:kzampya in pysan
+Case 157: kzal:kzAlya in pysan
+Case 158: kziR:kzitya in pysan
+Case 159: kziv:kzIvya in pysan
+Case 160: kzIj:kzIjya in pysan
+Case 161: kzIb:kzIbya in pysan
+Case 162: kzIv:kzIvya in pysan
+Case 163: kzup:kzupya in pysan
+Case 164: kzump:kzumpya in pysan
+Case 165: kzur:kzUrya in pysan
+Case 166: kzE:kzAya in pysan
+Case 167: kzow:kzowya in pysan
+Case 168: kzRu:kzRutya in pysan
+Case 169: kzmAy:kzmAyya in pysan
+Case 170: kzmIl:kzmIlya in pysan
+Case 171: kzvid:kzvidya in pysan
+Case 172: kzvel:kzvelya in pysan
+Case 173: Kac:Kacya,KAcya in pysan
+Case 174: Kaj:Kajya in pysan
+Case 175: KaYj:KaYjya in pysan
+Case 176: Kaw:Kawya in pysan
+Case 177: Kaww:Kawwya in pysan
+Case 178: Kaq:KAqya in pysan
+Case 179: Kad:Kadya in pysan
+Case 180: Kamb:Kambya in pysan
+Case 181: Karj:Karjya in pysan
+Case 182: Kard:Kardya in pysan
+Case 183: Karb:Karbya in pysan
+Case 184: Karv:Karvya in pysan
+Case 185: Kal:Kalya in pysan
+Case 186: Kall:Kallya in pysan
+Case 187: Kaz:Kazya in pysan
+Case 188: Kiw:Kiwya in pysan
+Case 189: Ku:Kutya in pysan
+Case 190: Kuj:Kujya in pysan
+Case 191: KuRq:KuRqya in pysan
+Case 192: Kud:Kudya in pysan
+Case 193: Kur:KUrya in pysan
+Case 194: Kurd:KUrdya in pysan
+Case 195: Kew:Kewya in pysan
+Case 196: KE:KAya in pysan
+Case 197: Kow:Kowya in pysan
+Case 198: Koq:Koqya in pysan
+Case 199: Kor:Korya in pysan
+Case 200: gaYj:gaYjya in pysan
+Case 201: gaq:gaqya,gAqya in pysan
+Case 202: gaRq:gaRqya in pysan
+Case 203: gaD:gaDya in pysan
+Case 204: ganD:ganDya in pysan
+Case 205: gamb:gambya in pysan
+Case 206: garb:garbya in pysan
+Case 207: garv:garvya in pysan
+Case 208: gah:gAhya in pysan
+Case 209: gAD:gADya in pysan
+Case 210: gu:gutya in pysan
+Case 211: guj:gujya in pysan
+Case 212: guq:guqya in pysan
+Case 213: guRW:guRWya in pysan
+Case 214: guRq:guRqya in pysan
+Case 215: gud:gudya in pysan
+Case 216: guD:guDya in pysan
+Case 217: guP:guPya in pysan
+Case 218: gurd:gUrdya in pysan
+Case 219: gurv:gUrvya in pysan
+Case 220: gUrd:gUrdya in pysan
+Case 221: gUrD:gUrDya in pysan
+Case 222: gf:gftya in pysan
+Case 223: gep:gepya in pysan
+Case 224: gev:gevya in pysan
+Case 225: gez:gezya in pysan
+Case 226: gE:gAya in pysan
+Case 227: graT:graTya in pysan
+Case 228: gruc:grucya in pysan
+Case 229: glas:glasya in pysan
+Case 230: gluc:glucya in pysan
+Case 231: gluYc:gluYcya in pysan
+Case 232: glep:glepya in pysan
+Case 233: glev:glevya in pysan
+Case 234: glez:glezya in pysan
+Case 235: GaMz:GaMzya in pysan
+Case 236: GagG:GagGya in pysan
+Case 237: GaR:Gatya in pysan
+Case 238: GaRw:GaRwya in pysan
+Case 239: Gamb:Gambya in pysan
+Case 240: Gar:GArya in pysan
+Case 241: Garb:Garbya in pysan
+Case 242: Gas:Gasya in pysan
+Case 243: GiRR:GiRRya in pysan
+Case 244: Gu:Gutya in pysan
+Case 245: Guw:Guwya in pysan
+Case 246: Guq:Guqya in pysan
+Case 247: GuR:GuRya in pysan
+Case 248: GuRR:GuRRya in pysan
+Case 249: GUr:GUrya in pysan
+Case 250: GfR:Gftya in pysan
+Case 251: GfRR:GfRRya in pysan
+Case 252: Gol:Golya in pysan
+Case 253: Nu:Nutya in pysan
+Case 254: cak:cakya in pysan
+Case 255: cakk:cakkya in pysan
+Case 256: caG:caGya in pysan
+Case 257: caR:caRya in pysan
+Case 258: caRq:caRqya in pysan
+Case 259: cad:cadya in pysan
+Case 260: can:canya in pysan
+Case 261: cap:capayya,capya in pysan
+Case 262: camp:campya in pysan
+Case 263: camb:cambya in pysan
+Case 264: cay:cayya in pysan
+Case 265: carG:carGya in pysan
+Case 266: carc:carcya in pysan
+Case 267: carb:carbya in pysan
+Case 268: carv:carvya in pysan
+Case 269: cah:cahya,cAhya in pysan
+Case 270: cikk:cikkya in pysan
+Case 271: ciw:ciwya in pysan
+Case 272: ciri:ciritya in pysan
+Case 273: cil:cilya in pysan
+Case 274: cIk:cIkya in pysan
+Case 275: cIv:cIvya in pysan
+Case 276: cukk:cukkya in pysan
+Case 277: cuw:cuwya,cowya in pysan
+Case 278: cuww:cuwwya in pysan
+Case 279: cuq:cuqya in pysan
+Case 280: cuqq:cuqqya in pysan
+Case 281: cuR:cuRya in pysan
+Case 282: cuRW:cuRWya in pysan
+Case 283: cut:cutya in pysan
+Case 284: cup:cupya in pysan
+Case 285: cul:colya in pysan
+Case 286: culump:culumpya in pysan
+Case 287: cUR:cURya in pysan
+Case 288: cUr:cUrya in pysan
+Case 289: cUrR:cUrRya in pysan
+Case 290: cft:cftya in pysan
+Case 291: cel:celya in pysan
+Case 292: cyut:cyutya in pysan
+Case 293: cyus:cyosya in pysan
+Case 294: Cam:Camya in pysan
+Case 295: Camp:Campya in pysan
+Case 296: Cal:CAlya in pysan
+Case 297: Caz:Cazya in pysan
+Case 298: Cuw:Cuwya,Cowya in pysan
+Case 299: Cuq:Cuqya in pysan
+Case 300: Cup:Cupya in pysan
+Case 301: Cur:CUrya in pysan
+Case 302: Cfd:Cfdya in pysan
+Case 303: Cfp:Cfpya in pysan
+Case 304: Co:CAya in pysan
+Case 305: jaMs:jaMsya in pysan
+Case 306: jaNkz:jaNkzya in pysan
+Case 307: jaj:jajya in pysan
+Case 308: jarc:jarcya in pysan
+Case 309: jarC:jarCya in pysan
+Case 310: jarj:jarjya in pysan
+Case 311: jarts:jartsya in pysan
+Case 312: jal:jalya,jAlya in pysan
+Case 313: jim:jimya in pysan
+Case 314: jiri:jiritya in pysan
+Case 315: jiz:jizya in pysan
+Case 316: juNg:juNgya in pysan
+Case 317: juYc:juYcya in pysan
+Case 318: juw:juwya in pysan
+Case 319: juq:juqya,joqya in pysan
+Case 320: jun:junya in pysan
+Case 321: jur:jUrya in pysan
+Case 322: jul:jolya in pysan
+Case 323: jUr:jUrya in pysan
+Case 324: jUrv:jUrvya in pysan
+Case 325: jf:jftya in pysan
+Case 326: jez:jezya in pysan
+Case 327: jeh:jehya in pysan
+Case 328: jE:jAya in pysan
+Case 329: jyo:jyAya in pysan
+Case 330: jri:jritya in pysan
+Case 331: Jaw:Jawya in pysan
+Case 332: Jam:Jamya in pysan
+Case 333: Jarc:Jarcya in pysan
+Case 334: Jaz:Jazya in pysan
+Case 335: Ju:Jutya in pysan
+Case 336: JUz:JUzya in pysan
+Case 337: JF:JIrya in pysan
+Case 338: Jyu:Jyutya in pysan
+Case 339: waNk:waNkya in pysan
+Case 340: wik:wikya in pysan
+Case 341: wIk:wIkya in pysan
+Case 342: wOk:wOkya in pysan
+Case 343: wval:wvalya in pysan
+Case 344: qap:qApya in pysan
+Case 345: qam:qamya in pysan
+Case 346: qamp:qampya in pysan
+Case 347: qamB:qamBya in pysan
+Case 348: qip:qipya,qepya in pysan
+Case 349: QOk:QOkya in pysan
+Case 350: taNk:taNkya in pysan
+Case 351: taNg:taNgya in pysan
+Case 352: taw:tawya in pysan
+Case 353: taq:tAqya in pysan
+Case 354: taRq:taRqya in pysan
+Case 355: tand:tandya in pysan
+Case 356: tay:tayya in pysan
+Case 357: tard:tardya in pysan
+Case 358: tal:talya,tAlya in pysan
+Case 359: tas:tasya in pysan
+Case 360: tAy:tAyya in pysan
+Case 361: tik:tikya in pysan
+Case 362: tig:tigya in pysan
+Case 363: tiG:tiGya in pysan
+Case 364: tip:tipya in pysan
+Case 365: tim:timya in pysan
+Case 366: til:tilya,telya in pysan
+Case 367: till:tillya in pysan
+Case 368: tIk:tIkya in pysan
+Case 369: tIm:tImya in pysan
+Case 370: tIv:tIvya in pysan
+Case 371: tu:tutya in pysan
+Case 372: tuj:tujya in pysan
+Case 373: tuw:tuwya in pysan
+Case 374: tuq:tuqya in pysan
+Case 375: tuqq:tuqqya in pysan
+Case 376: tuR:tuRya in pysan
+Case 377: tuRq:tuRqya in pysan
+Case 378: tund:tundya in pysan
+Case 379: tuB:tuBya in pysan
+Case 380: tump:tumpya in pysan
+Case 381: tumb:tumbya in pysan
+Case 382: tur:tUrya in pysan
+Case 383: turv:tUrvya in pysan
+Case 384: tuS:tuSya in pysan
+Case 385: tus:tusya in pysan
+Case 386: tuh:tuhya in pysan
+Case 387: tUq:tUqya in pysan
+Case 388: tUR:tURya in pysan
+Case 389: tUl:tUlya in pysan
+Case 390: tUz:tUzya in pysan
+Case 391: tfkz:tfkzya in pysan
+Case 392: tfR:tftya in pysan
+Case 393: tfP:tfPya in pysan
+Case 394: tfmp:tfmpya in pysan
+Case 395: tfmP:tfmPya in pysan
+Case 396: tfh:tfhya in pysan
+Case 397: tep:tepya in pysan
+Case 398: tev:tevya in pysan
+Case 399: toq:toqya in pysan
+Case 400: traMs:traMsya in pysan
+Case 401: traK:traKya in pysan
+Case 402: trand:trandya in pysan
+Case 403: triNK:triNKya in pysan
+Case 404: trup:trupya in pysan
+Case 405: truP:truPya in pysan
+Case 406: trump:trumpya in pysan
+Case 407: trumP:trumPya in pysan
+Case 408: trOk:trOkya in pysan
+Case 409: tvaNg:tvaNgya in pysan
+Case 410: tvac:tvacya in pysan
+Case 411: tvaYc:tvaYcya in pysan
+Case 412: Tarv:Tarvya in pysan
+Case 413: Tuq:Tuqya in pysan
+Case 414: Turv:TUrvya in pysan
+Case 415: daMs:daMsya in pysan
+Case 416: daMh:daMhya in pysan
+Case 417: daNG:daNGya in pysan
+Case 418: dad:dadya in pysan
+Case 419: daD:daDya in pysan
+Case 420: danv:danvya in pysan
+Case 421: damB:daBya in pysan
+Case 422: dAn:dAnya in pysan
+Case 423: dAy:dAyya in pysan
+Case 424: dAs:dAsya in pysan
+Case 425: dinv:dinvya in pysan
+Case 426: dip:dipya in pysan
+Case 427: dimp:dimpya in pysan
+Case 428: dimB:dimBya in pysan
+Case 429: div:dIvya,devya in pysan
+Case 430: dI:dAya in pysan
+Case 431: dIDI:dIDIya in pysan
+Case 432: duD:duDya in pysan
+Case 433: durv:dUrvya in pysan
+Case 434: dul:dolya in pysan
+Case 435: dU:dUya in pysan
+Case 436: df:dftya in pysan
+Case 437: dfMh:dfMhya in pysan
+Case 438: de:dAya in pysan
+Case 439: dE:dAya in pysan
+Case 440: do:dAya in pysan
+Case 441: dyu:dyutya in pysan
+Case 442: dyE:dyAya in pysan
+Case 443: dram:dramya in pysan
+Case 444: drAK:drAKya in pysan
+Case 445: drANkz:drANkzya in pysan
+Case 446: drAq:drAqya in pysan
+Case 447: drAh:drAhya in pysan
+Case 448: druq:druqya in pysan
+Case 449: druR:druRya in pysan
+Case 450: drumm:drummya in pysan
+Case 451: drU:drUya in pysan
+Case 452: drUq:drUqya in pysan
+Case 453: drek:drekya in pysan
+Case 454: drE:drAya in pysan
+Case 455: dvf:dvftya in pysan
+Case 456: Dakk:Dakkya in pysan
+Case 457: DaR:DaRya in pysan
+Case 458: Dan:Danya in pysan
+Case 459: Dav:Davya in pysan
+Case 460: Di:Ditya in pysan
+Case 461: Dikz:Dikzya in pysan
+Case 462: Diz:Dizya in pysan
+Case 463: DIkz:DIkzya in pysan
+Case 464: Du:Dutya in pysan
+Case 465: DUp:DUpya in pysan
+Case 466: DUr:DUrya in pysan
+Case 467: DUrv:DUrvya in pysan
+Case 468: DUS:DUSya in pysan
+Case 469: Dfj:Dfjya in pysan
+Case 470: DF:DIrya in pysan
+Case 471: De:DAya in pysan
+Case 472: Dor:Dorya in pysan
+Case 473: DmA:DmAya in pysan
+Case 474: DyE:DyAya in pysan
+Case 475: Draj:Drajya in pysan
+Case 476: DraR:DraRya in pysan
+Case 477: Dras:Drasya in pysan
+Case 478: DrA:DrAya in pysan
+Case 479: Drij:Drijya in pysan
+Case 480: Drek:Drekya in pysan
+Case 481: DrE:DrAya in pysan
+Case 482: Dvaj:Dvajya in pysan
+Case 483: DvaR:DvaRya in pysan
+Case 484: DvraR:DvraRya in pysan
+Case 485: nakk:nakkya in pysan
+Case 486: naK:naKya in pysan
+Case 487: naj:najya in pysan
+Case 488: naq:nAqya in pysan
+Case 489: naB:naBya in pysan
+Case 490: namb:nambya in pysan
+Case 491: nay:nayya in pysan
+Case 492: narb:narbya in pysan
+Case 493: nal:nalya,nAlya in pysan
+Case 494: nas:nasya in pysan
+Case 495: nAD:nADya in pysan
+Case 496: nAs:nAsya in pysan
+Case 497: niMs:niMsya in pysan
+Case 498: nikz:nikzya in pysan
+Case 499: niYj:niYjya in pysan
+Case 500: ninv:ninvya in pysan
+Case 501: nil:nilya in pysan
+Case 502: niS:niSya in pysan
+Case 503: niz:nizya in pysan
+Case 504: nizk:nizkya in pysan
+Case 505: nIl:nIlya in pysan
+Case 506: nIv:nIvya in pysan
+Case 507: nuq:nuqya in pysan
+Case 508: nF:nIrya in pysan
+Case 509: ned:nedya in pysan
+Case 510: nez:nezya in pysan
+Case 511: paMS:paMSya in pysan
+Case 512: pakz:pakzya in pysan
+Case 513: paRq:paRqya in pysan
+Case 514: pan:panya in pysan
+Case 515: panT:panTya in pysan
+Case 516: pamb:pambya in pysan
+Case 517: pay:payya in pysan
+Case 518: parR:parRya in pysan
+Case 519: pard:pardya in pysan
+Case 520: parp:parpya in pysan
+Case 521: parb:parbya in pysan
+Case 522: parv:parvya in pysan
+Case 523: parz:parzya in pysan
+Case 524: pal:palya in pysan
+Case 525: pall:pallya in pysan
+Case 526: pav:pavya in pysan
+Case 527: paS:pASya in pysan
+Case 528: paz:pazya in pysan
+Case 529: pas:pasya,pAsya in pysan
+Case 530: pAy:pAyya in pysan
+Case 531: pAl:pAlya in pysan
+Case 532: piMs:piMsya in pysan
+Case 533: picc:piccya in pysan
+Case 534: piC:piCya,peCya in pysan
+Case 535: piw:piwya in pysan
+Case 536: piW:piWya in pysan
+Case 537: piRq:piRqya in pysan
+Case 538: pinv:pinvya in pysan
+Case 539: pil:pelya in pysan
+Case 540: pis:pisya,pesya in pysan
+Case 541: pI:pIya in pysan
+Case 542: pIl:pIlya in pysan
+Case 543: puMs:puMsya in pysan
+Case 544: puC:puCya in pysan
+Case 545: puw:puwayya,puwya,powya in pysan
+Case 546: puww:puwwya in pysan
+Case 547: puq:puqya in pysan
+Case 548: puR:puRya,poRya in pysan
+Case 549: puRw:puRwya in pysan
+Case 550: puRq:puRqya in pysan
+Case 551: pur:pUrya in pysan
+Case 552: purv:pUrvya in pysan
+Case 553: pus:posya in pysan
+Case 554: pust:pustya in pysan
+Case 555: pUR:pURya in pysan
+Case 556: pUl:pUlya in pysan
+Case 557: pUz:pUzya in pysan
+Case 558: pfj:pfjya in pysan
+Case 559: pfq:pfqya in pysan
+Case 560: pfR:pfRya in pysan
+Case 561: peR:peRya in pysan
+Case 562: peb:pebya in pysan
+Case 563: pel:pelya in pysan
+Case 564: pev:pevya in pysan
+Case 565: pez:pezya in pysan
+Case 566: pes:pesya in pysan
+Case 567: pE:pAya in pysan
+Case 568: pER:pERya in pysan
+Case 569: poYC:poYCya in pysan
+Case 570: pyAy:pyAyya in pysan
+Case 571: pyuz:pyuzya,pyozya in pysan
+Case 572: pyus:pyusya in pysan
+Case 573: pyE:pyAya in pysan
+Case 574: praC:praCya in pysan
+Case 575: pras:prasya in pysan
+Case 576: prA:prAya in pysan
+Case 577: pruT:pruTya in pysan
+Case 578: pruz:pruzya,prozya in pysan
+Case 579: pre:prAya in pysan
+Case 580: prez:prezya in pysan
+Case 581: prER:prERya in pysan
+Case 582: proT:proTya in pysan
+Case 583: plakz:plakzya in pysan
+Case 584: plab:plabya in pysan
+Case 585: plih:plihya in pysan
+Case 586: plI:plIya in pysan
+Case 587: plus:plusya in pysan
+Case 588: plev:plevya in pysan
+Case 589: psA:psAya in pysan
+Case 590: Pakk:Pakkya in pysan
+Case 591: PaR:PaRya in pysan
+Case 592: Parv:Parvya in pysan
+Case 593: Pel:Pelya in pysan
+Case 594: bad:badya in pysan
+Case 595: barb:barbya in pysan
+Case 596: barh:barhya in pysan
+Case 597: bal:balya,bAlya in pysan
+Case 598: bAq:bAqya in pysan
+Case 599: biw:biwya in pysan
+Case 600: bid:bidya in pysan
+Case 601: bil:bilya,belya in pysan
+Case 602: biS:biSya in pysan
+Case 603: bis:bisya in pysan
+Case 604: bIB:bIBya in pysan
+Case 605: bukk:bukkya in pysan
+Case 606: buNg:buNgya in pysan
+Case 607: buw:buwya,bowya in pysan
+Case 608: buq:buqya in pysan
+Case 609: bud:budya in pysan
+Case 610: bund:bundya in pysan
+Case 611: bunD:bunDya in pysan
+Case 612: bul:bolya in pysan
+Case 613: bus:busya in pysan
+Case 614: bfMh:bfMhya in pysan
+Case 615: brahm:brahmya in pysan
+Case 616: brU:brUya in pysan
+Case 617: Baw:Bawya,BAwya in pysan
+Case 618: BaRw:BaRwya in pysan
+Case 619: Ban:Banya in pysan
+Case 620: Barb:Barbya in pysan
+Case 621: Barv:Barvya in pysan
+Case 622: Bal:Balya,BAlya in pysan
+Case 623: BAm:BAmya in pysan
+Case 624: Bikz:Bikzya in pysan
+Case 625: Bind:Bindya in pysan
+Case 626: BuRq:BuRqya in pysan
+Case 627: BfMS:BfMSya in pysan
+Case 628: Bfkz:Bfkzya in pysan
+Case 629: Bfj:Bfjya in pysan
+Case 630: Bfq:Bfqya in pysan
+Case 631: BfS:BfSya in pysan
+Case 632: BF:BUrya in pysan
+Case 633: Bez:Bezya in pysan
+Case 634: Byas:Byasya in pysan
+Case 635: Brakz:Brakzya in pysan
+Case 636: Brajj:Brajjya in pysan
+Case 637: BraR:BraRya in pysan
+Case 638: BraS:BraSya in pysan
+Case 639: BrAS:BrASya in pysan
+Case 640: BrI:BrIya in pysan
+Case 641: Bruq:Bruqya in pysan
+Case 642: BrUR:BrURya in pysan
+Case 643: Brez:Brezya in pysan
+Case 644: BlAS:BlASya in pysan
+Case 645: makz:makzya in pysan
+Case 646: maK:maKya in pysan
+Case 647: maNk:maNkya in pysan
+Case 648: maNg:maNgya in pysan
+Case 649: maNG:maNGya in pysan
+Case 650: mac:macya in pysan
+Case 651: maYc:maYcya in pysan
+Case 652: maYj:maYjya in pysan
+Case 653: maW:maWya in pysan
+Case 654: maR:maRya in pysan
+Case 655: maRw:maRwya in pysan
+Case 656: maRW:maRWya in pysan
+Case 657: maT:maTya in pysan
+Case 658: mantr:mantrya in pysan
+Case 659: maBr:maBrya in pysan
+Case 660: mamb:mambya in pysan
+Case 661: may:mayya in pysan
+Case 662: marc:marcya in pysan
+Case 663: marj:marjya in pysan
+Case 664: marb:marbya in pysan
+Case 665: marv:marvya in pysan
+Case 666: mal:malya,mAlya in pysan
+Case 667: mall:mallya in pysan
+Case 668: mav:mavya in pysan
+Case 669: mavy:mavyya in pysan
+Case 670: maS:maSya in pysan
+Case 671: mas:masya in pysan
+Case 672: mask:maskya in pysan
+Case 673: mANkz:mANkzya in pysan
+Case 674: mAq:mAqya in pysan
+Case 675: mAn:mAnya in pysan
+Case 676: mAnT:mAnTya in pysan
+Case 677: mArj:mArjya in pysan
+Case 678: mAh:mAhya in pysan
+Case 679: miC:miCya in pysan
+Case 680: miYj:miYjya in pysan
+Case 681: miD:miDya in pysan
+Case 682: miS:miSya in pysan
+Case 683: miSr:miSrya in pysan
+Case 684: mis:misya in pysan
+Case 685: mIm:mImya in pysan
+Case 686: mIv:mIvya in pysan
+Case 687: muC:muCya in pysan
+Case 688: muj:mujya,mojya in pysan
+Case 689: muYc:muYcya in pysan
+Case 690: muw:muwya,mowya in pysan
+Case 691: muq:muqya in pysan
+Case 692: muR:muRya in pysan
+Case 693: muRq:muRqya in pysan
+Case 694: mur:mUrya in pysan
+Case 695: murC:mUrCya in pysan
+Case 696: murv:mUrvya in pysan
+Case 697: must:mustya in pysan
+Case 698: mU:mUya in pysan
+Case 699: mUl:mUlya in pysan
+Case 700: mfg:mfgya in pysan
+Case 701: mfc:marcya in pysan
+Case 702: mfC:mfCya in pysan
+Case 703: mfR:mfRya in pysan
+Case 704: mF:mUrya in pysan
+Case 705: me:mAya in pysan
+Case 706: meq:meqya in pysan
+Case 707: mep:mepya in pysan
+Case 708: mev:mevya in pysan
+Case 709: myakz:myakzya in pysan
+Case 710: mrakz:mrakzya in pysan
+Case 711: mrad:mradya in pysan
+Case 712: mrit:mritya in pysan
+Case 713: mruc:mrucya in pysan
+Case 714: mruYc:mruYcya in pysan
+Case 715: mreq:mreqya in pysan
+Case 716: mlakz:mlakzya in pysan
+Case 717: mluc:mlucya in pysan
+Case 718: mluYc:mluYcya in pysan
+Case 719: mleC:mleCya in pysan
+Case 720: mlew:mlewya in pysan
+Case 721: mlev:mlevya in pysan
+Case 722: mlE:mlAya in pysan
+Case 723: yakz:yakzya in pysan
+Case 724: yantr:yantrya in pysan
+Case 725: yuNg:yuNgya in pysan
+Case 726: yuC:yuCya in pysan
+Case 727: yut:yutya in pysan
+Case 728: yup:yupya in pysan
+Case 729: yUz:yUzya in pysan
+Case 730: yez:yezya in pysan
+Case 731: yOw:yOwya in pysan
+Case 732: rak:rAkya in pysan
+Case 733: raK:raKya in pysan
+Case 734: rag:ragya,rAgya in pysan
+Case 735: raNK:raNKya in pysan
+Case 736: raNg:raNgya in pysan
+Case 737: raNG:raNGya in pysan
+Case 738: raw:rawya in pysan
+Case 739: raW:raWya in pysan
+Case 740: raRv:raRvya in pysan
+Case 741: rap:rapya in pysan
+Case 742: raP:raPya in pysan
+Case 743: ramP:ramPya in pysan
+Case 744: ramb:rambya in pysan
+Case 745: ramB:ramBya in pysan
+Case 746: ray:rayya in pysan
+Case 747: ras:rasayya,rasya in pysan
+Case 748: rAK:rAKya in pysan
+Case 749: rAG:rAGya in pysan
+Case 750: rAs:rAsya in pysan
+Case 751: riK:riKya in pysan
+Case 752: riNK:riNKya in pysan
+Case 753: riNg:riNgya in pysan
+Case 754: riRv:riRvya in pysan
+Case 755: riP:riPya in pysan
+Case 756: riB:riBya in pysan
+Case 757: rimP:rimPya in pysan
+Case 758: riS:riSya in pysan
+Case 759: rih:rihya in pysan
+Case 760: rI:rIya in pysan
+Case 761: rIv:rIvya in pysan
+Case 762: ruMS:ruMSya in pysan
+Case 763: ruw:rowya in pysan
+Case 764: ruW:ruWya in pysan
+Case 765: ruRw:ruRwya in pysan
+Case 766: ruRW:ruRWya in pysan
+Case 767: rup:rupya in pysan
+Case 768: ruS:ruSya in pysan
+Case 769: rUkz:rUkzya in pysan
+Case 770: rUz:rUzya in pysan
+Case 771: rek:rekya in pysan
+Case 772: rej:rejya in pysan
+Case 773: rew:rewya in pysan
+Case 774: req:reqya in pysan
+Case 775: rep:repya in pysan
+Case 776: rez:rezya in pysan
+Case 777: rE:rAya in pysan
+Case 778: roq:roqya in pysan
+Case 779: rOw:rOwya in pysan
+Case 780: lak:lAkya in pysan
+Case 781: laK:laKya in pysan
+Case 782: laC:laCya in pysan
+Case 783: laj:lajayya,lajya,lAjya in pysan
+Case 784: laYj:laYjya in pysan
+Case 785: law:lawya in pysan
+Case 786: laq:laqya,lAqya in pysan
+Case 787: laRq:laRqya in pysan
+Case 788: lamB:lamBya in pysan
+Case 789: lay:layya in pysan
+Case 790: lard:lardya in pysan
+Case 791: larb:larbya in pysan
+Case 792: laS:lASya in pysan
+Case 793: lA:lAya in pysan
+Case 794: lAK:lAKya in pysan
+Case 795: lAG:lAGya in pysan
+Case 796: lAj:lAjya in pysan
+Case 797: lAYj:lAYjya in pysan
+Case 798: lAq:lAqya in pysan
+Case 799: lAB:lABya in pysan
+Case 800: liNK:liNKya in pysan
+Case 801: liNg:liNgya in pysan
+Case 802: luw:luwya,lowya in pysan
+Case 803: luq:luqya in pysan
+Case 804: luRw:luRwya in pysan
+Case 805: lunT:lunTya in pysan
+Case 806: lumb:lumbya in pysan
+Case 807: luz:luzya in pysan
+Case 808: lUz:lUzya in pysan
+Case 809: lep:lepya in pysan
+Case 810: lER:lERya in pysan
+Case 811: low:lowya in pysan
+Case 812: lozw:lozwya in pysan
+Case 813: lOq:lOqya in pysan
+Case 814: lpI:lpIya in pysan
+Case 815: lvI:lvIya in pysan
+Case 816: vak:vakya in pysan
+Case 817: vakk:vakkya in pysan
+Case 818: vakz:vakzya in pysan
+Case 819: vaK:vaKya in pysan
+Case 820: vaNK:vaNKya in pysan
+Case 821: vaNg:vaNgya in pysan
+Case 822: vaNG:vaNGya in pysan
+Case 823: vaj:vajya in pysan
+Case 824: vaw:vawayya,vawya in pysan
+Case 825: vaww:vawwya in pysan
+Case 826: vaW:vaWya in pysan
+Case 827: vaqQ:vaqQya in pysan
+Case 828: vaR:vaRya in pysan
+Case 829: vaRw:vaRwya in pysan
+Case 830: vaRW:vaRWya in pysan
+Case 831: vaRq:vaRqya in pysan
+Case 832: vaBr:vaBrya in pysan
+Case 833: vay:vayya in pysan
+Case 834: varc:varcya in pysan
+Case 835: varR:varRya in pysan
+Case 836: varD:varDya in pysan
+Case 837: varP:varPya in pysan
+Case 838: valk:valkya in pysan
+Case 839: valB:valBya in pysan
+Case 840: vall:vallya in pysan
+Case 841: valh:valhya in pysan
+Case 842: vaS:uSya in pysan
+Case 843: vaz:vazya in pysan
+Case 844: vazk:vazkya in pysan
+Case 845: vask:vaskya in pysan
+Case 846: vast:vastya in pysan
+Case 847: vANkz:vANkzya in pysan
+Case 848: vAt:vAtya in pysan
+Case 849: vAvft:vAvftya in pysan
+Case 850: vAs:vAsya in pysan
+Case 851: vAh:vAhya in pysan
+Case 852: viC:veCya in pysan
+Case 853: viw:viwya in pysan
+Case 854: viq:viqya in pysan
+Case 855: viRw:viRwya in pysan
+Case 856: viT:viTya in pysan
+Case 857: vil:vilya,velya in pysan
+Case 858: vizk:vizkya in pysan
+Case 859: vIr:vIrya in pysan
+Case 860: vuRw:vuRwya in pysan
+Case 861: vfMh:vfMhya in pysan
+Case 862: vfk:vfkya in pysan
+Case 863: vfkz:vfkzya in pysan
+Case 864: vfR:vfRya,vftya in pysan
+Case 865: vfS:vfSya in pysan
+Case 866: vF:vUrya in pysan
+Case 867: ve:vAya in pysan
+Case 868: vekz:vekzya in pysan
+Case 869: vewy:vewyya in pysan
+Case 870: veD:veDya in pysan
+Case 871: vep:vepya in pysan
+Case 872: vel:velya in pysan
+Case 873: vell:vellya in pysan
+Case 874: vevI:vevIya in pysan
+Case 875: ves:vesya in pysan
+Case 876: veh:vehya in pysan
+Case 877: vehl:vehlya in pysan
+Case 878: vE:vAya in pysan
+Case 879: vyac:vicya in pysan
+Case 880: vyap:vyApya in pysan
+Case 881: vyay:vyayayya,vyayya in pysan
+Case 882: vyuz:vyuzya,vyozya in pysan
+Case 883: vye:vyAya in pysan
+Case 884: vraR:vraRya,vrARya in pysan
+Case 885: vrI:vrIya in pysan
+Case 886: vruq:vruqya in pysan
+Case 887: vlI:vlIya in pysan
+Case 888: Sac:Sacya in pysan
+Case 889: Saw:Sawya,SAwya in pysan
+Case 890: SaW:SaWayya,SaWya,SAWya in pysan
+Case 891: SaR:SaRya,SARya in pysan
+Case 892: SaRq:SaRqya in pysan
+Case 893: Sabd:Sabdya in pysan
+Case 894: Samb:Sambya in pysan
+Case 895: Sarb:Sarbya in pysan
+Case 896: Sarv:Sarvya in pysan
+Case 897: SalB:SalBya in pysan
+Case 898: Sav:Savya in pysan
+Case 899: SaS:SaSya in pysan
+Case 900: Saz:Sazya in pysan
+Case 901: SAK:SAKya in pysan
+Case 902: SAq:SAqya in pysan
+Case 903: SAl:SAlya in pysan
+Case 904: Si:Sitya in pysan
+Case 905: SiNK:SiNKya in pysan
+Case 906: SiNG:SiNGya in pysan
+Case 907: SiYj:SiYjya in pysan
+Case 908: Siw:Siwya in pysan
+Case 909: Sim:Simya in pysan
+Case 910: Sil:Silya in pysan
+Case 911: SIk:SIkya in pysan
+Case 912: SIB:SIBya in pysan
+Case 913: Su:Sutya in pysan
+Case 914: Suk:Sukya in pysan
+Case 915: Sucy:Sucyya in pysan
+Case 916: SuW:SuWya,SoWya in pysan
+Case 917: SuRW:SuRWya in pysan
+Case 918: SuRq:SuRqya in pysan
+Case 919: Sun:Sunya in pysan
+Case 920: Sulk:Sulkya in pysan
+Case 921: Sulb:Sulbya in pysan
+Case 922: SUr:SUrya in pysan
+Case 923: SUrp:SUrpya in pysan
+Case 924: SUl:SUlya in pysan
+Case 925: SUz:SUzya in pysan
+Case 926: SfD:SfDya in pysan
+Case 927: Sel:Selya in pysan
+Case 928: Sev:Sevya in pysan
+Case 929: So:SAya in pysan
+Case 930: SoR:SoRya in pysan
+Case 931: SOw:SOwya in pysan
+Case 932: Scyut:Scyutya in pysan
+Case 933: SnaT:SnaTya in pysan
+Case 934: SmIl:SmIlya in pysan
+Case 935: SyE:SyAya in pysan
+Case 936: SraNk:SraNkya in pysan
+Case 937: SraNg:SraNgya in pysan
+Case 938: SraR:SraRya,SrARya in pysan
+Case 939: SraT:SraTya in pysan
+Case 940: SrA:SrAya in pysan
+Case 941: Sriz:Srizya in pysan
+Case 942: SrI:SrIya in pysan
+Case 943: SrE:SrAya in pysan
+Case 944: SroR:SroRya in pysan
+Case 945: SlaNk:SlaNkya in pysan
+Case 946: SlaNg:SlaNgya in pysan
+Case 947: SlaT:SlaTya in pysan
+Case 948: SlAK:SlAKya in pysan
+Case 949: Slok:Slokya in pysan
+Case 950: SloR:SloRya in pysan
+Case 951: SvaNk:SvaNkya in pysan
+Case 952: SvaNg:SvaNgya in pysan
+Case 953: Svac:Svacya in pysan
+Case 954: Svaj:Svajya in pysan
+Case 955: SvaW:SvAWya in pysan
+Case 956: SvaBr:SvaBrya in pysan
+Case 957: Sval:Svalya in pysan
+Case 958: Svalk:Svalkya in pysan
+Case 959: SvAtr:SvAtrya in pysan
+Case 960: Svi:SUya in pysan
+Case 961: Svind:Svindya in pysan
+Case 962: zaww:zawwya in pysan
+Case 963: zazk:zazkya in pysan
+Case 964: zukk:zukkya in pysan
+Case 965: zWiv:zWIvya in pysan
+Case 966: zvakk:zvakkya in pysan
+Case 967: zvazk:zvazkya in pysan
+Case 968: sakz:sakzya in pysan
+Case 969: sag:sagya in pysan
+Case 970: saG:saGya in pysan
+Case 971: sac:sacya in pysan
+Case 972: sajj:sajjya in pysan
+Case 973: saw:sawya,sAwya in pysan
+Case 974: saww:sawwya in pysan
+Case 975: saW:sAWya in pysan
+Case 976: satr:satrya in pysan
+Case 977: saBAj:saBAjya in pysan
+Case 978: sam:samya,sAmya in pysan
+Case 979: say:sayya in pysan
+Case 980: sarj:sarjya in pysan
+Case 981: sarb:sarbya in pysan
+Case 982: sal:salya in pysan
+Case 983: sas:sasya in pysan
+Case 984: sAkz:sAkzya in pysan
+Case 985: sAw:sAwya in pysan
+Case 986: sAD:sADya in pysan
+Case 987: sAntv:sAntvya in pysan
+Case 988: sAmaya:sAmayaya in pysan
+Case 989: si:sitya in pysan
+Case 990: siw:siwya in pysan
+Case 991: siv:sIvya in pysan
+Case 992: suK:suKayya,suKya in pysan
+Case 993: suww:suwwya in pysan
+Case 994: suB:suBya in pysan
+Case 995: suh:suhya in pysan
+Case 996: sUtr:sUtrya in pysan
+Case 997: sUrkz:sUrkzya in pysan
+Case 998: sUz:sUzya in pysan
+Case 999: sfB:sfBya in pysan
+Case 1000: sF:sIrya in pysan
+Case 1001: sek:sekya in pysan
+Case 1002: sE:sAya in pysan
+Case 1003: so:sAya in pysan
+Case 1004: skanD:skanDya in pysan
+Case 1005: sku:skutya in pysan
+Case 1006: skund:skundya in pysan
+Case 1007: sKad:sKadya in pysan
+Case 1008: stak:stakya in pysan
+Case 1009: stiG:stiGya in pysan
+Case 1010: stip:stipya in pysan
+Case 1011: stim:stimya in pysan
+Case 1012: stuc:stucya in pysan
+Case 1013: stumB:stumBya in pysan
+Case 1014: stUp:stUpya in pysan
+Case 1015: stf:stftya in pysan
+Case 1016: stfkz:stfkzya in pysan
+Case 1017: stfh:stfhya in pysan
+Case 1018: sten:stenya in pysan
+Case 1019: step:stepya in pysan
+Case 1020: stE:stAya in pysan
+Case 1021: styE:styAya in pysan
+Case 1022: sTag:sTagya in pysan
+Case 1023: sTal:sTalya in pysan
+Case 1024: sTir:sTIrya in pysan
+Case 1025: sTuq:sTuqya in pysan
+Case 1026: sTUl:sTUlya in pysan
+Case 1027: sniw:snewya in pysan
+Case 1028: snuc:snucya in pysan
+Case 1029: snus:snusya in pysan
+Case 1030: snE:snAya in pysan
+Case 1031: sparz:sparzya in pysan
+Case 1032: spaS:spaSya,spASya in pysan
+Case 1033: spf:spftya in pysan
+Case 1034: spF:spIrya in pysan
+Case 1035: sPaw:sPawya,sPAwya in pysan
+Case 1036: sPaRq:sPaRqya in pysan
+Case 1037: sPar:sParya in pysan
+Case 1038: sPAy:sPAyya in pysan
+Case 1039: sPiw:sPewya in pysan
+Case 1040: sPiww:sPiwwya in pysan
+Case 1041: sPuww:sPuwwya in pysan
+Case 1042: sPuq:sPuqya in pysan
+Case 1043: sPuRw:sPuRwya in pysan
+Case 1044: sPuRq:sPuRqya in pysan
+Case 1045: sPul:sPulya in pysan
+Case 1046: sPUrC:sPUrCya in pysan
+Case 1047: sPUrj:sPUrjya in pysan
+Case 1048: smiw:smewya in pysan
+Case 1049: syam:syamya in pysan
+Case 1050: sraMh:sraMhya in pysan
+Case 1051: sriD:sriDya in pysan
+Case 1052: sriB:sriBya in pysan
+Case 1053: sriv:srIvya in pysan
+Case 1054: srek:srekya in pysan
+Case 1055: svaNg:svaNgya in pysan
+Case 1056: svaj:svajya in pysan
+Case 1057: svard:svardya in pysan
+Case 1058: svf:svftya in pysan
+Case 1059: haw:hawya in pysan
+Case 1060: hamm:hammya in pysan
+Case 1061: hay:hayya in pysan
+Case 1062: hal:halya in pysan
+Case 1063: hiRq:hiRqya in pysan
+Case 1064: hil:hilya in pysan
+Case 1065: huq:huqya in pysan
+Case 1066: hurC:hUrCya in pysan
+Case 1067: hul:hulya in pysan
+Case 1068: hUq:hUqya in pysan
+Case 1069: heW:heWya in pysan
+Case 1070: heq:heqya in pysan
+Case 1071: heQ:heQya in pysan
+Case 1072: hez:hezya in pysan
+Case 1073: hoq:hoqya in pysan
+Case 1074: hmal:hmalya in pysan
+Case 1075: hrag:hragya in pysan
+Case 1076: hrIC:hrICya in pysan
+Case 1077: hru:hrutya in pysan
+Case 1078: hruq:hruqya in pysan
+Case 1079: hrep:hrepya in pysan
+Case 1080: hrez:hrezya in pysan
+Case 1081: hrOq:hrOqya in pysan
+Case 1082: hlag:hlagya in pysan
+Case 1083: hlap:hlApya in pysan
+Case 1084: hlas:hlasya in pysan
+Case 1085: hve:hUya in pysan
+--------------------------------------------------
+202 cases of ROOT IN HUET ONLY
+--------------------------------------------------
+Case 01: aMSa:aMSya in huet
+Case 02: agada:agadya in huet
+Case 03: aGa:aGya in huet
+Case 04: aNka:aNkya in huet
+Case 05: aNKa:aNKya in huet
+Case 06: ajira:ajirya in huet
+Case 07: aDvara:aDvarya in huet
+Case 08: anDa:anDya in huet
+Case 09: apsaras:apsaraya in huet
+Case 10: aBra:aBrya in huet
+Case 11: amitra:amitrya in huet
+Case 12: arTa:arTya in huet
+Case 13: aSana:aSanya in huet
+Case 14: aSva:aSvya in huet
+Case 15: asUya:asUyya in huet
+Case 16: AkarRa:AkarRya in huet
+Case 17: Akula:Akulya in huet
+Case 18: Andola:Andolya in huet
+Case 19: Avila:Avilya in huet
+Case 20: in:inya in huet
+Case 21: iras:iraya in huet
+Case 22: izuDi:izuDya in huet
+Case 23: Irz:Irzya in huet
+Case 24: utka:utkya in huet
+Case 25: utkaRW:utkaRWya in huet
+Case 26: udaka:udakya in huet
+Case 27: udan:udaya in huet
+Case 28: unmanas:unmanaya in huet
+Case 29: umB:uBya in huet
+Case 30: uras:uraya in huet
+Case 31: uruz:uruzya in huet
+Case 32: uzas:uzaya in huet
+Case 33: Uzman:Uzmaya in huet
+Case 34: kaRqu:kaRqya in huet
+Case 35: kaRva:kaRvya in huet
+Case 36: kadarTa:kadarTya in huet
+Case 37: karuRa:karuRya in huet
+Case 38: karRa:karRya in huet
+Case 39: kartf:kartya in huet
+Case 40: kalaNka:kalaNkya in huet
+Case 41: kalaha:kalahya in huet
+Case 42: kaluza:kaluzya in huet
+Case 43: kavala:kavalya in huet
+Case 44: kavi:kavya in huet
+Case 45: kazwa:kazwya in huet
+Case 46: kuwwa:kuwwya in huet
+Case 47: kusuma:kusumya in huet
+Case 48: kfcCra:kfcCrya in huet
+Case 49: kelA:kelya in huet
+Case 50: klIba:klIbatya,klIbya in huet
+Case 51: kzI:kzIya in huet
+Case 52: kzIra:kzIrya in huet
+Case 53: Kaqa:Kaqya in huet
+Case 54: Kela:Kelya in huet
+Case 55: gadgada:gadgadya in huet
+Case 56: garva:garvya in huet
+Case 57: gavez:gavezya in huet
+Case 58: go:gya in huet
+Case 59: gopA:gopya in huet
+Case 60: gomaya:gomayya in huet
+Case 61: granT:graTya in huet
+Case 62: carca:carcya in huet
+Case 63: citra:citrya in huet
+Case 64: cUrRa:cUrRya in huet
+Case 65: Cand:Candya in huet
+Case 66: Cala:Calya in huet
+Case 67: Cidra:Cidrya in huet
+Case 68: jala:jalya in huet
+Case 69: jihma:jihmya in huet
+Case 70: jU:jUya in huet
+Case 71: jvar:jvarya in huet
+Case 72: tantra:tantrya in huet
+Case 73: tapas:tapaya in huet
+Case 74: taraNga:taraNgya in huet
+Case 75: taruRa:taruRya in huet
+Case 76: taviza:tavizya in huet
+Case 77: tiras:tiraya in huet
+Case 78: tuhina:tuhinya in huet
+Case 79: daRqa:daRqya in huet
+Case 80: dIv:dyUya in huet
+Case 81: duHKa:duHKya in huet
+Case 82: durdina:durdinya in huet
+Case 83: deva:devya in huet
+Case 84: dola:dolya in huet
+Case 85: Dana:Danya in huet
+Case 86: DIra:DIrya in huet
+Case 87: DUma:DUmya in huet
+Case 88: DyA:DyAya in huet
+Case 89: namas:namaya in huet
+Case 90: nikaza:nikazya in huet
+Case 91: nIhAra:nIhArya in huet
+Case 92: nUtana:nUtanya in huet
+Case 93: nO:nya in huet
+Case 94: pawapawA:pawapawya in huet
+Case 95: payas:payaya in huet
+Case 96: parokza:parokzya in huet
+Case 97: pavitra:pavitrya in huet
+Case 98: pASa:pASya in huet
+Case 99: piRqa:piRqya in huet
+Case 100: pIyUzavarza:pIyUzavarzya in huet
+Case 101: putra:putrya in huet
+Case 102: putrakAma:putrakAmya in huet
+Case 103: pulaka:pulakya in huet
+Case 104: puzkara:puzkarya in huet
+Case 105: puzpa:puzpya in huet
+Case 106: pUla:pUlatya,pUlya in huet
+Case 107: pyA:pyAya in huet
+Case 108: pratikUla:pratikUlya in huet
+Case 109: praS:pfcCam,pfcCya in huet
+Case 110: prasAda:prasAdya in huet
+Case 111: prAsAda:prAsAdya in huet
+Case 112: priya:priyya in huet
+Case 113: Pena:Penya in huet
+Case 114: bAzpa:bAzpya in huet
+Case 115: Bizaj:Bizaya in huet
+Case 116: Bfjj:Bfjya in huet
+Case 117: BfSa:BfSya in huet
+Case 118: maDu:maDya in huet
+Case 119: mantu:mantya in huet
+Case 120: mantra:mantrya in huet
+Case 121: malina:malinya in huet
+Case 122: mahI:mahya in huet
+Case 123: mAMsa:mAMsya in huet
+Case 124: mAlA:mAlya in huet
+Case 125: mAlyaguRa:mAlyaguRya in huet
+Case 126: miSra:miSrya in huet
+Case 127: mukula:mukulya in huet
+Case 128: muKara:muKarya in huet
+Case 129: muRqa:muRqya in huet
+Case 130: mudrA:mudrya in huet
+Case 131: mUtra:mUtrya in huet
+Case 132: mUrC:mUrya in huet
+Case 133: mfga:mfgya in huet
+Case 134: mfzA:mfzya in huet
+Case 135: meGa:meGya in huet
+Case 136: mlA:mlAya in huet
+Case 137: mlecC:mliCya,mlecCya in huet
+Case 138: yantra:yantrya in huet
+Case 139: yuga:yugya in huet
+Case 140: raTakAma:raTakAmya in huet
+Case 141: rasa:rasya in huet
+Case 142: rAjan:rAjaya in huet
+Case 143: ri:rIya in huet
+Case 144: rUkza:rUkzya in huet
+Case 145: romanTa:romanTya in huet
+Case 146: laGa:laGya in huet
+Case 147: lavaRa:lavaRya in huet
+Case 148: lAlA:lAlya in huet
+Case 149: luRW:luRWya in huet
+Case 150: lul:lulya in huet
+Case 151: lelA:lelAya in huet
+Case 152: lohita:lohitya in huet
+Case 153: varivas:varivaya in huet
+Case 154: varRa:varRya in huet
+Case 155: valgu:valgya in huet
+Case 156: vAc:vAya in huet
+Case 157: vAsa:vAsya in huet
+Case 158: vimanA:vimanya in huet
+Case 159: viSada:viSadya in huet
+Case 160: viza:vizya in huet
+Case 161: vfza:vfzya in huet
+Case 162: veda:vedya in huet
+Case 163: vEra:vErya in huet
+Case 164: vyA:vIya in huet
+Case 165: vraRa:vraRya in huet
+Case 166: Sabda:Sabdya in huet
+Case 167: SalaBa:SalaBya in huet
+Case 168: SA:Siya in huet
+Case 169: SAnta:SAntya in huet
+Case 170: SiTila:SiTilya in huet
+Case 171: SiSu:SiSya in huet
+Case 172: SIGra:SIGrya in huet
+Case 173: SU:SUya in huet
+Case 174: SyA:SIya in huet
+Case 175: SyAma:SyAmya in huet
+Case 176: Syena:Syenya in huet
+Case 177: zaRQa:zaRQya in huet
+Case 178: zWIv:zWIvya in huet
+Case 179: saKi:saKya in huet
+Case 180: saNkawa:saNkawya in huet
+Case 181: saNgrAma:saNgrAmya in huet
+Case 182: sajja:sajjya in huet
+Case 183: satya:satyya in huet
+Case 184: sapiRqa:sapiRqya in huet
+Case 185: saPala:saPalya in huet
+Case 186: samudra:samudrya in huet
+Case 187: sA:sAya in huet
+Case 188: sAntva:sAntvya in huet
+Case 189: sAvaDAna:sAvaDAnya in huet
+Case 190: sIv:syUya in huet
+Case 191: suKa:suKya in huet
+Case 192: sudina:sudinya in huet
+Case 193: sumanas:sumanaya in huet
+Case 194: sUtra:sUtrya in huet
+Case 195: stF:stIrya,stfya in huet
+Case 196: stena:stenya in huet
+Case 197: styA:styAya in huet
+Case 198: sTaga:sTagya in huet
+Case 199: sPA:sPIya in huet
+Case 200: svaYj:svajya in huet
+Case 201: svalpaSilA:svalpaSilya in huet
+Case 202: hU:hUya in huet
