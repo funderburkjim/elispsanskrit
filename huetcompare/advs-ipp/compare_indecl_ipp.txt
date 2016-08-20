@@ -1,0 +1,1834 @@
+--------------------------------------------------
+291 cases of ROOT HAS SAME FORMS IN HUET and PYSAN
+--------------------------------------------------
+Case 01: aj:ajitvA identical in BOTH
+Case 02: aYc:aktvA,aYcitvA identical in BOTH
+Case 03: aw:awitvA identical in BOTH
+Case 04: at:atitvA identical in BOTH
+Case 05: an:anitvA identical in BOTH
+Case 06: am:amitvA identical in BOTH
+Case 07: ard:arditvA identical in BOTH
+Case 08: arh:arhitvA identical in BOTH
+Case 09: av:avitvA identical in BOTH
+Case 10: Ap:AptvA identical in BOTH
+Case 11: As:AsitvA identical in BOTH
+Case 12: i:itvA identical in BOTH
+Case 13: iNg:iNgitvA identical in BOTH
+Case 14: ind:inditvA identical in BOTH
+Case 15: inv:invitvA identical in BOTH
+Case 16: iz:izwvA,ezitvA identical in BOTH
+Case 17: Ikz:IkzitvA identical in BOTH
+Case 18: INK:INKitvA identical in BOTH
+Case 19: Iq:IqitvA identical in BOTH
+Case 20: Ir:IritvA identical in BOTH
+Case 21: IS:ISitvA identical in BOTH
+Case 22: Iz:IzitvA identical in BOTH
+Case 23: Ih:IhitvA identical in BOTH
+Case 24: ukz:ukzitvA identical in BOTH
+Case 25: uc:ocitvA identical in BOTH
+Case 26: ujJ:ujJitvA identical in BOTH
+Case 27: uYC:uYCitvA identical in BOTH
+Case 28: f:ftvA identical in BOTH
+Case 29: fj:arjitvA identical in BOTH
+Case 30: fz:arzitvA identical in BOTH
+Case 31: ej:ejitvA identical in BOTH
+Case 32: eD:eDitvA identical in BOTH
+Case 33: katT:katTitvA identical in BOTH
+Case 34: kaT:kaTayitvA identical in BOTH
+Case 35: kamp:kampitvA identical in BOTH
+Case 36: kas:kasitvA identical in BOTH
+Case 37: kANkz:kANkzitvA identical in BOTH
+Case 38: kAS:kASitvA identical in BOTH
+Case 39: kIrt:kIrtayitvA identical in BOTH
+Case 40: kIl:kIlitvA identical in BOTH
+Case 41: kunT:kunTitvA identical in BOTH
+Case 42: kU:kUtvA identical in BOTH
+Case 43: kUj:kUjitvA identical in BOTH
+Case 44: kfS:karSitvA identical in BOTH
+Case 45: krand:kranditvA identical in BOTH
+Case 46: krI:krItvA identical in BOTH
+Case 47: krIq:krIqitvA identical in BOTH
+Case 48: kruYc:kruYcitvA identical in BOTH
+Case 49: kruD:krudDvA identical in BOTH
+Case 50: kruS:kruzwvA identical in BOTH
+Case 51: klav:klavitvA identical in BOTH
+Case 52: kliS:kliSitvA,klizwvA,kleSitvA identical in BOTH
+Case 53: kvaT:kvaTitvA identical in BOTH
+Case 54: kzam:kzamitvA,kzAntvA identical in BOTH
+Case 55: kzar:kzaritvA identical in BOTH
+Case 56: kzip:kziptvA identical in BOTH
+Case 57: kzu:kzutvA identical in BOTH
+Case 58: kzuD:kzuDitvA,kzoDitvA identical in BOTH
+Case 59: KAd:KAditvA identical in BOTH
+Case 60: KyA:KyAtvA identical in BOTH
+Case 61: gaR:gaRayitvA identical in BOTH
+Case 62: gam:gatvA identical in BOTH
+Case 63: garj:garjitvA identical in BOTH
+Case 64: garh:garhayitvA,garhitvA identical in BOTH
+Case 65: gal:galitvA identical in BOTH
+Case 66: galB:galBitvA identical in BOTH
+Case 67: gAh:gAQvA,gAhitvA identical in BOTH
+Case 68: guYj:guYjitvA identical in BOTH
+Case 69: gumP:gumPitvA identical in BOTH
+Case 70: gras:grasitvA,grastvA identical in BOTH
+Case 71: glE:glAtvA identical in BOTH
+Case 72: Gaw:GawitvA identical in BOTH
+Case 73: Gaww:GawwayitvA,GawwitvA identical in BOTH
+Case 74: GUrR:GUrRitvA identical in BOTH
+Case 75: Gf:GftvA identical in BOTH
+Case 76: Gfz:GarzitvA,GfzwvA identical in BOTH
+Case 77: GrA:GrAtvA identical in BOTH
+Case 78: caYc:caYcitvA identical in BOTH
+Case 79: caw:cawitvA identical in BOTH
+Case 80: cand:canditvA identical in BOTH
+Case 81: cal:calitvA identical in BOTH
+Case 82: ci:citvA identical in BOTH
+Case 83: cint:cintayitvA identical in BOTH
+Case 84: cud:cuditvA,coditvA identical in BOTH
+Case 85: cezw:cezwitvA identical in BOTH
+Case 86: Cid:CittvA identical in BOTH
+Case 87: jalp:jalpitvA identical in BOTH
+Case 88: jAgf:jAgaritvA identical in BOTH
+Case 89: ji:jitvA identical in BOTH
+Case 90: jinv:jinvitvA identical in BOTH
+Case 91: jIv:jIvitvA identical in BOTH
+Case 92: jfmB:jfmBitvA identical in BOTH
+Case 93: jYA:jYAtvA identical in BOTH
+Case 94: jyA:jItvA identical in BOTH
+Case 95: jval:jvalitvA identical in BOTH
+Case 96: qamb:qambayitvA identical in BOTH
+Case 97: takz:takzitvA,tazwvA identical in BOTH
+Case 98: tark:tarkayitvA identical in BOTH
+Case 99: tarj:tarjitvA identical in BOTH
+Case 100: tuz:tuzwvA identical in BOTH
+Case 101: tF:tIrtvA identical in BOTH
+Case 102: tyaj:tyaktvA identical in BOTH
+Case 103: trap:trapitvA,traptvA identical in BOTH
+Case 104: trE:trAtvA identical in BOTH
+Case 105: dakz:dakzitvA identical in BOTH
+Case 106: dam:damitvA,dAntvA identical in BOTH
+Case 107: day:dayitvA identical in BOTH
+Case 108: dal:dalitvA identical in BOTH
+Case 109: dah:dagDvA identical in BOTH
+Case 110: diS:dizwvA identical in BOTH
+Case 111: dih:digDvA identical in BOTH
+Case 112: dIkz:dIkzitvA identical in BOTH
+Case 113: duz:duzwvA identical in BOTH
+Case 114: duh:dugDvA identical in BOTH
+Case 115: dfS:dfzwvA identical in BOTH
+Case 116: dF:dIrtvA identical in BOTH
+Case 117: drA:drAtvA identical in BOTH
+Case 118: dru:drutvA identical in BOTH
+Case 119: druh:drugDvA,druhitvA,drUQvA,drohitvA identical in BOTH
+Case 120: dviz:dvizwvA identical in BOTH
+Case 121: DI:DItvA identical in BOTH
+Case 122: Dukz:DukzitvA identical in BOTH
+Case 123: Dfz:DarzitvA identical in BOTH
+Case 124: Dru:DrutvA identical in BOTH
+Case 125: DvaMs:DvaMsitvA,DvastvA identical in BOTH
+Case 126: Dvan:DvanitvA identical in BOTH
+Case 127: DvANkz:DvANkzitvA identical in BOTH
+Case 128: nakz:nakzitvA identical in BOTH
+Case 129: naw:nawitvA identical in BOTH
+Case 130: nad:naditvA identical in BOTH
+Case 131: nand:nanditvA identical in BOTH
+Case 132: nam:natvA identical in BOTH
+Case 133: nard:narditvA identical in BOTH
+Case 134: naS:naSitvA,nazwvA identical in BOTH
+Case 135: nah:nadDvA identical in BOTH
+Case 136: nij:niktvA identical in BOTH
+Case 137: nind:ninditvA identical in BOTH
+Case 138: nI:nItvA identical in BOTH
+Case 139: nu:nutvA identical in BOTH
+Case 140: pac:paktvA identical in BOTH
+Case 141: paW:paWitvA identical in BOTH
+Case 142: paR:paRitvA identical in BOTH
+Case 143: palAy:palAyitvA identical in BOTH
+Case 144: piz:pizwvA identical in BOTH
+Case 145: pIq:pIqayitvA identical in BOTH
+Case 146: pUj:pUjayitvA identical in BOTH
+Case 147: pF:pUrtvA identical in BOTH
+Case 148: plu:plutvA identical in BOTH
+Case 149: Pal:PalitvA identical in BOTH
+Case 150: Pull:PullitvA identical in BOTH
+Case 151: bAD:bADitvA identical in BOTH
+Case 152: Baj:BaktvA identical in BOTH
+Case 153: BaYj:BaktvA identical in BOTH
+Case 154: BaR:BaRitvA identical in BOTH
+Case 155: BaRq:BaRqitvA identical in BOTH
+Case 156: Band:BanditvA identical in BOTH
+Case 157: Barts:BartsayitvA identical in BOTH
+Case 158: Bas:BasitvA identical in BOTH
+Case 159: BA:BAtvA identical in BOTH
+Case 160: BAz:BAzitvA identical in BOTH
+Case 161: BAs:BAsitvA identical in BOTH
+Case 162: BI:BItvA identical in BOTH
+Case 163: BUz:BUzitvA identical in BOTH
+Case 164: Bf:BftvA identical in BOTH
+Case 165: BrAj:BrAjitvA identical in BOTH
+Case 166: maRq:maRqitvA identical in BOTH
+Case 167: mand:manditvA identical in BOTH
+Case 168: mi:mitvA identical in BOTH
+Case 169: mil:militvA,melitvA identical in BOTH
+Case 170: mIl:mIlitvA identical in BOTH
+Case 171: muc:muktvA identical in BOTH
+Case 172: muh:mugDvA,muhitvA,mUQvA,mohitvA identical in BOTH
+Case 173: mf:mftvA identical in BOTH
+Case 174: mfj:mArjitvA,mfzwvA identical in BOTH
+Case 175: mfS:mfzwvA identical in BOTH
+Case 176: mokz:mokzayitvA,mokzitvA identical in BOTH
+Case 177: mnA:mnAtvA identical in BOTH
+Case 178: yaj:izwvA identical in BOTH
+Case 179: yaB:yabDvA identical in BOTH
+Case 180: yam:yatvA identical in BOTH
+Case 181: yA:yAtvA identical in BOTH
+Case 182: yAc:yAcitvA identical in BOTH
+Case 183: yu:yutvA identical in BOTH
+Case 184: yuj:yuktvA identical in BOTH
+Case 185: yuD:yudDvA identical in BOTH
+Case 186: raMh:raMhitvA identical in BOTH
+Case 187: rakz:rakzitvA identical in BOTH
+Case 188: rac:racayitvA identical in BOTH
+Case 189: raYj:raktvA identical in BOTH
+Case 190: raD:radDvA,raDitvA identical in BOTH
+Case 191: raB:rabDvA identical in BOTH
+Case 192: rah:rahayitvA identical in BOTH
+Case 193: rA:rAtvA identical in BOTH
+Case 194: rAj:rAjitvA identical in BOTH
+Case 195: ric:riktvA identical in BOTH
+Case 196: riz:rizitvA,rizwvA,rezitvA identical in BOTH
+Case 197: ru:rutvA identical in BOTH
+Case 198: ruc:rucitvA,rocitvA identical in BOTH
+Case 199: ruj:ruktvA identical in BOTH
+Case 200: rud:ruditvA,roditvA identical in BOTH
+Case 201: ruD:rudDvA identical in BOTH
+Case 202: ruh:rUQvA identical in BOTH
+Case 203: rUp:rUpayitvA identical in BOTH
+Case 204: laNg:laNgitvA identical in BOTH
+Case 205: lajj:lajjitvA identical in BOTH
+Case 206: lap:lapitvA identical in BOTH
+Case 207: laB:labDvA identical in BOTH
+Case 208: lamb:lambitvA identical in BOTH
+Case 209: lal:lalitvA identical in BOTH
+Case 210: lAYC:lAYCitvA identical in BOTH
+Case 211: liK:liKitvA,leKitvA identical in BOTH
+Case 212: lip:liptvA identical in BOTH
+Case 213: liS:lizwvA identical in BOTH
+Case 214: lih:lIQvA identical in BOTH
+Case 215: lI:lItvA identical in BOTH
+Case 216: luYc:luYcitvA identical in BOTH
+Case 217: luB:lubDvA,luBitvA,loBitvA identical in BOTH
+Case 218: lU:lUtvA identical in BOTH
+Case 219: lok:lokayitvA,lokitvA identical in BOTH
+Case 220: vac:uktvA identical in BOTH
+Case 221: vand:vanditvA identical in BOTH
+Case 222: vap:uptvA identical in BOTH
+Case 223: val:valitvA identical in BOTH
+Case 224: valg:valgitvA identical in BOTH
+Case 225: vAYC:vAYCitvA identical in BOTH
+Case 226: vAS:vASitvA identical in BOTH
+Case 227: vic:viktvA identical in BOTH
+Case 228: vij:viktvA identical in BOTH
+Case 229: vip:vipitvA,vepitvA identical in BOTH
+Case 230: viS:vizwvA identical in BOTH
+Case 231: vI:vItvA identical in BOTH
+Case 232: vfD:varDitvA,vfdDvA identical in BOTH
+Case 233: vfz:varzitvA,vfzwvA identical in BOTH
+Case 234: ven:venitvA identical in BOTH
+Case 235: vezw:vezwitvA identical in BOTH
+Case 236: vyaT:vyaTitvA identical in BOTH
+Case 237: vyaD:vidDvA identical in BOTH
+Case 238: vrIq:vrIqitvA identical in BOTH
+Case 239: SaMs:SaMsitvA,SastvA identical in BOTH
+Case 240: SaNk:SaNkitvA identical in BOTH
+Case 241: Sap:SapitvA,SaptvA identical in BOTH
+Case 242: Sam:SamitvA,SAntvA identical in BOTH
+Case 243: Sas:SasitvA,SastvA identical in BOTH
+Case 244: Sikz:SikzitvA identical in BOTH
+Case 245: Siz:SizwvA identical in BOTH
+Case 246: SI:SayitvA identical in BOTH
+Case 247: SuD:SudDvA identical in BOTH
+Case 248: SuB:SuBitvA,SoBitvA identical in BOTH
+Case 249: SumB:SumBitvA identical in BOTH
+Case 250: SF:SIrtvA identical in BOTH
+Case 251: Scut:ScutitvA,ScotitvA identical in BOTH
+Case 252: Sram:SramitvA,SrAntvA identical in BOTH
+Case 253: Sri:SritvA identical in BOTH
+Case 254: SlAG:SlAGitvA identical in BOTH
+Case 255: Svas:SvasitvA identical in BOTH
+Case 256: sic:siktvA identical in BOTH
+Case 257: su:sutvA identical in BOTH
+Case 258: sUc:sUcayitvA identical in BOTH
+Case 259: sfj:sfzwvA identical in BOTH
+Case 260: sfp:sfptvA identical in BOTH
+Case 261: sev:sevitvA identical in BOTH
+Case 262: skamB:skamBitvA identical in BOTH
+Case 263: sKal:sKalitvA identical in BOTH
+Case 264: stan:stanitvA identical in BOTH
+Case 265: stu:stutvA identical in BOTH
+Case 266: sTA:sTitvA identical in BOTH
+Case 267: snA:snAtvA identical in BOTH
+Case 268: snu:snutvA identical in BOTH
+Case 269: spand:spanditvA identical in BOTH
+Case 270: sparD:sparDitvA identical in BOTH
+Case 271: spfS:spfzwvA identical in BOTH
+Case 272: spfh:spfhayitvA identical in BOTH
+Case 273: smi:smitvA identical in BOTH
+Case 274: smf:smftvA identical in BOTH
+Case 275: sru:srutvA identical in BOTH
+Case 276: svad:svaditvA identical in BOTH
+Case 277: svan:svanitvA identical in BOTH
+Case 278: svap:suptvA identical in BOTH
+Case 279: han:hatvA identical in BOTH
+Case 280: has:hasitvA identical in BOTH
+Case 281: hi:hitvA identical in BOTH
+Case 282: hiMs:hiMsitvA identical in BOTH
+Case 283: hikk:hikkitvA identical in BOTH
+Case 284: hu:hutvA identical in BOTH
+Case 285: huRq:huRqitvA identical in BOTH
+Case 286: hf:hftvA identical in BOTH
+Case 287: hras:hrasitvA identical in BOTH
+Case 288: hrAd:hrAditvA identical in BOTH
+Case 289: hrI:hrItvA identical in BOTH
+Case 290: hlAd:hlAditvA identical in BOTH
+Case 291: hval:hvalitvA identical in BOTH
+--------------------------------------------------
+52 cases of HUET FORMS < PYSAN FORMS
+--------------------------------------------------
+Case 01: arT has arTayitvA(huet) < arTayitvA + arTitvA(pysan)
+Case 02: kaRq has kaRqayitvA(huet) < kaRqayitvA + kaRqitvA(pysan)
+Case 03: kal has kalayitvA(huet) < kalayitvA + kAlayitvA,kalitvA(pysan)
+Case 04: kuRW has kuRWitvA(huet) < kuRWitvA + kuRWayitvA(pysan)
+Case 05: kuRq has kuRqitvA(huet) < kuRqitvA + kuRqayitvA(pysan)
+Case 06: kup has kupitvA,kopitvA(huet) < kupitvA,kopitvA + kopayitvA(pysan)
+Case 07: kft has kfttvA(huet) < kfttvA + kartitvA(pysan)
+Case 08: kF has kIrtvA(huet) < kIrtvA + kArayitvA(pysan)
+Case 09: kxp has kxptvA(huet) < kxptvA + kalpitvA(pysan)
+Case 10: kzi has kzItvA(huet) < kzItvA + kzitvA(pysan)
+Case 11: kzviq has kzveqitvA(huet) < kzveqitvA + kzviqitvA(pysan)
+Case 12: KaRq has KaRqitvA(huet) < KaRqitvA + KaRqayitvA(pysan)
+Case 13: gad has gaditvA(huet) < gaditvA + gAdayitvA(pysan)
+Case 14: gard has garditvA(huet) < garditvA + gardayitvA(pysan)
+Case 15: guh has gUQvA,gUhitvA(huet) < gUQvA,gUhitvA + guhitvA(pysan)
+Case 16: gF has gIrtvA(huet) < gIrtvA + gArayitvA(pysan)
+Case 17: cumb has cumbitvA(huet) < cumbitvA + cumbayitvA(pysan)
+Case 18: tfp has tfptvA(huet) < tfptvA + tarpitvA(pysan)
+Case 19: du has dutvA(huet) < dutvA + dUtvA(pysan)
+Case 20: Df has DftvA(huet) < DftvA + DaritvA(pysan)
+Case 21: nud has nuttvA(huet) < nuttvA + nutvA(pysan)
+Case 22: nft has nfttvA(huet) < nfttvA + nartitvA(pysan)
+Case 23: piYj has piYjitvA(huet) < piYjitvA + piYjayitvA(pysan)
+Case 24: puz has puzwvA(huet) < puzwvA + pozitvA,puzitvA(pysan)
+Case 25: pU has pUtvA(huet) < pUtvA + pavitvA(pysan)
+Case 26: praT has praTitvA(huet) < praTitvA + prATayitvA(pysan)
+Case 27: prI has prItvA(huet) < prItvA + prayitvA(pysan)
+Case 28: buD has budDvA(huet) < budDvA + boDitvA(pysan)
+Case 29: bfh has barhitvA,bfQvA(huet) < barhitvA,bfQvA + bfhitvA(pysan)
+Case 30: Bakz has BakzitvA(huet) < BakzitvA + BakzayitvA(pysan)
+Case 31: mah has mahitvA(huet) < mahitvA + mahayitvA(pysan)
+Case 32: mArg has mArgayitvA(huet) < mArgayitvA + mArgitvA(pysan)
+Case 33: mI has mItvA(huet) < mItvA + mAyayitvA(pysan)
+Case 34: mud has muditvA,moditvA(huet) < muditvA,moditvA + modayitvA(pysan)
+Case 35: raR has raRitvA(huet) < raRitvA + rARayitvA(pysan)
+Case 36: lakz has lakzayitvA(huet) < lakzayitvA + lakzitvA(pysan)
+Case 37: laNG has laNGitvA(huet) < laNGitvA + laNGayitvA(pysan)
+Case 38: laz has lazitvA(huet) < lazitvA + lAzayitvA(pysan)
+Case 39: las has lasitvA(huet) < lasitvA + lAsayitvA(pysan)
+Case 40: luW has luWitvA,loWitvA(huet) < luWitvA,loWitvA + loWayitvA(pysan)
+Case 41: lup has luptvA(huet) < luptvA + lopitvA,lupitvA(pysan)
+Case 42: loc has locitvA(huet) < locitvA + locayitvA(pysan)
+Case 43: van has vatvA(huet) < vatvA + vanitvA(pysan)
+Case 44: vah has UQvA(huet) < UQvA + vahitvA(pysan)
+Case 45: vid has vittvA,viditvA,veditvA(huet) < vittvA,viditvA,veditvA + vitvA(pysan)
+Case 46: viz has vizwvA(huet) < vizwvA + vezitvA,vizitvA(pysan)
+Case 47: vft has vfttvA(huet) < vfttvA + vartitvA(pysan)
+Case 48: vfh has varhitvA,vfQvA(huet) < varhitvA,vfQvA + vfhitvA(pysan)
+Case 49: Sliz has SlizwvA(huet) < SlizwvA + SlezitvA,SlizitvA(pysan)
+Case 50: sUd has sUdayitvA(huet) < sUdayitvA + sUditvA(pysan)
+Case 51: stamB has stamBitvA(huet) < stamBitvA + stabDvA(pysan)
+Case 52: hfz has harzitvA,hfzwvA(huet) < harzitvA,hfzwvA + hfzitvA(pysan)
+--------------------------------------------------
+62 cases of HUET FORMS > PYSAN FORMS
+--------------------------------------------------
+Case 01: aYj has aYjitvA + aktvA(huet) > aYjitvA (pysan)
+Case 02: aS has aSitvA + azwvA(huet) > aSitvA (pysan)
+Case 03: as has asitvA,astvA + Asam(huet) > asitvA,astvA (pysan)
+Case 04: Uh has UhitvA + UQvA(huet) > UhitvA (pysan)
+Case 05: fc has arcitvA + arcya(huet) > arcitvA (pysan)
+Case 06: fD has arDitvA + fdDvA(huet) > arDitvA (pysan)
+Case 07: kaz has kazitvA + kAzam(huet) > kazitvA (pysan)
+Case 08: kuc has kucitvA + kocitvA,kuYcitvA(huet) > kucitvA (pysan)
+Case 09: kuts has kutsayitvA + kutsitvA(huet) > kutsayitvA (pysan)
+Case 10: kf has kftvA + kAram(huet) > kftvA (pysan)
+Case 11: kzuB has kzuBitvA,kzoBitvA + kzubDvA(huet) > kzuBitvA,kzoBitvA (pysan)
+Case 12: Kan has KanitvA,KAtvA + KAnam(huet) > KanitvA,KAtvA (pysan)
+Case 13: grah has gfhItvA + gfBItvA(huet) > gfhItvA (pysan)
+Case 14: Guz has GuzitvA,GozitvA + GuzwvA(huet) > GuzitvA,GozitvA (pysan)
+Case 15: car has caritvA + cIrtvA,cartvA(huet) > caritvA (pysan)
+Case 16: jap has japitvA + japtvA(huet) > japitvA (pysan)
+Case 17: jam has jamitvA + jantvA(huet) > jamitvA (pysan)
+Case 18: jas has jasitvA + jastvA(huet) > jasitvA (pysan)
+Case 19: taYc has taYcitvA + taktvA(huet) > taYcitvA (pysan)
+Case 20: tap has taptvA + tapitvA(huet) > taptvA (pysan)
+Case 21: tam has tamitvA + tantvA(huet) > tamitvA (pysan)
+Case 22: truw has truwitvA + trowitvA(huet) > truwitvA (pysan)
+Case 23: tvakz has tvakzitvA + tvazwvA(huet) > tvakzitvA (pysan)
+Case 24: tvar has tvaritvA + tUrtvA(huet) > tvaritvA (pysan)
+Case 25: das has dasitvA + dastvA(huet) > dasitvA (pysan)
+Case 26: dA has dattvA + dAyam,dItvA,ditvA(huet) > dattvA (pysan)
+Case 27: dfp has dfptvA + darpitvA(huet) > dfptvA (pysan)
+Case 28: dyut has dyutitvA,dyotitvA + dyuttvA(huet) > dyutitvA,dyotitvA (pysan)
+Case 29: Dam has DamitvA + DmAtvA(huet) > DamitvA (pysan)
+Case 30: DA has hitvA + DItvA,DitvA(huet) > hitvA (pysan)
+Case 31: DAv has DAvitvA,DOtvA + DAvtvA(huet) > DAvitvA,DOtvA (pysan)
+Case 32: DU has DUtvA + DutvA(huet) > DUtvA (pysan)
+Case 33: pat has patitvA + pattvA(huet) > patitvA (pysan)
+Case 34: pfz has parzitvA + pfzwvA(huet) > parzitvA (pysan)
+Case 35: banD has badDvA + banDam(huet) > badDvA (pysan)
+Case 36: Buj has BuktvA + Bojam(huet) > BuktvA (pysan)
+Case 37: BU has BUtvA + BAvam(huet) > BUtvA (pysan)
+Case 38: BraMS has BraMSitvA + BrazwvA(huet) > BraMSitvA (pysan)
+Case 39: Bram has BramitvA + BrAntvA(huet) > BramitvA (pysan)
+Case 40: mA has mitvA + mItvA(huet) > mitvA (pysan)
+Case 41: miz has mizitvA,mezitvA + mizwvA(huet) > mizitvA,mezitvA (pysan)
+Case 42: muz has muzitvA + mozitvA(huet) > muzitvA (pysan)
+Case 43: mfD has marDitvA + mfdDvA(huet) > marDitvA (pysan)
+Case 44: yat has yatitvA + yattvA(huet) > yatitvA (pysan)
+Case 45: yas has yasitvA + yastvA(huet) > yasitvA (pysan)
+Case 46: ram has ratvA + ramitvA(huet) > ratvA (pysan)
+Case 47: vaYc has vaYcitvA + vaNktvA(huet) > vaYcitvA (pysan)
+Case 48: vad has vaditvA + uditvA,vAdam(huet) > vaditvA (pysan)
+Case 49: vA has vAtvA + UtvA,utvA(huet) > vAtvA (pysan)
+Case 50: vf has vftvA + varItvA,varitvA(huet) > vftvA (pysan)
+Case 51: Sak has SaktvA + SakitvA(huet) > SaktvA (pysan)
+Case 52: SAs has SAsitvA,SizwvA + SAstvA(huet) > SAsitvA,SizwvA (pysan)
+Case 53: SramB has SramBitvA + SrabDvA(huet) > SramBitvA (pysan)
+Case 54: Sru has SrutvA + SrAvam(huet) > SrutvA (pysan)
+Case 55: saYj has saktvA + saYgam(huet) > saktvA (pysan)
+Case 56: siD has sidDvA + seDitvA,siDitvA(huet) > sidDvA (pysan)
+Case 57: sU has sUtvA + sutvA(huet) > sUtvA (pysan)
+Case 58: stuB has stuBitvA,stoBitvA + stubDvA(huet) > stuBitvA,stoBitvA (pysan)
+Case 59: snih has snigDvA,snihitvA,snehitvA + snIQvA(huet) > snigDvA,snihitvA,snehitvA (pysan)
+Case 60: snuh has snuhitvA,snohitvA + snUQvA,snugDvA(huet) > snuhitvA,snohitvA (pysan)
+Case 61: sPuw has sPuwitvA + sPowitvA(huet) > sPuwitvA (pysan)
+Case 62: sPur has sPuritvA + sPoritvA(huet) > sPuritvA (pysan)
+--------------------------------------------------
+123 cases of DIFFERENT FORMSQ
+--------------------------------------------------
+Case 01: aNg has aNgitvA(huet) != aNgayitvA(pysan)
+Case 02: ad has attvA(huet) != jagDvA(pysan)
+Case 03: inD has idDvA(huet) != inDitvA(pysan)
+Case 04: il has iltvA(huet) != elayitvA,elitvA(pysan)
+Case 05: und has uttvA,unttvA(huet) != unditvA(pysan)
+Case 06: uz has uzwvA(huet) != ozitvA(pysan)
+Case 07: kuw has kuwwvA(huet) != kuwitvA,kowayitvA(pysan)
+Case 08: kul has kultvA(huet) != kulitvA,kolitvA(pysan)
+Case 09: kfp has karpitvA,kfptvA(huet) != karpayitvA,karpitvA,kfpAyitvA(pysan)
+Case 10: kfz has kfzwvA(huet) != karzitvA,kfzitvA(pysan)
+Case 11: kram has kramitvA,krAntvA,krAmam(huet) != krantvA,kramitvA,krAntvA(pysan)
+Case 12: klam has klantvA(huet) != klamitvA,klAntvA(pysan)
+Case 13: klid has klintvA(huet) != klitvA,kliditvA,kleditvA(pysan)
+Case 14: kzad has kzattvA(huet) != kzaditvA(pysan)
+Case 15: kzan has kzatvA,kzanitvA(huet) != kzaRitvA(pysan)
+Case 16: kzap has kzaptvA(huet) != kzapayitvA,kzapitvA(pysan)
+Case 17: kzud has kzuttvA(huet) != kzutvA(pysan)
+Case 18: Kid has KintvA(huet) != KitvA(pysan)
+Case 19: Kel has KeltvA(huet) != KelitvA(pysan)
+Case 20: gaj has gaktvA(huet) != gajitvA,gAjayitvA(pysan)
+Case 21: gA has gItvA(huet) != gAtvA(pysan)
+Case 22: gup has gupayitvA(huet) != gupitvA,guptvA,gopitvA(pysan)
+Case 23: gur has gurtvA(huet) != guritvA(pysan)
+Case 24: gfD has garDitvA,gfdDvA(huet) != garDitvA,gfDitvA(pysan)
+Case 25: cakAs has cakAstvA(huet) != cakAsitvA(pysan)
+Case 26: cakz has cazwvA(huet) != cakzitvA(pysan)
+Case 27: cat has cattvA(huet) != catitvA(pysan)
+Case 28: cam has cantvA,camitvA(huet) != camitvA,cAntvA(pysan)
+Case 29: cit has cittvA(huet) != cititvA,cetitvA(pysan)
+Case 30: cur has curayitvA,curitvA,coritvA(huet) != corayitvA(pysan)
+Case 31: cUz has cUzwvA(huet) != cUzitvA(pysan)
+Case 32: cyu has cyutvA(huet) != cyAvayitvA(pysan)
+Case 33: Cad has CattvA(huet) != CaditvA,CAdayitvA(pysan)
+Case 34: jakz has jagDvA(huet) != jakzitvA(pysan)
+Case 35: jan has jAtvA(huet) != janitvA(pysan)
+Case 36: jaB has jabDvA(huet) != jaBitvA(pysan)
+Case 37: juz has juzwvA(huet) != juzitvA,jozitvA(pysan)
+Case 38: jF has jIrtvA(huet) != jaritvA(pysan)
+Case 39: jyut has jyuttvA(huet) != jyutitvA,jyotitvA(pysan)
+Case 40: qI has qItvA(huet) != qayitvA(pysan)
+Case 41: tak has taktvA(huet) != takitvA(pysan)
+Case 42: tan has tatvA,tanitvA,tantvA(huet) != tatvA,tanitvA,tAnayitvA(pysan)
+Case 43: tandr has tandrayitvA(huet) != tandritvA(pysan)
+Case 44: tij has tiktvA(huet) != tijitvA,tejitvA(pysan)
+Case 45: tud has tuttvA(huet) != tutvA(pysan)
+Case 46: tup has tuptvA(huet) != tupitvA,topitvA(pysan)
+Case 47: tul has tulayitvA(huet) != tolayitvA(pysan)
+Case 48: tfd has tfttvA(huet) != tarditvA(pysan)
+Case 49: tfz has tarzam,tarzitvA(huet) != tarzitvA,tfzitvA(pysan)
+Case 50: tras has trastvA(huet) != trasitvA,trAsayitvA(pysan)
+Case 51: tviz has tvizitvA,tvezitvA(huet) != tvizwvA(pysan)
+Case 52: tsar has tsartvA(huet) != tsaritvA(pysan)
+Case 53: daMS has daMSitvA(huet) != daMSayitvA,dazwvA(pysan)
+Case 54: daG has dagDvA(huet) != daGitvA(pysan)
+Case 55: daB has dabDvA(huet) != daBitvA(pysan)
+Case 56: dAS has dAzwvA(huet) != dASitvA(pysan)
+Case 57: dIp has dIptvA(huet) != dIpitvA(pysan)
+Case 58: dfB has dfbDvA(huet) != darBayitvA,darBitvA(pysan)
+Case 59: dfh has dfQvA(huet) != darhitvA(pysan)
+Case 60: dev has dyUtvA(huet) != devayitvA,devitvA(pysan)
+Case 61: Dvf has DUrtvA(huet) != DvftvA(pysan)
+Case 62: nAT has nAtTvA(huet) != nATitvA(pysan)
+Case 63: paw has pawwvA(huet) != pawayitvA,pawitvA,pAwayitvA(pysan)
+Case 64: paT has patTvA(huet) != paTitvA(pysan)
+Case 65: pad has pattvA(huet) != patvA(pysan)
+Case 66: pA has pAyam,pItvA(huet) != pAtvA,pItvA(pysan)
+Case 67: pi has pItvA(huet) != pitvA(pysan)
+Case 68: piS has pizwvA(huet) != piSitvA,peSitvA(pysan)
+Case 69: puT has putTvA(huet) != puTitvA,poTitvA(pysan)
+Case 70: pUy has pUtvA(huet) != pUyitvA(pysan)
+Case 71: pf has pritvA(huet) != pftvA(pysan)
+Case 72: pfc has pfktvA(huet) != parcitvA(pysan)
+Case 73: pfT has pfTayitvA(huet) != parTayitvA(pysan)
+Case 74: pru has prUtvA(huet) != prutvA(pysan)
+Case 75: pluz has pluzwvA(huet) != pluzitvA,plozitvA(pysan)
+Case 76: baMh has bahitvA(huet) != baMhitvA(pysan)
+Case 77: Baz has BazwvA(huet) != BazitvA(pysan)
+Case 78: Bid has BittvA(huet) != BitvA,BiditvA,BeditvA(pysan)
+Case 79: maMh has mahitvA(huet) != maMhitvA(pysan)
+Case 80: majj has maktvA(huet) != majjitvA(pysan)
+Case 81: mad has mattvA(huet) != maditvA(pysan)
+Case 82: man has matvA,mAtvA(huet) != matvA,manitvA(pysan)
+Case 83: manT has maTitvA(huet) != manTitvA(pysan)
+Case 84: miT has mitTvA(huet) != miTitvA,meTitvA(pysan)
+Case 85: mid has midayitvA,miditvA,meditvA(huet) != miditvA,medayitvA,meditvA(pysan)
+Case 86: mih has mIQvA(huet) != miQvA(pysan)
+Case 87: mUz has mUzwvA(huet) != mUzitvA(pysan)
+Case 88: mfq has mfwwvA,mfqayitvA(huet) != marqayitvA,mfqitvA(pysan)
+Case 89: mfd has mfttvA(huet) != mfditvA(pysan)
+Case 90: mfz has mfzwvA(huet) != marzitvA,mfzitvA(pysan)
+Case 91: rad has rattvA(huet) != raditvA(pysan)
+Case 92: rAD has rAdDvA(huet) != rADitvA(pysan)
+Case 93: ruz has ruzitvA,ruzwvA,rozitvA(huet) != razwvA,ruzitvA,rozitvA(pysan)
+Case 94: lag has laktvA,lagitvA(huet) != lagitvA,lAgayitvA(pysan)
+Case 95: vam has vAntvA(huet) != vamitvA(pysan)
+Case 96: vas has uzitvA,uzwvA,vasitvA(huet) != uzitvA,vasayitvA,vasitvA,vastvA(pysan)
+Case 97: viD has vidDvA(huet) != viDitvA,veDitvA(pysan)
+Case 98: vIj has vIktvA(huet) != vIjayitvA,vIjitvA(pysan)
+Case 99: vfj has vfktvA(huet) != varjitvA(pysan)
+Case 100: vraj has vrajitvA(huet) != vrAjayitvA(pysan)
+Case 101: vraSc has vfzwvA(huet) != vfktvA,vraScitvA(pysan)
+Case 102: Sad has SattvA(huet) != SatvA(pysan)
+Case 103: Sal has SaltvA(huet) != SalitvA,SAlayitvA(pysan)
+Case 104: SIl has SIltvA(huet) != SIlitvA(pysan)
+Case 105: Suc has SuktvA(huet) != SucitvA,SocitvA(pysan)
+Case 106: Svit has SvittvA(huet) != SvititvA,SvetitvA(pysan)
+Case 107: sad has sattvA(huet) != satvA(pysan)
+Case 108: san has sAtvA(huet) != sanitvA,setvA(pysan)
+Case 109: sap has saptvA(huet) != sapitvA(pysan)
+Case 110: sah has sahitvA,sAQvA,soQvA(huet) != sahitvA,sAhayitvA,soQvA(pysan)
+Case 111: sur has surtvA(huet) != suritvA,sorayitvA,soritvA(pysan)
+Case 112: sf has sAram,sftvA(huet) != sArayitvA,sftvA(pysan)
+Case 113: skand has skanttvA(huet) != skannvA(pysan)
+Case 114: sPal has sPaltvA(huet) != sPalitvA(pysan)
+Case 115: syand has syattvA,syanttvA(huet) != syatvA,syanditvA(pysan)
+Case 116: sraMs has sraMsitvA,sraMstvA(huet) != sraMsitvA,srastvA(pysan)
+Case 117: svar has svaritvA,svartvA(huet) != svarayitvA,svaritvA(pysan)
+Case 118: svid has svittvA(huet) != sviditvA,sveditvA(pysan)
+Case 119: haW has hawWvA(huet) != haWitvA(pysan)
+Case 120: had has hattvA(huet) != haditvA(pysan)
+Case 121: hA has hAtvA,hItvA(huet) != hAtvA,hitvA(pysan)
+Case 122: hnu has hnUtvA(huet) != hnutvA(pysan)
+Case 123: hvf has hvartvA(huet) != hvftvA(pysan)
+--------------------------------------------------
+1086 cases of ROOT IN PYSAN ONLY
+--------------------------------------------------
+Case 01: aMS:aMSayitvA in pysan
+Case 02: aMs:aMsayitvA,aMsApayitvA in pysan
+Case 03: aMh:aMhayitvA,aMhitvA in pysan
+Case 04: ak:akitvA in pysan
+Case 05: akz:akzitvA in pysan
+Case 06: ag:agitvA in pysan
+Case 07: aG:aGayitvA in pysan
+Case 08: aNk:aNkayitvA,aNkitvA in pysan
+Case 09: aNK:aNKayitvA in pysan
+Case 10: aNG:aNGitvA in pysan
+Case 11: ac:acitvA in pysan
+Case 12: aww:awwayitvA,awwitvA in pysan
+Case 13: aW:aWitvA in pysan
+Case 14: aq:aqitvA in pysan
+Case 15: aqq:aqqitvA in pysan
+Case 16: aR:aRitvA in pysan
+Case 17: aRW:aRWitvA in pysan
+Case 18: ant:antitvA in pysan
+Case 19: and:anditvA in pysan
+Case 20: anD:anDayitvA in pysan
+Case 21: aBr:aBritvA in pysan
+Case 22: amb:ambitvA in pysan
+Case 23: ay:ayitvA in pysan
+Case 24: arc:arcitvA in pysan
+Case 25: arj:arjitvA in pysan
+Case 26: arb:arbitvA in pysan
+Case 27: arv:arvitvA in pysan
+Case 28: al:alitvA in pysan
+Case 29: avalok:avalokayitvA,avalokitvA in pysan
+Case 30: az:azitvA in pysan
+Case 31: ah:ahitvA in pysan
+Case 32: iK:eKitvA in pysan
+Case 33: iNK:iNKitvA in pysan
+Case 34: iw:ewitvA in pysan
+Case 35: ir:eritvA in pysan
+Case 36: I:ItvA in pysan
+Case 37: IK:IKitvA in pysan
+Case 38: Ij:IjitvA in pysan
+Case 39: Int:IntitvA in pysan
+Case 40: Irzy:IrzyitvA in pysan
+Case 41: u:utvA in pysan
+Case 42: uK:oKitvA in pysan
+Case 43: uNK:uNKitvA in pysan
+Case 44: uC:oCitvA in pysan
+Case 45: uW:oWitvA in pysan
+Case 46: ud:oditvA in pysan
+Case 47: uDras:uDrasitvA,uDrAsayitvA in pysan
+Case 48: upAr:upAritvA in pysan
+Case 49: ubj:ubjitvA in pysan
+Case 50: uB:oBitvA in pysan
+Case 51: ulaq:ulAqayitvA in pysan
+Case 52: uh:ohitvA in pysan
+Case 53: Uy:UyitvA in pysan
+Case 54: UrRu:UrRutvA in pysan
+Case 55: Urd:UrditvA in pysan
+Case 56: Urv:UrvitvA in pysan
+Case 57: Uz:UzitvA in pysan
+Case 58: fC:arCitvA in pysan
+Case 59: fYj:fYjitvA in pysan
+Case 60: fR:arRitvA,ritvA in pysan
+Case 61: ft:artitvA,ftitvA in pysan
+Case 62: fP:arPitvA in pysan
+Case 63: eW:eWitvA in pysan
+Case 64: ez:ezitvA in pysan
+Case 65: oK:oKitvA in pysan
+Case 66: oj:ojayitvA,ojitvA in pysan
+Case 67: oR:oRitvA in pysan
+Case 68: olaRq:olaRqayitvA,olaRqitvA in pysan
+Case 69: kaMs:kaMsitvA in pysan
+Case 70: kak:kakitvA in pysan
+Case 71: kaK:kaKitvA in pysan
+Case 72: kag:kagitvA in pysan
+Case 73: kaNk:kaNkitvA in pysan
+Case 74: kac:kacitvA in pysan
+Case 75: kaj:kajitvA in pysan
+Case 76: kaYc:kaYcitvA in pysan
+Case 77: kaw:kawitvA in pysan
+Case 78: kaww:kawwayitvA in pysan
+Case 79: kaW:kaWitvA in pysan
+Case 80: kaq:kaqitvA in pysan
+Case 81: kaqq:kaqqitvA in pysan
+Case 82: kaR:kaRitvA,kARayitvA in pysan
+Case 83: kaRw:kaRwitvA in pysan
+Case 84: kaRW:kaRWayitvA,kaRWitvA in pysan
+Case 85: katr:katrayitvA in pysan
+Case 86: kad:kaditvA in pysan
+Case 87: kan:kanitvA in pysan
+Case 88: kand:kanditvA in pysan
+Case 89: kab:kabitvA in pysan
+Case 90: kam:kamitvA,kAntvA in pysan
+Case 91: kamb:kambitvA in pysan
+Case 92: karj:karjitvA in pysan
+Case 93: karR:karRayitvA in pysan
+Case 94: kartr:kartrayitvA in pysan
+Case 95: kard:karditvA in pysan
+Case 96: karb:karbitvA in pysan
+Case 97: karv:karvitvA in pysan
+Case 98: kall:kallitvA in pysan
+Case 99: kav:kavitvA,kAvayitvA in pysan
+Case 100: kaS:kaSitvA in pysan
+Case 101: kAMs:kAMsitvA in pysan
+Case 102: kAYc:kAYcitvA in pysan
+Case 103: kAs:kAsitvA in pysan
+Case 104: ki:kitvA in pysan
+Case 105: kiw:kiwitvA,kewitvA in pysan
+Case 106: kit:kititvA,ketitvA in pysan
+Case 107: kil:kilitvA,kelayitvA,kelitvA in pysan
+Case 108: kizk:kizkayitvA in pysan
+Case 109: kIw:kIwayitvA in pysan
+Case 110: ku:kavitvA in pysan
+Case 111: kuMS:kuMSitvA in pysan
+Case 112: kuk:kukitvA,kokitvA in pysan
+Case 113: kuj:kujitvA in pysan
+Case 114: kuYc:kuYcitvA in pysan
+Case 115: kuYj:kuYjitvA in pysan
+Case 116: kuww:kuwwayitvA in pysan
+Case 117: kuq:kuqitvA,koqitvA in pysan
+Case 118: kuR:kuRitvA,koRayitvA,koRitvA in pysan
+Case 119: kuT:kuTitvA,koTitvA in pysan
+Case 120: kud:kodayitvA in pysan
+Case 121: kundr:kundrayitvA in pysan
+Case 122: kumb:kumbitvA in pysan
+Case 123: kur:kuritvA,koritvA in pysan
+Case 124: kuS:kuSitvA,koSitvA in pysan
+Case 125: kuz:kuzitvA in pysan
+Case 126: kuh:kuhayitvA in pysan
+Case 127: kUw:kUwayitvA in pysan
+Case 128: kUq:kUqayitvA,kUqitvA in pysan
+Case 129: kUR:kURitvA in pysan
+Case 130: kUp:kUpayitvA in pysan
+Case 131: kUrd:kUrditvA in pysan
+Case 132: kUl:kUlitvA in pysan
+Case 133: kFt:kIrtayitvA in pysan
+Case 134: kep:kepitvA in pysan
+Case 135: kel:kelitvA in pysan
+Case 136: kev:kevitvA in pysan
+Case 137: kE:kAtvA in pysan
+Case 138: knaMs:knaMsayitvA,knaMsitvA in pysan
+Case 139: knaT:knaTitvA in pysan
+Case 140: knas:knasitvA in pysan
+Case 141: knu:knutvA in pysan
+Case 142: knUy:knUyitvA in pysan
+Case 143: kmar:kmaritvA in pysan
+Case 144: kraMS:kraMSitvA in pysan
+Case 145: kraT:kraTitvA in pysan
+Case 146: krap:krapitvA in pysan
+Case 147: kruq:kruqitvA,kroqayitvA,kroqitvA in pysan
+Case 148: klaT:klaTitvA in pysan
+Case 149: kland:klanditvA in pysan
+Case 150: klind:klinditvA in pysan
+Case 151: klIb:klIbayitvA,klIbitvA in pysan
+Case 152: kleS:kleSitvA in pysan
+Case 153: kvaR:kvaRitvA in pysan
+Case 154: kzaj:kzajitvA,kzAjayitvA in pysan
+Case 155: kzaR:kzaRitvA,kzatvA in pysan
+Case 156: kzamp:kzampitvA in pysan
+Case 157: kzal:kzAlayitvA in pysan
+Case 158: kziR:kziRitvA,kzitvA,kzeRitvA in pysan
+Case 159: kziv:kzivitvA,kzevitvA in pysan
+Case 160: kzIj:kzIjitvA in pysan
+Case 161: kzIb:kzIbitvA in pysan
+Case 162: kzIv:kzItvA,kzIvitvA in pysan
+Case 163: kzup:kzupitvA,kzopitvA in pysan
+Case 164: kzump:kzumpitvA in pysan
+Case 165: kzur:kzuritvA,kzoritvA in pysan
+Case 166: kzE:kzAtvA in pysan
+Case 167: kzow:kzowayitvA in pysan
+Case 168: kzRu:kzRutvA in pysan
+Case 169: kzmAy:kzmAyitvA in pysan
+Case 170: kzmIl:kzmIlitvA in pysan
+Case 171: kzvid:kzviditvA,kzveditvA in pysan
+Case 172: kzvel:kzvelitvA in pysan
+Case 173: Kac:KacitvA,KAcayitvA in pysan
+Case 174: Kaj:KajitvA in pysan
+Case 175: KaYj:KaYjitvA in pysan
+Case 176: Kaw:KawitvA in pysan
+Case 177: Kaww:KawwayitvA in pysan
+Case 178: Kaq:KAqayitvA in pysan
+Case 179: Kad:KaditvA in pysan
+Case 180: Kamb:KambitvA in pysan
+Case 181: Karj:KarjitvA in pysan
+Case 182: Kard:KarditvA in pysan
+Case 183: Karb:KarbitvA in pysan
+Case 184: Karv:KarvitvA in pysan
+Case 185: Kal:KalitvA in pysan
+Case 186: Kall:KallitvA in pysan
+Case 187: Kaz:KazitvA in pysan
+Case 188: Kiw:KiwitvA,KewitvA in pysan
+Case 189: Ku:KutvA in pysan
+Case 190: Kuj:KujitvA,KojitvA in pysan
+Case 191: KuRq:KuRqayitvA,KuRqitvA in pysan
+Case 192: Kud:KuditvA,KoditvA in pysan
+Case 193: Kur:KuritvA,KoritvA in pysan
+Case 194: Kurd:KurditvA in pysan
+Case 195: Kew:KewayitvA in pysan
+Case 196: KE:KAtvA in pysan
+Case 197: Kow:KowayitvA,KowitvA in pysan
+Case 198: Koq:KoqayitvA,KoqitvA in pysan
+Case 199: Kor:KoritvA in pysan
+Case 200: gaYj:gaYjitvA in pysan
+Case 201: gaq:gaqitvA,gAqayitvA in pysan
+Case 202: gaRq:gaRqitvA in pysan
+Case 203: gaD:gaDitvA in pysan
+Case 204: ganD:ganDayitvA in pysan
+Case 205: gamb:gambitvA in pysan
+Case 206: garb:garbitvA in pysan
+Case 207: garv:garvitvA in pysan
+Case 208: gah:gAhayitvA in pysan
+Case 209: gAD:gADitvA in pysan
+Case 210: gu:gutvA in pysan
+Case 211: guj:gujitvA,gojitvA in pysan
+Case 212: guq:guqitvA,goqitvA in pysan
+Case 213: guRW:guRWayitvA in pysan
+Case 214: guRq:guRqayitvA in pysan
+Case 215: gud:guditvA,goditvA in pysan
+Case 216: guD:guDitvA in pysan
+Case 217: guP:guPitvA,goPitvA in pysan
+Case 218: gurd:gurditvA,gUrdayitvA in pysan
+Case 219: gurv:gurvitvA in pysan
+Case 220: gUrd:gUrditvA in pysan
+Case 221: gUrD:gUrDayitvA in pysan
+Case 222: gf:gftvA in pysan
+Case 223: gep:gepitvA in pysan
+Case 224: gev:gevitvA in pysan
+Case 225: gez:gezitvA in pysan
+Case 226: gE:gItvA in pysan
+Case 227: graT:graTitvA in pysan
+Case 228: gruc:grucitvA,grocitvA in pysan
+Case 229: glas:glasitvA in pysan
+Case 230: gluc:glucitvA,glocitvA in pysan
+Case 231: gluYc:gluYcitvA in pysan
+Case 232: glep:glepitvA in pysan
+Case 233: glev:glevitvA in pysan
+Case 234: glez:glezitvA in pysan
+Case 235: GaMz:GaMzitvA in pysan
+Case 236: GagG:GagGitvA in pysan
+Case 237: GaR:GaRitvA in pysan
+Case 238: GaRw:GaRwitvA in pysan
+Case 239: Gamb:GambitvA in pysan
+Case 240: Gar:GArayitvA in pysan
+Case 241: Garb:GarbitvA in pysan
+Case 242: Gas:GastvA in pysan
+Case 243: GiRR:GiRRitvA in pysan
+Case 244: Gu:GutvA in pysan
+Case 245: Guw:GuwitvA,GowitvA in pysan
+Case 246: Guq:GuqitvA,GoqitvA in pysan
+Case 247: GuR:GuRitvA,GoRitvA in pysan
+Case 248: GuRR:GuRRitvA in pysan
+Case 249: GUr:GUritvA in pysan
+Case 250: GfR:GarRitvA,GritvA in pysan
+Case 251: GfRR:GfRRitvA in pysan
+Case 252: Gol:GolayitvA in pysan
+Case 253: Nu:NutvA in pysan
+Case 254: cak:cakitvA in pysan
+Case 255: cakk:cakkayitvA in pysan
+Case 256: caG:caGitvA in pysan
+Case 257: caR:caRitvA in pysan
+Case 258: caRq:caRqitvA in pysan
+Case 259: cad:caditvA in pysan
+Case 260: can:canitvA in pysan
+Case 261: cap:capayitvA,capitvA in pysan
+Case 262: camp:campayitvA in pysan
+Case 263: camb:cambitvA in pysan
+Case 264: cay:cayitvA in pysan
+Case 265: carG:carGitvA in pysan
+Case 266: carc:carcayitvA,carcitvA in pysan
+Case 267: carb:carbitvA in pysan
+Case 268: carv:carvayitvA in pysan
+Case 269: cah:cahitvA,cAhayitvA in pysan
+Case 270: cikk:cikkayitvA in pysan
+Case 271: ciw:ciwitvA,cewitvA in pysan
+Case 272: ciri:ciritvA in pysan
+Case 273: cil:cilitvA,celitvA in pysan
+Case 274: cIk:cIkayitvA,cIkitvA in pysan
+Case 275: cIv:cIvayitvA,cIvitvA in pysan
+Case 276: cukk:cukkayitvA in pysan
+Case 277: cuw:cuwitvA,cowayitvA,cowitvA in pysan
+Case 278: cuww:cuwwayitvA in pysan
+Case 279: cuq:cuqitvA,coqitvA in pysan
+Case 280: cuqq:cuqqitvA in pysan
+Case 281: cuR:cuRitvA,coRitvA in pysan
+Case 282: cuRW:cuRWayitvA in pysan
+Case 283: cut:cutitvA,cotitvA in pysan
+Case 284: cup:cupitvA,copitvA in pysan
+Case 285: cul:colayitvA in pysan
+Case 286: culump:culumpitvA in pysan
+Case 287: cUR:cURayitvA in pysan
+Case 288: cUr:cUrayitvA,cUritvA in pysan
+Case 289: cUrR:cUrRayitvA in pysan
+Case 290: cft:cartitvA in pysan
+Case 291: cel:celitvA in pysan
+Case 292: cyut:cyutitvA,cyotitvA in pysan
+Case 293: cyus:cyosayitvA in pysan
+Case 294: Cam:CamitvA in pysan
+Case 295: Camp:CampayitvA in pysan
+Case 296: Cal:CAlayitvA in pysan
+Case 297: Caz:CazitvA in pysan
+Case 298: Cuw:CuwitvA,CowayitvA,CowitvA in pysan
+Case 299: Cuq:CuqitvA,CoqitvA in pysan
+Case 300: Cup:CupitvA,CopitvA in pysan
+Case 301: Cur:CuritvA,CoritvA in pysan
+Case 302: Cfd:CarditvA,CfditvA in pysan
+Case 303: Cfp:CarpitvA in pysan
+Case 304: Co:CAtvA,CitvA in pysan
+Case 305: jaMs:jaMsayitvA,jaMsitvA in pysan
+Case 306: jaNkz:jaNkzitvA in pysan
+Case 307: jaj:jajitvA in pysan
+Case 308: jarc:jarcitvA in pysan
+Case 309: jarC:jarCitvA in pysan
+Case 310: jarj:jarjitvA in pysan
+Case 311: jarts:jartsitvA in pysan
+Case 312: jal:jalitvA,jAlayitvA in pysan
+Case 313: jim:jimitvA,jemitvA in pysan
+Case 314: jiri:jiritvA in pysan
+Case 315: jiz:jizitvA,jezitvA in pysan
+Case 316: juNg:juNgitvA in pysan
+Case 317: juYc:juYcayitvA,juYcitvA in pysan
+Case 318: juw:juwitvA,jowitvA in pysan
+Case 319: juq:juqitvA,joqayitvA,joqitvA in pysan
+Case 320: jun:junitvA,jonitvA in pysan
+Case 321: jur:juritvA,joritvA in pysan
+Case 322: jul:jolayitvA in pysan
+Case 323: jUr:jUritvA in pysan
+Case 324: jUrv:jUrvitvA in pysan
+Case 325: jf:jftvA in pysan
+Case 326: jez:jezitvA in pysan
+Case 327: jeh:jehitvA in pysan
+Case 328: jE:jAtvA in pysan
+Case 329: jyo:jItvA in pysan
+Case 330: jri:jritvA in pysan
+Case 331: Jaw:JawitvA in pysan
+Case 332: Jam:JamitvA in pysan
+Case 333: Jarc:JarcitvA in pysan
+Case 334: Jaz:JazitvA in pysan
+Case 335: Ju:JutvA in pysan
+Case 336: JUz:JUzitvA in pysan
+Case 337: JF:JIstvA in pysan
+Case 338: Jyu:JyutvA in pysan
+Case 339: waNk:waNkayitvA in pysan
+Case 340: wik:wikitvA,wekitvA in pysan
+Case 341: wIk:wIkitvA in pysan
+Case 342: wOk:wOkitvA in pysan
+Case 343: wval:wvalitvA in pysan
+Case 344: qap:qApayitvA in pysan
+Case 345: qam:qamitvA in pysan
+Case 346: qamp:qampayitvA in pysan
+Case 347: qamB:qamBayitvA in pysan
+Case 348: qip:qipitvA,qepayitvA,qepitvA in pysan
+Case 349: QOk:QOkitvA in pysan
+Case 350: taNk:taNkitvA in pysan
+Case 351: taNg:taNgitvA in pysan
+Case 352: taw:tawitvA in pysan
+Case 353: taq:tAqayitvA in pysan
+Case 354: taRq:taRqitvA in pysan
+Case 355: tand:tanditvA in pysan
+Case 356: tay:tayitvA in pysan
+Case 357: tard:tarditvA in pysan
+Case 358: tal:talitvA,tAlayitvA in pysan
+Case 359: tas:tasitvA in pysan
+Case 360: tAy:tAyitvA in pysan
+Case 361: tik:tikitvA,tekitvA in pysan
+Case 362: tig:tigitvA,tegitvA in pysan
+Case 363: tiG:tiGitvA,teGitvA in pysan
+Case 364: tip:tipitvA,tepitvA in pysan
+Case 365: tim:timitvA,temitvA in pysan
+Case 366: til:tilitvA,telayitvA,telitvA in pysan
+Case 367: till:tillitvA in pysan
+Case 368: tIk:tIkitvA in pysan
+Case 369: tIm:tImitvA in pysan
+Case 370: tIv:tIvitvA in pysan
+Case 371: tu:tutvA in pysan
+Case 372: tuj:tujitvA,tojitvA in pysan
+Case 373: tuw:tuwitvA,towitvA in pysan
+Case 374: tuq:tuqitvA,toqitvA in pysan
+Case 375: tuqq:tuqqitvA in pysan
+Case 376: tuR:tuRitvA,toRitvA in pysan
+Case 377: tuRq:tuRqitvA in pysan
+Case 378: tund:tunditvA in pysan
+Case 379: tuB:tuBitvA,toBitvA in pysan
+Case 380: tump:tumpitvA in pysan
+Case 381: tumb:tumbayitvA,tumbitvA in pysan
+Case 382: tur:turitvA,toritvA in pysan
+Case 383: turv:turvitvA in pysan
+Case 384: tuS:tuSitvA,toSitvA in pysan
+Case 385: tus:tusitvA,tositvA in pysan
+Case 386: tuh:tuhitvA,tohitvA in pysan
+Case 387: tUq:tUqitvA in pysan
+Case 388: tUR:tURayitvA in pysan
+Case 389: tUl:tUlayitvA,tUlitvA in pysan
+Case 390: tUz:tUzitvA in pysan
+Case 391: tfkz:tfkzitvA in pysan
+Case 392: tfR:tarRitvA,tritvA in pysan
+Case 393: tfP:tarPitvA in pysan
+Case 394: tfmp:tfmpitvA in pysan
+Case 395: tfmP:tfmPitvA in pysan
+Case 396: tfh:tarhitvA,tfhitvA in pysan
+Case 397: tep:tepitvA in pysan
+Case 398: tev:tevitvA in pysan
+Case 399: toq:toqitvA in pysan
+Case 400: traMs:traMsayitvA,traMsitvA in pysan
+Case 401: traK:traKitvA in pysan
+Case 402: trand:tranditvA in pysan
+Case 403: triNK:triNKitvA in pysan
+Case 404: trup:trupitvA,tropitvA in pysan
+Case 405: truP:truPitvA,troPitvA in pysan
+Case 406: trump:trumpitvA in pysan
+Case 407: trumP:trumPitvA in pysan
+Case 408: trOk:trOkitvA in pysan
+Case 409: tvaNg:tvaNgitvA in pysan
+Case 410: tvac:tvacitvA in pysan
+Case 411: tvaYc:tvaYcitvA in pysan
+Case 412: Tarv:TarvitvA in pysan
+Case 413: Tuq:TuqitvA,ToqitvA in pysan
+Case 414: Turv:TurvitvA in pysan
+Case 415: daMs:daMsayitvA,daMsitvA in pysan
+Case 416: daMh:daMhayitvA in pysan
+Case 417: daNG:daNGitvA in pysan
+Case 418: dad:daditvA in pysan
+Case 419: daD:daDitvA in pysan
+Case 420: danv:danvitvA in pysan
+Case 421: damB:dabDvA,damBitvA in pysan
+Case 422: dAn:dAnitvA in pysan
+Case 423: dAy:dAyitvA in pysan
+Case 424: dAs:dAsitvA in pysan
+Case 425: dinv:dinvitvA in pysan
+Case 426: dip:dipitvA,depitvA in pysan
+Case 427: dimp:dimpayitvA in pysan
+Case 428: dimB:dimBayitvA in pysan
+Case 429: div:devitvA,dyUtvA in pysan
+Case 430: dI:dItvA in pysan
+Case 431: dIDI:dIDItvA in pysan
+Case 432: duD:duDitvA,doDitvA in pysan
+Case 433: durv:durvitvA in pysan
+Case 434: dul:dolayitvA in pysan
+Case 435: dU:dUtvA in pysan
+Case 436: df:dftvA in pysan
+Case 437: dfMh:dfMhitvA in pysan
+Case 438: de:dAtvA in pysan
+Case 439: dE:dAtvA in pysan
+Case 440: do:ditvA in pysan
+Case 441: dyu:dyutvA in pysan
+Case 442: dyE:dyAtvA in pysan
+Case 443: dram:dramitvA in pysan
+Case 444: drAK:drAKitvA in pysan
+Case 445: drANkz:drANkzitvA in pysan
+Case 446: drAq:drAqitvA in pysan
+Case 447: drAh:drAhitvA in pysan
+Case 448: druq:druqitvA,droqitvA in pysan
+Case 449: druR:druRitvA,droRitvA in pysan
+Case 450: drumm:drummitvA in pysan
+Case 451: drU:drUtvA in pysan
+Case 452: drUq:drUqitvA in pysan
+Case 453: drek:drekitvA in pysan
+Case 454: drE:drAtvA in pysan
+Case 455: dvf:dvftvA in pysan
+Case 456: Dakk:DakkayitvA in pysan
+Case 457: DaR:DaRitvA in pysan
+Case 458: Dan:DanitvA in pysan
+Case 459: Dav:DavitvA in pysan
+Case 460: Di:DitvA in pysan
+Case 461: Dikz:DikzitvA in pysan
+Case 462: Diz:DizitvA,DezitvA in pysan
+Case 463: DIkz:DIkzitvA in pysan
+Case 464: Du:DutvA in pysan
+Case 465: DUp:DUpitvA in pysan
+Case 466: DUr:DUritvA in pysan
+Case 467: DUrv:DUrvitvA in pysan
+Case 468: DUS:DUSayitvA in pysan
+Case 469: Dfj:DarjitvA in pysan
+Case 470: DF:DIstvA in pysan
+Case 471: De:DItvA in pysan
+Case 472: Dor:DoritvA in pysan
+Case 473: DmA:DmAtvA in pysan
+Case 474: DyE:DyAtvA in pysan
+Case 475: Draj:DrajitvA in pysan
+Case 476: DraR:DraRitvA in pysan
+Case 477: Dras:DrasitvA in pysan
+Case 478: DrA:DrAtvA in pysan
+Case 479: Drij:DrijitvA,DrejitvA in pysan
+Case 480: Drek:DrekitvA in pysan
+Case 481: DrE:DrAtvA in pysan
+Case 482: Dvaj:DvajitvA in pysan
+Case 483: DvaR:DvaRitvA in pysan
+Case 484: DvraR:DvraRitvA in pysan
+Case 485: nakk:nakkayitvA in pysan
+Case 486: naK:naKitvA in pysan
+Case 487: naj:najitvA in pysan
+Case 488: naq:nAqayitvA in pysan
+Case 489: naB:naBitvA in pysan
+Case 490: namb:nambitvA in pysan
+Case 491: nay:nayitvA in pysan
+Case 492: narb:narbitvA in pysan
+Case 493: nal:nalitvA,nAlayitvA in pysan
+Case 494: nas:nasitvA in pysan
+Case 495: nAD:nADitvA in pysan
+Case 496: nAs:nAsitvA in pysan
+Case 497: niMs:niMsitvA in pysan
+Case 498: nikz:nikzitvA in pysan
+Case 499: niYj:niYjitvA in pysan
+Case 500: ninv:ninvitvA in pysan
+Case 501: nil:nilitvA,nelitvA in pysan
+Case 502: niS:niSitvA,neSitvA in pysan
+Case 503: niz:nizitvA,nezitvA in pysan
+Case 504: nizk:nizkayitvA in pysan
+Case 505: nIl:nIlitvA in pysan
+Case 506: nIv:nIvitvA in pysan
+Case 507: nuq:nuqitvA,noqitvA in pysan
+Case 508: nF:nIrtvA in pysan
+Case 509: ned:neditvA in pysan
+Case 510: nez:nezitvA in pysan
+Case 511: paMS:paMSitvA in pysan
+Case 512: pakz:pakzitvA in pysan
+Case 513: paRq:paRqayitvA,paRqitvA in pysan
+Case 514: pan:panitvA in pysan
+Case 515: panT:panTayitvA,panTitvA in pysan
+Case 516: pamb:pambitvA in pysan
+Case 517: pay:payitvA in pysan
+Case 518: parR:parRayitvA in pysan
+Case 519: pard:parditvA in pysan
+Case 520: parp:parpitvA in pysan
+Case 521: parb:parbitvA in pysan
+Case 522: parv:parvitvA in pysan
+Case 523: parz:parzitvA in pysan
+Case 524: pal:palitvA in pysan
+Case 525: pall:pallitvA in pysan
+Case 526: pav:pavitvA in pysan
+Case 527: paS:pASayitvA in pysan
+Case 528: paz:pazitvA in pysan
+Case 529: pas:pasitvA,pAsayitvA in pysan
+Case 530: pAy:pAyitvA in pysan
+Case 531: pAl:pAlayitvA in pysan
+Case 532: piMs:piMsayitvA,piMsitvA in pysan
+Case 533: picc:piccayitvA in pysan
+Case 534: piC:piCitvA,peCayitvA,peCitvA in pysan
+Case 535: piw:piwitvA,pewitvA in pysan
+Case 536: piW:piWitvA,peWitvA in pysan
+Case 537: piRq:piRqayitvA,piRqitvA in pysan
+Case 538: pinv:pinvitvA in pysan
+Case 539: pil:pelayitvA in pysan
+Case 540: pis:pisitvA,pesayitvA,pesitvA in pysan
+Case 541: pI:pItvA in pysan
+Case 542: pIl:pIlitvA in pysan
+Case 543: puMs:puMsayitvA in pysan
+Case 544: puC:puCitvA,poCitvA in pysan
+Case 545: puw:puwayitvA,puwitvA,powayitvA in pysan
+Case 546: puww:puwwayitvA in pysan
+Case 547: puq:puqitvA,poqitvA in pysan
+Case 548: puR:puRitvA,poRayitvA,poRitvA in pysan
+Case 549: puRw:puRwayitvA in pysan
+Case 550: puRq:puRqitvA in pysan
+Case 551: pur:puritvA,poritvA in pysan
+Case 552: purv:purvitvA,pUrvayitvA in pysan
+Case 553: pus:posayitvA in pysan
+Case 554: pust:pustayitvA in pysan
+Case 555: pUR:pURayitvA in pysan
+Case 556: pUl:pUlayitvA,pUlitvA in pysan
+Case 557: pUz:pUzitvA in pysan
+Case 558: pfj:parjitvA in pysan
+Case 559: pfq:parqitvA in pysan
+Case 560: pfR:parRitvA in pysan
+Case 561: peR:peRitvA in pysan
+Case 562: peb:pebitvA in pysan
+Case 563: pel:pelayitvA,pelitvA in pysan
+Case 564: pev:pevitvA in pysan
+Case 565: pez:pezitvA in pysan
+Case 566: pes:pesitvA in pysan
+Case 567: pE:pAtvA in pysan
+Case 568: pER:pERitvA in pysan
+Case 569: poYC:poYCitvA in pysan
+Case 570: pyAy:pyAyitvA in pysan
+Case 571: pyuz:pyuzitvA,pyozayitvA,pyozitvA in pysan
+Case 572: pyus:pyusitvA,pyositvA in pysan
+Case 573: pyE:pItvA in pysan
+Case 574: praC:praCitvA in pysan
+Case 575: pras:prasitvA in pysan
+Case 576: prA:prAtvA in pysan
+Case 577: pruT:pruTitvA,proTitvA in pysan
+Case 578: pruz:pruzitvA,prozayitvA,prozitvA in pysan
+Case 579: pre:prAtvA in pysan
+Case 580: prez:prezitvA in pysan
+Case 581: prER:prERitvA in pysan
+Case 582: proT:proTitvA in pysan
+Case 583: plakz:plakzitvA in pysan
+Case 584: plab:plabitvA in pysan
+Case 585: plih:plihitvA,plehitvA in pysan
+Case 586: plI:plItvA in pysan
+Case 587: plus:plusitvA,plositvA in pysan
+Case 588: plev:plevitvA in pysan
+Case 589: psA:psAtvA in pysan
+Case 590: Pakk:PakkitvA in pysan
+Case 591: PaR:PaRitvA in pysan
+Case 592: Parv:ParvitvA in pysan
+Case 593: Pel:PelitvA in pysan
+Case 594: bad:baditvA in pysan
+Case 595: barb:barbitvA in pysan
+Case 596: barh:barhayitvA,barhitvA in pysan
+Case 597: bal:balitvA,bAlayitvA in pysan
+Case 598: bAq:bAqitvA in pysan
+Case 599: biw:biwitvA,bewitvA in pysan
+Case 600: bid:biditvA,beditvA in pysan
+Case 601: bil:bilitvA,belayitvA,belitvA in pysan
+Case 602: biS:biSitvA,beSitvA in pysan
+Case 603: bis:bisitvA,besitvA in pysan
+Case 604: bIB:bIBitvA in pysan
+Case 605: bukk:bukkayitvA,bukkitvA in pysan
+Case 606: buNg:buNgitvA in pysan
+Case 607: buw:buwitvA,bowayitvA,bowitvA in pysan
+Case 608: buq:buqitvA,boqitvA in pysan
+Case 609: bud:buditvA,boditvA in pysan
+Case 610: bund:bunditvA in pysan
+Case 611: bunD:bunDayitvA,bunDitvA in pysan
+Case 612: bul:bolayitvA in pysan
+Case 613: bus:busitvA,bositvA in pysan
+Case 614: bfMh:bfMhitvA in pysan
+Case 615: brahm:brahmitvA in pysan
+Case 616: brU:brUtvA in pysan
+Case 617: Baw:BawitvA,BAwayitvA in pysan
+Case 618: BaRw:BaRwayitvA in pysan
+Case 619: Ban:BanitvA in pysan
+Case 620: Barb:BarbitvA in pysan
+Case 621: Barv:BarvitvA in pysan
+Case 622: Bal:BalitvA,BAlayitvA in pysan
+Case 623: BAm:BAmitvA in pysan
+Case 624: Bikz:BikzitvA in pysan
+Case 625: Bind:BinditvA in pysan
+Case 626: BuRq:BuRqitvA in pysan
+Case 627: BfMS:BfMSayitvA,BfMSitvA in pysan
+Case 628: Bfkz:BfkzitvA in pysan
+Case 629: Bfj:BarjitvA in pysan
+Case 630: Bfq:BarqitvA in pysan
+Case 631: BfS:BarSitvA in pysan
+Case 632: BF:BUrtvA in pysan
+Case 633: Bez:BezitvA in pysan
+Case 634: Byas:ByasitvA in pysan
+Case 635: Brakz:BrakzitvA in pysan
+Case 636: Brajj:BrajjitvA in pysan
+Case 637: BraR:BraRitvA in pysan
+Case 638: BraS:BraSitvA in pysan
+Case 639: BrAS:BrASitvA in pysan
+Case 640: BrI:BrItvA in pysan
+Case 641: Bruq:BruqitvA,BroqitvA in pysan
+Case 642: BrUR:BrURayitvA in pysan
+Case 643: Brez:BrezitvA in pysan
+Case 644: BlAS:BlASitvA in pysan
+Case 645: makz:makzitvA in pysan
+Case 646: maK:maKitvA in pysan
+Case 647: maNk:maNkitvA in pysan
+Case 648: maNg:maNgitvA in pysan
+Case 649: maNG:maNGitvA in pysan
+Case 650: mac:macitvA in pysan
+Case 651: maYc:maYcitvA in pysan
+Case 652: maYj:maYjayitvA in pysan
+Case 653: maW:maWitvA in pysan
+Case 654: maR:maRitvA in pysan
+Case 655: maRw:maRwayitvA in pysan
+Case 656: maRW:maRWitvA in pysan
+Case 657: maT:maTitvA in pysan
+Case 658: mantr:mantrayitvA in pysan
+Case 659: maBr:maBritvA in pysan
+Case 660: mamb:mambitvA in pysan
+Case 661: may:mayitvA in pysan
+Case 662: marc:marcayitvA in pysan
+Case 663: marj:marjitvA in pysan
+Case 664: marb:marbitvA in pysan
+Case 665: marv:marvitvA in pysan
+Case 666: mal:malitvA,mAlayitvA in pysan
+Case 667: mall:mallitvA in pysan
+Case 668: mav:mavitvA in pysan
+Case 669: mavy:mavyitvA in pysan
+Case 670: maS:maSitvA in pysan
+Case 671: mas:masitvA in pysan
+Case 672: mask:maskitvA in pysan
+Case 673: mANkz:mANkzitvA in pysan
+Case 674: mAq:mAqitvA in pysan
+Case 675: mAn:mAnayitvA,mAnitvA in pysan
+Case 676: mAnT:mAnTitvA in pysan
+Case 677: mArj:mArjayitvA in pysan
+Case 678: mAh:mAhitvA in pysan
+Case 679: miC:miCitvA,meCitvA in pysan
+Case 680: miYj:miYjayitvA in pysan
+Case 681: miD:miDitvA,meDitvA in pysan
+Case 682: miS:miSitvA,meSitvA in pysan
+Case 683: miSr:miSrayitvA in pysan
+Case 684: mis:misitvA,mesitvA in pysan
+Case 685: mIm:mImitvA in pysan
+Case 686: mIv:mIvitvA in pysan
+Case 687: muC:muCitvA,moCitvA in pysan
+Case 688: muj:muktvA,mojayitvA in pysan
+Case 689: muYc:muYcitvA in pysan
+Case 690: muw:muwitvA,mowayitvA,mowitvA in pysan
+Case 691: muq:muqitvA,moqitvA in pysan
+Case 692: muR:muRitvA,moRitvA in pysan
+Case 693: muRq:muRqitvA in pysan
+Case 694: mur:muritvA,moritvA in pysan
+Case 695: murC:murCitvA in pysan
+Case 696: murv:murvitvA in pysan
+Case 697: must:mustayitvA in pysan
+Case 698: mU:mUtvA in pysan
+Case 699: mUl:mUlitvA in pysan
+Case 700: mfg:margitvA in pysan
+Case 701: mfc:marcayitvA in pysan
+Case 702: mfC:marCitvA in pysan
+Case 703: mfR:marRitvA in pysan
+Case 704: mF:mUrtvA in pysan
+Case 705: me:mitvA in pysan
+Case 706: meq:meqitvA in pysan
+Case 707: mep:mepitvA in pysan
+Case 708: mev:mevitvA in pysan
+Case 709: myakz:myakzitvA in pysan
+Case 710: mrakz:mrakzitvA in pysan
+Case 711: mrad:mraditvA in pysan
+Case 712: mrit:mrititvA,mretitvA in pysan
+Case 713: mruc:mrucitvA,mrocitvA in pysan
+Case 714: mruYc:mruYcitvA in pysan
+Case 715: mreq:mreqitvA in pysan
+Case 716: mlakz:mlakzayitvA in pysan
+Case 717: mluc:mlucitvA,mlocitvA in pysan
+Case 718: mluYc:mluYcitvA in pysan
+Case 719: mleC:mleCayitvA,mleCitvA in pysan
+Case 720: mlew:mlewitvA in pysan
+Case 721: mlev:mlevitvA in pysan
+Case 722: mlE:mlAtvA in pysan
+Case 723: yakz:yakzayitvA,yakzitvA in pysan
+Case 724: yantr:yantrayitvA in pysan
+Case 725: yuNg:yuNgitvA in pysan
+Case 726: yuC:yuCitvA,yoCitvA in pysan
+Case 727: yut:yutitvA,yotitvA in pysan
+Case 728: yup:yupitvA,yopitvA in pysan
+Case 729: yUz:yUzitvA in pysan
+Case 730: yez:yezitvA in pysan
+Case 731: yOw:yOwitvA in pysan
+Case 732: rak:rAkayitvA in pysan
+Case 733: raK:raKitvA in pysan
+Case 734: rag:ragitvA,rAgayitvA in pysan
+Case 735: raNK:raNKitvA in pysan
+Case 736: raNg:raNgitvA in pysan
+Case 737: raNG:raNGayitvA,raNGitvA in pysan
+Case 738: raw:rawitvA in pysan
+Case 739: raW:raWitvA in pysan
+Case 740: raRv:raRvitvA in pysan
+Case 741: rap:rapitvA in pysan
+Case 742: raP:raPitvA in pysan
+Case 743: ramP:ramPitvA in pysan
+Case 744: ramb:rambitvA in pysan
+Case 745: ramB:ramBitvA in pysan
+Case 746: ray:rayitvA in pysan
+Case 747: ras:rasayitvA,rasitvA in pysan
+Case 748: rAK:rAKitvA in pysan
+Case 749: rAG:rAGitvA in pysan
+Case 750: rAs:rAsitvA in pysan
+Case 751: riK:riKitvA,reKitvA in pysan
+Case 752: riNK:riNKitvA in pysan
+Case 753: riNg:riNgitvA in pysan
+Case 754: riRv:riRvitvA in pysan
+Case 755: riP:riPitvA,rePitvA in pysan
+Case 756: riB:riBitvA,reBitvA in pysan
+Case 757: rimP:rimPitvA in pysan
+Case 758: riS:rizwvA in pysan
+Case 759: rih:rihitvA,rehitvA in pysan
+Case 760: rI:rItvA in pysan
+Case 761: rIv:rIvitvA in pysan
+Case 762: ruMS:ruMSayitvA,ruMSitvA in pysan
+Case 763: ruw:rowayitvA in pysan
+Case 764: ruW:ruWitvA,roWitvA in pysan
+Case 765: ruRw:ruRwitvA in pysan
+Case 766: ruRW:ruRWitvA in pysan
+Case 767: rup:rupitvA,ropitvA in pysan
+Case 768: ruS:ruzwvA in pysan
+Case 769: rUkz:rUkzayitvA in pysan
+Case 770: rUz:rUzitvA in pysan
+Case 771: rek:rekitvA in pysan
+Case 772: rej:rejitvA in pysan
+Case 773: rew:rewitvA in pysan
+Case 774: req:reqitvA in pysan
+Case 775: rep:repitvA in pysan
+Case 776: rez:rezitvA in pysan
+Case 777: rE:rAtvA in pysan
+Case 778: roq:roqitvA in pysan
+Case 779: rOw:rOwitvA in pysan
+Case 780: lak:lAkayitvA in pysan
+Case 781: laK:laKitvA in pysan
+Case 782: laC:laCitvA in pysan
+Case 783: laj:lajayitvA,lajitvA,lAjayitvA in pysan
+Case 784: laYj:laYjayitvA,laYjitvA in pysan
+Case 785: law:lawitvA in pysan
+Case 786: laq:laqitvA,lAqayitvA in pysan
+Case 787: laRq:laRqayitvA in pysan
+Case 788: lamB:lamBitvA in pysan
+Case 789: lay:layitvA in pysan
+Case 790: lard:lardayitvA in pysan
+Case 791: larb:larbitvA in pysan
+Case 792: laS:lASayitvA in pysan
+Case 793: lA:lAtvA in pysan
+Case 794: lAK:lAKitvA in pysan
+Case 795: lAG:lAGitvA in pysan
+Case 796: lAj:lAjitvA in pysan
+Case 797: lAYj:lAYjitvA in pysan
+Case 798: lAq:lAqayitvA in pysan
+Case 799: lAB:lABayitvA in pysan
+Case 800: liNK:liNKitvA in pysan
+Case 801: liNg:liNgayitvA,liNgitvA in pysan
+Case 802: luw:luwitvA,lowayitvA in pysan
+Case 803: luq:luqitvA,loqitvA in pysan
+Case 804: luRw:luRwayitvA,luRwitvA in pysan
+Case 805: lunT:lunTitvA in pysan
+Case 806: lumb:lumbayitvA in pysan
+Case 807: luz:luzitvA,lozitvA in pysan
+Case 808: lUz:lUzayitvA,lUzitvA in pysan
+Case 809: lep:lepitvA in pysan
+Case 810: lER:lERitvA in pysan
+Case 811: low:lowitvA in pysan
+Case 812: lozw:lozwitvA in pysan
+Case 813: lOq:lOqitvA in pysan
+Case 814: lpI:lpItvA in pysan
+Case 815: lvI:lvItvA in pysan
+Case 816: vak:vakitvA in pysan
+Case 817: vakk:vakkitvA in pysan
+Case 818: vakz:vakzitvA in pysan
+Case 819: vaK:vaKitvA in pysan
+Case 820: vaNK:vaNKitvA in pysan
+Case 821: vaNg:vaNgitvA in pysan
+Case 822: vaNG:vaNGitvA in pysan
+Case 823: vaj:vajitvA in pysan
+Case 824: vaw:vawayitvA,vawitvA in pysan
+Case 825: vaww:vawwitvA in pysan
+Case 826: vaW:vaWitvA in pysan
+Case 827: vaqQ:vaqQitvA in pysan
+Case 828: vaR:vaRitvA in pysan
+Case 829: vaRw:vaRwayitvA,vaRwitvA in pysan
+Case 830: vaRW:vaRWitvA in pysan
+Case 831: vaRq:vaRqayitvA,vaRqitvA in pysan
+Case 832: vaBr:vaBritvA in pysan
+Case 833: vay:vayitvA in pysan
+Case 834: varc:varcitvA in pysan
+Case 835: varR:varRayitvA in pysan
+Case 836: varD:varDayitvA in pysan
+Case 837: varP:varPitvA in pysan
+Case 838: valk:valkayitvA in pysan
+Case 839: valB:valBitvA in pysan
+Case 840: vall:vallitvA in pysan
+Case 841: valh:valhayitvA,valhitvA in pysan
+Case 842: vaS:vaSitvA in pysan
+Case 843: vaz:vazitvA in pysan
+Case 844: vazk:vazkitvA in pysan
+Case 845: vask:vaskitvA in pysan
+Case 846: vast:vastayitvA in pysan
+Case 847: vANkz:vANkzitvA in pysan
+Case 848: vAt:vAtayitvA in pysan
+Case 849: vAvft:vAvartitvA in pysan
+Case 850: vAs:vAsayitvA in pysan
+Case 851: vAh:vAhitvA in pysan
+Case 852: viC:veCayitvA in pysan
+Case 853: viw:viwitvA,vewitvA in pysan
+Case 854: viq:viqitvA,veqitvA in pysan
+Case 855: viRw:viRwayitvA in pysan
+Case 856: viT:viTitvA,veTitvA in pysan
+Case 857: vil:vilitvA,velayitvA,velitvA in pysan
+Case 858: vizk:vizkayitvA in pysan
+Case 859: vIr:vIrayitvA in pysan
+Case 860: vuRw:vuRwayitvA in pysan
+Case 861: vfMh:vfMhitvA in pysan
+Case 862: vfk:varkitvA in pysan
+Case 863: vfkz:vfkzitvA in pysan
+Case 864: vfR:varRitvA in pysan
+Case 865: vfS:varSitvA in pysan
+Case 866: vF:vUrtvA in pysan
+Case 867: ve:utvA in pysan
+Case 868: vekz:vekzayitvA in pysan
+Case 869: vewy:vewyitvA in pysan
+Case 870: veD:veDitvA in pysan
+Case 871: vep:vepitvA in pysan
+Case 872: vel:velayitvA,velitvA in pysan
+Case 873: vell:vellitvA in pysan
+Case 874: vevI:vevItvA in pysan
+Case 875: ves:vesitvA in pysan
+Case 876: veh:vehitvA in pysan
+Case 877: vehl:vehlitvA in pysan
+Case 878: vE:vAtvA in pysan
+Case 879: vyac:vyacitvA in pysan
+Case 880: vyap:vyApayitvA in pysan
+Case 881: vyay:vyayayitvA,vyayitvA in pysan
+Case 882: vyuz:vyuzitvA,vyozayitvA,vyozitvA in pysan
+Case 883: vye:vItvA in pysan
+Case 884: vraR:vraRitvA,vrARayitvA in pysan
+Case 885: vrI:vrItvA in pysan
+Case 886: vruq:vruqitvA,vroqitvA in pysan
+Case 887: vlI:vlItvA in pysan
+Case 888: Sac:SacitvA in pysan
+Case 889: Saw:SawitvA,SAwayitvA in pysan
+Case 890: SaW:SaWayitvA,SaWitvA,SAWayitvA in pysan
+Case 891: SaR:SaRitvA,SARayitvA in pysan
+Case 892: SaRq:SaRqitvA in pysan
+Case 893: Sabd:SabdayitvA in pysan
+Case 894: Samb:SambayitvA,SambitvA in pysan
+Case 895: Sarb:SarbitvA in pysan
+Case 896: Sarv:SarvitvA in pysan
+Case 897: SalB:SalBitvA in pysan
+Case 898: Sav:SavitvA in pysan
+Case 899: SaS:SaSitvA in pysan
+Case 900: Saz:SazitvA in pysan
+Case 901: SAK:SAKitvA in pysan
+Case 902: SAq:SAqitvA in pysan
+Case 903: SAl:SAlayitvA,SAlitvA in pysan
+Case 904: Si:SitvA in pysan
+Case 905: SiNK:SiNKitvA in pysan
+Case 906: SiNG:SiNGitvA in pysan
+Case 907: SiYj:SiYjitvA in pysan
+Case 908: Siw:SiwitvA,SewitvA in pysan
+Case 909: Sim:SimitvA,SemitvA in pysan
+Case 910: Sil:SilitvA,SelitvA in pysan
+Case 911: SIk:SIkitvA in pysan
+Case 912: SIB:SIBitvA in pysan
+Case 913: Su:SutvA in pysan
+Case 914: Suk:SukitvA,SokitvA in pysan
+Case 915: Sucy:SucyitvA in pysan
+Case 916: SuW:SuWitvA,SoWayitvA,SoWitvA in pysan
+Case 917: SuRW:SuRWayitvA,SuRWitvA in pysan
+Case 918: SuRq:SuRqitvA in pysan
+Case 919: Sun:SunitvA,SonitvA in pysan
+Case 920: Sulk:SulkayitvA in pysan
+Case 921: Sulb:SulbayitvA in pysan
+Case 922: Suz:SuzwvA in pysan
+Case 923: SUr:SUrayitvA,SUritvA in pysan
+Case 924: SUrp:SUrpayitvA in pysan
+Case 925: SUl:SUlitvA in pysan
+Case 926: SUz:SUzitvA in pysan
+Case 927: SfD:SarDitvA,SfDitvA in pysan
+Case 928: Sel:SelitvA in pysan
+Case 929: Sev:SevitvA in pysan
+Case 930: So:SAtvA,SitvA in pysan
+Case 931: SoR:SoRitvA in pysan
+Case 932: SOw:SOwitvA in pysan
+Case 933: Scyut:ScyutitvA,ScyotitvA in pysan
+Case 934: SnaT:SnaTitvA in pysan
+Case 935: SmIl:SmIlitvA in pysan
+Case 936: SyE:SyAtvA in pysan
+Case 937: SraNk:SraNkitvA in pysan
+Case 938: SraNg:SraNgitvA in pysan
+Case 939: SraR:SraRitvA,SrARayitvA in pysan
+Case 940: SraT:SraTitvA in pysan
+Case 941: SrA:SftvA,SrapitvA,SrAtvA in pysan
+Case 942: Sriz:SrizitvA,SrezitvA in pysan
+Case 943: SrI:SrItvA in pysan
+Case 944: SrE:SrAtvA in pysan
+Case 945: SroR:SroRitvA in pysan
+Case 946: SlaNk:SlaNkitvA in pysan
+Case 947: SlaNg:SlaNgitvA in pysan
+Case 948: SlaT:SlaTitvA in pysan
+Case 949: SlAK:SlAKitvA in pysan
+Case 950: Slok:SlokitvA in pysan
+Case 951: SloR:SloRitvA in pysan
+Case 952: SvaNk:SvaNkitvA in pysan
+Case 953: SvaNg:SvaNgitvA in pysan
+Case 954: Svac:SvacitvA in pysan
+Case 955: Svaj:SvajitvA in pysan
+Case 956: SvaW:SvAWayitvA in pysan
+Case 957: SvaBr:SvaBrayitvA in pysan
+Case 958: Sval:SvalitvA in pysan
+Case 959: Svalk:SvalkayitvA in pysan
+Case 960: SvAtr:SvAtritvA in pysan
+Case 961: Svi:SvayitvA in pysan
+Case 962: Svind:SvinditvA in pysan
+Case 963: zaww:zawwayitvA in pysan
+Case 964: zazk:zazkitvA in pysan
+Case 965: zukk:zukkitvA in pysan
+Case 966: zWiv:zWevitvA,zWyUtvA in pysan
+Case 967: zvakk:zvakkitvA in pysan
+Case 968: zvazk:zvazkitvA in pysan
+Case 969: sakz:sakzitvA in pysan
+Case 970: sag:sagitvA in pysan
+Case 971: saG:saGitvA in pysan
+Case 972: sac:sacitvA in pysan
+Case 973: sajj:sajjitvA in pysan
+Case 974: saw:sawitvA,sAwayitvA in pysan
+Case 975: saww:sawwayitvA in pysan
+Case 976: saW:sAWayitvA in pysan
+Case 977: satr:satrayitvA in pysan
+Case 978: saBAj:saBAjayitvA in pysan
+Case 979: sam:samitvA,sAmayitvA in pysan
+Case 980: say:sayitvA in pysan
+Case 981: sarj:sarjitvA in pysan
+Case 982: sarb:sarbitvA in pysan
+Case 983: sal:salitvA in pysan
+Case 984: sas:sasitvA in pysan
+Case 985: sAkz:sAkzitvA in pysan
+Case 986: sAw:sAwayitvA in pysan
+Case 987: sAD:sadDvA in pysan
+Case 988: sAntv:sAntvayitvA in pysan
+Case 989: sAmaya:sAmayAyitvA in pysan
+Case 990: si:sitvA in pysan
+Case 991: siw:siwitvA,sewitvA in pysan
+Case 992: siv:sevitvA in pysan
+Case 993: suK:suKayitvA,suKitvA,soKitvA in pysan
+Case 994: suww:suwwayitvA in pysan
+Case 995: suB:suBitvA,soBitvA in pysan
+Case 996: suh:suhitvA,sohitvA in pysan
+Case 997: sUtr:sUtrayitvA in pysan
+Case 998: sUrkz:sUrkzitvA in pysan
+Case 999: sUz:sUzitvA in pysan
+Case 1000: sfB:sarBitvA in pysan
+Case 1001: sF:sIstvA in pysan
+Case 1002: sek:sekitvA in pysan
+Case 1003: sE:sAtvA in pysan
+Case 1004: so:sitvA in pysan
+Case 1005: skanD:skanDayitvA in pysan
+Case 1006: sku:skutvA in pysan
+Case 1007: skund:skunditvA in pysan
+Case 1008: sKad:sKaditvA in pysan
+Case 1009: stak:stakitvA in pysan
+Case 1010: stiG:stiGitvA,steGitvA in pysan
+Case 1011: stip:stipitvA,stepitvA in pysan
+Case 1012: stim:stimitvA,stemitvA in pysan
+Case 1013: stuc:stucitvA,stocitvA in pysan
+Case 1014: stumB:stumBitvA in pysan
+Case 1015: stUp:stUpayitvA,stUpitvA in pysan
+Case 1016: stf:stftvA in pysan
+Case 1017: stfkz:stfkzitvA in pysan
+Case 1018: stfh:starhitvA,stfQvA in pysan
+Case 1019: sten:stenayitvA in pysan
+Case 1020: step:stepayitvA,stepitvA in pysan
+Case 1021: stE:stAtvA in pysan
+Case 1022: styE:stItvA,styAtvA in pysan
+Case 1023: sTag:sTagitvA in pysan
+Case 1024: sTal:sTalitvA in pysan
+Case 1025: sTir:sTiritvA,sTeritvA in pysan
+Case 1026: sTuq:sTuqitvA,sToqitvA in pysan
+Case 1027: sTUl:sTUlayitvA in pysan
+Case 1028: sniw:snewayitvA in pysan
+Case 1029: snuc:snucitvA,snocitvA in pysan
+Case 1030: snus:snusitvA,snositvA in pysan
+Case 1031: snE:snAtvA in pysan
+Case 1032: sparz:sparzitvA in pysan
+Case 1033: spaS:spaSitvA,spASayitvA in pysan
+Case 1034: spf:spftvA in pysan
+Case 1035: spF:spUstvA in pysan
+Case 1036: sPaw:sPawitvA,sPAwayitvA in pysan
+Case 1037: sPaRq:sPaRqayitvA in pysan
+Case 1038: sPar:sParitvA in pysan
+Case 1039: sPAy:sPAyitvA in pysan
+Case 1040: sPiw:sPewayitvA in pysan
+Case 1041: sPiww:sPiwwayitvA in pysan
+Case 1042: sPuww:sPuwwayitvA in pysan
+Case 1043: sPuq:sPuqitvA,sPoqitvA in pysan
+Case 1044: sPuRw:sPuRwayitvA,sPuRwitvA in pysan
+Case 1045: sPuRq:sPuRqayitvA,sPuRqitvA in pysan
+Case 1046: sPul:sPulitvA,sPolitvA in pysan
+Case 1047: sPUrC:sPUrCitvA in pysan
+Case 1048: sPUrj:sPUrjitvA in pysan
+Case 1049: smiw:smewayitvA in pysan
+Case 1050: syam:syamitvA in pysan
+Case 1051: sraMh:sraMhitvA in pysan
+Case 1052: sriD:sriDitvA,sreDitvA in pysan
+Case 1053: sriB:sriBitvA,sreBitvA in pysan
+Case 1054: sriv:srutvA,srevitvA in pysan
+Case 1055: srek:srekitvA in pysan
+Case 1056: svaNg:svaNgitvA in pysan
+Case 1057: svaj:svajitvA in pysan
+Case 1058: svard:svarditvA in pysan
+Case 1059: svf:svftvA in pysan
+Case 1060: haw:hawitvA in pysan
+Case 1061: hamm:hammitvA in pysan
+Case 1062: hay:hayitvA in pysan
+Case 1063: hal:halitvA in pysan
+Case 1064: hiRq:hiRqitvA in pysan
+Case 1065: hil:hilitvA,helitvA in pysan
+Case 1066: huq:huqitvA,hoqitvA in pysan
+Case 1067: hurC:hurCitvA in pysan
+Case 1068: hul:hulitvA,holitvA in pysan
+Case 1069: hUq:hUqitvA in pysan
+Case 1070: heW:heWitvA in pysan
+Case 1071: heq:heqitvA in pysan
+Case 1072: heQ:heQitvA in pysan
+Case 1073: hez:hezitvA in pysan
+Case 1074: hoq:hoqitvA in pysan
+Case 1075: hmal:hmalitvA in pysan
+Case 1076: hrag:hragitvA in pysan
+Case 1077: hrIC:hrICitvA in pysan
+Case 1078: hru:hrutvA in pysan
+Case 1079: hruq:hruqitvA,hroqitvA in pysan
+Case 1080: hrep:hrepitvA in pysan
+Case 1081: hrez:hrezitvA in pysan
+Case 1082: hrOq:hrOqitvA in pysan
+Case 1083: hlag:hlagitvA in pysan
+Case 1084: hlap:hlApayitvA in pysan
+Case 1085: hlas:hlasitvA in pysan
+Case 1086: hve:hUtvA in pysan
+--------------------------------------------------
+202 cases of ROOT IN HUET ONLY
+--------------------------------------------------
+Case 01: aMSa:aMSayitvA in huet
+Case 02: agada:agadyitvA in huet
+Case 03: aGa:aGAyitvA in huet
+Case 04: aNka:aNkayitvA in huet
+Case 05: aNKa:aNKayitvA in huet
+Case 06: ajira:ajirAyitvA in huet
+Case 07: aDvara:aDvarIyitvA,aDvaryitvA in huet
+Case 08: anDa:anDayitvA in huet
+Case 09: apsaras:apsarAyitvA in huet
+Case 10: aBra:aBrAyitvA in huet
+Case 11: amitra:amitrayitvA in huet
+Case 12: arTa:arTApayitvA in huet
+Case 13: aSana:aSanAyitvA,aSanIyitvA in huet
+Case 14: aSva:aSvasyitvA,aSvAyitvA in huet
+Case 15: asUya:asUyitvA in huet
+Case 16: AkarRa:AkarRayitvA in huet
+Case 17: Akula:AkulayitvA in huet
+Case 18: Andola:AndolayitvA in huet
+Case 19: Avila:AvilayitvA in huet
+Case 20: in:intvA in huet
+Case 21: iras:irasyitvA in huet
+Case 22: izuDi:izuDyitvA in huet
+Case 23: Irz:IrzitvA in huet
+Case 24: utka:utkayitvA in huet
+Case 25: utkaRW:utkaRWitvA in huet
+Case 26: udaka:udakIyitvA in huet
+Case 27: udan:udanyitvA in huet
+Case 28: unmanas:unmanAyitvA in huet
+Case 29: umB:ubDvA,umBitvA in huet
+Case 30: uras:urasyitvA in huet
+Case 31: uruz:uruzwvA in huet
+Case 32: uzas:uzasyitvA in huet
+Case 33: Uzman:UzmAyitvA in huet
+Case 34: kaRqu:kaRqUyitvA in huet
+Case 35: kaRva:kaRvAyitvA in huet
+Case 36: kadarTa:kadarTayitvA in huet
+Case 37: karuRa:karuRAyitvA in huet
+Case 38: karRa:karRayitvA in huet
+Case 39: kartf:kartrIyitvA in huet
+Case 40: kalaNka:kalaNkayitvA in huet
+Case 41: kalaha:kalahAyitvA in huet
+Case 42: kaluza:kaluzayitvA,kaluzAyitvA in huet
+Case 43: kavala:kavalayitvA in huet
+Case 44: kavi:kavIyitvA in huet
+Case 45: kazwa:kazwAyitvA in huet
+Case 46: kuwwa:kuwwayitvA in huet
+Case 47: kusuma:kusumayitvA in huet
+Case 48: kfcCra:kfcCrAyitvA in huet
+Case 49: kelA:kelAyitvA in huet
+Case 50: klIba:klIbatvA,klIbAyitvA in huet
+Case 51: kzI:kzItvA in huet
+Case 52: kzIra:kzIrasyitvA in huet
+Case 53: Kaqa:KaqayitvA in huet
+Case 54: Kela:KelAyitvA in huet
+Case 55: gadgada:gadgadyitvA in huet
+Case 56: garva:garvayitvA,garvAyitvA in huet
+Case 57: gavez:gavezayitvA,gavezwvA in huet
+Case 58: go:gavyitvA in huet
+Case 59: gopA:gopAyitvA in huet
+Case 60: gomaya:gomayitvA in huet
+Case 61: granT:granTitvA in huet
+Case 62: carca:carcayitvA in huet
+Case 63: citra:citrIyitvA in huet
+Case 64: cUrRa:cUrRayitvA in huet
+Case 65: Cand:CanditvA in huet
+Case 66: Cala:CalayitvA in huet
+Case 67: Cidra:CidrayitvA in huet
+Case 68: jala:jalAyitvA in huet
+Case 69: jihma:jihmAyitvA in huet
+Case 70: jU:jUtvA in huet
+Case 71: jvar:jvartvA in huet
+Case 72: tantra:tantrayitvA in huet
+Case 73: tapas:tapasyitvA in huet
+Case 74: taraNga:taraNgayitvA in huet
+Case 75: taruRa:taruRayitvA,taruRAyitvA in huet
+Case 76: taviza:tavizIyitvA in huet
+Case 77: tiras:tirasyitvA in huet
+Case 78: tuhina:tuhinayitvA in huet
+Case 79: daRqa:daRqayitvA in huet
+Case 80: dIv:dIvitvA,dyUtvA in huet
+Case 81: duHKa:duHKyitvA in huet
+Case 82: durdina:durdinAyitvA in huet
+Case 83: deva:devayitvA in huet
+Case 84: dola:dolayitvA in huet
+Case 85: Dana:DanAyitvA,DanIyitvA in huet
+Case 86: DIra:DIrayitvA in huet
+Case 87: DUma:DUmAyitvA in huet
+Case 88: DyA:DyAtvA in huet
+Case 89: namas:namasyitvA in huet
+Case 90: nikaza:nikazAyitvA in huet
+Case 91: nIhAra:nIhArAyitvA in huet
+Case 92: nUtana:nUtanayitvA in huet
+Case 93: nO:nAvyitvA in huet
+Case 94: pawapawA:pawapawAyitvA in huet
+Case 95: payas:payasyitvA,payAyitvA in huet
+Case 96: parokza:parokzAyitvA in huet
+Case 97: pavitra:pavitrayitvA in huet
+Case 98: pASa:pASayitvA in huet
+Case 99: piRqa:piRqayitvA in huet
+Case 100: pIyUzavarza:pIyUzavarzAyitvA in huet
+Case 101: putra:putriyitvA,putrIyitvA in huet
+Case 102: putrakAma:putrakAmyitvA in huet
+Case 103: pulaka:pulakayitvA in huet
+Case 104: puzkara:puzkarAyitvA in huet
+Case 105: puzpa:puzpAyitvA,puzpyitvA in huet
+Case 106: pUla:pUlatvA,pUlayitvA in huet
+Case 107: pyA:pyAtvA in huet
+Case 108: pratikUla:pratikUlayitvA in huet
+Case 109: praS:pfcCam,pfzwvA in huet
+Case 110: prasAda:prasAdayitvA in huet
+Case 111: prAsAda:prAsAdIyitvA in huet
+Case 112: priya:priyAyitvA in huet
+Case 113: Pena:PenAyitvA in huet
+Case 114: bAzpa:bAzpAyitvA in huet
+Case 115: Bizaj:BizajyitvA in huet
+Case 116: Bfjj:BfzwvA in huet
+Case 117: BfSa:BfSAyitvA in huet
+Case 118: maDu:maDusyitvA,maDvasyitvA in huet
+Case 119: mantu:mantUyitvA in huet
+Case 120: mantra:mantrayitvA in huet
+Case 121: malina:malinayitvA in huet
+Case 122: mahI:mahIyitvA in huet
+Case 123: mAMsa:mAMsIyitvA in huet
+Case 124: mAlA:mAlayitvA in huet
+Case 125: mAlyaguRa:mAlyaguRAyitvA in huet
+Case 126: miSra:miSrayitvA in huet
+Case 127: mukula:mukulayitvA in huet
+Case 128: muKara:muKarayitvA in huet
+Case 129: muRqa:muRqayitvA in huet
+Case 130: mudrA:mudrayitvA in huet
+Case 131: mUtra:mUtrayitvA in huet
+Case 132: mUrC:mUrCitvA,mUrtvA in huet
+Case 133: mfga:mfgayitvA in huet
+Case 134: mfzA:mfzAyitvA in huet
+Case 135: meGa:meGAyitvA in huet
+Case 136: mlA:mlAtvA in huet
+Case 137: mlecC:mlizwvA,mlecCitvA,mlezwvA in huet
+Case 138: yantra:yantrayitvA in huet
+Case 139: yuga:yugAyitvA in huet
+Case 140: raTakAma:raTakAmyitvA in huet
+Case 141: rasa:rasayitvA in huet
+Case 142: rAjan:rAjIyitvA in huet
+Case 143: ri:rItvA in huet
+Case 144: rUkza:rUkzayitvA in huet
+Case 145: romanTa:romanTAyitvA in huet
+Case 146: laGa:laGayitvA in huet
+Case 147: lavaRa:lavaRasyitvA in huet
+Case 148: lAlA:lAlAyitvA in huet
+Case 149: luRW:luRWitvA in huet
+Case 150: lul:lulitvA,lolitvA in huet
+Case 151: lelA:lelAyitvA in huet
+Case 152: lohita:lohitAyitvA in huet
+Case 153: varivas:varivasyitvA in huet
+Case 154: varRa:varRayitvA in huet
+Case 155: valgu:valgUyitvA in huet
+Case 156: vAc:vAcyitvA in huet
+Case 157: vAsa:vAsayitvA in huet
+Case 158: vimanA:vimanAyitvA in huet
+Case 159: viSada:viSadayitvA in huet
+Case 160: viza:vizAyitvA in huet
+Case 161: vfza:vfzasyitvA,vfzIyitvA in huet
+Case 162: veda:vedApayitvA in huet
+Case 163: vEra:vErAyitvA in huet
+Case 164: vyA:vItvA in huet
+Case 165: vraRa:vraRayitvA in huet
+Case 166: Sabda:SabdayitvA,SabdAyitvA in huet
+Case 167: SalaBa:SalaBAyitvA in huet
+Case 168: SA:SitvA in huet
+Case 169: SAnta:SAntayitvA in huet
+Case 170: SiTila:SiTilayitvA,SiTilAyitvA in huet
+Case 171: SiSu:SiSUyitvA in huet
+Case 172: SIGra:SIGrAyitvA in huet
+Case 173: SU:SUtvA in huet
+Case 174: SyA:SItvA in huet
+Case 175: SyAma:SyAmAyitvA in huet
+Case 176: Syena:SyenayitvA,SyenAyitvA in huet
+Case 177: zaRQa:zaRQayitvA in huet
+Case 178: zWIv:zWIvitvA,zWIvtvA in huet
+Case 179: saKi:saKIyitvA in huet
+Case 180: saNkawa:saNkawAyitvA in huet
+Case 181: saNgrAma:saNgrAmayitvA in huet
+Case 182: sajja:sajjIyitvA in huet
+Case 183: satya:satyApayitvA in huet
+Case 184: sapiRqa:sapiRqayitvA in huet
+Case 185: saPala:saPalayitvA in huet
+Case 186: samudra:samudrAyitvA in huet
+Case 187: sA:sitvA in huet
+Case 188: sAntva:sAntvayitvA in huet
+Case 189: sAvaDAna:sAvaDAnayitvA in huet
+Case 190: sIv:sevitvA,syUtvA in huet
+Case 191: suKa:suKAyitvA,suKyitvA in huet
+Case 192: sudina:sudinAyitvA in huet
+Case 193: sumanas:sumanAyitvA in huet
+Case 194: sUtra:sUtrayitvA in huet
+Case 195: stF:stIrtvA,stftvA in huet
+Case 196: stena:stenayitvA in huet
+Case 197: styA:styAtvA in huet
+Case 198: sTaga:sTagayitvA in huet
+Case 199: sPA:sPItvA in huet
+Case 200: svaYj:svaYjitvA in huet
+Case 201: svalpaSilA:svalpaSilAyitvA in huet
+Case 202: hU:hUtvA in huet
