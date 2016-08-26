@@ -13,3 +13,7 @@ pysanskrit/old/*
 pysanskrit/test2_aorvar.py
 huetcompare/huet/*
 huetcompare/verbs-tp-fut1/*
+pysanskritv1/prodchk/outputs/*
+pysanskritv1/old/*
+pysanskritv1/test2_aorvar.py
+pysanskritv1/*.el

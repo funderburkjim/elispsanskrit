@@ -1,0 +1,3 @@
+; temporary
+;gam,1,p,aor3,c=:gam aor3 1p c:[(agAmi agami) (agamizAtAm agamayizAtAm) (agamizata agamayizata) (agamizWAH agamayizWAH) (agamizATAm agamayizATAm) (agamiDvam agamayiDvam) (agamizi agamayizi) (agamizvahi agamayizvahi) (agamizmahi agamayizmahi)]
+Sru,5,m,aor4=:Sru aor4 5m:[aSrozwa aSrozAtAm aSrozata aSrozWAH aSrozATAm aSroQvam aSrozi aSrozvahi aSrozmahi]

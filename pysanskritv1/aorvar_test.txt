@@ -1,0 +1,2 @@
+; test cases for aorist varieties
+diS,1,a,=(5 7)
