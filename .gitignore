@@ -19,3 +19,4 @@ pysanskritv1/test2_aorvar.py
 pysanskritv1/*.el
 pysanskritv1/dhaval/generatedforms/*.xml
 pysanskritv1/dhaval/generatedforms/*.dtd
+pysanskritv1/dhaval/function.php
