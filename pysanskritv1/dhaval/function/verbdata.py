@@ -9,6 +9,7 @@ import sys,codecs
 class Dhaval_verbdata(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
+  self.line = line
   (self.verbwithanubandha,self.meaning,self.verbwithoutanubandha,self.gana,self.number,self.pada,self.iDAgama,self.pureverb,self.mAdhavIyadhAtuvRtti,self.kzIrataraGgiNI,self.dhAtupradIpa,self.uohydlink,self.jnulink) = line.split(':')
 
 def init_Dhaval_verbdata(filein):

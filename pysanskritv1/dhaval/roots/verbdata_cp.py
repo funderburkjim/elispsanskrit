@@ -1,12 +1,9 @@
 """verbdata_cp.py
    Aug 28, 2016
-   Identify records of verbdata.txt that have
-   verbwithanubandha associated with more than 1 verbwithoutanubandha
-   
+   Aggregate class_pada data from verbdata.txt
 """
-import sys,codecs
-def dproot_dup(verbrecs,fileout):
- fout = codecs.open(fileout,"w","utf-8")
+import sys
+def analyze_dproot(verbrecs):
  dprootd={} # value is a list of normalized spellings
  for rec in verbrecs:
   dproot = rec.verbwithanubandha
@@ -18,13 +15,9 @@ def dproot_dup(verbrecs,fileout):
  ndups=0
  for dproot,dpnorms in dprootd.items():
   if len(dpnorms) > 1:
-   out = "%s:%s" % (dproot,','.join(dpnorms))
-   fout.write(out + "\n")
+   print "%s:%s" % (dproot,','.join(dpnorms))
    ndups=ndups+1
- print ndups,"duplicate normalized root spellings written to",fileout
-
-
-
+ print ndups,"duplicate normalized root spellings"
 if __name__ == "__main__":
  fileout = sys.argv[1]
  # set relative path to  directory containing verbdata.txt
@@ -36,5 +29,4 @@ if __name__ == "__main__":
  # A typical element 'rec' of this list has
  # attributes rec.verbwithanubandha, etc.  
  print len(verbrecs)
- dproot_dup(verbrecs,fileout)
-
+ analyze_dproot(verbrecs)
