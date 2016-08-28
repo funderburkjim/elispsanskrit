@@ -33,3 +33,19 @@ uohydlink
 jnulink
 ```
 
+## verbdata.py
+This Python module provides other programs easy access
+verbdata.txt.   Typical usage:
+```
+import sys
+# set relative path to this directory
+path='<PATH>/function'
+sys.path.append(path) # path to this directory
+import verbdata
+recs = verbdata.init_Dhaval_verbdata('%s/verbdata.txt'%path)
+# Now recs is a list of Dhaval_verbdata objects.
+# A typical element 'rec' of this list has
+# attributes rec.verbwithanubandha, etc.  
+```
+
+
