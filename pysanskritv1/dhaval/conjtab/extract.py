@@ -81,7 +81,7 @@ class Dhaval_verb(object):
   if form not in t1:
    t1.append(form)
 
-def ending_s_H(x):
+def unused_ending_s_H(x):
  if x.endswith('s'):
   return x[0:-1]+'H'
  else:
@@ -93,7 +93,8 @@ def prettify_one(y):
   return 'nil'
  # Where Huet systematically ends inflected forms in 's',
  # pysanskrit uses visarga ('H')
- y = map(ending_s_H,y)
+ # Unused for SanskritVerb
+ #y = map(ending_s_H,y)
  if len(y) == 1:
   return y[0]
  # list of two or more strings
@@ -140,10 +141,6 @@ def construct_class_pada(fileout,stemlist,stemdict):
 def construct_conjtab(fileout1,stemlist,stemdict):
  # make the format like that of the elispsanskrit  MW-verb-pre.txt output file
  fout = codecs.open(fileout1,"w","utf-8") # utf-8 not required
- # translation of Huet tense names to slp tense names
- slp_tenses = {'pr':'pre','ip':'ipv','op':'pop','im':'ipf'}
- # translation of padas P,A to slp voices
- slp_voices = {'P':'a','A':'m'}
  for stem in stemlist:
   rec = stemdict[stem]
   tabs = rec.tables

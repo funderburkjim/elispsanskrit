@@ -1,0 +1,47 @@
+2213 records from ../dhaval/function/verbdata.txt
+2590 records from ../dhaval/conjtab/conj_pre.txt
+make_verbrecd: 7 duplicates found
+case 1 of duplicate verbdata key: vraRa!.01.0519.P
+   vraRa!:SabdArTaH:vraR:01:0519:pa:sew:व्र॑णँ॑:277:290:293:vraN1_vraNaz_BvAxiH+SabxArWaH:
+   vraRa!:SabdArTaH:vraR:01:0519:pa:sew:व्र॑णँ॑:277:290:293:vraN1_vraNaz_BvAxiH+SabxArWaH:
+case 2 of duplicate verbdata key: pelf!.01.0621.P
+   pelf!:gatO:pall:01:0621:pa:sew:पे॑लृँ॑:331:347:349::
+   pelf!:gatO:pel:01:0621:pa:sew:पे॑लृँ॑:331:347:349::
+case 3 of duplicate verbdata key: kaWi!.10.0385.U
+   kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:utkaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
+   kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:kaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
+case 4 of duplicate verbdata key: aqqa!.01.0403.P
+   aqqa!:aBiyoge:aqq:01:0403:pa:sew:अ॑ड्डँ॑:222:235:235:add1_addaz_BvAxiH+aBiyoge:
+   aqqa!:aBiyoge:adq:01:0403:pa:sew:अ॑ड्डँ॑:222:235:235:add1_addaz_BvAxiH+aBiyoge:
+case 5 of duplicate verbdata key: vehf!.01.0730.A
+   vehf!:prayatne:beh:01:0730:A:sew:वे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
+   vehf!:prayatne:veh:01:0730:A:sew:वे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
+case 6 of duplicate verbdata key: DUpa!.10.0303.U
+   DUpa!:Dupa!' BAzArTaH:Dup:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
+   DUpa!:BAzArTaH:DUp:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
+case 7 of duplicate verbdata key: granTa!.10.0362.U
+   granTa!:banDane:granT:10:0362:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
+   granTa!:sandarBe:granT:10:0362:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
+generate_cp: key not found kUwa.10.0225.P
+generate_cp: key not found jYA.09.0258.A
+generate_cp: key not found YimidA!.10.0012.A
+generate_cp: key not found dasa!.10.0110.P
+generate_cp: key not found dasi!.10.0194.P
+generate_cp: key not found nATf!.01.0007.P
+generate_cp: key not found piSa!.10.0105.A
+generate_cp: key not found puRa!.10.0133.A
+generate_cp: key not found mana!.10.0234.P
+generate_cp: key not found vasta!.10.0205.P
+generate_cp: key not found vizka.10.0207.P
+generate_cp: key not found SaWa.10.0214.P
+generate_cp: key not found Sadx!.01.0991.A
+generate_cp: key not found Sadx!.06.0164.A
+generate_cp: key not found Sliza!.10.0059.A
+generate_cp: key not found saNgrAma.10.0467.P
+generate_cp: key not found syama!.10.0216.P
+generate_cp: key not found hasta!.10.0206.P
+generate_cp: key not found hizka!.10.0208.P
+generate_cp: 2581 class pada records
+1655 records written to conjtab_cp.txt
+generate_cp: 2795 class pada records
+1684 records written to sanverb_cp.txt
