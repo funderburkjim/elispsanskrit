@@ -57,7 +57,7 @@ function (in a given tense) are only similar, but not identical.  These
 differences must be taken into account in attempting a comparison of results
 of the two systems.
 
-## root-class-pada implied by SanskritVerb
+## root-class-pada implied by SanskritVerb and by MWvlex
 
 Refer to details from the [roots](https://github.com/funderburkjim/elispsanskrit/tree/master/pysanskritv1/roots) directory.
 
