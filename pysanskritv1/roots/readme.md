@@ -82,3 +82,22 @@ mwvlex_cp.txt has 1954 root spellings.
 ```
 python compare_cp.py sanverb mwvlex sanverb_mwvlex
 ```
+
+## mwvlex1_cp:  Adjustments
+
+This prompted by Dhaval's [comment](https://github.com/funderburkjim/elispsanskrit/issues/34#issuecomment-243677499).  
+
+Probably, there will be further adjustments later.
+For now (Aug 31, 2016), we make sure that class 10 roots have both
+Parasmai and Atmane pada designations.  We also note in the log file
+where these additions were required; this is so that we can back-check
+MW to see if the original dictionary text was marked correctly in this detail.
+
+```
+python mwvlex1_cp.py ../../../MWvlex/step1/verb_cp.txt mwvlex1_cp.txt > mwvlex1_cp_log.txt
+```
+
+Next, we'll compare the adjusted list to sanverb
+```
+python compare_cp.py sanverb mwvlex1 sanverb_mwvlex1
+```
