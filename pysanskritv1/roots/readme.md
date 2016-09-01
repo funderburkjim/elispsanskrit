@@ -34,12 +34,15 @@ compares the two lists.
 python compare_cp.py sanverb conjtab sanverb_conjtab
 ```
 The output file (sanverb_conjtab.txt) indicates
-* 1581 cases where the root-class-pada information is identical
-* 74 cases where roots are present in both sources, but the class-pada 
+* 1571 (v. 1581) cases where the root-class-pada information is identical
+* 75 (74) cases where roots are present in both sources, but the class-pada 
   information from conj_pre is less inclusive than that in verbdata
-* 29 cases where a root is present only in verbdata, but has no present
+* 36 (29) cases where a root is present only in verbdata, but has no present
   tense conjugation according to conj_pre.
 
+Note:  The first number is after revision to verbdata of Sep 1, 2016. The
+   second number (in parentheses) is the number in the prior revision of
+   verbdata.
 
 ## MWvlex root-class-pada
 

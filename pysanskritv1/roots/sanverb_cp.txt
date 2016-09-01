@@ -85,7 +85,6 @@ uC:01P,06P
 ujJ:06P
 uYC:01P,06P
 uW:01A,01P
-utkaRW:10A,10P
 uDras:10A,10P
 und:07P
 ubj:06P
@@ -119,7 +118,6 @@ eD:01A
 ez:01A
 oK:01P
 oR:01P
-olaRq:10A,10P
 kaMs:02A
 kak:01A
 kaK:01P
@@ -507,7 +505,7 @@ ju:01A,01P
 juNg:01P
 juYc:10A,10P
 juw:06P
-juq:06A,06P,10P
+juq:06A,06P,10A,10P
 jut:01A
 jun:06P
 juz:06A,10A,10P
@@ -549,7 +547,7 @@ taNg:01P
 taYc:01P,07P
 taw:01P
 taq:10A,10P
-taRq:01A,10A,10P
+taRq:01A
 tan:08A,08P,10A,10P
 tantr:10A
 tap:01P,04A,04P
@@ -838,7 +836,7 @@ piW:01P
 piRW:10A,10P
 piRq:01A,10A,10P
 pinv:01P
-piS:06A,06P,10P
+piS:06A,06P,10A,10P
 piz:07P
 pis:01P,10A,10P
 pI:04A
@@ -850,7 +848,7 @@ puw:01P,06P
 puwa:10A,10P
 puww:10A,10P
 puq:01P,06P
-puR:06A,06P,10P
+puR:06A,06P,10A,10P
 puRw:10A,10P
 puRq:01P
 puT:04A,04P
@@ -967,7 +965,7 @@ BAma:10A,10P
 BAz:01A
 BAs:01A
 Bikz:01A
-Bid:01A,07A,07P
+Bid:07A,07P
 Bind:01P
 BI:03P
 Buj:06P,07P
@@ -1032,7 +1030,7 @@ mah:01P
 maha:10A,10P
 mA:02P,03A,04A
 mANkz:01P
-mAn:01A,10A,10P
+mAn:01A,04A,10A,10P
 mArg:10A,10P
 mArj:10A,10P
 mAh:01A,01P
@@ -1040,7 +1038,7 @@ mi:05A,05P
 miC:06P
 miYj:10A,10P
 miT:01A,01P
-mid:01A,01P,04A,04P,10P
+mid:01A,01P,04A,04P,10A,10P
 miD:01A,01P
 mind:10A,10P
 minv:01P
@@ -1296,8 +1294,8 @@ vall:01A
 valh:01A
 vaS:02P
 vaz:01P
-vas:01P,02A,04P
-vasa:02A,02P,10A,10P
+vas:01P,02A,02P,04P
+vasa:10A,10P
 vask:01A
 vast:10A
 vah:01A,01P
@@ -1310,7 +1308,7 @@ vAvft:04A
 vAS:04A
 vAsa:10A,10P
 vic:07A,07P
-viC:06A,06P,10P
+viC:06A,06P,10A,10P
 vij:03A,03P,06A,07P
 viw:01P
 viT:01A

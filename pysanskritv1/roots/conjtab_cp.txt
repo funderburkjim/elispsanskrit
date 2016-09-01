@@ -20,7 +20,6 @@ aR:01P,04A
 aRW:01A
 at:01P
 ad:02P
-adq:01P
 an:02P,04A
 ant:01P
 and:01P
@@ -59,7 +58,6 @@ inv:01P
 iz:04P,06P,09P
 I:04A
 Ikz:01A
-IK:01P
 INK:01P
 Ij:01A
 IYj:01A
@@ -79,7 +77,6 @@ uC:01P,06P
 ujJ:06P
 uYC:01P,06P
 uW:01A,01P
-utkaRW:10A,10P
 und:07P
 ubj:06P
 uB:06P
@@ -112,7 +109,6 @@ eD:01A
 ez:01A
 oK:01P
 oR:01P
-olaRq:10A,10P
 kaMs:02A
 kak:01A
 kaK:01P
@@ -537,7 +533,7 @@ taNg:01P
 taYc:01P,07P
 taw:01P
 taq:10A,10P
-taRq:01A,10A,10P
+taRq:01A
 tan:08A,08P
 tantr:10A
 tap:01P,04A
@@ -702,7 +698,7 @@ Dikz:01A
 Dinv:01P
 Diz:03P
 DI:04A
-Du:05A,05P,06P
+Du:05A,05P
 Dukz:01A
 Dup:10A,10P
 Durv:01P
@@ -782,7 +778,6 @@ nft:04P
 nF:01P,09P
 ned:01A,01P
 nez:01A
-paMS:10A,10P
 paMs:10A,10P
 pakz:01P,10A,10P
 pac:01A,01P
@@ -806,7 +801,6 @@ parp:01P
 parb:01P
 parv:01P
 pal:01P,10A,10P
-pall:01P
 paS:10A,10P
 paza:10A,10P
 pA:01P,02P
@@ -820,7 +814,7 @@ piW:01P
 piRW:10A,10P
 piRq:01A,10A,10P
 pinv:01P
-piS:10P
+piS:10A,10P
 piz:07P
 pis:01P,10A,10P
 pIq:10A,10P
@@ -831,7 +825,7 @@ puw:01P,06P
 puwa:10A,10P
 puww:10A,10P
 puq:01P,06P
-puR:10P
+puR:10A,10P
 puRw:10A,10P
 puRq:01P
 puT:04P
@@ -919,7 +913,6 @@ bust:10A,10P
 bfMh:01P,10A,10P
 bfh:01P,06P
 bes:01P
-beh:01A
 byus:04P
 brU:02A,02P
 brUs:10A,10P
@@ -946,7 +939,7 @@ BAma:10A,10P
 BAz:01A
 BAs:01A
 Bikz:01A
-Bid:01A,07A,07P
+Bid:07A,07P
 Bind:01P
 BI:03P
 Buj:06P,07P
@@ -1019,7 +1012,7 @@ mi:05A,05P
 miC:06P
 miYj:10A,10P
 miT:01A,01P
-mid:01A,01P,10P
+mid:01A,01P,10A,10P
 miD:01A,01P
 minv:01P
 mil:06A,06P
@@ -1264,7 +1257,7 @@ varc:01A
 varRa:10A,10P
 varD:10A,10P
 varz:01A
-varh:01A,10A,10P
+varh:01A
 val:01A
 valk:10A,10P
 valg:01P
@@ -1304,7 +1297,6 @@ vIra:10A
 vuNg:01P
 vus:04P
 vf:05A,05P,09A,10A,10P
-vfMh:10A,10P
 vfk:01A
 vfkz:01A
 vfj:02A,07P,10A,10P
@@ -1328,7 +1320,6 @@ vevI:02A
 vezw:01A
 ves:01P
 veh:01A
-vehl:01P
 vE:01P
 vyac:06P
 vyaT:01A
