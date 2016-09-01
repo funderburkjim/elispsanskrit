@@ -58,3 +58,24 @@ in 'r' and the pysan form ends in 'H', and the two forms are otherwise identical
 See [issue#7](https://github.com/funderburkjim/elispsanskrit/issues/7) for some discussion of the comparison.
 
 
+## Huet roots ending in 'a'
+
+```
+python comparea_class_pada.py huet pysan comparea
+```
+The output file is comparea_class_pada.txt.
+It contains the cases where:
+* The root is in Huet, but not in MW
+* The root spelling in Huet ends in 'a'
+* When this final 'a' is dropped, the resulting word
+  is a root in MW, but not in Huet.
+
+For such cases the root-class information is printed to the output file, as
+```
+aMSa:11P # aMS:10P
+```
+
+A manual comparison of the entries in the two dictionaries (e.g. of
+`aMSa` in Huet's dictionary, and of `aMS` in MW dictionary) will be
+done to further confirm that the two roots are the same (or if there are
+some cases where the two roots appear to be different).
