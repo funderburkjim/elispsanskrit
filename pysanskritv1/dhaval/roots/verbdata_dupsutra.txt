@@ -101,11 +101,11 @@ yuja!:saMyamane:yuj:10:0074:u:sew:यु॑जँ॑:1326::1378:yuj3_yujaz_curAx
 vaqi!:viBAjane ityeke:vaRq:10:0074:u:sew:व॑डिँ॑::1190::vaNd2_vadiz_curAxiH+viBAjane:
 
 case 26: sutra 10.0385 appears in 2 records
-kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:utkaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
+kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:kaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
 kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:kaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
 
 case 27: sutra 01.0730 appears in 2 records
-vehf!:prayatne:beh:01:0730:A:sew:वे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
+behf!:prayatne:beh:01:0730:A:sew:बे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
 vehf!:prayatne:veh:01:0730:A:sew:वे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
 
 case 28: sutra 10.0060 appears in 2 records
@@ -114,7 +114,7 @@ mfza!:titikzAyAm:mfz:10:0060:u:sew:मृ॑षँ॒॑:1364:1380:1417:mqR3_mqR
 
 case 29: sutra 04.0073 appears in 2 records
 mana!:jYAne:man:04:0073:A:aniw:म॒नँ॒:817:836:857::380
-mAna!:stamBe:man:04:0073:A:sew:मा॑नँ॒:::::
+mAna!:stamBe:mAn:04:0073:A:sew:मा॑नँ॒:::::
 
 case 30: sutra 04.0079 appears in 2 records
 puza!:DAraRe:puz:04:0079:u:sew:पु॑षँ॑:823:842:862:puR2_puRaz_xivAxiH+puRtO:
@@ -125,7 +125,7 @@ cuwa!:Cedane:cuw:06:0103:pa:sew:चु॑टँ॑:987:1008:1030:cut1_cutaz_wuxA
 tuwa!:kalahakarmaRi:tuw:06:0103:pa:sew:तु॑टँ॑:986:1007:1029:wut1_wutaz_wuxAxiH+kalahakarmaNi:
 
 case 32: sutra 10.0012 appears in 2 records
-YimidA!:snehane:mid:10:0012:pa:sew:ञिमि॑दाँ॑:::::
+YimidA!:snehane:mid:10:0012:u:sew:ञिमि॑दाँ॑:::::
 hisi!:hiMsAyAm:hiMs:10:0012:u:sew:हि॑सिँ॑:1346:1362:1399:hiMs2_hisiz_curAxiH+hiMsAyAm:
 
 case 33: sutra 10.0011 appears in 2 records
@@ -142,15 +142,15 @@ Baji!:BAzArTaH:BaYj:10:0016:u:sew:भ॑जिँ॑:1321::1374:BaFj2_Bajiz_curA
 o!lajI!:vrIqAyAm vrIqe:laj:10:0016:A:sew:ओँ॑ल॑जीँ॒:1322::::
 
 case 36: sutra 01.0621 appears in 2 records
-pelf!:gatO:pall:01:0621:pa:sew:पे॑लृँ॑:331:347:349::
+palla!:gatO:pall:01:0621:pa:sew:प॑ल्लँ॑:331:347:349::
 pelf!:gatO:pel:01:0621:pa:sew:पे॑लृँ॑:331:347:349::
 
 case 37: sutra 01.0403 appears in 2 records
 aqqa!:aBiyoge:aqq:01:0403:pa:sew:अ॑ड्डँ॑:222:235:235:add1_addaz_BvAxiH+aBiyoge:
-aqqa!:aBiyoge:adq:01:0403:pa:sew:अ॑ड्डँ॑:222:235:235:add1_addaz_BvAxiH+aBiyoge:
+adqa!:aBiyoge:adq:01:0403:pa:sew:अ॑द्डँ॑:222:235:235:add1_addaz_BvAxiH+aBiyoge:
 
 case 38: sutra 10.0133 appears in 2 records
-puRa!:karmaRi SuBe:puR:10:0133:pa:sew:पु॑णँ॑:::::
+puRa!:karmaRi SuBe:puR:10:0133:u:sew:पु॑णँ॑:::::
 luwa!:BAzArTaH:luw:10:0133:u:sew:लु॑टँ॑:1321::1374:lut5_lutaz_curAxiH+BARArWaH:
 
 case 39: sutra 10.0001 appears in 3 records

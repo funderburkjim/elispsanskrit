@@ -11,7 +11,9 @@ Various analyses involving dhaval/function/verbdata.txt
 ```
 python verbdata_dupnorm.py verbdata_dupnorm.txt
 
-19 duplicates found
+19 duplicates found.  
+ 2 duplicates  (Sep 1, 2016)
+  (These duplicates are in verbdata_dupnorm.txt)
 ```
 
 ## dupsutra
@@ -21,4 +23,5 @@ python verbdata_dupnorm.py verbdata_dupnorm.txt
  python verbdata_dupsutra.py verbdata_dupsutra.txt
  
 43 cases found
+43 cases still (Sep 1, 2016)
 ```

@@ -1,6 +1,10 @@
 
 Examine https://github.com/drdhaval2785/SanskritVerb/blob/master/scripts/function.php.
 
+## get new copy of function.php
+```
+cp ~/Documents/GitHub/SanskritVerb/scripts/function.php .
+```
 ## extract
 A php function prints contents of various arrays of function.php to text files,
 one line per array element. For example,
