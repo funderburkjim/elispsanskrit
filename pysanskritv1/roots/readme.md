@@ -86,6 +86,14 @@ mwvlex_cp.txt has 1954 root spellings.
 python compare_cp.py sanverb mwvlex sanverb_mwvlex
 ```
 
+## sanverb_root_a
+
+There are several roots in sanverb_cp that end in 'a' (these verbs have a 
+class 10 form) which are believed to correspond to MW roots spelled the
+same except without that ending 'a'.
+The output sanverb_root_a.txt  lists those correspondences in the form
+...
+
 ## mwvlex1_cp:  Adjustments
 
 This prompted by Dhaval's [comment](https://github.com/funderburkjim/elispsanskrit/issues/34#issuecomment-243677499).  
