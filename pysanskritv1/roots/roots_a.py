@@ -98,7 +98,10 @@ def main(filein1,filein2,fileout):
    print "both in sanverb: %s and %s" %(rec1.line, reca1.line)
    nboth = nboth+1
   # so reca2 is present, meaning it is in MW. This is the case we want
-  out = "%s:%s # %s:%s" %(stem,rec1.cpstr,stema,reca2.cpstr)
+  if reca1:
+   out = "%s#%s#%s" %(rec1.line,reca1.line,reca2.line)
+  else:
+   out = "%s##%s" %(rec1.line,reca2.line)
   outarr.append(out)
   ncase = ncase+1
  fout=open(fileout,"w")

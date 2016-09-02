@@ -96,7 +96,19 @@ The output roots_a.txt  lists those correspondences in the form
 ```
 python roots_a.py sanverb_cp.txt mwvlex_cp.txt roots_a.txt > roots_a_log.txt
 ```
-xxpython sanverb_roots_a.py ../dhaval/function ../../../MWvlex/step1/verb_cp.txt sanverb_roots_a.txt 
+(Sep 1, 2016.  There are 63 cases in roots_a.txt. In 28 of these (see roots_a_log.txt), both the root with 'a'
+and without 'a' are in sanverb_cp (but in all cases, only the root without 'a'
+is in mwvlex_cp).
+There are two forms of records in roots_a.txt:
+
+```
+In both cses, the last field is the mwvlex form.
+
+1st form: sanverb has the 'a' form, but not the without 'a' form. 
+aMsa:10A,10P##aMs:00
+
+2nd form: sanverb has both the 'a' form and the without-'a' form.
+aNka:10A,10P # aNk:01A,10P
 ```
 
 ## mwvlex1_cp:  Adjustments
