@@ -86,13 +86,18 @@ mwvlex_cp.txt has 1954 root spellings.
 python compare_cp.py sanverb mwvlex sanverb_mwvlex
 ```
 
-## sanverb_root_a
+## roots_a
 
 There are several roots in sanverb_cp that end in 'a' (these verbs have a 
 class 10 form) which are believed to correspond to MW roots spelled the
 same except without that ending 'a'.
-The output sanverb_root_a.txt  lists those correspondences in the form
+The output roots_a.txt  lists those correspondences in the form
 ...
+```
+python roots_a.py sanverb_cp.txt mwvlex_cp.txt roots_a.txt > roots_a_log.txt
+```
+xxpython sanverb_roots_a.py ../dhaval/function ../../../MWvlex/step1/verb_cp.txt sanverb_roots_a.txt 
+```
 
 ## mwvlex1_cp:  Adjustments
 
