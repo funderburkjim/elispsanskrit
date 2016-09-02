@@ -108,9 +108,12 @@ In both cses, the last field is the mwvlex form.
 aMsa:10A,10P##aMs:00
 
 2nd form: sanverb has both the 'a' form and the without-'a' form.
-aNka:10A,10P # aNk:01A,10P
+aNka:10A,10P#aNk:01A#aNk:01A,10P
 ```
 
+## check sanverb re AkusmIya and AgarvIya
+
+For roots in the two lists from SanskritVerb 
 ## mwvlex1_cp:  Adjustments
 
 This prompted by Dhaval's [comment](https://github.com/funderburkjim/elispsanskrit/issues/34#issuecomment-243677499).  

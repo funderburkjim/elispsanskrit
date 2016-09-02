@@ -53,3 +53,16 @@ recs = verbdata.init_Dhaval_verbdata('%s/verbdata.txt'%path)
 ```
 
 
+# AkusmIya and AgarvIya
+
+These files are from Dhaval.  Each is a list of roots (spelled
+*with* anubandha).  The significance is that these are class 10 roots
+which take *only atmanepada* endings  (in contrast to the general case
+where class 10 roots are ubhayapada).
+
+We want to check whether verbdata.txt is consistent with these, in the
+sense that the records of verbdata for these roots have 'A' in the pada
+field.
+```
+python check_class10_pada.py verbdata.txt AkusmIya.txt AgarvIya.txt
+```
