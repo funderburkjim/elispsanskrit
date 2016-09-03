@@ -1,6 +1,5 @@
 2211 read from verbdata.txt
 38 roots read from AkusmIya.txt
-gf:01P:PROB:no class 10
 qipa!:04P,06P,10A,10u:?
 divu!:04P,10A,10u:?
 daSi!:10A,10u:?
@@ -8,6 +7,6 @@ kURa!:10A,10u:?
 lakza!:10A,10u:?
 kuwwa!:10A,10u:?
 mAna!:01A,04A,10A,10u:?
-30 records are OK  (have exactly 1 class 10, and it is 'A')
+31 records are OK  (have exactly 1 class 10, and it is 'A')
 10 roots read from AgarvIya.txt
 10 records are OK  (have exactly 1 class 10, and it is 'A')
