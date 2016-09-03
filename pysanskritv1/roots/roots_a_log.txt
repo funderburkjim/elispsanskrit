@@ -1,10 +1,11 @@
-sanverb_cp.txt has 1682 stems
+sanverb_cp.txt has 1684 stems
 mwvlex_cp.txt has 1954 stems
 2125  merged stems
 both in sanverb: aNka:10A,10P and aNk:01A
 both in sanverb: aNga:10A,10P and aNg:01P
 both in sanverb: kala:10A,10P and kal:01A
 both in sanverb: kuRa:10A,10P and kuR:06P
+both in sanverb: kUwa:10A,10P and kUw:10A
 both in sanverb: kfpa:10A,10P and kfp:01A,10A,10P
 both in sanverb: gada:10A,10P and gad:01P
 both in sanverb: garva:10A and garv:01P
@@ -21,6 +22,7 @@ both in sanverb: raha:10A,10P and rah:01P
 both in sanverb: laja:10A,10P and laj:01P,10A
 both in sanverb: vawa:10A,10P and vaw:01P
 both in sanverb: vasa:10A,10P and vas:01P,02A,02P,04P
+both in sanverb: vizka:10A,10P and vizk:10A
 both in sanverb: vela:10A,10P and vel:01P
 both in sanverb: vyaya:10A,10P and vyay:01A,01P
 both in sanverb: vraRa:10A,10P and vraR:01P
@@ -30,4 +32,4 @@ both in sanverb: SUra:10A and SUr:04A
 both in sanverb: SraTa:10A,10P and SraT:01P
 both in sanverb: stana:10A,10P and stan:01P
 63 cases written to roots_a.txt
-28 cases where sanverb_cp.txt has root both with 'a' and without 'a'
+30 cases where sanverb_cp.txt has root both with 'a' and without 'a'

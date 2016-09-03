@@ -1573,7 +1573,7 @@ Case 1569: hval:01P identical in BOTH
 Case 1570: hvf:01P identical in BOTH
 Case 1571: hve:01A,01P identical in BOTH
 --------------------------------------------------
-75 cases of SANVERB CPS > CONJTAB CPS
+74 cases of SANVERB CPS > CONJTAB CPS
 --------------------------------------------------
 Case 01: ku has 02P,06A + 01A(sanverb) > 02P,06A (conjtab)
 Case 02: kuw has 06P + 06A(sanverb) > 06P (conjtab)
@@ -1582,7 +1582,7 @@ Case 04: kUR has 10A + 10P(sanverb) > 10A (conjtab)
 Case 05: kfp has 10A,10P + 01A(sanverb) > 10A,10P (conjtab)
 Case 06: gup has 01A,01P,04P + 04A(sanverb) > 01A,01P,04P (conjtab)
 Case 07: gUr has 04A + 10A(sanverb) > 04A (conjtab)
-Case 08: gF has 09P + 06A(sanverb) > 09P (conjtab)
+Case 08: gF has 09P + 10A(sanverb) > 09P (conjtab)
 Case 09: carc has 01P,06P + 10A,10P(sanverb) > 01P,06P (conjtab)
 Case 10: cal has 01P,10P + 06P,10A(sanverb) > 01P,10P (conjtab)
 Case 11: jas has 04P,10A,10P + 04A(sanverb) > 04P,10A,10P (conjtab)
@@ -1595,7 +1595,7 @@ Case 17: tap has 01P,04A + 04P(sanverb) > 01P,04A (conjtab)
 Case 18: til has 01P + 06A,06P(sanverb) > 01P (conjtab)
 Case 19: tfp has 05P,06P,10A,10P + 04A,04P(sanverb) > 05P,06P,10A,10P (conjtab)
 Case 20: tras has 04P + 04A(sanverb) > 04P (conjtab)
-Case 21: truw has 06P + 06A(sanverb) > 06P (conjtab)
+Case 21: truw has 06P + 10A(sanverb) > 06P (conjtab)
 Case 22: daMS has 01P,10A + 10P(sanverb) > 01P,10A (conjtab)
 Case 23: div has 04P,10A + 10P(sanverb) > 04P,10A (conjtab)
 Case 24: dfp has 06P + 04A,04P(sanverb) > 06P (conjtab)
@@ -1614,7 +1614,7 @@ Case 36: prI has 09A,09P + 04A,04P(sanverb) > 09A,09P (conjtab)
 Case 37: banD has 09P + 10A,10P(sanverb) > 09P (conjtab)
 Case 38: Bf has 03A,03P + 01A,01P(sanverb) > 03A,03P (conjtab)
 Case 39: BfMS has 10A,10P + 03P(sanverb) > 10A,10P (conjtab)
-Case 40: mad has 04P + 04A(sanverb) > 04P (conjtab)
+Case 40: mad has 04P + 10A(sanverb) > 04P (conjtab)
 Case 41: man has 08A + 04A(sanverb) > 08A (conjtab)
 Case 42: mAn has 01A,10A + 04A,10P(sanverb) > 01A,10A (conjtab)
 Case 43: mid has 01A,01P,10A,10P + 04A,04P(sanverb) > 01A,01P,10A,10P (conjtab)
@@ -1622,36 +1622,35 @@ Case 44: mI has 09A,09P + 04A,04P(sanverb) > 09A,09P (conjtab)
 Case 45: muw has 01P,06P + 06A(sanverb) > 01P,06P (conjtab)
 Case 46: mfj has 02P + 02A(sanverb) > 02P (conjtab)
 Case 47: mfz has 01P,04A,04P + 10A,10P(sanverb) > 01P,04A,04P (conjtab)
-Case 48: yu has 09A,09P + 02A(sanverb) > 09A,09P (conjtab)
-Case 49: ru has 02P + 10A(sanverb) > 02P (conjtab)
-Case 50: ruj has 06P + 06A(sanverb) > 06P (conjtab)
-Case 51: ruz has 01P,04P + 10A,10P(sanverb) > 01P,04P (conjtab)
-Case 52: lakz has 10A + 10P(sanverb) > 10A (conjtab)
-Case 53: laj has 01P + 10A(sanverb) > 01P (conjtab)
-Case 54: laq has 01P + 10A,10P(sanverb) > 01P (conjtab)
-Case 55: lI has 09P + 06A,10A,10P(sanverb) > 09P (conjtab)
-Case 56: luw has 01A,01P,06P + 04P,10A,10P(sanverb) > 01A,01P,06P (conjtab)
-Case 57: lup has 04P + 06A,06P(sanverb) > 04P (conjtab)
-Case 58: vac has 02P + 02A(sanverb) > 02P (conjtab)
-Case 59: vaRq has 01A + 10A,10P(sanverb) > 01A (conjtab)
-Case 60: varh has 01A + 10A,10P(sanverb) > 01A (conjtab)
-Case 61: vas has 01P,02A,04P + 02P(sanverb) > 01P,02A,04P (conjtab)
-Case 62: vid has 04A,07A + 02A,02P,07P(sanverb) > 04A,07A (conjtab)
-Case 63: vil has 06P + 06A(sanverb) > 06P (conjtab)
-Case 64: vyus has 04P + 04A(sanverb) > 04P (conjtab)
-Case 65: Sam has 04P + 10A(sanverb) > 04P (conjtab)
-Case 66: Siz has 01P,07P + 07A(sanverb) > 01P,07P (conjtab)
-Case 67: SuW has 01P + 10A,10P(sanverb) > 01P (conjtab)
-Case 68: SranT has 01A,09P + 10A,10P(sanverb) > 01A,09P (conjtab)
-Case 69: Sliz has 01P,10P + 10A(sanverb) > 01P,10P (conjtab)
-Case 70: sah has 01A,04P + 04A(sanverb) > 01A,04P (conjtab)
-Case 71: stup has 04P + 04A(sanverb) > 04P (conjtab)
-Case 72: stUp has 04P + 10A,10P(sanverb) > 04P (conjtab)
-Case 73: sPuw has 01A,01P,06P + 06A(sanverb) > 01A,01P,06P (conjtab)
-Case 74: sPuRw has 01P + 10A,10P(sanverb) > 01P (conjtab)
-Case 75: hiMs has 07P + 10A,10P(sanverb) > 07P (conjtab)
+Case 48: ru has 02P + 10A(sanverb) > 02P (conjtab)
+Case 49: ruj has 06P + 06A(sanverb) > 06P (conjtab)
+Case 50: ruz has 01P,04P + 10A,10P(sanverb) > 01P,04P (conjtab)
+Case 51: lakz has 10A + 10P(sanverb) > 10A (conjtab)
+Case 52: laj has 01P + 10A(sanverb) > 01P (conjtab)
+Case 53: laq has 01P + 10A,10P(sanverb) > 01P (conjtab)
+Case 54: lI has 09P + 06A,10A,10P(sanverb) > 09P (conjtab)
+Case 55: luw has 01A,01P,06P + 04P,10A,10P(sanverb) > 01A,01P,06P (conjtab)
+Case 56: lup has 04P + 06A,06P(sanverb) > 04P (conjtab)
+Case 57: vac has 02P + 02A(sanverb) > 02P (conjtab)
+Case 58: vaRq has 01A + 10A,10P(sanverb) > 01A (conjtab)
+Case 59: varh has 01A + 10A,10P(sanverb) > 01A (conjtab)
+Case 60: vas has 01P,02A,04P + 02P(sanverb) > 01P,02A,04P (conjtab)
+Case 61: vid has 04A,07A + 02P,07P,10A(sanverb) > 04A,07A (conjtab)
+Case 62: vil has 06P + 06A(sanverb) > 06P (conjtab)
+Case 63: vyus has 04P + 04A(sanverb) > 04P (conjtab)
+Case 64: Sam has 04P + 10A(sanverb) > 04P (conjtab)
+Case 65: Siz has 01P,07P + 07A(sanverb) > 01P,07P (conjtab)
+Case 66: SuW has 01P + 10A,10P(sanverb) > 01P (conjtab)
+Case 67: SranT has 01A,09P + 10A,10P(sanverb) > 01A,09P (conjtab)
+Case 68: Sliz has 01P,10P + 10A(sanverb) > 01P,10P (conjtab)
+Case 69: sah has 01A,04P + 04A(sanverb) > 01A,04P (conjtab)
+Case 70: stup has 04P + 04A(sanverb) > 04P (conjtab)
+Case 71: stUp has 04P + 10A,10P(sanverb) > 04P (conjtab)
+Case 72: sPuw has 01A,01P,06P + 06A(sanverb) > 01A,01P,06P (conjtab)
+Case 73: sPuRw has 01P + 10A,10P(sanverb) > 01P (conjtab)
+Case 74: hiMs has 07P + 10A,10P(sanverb) > 07P (conjtab)
 --------------------------------------------------
-36 cases of STEM IN SANVERB ONLY
+39 cases of STEM IN SANVERB ONLY
 --------------------------------------------------
 Case 01: adq:01P in sanverb
 Case 02: anuruD:04A in sanverb
@@ -1665,27 +1664,30 @@ Case 09: uDras:10A,10P in sanverb
 Case 10: kuMs:04P,10A,10P in sanverb
 Case 11: kud:10A,10P in sanverb
 Case 12: kumAra:10A,10P in sanverb
-Case 13: gaveza:10A,10P in sanverb
-Case 14: juYc:10A,10P in sanverb
-Case 15: tuw:06P in sanverb
-Case 16: dfMh:06P in sanverb
-Case 17: Dakk:10A,10P in sanverb
-Case 18: paMS:10A,10P in sanverb
-Case 19: palyUla:10A,10P in sanverb
-Case 20: pall:01P in sanverb
-Case 21: pAl:10A,10P in sanverb
-Case 22: piMs:06A,06P in sanverb
-Case 23: pI:04A in sanverb
-Case 24: pfT:10A,10P in sanverb
-Case 25: bil:10A,10P in sanverb
-Case 26: beh:01A in sanverb
-Case 27: mind:10A,10P in sanverb
-Case 28: ruMs:02A,02P in sanverb
-Case 29: viC:06A,06P,10A,10P in sanverb
-Case 30: vfMh:09P,10A,10P in sanverb
-Case 31: vehl:01P in sanverb
-Case 32: Sad:01P,06P in sanverb
-Case 33: Sulk:10A,10P in sanverb
-Case 34: SF:09P in sanverb
-Case 35: SvaRW:10A,10P in sanverb
-Case 36: hi:05P in sanverb
+Case 13: kUw:10A in sanverb
+Case 14: gaveza:10A,10P in sanverb
+Case 15: juYc:10A,10P in sanverb
+Case 16: tuw:06P in sanverb
+Case 17: dfMh:06P in sanverb
+Case 18: Dakk:10A,10P in sanverb
+Case 19: paMS:10A,10P in sanverb
+Case 20: palyUla:10A,10P in sanverb
+Case 21: pall:01P in sanverb
+Case 22: pAl:10A,10P in sanverb
+Case 23: piMs:06A,06P in sanverb
+Case 24: pI:04A in sanverb
+Case 25: pfT:10A,10P in sanverb
+Case 26: bil:10A,10P in sanverb
+Case 27: beh:01A in sanverb
+Case 28: mind:10A,10P in sanverb
+Case 29: yu:02P,09A,09P,10A in sanverb
+Case 30: ruMs:02A,02P in sanverb
+Case 31: viC:06A,06P,10A,10P in sanverb
+Case 32: vizk:10A in sanverb
+Case 33: vfMh:09P,10A,10P in sanverb
+Case 34: vehl:01P in sanverb
+Case 35: Sad:01P,06P in sanverb
+Case 36: Sulk:10A,10P in sanverb
+Case 37: SF:09P in sanverb
+Case 38: SvaRW:10A,10P in sanverb
+Case 39: hi:05P in sanverb

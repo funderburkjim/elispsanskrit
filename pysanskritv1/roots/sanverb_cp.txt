@@ -201,6 +201,7 @@ kusm:10A
 kuha:10A
 kU:06A
 kUj:01P
+kUw:10A
 kUwa:10A,10P
 kUR:10A,10P
 kUl:01P
@@ -358,7 +359,7 @@ gfj:01P
 gfYj:01P
 gfD:04P
 gfha:10A
-gF:06A,09P
+gF:09P,10A
 gep:01A
 gev:01A
 gez:01A
@@ -620,7 +621,7 @@ trand:01P
 trap:01A
 tras:04A,04P
 triNK:01P
-truw:06A,06P
+truw:06P,10A
 trup:01P
 truP:01P
 trump:01P
@@ -1007,7 +1008,7 @@ maR:01P
 maRW:01A
 maRq:01A,01P,10A,10P
 maT:01P
-mad:04A,04P
+mad:04P,10A
 man:04A,08A
 mantr:10A
 manT:01P,09P
@@ -1115,7 +1116,7 @@ yam:01P,10A,10P
 yas:04P
 yA:02P
 yAc:01A,01P
-yu:02A,09A,09P
+yu:02P,09A,09P,10A
 yuNg:01P
 yuC:01P
 yuj:07A,07P,10A,10P
@@ -1312,12 +1313,13 @@ viC:06A,06P,10A,10P
 vij:03A,03P,06A,07P
 viw:01P
 viT:01A
-vid:02A,02P,04A,07A,07P
+vid:02P,04A,07A,07P,10A
 viD:06P
 vip:10A,10P
 vil:06A,06P
 viS:06P
 viz:01P,03A,03P,09P
+vizk:10A
 vizka:10A,10P
 vis:01P,04P
 vI:02P

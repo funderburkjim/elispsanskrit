@@ -64,5 +64,5 @@ We want to check whether verbdata.txt is consistent with these, in the
 sense that the records of verbdata for these roots have 'A' in the pada
 field.
 ```
-python check_class10_pada.py verbdata.txt AkusmIya.txt AgarvIya.txt
+python check_class10_pada.py verbdata.txt AkusmIya.txt AgarvIya.txt > check_class10_pada_log.txt
 ```

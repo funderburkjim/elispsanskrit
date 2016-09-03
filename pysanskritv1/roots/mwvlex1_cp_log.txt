@@ -1,351 +1,697 @@
-2150 records from ../../../MWvlex/step1/verb_cp.txt
-generate_cp: 2150 class pada records
-aMh:01A,10A,10P#01A,10P
-aG:10A,10P#10P
-aNk:01A,10A,10P#01A,10P
-aNK:10A,10P#10P
-aNg:01P,10A,10P#01P,10P
-aww:01A,10A,10P#01A,10P
-anD:10A,10P#10P
-arT:01A,10A,10P#01A,10A
-il:06P,10A,10P#06P,10P
-ulaq:10A,10P#10P
-oj:01,10A,10P#01,10P
-olaRq:01,08,10A,10P#01,08,10P
-kaww:10A,10P#10P
-kaR:01P,10A,10P#01P,10P
-kaRW:01A,01P,10A,10P#01A,01P,10P
-kaRq:01A,01P,10A,10P#01A,01P,10P
-katr:10A,10P#10P
-karR:10A,10P#10P
-kartr:10A,10P#10P
-kil:06P,10A,10P#06P,10P
-kizk:10A,10P#10A
-kIw:10A,10P#10P
-kuMS:01,10A,10P#01,10P
-kuMs:01,10A,10P#01,10P
-kuw:04P,06P,10A,10P#04P,06P,10A
-kuww:10A,10P#10
-kuR:06P,10A,10P#06P,10P
-kuRW:01P,10A,10P#01P,10
-kuRq:01A,01P,10A,10P#01A,01P,10
-kud:10A,10P#10P
-kundr:10A,10P#10P
-kup:04A,04P,10A,10P#04A,04P,10P
-kumb:06,10A,10P#06,10P
-kuh:10A,10P#10A
-kUq:06P,10A,10P#06P,10P
-kUp:10A,10P#10P
-kfp:06A,10A,10P#06A,10P
-kF:05,06A,06P,09A,09P,10A,10P#05,06A,06P,09A,09P,10A
-knaMs:01,10A,10P#01,10P
-kruq:06P,10A,10P#06P,10P
-klIb:01A,10A,10P#01A,10A
-kzaj:01A,10A,10P#01A,10P
-kzap:01A,01P,10A,10P#01A,01P,10P
-kzamp:01,10A,10P#01,10P
-kzal:10A,10P#10P
-kzow:10A,10P#10P
-Kac:01P,09P,10A,10P#01P,09P,10P
-Kaww:10A,10P#10P
-Kaq:10A,10P#10P
-KaRq:01A,10A,10P#01A,10P
-KuRq:01A,10A,10P#01A,10P
-Kew:10A,10P#10
-Kow:01P,10A,10P#01P,10P
-Koq:01P,10A,10P#01P,10P
-gaj:01P,10A,10P#01P,10P
-gaq:01P,10A,10P#01P,10P
-gad:01P,10A,10P#01P,10P
-ganD:10A,10P#10A
-gard:01P,10A,10P#01P,10
-garv:01P,10A,10P#01P,10A
-gavez:01A,10A,10P#01A,10
-gah:10A,10P#10P
-guRW:10A,10P#10P
-guRq:10A,10P#10
-gurd:01,10A,10P#01,10
-gUrd:01P,10A,10P#01P,10
-gUrD:10A,10P#10P
-gF:06A,06P,09A,09P,10A,10P#06A,06P,09A,09P,10A
-Gaww:01A,10A,10P#01A,10P
-GaRw:01,10A,10P#01,10P
-Gar:10A,10P#10P
-Gf:01,03P,05,08A,08P,10A,10P#01,03P,05,08A,08P,10P
-Gol:10A,10P#10P
-cakk:10A,10P#10P
-caRq:01,10A,10P#01,10A
-cap:01,10A,10P#01,10
-camp:10A,10P#10
-carc:01,10A,10P#01,10A
-carv:01,10A,10P#01,10
-cah:01,10A,10P#01,10
-cikk:10A,10P#10P
-cint:01,10A,10P#01,10
-cIk:01,10A,10P#01,10
-cIv:01,10A,10P#01,10
-cukk:10A,10P#10
-cuw:01,06,10A,10P#01,06,10
-cuww:10A,10P#10
-cuRw:01,06,10A,10P#01,06,10
-cuRW:10A,10P#10
-cuRq:01,06,10A,10P#01,06,10
-cumb:01A,10A,10P#01A,10
-cur:01,10A,10P#01,10
-cul:10A,10P#10
-cUR:10A,10P#10
-cUr:04,10A,10P#04,10
-cUrR:10A,10P#10
-cft:01,06,10A,10P#01,06,10
-cfp:01,10A,10P#01,10
-cyu:01A,01P,10A,10P#01A,01P,10
-cyus:10A,10P#10
-Cad:01A,10A,10P#01A,10A
-Camp:10A,10P#10
-Cal:10A,10P#10P
-Cuw:06,10A,10P#06,10
-Cfp:01,10A,10P#01,10
-jaMs:01,10A,10P#01,10
-jal:01,10A,10P#01,10
-juYc:01,10A,10P#01,10P
-juq:06,10A,10P#06,10
-jul:10A,10P#10
-jF:01A,01P,04A,04P,09,10A,10P#01A,01P,04A,04P,09,10A
-jri:01P,09,10A,10P#01P,09,10
-jrI:01,09,10A,10P#01,09,10
-waNk:10A,10P#10
-wip:10A,10P#10P
-qap:10A,10P#10A
-qamp:10A,10P#10A
-qamb:10A,10P#10
-qamB:10A,10P#10A
-taMs:01A,01P,10A,10P#01A,01P,10
-taq:10A,10P#10
-tan:01,04,08A,08P,10A,10P#01,04,08A,08P,10
-tark:10A,10P#10
-tal:01,10A,10P#01,10
-til:01,06,10A,10P#01,06,10
-tumb:01,10A,10P#01,10
-tul:10A,10P#10A
-tUR:10A,10P#10
-tUl:01,10A,10P#01,10
-traMs:01,10A,10P#01,10
-tras:01,04A,10A,10P#01,04A,10P
-daMs:01P,10A,10P#01P,10A
-daMh:10A,10P#10
-dimp:10A,10P#10A
-dul:10A,10P#10P
-dfB:01,06P,10A,10P#01,06P,10P
-Dakk:10A,10P#10P
-DUS:10A,10P#10P
-DUz:10A,10P#10P
-DUs:10A,10P#10P
-Dras:09,10A,10P#09,10P
-nakk:10A,10P#10P
-naq:10A,10P#10P
-nal:01P,10A,10P#01P,10P
-nizk:10A,10P#10A
-paMS:01,10A,10P#01,10P
-paMs:01,10A,10P#01,10P
-pakz:01,10A,10P#01,10P
-paw:01P,10A,10P#01P,10
-paRq:01A,10A,10P#01A,10P
-panT:01,10A,10P#01,10P
-parR:10A,10P#10P
-paS:00A,00P,10A,10P#00A,00P,10P
-paz:01A,01P,10A,10P#01A,01P,10P
-pas:01A,01P,10A,10P#01A,01P,10P
-piMs:01,10A,10P#01,10
-picc:10A,10P#10P
-piC:06P,10A,10P#06P,10P
-piYj:02A,10A,10P#02A,10P
-piRq:01A,10A,10P#01A,10P
-pil:10A,10P#10P
-pis:01,04P,10A,10P#01,04P,10
-pIq:10A,10P#10P
-puMs:10A,10P#10
-puw:01P,06P,10A,10P#01P,06P,10P
-puww:10A,10P#10P
-puR:06P,10A,10P#06P,10P
-puRw:10A,10P#10P
-purv:01P,10A,10P#01P,10
-pul:01,06,10A,10P#01,06,10P
-pus:10A,10P#10P
-pust:10A,10P#10P
-pUR:10A,10P#10P
-pUl:01,10A,10P#01,10P
-pfT:10A,10P#10P
-pel:01,10A,10P#01,10P
-pyuz:04,10A,10P#04,10P
-praT:01A,01P,10A,10P#01A,01P,10P
-barh:01A,10A,10P#01A,10P
-balh:01A,10A,10P#01A,10P
-bil:06,10A,10P#06,10P
-bukk:01,10A,10P#01,10P
-buw:01,10A,10P#01,10P
-bunD:10A,10P#10P
-bul:10A,10P#10P
-bust:10A,10P#10P
-bfMh:01A,01P,10A,10P#01A,01P,10P
-bfh:01A,01P,06P,10A,10P#01A,01P,06P,10P
-BaYj:07A,07P,10A,10P#07A,07P,10P
-Baw:01P,10A,10P#01P,10P
-BaRw:10A,10P#10P
-BaRq:01A,10A,10P#01A,10P
-Bal:01A,10A,10P#01A,10A
-BAm:01A,10A,10P#01A,10P
-BfMS:01,10A,10P#01,10P
-BrUR:10A,10P#10A
-maMh:01A,10A,10P#01A,10
-maYj:10A,10P#10P
-maRw:10A,10P#10P
-marc:10A,10P#10P
-mal:01A,10A,10P#01A,10P
-mAn:01,10A,10P#01,10P
-mArj:10A,10P#10P
-miYj:10A,10P#10P
-mid:01A,01P,04P,10A,10P#01A,01P,04P,10P
-mind:01A,04P,10A,10P#01A,04P,10P
-miSr:10A,10P#10P
-mI:01,09A,09P,10A,10P#01,09A,09P,10P
-muj:01P,10A,10P#01P,10P
-muYj:01P,10A,10P#01P,10P
-muw:01,06,10A,10P#01,06,10P
-mud:01A,01P,10A,10P#01A,01P,10P
-must:10A,10P#10P
-mfkz:01P,10A,10P#01P,10
-mfc:04P,10A,10P#04P,10P
-mfj:01A,01P,02A,02P,06A,06P,10A,10P#01A,01P,02A,02P,06A,06P,10
-mfq:06A,06P,09P,10A,10P#06A,06P,09P,10
-mfz:01A,01P,04A,04P,10A,10P#01A,01P,04A,04P,10
-mrakz:01P,10A,10P#01P,10
-mlakz:10A,10P#10P
-mleC:01P,10A,10P#01P,10P
-yakz:01A,01P,10A,10P#01A,01P,10A
-yantr:01P,10A,10P#01P,10P
-raMh:01A,01P,10A,10P#01A,01P,10P
-rak:10A,10P#10P
-rag:01P,10A,10P#01P,10P
-raNG:01A,10A,10P#01A,10
-rac:10A,10P#10P
-raR:01P,04P,10A,10P#01P,04P,10P
-rah:01P,10A,10P#01P,10P
-ric:01P,04A,07A,07P,10A,10P#01P,04A,07A,07P,10
-ruMS:01,10A,10P#01,10P
-ruj:06P,10A,10P#06P,10
-ruw:01A,10A,10P#01A,10P
-ruz:01,04P,10A,10P#01,04P,10
-rUkz:10A,10P#10P
-rUz:01P,10A,10P#01P,10P
-lak:10A,10P#10P
-lag:01P,10A,10P#01P,10
-laNG:01A,01P,10A,10P#01A,01P,10P
-laj:01P,06A,10A,10P#01P,06A,10P
-laYj:01P,10A,10P#01P,10P
-laq:01P,10A,10P#01P,10P
-laRq:10A,10P#10P
-lard:10A,10P#10P
-laS:10A,10P#10P
-laz:01,04A,04P,10A,10P#01,04A,04P,10P
-las:01P,10A,10P#01P,10
-lAq:10A,10P#10P
-lAB:10A,10P#10P
-liNg:01P,10A,10P#01P,10P
-luw:01A,04P,10A,10P#01A,04P,10P
-luW:01A,01P,06P,10A,10P#01A,01P,06P,10P
-luRw:01P,10A,10P#01P,10P
-lumb:01P,10A,10P#01P,10P
-lUz:01P,10A,10P#01P,10P
-lok:01A,10A,10P#01A,10
-loc:01A,10A,10P#01A,10P
-vaj:01P,10A,10P#01P,10P
-vaw:01P,10A,10P#01P,10P
-vaRw:01,10A,10P#01,10P
-vaRq:01A,10A,10P#01A,10P
-varR:10A,10P#10P
-varD:10A,10P#10P
-varh:01A,10A,10P#01A,10P
-valk:10A,10P#10P
-valh:01A,10A,10P#01A,10P
-vas:01P,02A,04P,06P,10A,10P#01P,02A,04P,06P,10P
-vast:10A,10P#10A
-vAt:10A,10P#10P
-vAs:10A,10P#10P
-viC:10A,10P#10P
-viRw:10A,10P#10P
-vitt:10A,10P#10P
-vil:06P,10A,10P#06P,10P
-vizk:10A,10P#10P
-vIj:01A,01P,10A,10P#01A,01P,10
-vuRw:10A,10P#10P
-vfD:01A,01P,10A,10P#01A,01P,10
-vekz:10A,10P#10P
-vel:01P,10A,10P#01P,10P
-vyap:10A,10P#10P
-vyay:01A,01P,10A,10P#01A,01P,10P
-vyuz:04P,10A,10P#04P,10P
-vraj:01P,10A,10P#01P,10P
-vraR:01P,10A,10P#01P,10P
-vrIq:01A,04P,10A,10P#01A,04P,10P
-vrUs:01,10A,10P#01,10P
-Saw:01P,10A,10P#01P,10A
-SaR:01,10A,10P#01,10P
-Sabd:10A,10P#10P
-Samb:01P,10A,10P#01P,10P
-Sal:01A,01P,10A,10P#01A,01P,10A
-SAl:01A,10A,10P#01A,10A
-SiYj:01,02A,10A,10P#01,02A,10A
-Siz:01P,07P,10A,10P#01P,07P,10
-SIk:01A,10A,10P#01A,10
-SIl:01P,10A,10P#01P,10P
-SuW:01P,10A,10P#01P,10P
-SuRW:01P,10A,10P#01P,10P
-Sulk:10A,10P#10P
-Sulb:10A,10P#10P
-Sulv:10A,10P#10P
-SUr:04A,10A,10P#04A,10A
-SUrp:10A,10P#10P
-SraR:01P,10A,10P#01P,10P
-SvaW:10A,10P#10P
-SvaRW:10A,10P#10P
-SvaBr:10A,10P#10P
-Svalk:10A,10P#10P
-zaww:10A,10P#10P
-saw:01P,10A,10P#01P,10
-saww:10A,10P#10P
-saW:10A,10P#10P
-satr:10A,10P#10A
-saBAj:10A,10P#10P
-sam:01P,10A,10P#01P,10P
-sah:01A,04P,10A,10P#01A,04P,10
-sAw:10A,10P#10P
-sAmaya:10A,10P#10P
-suK:04P,10A,10P#04P,10
-suww:10A,10P#10P
-sur:06P,10A,10P#06P,10P
-sUc:10A,10P#10P
-sUtr:10A,10P#10P
-sUd:01A,10A,10P#01A,10
-sUr:04A,10A,10P#04A,10A
-skanD:10A,10P#10P
-stam:01P,10A,10P#01P,10P
-stUp:04,10A,10P#04,10P
-sten:10A,10P#10P
-step:01A,10A,10P#01A,10P
-sniw:10A,10P#10P
-snih:01P,04P,10A,10P#01P,04P,10P
-spaS:01A,01P,10A,10P#01A,01P,10P
-spfh:10A,10P#10P
-sPaw:01P,10A,10P#01P,10P
-sPaRq:10A,10P#10P
-sPiw:10A,10P#10P
-sPiww:10A,10P#10P
-sPuww:10A,10P#10P
-sPuRw:01P,10A,10P#01P,10P
-sPuRq:01A,10A,10P#01A,10P
-smiw:10A,10P#10P
-svar:01P,10A,10P#01P,10P
-hiMs:01,07A,07P,10A,10P#01,07A,07P,10P
-hlap:10A,10P#10P
+1954 records from mwvlex_cp.txt
+1654 records from sanverb1_cp.txt
+------------------------------------------------------------
+ADJUSTING class 10 in mwvlex
+aMh:01A,10P -> aMh:01A,10A,10P.  method=sanverb
+aG:10P -> aG:10A,10P.  method=default
+aNk:01A,10P -> aNk:01A,10A,10P.  method=sanverb
+aNK:10P -> aNK:10A,10P.  method=default
+aNg:01P,10P -> aNg:01P,10A,10P.  method=sanverb
+aww:01A,10P -> aww:01A,10A,10P.  method=sanverb
+anD:10P -> anD:10A,10P.  method=sanverb
+il:06P,10P -> il:06P,10A,10P.  method=sanverb
+ulaq:10P -> ulaq:10A,10P.  method=default
+oj:01,10P -> oj:01,10A,10P.  method=default
+olaRq:01,08,10P -> olaRq:01,08,10A,10P.  method=default
+kaww:10P -> kaww:10A,10P.  method=default
+kaR:01P,10P -> kaR:01P,10A,10P.  method=sanverb
+kaRW:01A,01P,10P -> kaRW:01A,01P,10A,10P.  method=sanverb
+kaRq:01A,01P,10P -> kaRq:01A,01P,10A,10P.  method=sanverb
+katr:10P -> katr:10A,10P.  method=sanverb
+karR:10P -> karR:10A,10P.  method=sanverb
+kartr:10P -> kartr:10A,10P.  method=default
+kil:06P,10P -> kil:06P,10A,10P.  method=default
+kizk:10A -> kizk:10A,10P.  method=default
+kIw:10P -> kIw:10A,10P.  method=sanverb
+kuMS:01,10P -> kuMS:01,10A,10P.  method=sanverb
+kuMs:01,10P -> kuMs:01,10A,10P.  method=sanverb
+kuw:04P,06P,10A -> kuw:04P,06P,10A,10P.  method=default
+kuww:10 -> kuww:10A,10P.  method=sanverb
+kuR:06P,10P -> kuR:06P,10A,10P.  method=sanverb
+kuRW:01P,10 -> kuRW:01P,10A,10P.  method=sanverb
+kuRq:01A,01P,10 -> kuRq:01A,01P,10A,10P.  method=sanverb
+kuts:01P,04P,10A,10P -> kuts:01P,04P,10A.  method=sanverb
+kud:10P -> kud:10A,10P.  method=sanverb
+kundr:10P -> kundr:10A,10P.  method=sanverb
+kup:04A,04P,10P -> kup:04A,04P,10A,10P.  method=sanverb
+kumb:06,10P -> kumb:06,10A,10P.  method=sanverb
+kUq:06P,10P -> kUq:06P,10A,10P.  method=default
+kUp:10P -> kUp:10A,10P.  method=default
+kfp:06A,10P -> kfp:06A,10A,10P.  method=sanverb
+kF:05,06A,06P,09A,09P,10A -> kF:05,06A,06P,09A,09P,10A,10P.  method=default
+knaMs:01,10P -> knaMs:01,10A,10P.  method=default
+kruq:06P,10P -> kruq:06P,10A,10P.  method=default
+klIb:01A,10A -> klIb:01A,10A,10P.  method=default
+kzaj:01A,10P -> kzaj:01A,10A,10P.  method=default
+kzap:01A,01P,10P -> kzap:01A,01P,10A,10P.  method=sanverb
+kzamp:01,10P -> kzamp:01,10A,10P.  method=sanverb
+kzal:10P -> kzal:10A,10P.  method=sanverb
+kzow:10P -> kzow:10A,10P.  method=sanverb
+Kac:01P,09P,10P -> Kac:01P,09P,10A,10P.  method=default
+Kaww:10P -> Kaww:10A,10P.  method=sanverb
+Kaq:10P -> Kaq:10A,10P.  method=sanverb
+KaRq:01A,10P -> KaRq:01A,10A,10P.  method=sanverb
+KuRq:01A,10P -> KuRq:01A,10A,10P.  method=sanverb
+Kew:10 -> Kew:10A,10P.  method=sanverb
+Kow:01P,10P -> Kow:01P,10A,10P.  method=sanverb
+Koq:01P,10P -> Koq:01P,10A,10P.  method=default
+gaj:01P,10P -> gaj:01P,10A,10P.  method=sanverb
+gaq:01P,10P -> gaq:01P,10A,10P.  method=default
+gad:01P,10P -> gad:01P,10A,10P.  method=sanverb
+gard:01P,10 -> gard:01P,10A,10P.  method=sanverb
+gavez:01A,10 -> gavez:01A,10A,10P.  method=sanverb
+gah:10P -> gah:10A,10P.  method=default
+guRW:10P -> guRW:10A,10P.  method=sanverb
+guRq:10 -> guRq:10A,10P.  method=sanverb
+gurd:01,10 -> gurd:01,10A,10P.  method=sanverb
+gUrd:01P,10 -> gUrd:01P,10A,10P.  method=default
+gUrD:10P -> gUrD:10A,10P.  method=default
+Gaww:01A,10P -> Gaww:01A,10A,10P.  method=sanverb
+GaRw:01,10P -> GaRw:01,10A,10P.  method=sanverb
+Gar:10P -> Gar:10A,10P.  method=default
+Gf:01,03P,05,08A,08P,10P -> Gf:01,03P,05,08A,08P,10A,10P.  method=sanverb
+Gol:10P -> Gol:10A,10P.  method=default
+cakk:10P -> cakk:10A,10P.  method=sanverb
+caRq:01,10A -> caRq:01,10A,10P.  method=sanverb
+cap:01,10 -> cap:01,10A,10P.  method=sanverb
+camp:10 -> camp:10A,10P.  method=sanverb
+carc:01,10A -> carc:01,10A,10P.  method=sanverb
+carv:01,10 -> carv:01,10A,10P.  method=default
+cah:01,10 -> cah:01,10A,10P.  method=sanverb
+cikk:10P -> cikk:10A,10P.  method=default
+cint:01,10 -> cint:01,10A,10P.  method=sanverb
+cIk:01,10 -> cIk:01,10A,10P.  method=sanverb
+cIv:01,10 -> cIv:01,10A,10P.  method=sanverb
+cukk:10 -> cukk:10A,10P.  method=sanverb
+cuw:01,06,10 -> cuw:01,06,10A,10P.  method=sanverb
+cuww:10 -> cuww:10A,10P.  method=sanverb
+cuRw:01,06,10 -> cuRw:01,06,10A,10P.  method=sanverb
+cuRW:10 -> cuRW:10A,10P.  method=default
+cuRq:01,06,10 -> cuRq:01,06,10A,10P.  method=default
+cumb:01A,10 -> cumb:01A,10A,10P.  method=sanverb
+cur:01,10 -> cur:01,10A,10P.  method=sanverb
+cul:10 -> cul:10A,10P.  method=sanverb
+cUR:10 -> cUR:10A,10P.  method=default
+cUr:04,10 -> cUr:04,10A,10P.  method=default
+cUrR:10 -> cUrR:10A,10P.  method=sanverb
+cft:01,06,10 -> cft:01,06,10A,10P.  method=default
+cfp:01,10 -> cfp:01,10A,10P.  method=sanverb
+cyu:01A,01P,10 -> cyu:01A,01P,10A,10P.  method=sanverb
+cyus:10 -> cyus:10A,10P.  method=default
+Cad:01A,10A -> Cad:01A,10A,10P.  method=sanverb
+Camp:10 -> Camp:10A,10P.  method=default
+Cal:10P -> Cal:10A,10P.  method=default
+Cuw:06,10 -> Cuw:06,10A,10P.  method=default
+Cfp:01,10 -> Cfp:01,10A,10P.  method=sanverb
+jaMs:01,10 -> jaMs:01,10A,10P.  method=sanverb
+jal:01,10 -> jal:01,10A,10P.  method=sanverb
+juYc:01,10P -> juYc:01,10A,10P.  method=sanverb
+juq:06,10 -> juq:06,10A,10P.  method=sanverb
+jul:10 -> jul:10A,10P.  method=default
+jF:01A,01P,04A,04P,09,10A -> jF:01A,01P,04A,04P,09,10A,10P.  method=default
+jri:01P,09,10 -> jri:01P,09,10A,10P.  method=sanverb
+jrI:01,09,10 -> jrI:01,09,10A,10P.  method=default
+waNk:10 -> waNk:10A,10P.  method=sanverb
+wip:10P -> wip:10A,10P.  method=default
+qamp:10A -> qamp:10A,10P.  method=default
+qamb:10 -> qamb:10A,10P.  method=default
+qamB:10A -> qamB:10A,10P.  method=default
+taMs:01A,01P,10 -> taMs:01A,01P,10A,10P.  method=sanverb
+taq:10 -> taq:10A,10P.  method=sanverb
+tan:01,04,08A,08P,10 -> tan:01,04,08A,08P,10A,10P.  method=sanverb
+tark:10 -> tark:10A,10P.  method=sanverb
+tal:01,10 -> tal:01,10A,10P.  method=sanverb
+til:01,06,10 -> til:01,06,10A,10P.  method=default
+tumb:01,10 -> tumb:01,10A,10P.  method=sanverb
+tul:10A -> tul:10A,10P.  method=sanverb
+tUR:10 -> tUR:10A.  method=sanverb
+tUl:01,10 -> tUl:01,10A,10P.  method=default
+traMs:01,10 -> traMs:01,10A,10P.  method=sanverb
+tras:01,04A,10P -> tras:01,04A,10A,10P.  method=default
+daMs:01P,10A -> daMs:01P,10A,10P.  method=sanverb
+daMh:10 -> daMh:10A,10P.  method=default
+dimp:10A -> dimp:10A,10P.  method=default
+dul:10P -> dul:10A,10P.  method=sanverb
+dfB:01,06P,10P -> dfB:01,06P,10A,10P.  method=sanverb
+Dakk:10P -> Dakk:10A,10P.  method=sanverb
+DUS:10P -> DUS:10A,10P.  method=sanverb
+DUz:10P -> DUz:10A,10P.  method=sanverb
+DUs:10P -> DUs:10A,10P.  method=sanverb
+Dras:09,10P -> Dras:09,10A,10P.  method=default
+nakk:10P -> nakk:10A,10P.  method=sanverb
+naq:10P -> naq:10A,10P.  method=sanverb
+nal:01P,10P -> nal:01P,10A,10P.  method=sanverb
+paMS:01,10P -> paMS:01,10A,10P.  method=sanverb
+paMs:01,10P -> paMs:01,10A,10P.  method=sanverb
+pakz:01,10P -> pakz:01,10A,10P.  method=sanverb
+paw:01P,10 -> paw:01P,10A,10P.  method=sanverb
+paRq:01A,10P -> paRq:01A,10A,10P.  method=sanverb
+panT:01,10P -> panT:01,10A,10P.  method=sanverb
+parR:10P -> parR:10A,10P.  method=sanverb
+paS:00A,00P,10P -> paS:00A,00P,10A,10P.  method=sanverb
+paz:01A,01P,10P -> paz:01A,01P,10A,10P.  method=sanverb
+pas:01A,01P,10P -> pas:01A,01P,10A,10P.  method=default
+piMs:01,10 -> piMs:01,10A,10P.  method=default
+picc:10P -> picc:10A,10P.  method=default
+piC:06P,10P -> piC:06P,10A,10P.  method=sanverb
+piYj:02A,10P -> piYj:02A,10A,10P.  method=sanverb
+piRq:01A,10P -> piRq:01A,10A,10P.  method=sanverb
+pil:10P -> pil:10A,10P.  method=default
+pis:01,04P,10 -> pis:01,04P,10A,10P.  method=sanverb
+pIq:10P -> pIq:10A,10P.  method=sanverb
+puMs:10 -> puMs:10A,10P.  method=sanverb
+puw:01P,06P,10P -> puw:01P,06P,10A,10P.  method=sanverb
+puww:10P -> puww:10A,10P.  method=sanverb
+puR:06P,10P -> puR:06P,10A,10P.  method=sanverb
+puRw:10P -> puRw:10A,10P.  method=sanverb
+purv:01P,10 -> purv:01P,10A,10P.  method=default
+pul:01,06,10P -> pul:01,06,10A,10P.  method=sanverb
+pus:10P -> pus:10A,10P.  method=default
+pust:10P -> pust:10A,10P.  method=sanverb
+pUR:10P -> pUR:10A,10P.  method=default
+pUl:01,10P -> pUl:01,10A,10P.  method=sanverb
+pfT:10P -> pfT:10A,10P.  method=sanverb
+pel:01,10P -> pel:01,10A,10P.  method=default
+pyuz:04,10P -> pyuz:04,10A,10P.  method=default
+praT:01A,01P,10P -> praT:01A,01P,10A,10P.  method=sanverb
+barh:01A,10P -> barh:01A,10A,10P.  method=sanverb
+balh:01A,10P -> balh:01A,10A,10P.  method=sanverb
+bil:06,10P -> bil:06,10A,10P.  method=sanverb
+bukk:01,10P -> bukk:01,10A,10P.  method=sanverb
+buw:01,10P -> buw:01,10A,10P.  method=default
+bunD:10P -> bunD:10A,10P.  method=default
+bul:10P -> bul:10A,10P.  method=default
+bust:10P -> bust:10A,10P.  method=sanverb
+bfMh:01A,01P,10P -> bfMh:01A,01P,10A,10P.  method=sanverb
+bfh:01A,01P,06P,10P -> bfh:01A,01P,06P,10A,10P.  method=default
+BaYj:07A,07P,10P -> BaYj:07A,07P,10A,10P.  method=sanverb
+Baw:01P,10P -> Baw:01P,10A,10P.  method=default
+BaRw:10P -> BaRw:10A,10P.  method=default
+BaRq:01A,10P -> BaRq:01A,10A,10P.  method=sanverb
+Barts:01,10A,10P -> Barts:01,10A.  method=sanverb
+BAm:01A,10P -> BAm:01A,10A,10P.  method=sanverb
+BfMS:01,10P -> BfMS:01,10A,10P.  method=sanverb
+maMh:01A,10 -> maMh:01A,10A,10P.  method=sanverb
+maYj:10P -> maYj:10A,10P.  method=default
+maRw:10P -> maRw:10A,10P.  method=default
+mantr:10A,10P -> mantr:10A.  method=sanverb
+marc:10P -> marc:10A,10P.  method=sanverb
+mal:01A,10P -> mal:01A,10A,10P.  method=default
+mAn:01,10P -> mAn:01,10A,10P.  method=sanverb
+mArj:10P -> mArj:10A,10P.  method=sanverb
+miYj:10P -> miYj:10A,10P.  method=sanverb
+mid:01A,01P,04P,10P -> mid:01A,01P,04P,10A,10P.  method=sanverb
+mind:01A,04P,10P -> mind:01A,04P,10A,10P.  method=sanverb
+miSr:10P -> miSr:10A,10P.  method=sanverb
+mI:01,09A,09P,10P -> mI:01,09A,09P,10A,10P.  method=default
+muj:01P,10P -> muj:01P,10A,10P.  method=default
+muYj:01P,10P -> muYj:01P,10A,10P.  method=default
+muw:01,06,10P -> muw:01,06,10A,10P.  method=default
+mud:01A,01P,10P -> mud:01A,01P,10A,10P.  method=sanverb
+must:10P -> must:10A,10P.  method=sanverb
+mfkz:01P,10 -> mfkz:01P,10A,10P.  method=default
+mfg:04P,10A,10P -> mfg:04P,10A.  method=sanverb
+mfc:04P,10P -> mfc:04P,10A,10P.  method=default
+mfj:01A,01P,02A,02P,06A,06P,10 -> mfj:01A,01P,02A,02P,06A,06P,10A,10P.  method=default
+mfq:06A,06P,09P,10 -> mfq:06A,06P,09P,10A,10P.  method=default
+mfz:01A,01P,04A,04P,10 -> mfz:01A,01P,04A,04P,10A,10P.  method=sanverb
+mrakz:01P,10 -> mrakz:01P,10A,10P.  method=sanverb
+mlakz:10P -> mlakz:10A,10P.  method=default
+mleC:01P,10P -> mleC:01P,10A,10P.  method=sanverb
+yantr:01P,10P -> yantr:01P,10A,10P.  method=sanverb
+raMh:01A,01P,10P -> raMh:01A,01P,10A,10P.  method=sanverb
+rak:10P -> rak:10A,10P.  method=sanverb
+rag:01P,10P -> rag:01P,10A,10P.  method=sanverb
+raNG:01A,10 -> raNG:01A,10A,10P.  method=sanverb
+rac:10P -> rac:10A,10P.  method=sanverb
+raR:01P,04P,10P -> raR:01P,04P,10A,10P.  method=default
+rah:01P,10P -> rah:01P,10A,10P.  method=sanverb
+ric:01P,04A,07A,07P,10 -> ric:01P,04A,07A,07P,10A,10P.  method=default
+ruMS:01,10P -> ruMS:01,10A,10P.  method=sanverb
+ruj:06P,10 -> ruj:06P,10A,10P.  method=default
+ruw:01A,10P -> ruw:01A,10A,10P.  method=sanverb
+ruz:01,04P,10 -> ruz:01,04P,10A,10P.  method=sanverb
+rUkz:10P -> rUkz:10A,10P.  method=sanverb
+rUz:01P,10P -> rUz:01P,10A,10P.  method=default
+lak:10P -> lak:10A,10P.  method=default
+lag:01P,10 -> lag:01P,10A,10P.  method=sanverb
+laNG:01A,01P,10P -> laNG:01A,01P,10A,10P.  method=sanverb
+laj:01P,06A,10P -> laj:01P,06A,10A,10P.  method=sanverb
+laYj:01P,10P -> laYj:01P,10A,10P.  method=sanverb
+laq:01P,10P -> laq:01P,10A,10P.  method=sanverb
+laRq:10P -> laRq:10A,10P.  method=sanverb
+lard:10P -> lard:10A,10P.  method=default
+laS:10P -> laS:10A,10P.  method=default
+laz:01,04A,04P,10P -> laz:01,04A,04P,10A,10P.  method=default
+las:01P,10 -> las:01P,10A,10P.  method=sanverb
+lAq:10P -> lAq:10A,10P.  method=default
+lAB:10P -> lAB:10A,10P.  method=sanverb
+liNg:01P,10P -> liNg:01P,10A,10P.  method=sanverb
+luw:01A,04P,10P -> luw:01A,04P,10A,10P.  method=sanverb
+luW:01A,01P,06P,10P -> luW:01A,01P,06P,10A,10P.  method=default
+luRw:01P,10P -> luRw:01P,10A,10P.  method=sanverb
+lumb:01P,10P -> lumb:01P,10A,10P.  method=sanverb
+lUz:01P,10P -> lUz:01P,10A,10P.  method=sanverb
+lok:01A,10 -> lok:01A,10A,10P.  method=sanverb
+loc:01A,10P -> loc:01A,10A,10P.  method=sanverb
+vaj:01P,10P -> vaj:01P,10A,10P.  method=default
+vaw:01P,10P -> vaw:01P,10A,10P.  method=sanverb
+vaRw:01,10P -> vaRw:01,10A,10P.  method=sanverb
+vaRq:01A,10P -> vaRq:01A,10A,10P.  method=sanverb
+varR:10P -> varR:10A,10P.  method=sanverb
+varD:10P -> varD:10A,10P.  method=sanverb
+varh:01A,10P -> varh:01A,10A,10P.  method=sanverb
+valk:10P -> valk:10A,10P.  method=sanverb
+valh:01A,10P -> valh:01A,10A,10P.  method=default
+vas:01P,02A,04P,06P,10P -> vas:01P,02A,04P,06P,10A,10P.  method=sanverb
+vAt:10P -> vAt:10A,10P.  method=sanverb
+vAs:10P -> vAs:10A,10P.  method=sanverb
+viC:10P -> viC:10A,10P.  method=sanverb
+viRw:10P -> viRw:10A,10P.  method=default
+vitt:10P -> vitt:10A,10P.  method=default
+vil:06P,10P -> vil:06P,10A,10P.  method=default
+vizk:10P -> vizk:10A,10P.  method=sanverb
+vIj:01A,01P,10 -> vIj:01A,01P,10A,10P.  method=default
+vIr:10A,10P -> vIr:10A.  method=sanverb
+vuRw:10P -> vuRw:10A,10P.  method=default
+vfD:01A,01P,10 -> vfD:01A,01P,10A,10P.  method=sanverb
+vekz:10P -> vekz:10A,10P.  method=default
+vel:01P,10P -> vel:01P,10A,10P.  method=sanverb
+vyap:10P -> vyap:10A,10P.  method=sanverb
+vyay:01A,01P,10P -> vyay:01A,01P,10A,10P.  method=sanverb
+vyuz:04P,10P -> vyuz:04P,10A,10P.  method=default
+vraj:01P,10P -> vraj:01P,10A,10P.  method=sanverb
+vraR:01P,10P -> vraR:01P,10A,10P.  method=sanverb
+vrIq:01A,04P,10P -> vrIq:01A,04P,10A,10P.  method=default
+vrUs:01,10P -> vrUs:01,10A,10P.  method=sanverb
+Saw:01P,10A -> Saw:01P,10A,10P.  method=default
+SaR:01,10P -> SaR:01,10A,10P.  method=default
+Sabd:10P -> Sabd:10A,10P.  method=sanverb
+Samb:01P,10P -> Samb:01P,10A,10P.  method=sanverb
+Sal:01A,01P,10A -> Sal:01A,01P,10A,10P.  method=default
+SAl:01A,10A -> SAl:01A,10A,10P.  method=default
+SiYj:01,02A,10A -> SiYj:01,02A,10A,10P.  method=default
+Siz:01P,07P,10 -> Siz:01P,07P,10A,10P.  method=default
+SIk:01A,10 -> SIk:01A,10A,10P.  method=sanverb
+SIl:01P,10P -> SIl:01P,10A,10P.  method=sanverb
+SuW:01P,10P -> SuW:01P,10A,10P.  method=sanverb
+SuRW:01P,10P -> SuRW:01P,10A,10P.  method=sanverb
+Sulk:10P -> Sulk:10A,10P.  method=sanverb
+Sulb:10P -> Sulb:10A,10P.  method=sanverb
+Sulv:10P -> Sulv:10A,10P.  method=default
+SUrp:10P -> SUrp:10A,10P.  method=sanverb
+SraR:01P,10P -> SraR:01P,10A,10P.  method=sanverb
+SvaW:10P -> SvaW:10A,10P.  method=sanverb
+SvaRW:10P -> SvaRW:10A,10P.  method=sanverb
+SvaBr:10P -> SvaBr:10A,10P.  method=sanverb
+Svalk:10P -> Svalk:10A,10P.  method=sanverb
+zaww:10P -> zaww:10A,10P.  method=default
+saw:01P,10 -> saw:01P,10A,10P.  method=default
+saww:10P -> saww:10A,10P.  method=sanverb
+saW:10P -> saW:10A,10P.  method=default
+saBAj:10P -> saBAj:10A,10P.  method=default
+sam:01P,10P -> sam:01P,10A,10P.  method=default
+sah:01A,04P,10 -> sah:01A,04P,10A,10P.  method=default
+sAw:10P -> sAw:10A,10P.  method=default
+sAmaya:10P -> sAmaya:10A,10P.  method=default
+suK:04P,10 -> suK:04P,10A,10P.  method=sanverb
+suww:10P -> suww:10A,10P.  method=sanverb
+sur:06P,10P -> sur:06P,10A,10P.  method=default
+sUc:10P -> sUc:10A,10P.  method=sanverb
+sUtr:10P -> sUtr:10A,10P.  method=sanverb
+sUd:01A,10 -> sUd:01A,10A,10P.  method=sanverb
+sUr:04A,10A -> sUr:04A,10A,10P.  method=default
+skanD:10P -> skanD:10A,10P.  method=default
+stam:01P,10P -> stam:01P,10A,10P.  method=default
+stUp:04,10P -> stUp:04,10A,10P.  method=sanverb
+sten:10P -> sten:10A,10P.  method=sanverb
+step:01A,10P -> step:01A,10A,10P.  method=default
+sTUl:10A,10P -> sTUl:10A.  method=sanverb
+sniw:10P -> sniw:10A,10P.  method=default
+snih:01P,04P,10P -> snih:01P,04P,10A,10P.  method=sanverb
+spaS:01A,01P,10P -> spaS:01A,01P,10A.  method=sanverb
+spfh:10P -> spfh:10A,10P.  method=sanverb
+sPaw:01P,10P -> sPaw:01P,10A,10P.  method=default
+sPaRq:10P -> sPaRq:10A,10P.  method=default
+sPiw:10P -> sPiw:10A,10P.  method=sanverb
+sPiww:10P -> sPiww:10A,10P.  method=default
+sPuww:10P -> sPuww:10A,10P.  method=default
+sPuRw:01P,10P -> sPuRw:01P,10A,10P.  method=sanverb
+sPuRq:01A,10P -> sPuRq:01A,10A,10P.  method=sanverb
+smiw:10P -> smiw:10A,10P.  method=sanverb
+syam:01P,10A,10P -> syam:01P,10A.  method=sanverb
+svar:01P,10P -> svar:01P,10A,10P.  method=sanverb
+hiMs:01,07A,07P,10P -> hiMs:01,07A,07P,10A,10P.  method=sanverb
+hlap:10P -> hlap:10A,10P.  method=sanverb
+341 changes in  adjust_class10
+------------------------------------------------------------
+ADJUSTING missing class/pada in mwvlex
+aMs:00 -> aMs:10A,10P.
+akz:01,05 -> akz:01P.
+am:00A -> am:01P,10A,10P.
+amB:00 -> amB:01A.
+ay:00 -> ay:01A,01P.
+ard:01P,06P,07 -> ard:01P,06P.
+aS:00A,00P -> aS:05A,09P.
+AYC:00 -> AYC:01P.
+I:00 -> I:04A.
+uYC:01,06P -> uYC:01P,06P.
+uB:06P,07,09P -> uB:06P,09P.
+umB:00 -> umB:06P.
+urd:00 -> urd:01A.
+urv:00 -> urv:01P.
+Urj:00A,00P -> Urj:10A,10P.
+f:01,03,05A,05P -> f:01P,03P,05A,05P.
+fD:02,04,05,06,07P -> fD:04P,05P,07P.
+F:00 -> F:09P.
+kart:00 -> kart:10A,10P.
+kal:00A,00P,01A,10A,10P -> kal:01A,10A,10P.
+kit:03 -> kit:03P.
+kIl:01 -> kIl:01P.
+ku:00 -> ku:01A,02P,06A.
+kuMS:01,10A,10P -> kuMS:10A,10P.
+kuMs:01,10A,10P -> kuMs:10A,10P.
+kuRw:00 -> kuRw:01P.
+kunT:01,09 -> kunT:01P,09P.
+kumb:06,10A,10P -> kumb:10A,10P.
+kumB:00 -> kumB:10A,10P.
+kurd:00 -> kurd:01A.
+kul:01 -> kul:01P.
+kuz:06,09P -> kuz:09P.
+kus:00 -> kus:04P.
+kU:01A,01P,02P,06,09A,09P -> kU:01A,01P,02P,06A,09A,09P.
+kfq:00 -> kfq:06P.
+kF:05,06A,06P,09A,09P,10A,10P -> kF:06A,06P,09A,09P,10A,10P.
+kFt:00 -> kFt:10A,10P.
+krad:00 -> krad:01A.
+klap:00 -> klap:10A,10P.
+klam:01,04 -> klam:04P.
+kzaR:00 -> kzaR:08A,08P.
+kzamp:01,10A,10P -> kzamp:10A,10P.
+kzi:01P,02,05P,06P,09A,09P -> kzi:01P,05P,06P,09A,09P.
+kziv:01,04P -> kziv:01P,04P.
+kzI:00 -> kzI:05P.
+kzIv:00 -> kzIv:01A.
+kzev:00 -> kzev:01P.
+kzvid:00 -> kzvid:01P,04A.
+Kid:04A,04P,06,07A -> Kid:04A,04P,06P,07A.
+Kuj:01 -> Kuj:01P.
+Keq:00 -> Keq:10A,10P.
+Kev:00 -> Kev:01A.
+Kol:00 -> Kol:01P.
+garh:01,10A,10P -> garh:01A,10A,10P.
+galh:00 -> galh:01A.
+guj:01,06P -> guj:01P,06P.
+gup:00A,00P,04A,04P -> gup:04A,04P.
+guP:06 -> guP:06P.
+gur:04,06 -> gur:06A.
+gurd:01,10A,10P -> gurd:01A,10A,10P.
+gUr:00 -> gUr:04A,10A.
+gfj:01 -> gfj:01P.
+gE:01A,01P,02,03P -> gE:01A,01P,03P.
+GaRw:01,10A,10P -> GaRw:10A,10P.
+Gas:01 -> Gas:01P.
+Gf:01,03P,05,08A,08P,10A,10P -> Gf:01P,03P,08A,08P,10A,10P.
+GfR:00 -> GfR:08A,08P.
+GrA:01,02P,03A,03P -> GrA:01P,02P,03A,03P.
+caRq:01,10A,10P -> caRq:01A,10A,10P.
+cad:01 -> cad:01A,01P.
+can:01 -> can:01P.
+cand:01 -> cand:01P.
+cap:01,10A,10P -> cap:01P,10A,10P.
+cam:01,05 -> cam:01P,05P.
+cay:01 -> cay:01A.
+carc:01,10A,10P -> carc:01P,10A,10P.
+carb:01 -> carb:01P.
+carv:01,10A,10P -> carv:01P,10A,10P.
+cah:01,10A,10P -> cah:01P,10A,10P.
+ci:01,03A,05A,05P -> ci:03A,05A,05P.
+cit:01,02A,03A,03P -> cit:01P,02A,03A,03P.
+cint:01,10A,10P -> cint:10A,10P.
+ciri:05 -> ciri:05P.
+cil:06 -> cil:06P.
+cill:01 -> cill:01P.
+cIk:01,10A,10P -> cIk:10A,10P.
+cIb:00 -> cIb:01A,01P.
+cIB:00 -> cIB:01A.
+cIv:01,10A,10P -> cIv:01A,01P,10A,10P.
+cucy:00 -> cucy:01P.
+cuw:01,06,10A,10P -> cuw:06P,10A,10P.
+cuq:06 -> cuq:06P.
+cuqq:01 -> cuqq:01P.
+cuRw:01,06,10A,10P -> cuRw:10A,10P.
+cuRq:01,06,10A,10P -> cuRq:01P,10A,10P.
+cup:01,06 -> cup:01P.
+cur:01,10A,10P -> cur:10A,10P.
+cull:00 -> cull:01P.
+cUr:04,10A,10P -> cUr:04A,10A,10P.
+cUz:01 -> cUz:01P.
+cft:01,06,10A,10P -> cft:06P,10A,10P.
+cfp:01,10A,10P -> cfp:10A,10P.
+cel:01 -> cel:01P.
+cezw:01 -> cezw:01A.
+cyut:01 -> cyut:01P.
+Cam:01 -> Cam:01P.
+Cid:07,09A -> Cid:07A,07P,09A.
+Cuw:06,10A,10P -> Cuw:06P,10A,10P.
+Cuq:06 -> Cuq:06P.
+Cup:06 -> Cup:06P.
+Cur:06 -> Cur:06P.
+Cfp:01,10A,10P -> Cfp:10A,10P.
+Co:04 -> Co:04P.
+jaMs:01,10A,10P -> jaMs:10A,10P.
+jan:01A,02A,03A,04,10A,10P -> jan:01A,02A,03A,04A,10A,10P.
+jam:01 -> jam:01P.
+jarj:01 -> jarj:.
+jarts:01 -> jarts:01P.
+jal:01,10A,10P -> jal:01P,10A,10P.
+jAgf:01A,02 -> jAgf:01A,02P.
+jim:01 -> jim:01P.
+jiz:01 -> jiz:01P.
+ju:00 -> ju:01A,01P.
+juNg:01 -> juNg:01P.
+juYc:01,10A,10P -> juYc:10A,10P.
+juw:06 -> juw:06P.
+juq:06,10A,10P -> juq:06A,06P,10A,10P.
+jut:01 -> jut:01A.
+jun:06 -> jun:06P.
+jF:01A,01P,04A,04P,09,10A,10P -> jF:01A,01P,04A,04P,09P,10A,10P.
+jE:01 -> jE:01P.
+jri:01P,09,10A,10P -> jri:01P,10A,10P.
+jvar:01 -> jvar:01P.
+Jaw:01 -> Jaw:01P.
+JarJ:01 -> JarJ:.
+JF:04,09 -> JF:04P,09P.
+qip:04,06,10A,10P -> qip:04P,06P,10A,10P.
+qI:01,04A -> qI:01A,04A.
+tak:01,02 -> tak:01P.
+takz:01A,01P,02,05A -> takz:01A,01P,05A.
+taYc:01,07 -> taYc:01P,07P.
+tan:01,04,08A,08P,10A,10P -> tan:08A,08P,10A,10P.
+tay:01 -> tay:01A.
+tal:01,10A,10P -> tal:10A,10P.
+tas:04 -> tas:04P.
+tAy:01 -> tAy:01A.
+tik:01,05 -> tik:01A,05P.
+tig:05 -> tig:05P.
+til:01,06,10A,10P -> til:01P,06A,06P,10A,10P.
+tIm:04 -> tIm:04P.
+tIv:01 -> tIv:01P.
+tu:02 -> tu:02P.
+tuj:01,06A,06P -> tuj:01P,06A,06P.
+tuw:06 -> tuw:06P.
+tuq:01,06 -> tuq:01P,06P.
+tup:01,06 -> tup:01P,06P.
+tuP:01,06 -> tuP:01P,06P.
+tuB:01,04,09 -> tuB:01A,04P,09P.
+tump:01,06 -> tump:01P,06P.
+tumP:01,06 -> tumP:01P,06P.
+tumb:01,10A,10P -> tumb:01P,10A,10P.
+tur:03,04A,06A -> tur:03P,04A,06A.
+tuz:04 -> tuz:04P.
+tus:01 -> tus:01P.
+tuh:01 -> tuh:01P.
+tUq:01 -> tUq:01P.
+tUl:01,10A,10P -> tUl:01P,10A,10P.
+tUz:01 -> tUz:01P.
+tfkz:01 -> tfkz:01P.
+tfR:08 -> tfR:08A,08P.
+tfp:01A,04,05,06A,06P -> tfp:01A,04A,04P,05P,06A,06P.
+tfP:06 -> tfP:06P.
+tfmp:06 -> tfmp:06P.
+tfmP:06 -> tfmP:06P.
+tfh:06,07 -> tfh:06P,07P.
+tF:01A,01P,03,05,06A,06P -> tF:01A,01P,06A,06P.
+tej:00 -> tej:01P.
+tep:01 -> tep:01A.
+tev:01 -> tev:01A.
+traMs:01,10A,10P -> traMs:10A,10P.
+traK:01 -> traK:01P.
+traNk:01 -> traNk:01A.
+traNg:01 -> traNg:01P.
+trand:01 -> trand:01P.
+trap:01 -> trap:01A.
+tras:01,04A,10A,10P -> tras:04A,10A,10P.
+truw:04A,06 -> truw:04A,06P.
+trup:01 -> trup:01P.
+truP:00 -> truP:01P.
+trump:00 -> trump:01P.
+trumP:00 -> trumP:01P.
+tvakz:01 -> tvakz:01P.
+tvaNg:01 -> tvaNg:01P.
+tvac:06 -> tvac:06P.
+tvaYc:01,07 -> tvaYc:01P.
+tvar:01 -> tvar:01A.
+tsar:01 -> tsar:01P.
+Tuq:06 -> Tuq:06P.
+daG:04,05 -> daG:05P.
+daNG:01 -> daNG:01P.
+dad:01 -> dad:01A.
+daD:01 -> daD:01A.
+damB:01,05A -> damB:05A.
+dal:01 -> dal:01P.
+das:01,04A -> das:04A.
+dAS:01A,01P,02,05P -> dAS:01A,01P,05P.
+div:01P,04,10A,10P -> div:01P,04P,10A,10P.
+diS:03P,06 -> diS:03P,06A,06P.
+dfB:01,06P,10A,10P -> dfB:06P,10A,10P.
+dfmp:00 -> dfmp:06P.
+dfmP:00 -> dfmP:06P.
+dfS:00A,00P -> dfS:01P.
+dev:00 -> dev:01A.
+do:02,04A,04P -> do:04A,04P.
+Dinv:00 -> Dinv:01P.
+Du:00 -> Du:05A,05P,06P.
+DUp:00 -> DUp:01P,10A,10P.
+DmANkz:00 -> DmANkz:01P.
+DyE:01P,02 -> DyE:01P.
+Dras:09,10A,10P -> Dras:09A,09P,10A,10P.
+DrAK:00 -> DrAK:01P.
+DrANkz:00 -> DrANkz:01P.
+DrAq:00 -> DrAq:01A.
+DrE:01P,02 -> DrE:01P.
+naK:01P,04 -> naK:01P.
+naNK:01P,04 -> naNK:01P.
+naB:01A,01P,04,09A,09P -> naB:01A,01P,04P,09A,09P.
+nid:00 -> nid:01A,01P.
+ninv:01 -> ninv:01P.
+nI:00P,01A,01P -> nI:01A,01P.
+nu:01A,02,06A,06P -> nu:01A,02P,06A,06P.
+paMS:01,10A,10P -> paMS:10A,10P.
+paMs:01,10A,10P -> paMs:10A,10P.
+pakz:01,10A,10P -> pakz:01P,10A,10P.
+panT:01,10A,10P -> panT:10A,10P.
+pall:01 -> pall:01P.
+paS:00A,00P,10A,10P -> paS:10A,10P.
+piMs:01,10A,10P -> piMs:10A,10P.
+pis:01,04P,10A,10P -> pis:01P,04P,10A,10P.
+pIl:01 -> pIl:01P.
+pul:01,06,10A,10P -> pul:01P,10A,10P.
+pUl:01,10A,10P -> pUl:01P,10A,10P.
+pfc:01P,02,03A,03P,07A,07P -> pfc:01P,03A,03P,07A,07P.
+pel:01,10A,10P -> pel:01P,10A,10P.
+pyuz:04,10A,10P -> pyuz:04P,10A,10P.
+pluz:01,04P,09P -> pluz:01P,04P,09P.
+baD:00 -> baD:01A,10A,10P.
+bAh:00 -> bAh:01A.
+bil:06,10A,10P -> bil:10A,10P.
+bis:04 -> bis:04P.
+bukk:01,10A,10P -> bukk:01P,10A,10P.
+byus:00 -> byus:04P.
+brUs:00 -> brUs:10A,10P.
+Barts:01,10A -> Barts:10A.
+BfMS:01,10A,10P -> BfMS:10A,10P.
+BraMs:00 -> BraMs:01A.
+BrAS:01,04A -> BrAS:01A,04A.
+BlAS:01,04A -> BlAS:01A,04A.
+Blez:00 -> Blez:01A,01P.
+maT:01,09A,09P -> maT:01P,09A,09P.
+man:04A,08 -> man:04A,08A.
+manT:01,09A,09P -> manT:01P,09A,09P.
+mah:01,10A,10P -> mah:01P,10A,10P.
+mAn:01,10A,10P -> mAn:01A,10A,10P.
+mArg:01,10A,10P -> mArg:10A,10P.
+minv:00 -> minv:01P.
+mI:01,09A,09P,10A,10P -> mI:09A,09P,10A,10P.
+muw:01,06,10A,10P -> muw:01P,06A,06P,10A,10P.
+muz:01P,06P,09 -> muz:01P,06P,09P.
+meT:00 -> meT:01A,01P.
+mrew:00 -> mrew:01P.
+yu:02A,02P,03A,03P,06,09 -> yu:02A,02P,03A,03P,09A,09P.
+raG:00 -> raG:10A,10P.
+raYj:01,04A,04P -> raYj:01A,01P,04A,04P.
+rAD:04P,05 -> rAD:04P,05P.
+riz:01,04P -> riz:01P,04P.
+rih:02A,02P,06 -> rih:02A,02P,06P.
+ruMS:01,10A,10P -> ruMS:10A,10P.
+ruRq:00 -> ruRq:01P.
+ruz:01,04P,10A,10P -> ruz:01P,04P,10A,10P.
+rev:00 -> rev:01A.
+laz:01,04A,04P,10A,10P -> laz:01A,01P,04A,04P,10A,10P.
+lip:01A,01P,06 -> lip:01A,01P,06A,06P.
+luYj:00 -> luYj:10A,10P.
+luRW:00 -> luRW:01P,10A,10P.
+vaRw:01,10A,10P -> vaRw:01P,10A,10P.
+vaS:01,02P,03 -> vaS:02P.
+vAq:00 -> vAq:01A.
+vic:03,07A,07P -> vic:07A,07P.
+vis:04 -> vis:04P.
+vuNg:00 -> vuNg:01P.
+vf:01A,01P,05,09A,09P -> vf:01A,01P,05A,05P,09A,09P.
+vfMh:00 -> vfMh:09P,10A,10P.
+vfj:01,02A,07P -> vfj:02A,07P.
+vF:00 -> vF:09A,09P.
+veR:00 -> veR:01A,01P.
+vep:00 -> vep:01A.
+vyac:03,06P -> vyac:06P.
+vrUs:01,10A,10P -> vrUs:10A,10P.
+SaR:01,10A,10P -> SaR:01P,10A,10P.
+Sad:01,06A,06P -> Sad:01P,06A,06P.
+Sap:01,04A,04P -> Sap:01A,01P,04A,04P.
+Sam:04P,09 -> Sam:04P.
+SAn:00A -> SAn:01A,01P.
+SAntv:00 -> SAntv:10A,10P.
+SiYj:01,02A,10A,10P -> SiYj:02A,10A,10P.
+SI:01,02A,04A -> SI:02A,04A.
+SE:00 -> SE:01P.
+Scyut:00 -> Scyut:01P.
+SrA:01,02P,04P -> SrA:02P,04P.
+SrE:01,02P,04P -> SrE:01P,02P,04P.
+Svart:00 -> Svart:10A,10P.
+Svind:01 -> Svind:01A.
+zWiv:01,04P -> zWiv:01P,04P.
+saMst:00 -> saMst:02P.
+sag:01 -> sag:01P.
+sad:01,06P -> sad:01P,06P.
+samb:00 -> samb:10A,10P.
+sarv:00 -> sarv:01P.
+sAD:01A,01P,04,05 -> sAD:01A,01P,05P.
+sAmb:00 -> sAmb:10A,10P.
+si:05,09A,09P -> si:05A,05P,09A,09P.
+siB:00 -> siB:01P.
+simB:00 -> simB:01P.
+sIk:00 -> sIk:01A.
+sf:01,03A,03P,10A,10P -> sf:01P,03A,03P,10A,10P.
+sel:00 -> sel:01P.
+skamB:01A,05,09P -> skamB:01A,09P.
+sku:05,09A,09P -> sku:09A,09P.
+skumB:05,09P -> skumB:09P.
+stamB:01A,05,09P -> stamB:01A,09P.
+stumB:05,09P -> stumB:09P.
+stUp:04,10A,10P -> stUp:04P,10A,10P.
+snas:00 -> snas:04P.
+sPurC:00 -> sPurC:01P.
+smIl:00 -> smIl:01P.
+sraNk:00 -> sraNk:01A.
+sramB:00 -> sramB:01A.
+srE:00 -> srE:01P.
+svart:00 -> svart:10A,10P.
+han:01,02A,02P -> han:02A,02P.
+hA:01,03A,03P -> hA:03A,03P.
+hiMs:01,07A,07P,10A,10P -> hiMs:07A,07P,10A,10P.
+hiw:00 -> hiw:01P.
+hinv:00 -> hinv:01P.
+hizk:00 -> hizk:10A.
+hrap:00 -> hrap:10A,10P.
+347 changes in  adjust_missingcp
 1954 records written to mwvlex1_cp.txt
-347  Class 10 pada adjustments

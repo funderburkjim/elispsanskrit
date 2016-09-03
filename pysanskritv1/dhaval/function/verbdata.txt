@@ -115,7 +115,6 @@ uCi!:uYCe:uYC:06:0014:pa:sew:उ॑छिँ॑:921:943:963:uFC2_uCiz_wuxAxiH+uF
 uCi!:uYCe:uYC:01:0243:pa:sew:उ॑छिँ॑:121:128:129:uFC1_uCiz_BvAxiH+uFCe:72
 uWa!:upaGAte ityeke:uW:01:0852:pa:sew:उ॑ठँ॑:213:226:::
 uWa!:upaGAte pratiGAte:uW:01:0392:A:sew:उ॑ठँ॒:213:226:::
-kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:kaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
 uGrasa!:uYCe ityeke:uDras:10:0271:u:sew:उ॑घ्र॑सँ॑:::::
 undI!:kledane:und:07:0020:pa:sew:उ॑न्दीँ॑:1058:1076:1109:unx1_unxIz_ruXAxiH+klexane:
 ubja!:Arjave:ubj:06:0023:pa:sew:उ॑ब्जँ॑:927:950:970:ubj1_ubjaz_wuxAxiH+Arjave:
@@ -268,7 +267,7 @@ kuha:vismApane:kuha:10:0443:A:sew:कु॑ह॒:1406:1424:1462:kuha1_kuha_curA
 kUN:Sabde ityeke:kU:06:0137:A:sew:कू॑ङ्:::::
 kUja!:avyakte Sabde:kUj:01:0254:pa:sew:कू॑जँ॑:124:131:132:kUj1_kUjaz_BvAxiH+avyakwe_Sabxe:73
 kUwa:paritApe paridAha ityanye:kUwa:10:0432:u:sew:कू॑ट॑:1400::1456:kUta1_kUta_curAxiH+pariwApe:
-kUwa:apradAne avasAdana ityeke:kUwa:10:0225:A:sew:कू॑ट॒:1400::1456:kUta1_kUta_curAxiH+pariwApe:
+kUwa!:apradAne avasAdana ityeke:kUw:10:0225:A:sew:कू॑टँ॒:1400::1456:kUta1_kUta_curAxiH+pariwApe:
 kURa!:SrAvaRe nimantraRe ca saNkocane'pi:kUR:10:0438:u:sew:कू॑णँ॑:1262:1281:1315:kUN1_kUNaz_curAxiH+safkoce:
 kURa!:saNkocane:kUR:10:0211:A:sew:कू॑णँ॒:1262:1281:1315:kUN1_kUNaz_curAxiH+safkoce:
 kUla!:AvaraRe:kUl:01:0603:pa:sew:कू॑लँ॑:321:336:338:kUl1_kUlaz_BvAxiH+AvaraNe:
@@ -467,7 +466,7 @@ gfji!:SabdArTaH:gfYj:01:0282:pa:sew:गृ॑जिँ॑:143:150:151:gqFj1_gqji
 gfDu!:aBikANkzAyAm:gfD:04:0161:pa:sew:गृ॑धुँ॑:881:902:921:gqX1_gqXuz_xivAxiH+aBikAMkRAyAm:
 gfha:grahaRe:gfha:10:0441:A:sew:गृ॑ह॒:1404:1422:1460:gqha1_gqha_curAxiH+grahaNe:
 gF:nigaraRe:gF:09:0033:pa:sew:गॄ॑:1100:1116:1151:gQ2_gQ_kryAxiH+Sabxe:
-gF:vijYAne:gF:06:0146:A:sew:गॄ॑:1012:1033:1064:gQ1_gQ_wuxAxiH+nigaraNe:
+gF:vijYAne:gF:10:0231:A:sew:गॄ॑:1012:1033:1064:gQ1_gQ_wuxAxiH+nigaraNe:
 gF:Sabde:gF:09:0231:pa:sew:गॄ॑:1100:1116:1151:gQ2_gQ_kryAxiH+Sabxe:
 gepf!:kampane ca:gep:01:0427:A:sew:गे॑पृँ॒:237:250:249,251:gep1_gepqz_BvAxiH+kampane:
 gevf!:sevane:gev:01:0575:A:sew:गे॑वृँ॒:307::324:gev1_gevqz_BvAxiH+sevane:
@@ -477,7 +476,7 @@ goma:upalepane:goma:10:0417:u:sew:गो॑म॑:1386:1403:1441:goma1_goma_curA
 gozwa!:saNGAte:gozw:01:0290:A:sew:गो॑ष्टँ॒:148:156:157:goRt1_goRtaz_BvAxiH+saMGAwe:
 graTi!:kOwilye:granT:01:0036:A:sew:ग्र॑थिँ॒:28:29:29:granW1_graWiz_BvAxiH+kOtilye:
 granTa!:banDane:granT:10:0362:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
-granTa!:sandarBe:granT:10:0362:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
+granTa!:sandarBe:granT:10:0375:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
 granTa!:sandarBe:granT:09:0375:pa:sew:ग्र॑न्थँ॑:1114:1130:1167:granW2_granWaz_kryAxiH+sanxarBe:221
 grasu!:adane:gras:01:0717:A:sew:ग्र॑सुँ॒:383:400:405:gras1_grasuz_BvAxiH+axane:148
 grasa!:grahaRe:gras:10:0279:u:sew:ग्र॑सँ॑:1318:1337:1371:gras2_grasaz_curAxiH+grahaNe:
@@ -817,7 +816,7 @@ trapU!z:lajjAyAm mit iti BojaH 0934:trap:01:0434:A:sew:त्र॑पूँ॒�
 trasI!:udvege:tras:04:0269:pa:sew:त्र॑सीँ॑:764:786:803:wras1_wrasIz_xivAxiH+uxvege:
 trasa!:DAraRe grahaRa ityeke vAraRa ityanye DAraRagrahaRavAraRezu:tras:04:0011:u:sew:त्र॑सँ॑:764:786:803::
 triKi!:gatyarTaH ityapi kecit:triNK:01:0173:pa:sew:त्रि॑खिँ॑:::::
-truwa!:Cedane:truw:06:0102:A:sew:त्रु॑टँ॒:985:1006:1028:wrut1_wrutaz_wuxAxiH+Cexane:
+truwa!:Cedane:truw:10:0102:A:sew:त्रु॑टँ॒:985:1006:1028:wrut1_wrutaz_wuxAxiH+Cexane:
 truwa!:Cedane:truw:06:0221:pa:sew:त्रु॑टँ॑:985:1006:1028:wrut1_wrutaz_wuxAxiH+Cexane:
 trupa!:hiMsArTaH:trup:01:0472:pa:sew:त्रु॑पँ॑:263:278:279:wrup1_wrupaz_BvAxiH+hiMsArWaH:
 truPa!:hiMsArTaH:truP:01:0476:pa:sew:त्रु॑फँ॑:263::279::
@@ -1227,7 +1226,6 @@ bfhU!:udyamane ityeke:bfh:06:0074:pa:sew:बृ॑हूँ॑::982:::
 besa!:gatO:bes:01:0821:pa:sew:बे॑सँ॑:::::
 behf!:prayatne:beh:01:0730:A:sew:बे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
 byusa!:viBAge ityanye:byus:04:0116:pa:sew:ब्यु॑सँ॑:::::
-vraRa!:SabdArTaH:vraR:01:0519:pa:sew:व्र॑णँ॑:277:290:293:vraN1_vraNaz_BvAxiH+SabxArWaH:
 brUY:vyaktAyAM vAci:brU:02:0039:u:aniw:ब्रू॑ञ्:694:716:733:brU1_brUF_axAxiH+vyakwAyAM_vAci:190
 brUsa!:hiMsAyAm:brUs:10:0172:u:sew:ब्रू॑सँ॑:1241::1293:brUs1_brUsaz_curAxiH+hiMsAyAm:
 blI:varaRe ityeke:blI:09:0038:pa:aniw:ब्ली॒:1104::::
@@ -1316,7 +1314,7 @@ maqi!:ca viBAjane:maRq:01:0305:A:sew:म॑डिँ॒:161,201:168,211:170,210:
 maqi!:BUzAyAM harze ca:maRq:10:0076:u:sew:म॑डिँ॑:1176:1192:1232:maNd3_madiz_curAxiH+BURAyAM_harRe_ca:273
 maqi!:BUzAyAm:maRq:01:0361:pa:sew:म॑डिँ॑:161,201:168,211:170,210:maNd1_madiz_BvAxiH+viBAjane,maNd2_madiz_BvAxiH+BURAyAm:96
 maTe!:viloqane:maT:01:0983:pa:sew:म॑थेँ॑:524:544:556:maW1_maWez_BvAxiH+vilodane:
-mada!:tfptiyoge:mad:04:0105:A:sew:म॑दँ॒:::::
+mada!:tfptiyoge:mad:10:0105:A:sew:म॑दँ॒:::::
 madI!:harze harzaglepanayoH mit 1927:mad:04:0229:pa:sew:म॑दीँ॑:849:868:888::
 manu!:avaboDane:man:08:0233:A:sew:म॑नुँ॒:1072:1089:1123::216
 mana!:jYAne:man:04:0073:A:aniw:म॒नँ॒:817:836:857::380
@@ -1455,9 +1453,9 @@ yama!:parivezaRe mit 1953:yam:10:0119:u:sew:य॑मँ॑:1208:1223:1262:yam3_
 yasu!:prayatne:yas:04:0107:pa:sew:य॑सुँ॑:851:870:890:yas1_yasuz_xivAxiH+prayawne:
 yA:prApaRe:yA:02:0044:pa:aniw:या॒:699:721:738:yA1_yA_axAxiH+prApaNe:195
 wuyAcf!:yAcYAyAm:yAc:01:1001:u:sew:टुया॑चृँ॒॑:539::571:yAc1_tuyAcqz_BvAxiH+yAcFAyAm:157
-yu:jugupsAyAm:yu:02:0027:A:sew:यु॑:683:705:722:yu1_yu_axAxiH+miSraNeZmiSraNe_ca:
-yuY:banDane:yu:09:0235:u:aniw:यु॒ञ्:1080:1097:1131:yu2_yuF_kryAxiH+banXane:429
-yu:miSreRe'BiSraRe ca:yu:09:0011:pa:sew:यु॑:1080:1097:1131::
+yu:jugupsAyAm:yu:10:0235:A:sew:यु॑:683:705:722:yu1_yu_axAxiH+miSraNeZmiSraNe_ca:
+yuY:banDane:yu:09:0011:u:aniw:यु॒ञ्:1080:1097:1131:yu2_yuF_kryAxiH+banXane:429
+yu:miSreRe'BiSraRe ca:yu:02:0027:pa:sew:यु॑:1080:1097:1131::
 yugi!:varjane:yuNg:01:0175:pa:sew:यु॑गिँ॑:85:89:89:yufg1_yugiz_BvAxiH+varjane:
 yuCa!:pramAde:yuC:01:0242:pa:sew:यु॑छँ॑:120:127:128:yuC1_yuCaz_BvAxiH+pramAxe:
 yuja!:saMyamane:yuj:10:0074:u:sew:यु॑जँ॑:1326::1378:yuj3_yujaz_curAxiH+saMyamane:450
@@ -1737,7 +1735,7 @@ o!vijI!:BayacalanayoH:vij:06:0009:A:sew:ओँ॑वि॑जीँ॒:917:938:9
 o!vijI!:BayacalanayoH:vij:07:0023:pa:sew:ओँ॑वि॑जीँ॑:1061:1079:1112:vij2_ozvijIz_ruXAxiH+BayacalanayoH:
 viwa!:Sabde:viw:01:0354:pa:sew:वि॑टँ॑:198:208:207:vit1_vitaz_BvAxiH+Sabxe:
 viTf!:yAcane:viT:01:0033:A:sew:वि॑थृँ॒:26:27:27:viW1_viWqz_BvAxiH+yAcane:
-vida!:cetanAKyAnanivAsezu:vid:02:0059:A:sew:वि॑दँ॒:714:736:753:vix1_vixaz_axAxiH+jFAne:196
+vida!:cetanAKyAnanivAsezu:vid:10:0059:A:sew:वि॑दँ॒:714:736:753:vix1_vixaz_axAxiH+jFAne:196
 vida!:jYAne:vid:02:0059:pa:sew:वि॑दँ॑:714:736:753:vix1_vixaz_axAxiH+jFAne:196
 vidx!:lABe:vid:07:0013:u:sew:वि॑दॢँ॒॑॑:1051:1070:1103::
 vida!:vicAraRe:vid:07:0232:A:aniw:वि॒दँ॒:1051:1070:1103:vix4_vixaz_ruXAxiH+vicArane:
@@ -1751,7 +1749,7 @@ vizu!:secane:viz:01:0794:pa:aniw:वि॑षुँ॑:424:441:450::
 viza!:viprayoge:viz:09:0062:pa:aniw:वि॒षँ॑:1126:1141:1179::
 vizx!:vyAptO:viz:03:0014:u:aniw:वि॒षॢँ॒॑॑:744:766:782:viR2_viRLz_juhowyAxiH+vyApwO:
 vizka:darSane:vizka:10:0486:u:sew:वि॑ष्क॑:::1496:viRka1_viRka_curAxiH+xarSane:
-vizka:hiMsAyAm:vizka:10:0207:A:sew:वि॑ष्क॒:::1496:viRka1_viRka_curAxiH+xarSane:
+vizka!:hiMsAyAm:vizk:10:0207:A:sew:वि॑ष्कँ॒:::1496:viRka1_viRka_curAxiH+xarSane:
 visa!:gatO:vis:01:0818:pa:sew:वि॑सँ॑:::::
 bisa!:preraRe ityeke:bis:04:0124:pa:sew:बि॑सँ॑:857:877:::
 vI:gatiprajanakAntyasanaKAdanezu:vI:02:0043:pa:aniw:वी॒:698:720:737:vI1_vI_axAxiH+gawivyApwiprajanakAnwyasanaKAxaneRu:
@@ -1829,7 +1827,7 @@ Saki!:SaNkAyAm:SaNk:01:0091:A:sew:श॑किँ॒:66:65:67:Safk1_Sakiz_BvAxiH
 Saca!:vyaktAyAM vAci:Sac:01:0189:A:sew:श॑चँ॒:92:96:98::
 Sawa!:rujAviSaraRagatyavasAdanezu:Saw:01:0336:pa:sew:श॑टँ॑:184:193:194::
 SaWa:samyagavaBAzaRe:SaWa:10:0392:u:sew:श॑ठ॑:1369::1423:SaT4_SaTa_curAxiH+samyag_avaBARaNe:
-SaWa:asaMskAragatyoH:SaWa:10:0041:u:sew:श॑ठ॑:1369::1423:SaT4_SaTa_curAxiH+samyag_avaBARaNe:
+SaWa!:asaMskAragatyoH:SaWa:10:0041:A:sew:श॑ठँ॑:1369::1423:SaT4_SaTa_curAxiH+samyag_avaBARaNe:
 SaWa!:hiMsAsaNkleSanayoH kEtave ca:SaW:01:0394:pa:sew:श॑ठँ॑:215:228:228::
 SaWa:SlAGAyAm:SaWa:10:0214:A:sew:श॑ठ॒:1369::1423:SaT4_SaTa_curAxiH+samyag_avaBARaNe:
 SaRa!:gatO dAne ca SaRa! gatAvityanye:SaR:01:0906:pa:sew:श॑णँ॑:490::519:SaN1_SaNaz_BvAxiH+xAne_ca:

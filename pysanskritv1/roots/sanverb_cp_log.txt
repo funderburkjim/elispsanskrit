@@ -1,19 +1,11 @@
-2213 records from ../dhaval/function/verbdata.txt
+2211 records from ../dhaval/function/verbdata.txt
 2590 records from ../dhaval/conjtab/conj_pre.txt
-make_verbrecd: 4 duplicates found
-case 1 of duplicate verbdata key: vraRa!.01.0519.P
-   vraRa!:SabdArTaH:vraR:01:0519:pa:sew:व्र॑णँ॑:277:290:293:vraN1_vraNaz_BvAxiH+SabxArWaH:
-   vraRa!:SabdArTaH:vraR:01:0519:pa:sew:व्र॑णँ॑:277:290:293:vraN1_vraNaz_BvAxiH+SabxArWaH:
-case 2 of duplicate verbdata key: kaWi!.10.0385.U
-   kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:kaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
-   kaWi!:Soke prAyeRotpUrva utkaRWAvacanaH:kaRW:10:0385:u:sew:क॑ठिँ॑:1362:1378:1415:kaNT2_kaTiz_curAxiH+Soke:
-case 3 of duplicate verbdata key: DUpa!.10.0303.U
+make_verbrecd: 1 duplicates found
+case 1 of duplicate verbdata key: DUpa!.10.0303.U
    DUpa!:Dupa!' BAzArTaH:Dup:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
    DUpa!:BAzArTaH:DUp:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
-case 4 of duplicate verbdata key: granTa!.10.0362.U
-   granTa!:banDane:granT:10:0362:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
-   granTa!:sandarBe:granT:10:0362:u:sew:ग्र॑न्थँ॑:1342,1353:1368:1395,1406:granW3_granWaz_curAxiH+sanxarBe:261
 generate_cp: key not found IKi!.01.0150.P
+generate_cp: key not found kUwa.10.0225.A
 generate_cp: key not found kUwa.10.0225.P
 generate_cp: key not found jYA.09.0258.A
 generate_cp: key not found dasa!.10.0110.P
@@ -28,9 +20,14 @@ generate_cp: key not found bfhi!.10.0345.A
 generate_cp: key not found bfhi!.10.0345.P
 generate_cp: key not found mana!.10.0234.A
 generate_cp: key not found mana!.10.0234.P
+generate_cp: key not found yuY.09.0235.A
+generate_cp: key not found yuY.09.0235.P
 generate_cp: key not found vasta!.10.0205.P
+generate_cp: key not found vizka.10.0207.A
 generate_cp: key not found vizka.10.0207.P
 generate_cp: key not found vella!.01.0620.P
+generate_cp: key not found SaWa.10.0041.A
+generate_cp: key not found SaWa.10.0041.P
 generate_cp: key not found SaWa.10.0214.P
 generate_cp: key not found Sadx!.01.0991.A
 generate_cp: key not found Sadx!.06.0164.A
@@ -39,7 +36,7 @@ generate_cp: key not found saNgrAma.10.0467.P
 generate_cp: key not found syama!.10.0216.P
 generate_cp: key not found hasta!.10.0206.P
 generate_cp: key not found hizka!.10.0208.P
-generate_cp: 2571 class pada records
-1646 records written to conjtab_cp.txt
-generate_cp: 2800 class pada records
-1682 records written to sanverb_cp.txt
+generate_cp: 2560 class pada records
+1645 records written to conjtab_cp.txt
+generate_cp: 2796 class pada records
+1684 records written to sanverb_cp.txt

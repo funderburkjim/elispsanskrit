@@ -8,7 +8,7 @@ kaTa:10A,10P##kaT:10A,10P
 kala:10A,10P#kal:01A#kal:00A,00P,01A,10A,10P
 kuRa:10A,10P#kuR:06P#kuR:06P,10P
 kuha:10A##kuh:10A
-kUwa:10A,10P##kUw:10A,10P
+kUwa:10A,10P#kUw:10A#kUw:10A,10P
 kfpa:10A,10P#kfp:01A,10A,10P#kfp:06A,10P
 kzowa:10A,10P##kzow:10P
 Kewa:10A,10P##Kew:10
@@ -42,7 +42,7 @@ varRa:10A,10P##varR:10P
 vasa:10A,10P#vas:01P,02A,02P,04P#vas:01P,02A,04P,06P,10P
 vAta:10A,10P##vAt:10P
 vAsa:10A,10P##vAs:10P
-vizka:10A,10P##vizk:10P
+vizka:10A,10P#vizk:10A#vizk:10P
 vIra:10A##vIr:10A,10P
 vela:10A,10P#vel:01P#vel:01P,10P
 vyaya:10A,10P#vyay:01A,01P#vyay:01A,01P,10P

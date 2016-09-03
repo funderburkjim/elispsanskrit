@@ -5,8 +5,23 @@
 import sys,codecs
 import verbdata
 
-def check(roots):
+def get_class_padas(recs):
+ """ recs is a list of verbdata objects
+ """
+ cps = []
+ for rec in recs:
+  c = rec.gana
+  p = rec.pada
+  if p == 'pa':
+   p = 'P'
+  cp = c + p
+  cps.append(cp)
+ cps.sort()
+ return cps
+
+def check(roots,d):
  # check that pada is 'A' for the class 10 records of the roots 
+ nok = 0
  for root in roots:
   if root in d:
    root1 = root
@@ -19,8 +34,20 @@ def check(roots):
    else:
     print root,"replaced with",root1
   rootrecs=d[root1]
-  for rec in rootrecs:
-   print root1,rec.gana,rec.pada
+  cps = get_class_padas(rootrecs)
+  cpstr = ','.join(cps)
+  cps10 = [cp for cp in cps if cp.startswith('10')]
+  if cps10 == ['10A']:
+   status = 'OK'
+   nok = nok + 1
+  elif cps10 == []:
+   status = 'PROB:no class 10'
+  else:
+   status = '?'
+  if status != 'OK':
+   print "%s:%s:%s"%(root1,cpstr,status)
+ print nok,"records are OK  (have exactly 1 class 10, and it is 'A')"
+  
 
 if __name__ == "__main__":
  filein = sys.argv[1]
@@ -39,12 +66,12 @@ if __name__ == "__main__":
  with codecs.open(filein1,'r','utf-8') as f:
   roots1 = [line.rstrip('\r\n') for line in f]
  print len(roots1),"roots read from",filein1
- check(roots1)
+ check(roots1,d)
  # check second file
  with codecs.open(filein2,'r','utf-8') as f:
   roots2 = [line.rstrip('\r\n') for line in f]
  print len(roots2),"roots read from",filein2
- check(roots2)
+ check(roots2,d)
 
    
 
