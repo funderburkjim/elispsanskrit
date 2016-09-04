@@ -1,5 +1,5 @@
 1954 records from mwvlex_cp.txt
-1654 records from sanverb1_cp.txt
+1653 records from sanverb1_cp.txt
 ------------------------------------------------------------
 ADJUSTING class 10 in mwvlex
 aMh:01A,10P -> aMh:01A,10A,10P.  method=sanverb

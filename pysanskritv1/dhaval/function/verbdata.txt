@@ -933,7 +933,6 @@ DIN:ADAre:DI:04:0031:A:aniw:धी॒ङ्:779:801:818:XI1_XIf_xivAxiH+AXAre:
 Du:viDUnane:Du:06:0133:pa:sew:धु॑:1001:1022:1053::
 DuY:kampane:Du:05:0009:u:aniw:धु॒ञ्:890::930:Xu1_XuF_svAxiH+kampane:
 Dukza!:sandIpanakleSanajIvanezu:Dukz:01:0686:A:sew:धु॑क्षँ॒:362:379:383:XukR1_XukRaz_BvAxiH+saMxIpanakleSanajIvaneRu:
-DUpa!:Dupa!' BAzArTaH:Dup:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
 DurvI!:hiMsArTAH:Durv:01:0654:pa:sew:धु॑र्वीँ॑:347:363:367::
 DU:viDUnane:DU:09:0020:pa:sew:धू॑:1088:1105:1139::
 DUY:kampane ityeke:DU:05:0133:u:aniw:धू॑ञ्::911:::396

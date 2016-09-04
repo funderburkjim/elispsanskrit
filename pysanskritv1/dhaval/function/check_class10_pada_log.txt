@@ -1,4 +1,4 @@
-2211 read from verbdata.txt
+2210 read from verbdata.txt
 38 roots read from AkusmIya.txt
 qipa!:04P,06P,10A,10u:?
 divu!:04P,10A,10u:?

@@ -1,6 +1,6 @@
-sanverb_cp.txt has 1684 stems
+sanverb_cp.txt has 1683 stems
 mwvlex_cp.txt has 1954 stems
-2125  merged stems
+2124  merged stems
 both in sanverb: aNka:10A,10P and aNk:01A
 both in sanverb: aNga:10A,10P and aNg:01P
 both in sanverb: kala:10A,10P and kal:01A

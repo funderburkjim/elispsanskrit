@@ -1,9 +1,6 @@
-2211 records from ../dhaval/function/verbdata.txt
+2210 records from ../dhaval/function/verbdata.txt
 2590 records from ../dhaval/conjtab/conj_pre.txt
-make_verbrecd: 1 duplicates found
-case 1 of duplicate verbdata key: DUpa!.10.0303.U
-   DUpa!:Dupa!' BAzArTaH:Dup:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
-   DUpa!:BAzArTaH:DUp:10:0303:u:sew:धू॑पँ॑:1321::1374:XUp2_XUpaz_curAxiH+BARArWaH:
+make_verbrecd: 0 duplicates found
 generate_cp: key not found IKi!.01.0150.P
 generate_cp: key not found kUwa.10.0225.A
 generate_cp: key not found kUwa.10.0225.P
@@ -36,7 +33,7 @@ generate_cp: key not found saNgrAma.10.0467.P
 generate_cp: key not found syama!.10.0216.P
 generate_cp: key not found hasta!.10.0206.P
 generate_cp: key not found hizka!.10.0208.P
-generate_cp: 2560 class pada records
-1645 records written to conjtab_cp.txt
-generate_cp: 2796 class pada records
-1684 records written to sanverb_cp.txt
+generate_cp: 2558 class pada records
+1644 records written to conjtab_cp.txt
+generate_cp: 2794 class pada records
+1683 records written to sanverb_cp.txt
