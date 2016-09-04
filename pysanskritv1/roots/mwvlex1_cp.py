@@ -209,7 +209,12 @@ def sanverb_override_missing(mwcps,sancps):
  for cp in cpsnaked:
   # class-pada in sancps that match this class (cp is xx, a class)
   sancps1 = [cp1 for cp1 in sancps if cp1.startswith(cp)]
-  newcps = newcps + sancps1
+  # If this class does not appear in sancps, we retain the naked cp
+  if len(sancps1) == 0:
+   newcps.append(cp)
+  else:
+   # sanverb has this class, and we use it's information
+   newcps = newcps + sancps1
  # now add back in cpsothr
  newcps = newcps + cpsothr
  # sort
@@ -244,6 +249,20 @@ def adjust_missingcp(mwvlexrecs,sanverbrecs):
   print "%s -> %s." %(mwvlexrec.line,newline)
   nchg = nchg + 1
  print nchg,"changes in  adjust_missingcp"
+ # count how many roots in mwvlex still have incomplete information
+ na = 0
+ nb = 0
+ for mwvlexrec in mwvlexrecs:
+  cps = mwvlexrec.cps
+  a = [cp for cp in cps if cp.startswith('00')]
+  cps1 = [cp for cp in cps if cp not in a]
+  b = [cp for cp in cps1 if (len(cp) == 2)]
+  if len(a)>0:
+   na = na+1
+  if len(b)>0:
+   nb = nb + 1
+ print na,"mwvlex roots still have missing class information"
+ print nb,"mwvlex roots still have other missing pada information"
  return mwvlexrecs
 
 if __name__ == "__main__":
