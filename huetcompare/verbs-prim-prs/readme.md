@@ -79,3 +79,10 @@ A manual comparison of the entries in the two dictionaries (e.g. of
 `aMSa` in Huet's dictionary, and of `aMS` in MW dictionary) will be
 done to further confirm that the two roots are the same (or if there are
 some cases where the two roots appear to be different).
+
+## 20160906-huet-class10
+
+This folder contains the code for a webapp for deciding if the
+corresponding roots of comparea_class_pada.txt are correct in light of
+the MW and Huet dictionary entries for the roots.  See the
+readme file of that directory.

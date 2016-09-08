@@ -1,0 +1,73 @@
+[
+{"case":1,"status":"TODO","mwkey":"aMS","huetkey":"aMSa","line":"aMSa:11P # aMS:10P","type":"n"}
+,
+{"case":2,"status":"TODO","mwkey":"aG","huetkey":"aGa","line":"aGa:11P # aG:10P","type":"n"}
+,
+{"case":3,"status":"TODO","mwkey":"aNk","huetkey":"aNka","line":"aNka:11P # aNk:1A,1P,10P","type":"n"}
+,
+{"case":4,"status":"TODO","mwkey":"aNK","huetkey":"aNKa","line":"aNKa:11P # aNK:10P","type":"n"}
+,
+{"case":5,"status":"TODO","mwkey":"anD","huetkey":"anDa","line":"anDa:11P # anD:10P","type":"n"}
+,
+{"case":6,"status":"TODO","mwkey":"aBr","huetkey":"aBra","line":"aBra:11A # aBr:1P","type":"n"}
+,
+{"case":7,"status":"TODO","mwkey":"karR","huetkey":"karRa","line":"karRa:11P # karR:10P","type":"n"}
+,
+{"case":8,"status":"TODO","mwkey":"kuww","huetkey":"kuwwa","line":"kuwwa:11P # kuww:10A,10P","type":"n"}
+,
+{"case":9,"status":"TODO","mwkey":"klIb","huetkey":"klIba","line":"klIba:1A,11A # klIb:1A,10A","type":"n"}
+,
+{"case":10,"status":"TODO","mwkey":"Kaq","huetkey":"Kaqa","line":"Kaqa:11P # Kaq:10P","type":"n"}
+,
+{"case":11,"status":"TODO","mwkey":"garv","huetkey":"garva","line":"garva:11A,11P # garv:1P","type":"n"}
+,
+{"case":12,"status":"TODO","mwkey":"carc","huetkey":"carca","line":"carca:11A,11P # carc:1A,1P,10A,10P","type":"n"}
+,
+{"case":13,"status":"TODO","mwkey":"cUrR","huetkey":"cUrRa","line":"cUrRa:11P # cUrR:10A,10P","type":"n"}
+,
+{"case":14,"status":"TODO","mwkey":"Cal","huetkey":"Cala","line":"Cala:11P # Cal:10A,10P","type":"n"}
+,
+{"case":15,"status":"TODO","mwkey":"jal","huetkey":"jala","line":"jala:11A # jal:1A,1P,10A,10P","type":"n"}
+,
+{"case":16,"status":"TODO","mwkey":"Dan","huetkey":"Dana","line":"Dana:11P # Dan:1P,3P","type":"n"}
+,
+{"case":17,"status":"TODO","mwkey":"piRq","huetkey":"piRqa","line":"piRqa:11P # piRq:1A,10P","type":"n"}
+,
+{"case":18,"status":"TODO","mwkey":"pUl","huetkey":"pUla","line":"pUla:1A,1P,11P # pUl:1P,10P","type":"n"}
+,
+{"case":19,"status":"TODO","mwkey":"BfS","huetkey":"BfSa","line":"BfSa:11A # BfS:4P,6P","type":"n"}
+,
+{"case":20,"status":"TODO","mwkey":"mantr","huetkey":"mantra","line":"mantra:11A,11P # mantr:10A","type":"n"}
+,
+{"case":21,"status":"TODO","mwkey":"miSr","huetkey":"miSra","line":"miSra:11P # miSr:10P","type":"n"}
+,
+{"case":22,"status":"TODO","mwkey":"muRq","huetkey":"muRqa","line":"muRqa:11P # muRq:1A,1P","type":"n"}
+,
+{"case":23,"status":"TODO","mwkey":"mfg","huetkey":"mfga","line":"mfga:11A,11P # mfg:4P","type":"n"}
+,
+{"case":24,"status":"TODO","mwkey":"yantr","huetkey":"yantra","line":"yantra:11P # yantr:10P","type":"n"}
+,
+{"case":25,"status":"TODO","mwkey":"ras","huetkey":"rasa","line":"rasa:11P # ras:1P,10P","type":"n"}
+,
+{"case":26,"status":"TODO","mwkey":"rUkz","huetkey":"rUkza","line":"rUkza:11P # rUkz:10P","type":"n"}
+,
+{"case":27,"status":"TODO","mwkey":"varR","huetkey":"varRa","line":"varRa:11P # varR:10P","type":"n"}
+,
+{"case":28,"status":"TODO","mwkey":"vAs","huetkey":"vAsa","line":"vAsa:11P # vAs:10P","type":"n"}
+,
+{"case":29,"status":"TODO","mwkey":"vraR","huetkey":"vraRa","line":"vraRa:11P # vraR:1P,10P","type":"n"}
+,
+{"case":30,"status":"TODO","mwkey":"Sabd","huetkey":"Sabda","line":"Sabda:11A,11P # Sabd:10P","type":"n"}
+,
+{"case":31,"status":"TODO","mwkey":"sajj","huetkey":"sajja","line":"sajja:11A # sajj:1P","type":"n"}
+,
+{"case":32,"status":"TODO","mwkey":"sAntv","huetkey":"sAntva","line":"sAntva:11P # sAntv:10A,10P","type":"n"}
+,
+{"case":33,"status":"TODO","mwkey":"suK","huetkey":"suKa","line":"suKa:11A,11P # suK:10P,4P","type":"n"}
+,
+{"case":34,"status":"TODO","mwkey":"sUtr","huetkey":"sUtra","line":"sUtra:11A,11P # sUtr:10P","type":"n"}
+,
+{"case":35,"status":"TODO","mwkey":"sten","huetkey":"stena","line":"stena:11P # sten:10P","type":"n"}
+,
+{"case":36,"status":"TODO","mwkey":"sTag","huetkey":"sTaga","line":"sTaga:11P # sTag:1P","type":"n"}
+]
