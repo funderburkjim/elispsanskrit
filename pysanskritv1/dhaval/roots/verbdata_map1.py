@@ -1,5 +1,5 @@
-"""verbdata_map.py
-   Sep 9, 2016
+"""verbdata_map1.py
+   Sep 10, 2016
 """
 import sys
 #from sansort import slp_cmp
@@ -76,16 +76,81 @@ def analyze_dproot(verbrecs):
    out = "%s:%s:%s:%s" %(root,gana,number,dpnorm)
    print out
  print ndup,"keys map to the same normalized root, as shown above"
-if __name__ == "__main__":
- fileout = sys.argv[1]
- # set relative path to  directory containing verbdata.txt
- path='../function'
- sys.path.append(path) 
- import verbdata
- verbrecs = verbdata.init_Dhaval_verbdata('%s/verbdata.txt'%path)
- # Now verbrecs is a list of Dhaval_verbdata objects.
- # A typical element 'rec' of this list has
- # attributes rec.verbwithanubandha, etc.  
- print len(verbrecs)
 
- analyze_dproot(verbrecs)
+class Verbmap(object):
+ def __init__(self,line):
+  line = line.rstrip('\r\n')
+  (self.dproot,self.gana,self.number,self.dpnorm) = line.split(':')
+
+def init_verbdata_map(filein):
+ with open(filein,"r") as f:
+  recs = [Verbmap(line) for line in f]
+ print len(recs),"records read from",filein
+ return recs
+
+class Rootsa(object):
+ # for staticmethod, see stackoverflow reference:
+ # http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner
+ @staticmethod
+ def parse_root_cp(x):
+  (root,cpstr) = x.split(':')
+  cps = cpstr.split(',')
+  return (root,cps)
+ def __init__(self,line):
+  """ from pysanskrit1/roots_a.txt.
+      line can have two forms:
+      Xa#X#Y Example: rasa:10A,10P#ras:01P#ras:01A,01P,10A,10P
+      or
+      Xa##Y  Example: raca:10A,10P##rac:10P
+      
+  """
+  line = line.rstrip('\r\n')
+  (xa,x,y) = line.split('#')
+  (self.dpnorma,self.cpsa) = Rootsa.parse_root_cp(xa)
+  if x == '':
+   self.dpnorm=None
+   self.cps = None
+  else:
+   (self.dpnorm,self.cps) = Rootsa.parse_root_cp(x)
+  (self.mwroot,self.mwcps) = Rootsa.parse_root_cp(y)
+
+def init_roots_a(filein):
+ with open(filein,"r") as f:
+  recs = [Rootsa(line) for line in f]
+ print len(recs),"records read from",filein
+ return recs
+
+def update_rec(rec,rootsa):
+ # for convenience, add an 'mwroot' field to 'rec'. Initially assume
+ # it is the same as dpnorm
+ rec.mwroot = rec.dpnorm
+ for r in rootsa:
+  if rec.dproot == r.dpnorma:
+   # change mwroot in rec to its value in r
+   rec.mwroot = r.mwroot
+
+def update_recs(recs,rootsa):
+ for rec in recs:
+  update_rec(rec,rootsa)
+if __name__ == "__main__":
+ filein = sys.argv[1] # verbdata_map
+ filein1 = sys.argv[2] # roots_a
+ fileout = sys.argv[3]
+ recs = init_verbdata_map(filein)
+ rootsa = init_roots_a(filein1)
+ update_recs(recs,rootsa)
+ nchg = 0
+ n = 0
+ with open(fileout,"w") as f:
+  for rec in recs:
+   out = "%s:%s:%s:%s" %(rec.dproot,rec.gana,rec.number,rec.mwroot)
+   n = n + 1
+   if rec.mwroot != rec.dpnorm:
+    # for debug
+    #out = out + ' CHG'
+    nchg = nchg + 1
+    print out + "  CHG" # to stdout, for log of changes
+   f.write(out + "\n")
+ print len(recs),"records written to",fileout
+ print nchg,"records changed the correspondind 'normalized' root"
+

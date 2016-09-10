@@ -83,3 +83,42 @@ value for the rootwithoutanubandha field.
 For possible further examination, these duplicates (involving 396 lines of
 verbdata, or 18%) are printed to the verbdata_map_log.txt file.
 
+
+## verbdata_map1.txt
+
+```
+python verbdata_map1.py verbdata_map.txt ../../roots/roots_a.txt verbdata_map1.txt > verbdata_map1_log.txt
+```
+
+Verbdata_map1 alters the mapping based on the correspondence of roots_a. 
+For example, verbdata_map shows the correspondence:
+```
+Here, rootwithanubandha = aMsa (first field)
+and , rootwithoutanubandha is the same, aMsa.
+aMsa:10:0460:aMsa
+```
+and roots_a shows the correspondence:
+```
+rootwithoutanubandha is aMsa, and corresponding MW root is aMs
+aMsa:10A,10P##aMs:00
+```
+So, the corresponding altered line in verbdata_map1 is
+```
+aMsa:10:0460:aMs
+```
+
+There are 63 instances of the roots_a mapping.
+These lead to 78 changes in the mapping between verbdata_map and verbdata_map1.
+
+The reason that there are more changes (78) in the mapping than there are
+instances in roots_a is exemplified by these instances in verbdata_map1.
+```
+SraTa:10:0019:SraT  CHG
+SraTa:10:0360:SraT  CHG
+```
+As indicated, the root SraTa occurs in two places in the verbdata 
+dhatupatha, (numbers 19 and 360 in the 10-conjugations). So, there is an 
+extra change required for this root.
+
+The changes to the mapping are itemized in verbdata_map1_log.txt.
+
