@@ -1,0 +1,23 @@
+2590 records read from ../conj_pre.txt
+2207 records read from ../../roots/verbdata_map1.txt
+convert WARNING: Cannot map: IKi! pre 01.0150P:[INKati INKataH INKanti INKasi INKaTaH INKaTa INKAmi INKAvaH INKAmaH]
+convert WARNING: Cannot map: kUwa pre 10.0225A:[kUwayate kUwayete kUwayante kUwayase kUwayeTe kUwayaDve kUwaye kUwayAvahe kUwayAmahe]
+convert WARNING: Cannot map: kUwa pre 10.0225P:[kUwayati kUwayataH kUwayanti kUwayasi kUwayaTaH kUwayaTa kUwayAmi kUwayAvaH kUwayAmaH]
+convert WARNING: Cannot map: DU pre 06.0133P:[Duvati DuvataH Duvanti Duvasi DuvaTaH DuvaTa DuvAmi DuvAvaH DuvAmaH]
+convert WARNING: Cannot map: pasi! pre 10.0108A:[paMsayate paMsayete paMsayante paMsayase paMsayeTe paMsayaDve paMsaye paMsayAvahe paMsayAmahe]
+convert WARNING: Cannot map: pasi! pre 10.0108P:[paMsayati paMsayataH paMsayanti paMsayasi paMsayaTaH paMsayaTa paMsayAmi paMsayAvaH paMsayAmaH]
+convert WARNING: Cannot map: barha! pre 10.0175A:[barhayate barhayete barhayante barhayase barhayeTe barhayaDve barhaye barhayAvahe barhayAmahe]
+convert WARNING: Cannot map: barha! pre 10.0175P:[barhayati barhayataH barhayanti barhayasi barhayaTaH barhayaTa barhayAmi barhayAvaH barhayAmaH]
+convert WARNING: Cannot map: bfhi! pre 10.0345A:[bfMhayate bfMhayete bfMhayante bfMhayase bfMhayeTe bfMhayaDve bfMhaye bfMhayAvahe bfMhayAmahe]
+convert WARNING: Cannot map: bfhi! pre 10.0345P:[bfMhayati bfMhayataH bfMhayanti bfMhayasi bfMhayaTaH bfMhayaTa bfMhayAmi bfMhayAvaH bfMhayAmaH]
+convert WARNING: Cannot map: mana! pre 10.0234A:[mAnayate mAnayete mAnayante mAnayase mAnayeTe mAnayaDve mAnaye mAnayAvahe mAnayAmahe]
+convert WARNING: Cannot map: mana! pre 10.0234P:[mAnayati mAnayataH mAnayanti mAnayasi mAnayaTaH mAnayaTa mAnayAmi mAnayAvaH mAnayAmaH]
+convert WARNING: Cannot map: yuY pre 09.0235A:[yunIte yunAte yunate yunIze yunATe yunIDve yune yunIvahe yunImahe]
+convert WARNING: Cannot map: yuY pre 09.0235P:[yunAti yunItaH yunanti yunAsi yunITaH yunITa yunAmi yunIvaH yunImaH]
+convert WARNING: Cannot map: vizka pre 10.0207A:[vizkayate vizkayete vizkayante vizkayase vizkayeTe vizkayaDve vizkaye vizkayAvahe vizkayAmahe]
+convert WARNING: Cannot map: vizka pre 10.0207P:[vizkayati vizkayataH vizkayanti vizkayasi vizkayaTaH vizkayaTa vizkayAmi vizkayAvaH vizkayAmaH]
+convert WARNING: Cannot map: vella! pre 01.0620P:[vellati vellataH vellanti vellasi vellaTaH vellaTa vellAmi vellAvaH vellAmaH]
+convert WARNING: Cannot map: SaWa pre 10.0041A:[SaWayate SaWayete SaWayante SaWayase SaWayeTe SaWayaDve SaWaye SaWayAvahe SaWayAmahe]
+convert WARNING: Cannot map: SaWa pre 10.0041P:[SaWayati SaWayataH SaWayanti SaWayasi SaWayaTaH SaWayaTa SaWayAmi SaWayAvaH SaWayAmaH]
+2571 records written to conj_pre_map1.txt
+19 records skipped
