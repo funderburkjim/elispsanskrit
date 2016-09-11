@@ -1,0 +1,4720 @@
+aMs pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) aMsayate != aMsApayate,aMsayate (pysan)
+     3d (sanverb) aMsayete != aMsApayete,aMsayete (pysan)
+     3p (sanverb) aMsayante != aMsApayante,aMsayante (pysan)
+     2s (sanverb) aMsayase != aMsApayase,aMsayase (pysan)
+     2d (sanverb) aMsayeTe != aMsApayeTe,aMsayeTe (pysan)
+     2p (sanverb) aMsayaDve != aMsApayaDve,aMsayaDve (pysan)
+     1s (sanverb) aMsaye != aMsApaye,aMsaye (pysan)
+     1d (sanverb) aMsayAvahe != aMsApayAvahe,aMsayAvahe (pysan)
+     1p (sanverb) aMsayAmahe != aMsApayAmahe,aMsayAmahe (pysan)
+aMs pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) aMsayati != aMsApayati,aMsayati (pysan)
+     3d (sanverb) aMsayataH != aMsApayataH,aMsayataH (pysan)
+     3p (sanverb) aMsayanti != aMsApayanti,aMsayanti (pysan)
+     2s (sanverb) aMsayasi != aMsApayasi,aMsayasi (pysan)
+     2d (sanverb) aMsayaTaH != aMsApayaTaH,aMsayaTaH (pysan)
+     2p (sanverb) aMsayaTa != aMsApayaTa,aMsayaTa (pysan)
+     1s (sanverb) aMsayAmi != aMsApayAmi,aMsayAmi (pysan)
+     1d (sanverb) aMsayAvaH != aMsApayAvaH,aMsayAvaH (pysan)
+     1p (sanverb) aMsayAmaH != aMsApayAmaH,aMsayAmaH (pysan)
+ak pre 1P: identical
+aNk pre 1A: identical
+akz pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) akzRoti,akzati != akzati (pysan)
+     3d (sanverb) akzRutaH,akzataH != akzataH (pysan)
+     3p (sanverb) akzRuvanti,akzanti != akzanti (pysan)
+     2s (sanverb) akzRozi,akzasi != akzasi (pysan)
+     2d (sanverb) akzRuTaH,akzaTaH != akzaTaH (pysan)
+     2p (sanverb) akzRuTa,akzaTa != akzaTa (pysan)
+     1s (sanverb) akzAmi,akzRomi != akzAmi (pysan)
+     1d (sanverb) akzAvaH,akzRuvaH != akzAvaH (pysan)
+     1p (sanverb) akzAmaH,akzRumaH != akzAmaH (pysan)
+ag pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) agati != aNgati (pysan)
+     3d (sanverb) agataH != aNgataH (pysan)
+     3p (sanverb) aganti != aNganti (pysan)
+     2s (sanverb) agasi != aNgasi (pysan)
+     2d (sanverb) agaTaH != aNgaTaH (pysan)
+     2p (sanverb) agaTa != aNgaTa (pysan)
+     1s (sanverb) agAmi != aNgAmi (pysan)
+     1d (sanverb) agAvaH != aNgAvaH (pysan)
+     1p (sanverb) agAmaH != aNgAmaH (pysan)
+aNg pre 1P: identical
+aNG pre 1A: identical
+aNk pre 10A: identical
+aNk pre 10P: identical
+aNg pre 10A: identical
+aNg pre 10P: identical
+aYc pre 1A: identical
+aYc pre 1P: identical
+ac pre 1A: identical
+ac pre 1P: identical
+aj pre 1P: identical
+aYj pre 10A: identical
+aYj pre 10P: identical
+aYc pre 1A: identical
+aYc pre 1P: identical
+aYc pre 1P: identical
+aYc pre 10A: identical
+aYc pre 10P: identical
+aYj pre 7P: identical
+aw pre 1P: identical
+aww pre 1A: identical
+aww pre 10A: identical
+aww pre 10P: identical
+aRW pre 1A: identical
+aq pre 1P: identical
+aqq pre 1P: identical
+aR pre 1P: identical
+aR pre 4A: identical
+at pre 1P: identical
+ant pre 1P: identical
+ad pre 2P: identical
+and pre 1P: identical
+an pre 2P: identical
+an pre 4A: identical
+anD pre 10A: identical
+anD pre 10P: identical
+amb pre 1A: identical
+amB pre 1A: identical
+aBr pre 1P: identical
+am pre 1P: identical
+am pre 10A: identical
+am pre 10P: identical
+ay pre 1A: identical
+ay pre 1P: identical
+ay pre 1A: identical
+ark pre 10A: identical
+ark pre 10P: identical
+arG pre 1P: identical
+arc pre 1P: identical
+arc pre 10A: identical
+arc pre 10P: identical
+arj pre 1P: identical
+arj pre 10A: identical
+arj pre 10P: identical
+arT pre 10A: identical
+ard pre 1P: identical
+ard pre 10A: identical
+ard pre 10P: identical
+arb pre 1P: identical
+arv pre 1P: identical
+arh pre 1P: identical
+arh pre 10A: identical
+arh pre 10P: identical
+arh pre 10A: identical
+arh pre 10P: identical
+al pre 1P: identical
+av pre 1P: identical
+aS pre 9P: identical
+aS pre 5A: identical
+az pre 1A: identical
+az pre 1P: identical
+as pre 1A: identical
+as pre 1P: identical
+as pre 2P: identical
+as pre 4P: identical
+ah pre 5P: identical
+aMh pre 1A: identical
+aMh pre 10A: identical
+aMh pre 10P: identical
+AYC pre 1P: identical
+Ap pre 5P: identical
+Ap pre 10A: identical
+Ap pre 10P: identical
+As pre 2A: identical
+i pre 2P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) aDyeti != eti (pysan)
+     3d (sanverb) aDItaH != itaH (pysan)
+     3p (sanverb) aDiyanti != yanti (pysan)
+     2s (sanverb) aDyezi != ezi (pysan)
+     2d (sanverb) aDITaH != iTaH (pysan)
+     2p (sanverb) aDITa != iTa (pysan)
+     1s (sanverb) aDyemi != emi (pysan)
+     1d (sanverb) aDIvaH != ivaH (pysan)
+     1p (sanverb) aDImaH != imaH (pysan)
+iK pre 1P: identical
+iNK pre 1P: identical
+iNg pre 1P: identical
+i pre 2A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) aDIte != ite (pysan)
+     3d (sanverb) aDIyAte != iyAte (pysan)
+     3p (sanverb) aDIyate != iyate (pysan)
+     2s (sanverb) aDIze != ize (pysan)
+     2d (sanverb) aDIyATe != iyATe (pysan)
+     2p (sanverb) aDIDve != iDve (pysan)
+     1s (sanverb) aDIye != iye (pysan)
+     1d (sanverb) aDIvahe != ivahe (pysan)
+     1p (sanverb) aDImahe != imahe (pysan)
+iw pre 1P: identical
+i pre 2P: identical
+ind pre 1P: identical
+inv pre 1P: identical
+iz pre 4P: identical
+iz pre 6P: identical
+iz pre 9P: identical
+Suc pre 4A: identical
+Suc pre 4P: identical
+Ikz pre 1A: identical
+INK pre 1P: identical
+I pre 4A: identical
+Ij pre 1A: identical
+IYj pre 1A: identical
+Iq pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) Iwwe != Iwte,Iwwe (pysan)
+     2s (sanverb) Iqize != Iwse (pysan)
+     2p (sanverb) IqiDve != IqQve (pysan)
+Iq pre 10A: identical
+Iq pre 10P: identical
+Ir pre 2A: conjugation differences @ 3s 
+     3s (sanverb) Irte != Iste (pysan)
+Ir pre 10A: identical
+Ir pre 10P: identical
+Irkzy pre 1P: identical
+Irzy pre 1P: identical
+IS pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) Izwe != IsDe (pysan)
+     2s (sanverb) ISize != Isse (pysan)
+     2p (sanverb) IqQve != IsDve (pysan)
+Iz pre 1A: identical
+Iz pre 1P: identical
+Ih pre 1A: identical
+Cfd pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) Cfnte,Cfntte != Cfntte (pysan)
+     2p (sanverb) CfnDve,CfndDve != CfndDve (pysan)
+Cfd pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) CfntaH,CfnttaH != CfnttaH (pysan)
+     2d (sanverb) CfnTaH,CfntTaH != CfntTaH (pysan)
+     2p (sanverb) CfnTa,CfntTa != CfntTa (pysan)
+tfd pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) tfnte,tfntte != tfntte (pysan)
+     2p (sanverb) tfnDve,tfndDve != tfndDve (pysan)
+tfd pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) tfntaH,tfnttaH != tfnttaH (pysan)
+     2d (sanverb) tfnTaH,tfntTaH != tfntTaH (pysan)
+     2p (sanverb) tfnTa,tfntTa != tfntTa (pysan)
+Dras pre 9P: identical
+bund pre 1A: identical
+bund pre 1P: identical
+ukz pre 1P: identical
+uK pre 1P: identical
+uNK pre 1P: identical
+u pre 1A: identical
+uc pre 4P: identical
+uYC pre 1P: identical
+uYC pre 6P: identical
+uC pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) ucCati != oCati (pysan)
+     3d (sanverb) ucCataH != oCataH (pysan)
+     3p (sanverb) ucCanti != oCanti (pysan)
+     2s (sanverb) ucCasi != oCasi (pysan)
+     2d (sanverb) ucCaTaH != oCaTaH (pysan)
+     2p (sanverb) ucCaTa != oCaTa (pysan)
+     1s (sanverb) ucCAmi != oCAmi (pysan)
+     1d (sanverb) ucCAvaH != oCAvaH (pysan)
+     1p (sanverb) ucCAmaH != oCAmaH (pysan)
+uC pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) ucCati != uCati (pysan)
+     3d (sanverb) ucCataH != uCataH (pysan)
+     3p (sanverb) ucCanti != uCanti (pysan)
+     2s (sanverb) ucCasi != uCasi (pysan)
+     2d (sanverb) ucCaTaH != uCaTaH (pysan)
+     2p (sanverb) ucCaTa != uCaTa (pysan)
+     1s (sanverb) ucCAmi != uCAmi (pysan)
+     1d (sanverb) ucCAvaH != uCAvaH (pysan)
+     1p (sanverb) ucCAmaH != uCAmaH (pysan)
+ujJ pre 6P: identical
+uW pre 1A: identical
+uW pre 1P: identical
+und pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) untaH,unttaH != unttaH (pysan)
+     2d (sanverb) unTaH,untTaH != untTaH (pysan)
+     2p (sanverb) unTa,untTa != untTa (pysan)
+ubj pre 6P: identical
+uB pre 6P: identical
+umB pre 6P: identical
+urd pre 1A: identical
+urv pre 1P: identical
+uz pre 1P: identical
+uh pre 1P: identical
+UW pre 1P: identical
+Una pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Unayate != UnAyate (pysan)
+     3d (sanverb) Unayete != UnAyete (pysan)
+     3p (sanverb) Unayante != UnAyante (pysan)
+     2s (sanverb) Unayase != UnAyase (pysan)
+     2d (sanverb) UnayeTe != UnAyeTe (pysan)
+     2p (sanverb) UnayaDve != UnAyaDve (pysan)
+     1s (sanverb) Unaye != UnAye (pysan)
+     1d (sanverb) UnayAvahe != UnAyAvahe (pysan)
+     1p (sanverb) UnayAmahe != UnAyAmahe (pysan)
+Una pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Unayati != UnAyati (pysan)
+     3d (sanverb) UnayataH != UnAyataH (pysan)
+     3p (sanverb) Unayanti != UnAyanti (pysan)
+     2s (sanverb) Unayasi != UnAyasi (pysan)
+     2d (sanverb) UnayaTaH != UnAyaTaH (pysan)
+     2p (sanverb) UnayaTa != UnAyaTa (pysan)
+     1s (sanverb) UnayAmi != UnAyAmi (pysan)
+     1d (sanverb) UnayAvaH != UnAyAvaH (pysan)
+     1p (sanverb) UnayAmaH != UnAyAmaH (pysan)
+Uy pre 1A: identical
+Urj pre 10A: identical
+Urj pre 10P: identical
+UrRu pre 2A: identical
+UrRu pre 2P: conjugation differences @ 3s,2s,1s 
+     3s (sanverb) UrROti,UrRoti != UrROti (pysan)
+     2s (sanverb) UrROzi,UrRozi != UrROzi (pysan)
+     1s (sanverb) UrROmi,UrRomi != UrROmi (pysan)
+Uz pre 1P: identical
+Uh pre 1A: identical
+f pre 1P: identical
+f pre 3P: identical
+f pre 5P: identical
+fc pre 6P: identical
+fC pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) fcCati != fCati (pysan)
+     3d (sanverb) fcCataH != fCataH (pysan)
+     3p (sanverb) fcCanti != fCanti (pysan)
+     2s (sanverb) fcCasi != fCasi (pysan)
+     2d (sanverb) fcCaTaH != fCaTaH (pysan)
+     2p (sanverb) fcCaTa != fCaTa (pysan)
+     1s (sanverb) fcCAmi != fCAmi (pysan)
+     1d (sanverb) fcCAvaH != fCAvaH (pysan)
+     1p (sanverb) fcCAmaH != fCAmaH (pysan)
+fj pre 1A: identical
+fYj pre 1A: identical
+fR pre 8A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) arRute != fRute (pysan)
+     3d (sanverb) arRvAte != fRvAte (pysan)
+     3p (sanverb) arRvate != fRvate (pysan)
+     2s (sanverb) arRuze != fRuze (pysan)
+     2d (sanverb) arRvATe != fRvATe (pysan)
+     2p (sanverb) arRuDve != fRuDve (pysan)
+     1s (sanverb) arRve != fRve (pysan)
+     1d (sanverb) arRuvahe != fRuvahe,fRvahe (pysan)
+     1p (sanverb) arRumahe != fRmahe,fRumahe (pysan)
+fR pre 8P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) arRoti != fRoti (pysan)
+     3d (sanverb) arRutaH != fRutaH (pysan)
+     3p (sanverb) arRvanti != fRvanti (pysan)
+     2s (sanverb) arRozi != fRozi (pysan)
+     2d (sanverb) arRuTaH != fRuTaH (pysan)
+     2p (sanverb) arRuTa != fRuTa (pysan)
+     1s (sanverb) arRomi != fRomi (pysan)
+     1d (sanverb) arRuvaH != fRuvaH,fRvaH (pysan)
+     1p (sanverb) arRumaH != fRmaH,fRumaH (pysan)
+fD pre 4P: identical
+fD pre 5P: identical
+fP pre 6P: identical
+fmP pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) fPati != fmPati (pysan)
+     3d (sanverb) fPataH != fmPataH (pysan)
+     3p (sanverb) fPanti != fmPanti (pysan)
+     2s (sanverb) fPasi != fmPasi (pysan)
+     2d (sanverb) fPaTaH != fmPaTaH (pysan)
+     2p (sanverb) fPaTa != fmPaTa (pysan)
+     1s (sanverb) fPAmi != fmPAmi (pysan)
+     1d (sanverb) fPAvaH != fmPAvaH (pysan)
+     1p (sanverb) fPAmaH != fmPAmaH (pysan)
+fz pre 6P: identical
+F pre 9P: identical
+ej pre 1A: identical
+ej pre 1P: identical
+eW pre 1A: identical
+eD pre 1A: identical
+ez pre 1A: identical
+ez pre 1A: identical
+pyAy pre 1A: identical
+laRq pre 10A: identical
+laRq pre 10P: identical
+laRq pre 10A: identical
+laRq pre 10P: identical
+lasj pre 6A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) lajjate != lasjate (pysan)
+     3d (sanverb) lajjete != lasjete (pysan)
+     3p (sanverb) lajjante != lasjante (pysan)
+     2s (sanverb) lajjase != lasjase (pysan)
+     2d (sanverb) lajjeTe != lasjeTe (pysan)
+     2p (sanverb) lajjaDve != lasjaDve (pysan)
+     1s (sanverb) lajje != lasje (pysan)
+     1d (sanverb) lajjAvahe != lasjAvahe (pysan)
+     1p (sanverb) lajjAmahe != lasjAmahe (pysan)
+vij pre 6A: identical
+vij pre 7P: identical
+vE pre 1P: identical
+vraSc pre 6P: identical
+hA pre 3P: identical
+hA pre 3A: identical
+oK pre 1P: identical
+oR pre 1P: identical
+kak pre 1A: identical
+kaNk pre 1A: identical
+kaK pre 1P: identical
+kaK pre 1P: identical
+kag pre 1P: identical
+kac pre 1A: identical
+kaYc pre 1A: identical
+kaj pre 1P: identical
+kaw pre 1P: identical
+kaw pre 1P: identical
+kaW pre 1P: identical
+kaRW pre 1A: identical
+kaRW pre 10A: identical
+kaRW pre 10P: identical
+kaq pre 1P: identical
+kaq pre 6P: identical
+kaRq pre 1A: identical
+kaRq pre 1P: identical
+kaRq pre 10A: identical
+kaRq pre 10P: identical
+kaqq pre 1P: identical
+kaR pre 1P: identical
+kaR pre 1P: identical
+kaR pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kaRayate != kARayate (pysan)
+     3d (sanverb) kaRayete != kARayete (pysan)
+     3p (sanverb) kaRayante != kARayante (pysan)
+     2s (sanverb) kaRayase != kARayase (pysan)
+     2d (sanverb) kaRayeTe != kARayeTe (pysan)
+     2p (sanverb) kaRayaDve != kARayaDve (pysan)
+     1s (sanverb) kaRaye != kARaye (pysan)
+     1d (sanverb) kaRayAvahe != kARayAvahe (pysan)
+     1p (sanverb) kaRayAmahe != kARayAmahe (pysan)
+kaR pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kaRayati != kARayati (pysan)
+     3d (sanverb) kaRayataH != kARayataH (pysan)
+     3p (sanverb) kaRayanti != kARayanti (pysan)
+     2s (sanverb) kaRayasi != kARayasi (pysan)
+     2d (sanverb) kaRayaTaH != kARayaTaH (pysan)
+     2p (sanverb) kaRayaTa != kARayaTa (pysan)
+     1s (sanverb) kaRayAmi != kARayAmi (pysan)
+     1d (sanverb) kaRayAvaH != kARayAvaH (pysan)
+     1p (sanverb) kaRayAmaH != kARayAmaH (pysan)
+katT pre 1A: identical
+katr pre 10A: identical
+katr pre 10P: identical
+kaT pre 10A: identical
+kaT pre 10P: identical
+kad pre 1A: identical
+kand pre 1A: identical
+kand pre 1P: identical
+kan pre 1P: identical
+kap pre 1A: identical
+kamp pre 1A: identical
+kab pre 1A: identical
+kam pre 1A: identical
+karj pre 1P: identical
+karR pre 10A: identical
+karR pre 10P: identical
+kart pre 10A: identical
+kart pre 10P: identical
+kard pre 1P: identical
+karb pre 1P: identical
+karv pre 1P: identical
+kal pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kalayate != kAlayate,kalayate (pysan)
+     3d (sanverb) kalayete != kAlayete,kalayete (pysan)
+     3p (sanverb) kalayante != kAlayante,kalayante (pysan)
+     2s (sanverb) kalayase != kAlayase,kalayase (pysan)
+     2d (sanverb) kalayeTe != kAlayeTe,kalayeTe (pysan)
+     2p (sanverb) kalayaDve != kAlayaDve,kalayaDve (pysan)
+     1s (sanverb) kalaye != kAlaye,kalaye (pysan)
+     1d (sanverb) kalayAvahe != kAlayAvahe,kalayAvahe (pysan)
+     1p (sanverb) kalayAmahe != kAlayAmahe,kalayAmahe (pysan)
+kal pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kalayati != kAlayati,kalayati (pysan)
+     3d (sanverb) kalayataH != kAlayataH,kalayataH (pysan)
+     3p (sanverb) kalayanti != kAlayanti,kalayanti (pysan)
+     2s (sanverb) kalayasi != kAlayasi,kalayasi (pysan)
+     2d (sanverb) kalayaTaH != kAlayaTaH,kalayaTaH (pysan)
+     2p (sanverb) kalayaTa != kAlayaTa,kalayaTa (pysan)
+     1s (sanverb) kalayAmi != kAlayAmi,kalayAmi (pysan)
+     1d (sanverb) kalayAvaH != kAlayAvaH,kalayAvaH (pysan)
+     1p (sanverb) kalayAmaH != kAlayAmaH,kalayAmaH (pysan)
+kal pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kalayate != kAlayate,kalayate (pysan)
+     3d (sanverb) kalayete != kAlayete,kalayete (pysan)
+     3p (sanverb) kalayante != kAlayante,kalayante (pysan)
+     2s (sanverb) kalayase != kAlayase,kalayase (pysan)
+     2d (sanverb) kalayeTe != kAlayeTe,kalayeTe (pysan)
+     2p (sanverb) kalayaDve != kAlayaDve,kalayaDve (pysan)
+     1s (sanverb) kalaye != kAlaye,kalaye (pysan)
+     1d (sanverb) kalayAvahe != kAlayAvahe,kalayAvahe (pysan)
+     1p (sanverb) kalayAmahe != kAlayAmahe,kalayAmahe (pysan)
+kal pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kalayati != kAlayati,kalayati (pysan)
+     3d (sanverb) kalayataH != kAlayataH,kalayataH (pysan)
+     3p (sanverb) kalayanti != kAlayanti,kalayanti (pysan)
+     2s (sanverb) kalayasi != kAlayasi,kalayasi (pysan)
+     2d (sanverb) kalayaTaH != kAlayaTaH,kalayaTaH (pysan)
+     2p (sanverb) kalayaTa != kAlayaTa,kalayaTa (pysan)
+     1s (sanverb) kalayAmi != kAlayAmi,kalayAmi (pysan)
+     1d (sanverb) kalayAvaH != kAlayAvaH,kalayAvaH (pysan)
+     1p (sanverb) kalayAmaH != kAlayAmaH,kalayAmaH (pysan)
+kal pre 1A: identical
+kall pre 1A: identical
+kaS pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) kazwe != kasDe (pysan)
+     2s (sanverb) kakze != Kasse (pysan)
+     2p (sanverb) kaqQve != KasDve (pysan)
+kaz pre 1P: identical
+kas pre 1P: identical
+kas pre 2A: identical
+kaMs pre 2A: conjugation differences @ 2p 
+     2p (sanverb) kanDve != kaMDve (pysan)
+kANkz pre 1P: identical
+kAYc pre 1A: identical
+kAla pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kAlayate != kAlAyate (pysan)
+     3d (sanverb) kAlayete != kAlAyete (pysan)
+     3p (sanverb) kAlayante != kAlAyante (pysan)
+     2s (sanverb) kAlayase != kAlAyase (pysan)
+     2d (sanverb) kAlayeTe != kAlAyeTe (pysan)
+     2p (sanverb) kAlayaDve != kAlAyaDve (pysan)
+     1s (sanverb) kAlaye != kAlAye (pysan)
+     1d (sanverb) kAlayAvahe != kAlAyAvahe (pysan)
+     1p (sanverb) kAlayAmahe != kAlAyAmahe (pysan)
+kAla pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kAlayati != kAlAyati (pysan)
+     3d (sanverb) kAlayataH != kAlAyataH (pysan)
+     3p (sanverb) kAlayanti != kAlAyanti (pysan)
+     2s (sanverb) kAlayasi != kAlAyasi (pysan)
+     2d (sanverb) kAlayaTaH != kAlAyaTaH (pysan)
+     2p (sanverb) kAlayaTa != kAlAyaTa (pysan)
+     1s (sanverb) kAlayAmi != kAlAyAmi (pysan)
+     1d (sanverb) kAlayAvaH != kAlAyAvaH (pysan)
+     1p (sanverb) kAlayAmaH != kAlAyAmaH (pysan)
+kAS pre 1A: identical
+kAS pre 4A: identical
+kAs pre 1A: identical
+ki pre 3P: identical
+kiw pre 1P: identical
+kiw pre 1P: identical
+kit pre 1P: identical
+kit pre 3P: conjugation differences @ 1s,1p 
+     1s (sanverb) ciketmi != cikedmi (pysan)
+     1p (sanverb) cikitmaH != cikidmaH (pysan)
+kil pre 6P: identical
+kIw pre 10A: identical
+kIw pre 10P: identical
+kIl pre 1P: identical
+ku pre 2P: identical
+kuMS pre 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kuSyati != kuMSyati (pysan)
+     3d (sanverb) kuSyataH != kuMSyataH (pysan)
+     3p (sanverb) kuSyanti != kuMSyanti (pysan)
+     2s (sanverb) kuSyasi != kuMSyasi (pysan)
+     2d (sanverb) kuSyaTaH != kuMSyaTaH (pysan)
+     2p (sanverb) kuSyaTa != kuMSyaTa (pysan)
+     1s (sanverb) kuSyAmi != kuMSyAmi (pysan)
+     1d (sanverb) kuSyAvaH != kuMSyAvaH (pysan)
+     1p (sanverb) kuSyAmaH != kuMSyAmaH (pysan)
+kuk pre 1A: identical
+ku pre 6A: identical
+kuc pre 1P: identical
+kuc pre 1P: identical
+kuc pre 6P: identical
+kuYj pre 1P: identical
+kuj pre 1P: identical
+kuYc pre 1P: identical
+kuw pre 6P: identical
+kuRw pre 1P: identical
+kuww pre 10A: identical
+kuww pre 10A: identical
+kuRW pre 1P: identical
+kuRW pre 10A: identical
+kuRW pre 10P: identical
+kuq pre 6P: identical
+kuRq pre 1A: identical
+kuRq pre 1P: identical
+kuRq pre 10A: identical
+kuRq pre 10P: identical
+kuR pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kuRayate != koRayate,kuRayate (pysan)
+     3d (sanverb) kuRayete != koRayete,kuRayete (pysan)
+     3p (sanverb) kuRayante != koRayante,kuRayante (pysan)
+     2s (sanverb) kuRayase != koRayase,kuRayase (pysan)
+     2d (sanverb) kuRayeTe != koRayeTe,kuRayeTe (pysan)
+     2p (sanverb) kuRayaDve != koRayaDve,kuRayaDve (pysan)
+     1s (sanverb) kuRaye != koRaye,kuRaye (pysan)
+     1d (sanverb) kuRayAvahe != koRayAvahe,kuRayAvahe (pysan)
+     1p (sanverb) kuRayAmahe != koRayAmahe,kuRayAmahe (pysan)
+kuR pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kuRayati != koRayati,kuRayati (pysan)
+     3d (sanverb) kuRayataH != koRayataH,kuRayataH (pysan)
+     3p (sanverb) kuRayanti != koRayanti,kuRayanti (pysan)
+     2s (sanverb) kuRayasi != koRayasi,kuRayasi (pysan)
+     2d (sanverb) kuRayaTaH != koRayaTaH,kuRayaTaH (pysan)
+     2p (sanverb) kuRayaTa != koRayaTa,kuRayaTa (pysan)
+     1s (sanverb) kuRayAmi != koRayAmi,kuRayAmi (pysan)
+     1d (sanverb) kuRayAvaH != koRayAvaH,kuRayAvaH (pysan)
+     1p (sanverb) kuRayAmaH != koRayAmaH,kuRayAmaH (pysan)
+kuR pre 6P: identical
+kuts pre 10A: identical
+kuT pre 4P: identical
+kunT pre 1P: identical
+kundr pre 10A: identical
+kundr pre 10P: identical
+kunT pre 9P: identical
+kup pre 4P: identical
+kup pre 10A: identical
+kup pre 10P: identical
+kumb pre 1P: identical
+kumb pre 10A: identical
+kumb pre 10P: identical
+kumB pre 10A: identical
+kumB pre 10P: identical
+kur pre 6P: identical
+kurd pre 1A: identical
+kul pre 1P: identical
+kuS pre 4P: identical
+kuMS pre 10A: identical
+kuMS pre 10P: identical
+kuz pre 9P: identical
+kus pre 4P: identical
+kusm pre 10A: identical
+kuh pre 10A: identical
+kU pre 6A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kuvate != kUvate (pysan)
+     3d (sanverb) kuvete != kUvete (pysan)
+     3p (sanverb) kuvante != kUvante (pysan)
+     2s (sanverb) kuvase != kUvase (pysan)
+     2d (sanverb) kuveTe != kUveTe (pysan)
+     2p (sanverb) kuvaDve != kUvaDve (pysan)
+     1s (sanverb) kuve != kUve (pysan)
+     1d (sanverb) kuvAvahe != kUvAvahe (pysan)
+     1p (sanverb) kuvAmahe != kUvAmahe (pysan)
+kUj pre 1P: identical
+kUw pre 10A: identical
+kUw pre 10P: identical
+kUR pre 10A: identical
+kUR pre 10A: identical
+kUl pre 1P: identical
+kf pre 1A: identical
+kf pre 1P: identical
+kf pre 5A: identical
+kf pre 5P: identical
+kfq pre 6P: identical
+kft pre 6P: identical
+kft pre 7P: conjugation differences @ 3d,2d,2p,1s,1p 
+     3d (sanverb) kfntaH,kfnttaH != kfnttaH (pysan)
+     2d (sanverb) kfnTaH,kfntTaH != kfntTaH (pysan)
+     2p (sanverb) kfnTa,kfntTa != kfntTa (pysan)
+     1s (sanverb) kfRatmi != kfRadmi (pysan)
+     1p (sanverb) kfntmaH != kfndmaH (pysan)
+kfp pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kfpayate != kfpAyate,kfpayate (pysan)
+     3d (sanverb) kfpayete != kfpAyete,kfpayete (pysan)
+     3p (sanverb) kfpayante != kfpAyante,kfpayante (pysan)
+     2s (sanverb) kfpayase != kfpAyase,kfpayase (pysan)
+     2d (sanverb) kfpayeTe != kfpAyeTe,kfpayeTe (pysan)
+     2p (sanverb) kfpayaDve != kfpAyaDve,kfpayaDve (pysan)
+     1s (sanverb) kfpaye != kfpAye,kfpaye (pysan)
+     1d (sanverb) kfpayAvahe != kfpAyAvahe,kfpayAvahe (pysan)
+     1p (sanverb) kfpayAmahe != kfpAyAmahe,kfpayAmahe (pysan)
+kfp pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kfpayati != kfpAyati,kfpayati (pysan)
+     3d (sanverb) kfpayataH != kfpAyataH,kfpayataH (pysan)
+     3p (sanverb) kfpayanti != kfpAyanti,kfpayanti (pysan)
+     2s (sanverb) kfpayasi != kfpAyasi,kfpayasi (pysan)
+     2d (sanverb) kfpayaTaH != kfpAyaTaH,kfpayaTaH (pysan)
+     2p (sanverb) kfpayaTa != kfpAyaTa,kfpayaTa (pysan)
+     1s (sanverb) kfpayAmi != kfpAyAmi,kfpayAmi (pysan)
+     1d (sanverb) kfpayAvaH != kfpAyAvaH,kfpayAvaH (pysan)
+     1p (sanverb) kfpayAmaH != kfpAyAmaH,kfpayAmaH (pysan)
+kfp pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kalpayate != kfpAyate,kfpayate (pysan)
+     3d (sanverb) kalpayete != kfpAyete,kfpayete (pysan)
+     3p (sanverb) kalpayante != kfpAyante,kfpayante (pysan)
+     2s (sanverb) kalpayase != kfpAyase,kfpayase (pysan)
+     2d (sanverb) kalpayeTe != kfpAyeTe,kfpayeTe (pysan)
+     2p (sanverb) kalpayaDve != kfpAyaDve,kfpayaDve (pysan)
+     1s (sanverb) kalpaye != kfpAye,kfpaye (pysan)
+     1d (sanverb) kalpayAvahe != kfpAyAvahe,kfpayAvahe (pysan)
+     1p (sanverb) kalpayAmahe != kfpAyAmahe,kfpayAmahe (pysan)
+kfp pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kalpayati != kfpAyati,kfpayati (pysan)
+     3d (sanverb) kalpayataH != kfpAyataH,kfpayataH (pysan)
+     3p (sanverb) kalpayanti != kfpAyanti,kfpayanti (pysan)
+     2s (sanverb) kalpayasi != kfpAyasi,kfpayasi (pysan)
+     2d (sanverb) kalpayaTaH != kfpAyaTaH,kfpayaTaH (pysan)
+     2p (sanverb) kalpayaTa != kfpAyaTa,kfpayaTa (pysan)
+     1s (sanverb) kalpayAmi != kfpAyAmi,kfpayAmi (pysan)
+     1d (sanverb) kalpayAvaH != kfpAyAvaH,kfpayAvaH (pysan)
+     1p (sanverb) kalpayAmaH != kfpAyAmaH,kfpayAmaH (pysan)
+kxp pre 1A: identical
+kfRv pre 1P: conjugation differences @ 3s,3d,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kfRoti != kfRvati (pysan)
+     3d (sanverb) kfRutaH != kfRvataH (pysan)
+     2s (sanverb) kfRozi != kfRvasi (pysan)
+     2d (sanverb) kfRuTaH != kfRvaTaH (pysan)
+     2p (sanverb) kfRuTa != kfRvaTa (pysan)
+     1s (sanverb) kfRomi != kfRvAmi (pysan)
+     1d (sanverb) kfRuvaH,kfRvaH != kfRvAvaH (pysan)
+     1p (sanverb) kfRmaH,kfRumaH != kfRvAmaH (pysan)
+kfS pre 4P: identical
+kfz pre 1P: identical
+kfz pre 6A: identical
+kfz pre 6P: identical
+kF pre 6P: identical
+kF pre 9P: identical
+kF pre 9A: identical
+kF pre 9P: identical
+kFt pre 10A: identical
+kFt pre 10P: identical
+keta pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) ketayate != ketAyate (pysan)
+     3d (sanverb) ketayete != ketAyete (pysan)
+     3p (sanverb) ketayante != ketAyante (pysan)
+     2s (sanverb) ketayase != ketAyase (pysan)
+     2d (sanverb) ketayeTe != ketAyeTe (pysan)
+     2p (sanverb) ketayaDve != ketAyaDve (pysan)
+     1s (sanverb) ketaye != ketAye (pysan)
+     1d (sanverb) ketayAvahe != ketAyAvahe (pysan)
+     1p (sanverb) ketayAmahe != ketAyAmahe (pysan)
+keta pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) ketayati != ketAyati (pysan)
+     3d (sanverb) ketayataH != ketAyataH (pysan)
+     3p (sanverb) ketayanti != ketAyanti (pysan)
+     2s (sanverb) ketayasi != ketAyasi (pysan)
+     2d (sanverb) ketayaTaH != ketAyaTaH (pysan)
+     2p (sanverb) ketayaTa != ketAyaTa (pysan)
+     1s (sanverb) ketayAmi != ketAyAmi (pysan)
+     1d (sanverb) ketayAvaH != ketAyAvaH (pysan)
+     1p (sanverb) ketayAmaH != ketAyAmaH (pysan)
+kep pre 1A: identical
+kel pre 1P: identical
+kev pre 1A: identical
+kE pre 1P: identical
+knaT pre 1P: identical
+knas pre 4P: identical
+knU pre 9A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) knUnIte != knunIte (pysan)
+     3d (sanverb) knUnAte != knunAte (pysan)
+     3p (sanverb) knUnate != knunate (pysan)
+     2s (sanverb) knUnIze != knunIze (pysan)
+     2d (sanverb) knUnATe != knunATe (pysan)
+     2p (sanverb) knUnIDve != knunIDve (pysan)
+     1s (sanverb) knUne != knune (pysan)
+     1d (sanverb) knUnIvahe != knunIvahe (pysan)
+     1p (sanverb) knUnImahe != knunImahe (pysan)
+knU pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) knUnAti != knunAti (pysan)
+     3d (sanverb) knUnItaH != knunItaH (pysan)
+     3p (sanverb) knUnanti != knunanti (pysan)
+     2s (sanverb) knUnAsi != knunAsi (pysan)
+     2d (sanverb) knUnITaH != knunITaH (pysan)
+     2p (sanverb) knUnITa != knunITa (pysan)
+     1s (sanverb) knUnAmi != knunAmi (pysan)
+     1d (sanverb) knUnIvaH != knunIvaH (pysan)
+     1p (sanverb) knUnImaH != knunImaH (pysan)
+knUy pre 1A: identical
+kmar pre 1P: identical
+kraT pre 1P: identical
+krad pre 1A: identical
+krand pre 1A: identical
+krand pre 1P: identical
+krap pre 1A: identical
+kram pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) krAmati,krAmyati != krAmati (pysan)
+     3d (sanverb) krAmataH,krAmyataH != krAmataH (pysan)
+     3p (sanverb) krAmanti,krAmyanti != krAmanti (pysan)
+     2s (sanverb) krAmasi,krAmyasi != krAmasi (pysan)
+     2d (sanverb) krAmaTaH,krAmyaTaH != krAmaTaH (pysan)
+     2p (sanverb) krAmaTa,krAmyaTa != krAmaTa (pysan)
+     1s (sanverb) krAmAmi,krAmyAmi != krAmAmi (pysan)
+     1d (sanverb) krAmAvaH,krAmyAvaH != krAmAvaH (pysan)
+     1p (sanverb) krAmAmaH,krAmyAmaH != krAmAmaH (pysan)
+krIq pre 1P: identical
+kruYc pre 1P: identical
+kruq pre 6P: identical
+kruD pre 4P: identical
+kruS pre 1P: identical
+klaT pre 1P: identical
+klad pre 1A: identical
+kland pre 1A: identical
+kland pre 1P: identical
+klap pre 10A: identical
+klap pre 10P: identical
+klam pre 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) klAmati,klAmyati != klAmyati (pysan)
+     3d (sanverb) klAmataH,klAmyataH != klAmyataH (pysan)
+     3p (sanverb) klAmanti,klAmyanti != klAmyanti (pysan)
+     2s (sanverb) klAmasi,klAmyasi != klAmyasi (pysan)
+     2d (sanverb) klAmaTaH,klAmyaTaH != klAmyaTaH (pysan)
+     2p (sanverb) klAmaTa,klAmyaTa != klAmyaTa (pysan)
+     1s (sanverb) klAmAmi,klAmyAmi != klAmyAmi (pysan)
+     1d (sanverb) klAmAvaH,klAmyAvaH != klAmyAvaH (pysan)
+     1p (sanverb) klAmAmaH,klAmyAmaH != klAmyAmaH (pysan)
+klind pre 1A: identical
+klind pre 1P: identical
+klid pre 4P: identical
+kliS pre 4A: identical
+kliS pre 9P: identical
+klIb pre 1A: identical
+klu pre 1A: identical
+kleS pre 1A: identical
+kvaR pre 1P: identical
+kvaT pre 1P: identical
+kzaYj pre 1A: identical
+kzaYj pre 10A: identical
+kzaYj pre 10P: identical
+kzaR pre 8A: identical
+kzaR pre 8P: identical
+kzap pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kzApayate,kzapayate != kzapayate (pysan)
+     3d (sanverb) kzApayete,kzapayete != kzapayete (pysan)
+     3p (sanverb) kzApayante,kzapayante != kzapayante (pysan)
+     2s (sanverb) kzApayase,kzapayase != kzapayase (pysan)
+     2d (sanverb) kzApayeTe,kzapayeTe != kzapayeTe (pysan)
+     2p (sanverb) kzApayaDve,kzapayaDve != kzapayaDve (pysan)
+     1s (sanverb) kzApaye,kzapaye != kzapaye (pysan)
+     1d (sanverb) kzApayAvahe,kzapayAvahe != kzapayAvahe (pysan)
+     1p (sanverb) kzApayAmahe,kzapayAmahe != kzapayAmahe (pysan)
+kzap pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kzApayati,kzapayati != kzapayati (pysan)
+     3d (sanverb) kzApayataH,kzapayataH != kzapayataH (pysan)
+     3p (sanverb) kzApayanti,kzapayanti != kzapayanti (pysan)
+     2s (sanverb) kzApayasi,kzapayasi != kzapayasi (pysan)
+     2d (sanverb) kzApayaTaH,kzapayaTaH != kzapayaTaH (pysan)
+     2p (sanverb) kzApayaTa,kzapayaTa != kzapayaTa (pysan)
+     1s (sanverb) kzApayAmi,kzapayAmi != kzapayAmi (pysan)
+     1d (sanverb) kzApayAvaH,kzapayAvaH != kzapayAvaH (pysan)
+     1p (sanverb) kzApayAmaH,kzapayAmaH != kzapayAmaH (pysan)
+kzamp pre 10A: identical
+kzamp pre 10P: identical
+kzam pre 4P: identical
+kzam pre 1A: identical
+kzar pre 1P: identical
+kzal pre 10A: identical
+kzal pre 10P: identical
+kzi pre 1P: identical
+kzi pre 5P: identical
+kzi pre 6P: identical
+kziR pre 8A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kzeRute != kziRute (pysan)
+     3d (sanverb) kzeRvAte != kziRvAte (pysan)
+     3p (sanverb) kzeRvate != kziRvate (pysan)
+     2s (sanverb) kzeRuze != kziRuze (pysan)
+     2d (sanverb) kzeRvATe != kziRvATe (pysan)
+     2p (sanverb) kzeRuDve != kziRuDve (pysan)
+     1s (sanverb) kzeRve != kziRve (pysan)
+     1d (sanverb) kzeRuvahe,kzeRvahe != kziRuvahe,kziRvahe (pysan)
+     1p (sanverb) kzeRmahe,kzeRumahe != kziRmahe,kziRumahe (pysan)
+kziR pre 8P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kzeRoti != kziRoti (pysan)
+     3d (sanverb) kzeRutaH != kziRutaH (pysan)
+     3p (sanverb) kzeRvanti != kziRvanti (pysan)
+     2s (sanverb) kzeRozi != kziRozi (pysan)
+     2d (sanverb) kzeRuTaH != kziRuTaH (pysan)
+     2p (sanverb) kzeRuTa != kziRuTa (pysan)
+     1s (sanverb) kzeRomi != kziRomi (pysan)
+     1d (sanverb) kzeRuvaH,kzeRvaH != kziRuvaH,kziRvaH (pysan)
+     1p (sanverb) kzeRmaH,kzeRumaH != kziRmaH,kziRumaH (pysan)
+kzip pre 4P: identical
+kzip pre 6A: identical
+kzip pre 6P: identical
+kziv pre 1P: identical
+kzI pre 5P: identical
+kzIj pre 1P: identical
+kzIb pre 1A: identical
+kzIv pre 1A: identical
+kzIz pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) kzIRAti != kzIzRAti (pysan)
+     3d (sanverb) kzIRItaH != kzIzRItaH (pysan)
+     3p (sanverb) kzIRanti != kzIzRanti (pysan)
+     2s (sanverb) kzIRAsi != kzIzRAsi (pysan)
+     2d (sanverb) kzIRITaH != kzIzRITaH (pysan)
+     2p (sanverb) kzIRITa != kzIzRITa (pysan)
+     1s (sanverb) kzIRAmi != kzIzRAmi (pysan)
+     1d (sanverb) kzIRIvaH != kzIzRIvaH (pysan)
+     1p (sanverb) kzIRImaH != kzIzRImaH (pysan)
+kzud pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) kzunte,kzuntte != kzuntte (pysan)
+     2p (sanverb) kzunDve,kzundDve != kzundDve (pysan)
+kzud pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) kzuntaH,kzunttaH != kzunttaH (pysan)
+     2d (sanverb) kzunTaH,kzuntTaH != kzuntTaH (pysan)
+     2p (sanverb) kzunTa,kzuntTa != kzuntTa (pysan)
+kzuD pre 4P: identical
+kzuB pre 1A: identical
+kzuB pre 4P: identical
+kzuB pre 9P: identical
+kzur pre 1P: identical
+kzur pre 6P: identical
+kzev pre 1P: identical
+kzE pre 1P: identical
+kzow pre 10A: identical
+kzow pre 10P: identical
+kzRu pre 2P: identical
+kzmAy pre 1A: identical
+kzmIl pre 1P: identical
+kzvel pre 1P: identical
+Kac pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) KacYAti != KacnAti (pysan)
+     3d (sanverb) KacYItaH != KacnItaH (pysan)
+     3p (sanverb) KacYanti != Kacnanti (pysan)
+     2s (sanverb) KacYAsi != KacnAsi (pysan)
+     2d (sanverb) KacYITaH != KacnITaH (pysan)
+     2p (sanverb) KacYITa != KacnITa (pysan)
+     1s (sanverb) KacYAmi != KacnAmi (pysan)
+     1d (sanverb) KacYIvaH != KacnIvaH (pysan)
+     1p (sanverb) KacYImaH != KacnImaH (pysan)
+Kaj pre 1P: identical
+KaYj pre 1P: identical
+Kaw pre 1P: identical
+Kaww pre 10A: identical
+Kaww pre 10P: identical
+Kaq pre 10A: identical
+Kaq pre 10P: identical
+KaRq pre 1A: identical
+KaRq pre 10A: identical
+KaRq pre 10P: identical
+Kad pre 1P: identical
+Kan pre 1A: identical
+Kan pre 1P: identical
+Karj pre 1P: identical
+Kard pre 1P: identical
+Karb pre 1P: identical
+Karv pre 1P: identical
+Kal pre 1P: identical
+Kav pre 9P: conjugation differences @ 3p 
+     3p (sanverb) Kananti != Kavnanti (pysan)
+Kaz pre 1P: identical
+KAd pre 1P: identical
+Kiw pre 1P: identical
+Kid pre 4A: identical
+Kid pre 6P: identical
+Kid pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) Kinte,Kintte != Kintte (pysan)
+     2p (sanverb) KinDve,KindDve != KindDve (pysan)
+Ku pre 1A: identical
+Kuj pre 1P: identical
+Kuq pre 6P: identical
+KuRq pre 10A: identical
+KuRq pre 10P: identical
+Kur pre 6P: identical
+Kurd pre 1A: identical
+Kew pre 10A: identical
+Kew pre 10P: identical
+Keq pre 10A: identical
+Keq pre 10P: identical
+Kel pre 1P: identical
+Kev pre 1A: identical
+KE pre 1P: identical
+Kow pre 10A: identical
+Kow pre 10P: identical
+Kor pre 1P: identical
+Kol pre 1P: identical
+KyA pre 2P: identical
+gaj pre 1P: identical
+gaj pre 10A: identical
+gaj pre 10P: identical
+gaYj pre 1P: identical
+gaq pre 1P: identical
+gaRq pre 1P: identical
+gaRq pre 1P: identical
+gaR pre 10A: identical
+gaR pre 10P: identical
+gad pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gadayate != gAdayate,gadayate (pysan)
+     3d (sanverb) gadayete != gAdayete,gadayete (pysan)
+     3p (sanverb) gadayante != gAdayante,gadayante (pysan)
+     2s (sanverb) gadayase != gAdayase,gadayase (pysan)
+     2d (sanverb) gadayeTe != gAdayeTe,gadayeTe (pysan)
+     2p (sanverb) gadayaDve != gAdayaDve,gadayaDve (pysan)
+     1s (sanverb) gadaye != gAdaye,gadaye (pysan)
+     1d (sanverb) gadayAvahe != gAdayAvahe,gadayAvahe (pysan)
+     1p (sanverb) gadayAmahe != gAdayAmahe,gadayAmahe (pysan)
+gad pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gadayati != gAdayati,gadayati (pysan)
+     3d (sanverb) gadayataH != gAdayataH,gadayataH (pysan)
+     3p (sanverb) gadayanti != gAdayanti,gadayanti (pysan)
+     2s (sanverb) gadayasi != gAdayasi,gadayasi (pysan)
+     2d (sanverb) gadayaTaH != gAdayaTaH,gadayaTaH (pysan)
+     2p (sanverb) gadayaTa != gAdayaTa,gadayaTa (pysan)
+     1s (sanverb) gadayAmi != gAdayAmi,gadayAmi (pysan)
+     1d (sanverb) gadayAvaH != gAdayAvaH,gadayAvaH (pysan)
+     1p (sanverb) gadayAmaH != gAdayAmaH,gadayAmaH (pysan)
+gad pre 1P: identical
+ganD pre 10A: identical
+gam pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gacCati != gacCati,gamati (pysan)
+     3d (sanverb) gacCataH != gacCataH,gamataH (pysan)
+     3p (sanverb) gacCanti != gacCanti,gamanti (pysan)
+     2s (sanverb) gacCasi != gacCasi,gamasi (pysan)
+     2d (sanverb) gacCaTaH != gacCaTaH,gamaTaH (pysan)
+     2p (sanverb) gacCaTa != gacCaTa,gamaTa (pysan)
+     1s (sanverb) gacCAmi != gacCAmi,gamAmi (pysan)
+     1d (sanverb) gacCAvaH != gacCAvaH,gamAvaH (pysan)
+     1p (sanverb) gacCAmaH != gacCAmaH,gamAmaH (pysan)
+garj pre 1P: identical
+garj pre 10A: identical
+garj pre 10P: identical
+gard pre 1P: identical
+gard pre 10A: identical
+gard pre 10P: identical
+garD pre 10A: identical
+garD pre 10P: identical
+garb pre 1P: identical
+garv pre 10A: identical
+garv pre 1P: identical
+garh pre 1A: identical
+garh pre 10A: identical
+garh pre 10P: identical
+gal pre 1P: identical
+gal pre 10A: identical
+galB pre 1A: identical
+galh pre 1A: identical
+gA pre 3P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) jigAti != jagati (pysan)
+     3d (sanverb) jigItaH != jagAtaH (pysan)
+     3p (sanverb) jigati != jagAti (pysan)
+     2s (sanverb) jigAsi != jagasi (pysan)
+     2d (sanverb) jigITaH != jagATaH (pysan)
+     2p (sanverb) jigITa != jagATa (pysan)
+     1s (sanverb) jigAmi != jagami (pysan)
+     1d (sanverb) jigIvaH != jagAvaH (pysan)
+     1p (sanverb) jigImaH != jagAmaH (pysan)
+gA pre 1A: conjugation differences @ 3d,3p,2d 
+     3d (sanverb) gAte != gEte (pysan)
+     3p (sanverb) gAte != gAnte (pysan)
+     2d (sanverb) gATe != gETe (pysan)
+gAD pre 1A: identical
+gAh pre 1A: identical
+gu pre 6P: identical
+gu pre 1A: identical
+gu pre 1A: identical
+guj pre 1P: identical
+guj pre 6P: identical
+guYj pre 1P: identical
+guRW pre 10A: identical
+guRW pre 10P: identical
+guq pre 6P: identical
+guRq pre 10A: identical
+guRq pre 10P: identical
+guRa pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) guRayate != guRAyate (pysan)
+     3d (sanverb) guRayete != guRAyete (pysan)
+     3p (sanverb) guRayante != guRAyante (pysan)
+     2s (sanverb) guRayase != guRAyase (pysan)
+     2d (sanverb) guRayeTe != guRAyeTe (pysan)
+     2p (sanverb) guRayaDve != guRAyaDve (pysan)
+     1s (sanverb) guRaye != guRAye (pysan)
+     1d (sanverb) guRayAvahe != guRAyAvahe (pysan)
+     1p (sanverb) guRayAmahe != guRAyAmahe (pysan)
+guRa pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) guRayati != guRAyati (pysan)
+     3d (sanverb) guRayataH != guRAyataH (pysan)
+     3p (sanverb) guRayanti != guRAyanti (pysan)
+     2s (sanverb) guRayasi != guRAyasi (pysan)
+     2d (sanverb) guRayaTaH != guRAyaTaH (pysan)
+     2p (sanverb) guRayaTa != guRAyaTa (pysan)
+     1s (sanverb) guRayAmi != guRAyAmi (pysan)
+     1d (sanverb) guRayAvaH != guRAyAvaH (pysan)
+     1p (sanverb) guRayAmaH != guRAyAmaH (pysan)
+gud pre 1A: identical
+guD pre 4P: identical
+guD pre 9P: identical
+gup pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gopate != jugupsate (pysan)
+     3d (sanverb) gopete != jugupsete (pysan)
+     3p (sanverb) gopante != jugupsante (pysan)
+     2s (sanverb) gopase != jugupsase (pysan)
+     2d (sanverb) gopeTe != jugupseTe (pysan)
+     2p (sanverb) gopaDve != jugupsaDve (pysan)
+     1s (sanverb) gope != jugupse (pysan)
+     1d (sanverb) gopAvahe != jugupsAvahe (pysan)
+     1p (sanverb) gopAmahe != jugupsAmahe (pysan)
+gup pre 4P: identical
+gup pre 1P: identical
+guP pre 6P: identical
+gumP pre 6P: identical
+gur pre 6A: identical
+gurd pre 1A: identical
+gurd pre 10A: identical
+gurd pre 10P: identical
+gurv pre 1P: identical
+guh pre 1A: identical
+guh pre 1P: identical
+gUr pre 4A: identical
+gf pre 1P: identical
+gfj pre 1P: identical
+gfYj pre 1P: identical
+gfD pre 4P: identical
+gfha pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gfhayate != gfhAyate (pysan)
+     3d (sanverb) gfhayete != gfhAyete (pysan)
+     3p (sanverb) gfhayante != gfhAyante (pysan)
+     2s (sanverb) gfhayase != gfhAyase (pysan)
+     2d (sanverb) gfhayeTe != gfhAyeTe (pysan)
+     2p (sanverb) gfhayaDve != gfhAyaDve (pysan)
+     1s (sanverb) gfhaye != gfhAye (pysan)
+     1d (sanverb) gfhayAvahe != gfhAyAvahe (pysan)
+     1p (sanverb) gfhayAmahe != gfhAyAmahe (pysan)
+gUh pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) garhate != gUhate (pysan)
+     3d (sanverb) garhete != gUhete (pysan)
+     3p (sanverb) garhante != gUhante (pysan)
+     2s (sanverb) garhase != gUhase (pysan)
+     2d (sanverb) garheTe != gUheTe (pysan)
+     2p (sanverb) garhaDve != gUhaDve (pysan)
+     1s (sanverb) garhe != gUhe (pysan)
+     1d (sanverb) garhAvahe != gUhAvahe (pysan)
+     1p (sanverb) garhAmahe != gUhAmahe (pysan)
+gF pre 9P: identical
+gep pre 1A: identical
+gev pre 1A: identical
+gez pre 1A: identical
+gE pre 1P: identical
+goma pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gomayate != gomAyate (pysan)
+     3d (sanverb) gomayete != gomAyete (pysan)
+     3p (sanverb) gomayante != gomAyante (pysan)
+     2s (sanverb) gomayase != gomAyase (pysan)
+     2d (sanverb) gomayeTe != gomAyeTe (pysan)
+     2p (sanverb) gomayaDve != gomAyaDve (pysan)
+     1s (sanverb) gomaye != gomAye (pysan)
+     1d (sanverb) gomayAvahe != gomAyAvahe (pysan)
+     1p (sanverb) gomayAmahe != gomAyAmahe (pysan)
+goma pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) gomayati != gomAyati (pysan)
+     3d (sanverb) gomayataH != gomAyataH (pysan)
+     3p (sanverb) gomayanti != gomAyanti (pysan)
+     2s (sanverb) gomayasi != gomAyasi (pysan)
+     2d (sanverb) gomayaTaH != gomAyaTaH (pysan)
+     2p (sanverb) gomayaTa != gomAyaTa (pysan)
+     1s (sanverb) gomayAmi != gomAyAmi (pysan)
+     1d (sanverb) gomayAvaH != gomAyAvaH (pysan)
+     1p (sanverb) gomayAmaH != gomAyAmaH (pysan)
+gozw pre 1A: identical
+granT pre 1A: identical
+granT pre 9P: identical
+granT pre 10A: identical
+granT pre 10P: identical
+gras pre 10A: identical
+gras pre 10P: identical
+gras pre 1A: identical
+grah pre 9A: identical
+grah pre 9P: identical
+grAma pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) grAmayate != grAmAyate (pysan)
+     3d (sanverb) grAmayete != grAmAyete (pysan)
+     3p (sanverb) grAmayante != grAmAyante (pysan)
+     2s (sanverb) grAmayase != grAmAyase (pysan)
+     2d (sanverb) grAmayeTe != grAmAyeTe (pysan)
+     2p (sanverb) grAmayaDve != grAmAyaDve (pysan)
+     1s (sanverb) grAmaye != grAmAye (pysan)
+     1d (sanverb) grAmayAvahe != grAmAyAvahe (pysan)
+     1p (sanverb) grAmayAmahe != grAmAyAmahe (pysan)
+grAma pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) grAmayati != grAmAyati (pysan)
+     3d (sanverb) grAmayataH != grAmAyataH (pysan)
+     3p (sanverb) grAmayanti != grAmAyanti (pysan)
+     2s (sanverb) grAmayasi != grAmAyasi (pysan)
+     2d (sanverb) grAmayaTaH != grAmAyaTaH (pysan)
+     2p (sanverb) grAmayaTa != grAmAyaTa (pysan)
+     1s (sanverb) grAmayAmi != grAmAyAmi (pysan)
+     1d (sanverb) grAmayAvaH != grAmAyAvaH (pysan)
+     1p (sanverb) grAmayAmaH != grAmAyAmaH (pysan)
+gruc pre 1P: identical
+glas pre 1A: identical
+glah pre 1A: identical
+gluc pre 1P: identical
+gluYc pre 1P: identical
+glep pre 1A: identical
+glep pre 1A: identical
+glev pre 1A: identical
+glez pre 1A: identical
+glE pre 1P: identical
+GagG pre 1P: identical
+GaG pre 1P: identical
+Gaw pre 1A: identical
+Gaw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Gawayate != GAwayate (pysan)
+     3d (sanverb) Gawayete != GAwayete (pysan)
+     3p (sanverb) Gawayante != GAwayante (pysan)
+     2s (sanverb) Gawayase != GAwayase (pysan)
+     2d (sanverb) GawayeTe != GAwayeTe (pysan)
+     2p (sanverb) GawayaDve != GAwayaDve (pysan)
+     1s (sanverb) Gawaye != GAwaye (pysan)
+     1d (sanverb) GawayAvahe != GAwayAvahe (pysan)
+     1p (sanverb) GawayAmahe != GAwayAmahe (pysan)
+Gaw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Gawayati != GAwayati (pysan)
+     3d (sanverb) GawayataH != GAwayataH (pysan)
+     3p (sanverb) Gawayanti != GAwayanti (pysan)
+     2s (sanverb) Gawayasi != GAwayasi (pysan)
+     2d (sanverb) GawayaTaH != GAwayaTaH (pysan)
+     2p (sanverb) GawayaTa != GAwayaTa (pysan)
+     1s (sanverb) GawayAmi != GAwayAmi (pysan)
+     1d (sanverb) GawayAvaH != GAwayAvaH (pysan)
+     1p (sanverb) GawayAmaH != GAwayAmaH (pysan)
+Gaw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Gawayate != GAwayate (pysan)
+     3d (sanverb) Gawayete != GAwayete (pysan)
+     3p (sanverb) Gawayante != GAwayante (pysan)
+     2s (sanverb) Gawayase != GAwayase (pysan)
+     2d (sanverb) GawayeTe != GAwayeTe (pysan)
+     2p (sanverb) GawayaDve != GAwayaDve (pysan)
+     1s (sanverb) Gawaye != GAwaye (pysan)
+     1d (sanverb) GawayAvahe != GAwayAvahe (pysan)
+     1p (sanverb) GawayAmahe != GAwayAmahe (pysan)
+Gaw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Gawayati != GAwayati (pysan)
+     3d (sanverb) GawayataH != GAwayataH (pysan)
+     3p (sanverb) Gawayanti != GAwayanti (pysan)
+     2s (sanverb) Gawayasi != GAwayasi (pysan)
+     2d (sanverb) GawayaTaH != GAwayaTaH (pysan)
+     2p (sanverb) GawayaTa != GAwayaTa (pysan)
+     1s (sanverb) GawayAmi != GAwayAmi (pysan)
+     1d (sanverb) GawayAvaH != GAwayAvaH (pysan)
+     1p (sanverb) GawayAmaH != GAwayAmaH (pysan)
+GaRw pre 10A: identical
+GaRw pre 10P: identical
+Gaww pre 1A: identical
+Gaww pre 10A: identical
+Gaww pre 10P: identical
+Gaz pre 1A: identical
+Gas pre 1P: identical
+GiRR pre 1A: identical
+Gu pre 1A: identical
+Guw pre 1A: identical
+Guw pre 6P: identical
+GuR pre 1A: identical
+GuR pre 6P: identical
+GuRR pre 1A: identical
+Gur pre 6P: identical
+GuMz pre 1A: identical
+Guz pre 1P: identical
+Guz pre 10A: identical
+Guz pre 10P: identical
+GUr pre 4A: identical
+GUrR pre 1A: identical
+GUrR pre 6P: identical
+Gf pre 1P: identical
+Gf pre 3P: identical
+Gf pre 10A: identical
+Gf pre 10P: identical
+GfRR pre 1A: identical
+GfR pre 8A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) GarRute != GfRute (pysan)
+     3d (sanverb) GarRvAte != GfRvAte (pysan)
+     3p (sanverb) GarRvate != GfRvate (pysan)
+     2s (sanverb) GarRuze != GfRuze (pysan)
+     2d (sanverb) GarRvATe != GfRvATe (pysan)
+     2p (sanverb) GarRuDve != GfRuDve (pysan)
+     1s (sanverb) GarRve != GfRve (pysan)
+     1d (sanverb) GarRuvahe != GfRuvahe,GfRvahe (pysan)
+     1p (sanverb) GarRumahe != GfRmahe,GfRumahe (pysan)
+GfR pre 8P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) GarRoti != GfRoti (pysan)
+     3d (sanverb) GarRutaH != GfRutaH (pysan)
+     3p (sanverb) GarRvanti != GfRvanti (pysan)
+     2s (sanverb) GarRozi != GfRozi (pysan)
+     2d (sanverb) GarRuTaH != GfRuTaH (pysan)
+     2p (sanverb) GarRuTa != GfRuTa (pysan)
+     1s (sanverb) GarRomi != GfRomi (pysan)
+     1d (sanverb) GarRuvaH != GfRuvaH,GfRvaH (pysan)
+     1p (sanverb) GarRumaH != GfRmaH,GfRumaH (pysan)
+Gfz pre 1P: identical
+GrA pre 1P: identical
+Nu pre 1A: identical
+cak pre 1P: identical
+cak pre 1A: identical
+cakAs pre 2P: identical
+cakk pre 10A: identical
+cakk pre 10P: identical
+cakz pre 2A: conjugation differences @ 2s,2p 
+     2s (sanverb) cakze != cakkze (pysan)
+     2p (sanverb) caqQve != cazQve (pysan)
+caYc pre 1P: identical
+caw pre 10A: identical
+caw pre 10P: identical
+caw pre 1P: identical
+caRq pre 1A: identical
+caRq pre 10A: identical
+caRq pre 10P: identical
+caR pre 1P: identical
+cat pre 1A: identical
+cat pre 1P: identical
+cand pre 1P: identical
+cad pre 1A: identical
+cad pre 1P: identical
+can pre 1P: identical
+can pre 10A: identical
+can pre 10P: identical
+cap pre 1P: identical
+cap pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cApayate != capayate (pysan)
+     3d (sanverb) cApayete != capayete (pysan)
+     3p (sanverb) cApayante != capayante (pysan)
+     2s (sanverb) cApayase != capayase (pysan)
+     2d (sanverb) cApayeTe != capayeTe (pysan)
+     2p (sanverb) cApayaDve != capayaDve (pysan)
+     1s (sanverb) cApaye != capaye (pysan)
+     1d (sanverb) cApayAvahe != capayAvahe (pysan)
+     1p (sanverb) cApayAmahe != capayAmahe (pysan)
+cap pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cApayati != capayati (pysan)
+     3d (sanverb) cApayataH != capayataH (pysan)
+     3p (sanverb) cApayanti != capayanti (pysan)
+     2s (sanverb) cApayasi != capayasi (pysan)
+     2d (sanverb) cApayaTaH != capayaTaH (pysan)
+     2p (sanverb) cApayaTa != capayaTa (pysan)
+     1s (sanverb) cApayAmi != capayAmi (pysan)
+     1d (sanverb) cApayAvaH != capayAvaH (pysan)
+     1p (sanverb) cApayAmaH != capayAmaH (pysan)
+camp pre 10A: identical
+camp pre 10P: identical
+cam pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) camati != cAmati (pysan)
+     3d (sanverb) camataH != cAmataH (pysan)
+     3p (sanverb) camanti != cAmanti (pysan)
+     2s (sanverb) camasi != cAmasi (pysan)
+     2d (sanverb) camaTaH != cAmaTaH (pysan)
+     2p (sanverb) camaTa != cAmaTa (pysan)
+     1s (sanverb) camAmi != cAmAmi (pysan)
+     1d (sanverb) camAvaH != cAmAvaH (pysan)
+     1p (sanverb) camAmaH != cAmAmaH (pysan)
+cam pre 5P: identical
+cay pre 1A: identical
+car pre 1P: identical
+car pre 10A: identical
+car pre 10P: identical
+carc pre 1P: identical
+carc pre 6P: identical
+carb pre 1P: identical
+carv pre 1P: identical
+cal pre 1P: identical
+cal pre 10P: identical
+caz pre 1A: identical
+caz pre 1P: identical
+cah pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cahayate != cAhayate (pysan)
+     3d (sanverb) cahayete != cAhayete (pysan)
+     3p (sanverb) cahayante != cAhayante (pysan)
+     2s (sanverb) cahayase != cAhayase (pysan)
+     2d (sanverb) cahayeTe != cAhayeTe (pysan)
+     2p (sanverb) cahayaDve != cAhayaDve (pysan)
+     1s (sanverb) cahaye != cAhaye (pysan)
+     1d (sanverb) cahayAvahe != cAhayAvahe (pysan)
+     1p (sanverb) cahayAmahe != cAhayAmahe (pysan)
+cah pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cahayati != cAhayati (pysan)
+     3d (sanverb) cahayataH != cAhayataH (pysan)
+     3p (sanverb) cahayanti != cAhayanti (pysan)
+     2s (sanverb) cahayasi != cAhayasi (pysan)
+     2d (sanverb) cahayaTaH != cAhayaTaH (pysan)
+     2p (sanverb) cahayaTa != cAhayaTa (pysan)
+     1s (sanverb) cahayAmi != cAhayAmi (pysan)
+     1d (sanverb) cahayAvaH != cAhayAvaH (pysan)
+     1p (sanverb) cahayAmaH != cAhayAmaH (pysan)
+cah pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cahayate != cAhayate (pysan)
+     3d (sanverb) cahayete != cAhayete (pysan)
+     3p (sanverb) cahayante != cAhayante (pysan)
+     2s (sanverb) cahayase != cAhayase (pysan)
+     2d (sanverb) cahayeTe != cAhayeTe (pysan)
+     2p (sanverb) cahayaDve != cAhayaDve (pysan)
+     1s (sanverb) cahaye != cAhaye (pysan)
+     1d (sanverb) cahayAvahe != cAhayAvahe (pysan)
+     1p (sanverb) cahayAmahe != cAhayAmahe (pysan)
+cah pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cahayati != cAhayati (pysan)
+     3d (sanverb) cahayataH != cAhayataH (pysan)
+     3p (sanverb) cahayanti != cAhayanti (pysan)
+     2s (sanverb) cahayasi != cAhayasi (pysan)
+     2d (sanverb) cahayaTaH != cAhayaTaH (pysan)
+     2p (sanverb) cahayaTa != cAhayaTa (pysan)
+     1s (sanverb) cahayAmi != cAhayAmi (pysan)
+     1d (sanverb) cahayAvaH != cAhayAvaH (pysan)
+     1p (sanverb) cahayAmaH != cAhayAmaH (pysan)
+cah pre 1P: identical
+cAy pre 1A: identical
+cAy pre 1P: identical
+ci pre 10A: identical
+ci pre 10P: identical
+ci pre 5A: identical
+ci pre 5P: identical
+ci pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) capayate,cayayate != cAyayate (pysan)
+     3d (sanverb) capayete,cayayete != cAyayete (pysan)
+     3p (sanverb) capayante,cayayante != cAyayante (pysan)
+     2s (sanverb) capayase,cayayase != cAyayase (pysan)
+     2d (sanverb) capayeTe,cayayeTe != cAyayeTe (pysan)
+     2p (sanverb) capayaDve,cayayaDve != cAyayaDve (pysan)
+     1s (sanverb) capaye,cayaye != cAyaye (pysan)
+     1d (sanverb) capayAvahe,cayayAvahe != cAyayAvahe (pysan)
+     1p (sanverb) capayAmahe,cayayAmahe != cAyayAmahe (pysan)
+ci pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) capayati,cayayati != cAyayati (pysan)
+     3d (sanverb) capayataH,cayayataH != cAyayataH (pysan)
+     3p (sanverb) capayanti,cayayanti != cAyayanti (pysan)
+     2s (sanverb) capayasi,cayayasi != cAyayasi (pysan)
+     2d (sanverb) capayaTaH,cayayaTaH != cAyayaTaH (pysan)
+     2p (sanverb) capayaTa,cayayaTa != cAyayaTa (pysan)
+     1s (sanverb) capayAmi,cayayAmi != cAyayAmi (pysan)
+     1d (sanverb) capayAvaH,cayayAvaH != cAyayAvaH (pysan)
+     1p (sanverb) capayAmaH,cayayAmaH != cAyayAmaH (pysan)
+ciw pre 1P: identical
+cit pre 10A: identical
+cint pre 10A: identical
+cint pre 10P: identical
+cit pre 1P: identical
+citra pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) citrayate != citrAyate (pysan)
+     3d (sanverb) citrayete != citrAyete (pysan)
+     3p (sanverb) citrayante != citrAyante (pysan)
+     2s (sanverb) citrayase != citrAyase (pysan)
+     2d (sanverb) citrayeTe != citrAyeTe (pysan)
+     2p (sanverb) citrayaDve != citrAyaDve (pysan)
+     1s (sanverb) citraye != citrAye (pysan)
+     1d (sanverb) citrayAvahe != citrAyAvahe (pysan)
+     1p (sanverb) citrayAmahe != citrAyAmahe (pysan)
+citra pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) citrayati != citrAyati (pysan)
+     3d (sanverb) citrayataH != citrAyataH (pysan)
+     3p (sanverb) citrayanti != citrAyanti (pysan)
+     2s (sanverb) citrayasi != citrAyasi (pysan)
+     2d (sanverb) citrayaTaH != citrAyaTaH (pysan)
+     2p (sanverb) citrayaTa != citrAyaTa (pysan)
+     1s (sanverb) citrayAmi != citrAyAmi (pysan)
+     1d (sanverb) citrayAvaH != citrAyAvaH (pysan)
+     1p (sanverb) citrayAmaH != citrAyAmaH (pysan)
+ciri pre 5P: identical
+cil pre 6P: identical
+cill pre 1P: identical
+cIk pre 10A: identical
+cIk pre 10P: identical
+cIb pre 1A: identical
+cIb pre 1P: identical
+cIB pre 1A: identical
+cIv pre 10A: identical
+cIv pre 10P: identical
+cIv pre 1A: identical
+cIv pre 1P: identical
+cukk pre 10A: identical
+cukk pre 10P: identical
+cucy pre 1P: identical
+cuw pre 6P: identical
+cuw pre 10A: identical
+cuw pre 10P: identical
+cuRw pre 10A: identical
+cuRw pre 10P: identical
+cuww pre 10A: identical
+cuww pre 10P: identical
+cuq pre 6P: identical
+cuRq pre 1P: identical
+cuqq pre 1P: identical
+cud pre 10A: identical
+cud pre 10P: identical
+cup pre 1P: identical
+cumb pre 1P: identical
+cumb pre 10A: identical
+cumb pre 10P: identical
+cur pre 10A: identical
+cur pre 10P: identical
+cul pre 10A: identical
+cul pre 10P: identical
+cull pre 1P: identical
+cUr pre 4A: identical
+cUrR pre 10A: identical
+cUrR pre 10P: identical
+cUrR pre 10A: identical
+cUrR pre 10P: identical
+cUz pre 1P: identical
+cft pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cftati != cfntati (pysan)
+     3d (sanverb) cftataH != cfntataH (pysan)
+     3p (sanverb) cftanti != cfntanti (pysan)
+     2s (sanverb) cftasi != cfntasi (pysan)
+     2d (sanverb) cftaTaH != cfntaTaH (pysan)
+     2p (sanverb) cftaTa != cfntaTa (pysan)
+     1s (sanverb) cftAmi != cfntAmi (pysan)
+     1d (sanverb) cftAvaH != cfntAvaH (pysan)
+     1p (sanverb) cftAmaH != cfntAmaH (pysan)
+cfp pre 10A: identical
+cfp pre 10P: identical
+cel pre 1P: identical
+cezw pre 1A: identical
+cyu pre 10A: identical
+cyu pre 10P: identical
+Syu pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) cyavate != Syavate (pysan)
+     3d (sanverb) cyavete != Syavete (pysan)
+     3p (sanverb) cyavante != Syavante (pysan)
+     2s (sanverb) cyavase != Syavase (pysan)
+     2d (sanverb) cyaveTe != SyaveTe (pysan)
+     2p (sanverb) cyavaDve != SyavaDve (pysan)
+     1s (sanverb) cyave != Syave (pysan)
+     1d (sanverb) cyavAvahe != SyavAvahe (pysan)
+     1p (sanverb) cyavAmahe != SyavAmahe (pysan)
+cyut pre 1P: identical
+CaYj pre 10A: identical
+CaYj pre 10P: identical
+Cad pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cadayate != CAdayate (pysan)
+     3d (sanverb) Cadayete != CAdayete (pysan)
+     3p (sanverb) Cadayante != CAdayante (pysan)
+     2s (sanverb) Cadayase != CAdayase (pysan)
+     2d (sanverb) CadayeTe != CAdayeTe (pysan)
+     2p (sanverb) CadayaDve != CAdayaDve (pysan)
+     1s (sanverb) Cadaye != CAdaye (pysan)
+     1d (sanverb) CadayAvahe != CAdayAvahe (pysan)
+     1p (sanverb) CadayAmahe != CAdayAmahe (pysan)
+Cad pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cadayati != CAdayati (pysan)
+     3d (sanverb) CadayataH != CAdayataH (pysan)
+     3p (sanverb) Cadayanti != CAdayanti (pysan)
+     2s (sanverb) Cadayasi != CAdayasi (pysan)
+     2d (sanverb) CadayaTaH != CAdayaTaH (pysan)
+     2p (sanverb) CadayaTa != CAdayaTa (pysan)
+     1s (sanverb) CadayAmi != CAdayAmi (pysan)
+     1d (sanverb) CadayAvaH != CAdayAvaH (pysan)
+     1p (sanverb) CadayAmaH != CAdayAmaH (pysan)
+Cad pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cadayate != CAdayate (pysan)
+     3d (sanverb) Cadayete != CAdayete (pysan)
+     3p (sanverb) Cadayante != CAdayante (pysan)
+     2s (sanverb) Cadayase != CAdayase (pysan)
+     2d (sanverb) CadayeTe != CAdayeTe (pysan)
+     2p (sanverb) CadayaDve != CAdayaDve (pysan)
+     1s (sanverb) Cadaye != CAdaye (pysan)
+     1d (sanverb) CadayAvahe != CAdayAvahe (pysan)
+     1p (sanverb) CadayAmahe != CAdayAmahe (pysan)
+Cad pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cadayati != CAdayati (pysan)
+     3d (sanverb) CadayataH != CAdayataH (pysan)
+     3p (sanverb) Cadayanti != CAdayanti (pysan)
+     2s (sanverb) Cadayasi != CAdayasi (pysan)
+     2d (sanverb) CadayaTaH != CAdayaTaH (pysan)
+     2p (sanverb) CadayaTa != CAdayaTa (pysan)
+     1s (sanverb) CadayAmi != CAdayAmi (pysan)
+     1d (sanverb) CadayAvaH != CAdayAvaH (pysan)
+     1p (sanverb) CadayAmaH != CAdayAmaH (pysan)
+Cad pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cadayate != CAdayate (pysan)
+     3d (sanverb) Cadayete != CAdayete (pysan)
+     3p (sanverb) Cadayante != CAdayante (pysan)
+     2s (sanverb) Cadayase != CAdayase (pysan)
+     2d (sanverb) CadayeTe != CAdayeTe (pysan)
+     2p (sanverb) CadayaDve != CAdayaDve (pysan)
+     1s (sanverb) Cadaye != CAdaye (pysan)
+     1d (sanverb) CadayAvahe != CAdayAvahe (pysan)
+     1p (sanverb) CadayAmahe != CAdayAmahe (pysan)
+Cad pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cadayati != CAdayati (pysan)
+     3d (sanverb) CadayataH != CAdayataH (pysan)
+     3p (sanverb) Cadayanti != CAdayanti (pysan)
+     2s (sanverb) Cadayasi != CAdayasi (pysan)
+     2d (sanverb) CadayaTaH != CAdayaTaH (pysan)
+     2p (sanverb) CadayaTa != CAdayaTa (pysan)
+     1s (sanverb) CadayAmi != CAdayAmi (pysan)
+     1d (sanverb) CadayAvaH != CAdayAvaH (pysan)
+     1p (sanverb) CadayAmaH != CAdayAmaH (pysan)
+Cand pre 10A: identical
+Cand pre 10P: identical
+Cam pre 1P: identical
+Card pre 10A: identical
+Card pre 10P: identical
+Caz pre 1A: identical
+Caz pre 1P: identical
+Cid pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) Cinte,Cintte != Cintte (pysan)
+     2p (sanverb) CinDve,CindDve != CindDve (pysan)
+Cid pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) CintaH,CinttaH != CinttaH (pysan)
+     2d (sanverb) CinTaH,CintTaH != CintTaH (pysan)
+     2p (sanverb) CinTa,CintTa != CintTa (pysan)
+Cidra pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cidrayate != CidrAyate (pysan)
+     3d (sanverb) Cidrayete != CidrAyete (pysan)
+     3p (sanverb) Cidrayante != CidrAyante (pysan)
+     2s (sanverb) Cidrayase != CidrAyase (pysan)
+     2d (sanverb) CidrayeTe != CidrAyeTe (pysan)
+     2p (sanverb) CidrayaDve != CidrAyaDve (pysan)
+     1s (sanverb) Cidraye != CidrAye (pysan)
+     1d (sanverb) CidrayAvahe != CidrAyAvahe (pysan)
+     1p (sanverb) CidrayAmahe != CidrAyAmahe (pysan)
+Cidra pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cidrayati != CidrAyati (pysan)
+     3d (sanverb) CidrayataH != CidrAyataH (pysan)
+     3p (sanverb) Cidrayanti != CidrAyanti (pysan)
+     2s (sanverb) Cidrayasi != CidrAyasi (pysan)
+     2d (sanverb) CidrayaTaH != CidrAyaTaH (pysan)
+     2p (sanverb) CidrayaTa != CidrAyaTa (pysan)
+     1s (sanverb) CidrayAmi != CidrAyAmi (pysan)
+     1d (sanverb) CidrayAvaH != CidrAyAvaH (pysan)
+     1p (sanverb) CidrayAmaH != CidrAyAmaH (pysan)
+Cuw pre 6P: identical
+Cuq pre 6P: identical
+Cup pre 6P: identical
+Cur pre 6P: identical
+Cfp pre 10A: identical
+Cfp pre 10P: identical
+Ceda pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cedayate != CedAyate (pysan)
+     3d (sanverb) Cedayete != CedAyete (pysan)
+     3p (sanverb) Cedayante != CedAyante (pysan)
+     2s (sanverb) Cedayase != CedAyase (pysan)
+     2d (sanverb) CedayeTe != CedAyeTe (pysan)
+     2p (sanverb) CedayaDve != CedAyaDve (pysan)
+     1s (sanverb) Cedaye != CedAye (pysan)
+     1d (sanverb) CedayAvahe != CedAyAvahe (pysan)
+     1p (sanverb) CedayAmahe != CedAyAmahe (pysan)
+Ceda pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cedayati != CedAyati (pysan)
+     3d (sanverb) CedayataH != CedAyataH (pysan)
+     3p (sanverb) Cedayanti != CedAyanti (pysan)
+     2s (sanverb) Cedayasi != CedAyasi (pysan)
+     2d (sanverb) CedayaTaH != CedAyaTaH (pysan)
+     2p (sanverb) CedayaTa != CedAyaTa (pysan)
+     1s (sanverb) CedayAmi != CedAyAmi (pysan)
+     1d (sanverb) CedayAvaH != CedAyAvaH (pysan)
+     1p (sanverb) CedayAmaH != CedAyAmaH (pysan)
+Co pre 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Cyati != Coyati (pysan)
+     3d (sanverb) CyataH != CoyataH (pysan)
+     3p (sanverb) Cyanti != Coyanti (pysan)
+     2s (sanverb) Cyasi != Coyasi (pysan)
+     2d (sanverb) CyaTaH != CoyaTaH (pysan)
+     2p (sanverb) CyaTa != CoyaTa (pysan)
+     1s (sanverb) CyAmi != CoyAmi (pysan)
+     1d (sanverb) CyAvaH != CoyAvaH (pysan)
+     1p (sanverb) CyAmaH != CoyAmaH (pysan)
+jakz pre 2P: identical
+jaj pre 1P: identical
+jaYj pre 1P: identical
+jaw pre 1P: identical
+jan pre 3P: conjugation differences @ 3s,3d,3p,2d,2p 
+     3s (sanverb) jajanti != jajaMti (pysan)
+     3d (sanverb) jajantaH != jajaMtaH (pysan)
+     3p (sanverb) jajYati != jajanati (pysan)
+     2d (sanverb) jajanTaH != jajaMTaH (pysan)
+     2p (sanverb) jajanTa != jajaMTa (pysan)
+jan pre 4A: conjugation differences @ 3d,2d 
+     3d (sanverb) janyete != jAyete (pysan)
+     2d (sanverb) janyeTe != jAyeTe (pysan)
+jap pre 1P: identical
+jamB pre 10A: identical
+jamB pre 10P: identical
+jaB pre 1A: identical
+jam pre 1P: identical
+jarj pre 6P: identical
+jarts pre 1P: identical
+jal pre 1P: identical
+jal pre 10A: identical
+jal pre 10P: identical
+jalp pre 1P: identical
+jaz pre 1P: identical
+jaMs pre 10A: identical
+jaMs pre 10P: identical
+jas pre 4P: identical
+jas pre 10A: identical
+jas pre 10P: identical
+jAgf pre 2P: identical
+ji pre 1P: identical
+ji pre 1P: identical
+ji pre 10A: identical
+ji pre 10P: identical
+jim pre 1P: identical
+jiri pre 5P: identical
+jinv pre 1P: identical
+jiz pre 1P: identical
+jIv pre 1P: identical
+ju pre 1P: identical
+juNg pre 1P: identical
+ju pre 1A: identical
+juw pre 6P: identical
+juq pre 6P: identical
+jut pre 1A: identical
+jun pre 6P: identical
+juz pre 6A: identical
+jUr pre 4A: identical
+jUz pre 1P: identical
+jfmB pre 1A: identical
+jF pre 9P: identical
+jez pre 1A: identical
+jeh pre 1A: identical
+jE pre 1P: identical
+jYap pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) jYapayate != jYApayate (pysan)
+     3d (sanverb) jYapayete != jYApayete (pysan)
+     3p (sanverb) jYapayante != jYApayante (pysan)
+     2s (sanverb) jYapayase != jYApayase (pysan)
+     2d (sanverb) jYapayeTe != jYApayeTe (pysan)
+     2p (sanverb) jYapayaDve != jYApayaDve (pysan)
+     1s (sanverb) jYapaye != jYApaye (pysan)
+     1d (sanverb) jYapayAvahe != jYApayAvahe (pysan)
+     1p (sanverb) jYapayAmahe != jYApayAmahe (pysan)
+jYap pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) jYapayati != jYApayati (pysan)
+     3d (sanverb) jYapayataH != jYApayataH (pysan)
+     3p (sanverb) jYapayanti != jYApayanti (pysan)
+     2s (sanverb) jYapayasi != jYApayasi (pysan)
+     2d (sanverb) jYapayaTaH != jYApayaTaH (pysan)
+     2p (sanverb) jYapayaTa != jYApayaTa (pysan)
+     1s (sanverb) jYapayAmi != jYApayAmi (pysan)
+     1d (sanverb) jYapayAvaH != jYApayAvaH (pysan)
+     1p (sanverb) jYapayAmaH != jYApayAmaH (pysan)
+jYA pre 9A: identical
+jYA pre 9P: identical
+jYA pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) jYApayate != jYAayate (pysan)
+     3d (sanverb) jYApayete != jYAayete (pysan)
+     3p (sanverb) jYApayante != jYAayante (pysan)
+     2s (sanverb) jYApayase != jYAayase (pysan)
+     2d (sanverb) jYApayeTe != jYAayeTe (pysan)
+     2p (sanverb) jYApayaDve != jYAayaDve (pysan)
+     1s (sanverb) jYApaye != jYAaye (pysan)
+     1d (sanverb) jYApayAvahe != jYAayAvahe (pysan)
+     1p (sanverb) jYApayAmahe != jYAayAmahe (pysan)
+jYA pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) jYApayati != jYAayati (pysan)
+     3d (sanverb) jYApayataH != jYAayataH (pysan)
+     3p (sanverb) jYApayanti != jYAayanti (pysan)
+     2s (sanverb) jYApayasi != jYAayasi (pysan)
+     2d (sanverb) jYApayaTaH != jYAayaTaH (pysan)
+     2p (sanverb) jYApayaTa != jYAayaTa (pysan)
+     1s (sanverb) jYApayAmi != jYAayAmi (pysan)
+     1d (sanverb) jYApayAvaH != jYAayAvaH (pysan)
+     1p (sanverb) jYApayAmaH != jYAayAmaH (pysan)
+jyA pre 9P: identical
+jyu pre 1A: identical
+jyut pre 1P: identical
+jri pre 1P: identical
+jri pre 10A: identical
+jri pre 10P: identical
+jvar pre 1P: identical
+jval pre 1P: identical
+jval pre 1P: identical
+Jaw pre 1P: identical
+Jam pre 1P: identical
+JarJ pre 6P: identical
+Jarts pre 1P: identical
+Jaz pre 1P: identical
+Jaz pre 1A: identical
+Jaz pre 1P: identical
+JF pre 9P: identical
+JF pre 4P: identical
+inD pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) inDe,indDe != indDe (pysan)
+     2p (sanverb) inDve,indDve != indDve (pysan)
+kzvid pre 1P: identical
+kzvid pre 4A: identical
+tfz pre 4P: identical
+tvar pre 1A: identical
+Dfz pre 5P: identical
+Pal pre 1P: identical
+BI pre 3P: identical
+mid pre 1A: identical
+mid pre 10A: identical
+mid pre 10P: identical
+svap pre 2P: identical
+svid pre 1A: identical
+waNk pre 10A: identical
+waNk pre 10P: identical
+wal pre 1P: identical
+wik pre 1A: identical
+wIk pre 1A: identical
+Svi pre 1P: identical
+sPUrj pre 1P: identical
+kzu pre 2P: identical
+du pre 5P: identical
+nand pre 1P: identical
+BrAj pre 1A: identical
+BrAS pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) BrASate,BrASyate != BrASate (pysan)
+     3d (sanverb) BrASete,BrASyete != BrASete (pysan)
+     3p (sanverb) BrASante,BrASyante != BrASante (pysan)
+     2s (sanverb) BrASase,BrASyase != BrASase (pysan)
+     2d (sanverb) BrASeTe,BrASyeTe != BrASeTe (pysan)
+     2p (sanverb) BrASaDve,BrASyaDve != BrASaDve (pysan)
+     1s (sanverb) BrASe,BrASye != BrASe (pysan)
+     1d (sanverb) BrASAvahe,BrASyAvahe != BrASAvahe (pysan)
+     1p (sanverb) BrASAmahe,BrASyAmahe != BrASAmahe (pysan)
+BlAS pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) BlASate,BlASyate != BlASate (pysan)
+     3d (sanverb) BlASete,BlASyete != BlASete (pysan)
+     3p (sanverb) BlASante,BlASyante != BlASante (pysan)
+     2s (sanverb) BlASase,BlASyase != BlASase (pysan)
+     2d (sanverb) BlASeTe,BlASyeTe != BlASeTe (pysan)
+     2p (sanverb) BlASaDve,BlASyaDve != BlASaDve (pysan)
+     1s (sanverb) BlASe,BlASye != BlASe (pysan)
+     1d (sanverb) BlASAvahe,BlASyAvahe != BlASAvahe (pysan)
+     1p (sanverb) BlASAmahe,BlASyAmahe != BlASAmahe (pysan)
+masj pre 6P: identical
+yAc pre 1A: identical
+yAc pre 1P: identical
+vam pre 1P: identical
+vep pre 1A: identical
+wval pre 1P: identical
+qap pre 10A: identical
+qip pre 4P: identical
+qip pre 6P: identical
+qip pre 10A: identical
+qI pre 1A: identical
+qI pre 4A: identical
+kf pre 8A: identical
+kf pre 8P: identical
+krI pre 9A: identical
+krI pre 9P: identical
+dA pre 3A: identical
+dA pre 3P: identical
+DA pre 3A: identical
+DA pre 3P: identical
+pac pre 1A: identical
+pac pre 1P: identical
+Bf pre 3A: identical
+Bf pre 3P: identical
+mi pre 5A: identical
+mi pre 5P: identical
+laB pre 1A: identical
+vap pre 1A: identical
+vap pre 1P: identical
+QOk pre 1A: identical
+nakz pre 1P: identical
+naK pre 1P: identical
+naNK pre 1P: identical
+naw pre 1P: identical
+naw pre 1P: identical
+naq pre 10A: identical
+naq pre 10P: identical
+nad pre 1P: identical
+naB pre 1A: identical
+naB pre 4P: identical
+naB pre 9P: identical
+nam pre 1P: identical
+nay pre 1A: identical
+nal pre 1P: identical
+naS pre 4P: identical
+nas pre 1A: identical
+nah pre 4A: identical
+nah pre 4P: identical
+nAs pre 1A: identical
+nikz pre 1P: identical
+niYj pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) niNkte != niYcce,niYcte (pysan)
+     2s (sanverb) niNkze != niYcse (pysan)
+     2p (sanverb) niNgDve != niYjJve (pysan)
+nij pre 3A: identical
+nij pre 3P: identical
+nind pre 1P: identical
+nid pre 1A: identical
+nid pre 1P: identical
+nil pre 6P: identical
+ninv pre 1P: identical
+niS pre 1P: identical
+niz pre 1P: identical
+niMs pre 2A: conjugation differences @ 2p 
+     2p (sanverb) ninDve != niMDve (pysan)
+nI pre 1A: identical
+nI pre 1P: identical
+nIl pre 1P: identical
+nIv pre 1P: identical
+nu pre 2P: identical
+nud pre 6P: identical
+nud pre 6A: identical
+nud pre 6P: identical
+nu pre 6P: identical
+ned pre 1A: identical
+ned pre 1P: identical
+nez pre 1A: identical
+tak pre 1P: identical
+taNk pre 1P: identical
+takz pre 1P: identical
+takz pre 1P: identical
+taNg pre 1P: identical
+taYc pre 1P: identical
+taYc pre 7P: identical
+taw pre 1P: identical
+taq pre 10A: identical
+taq pre 10P: identical
+taq pre 10A: identical
+taq pre 10P: identical
+taRq pre 1A: identical
+tantr pre 10A: identical
+tan pre 8A: identical
+tan pre 8P: identical
+tap pre 1P: identical
+tap pre 4A: identical
+tam pre 4P: identical
+tay pre 1A: identical
+tark pre 10A: identical
+tark pre 10P: identical
+tarj pre 1P: identical
+tarj pre 10A: identical
+tard pre 1P: identical
+tal pre 10A: identical
+tal pre 10P: identical
+taMs pre 1P: identical
+taMs pre 10A: identical
+taMs pre 10P: identical
+tas pre 4P: identical
+tAy pre 1A: identical
+tik pre 5P: identical
+tik pre 1A: identical
+tig pre 5P: identical
+tij pre 1A: identical
+tij pre 10A: identical
+tij pre 10P: identical
+tip pre 1A: identical
+tim pre 4P: identical
+til pre 1P: identical
+till pre 1P: identical
+tIk pre 1A: identical
+tIm pre 4P: identical
+tIra pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tIrayate != tIrAyate (pysan)
+     3d (sanverb) tIrayete != tIrAyete (pysan)
+     3p (sanverb) tIrayante != tIrAyante (pysan)
+     2s (sanverb) tIrayase != tIrAyase (pysan)
+     2d (sanverb) tIrayeTe != tIrAyeTe (pysan)
+     2p (sanverb) tIrayaDve != tIrAyaDve (pysan)
+     1s (sanverb) tIraye != tIrAye (pysan)
+     1d (sanverb) tIrayAvahe != tIrAyAvahe (pysan)
+     1p (sanverb) tIrayAmahe != tIrAyAmahe (pysan)
+tIra pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tIrayati != tIrAyati (pysan)
+     3d (sanverb) tIrayataH != tIrAyataH (pysan)
+     3p (sanverb) tIrayanti != tIrAyanti (pysan)
+     2s (sanverb) tIrayasi != tIrAyasi (pysan)
+     2d (sanverb) tIrayaTaH != tIrAyaTaH (pysan)
+     2p (sanverb) tIrayaTa != tIrAyaTa (pysan)
+     1s (sanverb) tIrayAmi != tIrAyAmi (pysan)
+     1d (sanverb) tIrayAvaH != tIrAyAvaH (pysan)
+     1p (sanverb) tIrayAmaH != tIrAyAmaH (pysan)
+tIv pre 1P: identical
+tu pre 2P: conjugation differences @ 3d,2d,2p,1d,1p 
+     3d (sanverb) tutaH != tutaH,tuvItaH (pysan)
+     2d (sanverb) tuTaH != tuTaH,tuvITaH (pysan)
+     2p (sanverb) tuTa != tuTa,tuvITa (pysan)
+     1d (sanverb) tuvaH != tuvIvaH,tuvaH (pysan)
+     1p (sanverb) tumaH != tumaH,tuvImaH (pysan)
+tuj pre 1P: identical
+tuj pre 10A: identical
+tuj pre 10P: identical
+tuYj pre 1P: identical
+tuYj pre 10A: identical
+tuYj pre 10P: identical
+tuYj pre 10A: identical
+tuYj pre 10P: identical
+tuq pre 6P: identical
+tuRq pre 1A: identical
+tuRq pre 10A: identical
+tuRq pre 10P: identical
+tuq pre 1P: identical
+tuR pre 6P: identical
+tutTa pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tutTayate != tutTAyate (pysan)
+     3d (sanverb) tutTayete != tutTAyete (pysan)
+     3p (sanverb) tutTayante != tutTAyante (pysan)
+     2s (sanverb) tutTayase != tutTAyase (pysan)
+     2d (sanverb) tutTayeTe != tutTAyeTe (pysan)
+     2p (sanverb) tutTayaDve != tutTAyaDve (pysan)
+     1s (sanverb) tutTaye != tutTAye (pysan)
+     1d (sanverb) tutTayAvahe != tutTAyAvahe (pysan)
+     1p (sanverb) tutTayAmahe != tutTAyAmahe (pysan)
+tutTa pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tutTayati != tutTAyati (pysan)
+     3d (sanverb) tutTayataH != tutTAyataH (pysan)
+     3p (sanverb) tutTayanti != tutTAyanti (pysan)
+     2s (sanverb) tutTayasi != tutTAyasi (pysan)
+     2d (sanverb) tutTayaTaH != tutTAyaTaH (pysan)
+     2p (sanverb) tutTayaTa != tutTAyaTa (pysan)
+     1s (sanverb) tutTayAmi != tutTAyAmi (pysan)
+     1d (sanverb) tutTayAvaH != tutTAyAvaH (pysan)
+     1p (sanverb) tutTayAmaH != tutTAyAmaH (pysan)
+tud pre 6A: identical
+tud pre 6P: identical
+tup pre 1P: identical
+tup pre 6P: identical
+tuP pre 1P: identical
+tuP pre 6P: identical
+tumb pre 1P: identical
+tumb pre 10A: identical
+tumb pre 10P: identical
+tuB pre 1A: identical
+tuB pre 4P: identical
+tuB pre 9P: identical
+tump pre 1P: identical
+tump pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tupati != tumpati (pysan)
+     3d (sanverb) tupataH != tumpataH (pysan)
+     3p (sanverb) tupanti != tumpanti (pysan)
+     2s (sanverb) tupasi != tumpasi (pysan)
+     2d (sanverb) tupaTaH != tumpaTaH (pysan)
+     2p (sanverb) tupaTa != tumpaTa (pysan)
+     1s (sanverb) tupAmi != tumpAmi (pysan)
+     1d (sanverb) tupAvaH != tumpAvaH (pysan)
+     1p (sanverb) tupAmaH != tumpAmaH (pysan)
+tumP pre 1P: identical
+tumP pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tuPati != tumPati (pysan)
+     3d (sanverb) tuPataH != tumPataH (pysan)
+     3p (sanverb) tuPanti != tumPanti (pysan)
+     2s (sanverb) tuPasi != tumPasi (pysan)
+     2d (sanverb) tuPaTaH != tumPaTaH (pysan)
+     2p (sanverb) tuPaTa != tumPaTa (pysan)
+     1s (sanverb) tuPAmi != tumPAmi (pysan)
+     1d (sanverb) tuPAvaH != tumPAvaH (pysan)
+     1p (sanverb) tuPAmaH != tumPAmaH (pysan)
+tur pre 3P: conjugation differences @ 3s,3d,2d,2p,1d,1p 
+     3s (sanverb) tutorti != tutosti (pysan)
+     3d (sanverb) tutUrtaH != tutustaH (pysan)
+     2d (sanverb) tutUrTaH != tutusTaH (pysan)
+     2p (sanverb) tutUrTa != tutusTa (pysan)
+     1d (sanverb) tutUrvaH != tuturvaH (pysan)
+     1p (sanverb) tutUrmaH != tuturmaH (pysan)
+turv pre 1P: identical
+tul pre 10A: identical
+tul pre 10P: identical
+tuz pre 4P: identical
+tus pre 1P: identical
+tuh pre 1P: identical
+tUq pre 1P: identical
+tUR pre 10A: identical
+tUr pre 4A: identical
+tUl pre 1P: identical
+tUz pre 1P: identical
+tfMh pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tfhati != tfMhati (pysan)
+     3d (sanverb) tfhataH != tfMhataH (pysan)
+     3p (sanverb) tfhanti != tfMhanti (pysan)
+     2s (sanverb) tfhasi != tfMhasi (pysan)
+     2d (sanverb) tfhaTaH != tfMhaTaH (pysan)
+     2p (sanverb) tfhaTa != tfMhaTa (pysan)
+     1s (sanverb) tfhAmi != tfMhAmi (pysan)
+     1d (sanverb) tfhAvaH != tfMhAvaH (pysan)
+     1p (sanverb) tfhAmaH != tfMhAmaH (pysan)
+tfkz pre 1P: identical
+tfR pre 8A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tarRute != tfRute (pysan)
+     3d (sanverb) tarRvAte != tfRvAte (pysan)
+     3p (sanverb) tarRvate != tfRvate (pysan)
+     2s (sanverb) tarRuze != tfRuze (pysan)
+     2d (sanverb) tarRvATe != tfRvATe (pysan)
+     2p (sanverb) tarRuDve != tfRuDve (pysan)
+     1s (sanverb) tarRve != tfRve (pysan)
+     1d (sanverb) tarRuvahe != tfRuvahe,tfRvahe (pysan)
+     1p (sanverb) tarRumahe != tfRmahe,tfRumahe (pysan)
+tfR pre 8P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tarRoti != tfRoti (pysan)
+     3d (sanverb) tarRutaH != tfRutaH (pysan)
+     3p (sanverb) tarRvanti != tfRvanti (pysan)
+     2s (sanverb) tarRozi != tfRozi (pysan)
+     2d (sanverb) tarRuTaH != tfRuTaH (pysan)
+     2p (sanverb) tarRuTa != tfRuTa (pysan)
+     1s (sanverb) tarRomi != tfRomi (pysan)
+     1d (sanverb) tarRuvaH != tfRuvaH,tfRvaH (pysan)
+     1p (sanverb) tarRumaH != tfRmaH,tfRumaH (pysan)
+tfp pre 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) tfpnoti != tfpRoti (pysan)
+     3d (sanverb) tfpnutaH != tfpRutaH (pysan)
+     3p (sanverb) tfpnuvanti != tfpRuvanti (pysan)
+     2s (sanverb) tfpnozi != tfpRozi (pysan)
+     2d (sanverb) tfpnuTaH != tfpRuTaH (pysan)
+     2p (sanverb) tfpnuTa != tfpRuTa (pysan)
+     1s (sanverb) tfpnomi != tfpRomi (pysan)
+     1d (sanverb) tfpnuvaH != tfpRuvaH (pysan)
+     1p (sanverb) tfpnumaH != tfpRumaH (pysan)
+tfp pre 6P: identical
+tfp pre 10A: identical
+tfp pre 10P: identical
+tfP pre 6P: identical
+tfmp pre 6P: identical
+tfmP pre 6P: identical
+tfh pre 7P: conjugation differences @ 3p,1d,1p 
+     3p (sanverb) tfMhanti != tfNhanti (pysan)
+     1d (sanverb) tfMhvaH != tfNhvaH (pysan)
+     1p (sanverb) tfMhmaH != tfNhmaH (pysan)
+tfh pre 6P: identical
+tF pre 1P: identical
+tej pre 1P: identical
+tep pre 1A: identical
+tev pre 1A: identical
+tyaj pre 1P: identical
+traNk pre 1A: identical
+trakz pre 1P: identical
+traK pre 1P: identical
+traNg pre 1P: identical
+trand pre 1P: identical
+trap pre 1A: identical
+traMs pre 10A: identical
+traMs pre 10P: identical
+tras pre 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) trasati,trasyati != trasyati (pysan)
+     3d (sanverb) trasataH,trasyataH != trasyataH (pysan)
+     3p (sanverb) trasanti,trasyanti != trasyanti (pysan)
+     2s (sanverb) trasasi,trasyasi != trasyasi (pysan)
+     2d (sanverb) trasaTaH,trasyaTaH != trasyaTaH (pysan)
+     2p (sanverb) trasaTa,trasyaTa != trasyaTa (pysan)
+     1s (sanverb) trasAmi,trasyAmi != trasyAmi (pysan)
+     1d (sanverb) trasAvaH,trasyAvaH != trasyAvaH (pysan)
+     1p (sanverb) trasAmaH,trasyAmaH != trasyAmaH (pysan)
+triNK pre 1P: identical
+truw pre 6P: identical
+trup pre 1P: identical
+truP pre 1P: identical
+trump pre 1P: identical
+trumP pre 1P: identical
+trE pre 1A: identical
+trOk pre 1A: identical
+tvakz pre 1P: identical
+tvaNg pre 1P: identical
+tvac pre 6P: identical
+tvaYc pre 1P: identical
+tviz pre 1A: identical
+tviz pre 1P: identical
+tsar pre 1P: identical
+TaNk pre 1P: identical
+Tuq pre 6P: identical
+Turv pre 1P: identical
+daMS pre 1P: identical
+dakz pre 1A: identical
+dakz pre 1A: identical
+daG pre 5P: identical
+daNG pre 1P: identical
+daRqa pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) daRqayate != daRqAyate (pysan)
+     3d (sanverb) daRqayete != daRqAyete (pysan)
+     3p (sanverb) daRqayante != daRqAyante (pysan)
+     2s (sanverb) daRqayase != daRqAyase (pysan)
+     2d (sanverb) daRqayeTe != daRqAyeTe (pysan)
+     2p (sanverb) daRqayaDve != daRqAyaDve (pysan)
+     1s (sanverb) daRqaye != daRqAye (pysan)
+     1d (sanverb) daRqayAvahe != daRqAyAvahe (pysan)
+     1p (sanverb) daRqayAmahe != daRqAyAmahe (pysan)
+daRqa pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) daRqayati != daRqAyati (pysan)
+     3d (sanverb) daRqayataH != daRqAyataH (pysan)
+     3p (sanverb) daRqayanti != daRqAyanti (pysan)
+     2s (sanverb) daRqayasi != daRqAyasi (pysan)
+     2d (sanverb) daRqayaTaH != daRqAyaTaH (pysan)
+     2p (sanverb) daRqayaTa != daRqAyaTa (pysan)
+     1s (sanverb) daRqayAmi != daRqAyAmi (pysan)
+     1d (sanverb) daRqayAvaH != daRqAyAvaH (pysan)
+     1p (sanverb) daRqayAmaH != daRqAyAmaH (pysan)
+dad pre 1A: identical
+daD pre 1A: identical
+dam pre 4P: identical
+damB pre 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) daBnoti != damBnoti (pysan)
+     3d (sanverb) daBnutaH != damBnutaH (pysan)
+     3p (sanverb) daBnuvanti != damBnuvanti (pysan)
+     2s (sanverb) daBnozi != damBnozi (pysan)
+     2d (sanverb) daBnuTaH != damBnuTaH (pysan)
+     2p (sanverb) daBnuTa != damBnuTa (pysan)
+     1s (sanverb) daBnomi != damBnomi (pysan)
+     1d (sanverb) daBnuvaH != damBnuvaH (pysan)
+     1p (sanverb) daBnumaH != damBnumaH (pysan)
+day pre 1A: identical
+daridrA pre 2P: identical
+dal pre 1P: identical
+dal pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) dAlayate,dalayate != dAlayate (pysan)
+     3d (sanverb) dAlayete,dalayete != dAlayete (pysan)
+     3p (sanverb) dAlayante,dalayante != dAlayante (pysan)
+     2s (sanverb) dAlayase,dalayase != dAlayase (pysan)
+     2d (sanverb) dAlayeTe,dalayeTe != dAlayeTe (pysan)
+     2p (sanverb) dAlayaDve,dalayaDve != dAlayaDve (pysan)
+     1s (sanverb) dAlaye,dalaye != dAlaye (pysan)
+     1d (sanverb) dAlayAvahe,dalayAvahe != dAlayAvahe (pysan)
+     1p (sanverb) dAlayAmahe,dalayAmahe != dAlayAmahe (pysan)
+dal pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) dAlayati,dalayati != dAlayati (pysan)
+     3d (sanverb) dAlayataH,dalayataH != dAlayataH (pysan)
+     3p (sanverb) dAlayanti,dalayanti != dAlayanti (pysan)
+     2s (sanverb) dAlayasi,dalayasi != dAlayasi (pysan)
+     2d (sanverb) dAlayaTaH,dalayaTaH != dAlayaTaH (pysan)
+     2p (sanverb) dAlayaTa,dalayaTa != dAlayaTa (pysan)
+     1s (sanverb) dAlayAmi,dalayAmi != dAlayAmi (pysan)
+     1d (sanverb) dAlayAvaH,dalayAvaH != dAlayAvaH (pysan)
+     1p (sanverb) dAlayAmaH,dalayAmaH != dAlayAmaH (pysan)
+daMS pre 10A: identical
+daMS pre 10A: identical
+das pre 10A: identical
+das pre 10P: identical
+daMs pre 10A: identical
+daMs pre 10P: identical
+daMs pre 10A: identical
+daMs pre 10P: identical
+das pre 4P: identical
+dah pre 1P: identical
+dA pre 1P: identical
+dAn pre 1A: identical
+dAn pre 1P: identical
+dA pre 2P: identical
+daS pre 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) dASnoti != daSnoti (pysan)
+     3d (sanverb) dASnutaH != daSnutaH (pysan)
+     3p (sanverb) dASnuvanti != daSnuvanti (pysan)
+     2s (sanverb) dASnozi != daSnozi (pysan)
+     2d (sanverb) dASnuTaH != daSnuTaH (pysan)
+     2p (sanverb) dASnuTa != daSnuTa (pysan)
+     1s (sanverb) dASnomi != daSnomi (pysan)
+     1d (sanverb) dASnuvaH != daSnuvaH (pysan)
+     1p (sanverb) dASnumaH != daSnumaH (pysan)
+dAS pre 1A: identical
+dAS pre 1P: identical
+dAs pre 1A: identical
+dAs pre 1P: identical
+dinv pre 1P: identical
+div pre 4P: identical
+div pre 10A: identical
+diS pre 6A: identical
+diS pre 6P: identical
+dih pre 2A: identical
+dih pre 2P: identical
+dIkz pre 1A: identical
+dI pre 4A: identical
+dIDI pre 2A: conjugation differences @ 3d,3p,2d,1s 
+     3d (sanverb) dIDyAte != dIDiyAte (pysan)
+     3p (sanverb) dIDyate != dIDiyate (pysan)
+     2d (sanverb) dIDyATe != dIDiyATe (pysan)
+     1s (sanverb) dIDye != dIDiye (pysan)
+dIp pre 4A: identical
+du pre 1P: identical
+duHKa pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) duHKayate != duHKAyate (pysan)
+     3d (sanverb) duHKayete != duHKAyete (pysan)
+     3p (sanverb) duHKayante != duHKAyante (pysan)
+     2s (sanverb) duHKayase != duHKAyase (pysan)
+     2d (sanverb) duHKayeTe != duHKAyeTe (pysan)
+     2p (sanverb) duHKayaDve != duHKAyaDve (pysan)
+     1s (sanverb) duHKaye != duHKAye (pysan)
+     1d (sanverb) duHKayAvahe != duHKAyAvahe (pysan)
+     1p (sanverb) duHKayAmahe != duHKAyAmahe (pysan)
+duHKa pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) duHKayati != duHKAyati (pysan)
+     3d (sanverb) duHKayataH != duHKAyataH (pysan)
+     3p (sanverb) duHKayanti != duHKAyanti (pysan)
+     2s (sanverb) duHKayasi != duHKAyasi (pysan)
+     2d (sanverb) duHKayaTaH != duHKAyaTaH (pysan)
+     2p (sanverb) duHKayaTa != duHKAyaTa (pysan)
+     1s (sanverb) duHKayAmi != duHKAyAmi (pysan)
+     1d (sanverb) duHKayAvaH != duHKAyAvaH (pysan)
+     1p (sanverb) duHKayAmaH != duHKAyAmaH (pysan)
+durv pre 1P: identical
+dul pre 10A: identical
+dul pre 10P: identical
+duz pre 4P: identical
+duh pre 2A: identical
+duh pre 2P: identical
+duh pre 1P: identical
+dU pre 4A: identical
+dF pre 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) dfRoti != dFRoti (pysan)
+     3d (sanverb) dfRutaH != dFRutaH (pysan)
+     3p (sanverb) dfRvanti != dFRvanti (pysan)
+     2s (sanverb) dfRozi != dFRozi (pysan)
+     2d (sanverb) dfRuTaH != dFRuTaH (pysan)
+     2p (sanverb) dfRuTa != dFRuTa (pysan)
+     1s (sanverb) dfRomi != dFRomi (pysan)
+     1d (sanverb) dfRuvaH,dfRvaH != dFRuvaH,dFRvaH (pysan)
+     1p (sanverb) dfRmaH,dfRumaH != dFRmaH,dFRumaH (pysan)
+df pre 6A: identical
+dfp pre 6P: identical
+dfP pre 6P: identical
+dfB pre 10A: identical
+dfB pre 10P: identical
+dfB pre 6P: identical
+dfmp pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) dfpati != dfmpati (pysan)
+     3d (sanverb) dfpataH != dfmpataH (pysan)
+     3p (sanverb) dfpanti != dfmpanti (pysan)
+     2s (sanverb) dfpasi != dfmpasi (pysan)
+     2d (sanverb) dfpaTaH != dfmpaTaH (pysan)
+     2p (sanverb) dfpaTa != dfmpaTa (pysan)
+     1s (sanverb) dfpAmi != dfmpAmi (pysan)
+     1d (sanverb) dfpAvaH != dfmpAvaH (pysan)
+     1p (sanverb) dfpAmaH != dfmpAmaH (pysan)
+dfmP pre 6P: identical
+dfS pre 1P: identical
+dfh pre 1P: identical
+dF pre 1P: identical
+dF pre 9P: identical
+de pre 1A: identical
+dev pre 1A: identical
+dE pre 1P: identical
+do pre 4P: identical
+dyu pre 2P: identical
+dyut pre 1A: identical
+dyE pre 1P: identical
+dram pre 1P: identical
+drA pre 2P: identical
+drANkz pre 1P: identical
+drAK pre 1P: identical
+drAG pre 1A: identical
+drAq pre 1A: identical
+drAh pre 1A: identical
+dru pre 1P: identical
+druR pre 6P: identical
+druh pre 4P: identical
+drU pre 9A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) drURIte != druRIte (pysan)
+     3d (sanverb) drURAte != druRAte (pysan)
+     3p (sanverb) drURate != druRate (pysan)
+     2s (sanverb) drURIze != druRIze (pysan)
+     2d (sanverb) drURATe != druRATe (pysan)
+     2p (sanverb) drURIDve != druRIDve (pysan)
+     1s (sanverb) drURe != druRe (pysan)
+     1d (sanverb) drURIvahe != druRIvahe (pysan)
+     1p (sanverb) drURImahe != druRImahe (pysan)
+drU pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) drURAti != druRAti (pysan)
+     3d (sanverb) drURItaH != druRItaH (pysan)
+     3p (sanverb) drURanti != druRanti (pysan)
+     2s (sanverb) drURAsi != druRAsi (pysan)
+     2d (sanverb) drURITaH != druRITaH (pysan)
+     2p (sanverb) drURITa != druRITa (pysan)
+     1s (sanverb) drURAmi != druRAmi (pysan)
+     1d (sanverb) drURIvaH != druRIvaH (pysan)
+     1p (sanverb) drURImaH != druRImaH (pysan)
+drek pre 1A: identical
+drE pre 1P: identical
+dviz pre 2A: identical
+dviz pre 2P: identical
+dvf pre 1P: identical
+DaR pre 1P: identical
+Dan pre 3P: conjugation differences @ 3s,3d,2d,2p 
+     3s (sanverb) daDanti != daDaMti (pysan)
+     3d (sanverb) daDantaH != daDaMtaH (pysan)
+     2d (sanverb) daDanTaH != daDaMTaH (pysan)
+     2p (sanverb) daDanTa != daDaMTa (pysan)
+Danv pre 1P: identical
+DAv pre 1A: identical
+DAv pre 1P: identical
+Di pre 6P: identical
+Dikz pre 1A: identical
+Dinv pre 1P: conjugation differences @ 3s,3d,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Dinoti != Dinvati (pysan)
+     3d (sanverb) DinutaH != DinvataH (pysan)
+     2s (sanverb) Dinozi != Dinvasi (pysan)
+     2d (sanverb) DinuTaH != DinvaTaH (pysan)
+     2p (sanverb) DinuTa != DinvaTa (pysan)
+     1s (sanverb) Dinomi != DinvAmi (pysan)
+     1d (sanverb) DinuvaH,DinvaH != DinvAvaH (pysan)
+     1p (sanverb) DinmaH,DinumaH != DinvAmaH (pysan)
+Diz pre 3P: identical
+DI pre 4A: identical
+Dukz pre 1A: identical
+Du pre 5A: identical
+Du pre 5P: identical
+Durv pre 1P: identical
+DU pre 5A: identical
+DU pre 5P: identical
+DU pre 9A: identical
+DU pre 9P: identical
+DU pre 10A: identical
+DU pre 10P: identical
+DUp pre 1P: identical
+DUp pre 10A: identical
+DUp pre 10P: identical
+DUr pre 4A: identical
+DUS pre 10A: identical
+DUS pre 10P: identical
+DUz pre 10A: identical
+DUz pre 10P: identical
+DUs pre 10A: identical
+DUs pre 10P: identical
+Df pre 1A: identical
+Df pre 6A: identical
+Dfj pre 1P: identical
+DfYj pre 1P: identical
+Df pre 1A: identical
+Df pre 1P: identical
+DF pre 9P: identical
+De pre 1P: identical
+Dep pre 1A: identical
+Dor pre 1P: identical
+DmA pre 1P: identical
+DmANkz pre 1P: identical
+DyE pre 1P: identical
+Draj pre 1P: identical
+DraYj pre 1P: identical
+DraR pre 1P: identical
+DrANkz pre 1P: identical
+DrAK pre 1P: identical
+GrAG pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) DrAGate != GrAGate (pysan)
+     3d (sanverb) DrAGete != GrAGete (pysan)
+     3p (sanverb) DrAGante != GrAGante (pysan)
+     2s (sanverb) DrAGase != GrAGase (pysan)
+     2d (sanverb) DrAGeTe != GrAGeTe (pysan)
+     2p (sanverb) DrAGaDve != GrAGaDve (pysan)
+     1s (sanverb) DrAGe != GrAGe (pysan)
+     1d (sanverb) DrAGAvahe != GrAGAvahe (pysan)
+     1p (sanverb) DrAGAmahe != GrAGAmahe (pysan)
+DrAq pre 1A: identical
+Drij pre 1P: identical
+Dru pre 1P: identical
+Dru pre 6P: identical
+Drek pre 1A: identical
+DrE pre 1P: identical
+DvaMs pre 1A: identical
+Dvaj pre 1P: identical
+DvaYj pre 1P: identical
+DvaR pre 1P: identical
+Dvan pre 10A: identical
+Dvan pre 10P: identical
+Dvan pre 1P: identical
+Dvan pre 1P: identical
+DvANkz pre 1P: identical
+Dvf pre 1P: identical
+nakk pre 10A: identical
+nakk pre 10P: identical
+naw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) nawayate != nAwayate (pysan)
+     3d (sanverb) nawayete != nAwayete (pysan)
+     3p (sanverb) nawayante != nAwayante (pysan)
+     2s (sanverb) nawayase != nAwayase (pysan)
+     2d (sanverb) nawayeTe != nAwayeTe (pysan)
+     2p (sanverb) nawayaDve != nAwayaDve (pysan)
+     1s (sanverb) nawaye != nAwaye (pysan)
+     1d (sanverb) nawayAvahe != nAwayAvahe (pysan)
+     1p (sanverb) nawayAmahe != nAwayAmahe (pysan)
+naw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) nawayati != nAwayati (pysan)
+     3d (sanverb) nawayataH != nAwayataH (pysan)
+     3p (sanverb) nawayanti != nAwayanti (pysan)
+     2s (sanverb) nawayasi != nAwayasi (pysan)
+     2d (sanverb) nawayaTaH != nAwayaTaH (pysan)
+     2p (sanverb) nawayaTa != nAwayaTa (pysan)
+     1s (sanverb) nawayAmi != nAwayAmi (pysan)
+     1d (sanverb) nawayAvaH != nAwayAvaH (pysan)
+     1p (sanverb) nawayAmaH != nAwayAmaH (pysan)
+naw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) nawayate != nAwayate (pysan)
+     3d (sanverb) nawayete != nAwayete (pysan)
+     3p (sanverb) nawayante != nAwayante (pysan)
+     2s (sanverb) nawayase != nAwayase (pysan)
+     2d (sanverb) nawayeTe != nAwayeTe (pysan)
+     2p (sanverb) nawayaDve != nAwayaDve (pysan)
+     1s (sanverb) nawaye != nAwaye (pysan)
+     1d (sanverb) nawayAvahe != nAwayAvahe (pysan)
+     1p (sanverb) nawayAmahe != nAwayAmahe (pysan)
+naw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) nawayati != nAwayati (pysan)
+     3d (sanverb) nawayataH != nAwayataH (pysan)
+     3p (sanverb) nawayanti != nAwayanti (pysan)
+     2s (sanverb) nawayasi != nAwayasi (pysan)
+     2d (sanverb) nawayaTaH != nAwayaTaH (pysan)
+     2p (sanverb) nawayaTa != nAwayaTa (pysan)
+     1s (sanverb) nawayAmi != nAwayAmi (pysan)
+     1d (sanverb) nawayAvaH != nAwayAvaH (pysan)
+     1p (sanverb) nawayAmaH != nAwayAmaH (pysan)
+nard pre 1P: identical
+nal pre 10A: identical
+nal pre 10P: identical
+nAT pre 1A: identical
+nAT pre 1P: identical
+nAD pre 1A: identical
+nivAsa pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) nivAsayate != nivAsAyate (pysan)
+     3d (sanverb) nivAsayete != nivAsAyete (pysan)
+     3p (sanverb) nivAsayante != nivAsAyante (pysan)
+     2s (sanverb) nivAsayase != nivAsAyase (pysan)
+     2d (sanverb) nivAsayeTe != nivAsAyeTe (pysan)
+     2p (sanverb) nivAsayaDve != nivAsAyaDve (pysan)
+     1s (sanverb) nivAsaye != nivAsAye (pysan)
+     1d (sanverb) nivAsayAvahe != nivAsAyAvahe (pysan)
+     1p (sanverb) nivAsayAmahe != nivAsAyAmahe (pysan)
+nivAsa pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) nivAsayati != nivAsAyati (pysan)
+     3d (sanverb) nivAsayataH != nivAsAyataH (pysan)
+     3p (sanverb) nivAsayanti != nivAsAyanti (pysan)
+     2s (sanverb) nivAsayasi != nivAsAyasi (pysan)
+     2d (sanverb) nivAsayaTaH != nivAsAyaTaH (pysan)
+     2p (sanverb) nivAsayaTa != nivAsAyaTa (pysan)
+     1s (sanverb) nivAsayAmi != nivAsAyAmi (pysan)
+     1d (sanverb) nivAsayAvaH != nivAsAyAvaH (pysan)
+     1p (sanverb) nivAsayAmaH != nivAsAyAmaH (pysan)
+nizk pre 10A: identical
+nft pre 4P: identical
+nF pre 1P: identical
+nF pre 9P: identical
+pakz pre 1P: identical
+pakz pre 10A: identical
+pakz pre 10P: identical
+paYc pre 1A: identical
+paYc pre 10A: identical
+paYc pre 10P: identical
+paw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pawayate != pAwayate,pawayate (pysan)
+     3d (sanverb) pawayete != pAwayete,pawayete (pysan)
+     3p (sanverb) pawayante != pAwayante,pawayante (pysan)
+     2s (sanverb) pawayase != pAwayase,pawayase (pysan)
+     2d (sanverb) pawayeTe != pAwayeTe,pawayeTe (pysan)
+     2p (sanverb) pawayaDve != pAwayaDve,pawayaDve (pysan)
+     1s (sanverb) pawaye != pAwaye,pawaye (pysan)
+     1d (sanverb) pawayAvahe != pAwayAvahe,pawayAvahe (pysan)
+     1p (sanverb) pawayAmahe != pAwayAmahe,pawayAmahe (pysan)
+paw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pawayati != pAwayati,pawayati (pysan)
+     3d (sanverb) pawayataH != pAwayataH,pawayataH (pysan)
+     3p (sanverb) pawayanti != pAwayanti,pawayanti (pysan)
+     2s (sanverb) pawayasi != pAwayasi,pawayasi (pysan)
+     2d (sanverb) pawayaTaH != pAwayaTaH,pawayaTaH (pysan)
+     2p (sanverb) pawayaTa != pAwayaTa,pawayaTa (pysan)
+     1s (sanverb) pawayAmi != pAwayAmi,pawayAmi (pysan)
+     1d (sanverb) pawayAvaH != pAwayAvaH,pawayAvaH (pysan)
+     1p (sanverb) pawayAmaH != pAwayAmaH,pawayAmaH (pysan)
+paw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pawayate != pAwayate,pawayate (pysan)
+     3d (sanverb) pawayete != pAwayete,pawayete (pysan)
+     3p (sanverb) pawayante != pAwayante,pawayante (pysan)
+     2s (sanverb) pawayase != pAwayase,pawayase (pysan)
+     2d (sanverb) pawayeTe != pAwayeTe,pawayeTe (pysan)
+     2p (sanverb) pawayaDve != pAwayaDve,pawayaDve (pysan)
+     1s (sanverb) pawaye != pAwaye,pawaye (pysan)
+     1d (sanverb) pawayAvahe != pAwayAvahe,pawayAvahe (pysan)
+     1p (sanverb) pawayAmahe != pAwayAmahe,pawayAmahe (pysan)
+paw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pawayati != pAwayati,pawayati (pysan)
+     3d (sanverb) pawayataH != pAwayataH,pawayataH (pysan)
+     3p (sanverb) pawayanti != pAwayanti,pawayanti (pysan)
+     2s (sanverb) pawayasi != pAwayasi,pawayasi (pysan)
+     2d (sanverb) pawayaTaH != pAwayaTaH,pawayaTaH (pysan)
+     2p (sanverb) pawayaTa != pAwayaTa,pawayaTa (pysan)
+     1s (sanverb) pawayAmi != pAwayAmi,pawayAmi (pysan)
+     1d (sanverb) pawayAvaH != pAwayAvaH,pawayAvaH (pysan)
+     1p (sanverb) pawayAmaH != pAwayAmaH,pawayAmaH (pysan)
+paw pre 1P: identical
+paW pre 1P: identical
+paRq pre 1A: identical
+paRq pre 10A: identical
+paRq pre 10P: identical
+paR pre 1A: identical
+pat pre 10A: identical
+pat pre 10P: identical
+pat pre 1P: identical
+paT pre 10A: identical
+paT pre 10P: identical
+panT pre 10A: identical
+panT pre 10P: identical
+paT pre 1P: identical
+pad pre 10A: identical
+pad pre 4A: identical
+pan pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) panAyate != panate (pysan)
+     3d (sanverb) panAyete != panete (pysan)
+     3p (sanverb) panAyante != panante (pysan)
+     2s (sanverb) panAyase != panase (pysan)
+     2d (sanverb) panAyeTe != paneTe (pysan)
+     2p (sanverb) panAyaDve != panaDve (pysan)
+     1s (sanverb) panAye != pane (pysan)
+     1d (sanverb) panAyAvahe != panAvahe (pysan)
+     1p (sanverb) panAyAmahe != panAmahe (pysan)
+pay pre 1A: identical
+parR pre 10A: identical
+parR pre 10P: identical
+pard pre 1A: identical
+parp pre 1P: identical
+parb pre 1P: identical
+parv pre 1P: identical
+pal pre 1P: identical
+pal pre 10A: identical
+pal pre 10P: identical
+paS pre 10A: identical
+paS pre 10P: identical
+paz pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pazayate != pAzayate (pysan)
+     3d (sanverb) pazayete != pAzayete (pysan)
+     3p (sanverb) pazayante != pAzayante (pysan)
+     2s (sanverb) pazayase != pAzayase (pysan)
+     2d (sanverb) pazayeTe != pAzayeTe (pysan)
+     2p (sanverb) pazayaDve != pAzayaDve (pysan)
+     1s (sanverb) pazaye != pAzaye (pysan)
+     1d (sanverb) pazayAvahe != pAzayAvahe (pysan)
+     1p (sanverb) pazayAmahe != pAzayAmahe (pysan)
+paz pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pazayati != pAzayati (pysan)
+     3d (sanverb) pazayataH != pAzayataH (pysan)
+     3p (sanverb) pazayanti != pAzayanti (pysan)
+     2s (sanverb) pazayasi != pAzayasi (pysan)
+     2d (sanverb) pazayaTaH != pAzayaTaH (pysan)
+     2p (sanverb) pazayaTa != pAzayaTa (pysan)
+     1s (sanverb) pazayAmi != pAzayAmi (pysan)
+     1d (sanverb) pazayAvaH != pAzayAvaH (pysan)
+     1p (sanverb) pazayAmaH != pAzayAmaH (pysan)
+paMs pre 10A: identical
+paMs pre 10P: identical
+pA pre 1P: identical
+pA pre 2P: identical
+pAra pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pArayate != pArAyate (pysan)
+     3d (sanverb) pArayete != pArAyete (pysan)
+     3p (sanverb) pArayante != pArAyante (pysan)
+     2s (sanverb) pArayase != pArAyase (pysan)
+     2d (sanverb) pArayeTe != pArAyeTe (pysan)
+     2p (sanverb) pArayaDve != pArAyaDve (pysan)
+     1s (sanverb) pAraye != pArAye (pysan)
+     1d (sanverb) pArayAvahe != pArAyAvahe (pysan)
+     1p (sanverb) pArayAmahe != pArAyAmahe (pysan)
+pAra pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pArayati != pArAyati (pysan)
+     3d (sanverb) pArayataH != pArAyataH (pysan)
+     3p (sanverb) pArayanti != pArAyanti (pysan)
+     2s (sanverb) pArayasi != pArAyasi (pysan)
+     2d (sanverb) pArayaTaH != pArAyaTaH (pysan)
+     2p (sanverb) pArayaTa != pArAyaTa (pysan)
+     1s (sanverb) pArayAmi != pArAyAmi (pysan)
+     1d (sanverb) pArayAvaH != pArAyAvaH (pysan)
+     1p (sanverb) pArayAmaH != pArAyAmaH (pysan)
+pi pre 6P: identical
+piC pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) picCayate != peCayate (pysan)
+     3d (sanverb) picCayete != peCayete (pysan)
+     3p (sanverb) picCayante != peCayante (pysan)
+     2s (sanverb) picCayase != peCayase (pysan)
+     2d (sanverb) picCayeTe != peCayeTe (pysan)
+     2p (sanverb) picCayaDve != peCayaDve (pysan)
+     1s (sanverb) picCaye != peCaye (pysan)
+     1d (sanverb) picCayAvahe != peCayAvahe (pysan)
+     1p (sanverb) picCayAmahe != peCayAmahe (pysan)
+piC pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) picCayati != peCayati (pysan)
+     3d (sanverb) picCayataH != peCayataH (pysan)
+     3p (sanverb) picCayanti != peCayanti (pysan)
+     2s (sanverb) picCayasi != peCayasi (pysan)
+     2d (sanverb) picCayaTaH != peCayaTaH (pysan)
+     2p (sanverb) picCayaTa != peCayaTa (pysan)
+     1s (sanverb) picCayAmi != peCayAmi (pysan)
+     1d (sanverb) picCayAvaH != peCayAvaH (pysan)
+     1p (sanverb) picCayAmaH != peCayAmaH (pysan)
+pij pre 10A: identical
+pij pre 10P: identical
+piYj pre 10A: identical
+piYj pre 10P: identical
+piw pre 1P: identical
+piW pre 1P: identical
+piRW pre 10A: identical
+piRW pre 10P: identical
+piRq pre 1A: identical
+piRq pre 10A: identical
+piRq pre 10P: identical
+pinv pre 1P: identical
+piS pre 10A: identical
+piS pre 10P: identical
+piz pre 7P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (sanverb) piMzwaH != piRzwaH (pysan)
+     3p (sanverb) piMzanti != piRzanti (pysan)
+     2d (sanverb) piMzWaH != piRzWaH (pysan)
+     2p (sanverb) piMzWa != piRzWa (pysan)
+     1d (sanverb) piMzvaH != piRzvaH (pysan)
+     1p (sanverb) piMzmaH != piRzmaH (pysan)
+pis pre 10A: identical
+pis pre 10P: identical
+pis pre 1P: identical
+pIq pre 10A: identical
+pIq pre 10P: identical
+pIl pre 1P: identical
+pIv pre 1P: identical
+puMs pre 10A: identical
+puMs pre 10P: identical
+puw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) puwayate != powayate,puwayate (pysan)
+     3d (sanverb) puwayete != powayete,puwayete (pysan)
+     3p (sanverb) puwayante != powayante,puwayante (pysan)
+     2s (sanverb) puwayase != powayase,puwayase (pysan)
+     2d (sanverb) puwayeTe != powayeTe,puwayeTe (pysan)
+     2p (sanverb) puwayaDve != powayaDve,puwayaDve (pysan)
+     1s (sanverb) puwaye != powaye,puwaye (pysan)
+     1d (sanverb) puwayAvahe != powayAvahe,puwayAvahe (pysan)
+     1p (sanverb) puwayAmahe != powayAmahe,puwayAmahe (pysan)
+puw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) puwayati != powayati,puwayati (pysan)
+     3d (sanverb) puwayataH != powayataH,puwayataH (pysan)
+     3p (sanverb) puwayanti != powayanti,puwayanti (pysan)
+     2s (sanverb) puwayasi != powayasi,puwayasi (pysan)
+     2d (sanverb) puwayaTaH != powayaTaH,puwayaTaH (pysan)
+     2p (sanverb) puwayaTa != powayaTa,puwayaTa (pysan)
+     1s (sanverb) puwayAmi != powayAmi,puwayAmi (pysan)
+     1d (sanverb) puwayAvaH != powayAvaH,puwayAvaH (pysan)
+     1p (sanverb) puwayAmaH != powayAmaH,puwayAmaH (pysan)
+puw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) puwayate != powayate,puwayate (pysan)
+     3d (sanverb) puwayete != powayete,puwayete (pysan)
+     3p (sanverb) puwayante != powayante,puwayante (pysan)
+     2s (sanverb) puwayase != powayase,puwayase (pysan)
+     2d (sanverb) puwayeTe != powayeTe,puwayeTe (pysan)
+     2p (sanverb) puwayaDve != powayaDve,puwayaDve (pysan)
+     1s (sanverb) puwaye != powaye,puwaye (pysan)
+     1d (sanverb) puwayAvahe != powayAvahe,puwayAvahe (pysan)
+     1p (sanverb) puwayAmahe != powayAmahe,puwayAmahe (pysan)
+puw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) puwayati != powayati,puwayati (pysan)
+     3d (sanverb) puwayataH != powayataH,puwayataH (pysan)
+     3p (sanverb) puwayanti != powayanti,puwayanti (pysan)
+     2s (sanverb) puwayasi != powayasi,puwayasi (pysan)
+     2d (sanverb) puwayaTaH != powayaTaH,puwayaTaH (pysan)
+     2p (sanverb) puwayaTa != powayaTa,puwayaTa (pysan)
+     1s (sanverb) puwayAmi != powayAmi,puwayAmi (pysan)
+     1d (sanverb) puwayAvaH != powayAvaH,puwayAvaH (pysan)
+     1p (sanverb) puwayAmaH != powayAmaH,puwayAmaH (pysan)
+puw pre 1P: identical
+puw pre 6P: identical
+puRw pre 10A: identical
+puRw pre 10P: identical
+puww pre 10A: identical
+puww pre 10P: identical
+puq pre 1P: identical
+puq pre 6P: identical
+puRq pre 1P: identical
+puR pre 10A: identical
+puR pre 10P: identical
+puT pre 4P: identical
+punT pre 1P: identical
+pur pre 6P: identical
+purv pre 1P: identical
+pul pre 1P: identical
+pul pre 10A: identical
+pul pre 10P: identical
+puz pre 1P: identical
+puz pre 4P: identical
+puz pre 9P: identical
+puzp pre 4P: identical
+pust pre 10A: identical
+pust pre 10P: identical
+pU pre 1A: identical
+pUj pre 10A: identical
+pUj pre 10P: identical
+pU pre 9A: identical
+pU pre 9P: identical
+pUy pre 1A: identical
+pUr pre 4A: identical
+pUrR pre 10A: identical
+pUrR pre 10P: identical
+pUrv pre 10A: identical
+pUrv pre 10P: identical
+pUl pre 1P: identical
+pUl pre 10A: identical
+pUl pre 10P: identical
+pUz pre 1P: identical
+pf pre 3P: identical
+pf pre 5P: identical
+pf pre 6A: identical
+pfc pre 7P: identical
+pfYj pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) pfNkte != pfYcce,pfYcte (pysan)
+     2s (sanverb) pfNkze != pfYcse (pysan)
+     2p (sanverb) pfNgDve != pfYjJve (pysan)
+pfq pre 6P: identical
+pfR pre 6P: identical
+pfz pre 1P: identical
+pF pre 3P: identical
+pF pre 9P: identical
+pel pre 1P: identical
+pev pre 1A: identical
+pez pre 1A: identical
+pes pre 1P: identical
+pE pre 1P: identical
+pER pre 1P: identical
+pyuz pre 4P: identical
+pyus pre 4P: identical
+pyE pre 1A: identical
+praC pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) pfcCati != praCati (pysan)
+     3d (sanverb) pfcCataH != praCataH (pysan)
+     3p (sanverb) pfcCanti != praCanti (pysan)
+     2s (sanverb) pfcCasi != praCasi (pysan)
+     2d (sanverb) pfcCaTaH != praCaTaH (pysan)
+     2p (sanverb) pfcCaTa != praCaTa (pysan)
+     1s (sanverb) pfcCAmi != praCAmi (pysan)
+     1d (sanverb) pfcCAvaH != praCAvaH (pysan)
+     1p (sanverb) pfcCAmaH != praCAmaH (pysan)
+praT pre 1A: identical
+praT pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) praTayate != prATayate (pysan)
+     3d (sanverb) praTayete != prATayete (pysan)
+     3p (sanverb) praTayante != prATayante (pysan)
+     2s (sanverb) praTayase != prATayase (pysan)
+     2d (sanverb) praTayeTe != prATayeTe (pysan)
+     2p (sanverb) praTayaDve != prATayaDve (pysan)
+     1s (sanverb) praTaye != prATaye (pysan)
+     1d (sanverb) praTayAvahe != prATayAvahe (pysan)
+     1p (sanverb) praTayAmahe != prATayAmahe (pysan)
+praT pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) praTayati != prATayati (pysan)
+     3d (sanverb) praTayataH != prATayataH (pysan)
+     3p (sanverb) praTayanti != prATayanti (pysan)
+     2s (sanverb) praTayasi != prATayasi (pysan)
+     2d (sanverb) praTayaTaH != prATayaTaH (pysan)
+     2p (sanverb) praTayaTa != prATayaTa (pysan)
+     1s (sanverb) praTayAmi != prATayAmi (pysan)
+     1d (sanverb) praTayAvaH != prATayAvaH (pysan)
+     1p (sanverb) praTayAmaH != prATayAmaH (pysan)
+pras pre 1A: identical
+prA pre 2P: identical
+prI pre 9A: identical
+prI pre 9P: identical
+pru pre 1A: identical
+pruz pre 9P: identical
+pruz pre 1P: identical
+prez pre 1A: identical
+prER pre 1P: identical
+proT pre 1A: identical
+proT pre 1P: identical
+plakz pre 1A: identical
+plakz pre 1P: identical
+plih pre 1A: identical
+plI pre 9P: identical
+plu pre 1A: identical
+pluz pre 4P: identical
+pluz pre 4P: identical
+pluz pre 9P: identical
+pluz pre 1P: identical
+plev pre 1A: identical
+psA pre 2P: identical
+Pakk pre 1P: identical
+PaR pre 1P: identical
+Pal pre 1P: identical
+Pull pre 1P: identical
+Pel pre 1P: identical
+baRw pre 1P: identical
+baW pre 1P: identical
+baR pre 1P: identical
+bad pre 1P: identical
+baD pre 1A: identical
+baD pre 10A: identical
+baD pre 10P: identical
+banD pre 9P: identical
+barb pre 1P: identical
+barh pre 1A: identical
+barh pre 10A: identical
+barh pre 10P: identical
+barh pre 10A: identical
+barh pre 10P: identical
+bal pre 1P: identical
+bal pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) balayate != bAlayate (pysan)
+     3d (sanverb) balayete != bAlayete (pysan)
+     3p (sanverb) balayante != bAlayante (pysan)
+     2s (sanverb) balayase != bAlayase (pysan)
+     2d (sanverb) balayeTe != bAlayeTe (pysan)
+     2p (sanverb) balayaDve != bAlayaDve (pysan)
+     1s (sanverb) balaye != bAlaye (pysan)
+     1d (sanverb) balayAvahe != bAlayAvahe (pysan)
+     1p (sanverb) balayAmahe != bAlayAmahe (pysan)
+bal pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) balayati != bAlayati (pysan)
+     3d (sanverb) balayataH != bAlayataH (pysan)
+     3p (sanverb) balayanti != bAlayanti (pysan)
+     2s (sanverb) balayasi != bAlayasi (pysan)
+     2d (sanverb) balayaTaH != bAlayaTaH (pysan)
+     2p (sanverb) balayaTa != bAlayaTa (pysan)
+     1s (sanverb) balayAmi != bAlayAmi (pysan)
+     1d (sanverb) balayAvaH != bAlayAvaH (pysan)
+     1p (sanverb) balayAmaH != bAlayAmaH (pysan)
+balh pre 1A: identical
+balh pre 10A: identical
+balh pre 10P: identical
+bazk pre 10A: identical
+bazk pre 10P: identical
+bas pre 4P: identical
+bast pre 10A: identical
+baMh pre 1A: identical
+bAq pre 1A: identical
+bAD pre 1A: identical
+bAh pre 1A: identical
+biw pre 1P: identical
+bind pre 1P: identical
+bis pre 1P: identical
+bis pre 4P: identical
+bIB pre 1A: identical
+bukk pre 1P: identical
+bukk pre 10A: identical
+bukk pre 10P: identical
+buNg pre 1P: identical
+buD pre 1P: identical
+buD pre 4A: identical
+buD pre 1A: identical
+buD pre 1P: identical
+bus pre 4P: identical
+bus pre 4P: identical
+bust pre 10A: identical
+bust pre 10P: identical
+bfh pre 1P: identical
+bfMh pre 1P: identical
+bfMh pre 10A: identical
+bfMh pre 10P: identical
+bfh pre 6P: identical
+bes pre 1P: identical
+byus pre 4P: identical
+brU pre 2A: identical
+brU pre 2P: identical
+brUs pre 10A: identical
+brUs pre 10P: identical
+blI pre 9P: identical
+Bakz pre 1A: identical
+Bakz pre 1P: identical
+Bakz pre 10A: identical
+Bakz pre 10P: identical
+Baj pre 1A: identical
+Baj pre 1P: identical
+Baj pre 10A: identical
+Baj pre 10P: identical
+BaYj pre 10A: identical
+BaYj pre 10P: identical
+BaYj pre 7P: identical
+Baw pre 1P: identical
+Baw pre 1P: identical
+BaRq pre 1A: identical
+BaRq pre 10A: identical
+BaRq pre 10P: identical
+BaR pre 1P: identical
+Band pre 1A: identical
+Barts pre 10A: identical
+Barb pre 1P: identical
+BarB pre 1P: identical
+Barv pre 1P: identical
+Bal pre 1A: identical
+Bal pre 10A: identical
+Ball pre 1A: identical
+Baz pre 1P: identical
+Bas pre 3P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (sanverb) babDaH != baBastaH (pysan)
+     3p (sanverb) bapsati != baBasati (pysan)
+     2d (sanverb) babDaH != baBasTaH (pysan)
+     2p (sanverb) babDa != baBasTa (pysan)
+     1d (sanverb) bapsvaH != baBasvaH (pysan)
+     1p (sanverb) bapsmaH != baBasmaH (pysan)
+Bas pre 4P: identical
+BA pre 2P: identical
+BAja pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) BAjayate != BAjAyate (pysan)
+     3d (sanverb) BAjayete != BAjAyete (pysan)
+     3p (sanverb) BAjayante != BAjAyante (pysan)
+     2s (sanverb) BAjayase != BAjAyase (pysan)
+     2d (sanverb) BAjayeTe != BAjAyeTe (pysan)
+     2p (sanverb) BAjayaDve != BAjAyaDve (pysan)
+     1s (sanverb) BAjaye != BAjAye (pysan)
+     1d (sanverb) BAjayAvahe != BAjAyAvahe (pysan)
+     1p (sanverb) BAjayAmahe != BAjAyAmahe (pysan)
+BAja pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) BAjayati != BAjAyati (pysan)
+     3d (sanverb) BAjayataH != BAjAyataH (pysan)
+     3p (sanverb) BAjayanti != BAjAyanti (pysan)
+     2s (sanverb) BAjayasi != BAjAyasi (pysan)
+     2d (sanverb) BAjayaTaH != BAjAyaTaH (pysan)
+     2p (sanverb) BAjayaTa != BAjAyaTa (pysan)
+     1s (sanverb) BAjayAmi != BAjAyAmi (pysan)
+     1d (sanverb) BAjayAvaH != BAjAyAvaH (pysan)
+     1p (sanverb) BAjayAmaH != BAjAyAmaH (pysan)
+BAm pre 10A: identical
+BAm pre 10P: identical
+BAm pre 1A: identical
+BAz pre 1A: identical
+BAs pre 1A: identical
+Bikz pre 1A: identical
+Bind pre 1P: identical
+Bid pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) Binte,Bintte != Bintte (pysan)
+     2p (sanverb) BinDve,BindDve != BindDve (pysan)
+Bid pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) BintaH,BinttaH != BinttaH (pysan)
+     2d (sanverb) BinTaH,BintTaH != BintTaH (pysan)
+     2p (sanverb) BinTa,BintTa != BintTa (pysan)
+Buj pre 7P: identical
+Buj pre 6P: identical
+BU pre 1P: identical
+BU pre 10A: identical
+BU pre 10P: identical
+BU pre 10A: identical
+BU pre 10P: identical
+BUz pre 1P: identical
+BUz pre 10A: identical
+BUz pre 10P: identical
+Bfj pre 1A: identical
+Bfq pre 6P: identical
+BfMS pre 10A: identical
+BfMS pre 10P: identical
+BfS pre 4P: identical
+BF pre 9P: identical
+Bez pre 1A: identical
+Bez pre 1P: identical
+Byas pre 1A: identical
+BraMS pre 1A: identical
+BraMS pre 4P: identical
+BraMs pre 1A: identical
+Brakz pre 1A: identical
+Brakz pre 1P: identical
+BraR pre 1P: identical
+Bram pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) BrAmyati,Bramati != Bramati (pysan)
+     3d (sanverb) BrAmyataH,BramataH != BramataH (pysan)
+     3p (sanverb) BrAmyanti,Bramanti != Bramanti (pysan)
+     2s (sanverb) BrAmyasi,Bramasi != Bramasi (pysan)
+     2d (sanverb) BrAmyaTaH,BramaTaH != BramaTaH (pysan)
+     2p (sanverb) BrAmyaTa,BramaTa != BramaTa (pysan)
+     1s (sanverb) BrAmyAmi,BramAmi != BramAmi (pysan)
+     1d (sanverb) BrAmyAvaH,BramAvaH != BramAvaH (pysan)
+     1p (sanverb) BrAmyAmaH,BramAmaH != BramAmaH (pysan)
+Bram pre 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) BrAmyati,Bramati != BrAmyati (pysan)
+     3d (sanverb) BrAmyataH,BramataH != BrAmyataH (pysan)
+     3p (sanverb) BrAmyanti,Bramanti != BrAmyanti (pysan)
+     2s (sanverb) BrAmyasi,Bramasi != BrAmyasi (pysan)
+     2d (sanverb) BrAmyaTaH,BramaTaH != BrAmyaTaH (pysan)
+     2p (sanverb) BrAmyaTa,BramaTa != BrAmyaTa (pysan)
+     1s (sanverb) BrAmyAmi,BramAmi != BrAmyAmi (pysan)
+     1d (sanverb) BrAmyAvaH,BramAvaH != BrAmyAvaH (pysan)
+     1p (sanverb) BrAmyAmaH,BramAmaH != BrAmyAmaH (pysan)
+Brajj pre 6A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Bfjjate != Brajjate (pysan)
+     3d (sanverb) Bfjjete != Brajjete (pysan)
+     3p (sanverb) Bfjjante != Brajjante (pysan)
+     2s (sanverb) Bfjjase != Brajjase (pysan)
+     2d (sanverb) BfjjeTe != BrajjeTe (pysan)
+     2p (sanverb) BfjjaDve != BrajjaDve (pysan)
+     1s (sanverb) Bfjje != Brajje (pysan)
+     1d (sanverb) BfjjAvahe != BrajjAvahe (pysan)
+     1p (sanverb) BfjjAmahe != BrajjAmahe (pysan)
+Brajj pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) Bfjjati != Brajjati (pysan)
+     3d (sanverb) BfjjataH != BrajjataH (pysan)
+     3p (sanverb) Bfjjanti != Brajjanti (pysan)
+     2s (sanverb) Bfjjasi != Brajjasi (pysan)
+     2d (sanverb) BfjjaTaH != BrajjaTaH (pysan)
+     2p (sanverb) BfjjaTa != BrajjaTa (pysan)
+     1s (sanverb) BfjjAmi != BrajjAmi (pysan)
+     1d (sanverb) BfjjAvaH != BrajjAvaH (pysan)
+     1p (sanverb) BfjjAmaH != BrajjAmaH (pysan)
+BrAj pre 1A: identical
+BrI pre 9P: identical
+BrUR pre 10A: identical
+Brej pre 1A: identical
+Brez pre 1A: identical
+Brez pre 1P: identical
+Blakz pre 1A: identical
+Blakz pre 1P: identical
+Blez pre 1A: identical
+Blez pre 1P: identical
+maNk pre 1A: identical
+maK pre 1P: identical
+maNK pre 1P: identical
+maNg pre 1P: identical
+maNG pre 1A: identical
+maNG pre 1P: identical
+mac pre 1A: identical
+maYc pre 1A: identical
+maW pre 1P: identical
+maRW pre 1A: identical
+maRq pre 1A: identical
+maRq pre 1P: identical
+maRq pre 10A: identical
+maRq pre 10P: identical
+maR pre 1P: identical
+mantr pre 10A: identical
+manT pre 1P: identical
+maT pre 1P: identical
+mand pre 1A: identical
+mad pre 4P: identical
+man pre 8A: identical
+manT pre 1P: identical
+manT pre 9P: identical
+maBr pre 1P: identical
+may pre 1A: identical
+marc pre 10A: identical
+marc pre 10P: identical
+marb pre 1P: identical
+marv pre 1P: identical
+mal pre 1A: identical
+mall pre 1A: identical
+mav pre 1P: identical
+mavy pre 1P: identical
+maS pre 1P: identical
+maz pre 1P: identical
+mas pre 4P: identical
+mask pre 1A: identical
+mah pre 10A: identical
+mah pre 10P: identical
+mah pre 1P: identical
+maMh pre 1A: identical
+maMh pre 10A: identical
+maMh pre 10P: identical
+mA pre 2P: identical
+mANkz pre 1P: identical
+mA pre 3A: identical
+mA pre 4A: identical
+mAn pre 1A: identical
+mAn pre 10A: identical
+mArg pre 10A: identical
+mArg pre 10P: identical
+mArj pre 10A: identical
+mArj pre 10P: identical
+mAh pre 1A: identical
+mAh pre 1P: identical
+miC pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) micCati != miCati (pysan)
+     3d (sanverb) micCataH != miCataH (pysan)
+     3p (sanverb) micCanti != miCanti (pysan)
+     2s (sanverb) micCasi != miCasi (pysan)
+     2d (sanverb) micCaTaH != miCaTaH (pysan)
+     2p (sanverb) micCaTa != miCaTa (pysan)
+     1s (sanverb) micCAmi != miCAmi (pysan)
+     1d (sanverb) micCAvaH != miCAvaH (pysan)
+     1p (sanverb) micCAmaH != miCAmaH (pysan)
+miYj pre 10A: identical
+miYj pre 10P: identical
+miT pre 1A: identical
+miT pre 1P: identical
+mid pre 1A: identical
+mid pre 1P: identical
+miD pre 1A: identical
+miD pre 1P: identical
+mil pre 6P: identical
+mil pre 6A: identical
+mil pre 6P: identical
+minv pre 1P: identical
+miS pre 1P: identical
+miSr pre 10A: identical
+miSr pre 10P: identical
+miz pre 6P: identical
+miz pre 1P: identical
+mih pre 1P: identical
+mI pre 9A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mInIte != minIte (pysan)
+     3d (sanverb) mInAte != minAte (pysan)
+     3p (sanverb) mInate != minate (pysan)
+     2s (sanverb) mInIze != minIze (pysan)
+     2d (sanverb) mInATe != minATe (pysan)
+     2p (sanverb) mInIDve != minIDve (pysan)
+     1s (sanverb) mIne != mine (pysan)
+     1d (sanverb) mInIvahe != minIvahe (pysan)
+     1p (sanverb) mInImahe != minImahe (pysan)
+mI pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mInAti != minAti (pysan)
+     3d (sanverb) mInItaH != minItaH (pysan)
+     3p (sanverb) mInanti != minanti (pysan)
+     2s (sanverb) mInAsi != minAsi (pysan)
+     2d (sanverb) mInITaH != minITaH (pysan)
+     2p (sanverb) mInITa != minITa (pysan)
+     1s (sanverb) mInAmi != minAmi (pysan)
+     1d (sanverb) mInIvaH != minIvaH (pysan)
+     1p (sanverb) mInImaH != minImaH (pysan)
+mIm pre 1P: identical
+mIl pre 1P: identical
+mIv pre 1P: identical
+muNK pre 1P: identical
+muYc pre 1A: identical
+muc pre 6A: identical
+muc pre 6P: identical
+muj pre 1P: identical
+muYj pre 1P: identical
+muw pre 1P: identical
+muw pre 6P: identical
+muRW pre 1A: identical
+muq pre 1P: identical
+muRq pre 1A: identical
+muRq pre 1P: identical
+muR pre 6P: identical
+mud pre 1A: identical
+mud pre 10A: identical
+mud pre 10P: identical
+mur pre 6P: identical
+murC pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mUrCati != mUrcCati (pysan)
+     3d (sanverb) mUrCataH != mUrcCataH (pysan)
+     3p (sanverb) mUrCanti != mUrcCanti (pysan)
+     2s (sanverb) mUrCasi != mUrcCasi (pysan)
+     2d (sanverb) mUrCaTaH != mUrcCaTaH (pysan)
+     2p (sanverb) mUrCaTa != mUrcCaTa (pysan)
+     1s (sanverb) mUrCAmi != mUrcCAmi (pysan)
+     1d (sanverb) mUrCAvaH != mUrcCAvaH (pysan)
+     1p (sanverb) mUrCAmaH != mUrcCAmaH (pysan)
+murv pre 1P: identical
+muz pre 9P: identical
+mus pre 4P: identical
+must pre 10A: identical
+must pre 10P: identical
+muh pre 4P: identical
+mU pre 1A: identical
+mU pre 9A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mUnIte != munIte (pysan)
+     3d (sanverb) mUnAte != munAte (pysan)
+     3p (sanverb) mUnate != munate (pysan)
+     2s (sanverb) mUnIze != munIze (pysan)
+     2d (sanverb) mUnATe != munATe (pysan)
+     2p (sanverb) mUnIDve != munIDve (pysan)
+     1s (sanverb) mUne != mune (pysan)
+     1d (sanverb) mUnIvahe != munIvahe (pysan)
+     1p (sanverb) mUnImahe != munImahe (pysan)
+mU pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mUnAti != munAti (pysan)
+     3d (sanverb) mUnItaH != munItaH (pysan)
+     3p (sanverb) mUnanti != munanti (pysan)
+     2s (sanverb) mUnAsi != munAsi (pysan)
+     2d (sanverb) mUnITaH != munITaH (pysan)
+     2p (sanverb) mUnITa != munITa (pysan)
+     1s (sanverb) mUnAmi != munAmi (pysan)
+     1d (sanverb) mUnIvaH != munIvaH (pysan)
+     1p (sanverb) mUnImaH != munImaH (pysan)
+mUtra pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mUtrayate != mUtrAyate (pysan)
+     3d (sanverb) mUtrayete != mUtrAyete (pysan)
+     3p (sanverb) mUtrayante != mUtrAyante (pysan)
+     2s (sanverb) mUtrayase != mUtrAyase (pysan)
+     2d (sanverb) mUtrayeTe != mUtrAyeTe (pysan)
+     2p (sanverb) mUtrayaDve != mUtrAyaDve (pysan)
+     1s (sanverb) mUtraye != mUtrAye (pysan)
+     1d (sanverb) mUtrayAvahe != mUtrAyAvahe (pysan)
+     1p (sanverb) mUtrayAmahe != mUtrAyAmahe (pysan)
+mUtra pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mUtrayati != mUtrAyati (pysan)
+     3d (sanverb) mUtrayataH != mUtrAyataH (pysan)
+     3p (sanverb) mUtrayanti != mUtrAyanti (pysan)
+     2s (sanverb) mUtrayasi != mUtrAyasi (pysan)
+     2d (sanverb) mUtrayaTaH != mUtrAyaTaH (pysan)
+     2p (sanverb) mUtrayaTa != mUtrAyaTa (pysan)
+     1s (sanverb) mUtrayAmi != mUtrAyAmi (pysan)
+     1d (sanverb) mUtrayAvaH != mUtrAyAvaH (pysan)
+     1p (sanverb) mUtrayAmaH != mUtrAyAmaH (pysan)
+mUl pre 1P: identical
+mUl pre 10A: identical
+mUl pre 10P: identical
+mUz pre 1P: identical
+mfkz pre 1P: identical
+mfg pre 10A: identical
+mf pre 6A: identical
+mfj pre 2P: identical
+mfq pre 6P: identical
+mfq pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mfqRAti != mfqnAti (pysan)
+     3d (sanverb) mfqRItaH != mfqnItaH (pysan)
+     3p (sanverb) mfqRanti != mfqnanti (pysan)
+     2s (sanverb) mfqRAsi != mfqnAsi (pysan)
+     2d (sanverb) mfqRITaH != mfqnITaH (pysan)
+     2p (sanverb) mfqRITa != mfqnITa (pysan)
+     1s (sanverb) mfqRAmi != mfqnAmi (pysan)
+     1d (sanverb) mfqRIvaH != mfqnIvaH (pysan)
+     1p (sanverb) mfqRImaH != mfqnImaH (pysan)
+mfRq pre 10A: identical
+mfRq pre 10P: identical
+mfR pre 6P: identical
+mfd pre 9P: identical
+mfD pre 1A: identical
+mfD pre 1P: identical
+mfS pre 6P: identical
+mfz pre 4A: identical
+mfz pre 4P: identical
+mfz pre 1P: identical
+mF pre 9P: identical
+me pre 1A: identical
+meT pre 1A: identical
+meT pre 1P: identical
+med pre 1A: identical
+med pre 1P: identical
+meD pre 1A: identical
+meD pre 1P: identical
+mep pre 1A: identical
+mev pre 1A: identical
+mokz pre 10A: identical
+mokz pre 10P: identical
+mnA pre 1P: identical
+mrakz pre 1P: identical
+mrakz pre 10A: identical
+mrakz pre 10P: identical
+mrakz pre 10A: identical
+mrakz pre 10P: identical
+mraC pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mracCayate != mrACayate (pysan)
+     3d (sanverb) mracCayete != mrACayete (pysan)
+     3p (sanverb) mracCayante != mrACayante (pysan)
+     2s (sanverb) mracCayase != mrACayase (pysan)
+     2d (sanverb) mracCayeTe != mrACayeTe (pysan)
+     2p (sanverb) mracCayaDve != mrACayaDve (pysan)
+     1s (sanverb) mracCaye != mrACaye (pysan)
+     1d (sanverb) mracCayAvahe != mrACayAvahe (pysan)
+     1p (sanverb) mracCayAmahe != mrACayAmahe (pysan)
+mraC pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mracCayati != mrACayati (pysan)
+     3d (sanverb) mracCayataH != mrACayataH (pysan)
+     3p (sanverb) mracCayanti != mrACayanti (pysan)
+     2s (sanverb) mracCayasi != mrACayasi (pysan)
+     2d (sanverb) mracCayaTaH != mrACayaTaH (pysan)
+     2p (sanverb) mracCayaTa != mrACayaTa (pysan)
+     1s (sanverb) mracCayAmi != mrACayAmi (pysan)
+     1d (sanverb) mracCayAvaH != mrACayAvaH (pysan)
+     1p (sanverb) mracCayAmaH != mrACayAmaH (pysan)
+mrad pre 1A: identical
+mruc pre 1P: identical
+mruYc pre 1P: identical
+mrew pre 1P: identical
+mreq pre 1P: identical
+mluc pre 1P: identical
+mluYc pre 1P: identical
+mleC pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mlecCati != mleCati (pysan)
+     3d (sanverb) mlecCataH != mleCataH (pysan)
+     3p (sanverb) mlecCanti != mleCanti (pysan)
+     2s (sanverb) mlecCasi != mleCasi (pysan)
+     2d (sanverb) mlecCaTaH != mleCaTaH (pysan)
+     2p (sanverb) mlecCaTa != mleCaTa (pysan)
+     1s (sanverb) mlecCAmi != mleCAmi (pysan)
+     1d (sanverb) mlecCAvaH != mleCAvaH (pysan)
+     1p (sanverb) mlecCAmaH != mleCAmaH (pysan)
+mleC pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mlecCayate != mleCayate (pysan)
+     3d (sanverb) mlecCayete != mleCayete (pysan)
+     3p (sanverb) mlecCayante != mleCayante (pysan)
+     2s (sanverb) mlecCayase != mleCayase (pysan)
+     2d (sanverb) mlecCayeTe != mleCayeTe (pysan)
+     2p (sanverb) mlecCayaDve != mleCayaDve (pysan)
+     1s (sanverb) mlecCaye != mleCaye (pysan)
+     1d (sanverb) mlecCayAvahe != mleCayAvahe (pysan)
+     1p (sanverb) mlecCayAmahe != mleCayAmahe (pysan)
+mleC pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) mlecCayati != mleCayati (pysan)
+     3d (sanverb) mlecCayataH != mleCayataH (pysan)
+     3p (sanverb) mlecCayanti != mleCayanti (pysan)
+     2s (sanverb) mlecCayasi != mleCayasi (pysan)
+     2d (sanverb) mlecCayaTaH != mleCayaTaH (pysan)
+     2p (sanverb) mlecCayaTa != mleCayaTa (pysan)
+     1s (sanverb) mlecCayAmi != mleCayAmi (pysan)
+     1d (sanverb) mlecCayAvaH != mleCayAvaH (pysan)
+     1p (sanverb) mlecCayAmaH != mleCayAmaH (pysan)
+mlew pre 1P: identical
+mlev pre 1A: identical
+mlE pre 1P: identical
+yakz pre 10A: identical
+yaj pre 1A: identical
+yaj pre 1P: identical
+yat pre 10A: identical
+yat pre 10P: identical
+yat pre 1A: identical
+yantr pre 10A: identical
+yantr pre 10P: identical
+yaB pre 1P: identical
+yam pre 1P: identical
+yam pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) yamayate != yAmayate (pysan)
+     3d (sanverb) yamayete != yAmayete (pysan)
+     3p (sanverb) yamayante != yAmayante (pysan)
+     2s (sanverb) yamayase != yAmayase (pysan)
+     2d (sanverb) yamayeTe != yAmayeTe (pysan)
+     2p (sanverb) yamayaDve != yAmayaDve (pysan)
+     1s (sanverb) yamaye != yAmaye (pysan)
+     1d (sanverb) yamayAvahe != yAmayAvahe (pysan)
+     1p (sanverb) yamayAmahe != yAmayAmahe (pysan)
+yam pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) yamayati != yAmayati (pysan)
+     3d (sanverb) yamayataH != yAmayataH (pysan)
+     3p (sanverb) yamayanti != yAmayanti (pysan)
+     2s (sanverb) yamayasi != yAmayasi (pysan)
+     2d (sanverb) yamayaTaH != yAmayaTaH (pysan)
+     2p (sanverb) yamayaTa != yAmayaTa (pysan)
+     1s (sanverb) yamayAmi != yAmayAmi (pysan)
+     1d (sanverb) yamayAvaH != yAmayAvaH (pysan)
+     1p (sanverb) yamayAmaH != yAmayAmaH (pysan)
+yas pre 4P: identical
+yA pre 2P: identical
+yuNg pre 1P: identical
+yuC pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) yucCati != yoCati (pysan)
+     3d (sanverb) yucCataH != yoCataH (pysan)
+     3p (sanverb) yucCanti != yoCanti (pysan)
+     2s (sanverb) yucCasi != yoCasi (pysan)
+     2d (sanverb) yucCaTaH != yoCaTaH (pysan)
+     2p (sanverb) yucCaTa != yoCaTa (pysan)
+     1s (sanverb) yucCAmi != yoCAmi (pysan)
+     1d (sanverb) yucCAvaH != yoCAvaH (pysan)
+     1p (sanverb) yucCAmaH != yoCAmaH (pysan)
+yuj pre 10A: identical
+yuj pre 10P: identical
+yuj pre 7A: identical
+yuj pre 7P: identical
+yut pre 1A: identical
+yuD pre 4A: identical
+yup pre 4P: identical
+yUz pre 1P: identical
+yez pre 1A: identical
+yOw pre 1P: identical
+rak pre 10A: identical
+rak pre 10P: identical
+rakz pre 1P: identical
+raK pre 1P: identical
+raNK pre 1P: identical
+rag pre 10A: identical
+rag pre 10P: identical
+raNg pre 1P: identical
+rag pre 1P: identical
+raG pre 10A: identical
+raG pre 10P: identical
+raNG pre 1A: identical
+raNG pre 10A: identical
+raNG pre 10P: identical
+raNg pre 10A: identical
+raNg pre 10P: identical
+rac pre 10A: identical
+rac pre 10P: identical
+raYj pre 1A: identical
+raYj pre 1P: identical
+raYj pre 4A: identical
+raYj pre 4P: identical
+raw pre 1P: identical
+raw pre 1P: identical
+raw pre 10A: identical
+raw pre 10P: identical
+raW pre 1P: identical
+raR pre 1P: identical
+raR pre 1P: identical
+rad pre 1P: identical
+raD pre 4P: identical
+rap pre 1P: identical
+raP pre 1P: identical
+ramP pre 1P: identical
+ramb pre 1A: identical
+raB pre 1A: identical
+ramB pre 1A: identical
+ram pre 1A: identical
+ray pre 1A: identical
+raRv pre 1P: identical
+ras pre 10A: identical
+ras pre 10P: identical
+ras pre 1P: identical
+rah pre 10A: identical
+rah pre 10P: identical
+rah pre 10A: identical
+rah pre 10P: identical
+rah pre 1P: identical
+raMh pre 1P: identical
+raMh pre 10A: identical
+raMh pre 10P: identical
+rA pre 2P: identical
+rAK pre 1P: identical
+rAG pre 1A: identical
+rAj pre 1A: identical
+rAj pre 1P: identical
+rAD pre 5P: identical
+rAD pre 4P: identical
+rAs pre 1A: identical
+ri pre 5P: identical
+ri pre 6P: identical
+riK pre 1P: identical
+riNK pre 1P: identical
+riNg pre 1P: identical
+ric pre 7A: identical
+ric pre 7P: identical
+riP pre 6P: identical
+riRv pre 1P: identical
+riS pre 6P: identical
+riz pre 1P: identical
+riz pre 4P: identical
+rih pre 6P: identical
+rI pre 9P: identical
+rI pre 4A: identical
+ru pre 2P: conjugation differences @ 3d,2d,2p,1d,1p 
+     3d (sanverb) rutaH != rutaH,ruvItaH (pysan)
+     2d (sanverb) ruTaH != ruTaH,ruvITaH (pysan)
+     2p (sanverb) ruTa != ruTa,ruvITa (pysan)
+     1d (sanverb) ruvaH != ruvIvaH,ruvaH (pysan)
+     1p (sanverb) rumaH != rumaH,ruvImaH (pysan)
+ruc pre 1A: identical
+ruj pre 6P: identical
+ruw pre 1A: identical
+ruw pre 10A: identical
+ruw pre 10P: identical
+ruw pre 10A: identical
+ruw pre 10P: identical
+ruRw pre 1P: identical
+ruW pre 1P: identical
+ruRW pre 1P: identical
+ruRW pre 1P: identical
+ruRq pre 1P: identical
+rud pre 2P: identical
+ruD pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) runDe,rundDe != rundDe (pysan)
+     2p (sanverb) runDve,rundDve != rundDve (pysan)
+ruD pre 7P: conjugation differences @ 3d,2d,2p 
+     3d (sanverb) runDaH,rundDaH != rundDaH (pysan)
+     2d (sanverb) runDaH,rundDaH != rundDaH (pysan)
+     2p (sanverb) runDa,rundDa != rundDa (pysan)
+rup pre 4P: identical
+ruS pre 6P: identical
+ruMS pre 10A: identical
+ruMS pre 10P: identical
+ruz pre 1P: identical
+ruz pre 4P: identical
+ruh pre 1P: identical
+rUkz pre 10A: identical
+rUkz pre 10P: identical
+rUp pre 10A: identical
+rUp pre 10P: identical
+rUz pre 1P: identical
+rek pre 1A: identical
+rej pre 1A: identical
+rew pre 1A: identical
+rew pre 1P: identical
+rep pre 1A: identical
+reB pre 1A: identical
+rev pre 1A: identical
+rez pre 1A: identical
+rE pre 1P: identical
+roq pre 1P: identical
+rOq pre 1P: identical
+lakz pre 10A: identical
+lakz pre 10A: identical
+laK pre 1P: identical
+laNK pre 1P: identical
+lag pre 10A: identical
+lag pre 10P: identical
+laNg pre 1P: identical
+lag pre 1P: identical
+laNG pre 1A: identical
+laNG pre 1P: identical
+laNG pre 10A: identical
+laNG pre 10P: identical
+laNG pre 10A: identical
+laNG pre 10P: identical
+laC pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) lacCati != laCati (pysan)
+     3d (sanverb) lacCataH != laCataH (pysan)
+     3p (sanverb) lacCanti != laCanti (pysan)
+     2s (sanverb) lacCasi != laCasi (pysan)
+     2d (sanverb) lacCaTaH != laCaTaH (pysan)
+     2p (sanverb) lacCaTa != laCaTa (pysan)
+     1s (sanverb) lacCAmi != laCAmi (pysan)
+     1d (sanverb) lacCAvaH != laCAvaH (pysan)
+     1p (sanverb) lacCAmaH != laCAmaH (pysan)
+laj pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) lajayate != lAjayate,lajayate (pysan)
+     3d (sanverb) lajayete != lAjayete,lajayete (pysan)
+     3p (sanverb) lajayante != lAjayante,lajayante (pysan)
+     2s (sanverb) lajayase != lAjayase,lajayase (pysan)
+     2d (sanverb) lajayeTe != lAjayeTe,lajayeTe (pysan)
+     2p (sanverb) lajayaDve != lAjayaDve,lajayaDve (pysan)
+     1s (sanverb) lajaye != lAjaye,lajaye (pysan)
+     1d (sanverb) lajayAvahe != lAjayAvahe,lajayAvahe (pysan)
+     1p (sanverb) lajayAmahe != lAjayAmahe,lajayAmahe (pysan)
+laj pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) lajayati != lAjayati,lajayati (pysan)
+     3d (sanverb) lajayataH != lAjayataH,lajayataH (pysan)
+     3p (sanverb) lajayanti != lAjayanti,lajayanti (pysan)
+     2s (sanverb) lajayasi != lAjayasi,lajayasi (pysan)
+     2d (sanverb) lajayaTaH != lAjayaTaH,lajayaTaH (pysan)
+     2p (sanverb) lajayaTa != lAjayaTa,lajayaTa (pysan)
+     1s (sanverb) lajayAmi != lAjayAmi,lajayAmi (pysan)
+     1d (sanverb) lajayAvaH != lAjayAvaH,lajayAvaH (pysan)
+     1p (sanverb) lajayAmaH != lAjayAmaH,lajayAmaH (pysan)
+laj pre 1P: identical
+laYj pre 1P: identical
+laYj pre 10A: identical
+laYj pre 10P: identical
+laYj pre 10A: identical
+laYj pre 10P: identical
+laYj pre 10A: identical
+laYj pre 10P: identical
+law pre 1P: identical
+laq pre 1P: identical
+laRq pre 10A: identical
+laRq pre 10P: identical
+lap pre 1P: identical
+lamb pre 1A: identical
+lamb pre 1A: identical
+lamB pre 1A: identical
+lay pre 1A: identical
+larb pre 1P: identical
+lal pre 1P: identical
+lal pre 10A: identical
+laz pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) lazate,lazyate != lazate (pysan)
+     3d (sanverb) lazete,lazyete != lazete (pysan)
+     3p (sanverb) lazante,lazyante != lazante (pysan)
+     2s (sanverb) lazase,lazyase != lazase (pysan)
+     2d (sanverb) lazeTe,lazyeTe != lazeTe (pysan)
+     2p (sanverb) lazaDve,lazyaDve != lazaDve (pysan)
+     1s (sanverb) laze,lazye != laze (pysan)
+     1d (sanverb) lazAvahe,lazyAvahe != lazAvahe (pysan)
+     1p (sanverb) lazAmahe,lazyAmahe != lazAmahe (pysan)
+laz pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) lazati,lazyati != lazati (pysan)
+     3d (sanverb) lazataH,lazyataH != lazataH (pysan)
+     3p (sanverb) lazanti,lazyanti != lazanti (pysan)
+     2s (sanverb) lazasi,lazyasi != lazasi (pysan)
+     2d (sanverb) lazaTaH,lazyaTaH != lazaTaH (pysan)
+     2p (sanverb) lazaTa,lazyaTa != lazaTa (pysan)
+     1s (sanverb) lazAmi,lazyAmi != lazAmi (pysan)
+     1d (sanverb) lazAvaH,lazyAvaH != lazAvaH (pysan)
+     1p (sanverb) lazAmaH,lazyAmaH != lazAmaH (pysan)
+las pre 1P: identical
+las pre 10A: identical
+las pre 10P: identical
+lA pre 2P: identical
+lAK pre 1P: identical
+lAG pre 1A: identical
+lAYC pre 1P: identical
+lAj pre 1P: identical
+lAYj pre 1P: identical
+lAB pre 10A: identical
+lAB pre 10P: identical
+liK pre 1P: identical
+liK pre 6P: identical
+liNK pre 1P: identical
+liNg pre 1P: identical
+liNg pre 10A: identical
+liNg pre 10P: identical
+liYj pre 10A: identical
+liYj pre 10P: identical
+lip pre 6A: identical
+lip pre 6P: identical
+liS pre 4A: identical
+liS pre 6P: identical
+lih pre 2A: identical
+lih pre 2P: identical
+lI pre 9P: identical
+luYj pre 10A: identical
+luYj pre 10P: identical
+luYj pre 10A: identical
+luYj pre 10P: identical
+luYc pre 1P: identical
+luw pre 1A: identical
+luw pre 1P: identical
+luw pre 6P: identical
+luRw pre 1P: identical
+luW pre 1A: identical
+luW pre 1P: identical
+luW pre 4P: identical
+luW pre 6P: identical
+luRW pre 1P: identical
+luRW pre 1P: identical
+luRW pre 1P: identical
+luq pre 1P: identical
+luq pre 6P: identical
+luRq pre 1P: identical
+luRw pre 10A: identical
+luRw pre 10P: identical
+luRW pre 10A: identical
+luRW pre 10P: identical
+lunT pre 1P: identical
+lup pre 4P: identical
+lumb pre 1P: identical
+lumb pre 10A: identical
+lumb pre 10P: identical
+luB pre 4P: identical
+luB pre 6P: identical
+lU pre 9A: identical
+lU pre 9P: identical
+lUz pre 1P: identical
+lUz pre 10A: identical
+lUz pre 10P: identical
+lep pre 1A: identical
+lok pre 1A: identical
+lok pre 10A: identical
+lok pre 10P: identical
+loc pre 1A: identical
+loc pre 10A: identical
+loc pre 10P: identical
+loq pre 1P: identical
+lozw pre 1A: identical
+vaNk pre 1A: identical
+vaNk pre 1A: identical
+vakz pre 1P: identical
+vaK pre 1P: identical
+vaNK pre 1P: identical
+vaNg pre 1P: identical
+vaNG pre 1A: identical
+vac pre 2P: conjugation differences @ 3p 
+     3p (sanverb) vacanti != _ (pysan)
+vaj pre 1P: identical
+vaYc pre 1P: identical
+vaYc pre 10A: identical
+vaw pre 10A: identical
+vaw pre 10P: identical
+vaw pre 10A: identical
+vaw pre 10P: identical
+vaw pre 1P: identical
+vaw pre 1P: identical
+vaRw pre 1P: identical
+vaRw pre 10A: identical
+vaRw pre 10P: identical
+vaRw pre 10A: identical
+vaRw pre 10P: identical
+vaW pre 1P: identical
+vaRW pre 1A: identical
+vaRq pre 1A: identical
+vaR pre 1P: identical
+vad pre 1P: identical
+vad pre 10A: identical
+vad pre 10P: identical
+vand pre 1A: identical
+van pre 1P: identical
+van pre 1P: identical
+van pre 1P: identical
+van pre 8A: identical
+vaBr pre 1P: identical
+vay pre 1A: identical
+vara pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) varayate != varAyate (pysan)
+     3d (sanverb) varayete != varAyete (pysan)
+     3p (sanverb) varayante != varAyante (pysan)
+     2s (sanverb) varayase != varAyase (pysan)
+     2d (sanverb) varayeTe != varAyeTe (pysan)
+     2p (sanverb) varayaDve != varAyaDve (pysan)
+     1s (sanverb) varaye != varAye (pysan)
+     1d (sanverb) varayAvahe != varAyAvahe (pysan)
+     1p (sanverb) varayAmahe != varAyAmahe (pysan)
+vara pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) varayati != varAyati (pysan)
+     3d (sanverb) varayataH != varAyataH (pysan)
+     3p (sanverb) varayanti != varAyanti (pysan)
+     2s (sanverb) varayasi != varAyasi (pysan)
+     2d (sanverb) varayaTaH != varAyaTaH (pysan)
+     2p (sanverb) varayaTa != varAyaTa (pysan)
+     1s (sanverb) varayAmi != varAyAmi (pysan)
+     1d (sanverb) varayAvaH != varAyAvaH (pysan)
+     1p (sanverb) varayAmaH != varAyAmaH (pysan)
+varc pre 1A: identical
+varR pre 10A: identical
+varR pre 10P: identical
+varR pre 10A: identical
+varR pre 10P: identical
+varD pre 10A: identical
+varD pre 10P: identical
+varz pre 1A: identical
+varh pre 1A: identical
+val pre 1A: identical
+valk pre 10A: identical
+valk pre 10P: identical
+valg pre 1P: identical
+valB pre 1A: identical
+vall pre 1A: identical
+valh pre 1A: identical
+vaS pre 2P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1d,1p 
+     3s (sanverb) vazwi != vasDi (pysan)
+     3d (sanverb) uzwaH != vasDaH (pysan)
+     3p (sanverb) uSanti != vaSanti (pysan)
+     2s (sanverb) vakzi != vassi (pysan)
+     2d (sanverb) uzWaH != vasDaH (pysan)
+     2p (sanverb) uzWa != vasDa (pysan)
+     1d (sanverb) uSvaH != vaSvaH (pysan)
+     1p (sanverb) uSmaH != vaSmaH (pysan)
+vaz pre 1P: identical
+vas pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) vasayate != vAsayate,vasayate (pysan)
+     3d (sanverb) vasayete != vAsayete,vasayete (pysan)
+     3p (sanverb) vasayante != vAsayante,vasayante (pysan)
+     2s (sanverb) vasayase != vAsayase,vasayase (pysan)
+     2d (sanverb) vasayeTe != vAsayeTe,vasayeTe (pysan)
+     2p (sanverb) vasayaDve != vAsayaDve,vasayaDve (pysan)
+     1s (sanverb) vasaye != vAsaye,vasaye (pysan)
+     1d (sanverb) vasayAvahe != vAsayAvahe,vasayAvahe (pysan)
+     1p (sanverb) vasayAmahe != vAsayAmahe,vasayAmahe (pysan)
+vas pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) vasayati != vAsayati,vasayati (pysan)
+     3d (sanverb) vasayataH != vAsayataH,vasayataH (pysan)
+     3p (sanverb) vasayanti != vAsayanti,vasayanti (pysan)
+     2s (sanverb) vasayasi != vAsayasi,vasayasi (pysan)
+     2d (sanverb) vasayaTaH != vAsayaTaH,vasayaTaH (pysan)
+     2p (sanverb) vasayaTa != vAsayaTa,vasayaTa (pysan)
+     1s (sanverb) vasayAmi != vAsayAmi,vasayAmi (pysan)
+     1d (sanverb) vasayAvaH != vAsayAvaH,vasayAvaH (pysan)
+     1p (sanverb) vasayAmaH != vAsayAmaH,vasayAmaH (pysan)
+vas pre 1P: identical
+vas pre 2A: identical
+vas pre 4P: identical
+vask pre 1A: identical
+vast pre 10A: identical
+vast pre 10P: identical
+vah pre 1A: identical
+vah pre 1P: identical
+vA pre 2P: identical
+vANkz pre 1P: identical
+vAYC pre 1P: identical
+vAq pre 1A: identical
+vAt pre 10A: identical
+vAt pre 10P: identical
+vAvft pre 4A: identical
+vAS pre 4A: identical
+vAs pre 10A: identical
+vAs pre 10P: identical
+vic pre 7A: identical
+vic pre 7P: identical
+vij pre 3A: identical
+vij pre 3P: identical
+viw pre 1P: identical
+viT pre 1A: identical
+vid pre 4A: identical
+vid pre 7A: conjugation differences @ 3s,2p 
+     3s (sanverb) vinte,vintte != vintte (pysan)
+     2p (sanverb) vinDve,vindDve != vindDve (pysan)
+viD pre 6P: identical
+vip pre 10A: identical
+vip pre 10P: identical
+vil pre 6P: identical
+viS pre 6P: identical
+viz pre 9P: identical
+viz pre 1P: identical
+viz pre 3A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) vevizwe != vivizwe (pysan)
+     3d (sanverb) vevizAte != vivizAte (pysan)
+     3p (sanverb) vevizate != vivizate (pysan)
+     2s (sanverb) vevikze != vivikze (pysan)
+     2d (sanverb) vevizATe != vivizATe (pysan)
+     2p (sanverb) veviqQve != vivizQve (pysan)
+     1s (sanverb) vevize != vivize (pysan)
+     1d (sanverb) vevizvahe != vivizvahe (pysan)
+     1p (sanverb) vevizmahe != vivizmahe (pysan)
+viz pre 3P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) vevezwi != vivezwi (pysan)
+     3d (sanverb) vevizwaH != vivizwaH (pysan)
+     3p (sanverb) vevizati != vivizati (pysan)
+     2s (sanverb) vevekzi != vivekzi (pysan)
+     2d (sanverb) vevizWaH != vivizWaH (pysan)
+     2p (sanverb) vevizWa != vivizWa (pysan)
+     1s (sanverb) vevezmi != vivezmi (pysan)
+     1d (sanverb) vevizvaH != vivizvaH (pysan)
+     1p (sanverb) vevizmaH != vivizmaH (pysan)
+vizk pre 10A: identical
+vizk pre 10P: identical
+vis pre 1P: identical
+vis pre 4P: identical
+vI pre 2P: identical
+vIj pre 1A: identical
+vIr pre 10A: identical
+vuNg pre 1P: identical
+vus pre 4P: identical
+vfk pre 1A: identical
+vfkz pre 1A: identical
+vf pre 9A: identical
+vfYj pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) vfNkte != vfYcce,vfYcte (pysan)
+     2s (sanverb) vfNkze != vfYcse (pysan)
+     2p (sanverb) vfNgDve != vfYjJve (pysan)
+vfj pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) vfkte != vfcce,vfcte (pysan)
+     2s (sanverb) vfkze != vfcse (pysan)
+     2p (sanverb) vfgDve != vfjJve (pysan)
+vfj pre 7P: identical
+vfj pre 10A: identical
+vfj pre 10P: identical
+vf pre 5A: identical
+vf pre 5P: identical
+vf pre 10A: identical
+vf pre 10P: identical
+vfR pre 6P: identical
+vft pre 1A: identical
+vft pre 4A: identical
+vft pre 10A: identical
+vft pre 10P: identical
+vfD pre 1A: identical
+vfD pre 10A: identical
+vfD pre 10P: identical
+vfS pre 4P: identical
+vfz pre 10A: identical
+vfz pre 1P: identical
+vfh pre 6P: identical
+vF pre 9P: identical
+vF pre 9A: identical
+vF pre 9P: identical
+ve pre 1A: identical
+ve pre 1P: identical
+veR pre 1A: identical
+veR pre 1P: identical
+veT pre 1A: identical
+ven pre 1A: identical
+ven pre 1P: identical
+vel pre 10A: identical
+vel pre 10P: identical
+vel pre 1P: identical
+vell pre 1P: identical
+vevI pre 2A: conjugation differences @ 3d,3p,2d,1s 
+     3d (sanverb) vevyAte != veviyAte (pysan)
+     3p (sanverb) vevyate != veviyate (pysan)
+     2d (sanverb) vevyATe != veviyATe (pysan)
+     1s (sanverb) vevye != veviye (pysan)
+vezw pre 1A: identical
+ves pre 1P: identical
+veh pre 1A: identical
+vyac pre 6P: identical
+vyaT pre 1A: identical
+vyaD pre 4P: identical
+vyap pre 10A: identical
+vyap pre 10P: identical
+vyay pre 10A: identical
+vyay pre 10P: identical
+vyay pre 10A: identical
+vyay pre 10P: identical
+vyay pre 1A: identical
+vyay pre 1P: identical
+vyuz pre 4P: identical
+vyuz pre 4P: identical
+vyus pre 4P: identical
+vye pre 1A: identical
+vye pre 1P: identical
+vraj pre 1P: identical
+vraj pre 1P: identical
+vraj pre 10A: identical
+vraj pre 10P: identical
+vraYj pre 1P: identical
+vraR pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) vraRayate != vrARayate (pysan)
+     3d (sanverb) vraRayete != vrARayete (pysan)
+     3p (sanverb) vraRayante != vrARayante (pysan)
+     2s (sanverb) vraRayase != vrARayase (pysan)
+     2d (sanverb) vraRayeTe != vrARayeTe (pysan)
+     2p (sanverb) vraRayaDve != vrARayaDve (pysan)
+     1s (sanverb) vraRaye != vrARaye (pysan)
+     1d (sanverb) vraRayAvahe != vrARayAvahe (pysan)
+     1p (sanverb) vraRayAmahe != vrARayAmahe (pysan)
+vraR pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) vraRayati != vrARayati (pysan)
+     3d (sanverb) vraRayataH != vrARayataH (pysan)
+     3p (sanverb) vraRayanti != vrARayanti (pysan)
+     2s (sanverb) vraRayasi != vrARayasi (pysan)
+     2d (sanverb) vraRayaTaH != vrARayaTaH (pysan)
+     2p (sanverb) vraRayaTa != vrARayaTa (pysan)
+     1s (sanverb) vraRayAmi != vrARayAmi (pysan)
+     1d (sanverb) vraRayAvaH != vrARayAvaH (pysan)
+     1p (sanverb) vraRayAmaH != vrARayAmaH (pysan)
+vraR pre 1P: identical
+vrI pre 9P: identical
+vrI pre 4A: identical
+vrIq pre 4P: identical
+vruq pre 6P: identical
+vrUz pre 10A: identical
+vrUz pre 10P: identical
+vrUs pre 10A: identical
+vrUs pre 10P: identical
+vlI pre 9P: identical
+SaMs pre 1P: identical
+Sak pre 4A: identical
+Sak pre 4P: identical
+SaNk pre 1A: identical
+Sak pre 5P: identical
+Sac pre 1A: identical
+Saw pre 1P: identical
+SaW pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SaWayate != SAWayate,SaWayate (pysan)
+     3d (sanverb) SaWayete != SAWayete,SaWayete (pysan)
+     3p (sanverb) SaWayante != SAWayante,SaWayante (pysan)
+     2s (sanverb) SaWayase != SAWayase,SaWayase (pysan)
+     2d (sanverb) SaWayeTe != SAWayeTe,SaWayeTe (pysan)
+     2p (sanverb) SaWayaDve != SAWayaDve,SaWayaDve (pysan)
+     1s (sanverb) SaWaye != SAWaye,SaWaye (pysan)
+     1d (sanverb) SaWayAvahe != SAWayAvahe,SaWayAvahe (pysan)
+     1p (sanverb) SaWayAmahe != SAWayAmahe,SaWayAmahe (pysan)
+SaW pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SaWayati != SAWayati,SaWayati (pysan)
+     3d (sanverb) SaWayataH != SAWayataH,SaWayataH (pysan)
+     3p (sanverb) SaWayanti != SAWayanti,SaWayanti (pysan)
+     2s (sanverb) SaWayasi != SAWayasi,SaWayasi (pysan)
+     2d (sanverb) SaWayaTaH != SAWayaTaH,SaWayaTaH (pysan)
+     2p (sanverb) SaWayaTa != SAWayaTa,SaWayaTa (pysan)
+     1s (sanverb) SaWayAmi != SAWayAmi,SaWayAmi (pysan)
+     1d (sanverb) SaWayAvaH != SAWayAvaH,SaWayAvaH (pysan)
+     1p (sanverb) SaWayAmaH != SAWayAmaH,SaWayAmaH (pysan)
+SaW pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SaWayate != SAWayate,SaWayate (pysan)
+     3d (sanverb) SaWayete != SAWayete,SaWayete (pysan)
+     3p (sanverb) SaWayante != SAWayante,SaWayante (pysan)
+     2s (sanverb) SaWayase != SAWayase,SaWayase (pysan)
+     2d (sanverb) SaWayeTe != SAWayeTe,SaWayeTe (pysan)
+     2p (sanverb) SaWayaDve != SAWayaDve,SaWayaDve (pysan)
+     1s (sanverb) SaWaye != SAWaye,SaWaye (pysan)
+     1d (sanverb) SaWayAvahe != SAWayAvahe,SaWayAvahe (pysan)
+     1p (sanverb) SaWayAmahe != SAWayAmahe,SaWayAmahe (pysan)
+SaW pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SaWayati != SAWayati,SaWayati (pysan)
+     3d (sanverb) SaWayataH != SAWayataH,SaWayataH (pysan)
+     3p (sanverb) SaWayanti != SAWayanti,SaWayanti (pysan)
+     2s (sanverb) SaWayasi != SAWayasi,SaWayasi (pysan)
+     2d (sanverb) SaWayaTaH != SAWayaTaH,SaWayaTaH (pysan)
+     2p (sanverb) SaWayaTa != SAWayaTa,SaWayaTa (pysan)
+     1s (sanverb) SaWayAmi != SAWayAmi,SaWayAmi (pysan)
+     1d (sanverb) SaWayAvaH != SAWayAvaH,SaWayAvaH (pysan)
+     1p (sanverb) SaWayAmaH != SAWayAmaH,SaWayAmaH (pysan)
+SaW pre 1P: identical
+SaRq pre 1A: identical
+SaR pre 1P: identical
+Sad pre 1A: identical
+Sad pre 6A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SIyate != Sadate (pysan)
+     3d (sanverb) SIyete != Sadete (pysan)
+     3p (sanverb) SIyante != Sadante (pysan)
+     2s (sanverb) SIyase != Sadase (pysan)
+     2d (sanverb) SIyeTe != SadeTe (pysan)
+     2p (sanverb) SIyaDve != SadaDve (pysan)
+     1s (sanverb) SIye != Sade (pysan)
+     1d (sanverb) SIyAvahe != SadAvahe (pysan)
+     1p (sanverb) SIyAmahe != SadAmahe (pysan)
+Sap pre 1A: identical
+Sap pre 1P: identical
+Sap pre 4A: identical
+Sap pre 4P: identical
+Sabd pre 10A: identical
+Sabd pre 10P: identical
+Sam pre 4P: identical
+Samb pre 10A: identical
+Samb pre 10P: identical
+Sarb pre 1P: identical
+Sarv pre 1P: identical
+Sal pre 1A: identical
+Sal pre 1P: identical
+SalB pre 1A: identical
+Sav pre 1P: identical
+SaS pre 1P: identical
+Saz pre 1P: identical
+Sas pre 1P: identical
+SAK pre 1P: identical
+SAq pre 1A: identical
+SAn pre 1A: identical
+SAn pre 1P: identical
+SAntv pre 10A: identical
+SAntv pre 10P: identical
+SAs pre 2P: conjugation differences @ 3p 
+     3p (sanverb) SAsanti != SAsati (pysan)
+Sikz pre 1A: identical
+SiNK pre 1P: identical
+SiNG pre 1P: identical
+SiYj pre 2A: conjugation differences @ 3s,2s,2p 
+     3s (sanverb) SiNkte != SiYcce,SiYcte (pysan)
+     2s (sanverb) SiNkze != SiYcse (pysan)
+     2p (sanverb) SiNgDve != SiYjJve (pysan)
+Si pre 5A: identical
+Si pre 5P: identical
+Siw pre 1P: identical
+Sil pre 6P: identical
+Siz pre 1P: identical
+Siz pre 7P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (sanverb) SiMzwaH != SiRzwaH (pysan)
+     3p (sanverb) SiMzanti != SiRzanti (pysan)
+     2d (sanverb) SiMzWaH != SiRzWaH (pysan)
+     2p (sanverb) SiMzWa != SiRzWa (pysan)
+     1d (sanverb) SiMzvaH != SiRzvaH (pysan)
+     1p (sanverb) SiMzmaH != SiRzmaH (pysan)
+SIk pre 10A: identical
+SIk pre 10P: identical
+SIk pre 10A: identical
+SIk pre 10P: identical
+SIk pre 1A: identical
+SI pre 2A: identical
+SIB pre 1A: identical
+SIl pre 10A: identical
+SIl pre 10P: identical
+SIl pre 1P: identical
+Suk pre 1P: identical
+Suc pre 1P: identical
+Sucy pre 1P: identical
+SuW pre 1P: identical
+SuRW pre 1P: identical
+SuRW pre 1P: identical
+SuRW pre 10A: identical
+SuRW pre 10P: identical
+SuD pre 4P: identical
+Sun pre 6P: identical
+SunD pre 1P: identical
+SunD pre 10A: identical
+SunD pre 10P: identical
+SuB pre 1A: identical
+SuB pre 1P: identical
+SuB pre 6P: identical
+SumB pre 1P: identical
+SumB pre 6P: identical
+Sulb pre 10A: identical
+Sulb pre 10P: identical
+Suz pre 4P: identical
+SUr pre 10A: identical
+SUr pre 4A: identical
+SUrp pre 10A: identical
+SUrp pre 10P: identical
+SUl pre 1P: identical
+SUz pre 1P: identical
+SfD pre 1A: identical
+SfD pre 1P: identical
+SfD pre 1A: identical
+SfD pre 10A: identical
+SfD pre 10P: identical
+Sel pre 1P: identical
+Sev pre 1A: identical
+SE pre 1P: identical
+So pre 4P: identical
+SoR pre 1P: identical
+SOw pre 1P: identical
+Scut pre 1P: identical
+Scyut pre 1P: identical
+SnaT pre 1P: identical
+SmIl pre 1P: identical
+SyE pre 1A: identical
+SraNk pre 1A: identical
+SraNg pre 1P: identical
+SraR pre 1P: identical
+SraR pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SraRayate != SrARayate (pysan)
+     3d (sanverb) SraRayete != SrARayete (pysan)
+     3p (sanverb) SraRayante != SrARayante (pysan)
+     2s (sanverb) SraRayase != SrARayase (pysan)
+     2d (sanverb) SraRayeTe != SrARayeTe (pysan)
+     2p (sanverb) SraRayaDve != SrARayaDve (pysan)
+     1s (sanverb) SraRaye != SrARaye (pysan)
+     1d (sanverb) SraRayAvahe != SrARayAvahe (pysan)
+     1p (sanverb) SraRayAmahe != SrARayAmahe (pysan)
+SraR pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SraRayati != SrARayati (pysan)
+     3d (sanverb) SraRayataH != SrARayataH (pysan)
+     3p (sanverb) SraRayanti != SrARayanti (pysan)
+     2s (sanverb) SraRayasi != SrARayasi (pysan)
+     2d (sanverb) SraRayaTaH != SrARayaTaH (pysan)
+     2p (sanverb) SraRayaTa != SrARayaTa (pysan)
+     1s (sanverb) SraRayAmi != SrARayAmi (pysan)
+     1d (sanverb) SraRayAvaH != SrARayAvaH (pysan)
+     1p (sanverb) SraRayAmaH != SrARayAmaH (pysan)
+SraT pre 10A: identical
+SraT pre 10P: identical
+SraT pre 10A: identical
+SraT pre 10P: identical
+SraT pre 10A: identical
+SraT pre 10P: identical
+SraT pre 1P: identical
+SranT pre 1A: identical
+SranT pre 9P: identical
+SranT pre 9P: identical
+Sram pre 4P: identical
+SramB pre 1A: identical
+SrA pre 2P: identical
+Sri pre 1A: identical
+Sri pre 1P: identical
+Sriz pre 1P: identical
+SrI pre 9A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SrIRIte != SriRIte (pysan)
+     3d (sanverb) SrIRAte != SriRAte (pysan)
+     3p (sanverb) SrIRate != SriRate (pysan)
+     2s (sanverb) SrIRIze != SriRIze (pysan)
+     2d (sanverb) SrIRATe != SriRATe (pysan)
+     2p (sanverb) SrIRIDve != SriRIDve (pysan)
+     1s (sanverb) SrIRe != SriRe (pysan)
+     1d (sanverb) SrIRIvahe != SriRIvahe (pysan)
+     1p (sanverb) SrIRImahe != SriRImahe (pysan)
+SrI pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SrIRAti != SriRAti (pysan)
+     3d (sanverb) SrIRItaH != SriRItaH (pysan)
+     3p (sanverb) SrIRanti != SriRanti (pysan)
+     2s (sanverb) SrIRAsi != SriRAsi (pysan)
+     2d (sanverb) SrIRITaH != SriRITaH (pysan)
+     2p (sanverb) SrIRITa != SriRITa (pysan)
+     1s (sanverb) SrIRAmi != SriRAmi (pysan)
+     1d (sanverb) SrIRIvaH != SriRIvaH (pysan)
+     1p (sanverb) SrIRImaH != SriRImaH (pysan)
+Sru pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SfRoti != Sravati (pysan)
+     3d (sanverb) SfRutaH != SravataH (pysan)
+     3p (sanverb) SfRvanti != Sravanti (pysan)
+     2s (sanverb) SfRozi != Sravasi (pysan)
+     2d (sanverb) SfRuTaH != SravaTaH (pysan)
+     2p (sanverb) SfRuTa != SravaTa (pysan)
+     1s (sanverb) SfRomi != SravAmi (pysan)
+     1d (sanverb) SfRuvaH,SfRvaH != SravAvaH (pysan)
+     1p (sanverb) SfRmaH,SfRumaH != SravAmaH (pysan)
+SrE pre 1P: identical
+SroR pre 1P: identical
+SlaNk pre 1A: identical
+SlaNg pre 1P: identical
+SlaT pre 1P: identical
+SlAK pre 1P: identical
+SlAG pre 1A: identical
+Sliz pre 10A: identical
+Sliz pre 10P: identical
+Sliz pre 1P: identical
+Slok pre 1A: identical
+SloR pre 1P: identical
+SvaNk pre 1A: identical
+Svac pre 1A: identical
+SvaYc pre 1A: identical
+SvaW pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SvaWayate != SvAWayate (pysan)
+     3d (sanverb) SvaWayete != SvAWayete (pysan)
+     3p (sanverb) SvaWayante != SvAWayante (pysan)
+     2s (sanverb) SvaWayase != SvAWayase (pysan)
+     2d (sanverb) SvaWayeTe != SvAWayeTe (pysan)
+     2p (sanverb) SvaWayaDve != SvAWayaDve (pysan)
+     1s (sanverb) SvaWaye != SvAWaye (pysan)
+     1d (sanverb) SvaWayAvahe != SvAWayAvahe (pysan)
+     1p (sanverb) SvaWayAmahe != SvAWayAmahe (pysan)
+SvaW pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SvaWayati != SvAWayati (pysan)
+     3d (sanverb) SvaWayataH != SvAWayataH (pysan)
+     3p (sanverb) SvaWayanti != SvAWayanti (pysan)
+     2s (sanverb) SvaWayasi != SvAWayasi (pysan)
+     2d (sanverb) SvaWayaTaH != SvAWayaTaH (pysan)
+     2p (sanverb) SvaWayaTa != SvAWayaTa (pysan)
+     1s (sanverb) SvaWayAmi != SvAWayAmi (pysan)
+     1d (sanverb) SvaWayAvaH != SvAWayAvaH (pysan)
+     1p (sanverb) SvaWayAmaH != SvAWayAmaH (pysan)
+SvaW pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SvaWayate != SvAWayate (pysan)
+     3d (sanverb) SvaWayete != SvAWayete (pysan)
+     3p (sanverb) SvaWayante != SvAWayante (pysan)
+     2s (sanverb) SvaWayase != SvAWayase (pysan)
+     2d (sanverb) SvaWayeTe != SvAWayeTe (pysan)
+     2p (sanverb) SvaWayaDve != SvAWayaDve (pysan)
+     1s (sanverb) SvaWaye != SvAWaye (pysan)
+     1d (sanverb) SvaWayAvahe != SvAWayAvahe (pysan)
+     1p (sanverb) SvaWayAmahe != SvAWayAmahe (pysan)
+SvaW pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) SvaWayati != SvAWayati (pysan)
+     3d (sanverb) SvaWayataH != SvAWayataH (pysan)
+     3p (sanverb) SvaWayanti != SvAWayanti (pysan)
+     2s (sanverb) SvaWayasi != SvAWayasi (pysan)
+     2d (sanverb) SvaWayaTaH != SvAWayaTaH (pysan)
+     2p (sanverb) SvaWayaTa != SvAWayaTa (pysan)
+     1s (sanverb) SvaWayAmi != SvAWayAmi (pysan)
+     1d (sanverb) SvaWayAvaH != SvAWayAvaH (pysan)
+     1p (sanverb) SvaWayAmaH != SvAWayAmaH (pysan)
+SvaBr pre 10A: identical
+SvaBr pre 10P: identical
+Svart pre 10A: identical
+Svart pre 10P: identical
+Sval pre 1P: identical
+Svalk pre 10A: identical
+Svalk pre 10P: identical
+Svall pre 1P: identical
+Svas pre 2P: identical
+Svit pre 1A: identical
+Svind pre 1A: identical
+sag pre 1P: identical
+saD pre 5P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) saGnoti != saDnoti (pysan)
+     3d (sanverb) saGnutaH != saDnutaH (pysan)
+     3p (sanverb) saGnuvanti != saDnuvanti (pysan)
+     2s (sanverb) saGnozi != saDnozi (pysan)
+     2d (sanverb) saGnuTaH != saDnuTaH (pysan)
+     2p (sanverb) saGnuTa != saDnuTa (pysan)
+     1s (sanverb) saGnomi != saDnomi (pysan)
+     1d (sanverb) saGnuvaH != saDnuvaH (pysan)
+     1p (sanverb) saGnumaH != saDnumaH (pysan)
+sac pre 1A: identical
+sac pre 1P: identical
+sac pre 1A: identical
+saYj pre 1P: identical
+saw pre 1P: identical
+saww pre 10A: identical
+saww pre 10P: identical
+sad pre 1P: identical
+sad pre 6P: identical
+san pre 1P: identical
+san pre 8A: identical
+san pre 8P: identical
+sap pre 1P: identical
+sam pre 1P: identical
+samb pre 10A: identical
+samb pre 10P: identical
+sarkz pre 1P: identical
+sarj pre 1P: identical
+sarb pre 1P: identical
+sarv pre 1P: identical
+sal pre 1P: identical
+sas pre 2P: identical
+sajj pre 1A: identical
+sajj pre 1P: identical
+saMst pre 2P: conjugation differences @ 3s,3d,2d,2p,1s,1p 
+     3s (sanverb) saMsti,saMstti != saMstti (pysan)
+     3d (sanverb) saMstaH,saMsttaH != saMsttaH (pysan)
+     2d (sanverb) saMsTaH,saMstTaH != saMstTaH (pysan)
+     2p (sanverb) saMsTa,saMstTa != saMstTa (pysan)
+     1s (sanverb) saMstmi != saMsdmi (pysan)
+     1p (sanverb) saMstmaH != saMsdmaH (pysan)
+sah pre 1A: identical
+sah pre 4P: identical
+sAntv pre 10A: identical
+sAntv pre 10P: identical
+sic pre 6A: identical
+sic pre 6P: identical
+si pre 5A: identical
+si pre 5P: identical
+si pre 9A: identical
+si pre 9P: identical
+siw pre 1P: identical
+siD pre 1P: identical
+siD pre 4P: identical
+siD pre 1P: identical
+siB pre 1P: identical
+simB pre 1P: identical
+sil pre 6P: identical
+sinv pre 1P: identical
+siv pre 4P: identical
+su pre 1P: identical
+su pre 2P: identical
+su pre 5A: identical
+su pre 5P: identical
+suww pre 10A: identical
+suww pre 10P: identical
+sur pre 6P: identical
+suh pre 4P: identical
+sU pre 6P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) suvati != svati (pysan)
+     3d (sanverb) suvataH != svataH (pysan)
+     3p (sanverb) suvanti != svanti (pysan)
+     2s (sanverb) suvasi != svasi (pysan)
+     2d (sanverb) suvaTaH != svaTaH (pysan)
+     2p (sanverb) suvaTa != svaTa (pysan)
+     1s (sanverb) suvAmi != svAmi (pysan)
+     1d (sanverb) suvAvaH != svAvaH (pysan)
+     1p (sanverb) suvAmaH != svAmaH (pysan)
+sU pre 2A: identical
+sU pre 4A: identical
+sUd pre 1A: identical
+sUd pre 10A: identical
+sUd pre 10P: identical
+sUrkzy pre 1P: identical
+sfB pre 1P: identical
+sfmB pre 1P: identical
+sel pre 1P: identical
+sev pre 1A: identical
+sE pre 1P: identical
+so pre 4P: identical
+stak pre 1P: identical
+stan pre 1P: identical
+stamB pre 1A: identical
+stam pre 1P: identical
+stiG pre 5A: identical
+stip pre 1A: identical
+stim pre 4P: identical
+stIn pre 4P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) stImyati != stInyati (pysan)
+     3d (sanverb) stImyataH != stInyataH (pysan)
+     3p (sanverb) stImyanti != stInyanti (pysan)
+     2s (sanverb) stImyasi != stInyasi (pysan)
+     2d (sanverb) stImyaTaH != stInyaTaH (pysan)
+     2p (sanverb) stImyaTa != stInyaTa (pysan)
+     1s (sanverb) stImyAmi != stInyAmi (pysan)
+     1d (sanverb) stImyAvaH != stInyAvaH (pysan)
+     1p (sanverb) stImyAmaH != stInyAmaH (pysan)
+stuc pre 1A: identical
+stu pre 2A: conjugation differences @ 3s,2s,2p,1d,1p 
+     3s (sanverb) stute != stute,stuvIte (pysan)
+     2s (sanverb) stuze != stuvIze,stuze (pysan)
+     2p (sanverb) stuDve != stuDve,stuvIDve (pysan)
+     1d (sanverb) stuvahe != stuvIvahe,stuvahe (pysan)
+     1p (sanverb) stumahe != stumahe,stuvImahe (pysan)
+stu pre 2P: conjugation differences @ 3d,2d,2p,1d,1p 
+     3d (sanverb) stutaH != stutaH,stuvItaH (pysan)
+     2d (sanverb) stuTaH != stuTaH,stuvITaH (pysan)
+     2p (sanverb) stuTa != stuTa,stuvITa (pysan)
+     1d (sanverb) stuvaH != stuvIvaH,stuvaH (pysan)
+     1p (sanverb) stumaH != stumaH,stuvImaH (pysan)
+stup pre 4P: identical
+stuB pre 1A: identical
+stUp pre 4P: identical
+stfkz pre 1P: identical
+step pre 1A: identical
+stE pre 1P: identical
+zwyE pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) styAyati != zwyAyati (pysan)
+     3d (sanverb) styAyataH != zwyAyataH (pysan)
+     3p (sanverb) styAyanti != zwyAyanti (pysan)
+     2s (sanverb) styAyasi != zwyAyasi (pysan)
+     2d (sanverb) styAyaTaH != zwyAyaTaH (pysan)
+     2p (sanverb) styAyaTa != zwyAyaTa (pysan)
+     1s (sanverb) styAyAmi != zwyAyAmi (pysan)
+     1d (sanverb) styAyAvaH != zwyAyAvaH (pysan)
+     1p (sanverb) styAyAmaH != zwyAyAmaH (pysan)
+strakz pre 1P: identical
+sTag pre 1P: identical
+stal pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sTalati != stalati (pysan)
+     3d (sanverb) sTalataH != stalataH (pysan)
+     3p (sanverb) sTalanti != stalanti (pysan)
+     2s (sanverb) sTalasi != stalasi (pysan)
+     2d (sanverb) sTalaTaH != stalaTaH (pysan)
+     2p (sanverb) sTalaTa != stalaTa (pysan)
+     1s (sanverb) sTalAmi != stalAmi (pysan)
+     1d (sanverb) sTalAvaH != stalAvaH (pysan)
+     1p (sanverb) sTalAmaH != stalAmaH (pysan)
+sTA pre 1P: identical
+zWiv pre 1P: identical
+zWiv pre 4P: identical
+snas pre 4P: identical
+snA pre 2P: identical
+snih pre 4P: identical
+snih pre 10A: identical
+snih pre 10P: identical
+snu pre 2P: identical
+snus pre 4P: identical
+snuh pre 4P: identical
+snE pre 1P: identical
+smi pre 1A: identical
+smi pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) smApayate,smAyayate != smAyayate (pysan)
+     3d (sanverb) smApayete,smAyayete != smAyayete (pysan)
+     3p (sanverb) smApayante,smAyayante != smAyayante (pysan)
+     2s (sanverb) smApayase,smAyayase != smAyayase (pysan)
+     2d (sanverb) smApayeTe,smAyayeTe != smAyayeTe (pysan)
+     2p (sanverb) smApayaDve,smAyayaDve != smAyayaDve (pysan)
+     1s (sanverb) smApaye,smAyaye != smAyaye (pysan)
+     1d (sanverb) smApayAvahe,smAyayAvahe != smAyayAvahe (pysan)
+     1p (sanverb) smApayAmahe,smAyayAmahe != smAyayAmahe (pysan)
+smi pre 10P: identical
+svaNk pre 1A: identical
+svaYj pre 1A: identical
+svad pre 1A: identical
+svad pre 10A: identical
+svad pre 10P: identical
+svazk pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) svaskate != svazkate (pysan)
+     3d (sanverb) svaskete != svazkete (pysan)
+     3p (sanverb) svaskante != svazkante (pysan)
+     2s (sanverb) svaskase != svazkase (pysan)
+     2d (sanverb) svaskeTe != svazkeTe (pysan)
+     2p (sanverb) svaskaDve != svazkaDve (pysan)
+     1s (sanverb) svaske != svazke (pysan)
+     1d (sanverb) svaskAvahe != svazkAvahe (pysan)
+     1p (sanverb) svaskAmahe != svazkAmahe (pysan)
+svid pre 4P: identical
+saNket pre 10A: identical
+saNket pre 10P: identical
+saNgrAma pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) saNgrAmayate != saNgrAmAyate (pysan)
+     3d (sanverb) saNgrAmayete != saNgrAmAyete (pysan)
+     3p (sanverb) saNgrAmayante != saNgrAmAyante (pysan)
+     2s (sanverb) saNgrAmayase != saNgrAmAyase (pysan)
+     2d (sanverb) saNgrAmayeTe != saNgrAmAyeTe (pysan)
+     2p (sanverb) saNgrAmayaDve != saNgrAmAyaDve (pysan)
+     1s (sanverb) saNgrAmaye != saNgrAmAye (pysan)
+     1d (sanverb) saNgrAmayAvahe != saNgrAmAyAvahe (pysan)
+     1p (sanverb) saNgrAmayAmahe != saNgrAmAyAmahe (pysan)
+saNgrAma pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) saNgrAmayati != saNgrAmAyati (pysan)
+     3d (sanverb) saNgrAmayataH != saNgrAmAyataH (pysan)
+     3p (sanverb) saNgrAmayanti != saNgrAmAyanti (pysan)
+     2s (sanverb) saNgrAmayasi != saNgrAmAyasi (pysan)
+     2d (sanverb) saNgrAmayaTaH != saNgrAmAyaTaH (pysan)
+     2p (sanverb) saNgrAmayaTa != saNgrAmAyaTa (pysan)
+     1s (sanverb) saNgrAmayAmi != saNgrAmAyAmi (pysan)
+     1d (sanverb) saNgrAmayAvaH != saNgrAmAyAvaH (pysan)
+     1p (sanverb) saNgrAmayAmaH != saNgrAmAyAmaH (pysan)
+satr pre 10A: identical
+samAja pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) saBAjayate != samAjAyate (pysan)
+     3d (sanverb) saBAjayete != samAjAyete (pysan)
+     3p (sanverb) saBAjayante != samAjAyante (pysan)
+     2s (sanverb) saBAjayase != samAjAyase (pysan)
+     2d (sanverb) saBAjayeTe != samAjAyeTe (pysan)
+     2p (sanverb) saBAjayaDve != samAjAyaDve (pysan)
+     1s (sanverb) saBAjaye != samAjAye (pysan)
+     1d (sanverb) saBAjayAvahe != samAjAyAvahe (pysan)
+     1p (sanverb) saBAjayAmahe != samAjAyAmahe (pysan)
+samAja pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) saBAjayati != samAjAyati (pysan)
+     3d (sanverb) saBAjayataH != samAjAyataH (pysan)
+     3p (sanverb) saBAjayanti != samAjAyanti (pysan)
+     2s (sanverb) saBAjayasi != samAjAyasi (pysan)
+     2d (sanverb) saBAjayaTaH != samAjAyaTaH (pysan)
+     2p (sanverb) saBAjayaTa != samAjAyaTa (pysan)
+     1s (sanverb) saBAjayAmi != samAjAyAmi (pysan)
+     1d (sanverb) saBAjayAvaH != samAjAyAvaH (pysan)
+     1p (sanverb) saBAjayAmaH != samAjAyAmaH (pysan)
+sam pre 4P: identical
+sAD pre 5P: identical
+sAma pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sAmayate != sAmAyate (pysan)
+     3d (sanverb) sAmayete != sAmAyete (pysan)
+     3p (sanverb) sAmayante != sAmAyante (pysan)
+     2s (sanverb) sAmayase != sAmAyase (pysan)
+     2d (sanverb) sAmayeTe != sAmAyeTe (pysan)
+     2p (sanverb) sAmayaDve != sAmAyaDve (pysan)
+     1s (sanverb) sAmaye != sAmAye (pysan)
+     1d (sanverb) sAmayAvahe != sAmAyAvahe (pysan)
+     1p (sanverb) sAmayAmahe != sAmAyAmahe (pysan)
+sAma pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sAmayati != sAmAyati (pysan)
+     3d (sanverb) sAmayataH != sAmAyataH (pysan)
+     3p (sanverb) sAmayanti != sAmAyanti (pysan)
+     2s (sanverb) sAmayasi != sAmAyasi (pysan)
+     2d (sanverb) sAmayaTaH != sAmAyaTaH (pysan)
+     2p (sanverb) sAmayaTa != sAmAyaTa (pysan)
+     1s (sanverb) sAmayAmi != sAmAyAmi (pysan)
+     1d (sanverb) sAmayAvaH != sAmAyAvaH (pysan)
+     1p (sanverb) sAmayAmaH != sAmAyAmaH (pysan)
+sAmb pre 10A: identical
+sAmb pre 10P: identical
+sAra pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sArayate != sArAyate (pysan)
+     3d (sanverb) sArayete != sArAyete (pysan)
+     3p (sanverb) sArayante != sArAyante (pysan)
+     2s (sanverb) sArayase != sArAyase (pysan)
+     2d (sanverb) sArayeTe != sArAyeTe (pysan)
+     2p (sanverb) sArayaDve != sArAyaDve (pysan)
+     1s (sanverb) sAraye != sArAye (pysan)
+     1d (sanverb) sArayAvahe != sArAyAvahe (pysan)
+     1p (sanverb) sArayAmahe != sArAyAmahe (pysan)
+sAra pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sArayati != sArAyati (pysan)
+     3d (sanverb) sArayataH != sArAyataH (pysan)
+     3p (sanverb) sArayanti != sArAyanti (pysan)
+     2s (sanverb) sArayasi != sArAyasi (pysan)
+     2d (sanverb) sArayaTaH != sArAyaTaH (pysan)
+     2p (sanverb) sArayaTa != sArAyaTa (pysan)
+     1s (sanverb) sArayAmi != sArAyAmi (pysan)
+     1d (sanverb) sArayAvaH != sArAyAvaH (pysan)
+     1p (sanverb) sArayAmaH != sArAyAmaH (pysan)
+sIk pre 1A: identical
+suK pre 10A: identical
+suK pre 10P: identical
+sUc pre 10A: identical
+sUc pre 10P: identical
+sUtr pre 10A: identical
+sUtr pre 10P: identical
+sUrkz pre 1P: identical
+sUz pre 1P: identical
+sf pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) DAvati != DAvati,sarati (pysan)
+     3d (sanverb) DAvataH != DAvataH,sarataH (pysan)
+     3p (sanverb) DAvanti != DAvanti,saranti (pysan)
+     2s (sanverb) DAvasi != DAvasi,sarasi (pysan)
+     2d (sanverb) DAvaTaH != DAvaTaH,saraTaH (pysan)
+     2p (sanverb) DAvaTa != DAvaTa,saraTa (pysan)
+     1s (sanverb) DAvAmi != DAvAmi,sarAmi (pysan)
+     1d (sanverb) DAvAvaH != DAvAvaH,sarAvaH (pysan)
+     1p (sanverb) DAvAmaH != DAvAmaH,sarAmaH (pysan)
+sf pre 3P: identical
+sfj pre 4A: identical
+sfj pre 6P: identical
+sfp pre 1P: identical
+sek pre 1A: identical
+skand pre 1P: identical
+skamB pre 1A: identical
+skamB pre 9P: identical
+sku pre 9A: identical
+sku pre 9P: identical
+skund pre 1A: identical
+skumB pre 9P: identical
+sKad pre 1A: identical
+sKal pre 1P: identical
+stan pre 10A: identical
+stan pre 10P: identical
+stamB pre 9P: identical
+stumB pre 9P: identical
+stf pre 5A: identical
+stf pre 5P: identical
+stfh pre 6P: identical
+stF pre 9A: identical
+stF pre 9P: identical
+sten pre 10A: identical
+sten pre 10P: identical
+stom pre 10A: identical
+stom pre 10P: identical
+styE pre 1P: identical
+sTuq pre 6P: identical
+sTUl pre 10A: identical
+spand pre 1A: identical
+sparD pre 1A: identical
+spaS pre 1A: identical
+spaS pre 1P: identical
+spaS pre 10A: identical
+spf pre 5P: identical
+spfS pre 6P: identical
+spfh pre 10A: identical
+spfh pre 10P: identical
+sPar pre 6P: identical
+sPal pre 6P: identical
+sPAy pre 1A: identical
+sPiw pre 10A: identical
+sPiw pre 10P: identical
+sPiw pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sPiwwayate != sPewayate (pysan)
+     3d (sanverb) sPiwwayete != sPewayete (pysan)
+     3p (sanverb) sPiwwayante != sPewayante (pysan)
+     2s (sanverb) sPiwwayase != sPewayase (pysan)
+     2d (sanverb) sPiwwayeTe != sPewayeTe (pysan)
+     2p (sanverb) sPiwwayaDve != sPewayaDve (pysan)
+     1s (sanverb) sPiwwaye != sPewaye (pysan)
+     1d (sanverb) sPiwwayAvahe != sPewayAvahe (pysan)
+     1p (sanverb) sPiwwayAmahe != sPewayAmahe (pysan)
+sPiw pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sPiwwayati != sPewayati (pysan)
+     3d (sanverb) sPiwwayataH != sPewayataH (pysan)
+     3p (sanverb) sPiwwayanti != sPewayanti (pysan)
+     2s (sanverb) sPiwwayasi != sPewayasi (pysan)
+     2d (sanverb) sPiwwayaTaH != sPewayaTaH (pysan)
+     2p (sanverb) sPiwwayaTa != sPewayaTa (pysan)
+     1s (sanverb) sPiwwayAmi != sPewayAmi (pysan)
+     1d (sanverb) sPiwwayAvaH != sPewayAvaH (pysan)
+     1p (sanverb) sPiwwayAmaH != sPewayAmaH (pysan)
+sPuw pre 1A: identical
+sPuw pre 6P: identical
+sPuRw pre 1P: identical
+sPuw pre 1P: identical
+sPuq pre 6P: identical
+sPuRq pre 1A: identical
+sPuRq pre 10A: identical
+sPuRq pre 10P: identical
+sPur pre 6P: identical
+sPurC pre 1P: identical
+sPul pre 6P: identical
+smiw pre 10A: identical
+smiw pre 10P: identical
+smIl pre 1P: identical
+smf pre 1P: identical
+smf pre 1P: identical
+smf pre 5P: identical
+Syand pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) syandate != Syandate (pysan)
+     3d (sanverb) syandete != Syandete (pysan)
+     3p (sanverb) syandante != Syandante (pysan)
+     2s (sanverb) syandase != Syandase (pysan)
+     2d (sanverb) syandeTe != SyandeTe (pysan)
+     2p (sanverb) syandaDve != SyandaDve (pysan)
+     1s (sanverb) syande != Syande (pysan)
+     1d (sanverb) syandAvahe != SyandAvahe (pysan)
+     1p (sanverb) syandAmahe != SyandAmahe (pysan)
+syam pre 10A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) syamayate != syAmayate (pysan)
+     3d (sanverb) syamayete != syAmayete (pysan)
+     3p (sanverb) syamayante != syAmayante (pysan)
+     2s (sanverb) syamayase != syAmayase (pysan)
+     2d (sanverb) syamayeTe != syAmayeTe (pysan)
+     2p (sanverb) syamayaDve != syAmayaDve (pysan)
+     1s (sanverb) syamaye != syAmaye (pysan)
+     1d (sanverb) syamayAvahe != syAmayAvahe (pysan)
+     1p (sanverb) syamayAmahe != syAmayAmahe (pysan)
+syam pre 10P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) syamayati != syAmayati (pysan)
+     3d (sanverb) syamayataH != syAmayataH (pysan)
+     3p (sanverb) syamayanti != syAmayanti (pysan)
+     2s (sanverb) syamayasi != syAmayasi (pysan)
+     2d (sanverb) syamayaTaH != syAmayaTaH (pysan)
+     2p (sanverb) syamayaTa != syAmayaTa (pysan)
+     1s (sanverb) syamayAmi != syAmayAmi (pysan)
+     1d (sanverb) syamayAvaH != syAmayAvaH (pysan)
+     1p (sanverb) syamayAmaH != syAmayAmaH (pysan)
+syam pre 1P: identical
+SraMS pre 1A: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) sraMsate != SraMSate (pysan)
+     3d (sanverb) sraMsete != SraMSete (pysan)
+     3p (sanverb) sraMsante != SraMSante (pysan)
+     2s (sanverb) sraMsase != SraMSase (pysan)
+     2d (sanverb) sraMseTe != SraMSeTe (pysan)
+     2p (sanverb) sraMsaDve != SraMSaDve (pysan)
+     1s (sanverb) sraMse != SraMSe (pysan)
+     1d (sanverb) sraMsAvahe != SraMSAvahe (pysan)
+     1p (sanverb) sraMsAmahe != SraMSAmahe (pysan)
+sraNk pre 1A: identical
+sramB pre 1A: identical
+sramB pre 1A: identical
+sriv pre 4P: identical
+sru pre 1P: identical
+srek pre 1A: identical
+srE pre 1P: identical
+srok pre 1A: identical
+svan pre 1P: identical
+svan pre 1P: identical
+svar pre 10A: identical
+svar pre 10P: identical
+svart pre 10A: identical
+svart pre 10P: identical
+svard pre 1A: identical
+svAd pre 1A: identical
+svAd pre 10A: identical
+svAd pre 10P: identical
+svf pre 1P: identical
+haw pre 1P: identical
+haW pre 1P: identical
+had pre 1A: identical
+han pre 2P: identical
+hamm pre 1P: identical
+hay pre 1P: identical
+hay pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) haryati != hayati (pysan)
+     3d (sanverb) haryataH != hayataH (pysan)
+     3p (sanverb) haryanti != hayanti (pysan)
+     2s (sanverb) haryasi != hayasi (pysan)
+     2d (sanverb) haryaTaH != hayaTaH (pysan)
+     2p (sanverb) haryaTa != hayaTa (pysan)
+     1s (sanverb) haryAmi != hayAmi (pysan)
+     1d (sanverb) haryAvaH != hayAvaH (pysan)
+     1p (sanverb) haryAmaH != hayAmaH (pysan)
+hal pre 1P: identical
+has pre 1P: identical
+hast pre 10A: identical
+hast pre 10P: identical
+hikk pre 1A: identical
+hikk pre 1P: identical
+hiw pre 1P: identical
+hiRq pre 1A: identical
+hil pre 6P: identical
+hinv pre 1P: identical
+hizk pre 10A: identical
+hizk pre 10P: identical
+hiMs pre 7P: conjugation differences @ 3d,3p,2d,2p,1d,1p 
+     3d (sanverb) hiMstaH != hinstaH (pysan)
+     3p (sanverb) hiMsanti != hinsanti (pysan)
+     2d (sanverb) hiMsTaH != hinsTaH (pysan)
+     2p (sanverb) hiMsTa != hinsTa (pysan)
+     1d (sanverb) hiMsvaH != hinsvaH (pysan)
+     1p (sanverb) hiMsmaH != hinsmaH (pysan)
+hu pre 3P: identical
+huq pre 6P: identical
+huRq pre 1A: identical
+huRq pre 1A: identical
+huq pre 1P: identical
+hurC pre 1P: identical
+hul pre 1P: identical
+hul pre 1P: identical
+hUq pre 1P: identical
+hf pre 3P: identical
+hf pre 1A: identical
+hf pre 1P: identical
+hfz pre 4P: identical
+hfz pre 1P: identical
+heW pre 1A: identical
+heW pre 1P: identical
+heW pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) heWRAti != heWnAti (pysan)
+     3d (sanverb) heWRItaH != heWnItaH (pysan)
+     3p (sanverb) heWRanti != heWnanti (pysan)
+     2s (sanverb) heWRAsi != heWnAsi (pysan)
+     2d (sanverb) heWRITaH != heWnITaH (pysan)
+     2p (sanverb) heWRITa != heWnITa (pysan)
+     1s (sanverb) heWRAmi != heWnAmi (pysan)
+     1d (sanverb) heWRIvaH != heWnIvaH (pysan)
+     1p (sanverb) heWRImaH != heWnImaH (pysan)
+heq pre 1P: identical
+heq pre 1A: identical
+heQ pre 9P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) heQRAti != heQnAti (pysan)
+     3d (sanverb) heQRItaH != heQnItaH (pysan)
+     3p (sanverb) heQRanti != heQnanti (pysan)
+     2s (sanverb) heQRAsi != heQnAsi (pysan)
+     2d (sanverb) heQRITaH != heQnITaH (pysan)
+     2p (sanverb) heQRITa != heQnITa (pysan)
+     1s (sanverb) heQRAmi != heQnAmi (pysan)
+     1d (sanverb) heQRIvaH != heQnIvaH (pysan)
+     1p (sanverb) heQRImaH != heQnImaH (pysan)
+hep pre 1A: identical
+hez pre 1A: identical
+hoq pre 1A: identical
+hoq pre 1P: identical
+hnu pre 2A: identical
+hmal pre 1P: identical
+hrag pre 1P: identical
+hrap pre 10A: identical
+hrap pre 10P: identical
+hras pre 1P: identical
+hrAd pre 1A: identical
+hrI pre 3P: conjugation differences @ 3p 
+     3p (sanverb) jihriyati != jihryati (pysan)
+hrIC pre 1P: conjugation differences @ 3s,3d,3p,2s,2d,2p,1s,1d,1p 
+     3s (sanverb) hrIcCati != hrICati (pysan)
+     3d (sanverb) hrIcCataH != hrICataH (pysan)
+     3p (sanverb) hrIcCanti != hrICanti (pysan)
+     2s (sanverb) hrIcCasi != hrICasi (pysan)
+     2d (sanverb) hrIcCaTaH != hrICaTaH (pysan)
+     2p (sanverb) hrIcCaTa != hrICaTa (pysan)
+     1s (sanverb) hrIcCAmi != hrICAmi (pysan)
+     1d (sanverb) hrIcCAvaH != hrICAvaH (pysan)
+     1p (sanverb) hrIcCAmaH != hrICAmaH (pysan)
+hrez pre 1A: identical
+hlag pre 1P: identical
+hlap pre 10A: identical
+hlap pre 10P: identical
+hlas pre 1P: identical
+hlAd pre 1A: identical
+hval pre 1P: identical
+hvf pre 1P: identical
+hvf pre 1P: identical
+hve pre 1A: identical
+hve pre 1P: identical
