@@ -1,10 +1,10 @@
 echo "recreate sanverb_cp.txt and conjtab_cp.txt"
-python sanverb_cp.py ../dhaval/function ../dhaval/conjtab/conj_pre.txt conjtab_cp.txt sanverb_cp.txt > sanverb_cp_log.txt
+python sanverb_cp.py ../function ../conjtab/conj_pre.txt conjtab_cp.txt sanverb_cp.txt > sanverb_cp_log.txt
 echo "compare sanverb_cp and conjtab_cp"
 python compare_cp.py sanverb conjtab sanverb_conjtab
 echo "sanverb_conjtab_cp.txt has comparisons"
 echo "recreate mwvlex_cp.txt from MWvlex repository file"
-python mwvlex_cp.py ../../../MWvlex/step1/verb_cp.txt mwvlex_cp.txt
+python mwvlex_cp.py ../../../../MWvlex/step1/verb_cp.txt mwvlex_cp.txt
 echo "compare root-class-pada from SanskritVerb and MWvlex"
 python compare_cp.py sanverb mwvlex sanverb_mwvlex
 echo "examine sanverb_mwvlex_cp.txt"

@@ -1,5 +1,5 @@
-2210 records from ../dhaval/function/verbdata.txt
-2590 records from ../dhaval/conjtab/conj_pre.txt
+2210 records from ../function/verbdata.txt
+2590 records from ../conjtab/conj_pre.txt
 make_verbrecd: 0 duplicates found
 generate_cp: key not found IKi!.01.0150.P
 generate_cp: key not found kUwa.10.0225.A
