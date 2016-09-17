@@ -8,6 +8,7 @@ ejfnotes.txt
 MW-*-scratch.txt
 MW-*-log.txt
 temp*.txt
+temp*.py
 pysanskrit/prodchk/outputs/*.txt
 pysanskrit/old/*
 pysanskrit/test2_aorvar.py

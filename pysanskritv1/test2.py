@@ -442,14 +442,21 @@ class Class10(object):
   "suK", # make-happy
   ]
  twoforms = [
-  # these have two forms, one with the root vowel unchanged,
-  # and one with the root vowel lengthened
-  "SaW", # 'shaThay' speak ill - 'shaaThay' leave unfinished - ashiishaThata
-  "paw", # 'paTay' weave - 'paaTay' tear - apapaTas apapaTata
-  "kal", # 'kalay' count - 'kaalay' throw - achakalat achakalata
-  "laj", # 'lajay' shine - 'laajay' conceal - alalajat aliilajat
-  "vas", # 'vasay' dwell - 'vaasay' love , cut - aviivasat 
-  "puw", # 'puTay' bind - 'poTay' speak , shine - apupuTat apuupuTat
+  # in class 10these have two forms, one with the root vowel unchanged,
+  # and one with the root vowel lengthened (per Kale Dhatukosha)
+  "SaW", # (samyagavaBAzaRe, to speak ill or well, to deceive) SaWayati
+         # (asaMskAragatyoH, to leave unfinished, to go) SAWayati
+         # (SlAGAyAM, to flatter) SAWayate
+  "paw", # (granTe, to clothe,to envelop) pawayati
+         # (BAzAYaM vezwaRe ca, to speak, to cover) pAwayati
+  "kal", # (gatO saMKyAne ca, to go, to count) kalayati
+         # (kzepe, to throw) kAlayati
+  "laj", # (prakASane, to appear) lajayati
+         # (apavAraRe, to conceal) lAjayati
+  "vas", # (snehacCedApaharaRezu, to love, to cut, to take away) (vAsayati
+         # (nivAse, to dwell) vasayati
+  "puw", # (saMsarge, to bind together) (puwayati)
+         # (BAzAyAM dIptO ca, to speak, to shine, to reduce to powder) powayati
   ]
 
 
