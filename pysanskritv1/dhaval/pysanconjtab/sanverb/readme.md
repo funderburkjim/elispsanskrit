@@ -22,7 +22,7 @@ aNk pre 1A:[aNkate aNkete aNkante aNkase aNkeTe aNkaDve aNke aNkAvahe aNkAmahe]
 
 ```
 
-The mapping of 'root-with-anubandha' of conj_pre to 'root-without-anubandha' of conj_pre_map1' is done according to [verbdata_map1](https://github.com/funderburkjim/elispsanskrit/blob/master/pysanskritv1/dhaval/roots/verbdata_map1.txt).
+The mapping of 'root-with-anubandha' of conj_pre to 'root-without-anubandha' of conj_pre_map1' is done according to [verbdata_map1](https://github.com/funderburkjim/elispsanskrit/blob/master/pysanskritv1/dhaval/pysanroots/verbdata_map1.txt).
 The two relevant lines for our examples are:
 ```
 aMsa:10:0460:aMs
