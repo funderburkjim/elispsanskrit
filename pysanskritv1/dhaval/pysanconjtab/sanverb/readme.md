@@ -3,7 +3,7 @@
 ## SanskritVerb conjugations, after mapping
 
 ```
-python conjmap.py ../conj_pre.txt ../../roots/verbdata_map1.txt conj_pre_map1.txt > conj_pre_map1_log.txt
+python conjmap.py ../../conjtab/conj_pre.txt ../../pysanroots/verbdata_map1.txt conj_pre_map1.txt > conj_pre_map1_log.txt
 ```
 
 The output conj_pre_map1.txt  differs from the input conj_pre.txt only in the

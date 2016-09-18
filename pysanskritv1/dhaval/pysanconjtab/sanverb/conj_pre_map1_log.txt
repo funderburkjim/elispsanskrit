@@ -1,5 +1,5 @@
-2590 records read from ../conj_pre.txt
-2207 records read from ../../roots/verbdata_map1.txt
+2590 records read from ../../conjtab/conj_pre.txt
+2207 records read from ../../pysanroots/verbdata_map1.txt
 convert WARNING: Cannot map: IKi! pre 01.0150P:[INKati INKataH INKanti INKasi INKaTaH INKaTa INKAmi INKAvaH INKAmaH]
 convert WARNING: Cannot map: kUwa pre 10.0225A:[kUwayate kUwayete kUwayante kUwayase kUwayeTe kUwayaDve kUwaye kUwayAvahe kUwayAmahe]
 convert WARNING: Cannot map: kUwa pre 10.0225P:[kUwayati kUwayataH kUwayanti kUwayasi kUwayaTaH kUwayaTa kUwayAmi kUwayAvaH kUwayAmaH]
