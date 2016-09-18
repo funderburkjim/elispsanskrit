@@ -1,4 +1,25 @@
 sanverb_cp.txt has 1683 stems
 roots_a1_prep.txt has 20 stems
 1703  merged stems
-both in sanverb: aNka:10A,10P and aNk:01A
+1 Una Un None <__main__.PseudoStem object at 0x02860DB0>
+2 kAla kAl None <__main__.PseudoStem object at 0x02860DD0>
+3 keta ket None <__main__.PseudoStem object at 0x02860E30>
+4 guRa guR None <__main__.PseudoStem object at 0x02860EB0>
+5 gfha gfh None <__main__.PseudoStem object at 0x02860F10>
+6 goma gom None <__main__.PseudoStem object at 0x02860F90>
+7 grAma grAm None <__main__.PseudoStem object at 0x02860FF0>
+8 citra citr None <__main__.PseudoStem object at 0x02860F70>
+9 Cidra Cidr None <__main__.PseudoStem object at 0x028640B0>
+10 Ceda Ced None <__main__.PseudoStem object at 0x02864410>
+11 tIra tIr None <__main__.PseudoStem object at 0x02860E10>
+12 tutTa tutT None <__main__.PseudoStem object at 0x02860DF0>
+13 daRqa daRq None <__main__.PseudoStem object at 0x02864150>
+14 duHKa duHK None <__main__.PseudoStem object at 0x02864350>
+15 pAra pAr None <__main__.PseudoStem object at 0x02864050>
+16 BAja BAj None <__main__.PseudoStem object at 0x028641B0>
+17 mUtra mUtr None <__main__.PseudoStem object at 0x028641D0>
+18 vara var None <__main__.PseudoStem object at 0x028644D0>
+19 sAma sAm None <__main__.PseudoStem object at 0x02864230>
+20 sAra sAr None <__main__.PseudoStem object at 0x02864290>
+20 cases written to roots_a1.txt
+0 cases where sanverb_cp.txt has root both with 'a' and without 'a'
