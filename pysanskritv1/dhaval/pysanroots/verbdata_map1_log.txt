@@ -1,6 +1,6 @@
 2207 records read from verbdata_map.txt
-63 records read from ../pysanroots/roots_a.txt
-20 records read from ../pysanroots/roots_a1.txt
+63 records read from roots_a.txt
+20 records read from roots_a1.txt
 aMsa:10:0460:aMs  CHG
 aNka:10:0473:aNk  CHG
 aNga:10:0474:aNg  CHG
