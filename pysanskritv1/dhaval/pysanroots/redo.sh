@@ -19,3 +19,7 @@ echo "   Also, adjust missing mwvlex info using sanverb"
 python mwvlex1_cp.py mwvlex_cp.txt sanverb1_cp.txt mwvlex1_cp.txt > mwvlex1_cp_log.txt
 echo " compare sanverb1 and mwvlex1 cp info. output = sanverb1_mwvlex1_cp.txt"
 python compare_cp.py sanverb1 mwvlex1 sanverb1_mwvlex1
+echo "make verbdata_map"
+python verbdata_map.py verbdata_map.txt > verbdata_map_log.txt
+echo "make verbdata_map1"
+python verbdata_map1.py verbdata_map.txt roots_a.txt roots_a1.txt verbdata_map1.txt > verbdata_map1_log.txt

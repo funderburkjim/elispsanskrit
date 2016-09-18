@@ -130,7 +130,7 @@ urvI!:01:0650:urv
 uza!:01:0792:uz
 uhi!r:01:0840:uh
 UWa!:01:0391:UW
-Una:10:0430:Una
+Una:10:0430:Un
 UyI!:01:0556:Uy
 Urja!:10:0023:Urj
 UrRuY:02:0034:UrRu
@@ -219,7 +219,7 @@ kasa!:02:0015:kas
 kasi!:02:0014:kaMs
 kAkzi!:01:0760:kANkz
 kAci!:01:0194:kAYc
-kAla:10:0422:kAla
+kAla:10:0422:kAl
 kASf!:01:0734:kAS
 kASf!:04:0058:kAS
 kAsf!:01:0710:kAs
@@ -303,7 +303,7 @@ kF:06:0145:kF
 kF:09:0031:kF
 kFY:09:0018:kF
 kFta!:10:0155:kFt
-keta:10:0437:keta
+keta:10:0437:ket
 kepf!:01:0426:kep
 kelf!:01:0616:kel
 kevf!:01:0583:kev
@@ -452,7 +452,7 @@ guji!:01:0231:guYj
 guWi!:10:0071:guRW
 guqa!:06:0097:guq
 guqi!:10:0069:guRq
-guRa:10:0436:guRa
+guRa:10:0436:guR
 guda!:01:0024:gud
 guDa!:04:0014:guD
 guDa!:09:0053:guD
@@ -473,7 +473,7 @@ gf:01:1087:gf
 gfja!:01:0281:gfj
 gfji!:01:0282:gfYj
 gfDu!:04:0161:gfD
-gfha:10:0441:gfha
+gfha:10:0441:gfh
 gfhU!:01:0737:gUh
 gF:09:0033:gF
 gF:09:0231:gF
@@ -482,7 +482,7 @@ gepf!:01:0427:gep
 gevf!:01:0575:gev
 gezf!:01:0698:gez
 gE:01:1065:gE
-goma:10:0417:goma
+goma:10:0417:gom
 gozwa!:01:0290:gozw
 graTi!:01:0036:granT
 granTa!:09:0375:granT
@@ -491,7 +491,7 @@ granTa!:10:0375:granT
 grasa!:10:0279:gras
 grasu!:01:0717:gras
 graha!:09:0071:grah
-grAma:10:0434:grAma
+grAma:10:0434:grAm
 grucu!:01:0224:gruc
 glasu!:01:0718:glas
 glaha!:01:0738:glah
@@ -578,7 +578,7 @@ ciwa!:01:0353:ciw
 cita!:10:0192:cit
 citi!:10:0002:cint
 citI!:01:0039:cit
-citra:10:0459:citra
+citra:10:0459:citr
 ciri:05:0034:ciri
 cila!:06:0082:cil
 cilla!:01:0611:cill
@@ -623,14 +623,14 @@ Camu!:01:0541:Cam
 Carda:10:0078:Card
 Caza!:01:1035:Caz
 Cidi!r:07:0003:Cid
-Cidra:10:0469:Cidra
+Cidra:10:0469:Cidr
 Cuwa!:06:0105:Cuw
 Cuqa!:06:0120:Cuq
 Cupa!:06:0154:Cup
 Cura!:06:0099:Cur
 CfdI!:07:0008:Cfd
 Cfpa!:10:0354:Cfp
-Ceda:10:0480:Ceda
+Ceda:10:0480:Ced
 Co:04:0041:Co
 jakza!:02:0066:jakz
 jaja!:01:0275:jaj
@@ -823,7 +823,7 @@ tila!:06:0081:til
 tilla!:01:0613:till
 tIkf!:01:0111:tIk
 tIma!:04:0018:tIm
-tIra:10:0454:tIra
+tIra:10:0454:tIr
 tIva!:01:0646:tIv
 tu:02:0029:tu
 tuja!:01:0277:tuj
@@ -837,7 +837,7 @@ tuqi!:01:0309:tuRq
 tuqi!:10:0166:tuRq
 tuqf!:01:0406:tuq
 tuRa!:06:0058:tuR
-tutTa:10:0489:tutTa
+tutTa:10:0489:tutT
 tuda!:06:0001:tud
 tupa!:01:0470:tup
 tupa!:06:0032:tup
@@ -913,7 +913,7 @@ dakza!:01:0692:dakz
 dakza!:01:0874:dakz
 daGa!:05:0030:daG
 daGi!:01:0181:daNG
-daRqa:10:0472:daRqa
+daRqa:10:0472:daRq
 dada!:01:0017:dad
 daDa!:01:0008:daD
 damu!:04:0100:dam
@@ -946,7 +946,7 @@ dIN:04:0029:dI
 dIDIN:02:0071:dIDI
 dIpI!:04:0045:dIp
 du:01:1094:du
-duHKa:10:0011:duHKa
+duHKa:10:0011:duHK
 durvI!:01:0653:durv
 dula!:10:0089:dul
 duza!:04:0082:duz
@@ -1096,7 +1096,7 @@ paza:10:0401:paz
 pasi!:10:0107:paMs
 pA:01:1074:pA
 pA:02:0051:pA
-pAra:10:0453:pAra
+pAra:10:0453:pAr
 pAla!:10:0098:pAl
 pi:06:0293:pi
 piCa!:10:0061:piC
@@ -1278,7 +1278,7 @@ Baza!:01:0791:Baz
 Basa!:03:0019:Bas
 Basu!:04:0113:Bas
 BA:02:0046:BA
-BAja:10:0428:BAja
+BAja:10:0428:BAj
 BAma!:01:0509:BAm
 BAma:10:0411:BAm
 BAza!:01:0696:BAz
@@ -1415,7 +1415,7 @@ musta!:10:0126:must
 muha!:04:0095:muh
 mUN:01:1122:mU
 mUY:09:0015:mU
-mUtra:10:0451:mUtra
+mUtra:10:0451:mUtr
 mUla!:01:0607:mUl
 mUla!:10:0092:mUl
 mUza!:01:0770:mUz
@@ -1704,7 +1704,7 @@ vanu!:01:0915:van
 vanu!:08:0008:van
 vaBra!:01:0638:vaBr
 vaya!:01:0547:vay
-vara:10:0390:vara
+vara:10:0390:var
 varca!:01:0186:varc
 varRa:10:0025:varR
 varRa:10:0484:varR
@@ -2063,9 +2063,9 @@ satra:10:0448:satr
 saBAja:10:0429:samAja
 samI!:04:0132:sam
 sADa!:05:0019:sAD
-sAma:10:0420:sAma
+sAma:10:0420:sAm
 sAmba!:10:0032:sAmb
-sAra:10:0407:sAra
+sAra:10:0407:sAr
 sIkf!:01:0079:sIk
 suKa:10:0475:suK
 sUca:10:0412:sUc

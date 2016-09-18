@@ -1,5 +1,6 @@
 """verbdata_map1.py
    Sep 10, 2016
+   Sep 18, 2016. Also use roots_a1, as well as roots_a
 """
 import sys
 #from sansort import slp_cmp
@@ -135,9 +136,12 @@ def update_recs(recs,rootsa):
 if __name__ == "__main__":
  filein = sys.argv[1] # verbdata_map
  filein1 = sys.argv[2] # roots_a
- fileout = sys.argv[3]
+ filein2 = sys.argv[3] # roots_a1
+ fileout = sys.argv[4]
  recs = init_verbdata_map(filein)
- rootsa = init_roots_a(filein1)
+ rootsa0 = init_roots_a(filein1)
+ rootsa1 = init_roots_a(filein2)
+ rootsa = rootsa0 + rootsa1
  update_recs(recs,rootsa)
  nchg = 0
  n = 0
@@ -152,5 +156,5 @@ if __name__ == "__main__":
     print out + "  CHG" # to stdout, for log of changes
    f.write(out + "\n")
  print len(recs),"records written to",fileout
- print nchg,"records changed the correspondind 'normalized' root"
+ print nchg,"records changed the corresponding 'normalized' root"
 
