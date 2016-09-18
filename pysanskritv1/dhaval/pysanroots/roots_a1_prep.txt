@@ -1,0 +1,26 @@
+; Cases were MW Denominative has same meaning as Sanverb root (14)
+01:Una:parihARe:10:0430:u:sew:Unaya:Y
+02:kAla:kAlopadeSe ca iti pfTagDAturityeke:10:0422:u:sew:kAlaya:Y
+03:keta:SrAvaRe nimantraRe ca:10:0437:u:sew:ketaya:Y
+04:guRa:cAmantraRe:10:0436:u:sew:guRaya:Y
+05:gfha:grahaRe:10:0441:A:sew:gfhaya:Y
+06:goma:upalepane:10:0417:u:sew:gomaya:Y
+07:grAma:AmantraRe:10:0434:u:sew:grAmaya:Y
+08:citra:citrIkaraRe kadAciddarSane:10:0459:u:sew:citraya:Y
+11:tIra:karmasamAptO:10:0454:u:sew:tIraya:Y
+12:tutTa:AvaraRe:10:0489:u:sew:tutTaya:Y
+13:daRqa:daRqanipAte:10:0472:u:sew:daRqaya:Y
+17:mUtra:prasravaRe:10:0451:u:sew:mUtraya:Y
+19:sAma:sAntvaprayoge:10:0420:u:sew:sAmaya:Y
+20:sAra:dOrbalye:10:0407:u:sew:sAraya:Y
+; Cases where MW Denominative exists, but meaning may differ from Sanverb (3)
+09:Cidra:karRaBedane karaRaBedana ityeke:10:0469:u:sew:Cidraya:Q
+14:duHKa:tatkriyAyAm:10:0011:u:sew:duHKaya:Q
+15:pAra:karmasamAptO:10:0453:u:sew:pAraya:Q
+; Cases where no MW Denominative exists as headword. E.g., there is
+; no Cedaya headword.  (3) 
+; It is also true that there is no headword in MW without the 'a'; for
+; instance there is no 'Ced' as an MW headword, and also no 'BAj' or 'var'
+10:Ceda:dvEDIkaraRe:10:0480:u:sew:Cedaya:NF
+16:BAja:pfTakkarmaRi:10:0428:u:sew:BAjaya:NF,caus. of Baj
+18:vara:IpsAyAm:10:0390:u:sew:varaya:NF,caus. of vf

@@ -121,9 +121,26 @@ is sanverb1_cp.txt.  The 'a' roots in roots_a have their spelling changed
 to 'without-a'; also, if needed, the already existing 'without-a' record
 is merged with the 'a' record.
 
+Revision (2016-09-17):
+ roots_a1_prep.txt
+ This contains 20 roots which, in sanverb, end in 'a'.
+ 14 of them correspond to Denominatives in MW, with same meaning
+  3 of them correspond to Denominatives in MW, with different meaning
+  3 of them have no corresponding Denominative in MW.
+
+In the revision to construction of sanverb1_cp, ALL of these 20 are
+roots in Sanverb are made to correspond to a root spelling without the 'a'.
+To accomplish this, we first create roots_a1.txt from roots_a1_prep.txt, so 
+that roots_a1.txt has the same form as roots_a.txt.
 
 ```
-python sanverb1_cp.py sanverb_cp.txt roots_a.txt sanverb1_cp.txt
+python roots_a1.py sanverb_cp.txt roots_a1_prep.txt roots_a1.txt > roots_a1_log.txt
+```
+
+Then we modify sanverb_cp.txt using both roots_a and roots_a1.
+```
+
+python sanverb1_cp.py sanverb_cp.txt roots_a.txt roots_a1.txt sanverb1_cp.txt
 
 ```
 One statistic, there are 1684 records in sanverb_cp, and 1654 records in

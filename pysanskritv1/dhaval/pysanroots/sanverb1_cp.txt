@@ -93,7 +93,7 @@ urv:01P
 uz:01P
 uh:01P
 UW:01P
-Una:10A,10P
+Un:10A,10P
 Uy:01A
 Urj:10A,10P
 UrRu:02A,02P
@@ -154,7 +154,7 @@ kaz:01P
 kas:01P,02A
 kANkz:01P
 kAYc:01A
-kAla:10A,10P
+kAl:10A,10P
 kAS:01A,04A
 kAs:01A
 ki:03P
@@ -210,7 +210,7 @@ kfz:01P,06A,06P
 kF:06P,09A,09P
 kFt:10A,10P
 kxp:01A
-keta:10A,10P
+ket:10A,10P
 kep:01A
 kel:01P
 kev:01A
@@ -332,7 +332,7 @@ gu:01A,06P
 guj:01P,06P
 guYj:01P
 guq:06P
-guRa:10A,10P
+guR:10A,10P
 guRW:10A,10P
 guRq:10A,10P
 gud:01A
@@ -350,18 +350,18 @@ gf:01P
 gfj:01P
 gfYj:01P
 gfD:04P
-gfha:10A
+gfh:10A
 gF:09P,10A
 gep:01A
 gev:01A
 gez:01A
 gE:01P
-goma:10A,10P
+gom:10A,10P
 gozw:01A
 granT:01A,09P,10A,10P
 gras:01A,10A,10P
 grah:09A,09P
-grAma:10A,10P
+grAm:10A,10P
 gruc:01P
 glas:01A
 glah:01A
@@ -422,7 +422,7 @@ cAy:01A,01P
 ci:05A,05P,10A,10P
 ciw:01P
 cit:01P,10A
-citra:10A,10P
+citr:10A,10P
 cint:10A,10P
 ciri:05P
 cil:06P
@@ -461,14 +461,14 @@ Cam:01P
 Card:10A,10P
 Caz:01A,01P
 Cid:07A,07P
-Cidra:10A,10P
+Cidr:10A,10P
 Cuw:06P
 Cuq:06P
 Cup:06P
 Cur:06P
 Cfd:07A,07P
 Cfp:10A,10P
-Ceda:10A,10P
+Ced:10A,10P
 Co:04P
 jaMs:10A,10P
 jakz:02P
@@ -560,7 +560,7 @@ til:01P,06A,06P
 till:01P
 tIk:01A
 tIm:04P
-tIra:10A,10P
+tIr:10A,10P
 tIv:01P
 tu:02P
 tuj:01P,10A,10P
@@ -569,7 +569,7 @@ tuw:06P
 tuq:01P,06P
 tuR:06P
 tuRq:01A,10A,10P
-tutTa:10A,10P
+tutT:10A,10P
 tud:06A,06P
 tup:01P,06P
 tuP:01P,06P
@@ -634,7 +634,7 @@ daMs:10A,10P
 dakz:01A
 daG:05P
 daNG:01P
-daRqa:10A,10P
+daRq:10A,10P
 dad:01A
 daD:01A
 dam:04P
@@ -658,7 +658,7 @@ dIkz:01A
 dIDI:02A
 dIp:04A
 du:01P,05P
-duHKa:10A,10P
+duHK:10A,10P
 durv:01P
 dul:10A,10P
 duz:04P
@@ -811,7 +811,7 @@ pall:01P
 paS:10A,10P
 paz:10A,10P
 pA:01P,02P
-pAra:10A,10P
+pAr:10A,10P
 pAl:10A,10P
 pi:06P
 piMs:06A,06P
@@ -945,7 +945,7 @@ Ball:01A
 Baz:01P
 Bas:03P,04P
 BA:02P
-BAja:10A,10P
+BAj:10A,10P
 BAm:01A,10A,10P
 BAz:01A
 BAs:01A
@@ -1054,7 +1054,7 @@ mus:04P
 must:10A,10P
 muh:04P
 mU:01A,09A,09P
-mUtra:10A,10P
+mUtr:10A,10P
 mUl:01P,10A,10P
 mUz:01P
 mf:06A
@@ -1260,7 +1260,7 @@ vap:01A,01P
 vaBr:01P
 vam:01P
 vay:01A
-vara:10A,10P
+var:10A,10P
 varc:01A
 varR:10A,10P
 varD:10A,10P
@@ -1483,9 +1483,9 @@ sas:02P
 sah:01A,04A,04P
 sAD:05P
 sAntv:10A,10P
-sAma:10A,10P
+sAm:10A,10P
 sAmb:10A,10P
-sAra:10A,10P
+sAr:10A,10P
 si:05A,05P,09A,09P
 sic:06A,06P
 siw:01P

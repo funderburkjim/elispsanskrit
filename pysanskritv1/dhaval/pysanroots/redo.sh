@@ -10,8 +10,10 @@ python compare_cp.py sanverb mwvlex sanverb_mwvlex
 echo "examine sanverb_mwvlex_cp.txt"
 echo "roots ending in 'a' in sanverb"
 python roots_a.py sanverb_cp.txt mwvlex_cp.txt roots_a.txt > roots_a_log.txt
+echo "Additional pseudo-mw roots for sanverb roots ending in 'a'"
+python roots_a1.py sanverb_cp.txt roots_a1_prep.txt roots_a1.txt > roots_a1_log.txt
 echo "sanverb1_cp: adjust sanverb_cp for some roots ending in 'a'"
-python sanverb1_cp.py sanverb_cp.txt roots_a.txt sanverb1_cp.txt
+python sanverb1_cp.py sanverb_cp.txt roots_a.txt roots_a1.txt sanverb1_cp.txt
 echo "mwvlex1 - adjust mwvlex class10 pada information using sanverb"
 echo "   Also, adjust missing mwvlex info using sanverb"
 python mwvlex1_cp.py mwvlex_cp.txt sanverb1_cp.txt mwvlex1_cp.txt > mwvlex1_cp_log.txt

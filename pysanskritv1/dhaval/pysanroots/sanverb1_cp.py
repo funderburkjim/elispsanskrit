@@ -1,5 +1,6 @@
 """sanverb1_cp.py
    Sep 2, 2016
+   Sep 17, 2016  also use roots_a1.txt
 """
 import codecs,sys
 from sansort import slp_cmp
@@ -27,6 +28,27 @@ def init_roots_a(filein):
  recs=[]
  with codecs.open(filein,"r","utf-8") as f:
   for line in f:
+   (sanverba_str,sanverb_str,mwverb_str) = line.split('#')
+   sanverba=Verbcp(sanverba_str)
+   mwverb = Verbcp(mwverb_str)
+   if sanverb_str == '':
+    sanverb = None
+   else:
+    sanverb=Verbcp(sanverb_str)
+   rec = Rootsa(sanverba,sanverb,mwverb)
+   recs.append(rec)
+ print len(recs),"records from",filein1
+ return recs
+
+def unused_init_roots_a1(filein):
+ recs=[]
+ with codecs.open(filein,"r","utf-8") as f:
+  for line in f:
+   if line.startswith(';'): # comment
+    continue
+   line = line.rstrip('\r\n')
+   (icase,sanverb,gana,number,pada,sewcode,pseudomw,status) = line.split(':')
+   
    (sanverba_str,sanverb_str,mwverb_str) = line.split('#')
    sanverba=Verbcp(sanverba_str)
    mwverb = Verbcp(mwverb_str)
@@ -124,7 +146,11 @@ def write_cprecs(fileout,recs,arecs):
 if __name__ == "__main__":
  filein1 = sys.argv[1]
  filein2 = sys.argv[2]
- fileout = sys.argv[3]
+ filein3 = sys.argv[3]
+ fileout = sys.argv[4]
  sanverbrecs = init_verbcp(filein1)
- arecs = init_roots_a(filein2)
+ arecs0 = init_roots_a(filein2) # roots_a
+ arecs1 = init_roots_a(filein3) # roots_a1
+ # concatenate
+ arecs = arecs0 + arecs1
  write_cprecs(fileout,sanverbrecs,arecs)

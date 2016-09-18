@@ -1,0 +1,4 @@
+sanverb_cp.txt has 1683 stems
+roots_a1_prep.txt has 20 stems
+1703  merged stems
+both in sanverb: aNka:10A,10P and aNk:01A
