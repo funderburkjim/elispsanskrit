@@ -1,39 +1,23 @@
 2210 records from ../function/verbdata.txt
-2590 records from ../conjtab/conj_pre.txt
+2713 records from ../conjtab/conj_pre.txt
 make_verbrecd: 0 duplicates found
-generate_cp: key not found IKi!.01.0150.P
-generate_cp: key not found kUwa.10.0225.A
-generate_cp: key not found kUwa.10.0225.P
+generate_cp: key not found .06.0222.A
+generate_cp: key not found .06.0222.P
+generate_cp: key not found kzapa!.10.0935.A
+generate_cp: key not found jFz.04.0025.A
 generate_cp: key not found jYA.09.0258.A
 generate_cp: key not found dasa!.10.0110.P
 generate_cp: key not found dasi!.10.0194.P
-generate_cp: key not found DU.06.0133.P
 generate_cp: key not found nATf!.01.0007.P
-generate_cp: key not found pasi!.10.0108.A
-generate_cp: key not found pasi!.10.0108.P
-generate_cp: key not found barha!.10.0175.A
-generate_cp: key not found barha!.10.0175.P
-generate_cp: key not found bfhi!.10.0345.A
-generate_cp: key not found bfhi!.10.0345.P
-generate_cp: key not found mana!.10.0234.A
-generate_cp: key not found mana!.10.0234.P
-generate_cp: key not found yuY.09.0235.A
-generate_cp: key not found yuY.09.0235.P
+generate_cp: key not found ruN.10.0319.P
 generate_cp: key not found vasta!.10.0205.P
-generate_cp: key not found vizka.10.0207.A
-generate_cp: key not found vizka.10.0207.P
-generate_cp: key not found vella!.01.0620.P
-generate_cp: key not found SaWa.10.0041.A
-generate_cp: key not found SaWa.10.0041.P
 generate_cp: key not found SaWa.10.0214.P
 generate_cp: key not found Sadx!.01.0991.A
 generate_cp: key not found Sadx!.06.0164.A
-generate_cp: key not found Sliza!.10.0059.A
 generate_cp: key not found saNgrAma.10.0467.P
-generate_cp: key not found syama!.10.0216.P
 generate_cp: key not found hasta!.10.0206.P
 generate_cp: key not found hizka!.10.0208.P
-generate_cp: 2558 class pada records
-1644 records written to conjtab_cp.txt
+generate_cp: 2697 class pada records
+1661 records written to conjtab_cp.txt
 generate_cp: 2794 class pada records
-1683 records written to sanverb_cp.txt
+1684 records written to sanverb_cp.txt

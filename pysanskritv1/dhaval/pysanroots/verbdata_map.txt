@@ -80,7 +80,6 @@ iN:02:0041:i
 iwa!:01:0357:iw
 iR:02:0040:i
 idi!:01:0065:ind
-ila!:06:0167:il
 ila!:10:0167:il
 ivi!:01:0670:inv
 iza!:04:0022:iz
@@ -244,7 +243,7 @@ kuji!:01:0255:kuYj
 kuju!:01:0226:kuj
 kuYca!:01:0212:kuYc
 kuwa!:06:0093:kuw
-kuwa!:06:0222:kuw
+kuwa!:10:0222:kuw
 kuwi!:01:0363:kuRw
 kuwwa!:10:0034:kuww
 kuwwa!:10:0226:kuww
@@ -955,9 +954,9 @@ duhi!r:01:0839:duh
 dUN:04:0028:dU
 df:05:0037:dF
 dfN:06:0835:df
-dfpa!:04:0036:dfp
 dfpa!:04:0093:dfp
 dfpa!:06:0356:dfp
+dfpa!:10:0356:dfp
 dfPa!:06:0038:dfP
 dfBa!:10:0358:dfB
 dfBI!:06:0048:dfB
@@ -2060,7 +2059,7 @@ zvidA!:04:0085:svid
 saNketa!:10:0433:saNket
 saNgrAma:10:0467:saNgrAma
 satra:10:0448:satra
-saBAja:10:0429:samAja
+saBAja:10:0429:saBAja
 samI!:04:0132:sam
 sADa!:05:0019:sAD
 sAma:10:0420:sAma
@@ -2108,7 +2107,7 @@ sPara!:06:0123:sPar
 sPala!:06:0124:sPal
 sPAyI!:01:0560:sPAy
 sPiwa!:10:0129:sPiw
-sPiwwa!:10:0056:sPiw
+sPiwwa!:10:0056:sPiww
 sPuwa!:01:0293:sPuw
 sPuwa!:06:0100:sPuw
 sPuwa!:06:0247:sPuw

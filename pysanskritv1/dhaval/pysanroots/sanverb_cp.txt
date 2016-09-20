@@ -61,7 +61,7 @@ iw:01P
 ind:01P
 inD:07A
 inv:01P
-il:06P,10A,10P
+il:10A,10P
 iz:04P,06P,09P
 I:04A
 Ikz:01A
@@ -174,7 +174,7 @@ kuc:01P,06P
 kuj:01P
 kuYc:01P
 kuYj:01P
-kuw:06A,06P
+kuw:06P,10A
 kuww:10A,10P
 kuq:06P
 kuR:06P
@@ -675,7 +675,7 @@ duh:01P,02A,02P
 dU:04A
 df:06A
 dfMh:06P
-dfp:04A,04P,06P
+dfp:04P,06P,10A,10P
 dfP:06P
 dfB:06A,06P,10A,10P
 dfmp:06P
@@ -1500,8 +1500,8 @@ sad:01P,06P
 saD:05P
 san:01P,08A,08P
 sap:01P
+saBAja:10A,10P
 sam:01P,04P
-samAja:10A,10P
 samb:10A,10P
 sarkz:01P
 sarj:01P
@@ -1601,6 +1601,7 @@ sPar:06P
 sPal:06P
 sPAy:01A
 sPiw:10A,10P
+sPiww:10A,10P
 sPuw:01A,01P,06A,06P
 sPuq:06P
 sPuRw:01P,10A,10P

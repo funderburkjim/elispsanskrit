@@ -1,6 +1,6 @@
 2210
 0 duplicate normalized root spellings
-2207 records written to verbdata_map.txt
+2206 records written to verbdata_map.txt
 DUPLICATES:
 ahi!:01:0722:aMh
 ahi!:10:0328:aMh
@@ -39,8 +39,6 @@ Apx!:10:0376:Ap
 ik:02:0042:i
 iN:02:0041:i
 iR:02:0040:i
-ila!:06:0167:il
-ila!:10:0167:il
 iza!:04:0022:iz
 iza!:06:0078:iz
 iza!:09:0061:iz
@@ -102,7 +100,7 @@ kuca!:01:0211:kuc
 kuca!:01:0993:kuc
 kuca!:06:0095:kuc
 kuwa!:06:0093:kuw
-kuwa!:06:0222:kuw
+kuwa!:10:0222:kuw
 kuwwa!:10:0034:kuww
 kuwwa!:10:0226:kuww
 kuWi!:01:0397:kuRW
@@ -369,9 +367,9 @@ wudu:05:0476:du
 du:01:1094:du
 duha!:02:0004:duh
 duhi!r:01:0839:duh
-dfpa!:04:0036:dfp
 dfpa!:04:0093:dfp
 dfpa!:06:0356:dfp
+dfpa!:10:0356:dfp
 dfBa!:10:0358:dfB
 dfBI!:06:0048:dfB
 dfBI!:06:0357:dfB
@@ -872,8 +870,6 @@ zRiha!:04:0055:snih
 zRiha!:10:0097:snih
 spaSa!:01:1032:spaS
 spaSa!:10:0200:spaS
-sPiwa!:10:0129:sPiw
-sPiwwa!:10:0056:sPiw
 sPuwa!:01:0293:sPuw
 sPuwa!:06:0100:sPuw
 sPuwa!:06:0247:sPuw
@@ -924,4 +920,4 @@ hoqf!:01:0319:hoq
 hoqf!:01:0410:hoq
 hvf:01:1080:hvf
 hvf:01:1084:hvf
-398 keys map to the same normalized root, as shown above
+396 keys map to the same normalized root, as shown above

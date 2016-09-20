@@ -195,7 +195,7 @@ kuc:01P,06P
 kuj:01P,06P
 kuYc:01P
 kuYj:01P
-kuw:04P,06P,10A,10P
+kuw:04P,06P,10A
 kuww:10A,10P
 kuq:06P
 kuR:06P,10A,10P

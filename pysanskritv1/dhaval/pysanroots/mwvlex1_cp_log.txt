@@ -1,5 +1,5 @@
 1954 records from mwvlex_cp.txt
-1653 records from sanverb1_cp.txt
+1654 records from sanverb1_cp.txt
 ------------------------------------------------------------
 ADJUSTING class 10 in mwvlex
 aMh:01A,10P -> aMh:01A,10A,10P.  method=sanverb
@@ -25,7 +25,6 @@ kizk:10A -> kizk:10A,10P.  method=default
 kIw:10P -> kIw:10A,10P.  method=sanverb
 kuMS:01,10P -> kuMS:01,10A,10P.  method=sanverb
 kuMs:01,10P -> kuMs:01,10A,10P.  method=sanverb
-kuw:04P,06P,10A -> kuw:04P,06P,10A,10P.  method=default
 kuww:10 -> kuww:10A,10P.  method=sanverb
 kuR:06P,10P -> kuR:06P,10A,10P.  method=sanverb
 kuRW:01P,10 -> kuRW:01P,10A,10P.  method=sanverb
@@ -309,7 +308,7 @@ zaww:10P -> zaww:10A,10P.  method=default
 saw:01P,10 -> saw:01P,10A,10P.  method=default
 saww:10P -> saww:10A,10P.  method=sanverb
 saW:10P -> saW:10A,10P.  method=default
-saBAj:10P -> saBAj:10A,10P.  method=default
+saBAj:10P -> saBAj:10A,10P.  method=sanverb
 sam:01P,10P -> sam:01P,10A,10P.  method=default
 sah:01A,04P,10 -> sah:01A,04P,10A,10P.  method=default
 sAw:10P -> sAw:10A,10P.  method=default
@@ -334,7 +333,7 @@ spfh:10P -> spfh:10A,10P.  method=sanverb
 sPaw:01P,10P -> sPaw:01P,10A,10P.  method=default
 sPaRq:10P -> sPaRq:10A,10P.  method=default
 sPiw:10P -> sPiw:10A,10P.  method=sanverb
-sPiww:10P -> sPiww:10A,10P.  method=default
+sPiww:10P -> sPiww:10A,10P.  method=sanverb
 sPuww:10P -> sPuww:10A,10P.  method=default
 sPuRw:01P,10P -> sPuRw:01P,10A,10P.  method=sanverb
 sPuRq:01A,10P -> sPuRq:01A,10A,10P.  method=sanverb
@@ -343,7 +342,7 @@ syam:01P,10A,10P -> syam:01P,10A.  method=sanverb
 svar:01P,10P -> svar:01P,10A,10P.  method=sanverb
 hiMs:01,07A,07P,10P -> hiMs:01,07A,07P,10A,10P.  method=sanverb
 hlap:10P -> hlap:10A,10P.  method=sanverb
-341 changes in  adjust_class10
+340 changes in  adjust_class10
 ------------------------------------------------------------
 ADJUSTING missing class/pada in mwvlex
 aMs:00 -> aMs:10A,10P.

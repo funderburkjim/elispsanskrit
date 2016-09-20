@@ -53,6 +53,7 @@ SUra:10A#SUr:04A#SUr:04A,10A
 SraTa:10A,10P#SraT:01P#SraT:09A,09P
 SvaWa:10A,10P##SvaW:10P
 satra:10A##satr:10A
+saBAja:10A,10P##saBAj:10P
 suKa:10A,10P##suK:04P,10
 sUca:10A,10P##sUc:10P
 sUtra:10A,10P##sUtr:10P

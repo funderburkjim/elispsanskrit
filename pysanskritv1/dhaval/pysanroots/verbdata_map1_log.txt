@@ -1,5 +1,5 @@
-2207 records read from verbdata_map.txt
-63 records read from roots_a.txt
+2206 records read from verbdata_map.txt
+64 records read from roots_a.txt
 20 records read from roots_a1.txt
 aMsa:10:0460:aMs  CHG
 aNka:10:0473:aNk  CHG
@@ -89,6 +89,7 @@ SraTa:10:0409:SraT  CHG
 SvaWa:10:0042:SvaW  CHG
 SvaWa:10:0393:SvaW  CHG
 satra:10:0448:satr  CHG
+saBAja:10:0429:saBAj  CHG
 sAma:10:0420:sAm  CHG
 sAra:10:0407:sAr  CHG
 suKa:10:0475:suK  CHG
@@ -99,5 +100,5 @@ stena:10:0439:sten  CHG
 sTUla:10:0446:sTUl  CHG
 spfha:10:0410:spfh  CHG
 svara:10:0402:svar  CHG
-2207 records written to verbdata_map1.txt
-98 records changed the corresponding 'normalized' root
+2206 records written to verbdata_map1.txt
+99 records changed the corresponding 'normalized' root
