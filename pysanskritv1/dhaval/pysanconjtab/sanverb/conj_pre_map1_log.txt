@@ -1,6 +1,67 @@
-2713 records read from ../../conjtab/conj_pre.txt
-2206 records read from ../../pysanroots/verbdata_map1.txt
-convert WARNING: Cannot map:  pre 06.0222A:[ate +ete +ante ase +eTe aDve +e Avahe Amahe]
-convert WARNING: Cannot map:  pre 06.0222P:[ati ataH +anti asi aTaH aTa Ami AvaH AmaH]
-2711 records written to conj_pre_map1.txt
-2 records skipped
+2693 records read from ../../conjtab/conj_pre.txt
+2208 records read from ../../pysanroots/verbdata_map1.txt
+2693 records in recs
+2556 records in recs1
+duplicate(2): i 2P
+   mergetab= [['aDyeti', 'eti'], ['aDItaH', 'itaH'], ['aDiyanti', 'yanti'], ['aDyezi', 'ezi'], ['aDITaH', 'iTaH'], ['aDITa', 'iTa'], ['aDyemi', 'emi'], ['aDIvaH', 'ivaH'], ['aDImaH', 'imaH']]
+    ik pre 02.0042P:[aDyeti aDItaH aDiyanti aDyezi aDITaH aDITa aDyemi aDIvaH aDImaH]
+    iR pre 02.0040P:[eti itaH yanti ezi iTaH iTa emi ivaH imaH]
+duplicate(2): kfp 10A
+   mergetab= [['kfpayate', 'kalpayate'], ['kfpayete', 'kalpayete'], ['kfpayante', 'kalpayante'], ['kfpayase', 'kalpayase'], ['kfpayeTe', 'kalpayeTe'], ['kfpayaDve', 'kalpayaDve'], ['kfpaye', 'kalpaye'], ['kfpayAvahe', 'kalpayAvahe'], ['kfpayAmahe', 'kalpayAmahe']]
+    kfpa pre 10.0408A:[kfpayate kfpayete kfpayante kfpayase kfpayeTe kfpayaDve kfpaye kfpayAvahe kfpayAmahe]
+    kfpa! pre 10.0278A:[kalpayate kalpayete kalpayante kalpayase kalpayeTe kalpayaDve kalpaye kalpayAvahe kalpayAmahe]
+duplicate(2): kfp 10P
+   mergetab= [['kfpayati', 'kalpayati'], ['kfpayataH', 'kalpayataH'], ['kfpayanti', 'kalpayanti'], ['kfpayasi', 'kalpayasi'], ['kfpayaTaH', 'kalpayaTaH'], ['kfpayaTa', 'kalpayaTa'], ['kfpayAmi', 'kalpayAmi'], ['kfpayAvaH', 'kalpayAvaH'], ['kfpayAmaH', 'kalpayAmaH']]
+    kfpa pre 10.0408P:[kfpayati kfpayataH kfpayanti kfpayasi kfpayaTaH kfpayaTa kfpayAmi kfpayAvaH kfpayAmaH]
+    kfpa! pre 10.0278P:[kalpayati kalpayataH kalpayanti kalpayasi kalpayaTaH kalpayaTa kalpayAmi kalpayAvaH kalpayAmaH]
+duplicate(2): ci 10A
+   mergetab= [['cAyayate', 'capayate', 'cayayate'], ['cAyayete', 'capayete', 'cayayete'], ['cAyayante', 'capayante', 'cayayante'], ['cAyayase', 'capayase', 'cayayase'], ['cAyayeTe', 'capayeTe', 'cayayeTe'], ['cAyayaDve', 'capayaDve', 'cayayaDve'], ['cAyaye', 'capaye', 'cayaye'], ['cAyayAvahe', 'capayAvahe', 'cayayAvahe'], ['cAyayAmahe', 'capayAmahe', 'cayayAmahe']]
+    ci pre 10.0325A:[cAyayate cAyayete cAyayante cAyayase cAyayeTe cAyayaDve cAyaye cAyayAvahe cAyayAmahe]
+    ciY pre 10.0005A:[(cayayate capayate) (cayayete capayete) (cayayante capayante) (cayayase capayase) (cayayeTe capayeTe) (cayayaDve capayaDve) (cayaye capaye) (cayayAvahe capayAvahe) (cayayAmahe capayAmahe)]
+duplicate(2): ci 10P
+   mergetab= [['cAyayati', 'capayati', 'cayayati'], ['cAyayataH', 'capayataH', 'cayayataH'], ['cAyayanti', 'capayanti', 'cayayanti'], ['cAyayasi', 'capayasi', 'cayayasi'], ['cAyayaTaH', 'capayaTaH', 'cayayaTaH'], ['cAyayaTa', 'capayaTa', 'cayayaTa'], ['cAyayAmi', 'capayAmi', 'cayayAmi'], ['cAyayAvaH', 'capayAvaH', 'cayayAvaH'], ['cAyayAmaH', 'capayAmaH', 'cayayAmaH']]
+    ci pre 10.0325P:[cAyayati cAyayataH cAyayanti cAyayasi cAyayaTaH cAyayaTa cAyayAmi cAyayAvaH cAyayAmaH]
+    ciY pre 10.0005P:[(cayayati capayati) (cayayataH capayataH) (cayayanti capayanti) (cayayasi capayasi) (cayayaTaH capayaTaH) (cayayaTa capayaTa) (cayayAmi capayAmi) (cayayAvaH capayAvaH) (cayayAmaH capayAmaH)]
+duplicate(2): paw 10A
+   mergetab= [['pawayate', 'pAwayate'], ['pawayete', 'pAwayete'], ['pawayante', 'pAwayante'], ['pawayase', 'pAwayase'], ['pawayeTe', 'pAwayeTe'], ['pawayaDve', 'pAwayaDve'], ['pawaye', 'pAwaye'], ['pawayAvahe', 'pAwayAvahe'], ['pawayAmahe', 'pAwayAmahe']]
+    pawa pre 10.0394A:[pawayate pawayete pawayante pawayase pawayeTe pawayaDve pawaye pawayAvahe pawayAmahe]
+    pawa! pre 10.0282A:[pAwayate pAwayete pAwayante pAwayase pAwayeTe pAwayaDve pAwaye pAwayAvahe pAwayAmahe]
+duplicate(2): paw 10P
+   mergetab= [['pawayati', 'pAwayati'], ['pawayataH', 'pAwayataH'], ['pawayanti', 'pAwayanti'], ['pawayasi', 'pAwayasi'], ['pawayaTaH', 'pAwayaTaH'], ['pawayaTa', 'pAwayaTa'], ['pawayAmi', 'pAwayAmi'], ['pawayAvaH', 'pAwayAvaH'], ['pawayAmaH', 'pAwayAmaH']]
+    pawa pre 10.0394P:[pawayati pawayataH pawayanti pawayasi pawayaTaH pawayaTa pawayAmi pawayAvaH pawayAmaH]
+    pawa! pre 10.0282P:[pAwayati pAwayataH pAwayanti pAwayasi pAwayaTaH pAwayaTa pAwayAmi pAwayAvaH pAwayAmaH]
+duplicate(2): vas 10A
+   mergetab= [['vasayate', 'vAsayate'], ['vasayete', 'vAsayete'], ['vasayante', 'vAsayante'], ['vasayase', 'vAsayase'], ['vasayeTe', 'vAsayeTe'], ['vasayaDve', 'vAsayaDve'], ['vasaye', 'vAsaye'], ['vasayAvahe', 'vAsayAvahe'], ['vasayAmahe', 'vAsayAmahe']]
+    vasa pre 10.0488A:[vasayate vasayete vasayante vasayase vasayeTe vasayaDve vasaye vasayAvahe vasayAmahe]
+    vasa! pre 10.0273A:[vAsayate vAsayete vAsayante vAsayase vAsayeTe vAsayaDve vAsaye vAsayAvahe vAsayAmahe]
+duplicate(2): vas 10P
+   mergetab= [['vasayati', 'vAsayati'], ['vasayataH', 'vAsayataH'], ['vasayanti', 'vAsayanti'], ['vasayasi', 'vAsayasi'], ['vasayaTaH', 'vAsayaTaH'], ['vasayaTa', 'vAsayaTa'], ['vasayAmi', 'vAsayAmi'], ['vasayAvaH', 'vAsayAvaH'], ['vasayAmaH', 'vAsayAmaH']]
+    vasa pre 10.0488P:[vasayati vasayataH vasayanti vasayasi vasayaTaH vasayaTa vasayAmi vasayAvaH vasayAmaH]
+    vasa! pre 10.0273P:[vAsayati vAsayataH vAsayanti vAsayasi vAsayaTaH vAsayaTa vAsayAmi vAsayAvaH vAsayAmaH]
+duplicate(2): vyay 10A
+   mergetab= [['vyayayate', 'vyAyayate'], ['vyayayete', 'vyAyayete'], ['vyayayante', 'vyAyayante'], ['vyayayase', 'vyAyayase'], ['vyayayeTe', 'vyAyayeTe'], ['vyayayaDve', 'vyAyayaDve'], ['vyayaye', 'vyAyaye'], ['vyayayAvahe', 'vyAyayAvahe'], ['vyayayAmahe', 'vyAyayAmahe']]
+    vyaya pre 10.0478A:[vyayayate vyayayete vyayayante vyayayase vyayayeTe vyayayaDve vyayaye vyayayAvahe vyayayAmahe]
+    vyaya! pre 10.0137A:[vyAyayate vyAyayete vyAyayante vyAyayase vyAyayeTe vyAyayaDve vyAyaye vyAyayAvahe vyAyayAmahe]
+duplicate(2): vyay 10P
+   mergetab= [['vyayayati', 'vyAyayati'], ['vyayayataH', 'vyAyayataH'], ['vyayayanti', 'vyAyayanti'], ['vyayayasi', 'vyAyayasi'], ['vyayayaTaH', 'vyAyayaTaH'], ['vyayayaTa', 'vyAyayaTa'], ['vyayayAmi', 'vyAyayAmi'], ['vyayayAvaH', 'vyAyayAvaH'], ['vyayayAmaH', 'vyAyayAmaH']]
+    vyaya pre 10.0478P:[vyayayati vyayayataH vyayayanti vyayayasi vyayayaTaH vyayayaTa vyayayAmi vyayayAvaH vyayayAmaH]
+    vyaya! pre 10.0137P:[vyAyayati vyAyayataH vyAyayanti vyAyayasi vyAyayaTaH vyAyayaTa vyAyayAmi vyAyayAvaH vyAyayAmaH]
+duplicate(2): SaW 10A
+   mergetab= [['SaWayate', 'SAWayate'], ['SaWayete', 'SAWayete'], ['SaWayante', 'SAWayante'], ['SaWayase', 'SAWayase'], ['SaWayeTe', 'SAWayeTe'], ['SaWayaDve', 'SAWayaDve'], ['SaWaye', 'SAWaye'], ['SaWayAvahe', 'SAWayAvahe'], ['SaWayAmahe', 'SAWayAmahe']]
+    SaWa pre 10.0392A:[SaWayate SaWayete SaWayante SaWayase SaWayeTe SaWayaDve SaWaye SaWayAvahe SaWayAmahe]
+    SaWa! pre 10.0214A:[SAWayate SAWayete SAWayante SAWayase SAWayeTe SAWayaDve SAWaye SAWayAvahe SAWayAmahe]
+duplicate(2): SvaW 10A
+   mergetab= [['SvaWayate', 'SvAWayate'], ['SvaWayete', 'SvAWayete'], ['SvaWayante', 'SvAWayante'], ['SvaWayase', 'SvAWayase'], ['SvaWayeTe', 'SvAWayeTe'], ['SvaWayaDve', 'SvAWayaDve'], ['SvaWaye', 'SvAWaye'], ['SvaWayAvahe', 'SvAWayAvahe'], ['SvaWayAmahe', 'SvAWayAmahe']]
+    SvaWa pre 10.0393A:[SvaWayate SvaWayete SvaWayante SvaWayase SvaWayeTe SvaWayaDve SvaWaye SvaWayAvahe SvaWayAmahe]
+    SvaWa! pre 10.0042A:[SvAWayate SvAWayete SvAWayante SvAWayase SvAWayeTe SvAWayaDve SvAWaye SvAWayAvahe SvAWayAmahe]
+duplicate(2): SvaW 10P
+   mergetab= [['SvaWayati', 'SvAWayati'], ['SvaWayataH', 'SvAWayataH'], ['SvaWayanti', 'SvAWayanti'], ['SvaWayasi', 'SvAWayasi'], ['SvaWayaTaH', 'SvAWayaTaH'], ['SvaWayaTa', 'SvAWayaTa'], ['SvaWayAmi', 'SvAWayAmi'], ['SvaWayAvaH', 'SvAWayAvaH'], ['SvaWayAmaH', 'SvAWayAmaH']]
+    SvaWa pre 10.0393P:[SvaWayati SvaWayataH SvaWayanti SvaWayasi SvaWayaTaH SvaWayaTa SvaWayAmi SvaWayAvaH SvaWayAmaH]
+    SvaWa! pre 10.0042P:[SvAWayati SvAWayataH SvAWayanti SvAWayasi SvAWayaTaH SvAWayaTa SvAWayAmi SvAWayAvaH SvAWayAmaH]
+duplicate(2): hay 1P
+   mergetab= [['hayati', 'haryati'], ['hayataH', 'haryataH'], ['hayanti', 'haryanti'], ['hayasi', 'haryasi'], ['hayaTaH', 'haryaTaH'], ['hayaTa', 'haryaTa'], ['hayAmi', 'haryAmi'], ['hayAvaH', 'haryAvaH'], ['hayAmaH', 'haryAmaH']]
+    haya! pre 01.0589P:[hayati hayataH hayanti hayasi hayaTaH hayaTa hayAmi hayAvaH hayAmaH]
+    harya! pre 01.0592P:[haryati haryataH haryanti haryasi haryaTaH haryaTa haryAmi haryAvaH haryAmaH]
+2556 records written to conj_pre_map1.txt
+0 records skipped
+15 True duplicates

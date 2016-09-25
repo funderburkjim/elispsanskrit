@@ -1,5 +1,5 @@
 --------------------------------------------------
-1014 cases of IDENTICAL CPS
+1024 cases of IDENTICAL CPS
 --------------------------------------------------
 Case 01: aMs:10A,10P identical in BOTH
 Case 02: aMh:01A,10A,10P identical in BOTH
@@ -40,983 +40,993 @@ Case 36: iNK:01P identical in BOTH
 Case 37: iw:01P identical in BOTH
 Case 38: ind:01P identical in BOTH
 Case 39: inD:07A identical in BOTH
-Case 40: I:04A identical in BOTH
-Case 41: Ikz:01A identical in BOTH
-Case 42: IK:01P identical in BOTH
-Case 43: INK:01P identical in BOTH
-Case 44: Irkzy:01P identical in BOTH
-Case 45: Irzy:01P identical in BOTH
-Case 46: IS:02A identical in BOTH
-Case 47: Iz:01A,01P identical in BOTH
-Case 48: uK:01P identical in BOTH
-Case 49: ujJ:06P identical in BOTH
-Case 50: uYC:01P,06P identical in BOTH
-Case 51: ubj:06P identical in BOTH
-Case 52: umB:06P identical in BOTH
-Case 53: urd:01A identical in BOTH
-Case 54: urv:01P identical in BOTH
-Case 55: uh:01P identical in BOTH
-Case 56: Uy:01A identical in BOTH
-Case 57: Urj:10A,10P identical in BOTH
-Case 58: UrRu:02A,02P identical in BOTH
-Case 59: Uz:01P identical in BOTH
-Case 60: fc:06P identical in BOTH
-Case 61: fC:06P identical in BOTH
-Case 62: fR:08A,08P identical in BOTH
-Case 63: fP:06P identical in BOTH
-Case 64: fmP:06P identical in BOTH
-Case 65: F:09P identical in BOTH
-Case 66: ej:01A,01P identical in BOTH
-Case 67: eW:01A identical in BOTH
-Case 68: oK:01P identical in BOTH
-Case 69: oR:01P identical in BOTH
-Case 70: kaMs:02A identical in BOTH
-Case 71: kak:01A identical in BOTH
-Case 72: kaK:01P identical in BOTH
-Case 73: kag:01P identical in BOTH
-Case 74: kaNk:01A identical in BOTH
-Case 75: kaj:01P identical in BOTH
-Case 76: kaYc:01A identical in BOTH
-Case 77: kaw:01P identical in BOTH
-Case 78: kaW:01P identical in BOTH
-Case 79: kaq:01P,06P identical in BOTH
-Case 80: kaqq:01P identical in BOTH
-Case 81: kaR:01P,10A,10P identical in BOTH
-Case 82: kaRq:01A,01P,10A,10P identical in BOTH
-Case 83: katT:01A identical in BOTH
-Case 84: katr:10A,10P identical in BOTH
-Case 85: kaT:10A,10P identical in BOTH
-Case 86: kad:01A identical in BOTH
-Case 87: kand:01A,01P identical in BOTH
-Case 88: kab:01A identical in BOTH
-Case 89: karj:01P identical in BOTH
-Case 90: karR:10A,10P identical in BOTH
-Case 91: kart:10A,10P identical in BOTH
-Case 92: kard:01P identical in BOTH
-Case 93: karb:01P identical in BOTH
-Case 94: karv:01P identical in BOTH
-Case 95: kal:01A,10A,10P identical in BOTH
-Case 96: kall:01A identical in BOTH
-Case 97: kAYc:01A identical in BOTH
-Case 98: ki:03P identical in BOTH
-Case 99: kiw:01P identical in BOTH
-Case 100: kIw:10A,10P identical in BOTH
-Case 101: kIl:01P identical in BOTH
-Case 102: ku:01A,02P,06A identical in BOTH
-Case 103: kuk:01A identical in BOTH
-Case 104: kuc:01P,06P identical in BOTH
-Case 105: kuYc:01P identical in BOTH
-Case 106: kuYj:01P identical in BOTH
-Case 107: kuww:10A,10P identical in BOTH
-Case 108: kuq:06P identical in BOTH
-Case 109: kuR:06P,10A,10P identical in BOTH
-Case 110: kuRw:01P identical in BOTH
-Case 111: kuRW:01P,10A,10P identical in BOTH
-Case 112: kuRq:01A,01P,10A,10P identical in BOTH
-Case 113: kuT:04P identical in BOTH
-Case 114: kud:10A,10P identical in BOTH
-Case 115: kunT:01P,09P identical in BOTH
-Case 116: kundr:10A,10P identical in BOTH
-Case 117: kumB:10A,10P identical in BOTH
-Case 118: kur:06P identical in BOTH
-Case 119: kurd:01A identical in BOTH
-Case 120: kul:01P identical in BOTH
-Case 121: kuS:04P identical in BOTH
-Case 122: kus:04P identical in BOTH
-Case 123: kuh:10A identical in BOTH
-Case 124: kUj:01P identical in BOTH
-Case 125: kUw:10A,10P identical in BOTH
-Case 126: kUl:01P identical in BOTH
-Case 127: kfq:06P identical in BOTH
-Case 128: kfS:04P identical in BOTH
-Case 129: kFt:10A,10P identical in BOTH
-Case 130: kep:01A identical in BOTH
-Case 131: kel:01P identical in BOTH
-Case 132: kev:01A identical in BOTH
-Case 133: kE:01P identical in BOTH
-Case 134: knaT:01P identical in BOTH
-Case 135: knas:04P identical in BOTH
-Case 136: knU:09A,09P identical in BOTH
-Case 137: kmar:01P identical in BOTH
-Case 138: kraT:01P identical in BOTH
-Case 139: krad:01A identical in BOTH
-Case 140: krand:01A,01P identical in BOTH
-Case 141: krap:01A identical in BOTH
-Case 142: krI:09A,09P identical in BOTH
-Case 143: kruYc:01P identical in BOTH
-Case 144: klaT:01P identical in BOTH
-Case 145: kland:01A,01P identical in BOTH
-Case 146: klap:10A,10P identical in BOTH
-Case 147: klind:01A,01P identical in BOTH
-Case 148: klu:01A identical in BOTH
-Case 149: kleS:01A identical in BOTH
-Case 150: kvaR:01P identical in BOTH
-Case 151: kzaR:08A,08P identical in BOTH
-Case 152: kzal:10A,10P identical in BOTH
-Case 153: kziR:08A,08P identical in BOTH
-Case 154: kzI:05P identical in BOTH
-Case 155: kzIj:01P identical in BOTH
-Case 156: kzIv:01A identical in BOTH
-Case 157: kzu:02P identical in BOTH
-Case 158: kzuD:04P identical in BOTH
-Case 159: kzev:01P identical in BOTH
-Case 160: kzE:01P identical in BOTH
-Case 161: kzow:10A,10P identical in BOTH
-Case 162: kzRu:02P identical in BOTH
-Case 163: kzmIl:01P identical in BOTH
-Case 164: kzvid:01P,04A identical in BOTH
-Case 165: kzvel:01P identical in BOTH
-Case 166: Kaj:01P identical in BOTH
-Case 167: KaYj:01P identical in BOTH
-Case 168: Kaw:01P identical in BOTH
-Case 169: Kaww:10A,10P identical in BOTH
-Case 170: Kaq:10A,10P identical in BOTH
-Case 171: KaRq:01A,10A,10P identical in BOTH
-Case 172: Kan:01A,01P identical in BOTH
-Case 173: Karj:01P identical in BOTH
-Case 174: Kard:01P identical in BOTH
-Case 175: Karb:01P identical in BOTH
-Case 176: Karv:01P identical in BOTH
-Case 177: Kal:01P identical in BOTH
-Case 178: Kav:09P identical in BOTH
-Case 179: Kaz:01P identical in BOTH
-Case 180: Kiw:01P identical in BOTH
-Case 181: Ku:01A identical in BOTH
-Case 182: Kuj:01P identical in BOTH
-Case 183: Kur:06P identical in BOTH
-Case 184: Kurd:01A identical in BOTH
-Case 185: Kew:10A,10P identical in BOTH
-Case 186: Keq:10A,10P identical in BOTH
-Case 187: Kel:01P identical in BOTH
-Case 188: Kev:01A identical in BOTH
-Case 189: KE:01P identical in BOTH
-Case 190: Kor:01P identical in BOTH
-Case 191: Kol:01P identical in BOTH
-Case 192: gaj:01P,10A,10P identical in BOTH
-Case 193: gaYj:01P identical in BOTH
-Case 194: gaR:10A,10P identical in BOTH
-Case 195: gaRq:01P identical in BOTH
-Case 196: gad:01P,10A,10P identical in BOTH
-Case 197: ganD:10A identical in BOTH
-Case 198: gard:01P,10A,10P identical in BOTH
-Case 199: garb:01P identical in BOTH
-Case 200: garv:01P,10A identical in BOTH
-Case 201: garh:01A,10A,10P identical in BOTH
-Case 202: galB:01A identical in BOTH
-Case 203: galh:01A identical in BOTH
-Case 204: gAD:01A identical in BOTH
-Case 205: guj:01P,06P identical in BOTH
-Case 206: guYj:01P identical in BOTH
-Case 207: guq:06P identical in BOTH
-Case 208: guRW:10A,10P identical in BOTH
-Case 209: guRq:10A,10P identical in BOTH
-Case 210: gud:01A identical in BOTH
-Case 211: guP:06P identical in BOTH
-Case 212: gumP:06P identical in BOTH
-Case 213: gurd:01A,10A,10P identical in BOTH
-Case 214: gurv:01P identical in BOTH
-Case 215: guh:01A,01P identical in BOTH
-Case 216: gUr:04A,10A identical in BOTH
-Case 217: gf:01P identical in BOTH
-Case 218: gfj:01P identical in BOTH
-Case 219: gep:01A identical in BOTH
-Case 220: gev:01A identical in BOTH
-Case 221: gez:01A identical in BOTH
-Case 222: grah:09A,09P identical in BOTH
-Case 223: gruc:01P identical in BOTH
-Case 224: glas:01A identical in BOTH
-Case 225: gluc:01P identical in BOTH
-Case 226: gluYc:01P identical in BOTH
-Case 227: glep:01A identical in BOTH
-Case 228: glev:01A identical in BOTH
-Case 229: glez:01A identical in BOTH
-Case 230: GagG:01P identical in BOTH
-Case 231: GaG:01P identical in BOTH
-Case 232: Gaww:01A,10A,10P identical in BOTH
-Case 233: Gas:01P identical in BOTH
-Case 234: GiRR:01A identical in BOTH
-Case 235: Gu:01A identical in BOTH
-Case 236: Guw:01A,06P identical in BOTH
-Case 237: GuR:01A,06P identical in BOTH
-Case 238: GuRR:01A identical in BOTH
-Case 239: GUr:04A identical in BOTH
-Case 240: GfR:08A,08P identical in BOTH
-Case 241: GfRR:01A identical in BOTH
-Case 242: Nu:01A identical in BOTH
-Case 243: cak:01A,01P identical in BOTH
-Case 244: cakk:10A,10P identical in BOTH
-Case 245: caYc:01P identical in BOTH
-Case 246: caR:01P identical in BOTH
-Case 247: caRq:01A,10A,10P identical in BOTH
-Case 248: cat:01A,01P identical in BOTH
-Case 249: cad:01A,01P identical in BOTH
-Case 250: cand:01P identical in BOTH
-Case 251: cap:01P,10A,10P identical in BOTH
-Case 252: cam:01P,05P identical in BOTH
-Case 253: camp:10A,10P identical in BOTH
-Case 254: cay:01A identical in BOTH
-Case 255: carb:01P identical in BOTH
-Case 256: caz:01A,01P identical in BOTH
-Case 257: cah:01P,10A,10P identical in BOTH
-Case 258: ciw:01P identical in BOTH
-Case 259: ciri:05P identical in BOTH
-Case 260: cil:06P identical in BOTH
-Case 261: cill:01P identical in BOTH
-Case 262: cIb:01A,01P identical in BOTH
-Case 263: cIB:01A identical in BOTH
-Case 264: cIv:01A,01P,10A,10P identical in BOTH
-Case 265: cukk:10A,10P identical in BOTH
-Case 266: cucy:01P identical in BOTH
-Case 267: cuww:10A,10P identical in BOTH
-Case 268: cuq:06P identical in BOTH
-Case 269: cuqq:01P identical in BOTH
-Case 270: cul:10A,10P identical in BOTH
-Case 271: cull:01P identical in BOTH
-Case 272: cUrR:10A,10P identical in BOTH
-Case 273: cUz:01P identical in BOTH
-Case 274: cel:01P identical in BOTH
-Case 275: cezw:01A identical in BOTH
-Case 276: cyut:01P identical in BOTH
-Case 277: Cam:01P identical in BOTH
-Case 278: Caz:01A,01P identical in BOTH
-Case 279: Cuq:06P identical in BOTH
-Case 280: Cup:06P identical in BOTH
-Case 281: Cur:06P identical in BOTH
-Case 282: Co:04P identical in BOTH
-Case 283: jaj:01P identical in BOTH
-Case 284: jaYj:01P identical in BOTH
-Case 285: jaw:01P identical in BOTH
-Case 286: jaB:01A identical in BOTH
-Case 287: jam:01P identical in BOTH
-Case 288: jarts:01P identical in BOTH
-Case 289: jal:01P,10A,10P identical in BOTH
-Case 290: jim:01P identical in BOTH
-Case 291: jiri:05P identical in BOTH
-Case 292: jiz:01P identical in BOTH
-Case 293: ju:01A,01P identical in BOTH
-Case 294: juNg:01P identical in BOTH
-Case 295: juw:06P identical in BOTH
-Case 296: juq:06A,06P,10A,10P identical in BOTH
-Case 297: jut:01A identical in BOTH
-Case 298: jun:06P identical in BOTH
-Case 299: jUr:04A identical in BOTH
-Case 300: jUz:01P identical in BOTH
-Case 301: jez:01A identical in BOTH
-Case 302: jeh:01A identical in BOTH
-Case 303: jE:01P identical in BOTH
-Case 304: jyu:01A identical in BOTH
-Case 305: jvar:01P identical in BOTH
-Case 306: Jaw:01P identical in BOTH
-Case 307: Jam:01P identical in BOTH
-Case 308: JF:04P,09P identical in BOTH
-Case 309: waNk:10A,10P identical in BOTH
-Case 310: wal:01P identical in BOTH
-Case 311: wik:01A identical in BOTH
-Case 312: wval:01P identical in BOTH
-Case 313: qap:10A identical in BOTH
-Case 314: qip:04P,06P,10A,10P identical in BOTH
-Case 315: qI:01A,04A identical in BOTH
-Case 316: QOk:01A identical in BOTH
-Case 317: taNk:01P identical in BOTH
-Case 318: taNg:01P identical in BOTH
-Case 319: taYc:01P,07P identical in BOTH
-Case 320: taw:01P identical in BOTH
-Case 321: taq:10A,10P identical in BOTH
-Case 322: taRq:01A identical in BOTH
-Case 323: tay:01A identical in BOTH
-Case 324: tark:10A,10P identical in BOTH
-Case 325: tard:01P identical in BOTH
-Case 326: tas:04P identical in BOTH
-Case 327: tAy:01A identical in BOTH
-Case 328: tik:01A,05P identical in BOTH
-Case 329: tig:05P identical in BOTH
-Case 330: tim:04P identical in BOTH
-Case 331: till:01P identical in BOTH
-Case 332: tIk:01A identical in BOTH
-Case 333: tIm:04P identical in BOTH
-Case 334: tIv:01P identical in BOTH
-Case 335: tu:02P identical in BOTH
-Case 336: tuw:06P identical in BOTH
-Case 337: tuq:01P,06P identical in BOTH
-Case 338: tuR:06P identical in BOTH
-Case 339: tup:01P,06P identical in BOTH
-Case 340: tuP:01P,06P identical in BOTH
-Case 341: tuB:01A,04P,09P identical in BOTH
-Case 342: tump:01P,06P identical in BOTH
-Case 343: tumP:01P,06P identical in BOTH
-Case 344: tumb:01P,10A,10P identical in BOTH
-Case 345: turv:01P identical in BOTH
-Case 346: tul:10A,10P identical in BOTH
-Case 347: tuz:04P identical in BOTH
-Case 348: tus:01P identical in BOTH
-Case 349: tuh:01P identical in BOTH
-Case 350: tUq:01P identical in BOTH
-Case 351: tUR:10A identical in BOTH
-Case 352: tUz:01P identical in BOTH
-Case 353: tfkz:01P identical in BOTH
-Case 354: tfR:08A,08P identical in BOTH
-Case 355: tfP:06P identical in BOTH
-Case 356: tfmp:06P identical in BOTH
-Case 357: tfmP:06P identical in BOTH
-Case 358: tfh:06P,07P identical in BOTH
-Case 359: tej:01P identical in BOTH
-Case 360: tep:01A identical in BOTH
-Case 361: tev:01A identical in BOTH
-Case 362: traK:01P identical in BOTH
-Case 363: traNk:01A identical in BOTH
-Case 364: traNg:01P identical in BOTH
-Case 365: trand:01P identical in BOTH
-Case 366: trap:01A identical in BOTH
-Case 367: triNK:01P identical in BOTH
-Case 368: trup:01P identical in BOTH
-Case 369: truP:01P identical in BOTH
-Case 370: trump:01P identical in BOTH
-Case 371: trumP:01P identical in BOTH
-Case 372: trE:01A identical in BOTH
-Case 373: trOk:01A identical in BOTH
-Case 374: tvakz:01P identical in BOTH
-Case 375: tvaNg:01P identical in BOTH
-Case 376: tvac:06P identical in BOTH
-Case 377: tvar:01A identical in BOTH
-Case 378: tviz:01A,01P identical in BOTH
-Case 379: tsar:01P identical in BOTH
-Case 380: Tuq:06P identical in BOTH
-Case 381: Turv:01P identical in BOTH
-Case 382: daNG:01P identical in BOTH
-Case 383: dad:01A identical in BOTH
-Case 384: daD:01A identical in BOTH
-Case 385: day:01A identical in BOTH
-Case 386: dinv:01P identical in BOTH
-Case 387: dih:02A,02P identical in BOTH
-Case 388: dIkz:01A identical in BOTH
-Case 389: dIp:04A identical in BOTH
-Case 390: durv:01P identical in BOTH
-Case 391: dul:10A,10P identical in BOTH
-Case 392: duz:04P identical in BOTH
-Case 393: df:06A identical in BOTH
-Case 394: dfP:06P identical in BOTH
-Case 395: dfmp:06P identical in BOTH
-Case 396: dfmP:06P identical in BOTH
-Case 397: dfS:01P identical in BOTH
-Case 398: de:01A identical in BOTH
-Case 399: dev:01A identical in BOTH
-Case 400: dE:01P identical in BOTH
-Case 401: dyu:02P identical in BOTH
-Case 402: dyE:01P identical in BOTH
-Case 403: dram:01P identical in BOTH
-Case 404: drAK:01P identical in BOTH
-Case 405: drAG:01A identical in BOTH
-Case 406: drANkz:01P identical in BOTH
-Case 407: drAq:01A identical in BOTH
-Case 408: drAh:01A identical in BOTH
-Case 409: druR:06P identical in BOTH
-Case 410: drek:01A identical in BOTH
-Case 411: dviz:02A,02P identical in BOTH
-Case 412: dvf:01P identical in BOTH
-Case 413: Dakk:10A,10P identical in BOTH
-Case 414: DaR:01P identical in BOTH
-Case 415: DAv:01A,01P identical in BOTH
-Case 416: Dikz:01A identical in BOTH
-Case 417: Dinv:01P identical in BOTH
-Case 418: Diz:03P identical in BOTH
-Case 419: Du:05A,05P,06P identical in BOTH
-Case 420: Dukz:01A identical in BOTH
-Case 421: Durv:01P identical in BOTH
-Case 422: DUp:01P,10A,10P identical in BOTH
-Case 423: DUr:04A identical in BOTH
-Case 424: DUS:10A,10P identical in BOTH
-Case 425: DUz:10A,10P identical in BOTH
-Case 426: DUs:10A,10P identical in BOTH
-Case 427: Dfj:01P identical in BOTH
-Case 428: DfYj:01P identical in BOTH
-Case 429: DF:09P identical in BOTH
-Case 430: De:01P identical in BOTH
-Case 431: Dor:01P identical in BOTH
-Case 432: DmANkz:01P identical in BOTH
-Case 433: DraR:01P identical in BOTH
-Case 434: DrAK:01P identical in BOTH
-Case 435: DrANkz:01P identical in BOTH
-Case 436: DrAq:01A identical in BOTH
-Case 437: Drij:01P identical in BOTH
-Case 438: Dru:01P,06P identical in BOTH
-Case 439: Drek:01A identical in BOTH
-Case 440: Dvaj:01P identical in BOTH
-Case 441: DvaYj:01P identical in BOTH
-Case 442: DvaR:01P identical in BOTH
-Case 443: DvANkz:01P identical in BOTH
-Case 444: nakk:10A,10P identical in BOTH
-Case 445: naq:10A,10P identical in BOTH
-Case 446: nad:01P identical in BOTH
-Case 447: nand:01P identical in BOTH
-Case 448: nay:01A identical in BOTH
-Case 449: nard:01P identical in BOTH
-Case 450: nal:01P,10A,10P identical in BOTH
-Case 451: nas:01A identical in BOTH
-Case 452: nah:04A,04P identical in BOTH
-Case 453: nAT:01A identical in BOTH
-Case 454: nAD:01A identical in BOTH
-Case 455: nAs:01A identical in BOTH
-Case 456: niMs:02A identical in BOTH
-Case 457: nikz:01P identical in BOTH
-Case 458: niYj:02A identical in BOTH
-Case 459: nid:01A,01P identical in BOTH
-Case 460: nind:01P identical in BOTH
-Case 461: ninv:01P identical in BOTH
-Case 462: nil:06P identical in BOTH
-Case 463: niS:01P identical in BOTH
-Case 464: niz:01P identical in BOTH
-Case 465: nizk:10A identical in BOTH
-Case 466: nI:01A,01P identical in BOTH
-Case 467: nIl:01P identical in BOTH
-Case 468: nIv:01P identical in BOTH
-Case 469: nud:06A,06P identical in BOTH
-Case 470: nft:04P identical in BOTH
-Case 471: nez:01A identical in BOTH
-Case 472: pakz:01P,10A,10P identical in BOTH
-Case 473: paw:01P,10A,10P identical in BOTH
-Case 474: paW:01P identical in BOTH
-Case 475: paR:01A identical in BOTH
-Case 476: paRq:01A,10A,10P identical in BOTH
-Case 477: pan:01A identical in BOTH
-Case 478: pay:01A identical in BOTH
-Case 479: parR:10A,10P identical in BOTH
-Case 480: pard:01A identical in BOTH
-Case 481: parp:01P identical in BOTH
-Case 482: parb:01P identical in BOTH
-Case 483: parv:01P identical in BOTH
-Case 484: pall:01P identical in BOTH
-Case 485: paS:10A,10P identical in BOTH
-Case 486: pAl:10A,10P identical in BOTH
-Case 487: piw:01P identical in BOTH
-Case 488: piW:01P identical in BOTH
-Case 489: piRq:01A,10A,10P identical in BOTH
-Case 490: pIq:10A,10P identical in BOTH
-Case 491: pIl:01P identical in BOTH
-Case 492: puMs:10A,10P identical in BOTH
-Case 493: puw:01P,06P,10A,10P identical in BOTH
-Case 494: puww:10A,10P identical in BOTH
-Case 495: puq:01P,06P identical in BOTH
-Case 496: puRw:10A,10P identical in BOTH
-Case 497: puRq:01P identical in BOTH
-Case 498: puT:04A,04P identical in BOTH
-Case 499: punT:01P identical in BOTH
-Case 500: pur:06P identical in BOTH
-Case 501: pust:10A,10P identical in BOTH
-Case 502: pUl:01P,10A,10P identical in BOTH
-Case 503: pUz:01P identical in BOTH
-Case 504: pfYj:02A identical in BOTH
-Case 505: pfq:06P identical in BOTH
-Case 506: pfR:06P identical in BOTH
-Case 507: pfT:10A,10P identical in BOTH
-Case 508: pev:01A identical in BOTH
-Case 509: pez:01A identical in BOTH
-Case 510: pes:01P identical in BOTH
-Case 511: pE:01P identical in BOTH
-Case 512: pER:01P identical in BOTH
-Case 513: pyAy:01A identical in BOTH
-Case 514: pyus:04P identical in BOTH
-Case 515: pyE:01A identical in BOTH
-Case 516: pras:01A identical in BOTH
-Case 517: prI:04A,04P,09A,09P identical in BOTH
-Case 518: pru:01A identical in BOTH
-Case 519: prez:01A identical in BOTH
-Case 520: prER:01P identical in BOTH
-Case 521: proT:01A,01P identical in BOTH
-Case 522: plakz:01A,01P identical in BOTH
-Case 523: plih:01A identical in BOTH
-Case 524: plI:09P identical in BOTH
-Case 525: pluz:01P,04P,09P identical in BOTH
-Case 526: plev:01A identical in BOTH
-Case 527: psA:02P identical in BOTH
-Case 528: Pakk:01P identical in BOTH
-Case 529: PaR:01P identical in BOTH
-Case 530: Pull:01P identical in BOTH
-Case 531: Pel:01P identical in BOTH
-Case 532: baMh:01A identical in BOTH
-Case 533: baW:01P identical in BOTH
-Case 534: baR:01P identical in BOTH
-Case 535: bad:01P identical in BOTH
-Case 536: baD:01A,10A,10P identical in BOTH
-Case 537: barb:01P identical in BOTH
-Case 538: barh:01A,10A,10P identical in BOTH
-Case 539: balh:01A,10A,10P identical in BOTH
-Case 540: bAq:01A identical in BOTH
-Case 541: bAh:01A identical in BOTH
-Case 542: biw:01P identical in BOTH
-Case 543: bind:01P identical in BOTH
-Case 544: bIB:01A identical in BOTH
-Case 545: bukk:01P,10A,10P identical in BOTH
-Case 546: buNg:01P identical in BOTH
-Case 547: bund:01A,01P identical in BOTH
-Case 548: bus:04P identical in BOTH
-Case 549: bust:10A,10P identical in BOTH
-Case 550: byus:04P identical in BOTH
-Case 551: brU:02A,02P identical in BOTH
-Case 552: brUs:10A,10P identical in BOTH
-Case 553: blI:09P identical in BOTH
-Case 554: Bakz:01A,01P,10A,10P identical in BOTH
-Case 555: BaR:01P identical in BOTH
-Case 556: BaRq:01A,10A,10P identical in BOTH
-Case 557: Band:01A identical in BOTH
-Case 558: Barb:01P identical in BOTH
-Case 559: BarB:01P identical in BOTH
-Case 560: Barv:01P identical in BOTH
-Case 561: Bal:01A,10A identical in BOTH
-Case 562: Ball:01A identical in BOTH
-Case 563: BA:02P identical in BOTH
-Case 564: BAm:01A,10A,10P identical in BOTH
-Case 565: Bfj:01A identical in BOTH
-Case 566: Bfq:06P identical in BOTH
-Case 567: BF:09P identical in BOTH
-Case 568: Bez:01A,01P identical in BOTH
-Case 569: Byas:01A identical in BOTH
-Case 570: BraMs:01A identical in BOTH
-Case 571: Brakz:01A,01P identical in BOTH
-Case 572: Brajj:06A,06P identical in BOTH
-Case 573: BraR:01P identical in BOTH
-Case 574: Bram:01P,04P identical in BOTH
-Case 575: BrI:09P identical in BOTH
-Case 576: BrUR:10A identical in BOTH
-Case 577: Brej:01A identical in BOTH
-Case 578: Brez:01A,01P identical in BOTH
-Case 579: Blakz:01A,01P identical in BOTH
-Case 580: Blez:01A,01P identical in BOTH
-Case 581: maMh:01A,10A,10P identical in BOTH
-Case 582: maK:01P identical in BOTH
-Case 583: maNk:01A identical in BOTH
-Case 584: maNK:01P identical in BOTH
-Case 585: maNG:01A,01P identical in BOTH
-Case 586: mac:01A identical in BOTH
-Case 587: maYc:01A identical in BOTH
-Case 588: maW:01P identical in BOTH
-Case 589: maR:01P identical in BOTH
-Case 590: maRW:01A identical in BOTH
-Case 591: man:04A,08A identical in BOTH
-Case 592: mantr:10A identical in BOTH
-Case 593: maBr:01P identical in BOTH
-Case 594: may:01A identical in BOTH
-Case 595: marc:10A,10P identical in BOTH
-Case 596: marb:01P identical in BOTH
-Case 597: marv:01P identical in BOTH
-Case 598: mall:01A identical in BOTH
-Case 599: mav:01P identical in BOTH
-Case 600: mavy:01P identical in BOTH
-Case 601: maS:01P identical in BOTH
-Case 602: maz:01P identical in BOTH
-Case 603: mas:04P identical in BOTH
-Case 604: mask:01A identical in BOTH
-Case 605: mah:01P,10A,10P identical in BOTH
-Case 606: mANkz:01P identical in BOTH
-Case 607: mArj:10A,10P identical in BOTH
-Case 608: mAh:01A,01P identical in BOTH
-Case 609: mi:05A,05P identical in BOTH
-Case 610: miC:06P identical in BOTH
-Case 611: miYj:10A,10P identical in BOTH
-Case 612: miT:01A,01P identical in BOTH
-Case 613: miD:01A,01P identical in BOTH
-Case 614: minv:01P identical in BOTH
-Case 615: mil:06A,06P identical in BOTH
-Case 616: miS:01P identical in BOTH
-Case 617: miSr:10A,10P identical in BOTH
-Case 618: miz:01P,06P identical in BOTH
-Case 619: mIm:01P identical in BOTH
-Case 620: mIv:01P identical in BOTH
-Case 621: muq:01P identical in BOTH
-Case 622: muR:06P identical in BOTH
-Case 623: muRW:01A identical in BOTH
-Case 624: muRq:01A,01P identical in BOTH
-Case 625: mur:06P identical in BOTH
-Case 626: murC:01P identical in BOTH
-Case 627: murv:01P identical in BOTH
-Case 628: mus:04P identical in BOTH
-Case 629: must:10A,10P identical in BOTH
-Case 630: mUz:01P identical in BOTH
-Case 631: mfR:06P identical in BOTH
-Case 632: mF:09P identical in BOTH
-Case 633: meT:01A,01P identical in BOTH
-Case 634: med:01A,01P identical in BOTH
-Case 635: meD:01A,01P identical in BOTH
-Case 636: mev:01A identical in BOTH
-Case 637: mnA:01P identical in BOTH
-Case 638: mrakz:01P,10A,10P identical in BOTH
-Case 639: mrad:01A identical in BOTH
-Case 640: mruc:01P identical in BOTH
-Case 641: mruYc:01P identical in BOTH
-Case 642: mrew:01P identical in BOTH
-Case 643: mreq:01P identical in BOTH
-Case 644: mluc:01P identical in BOTH
-Case 645: mluYc:01P identical in BOTH
-Case 646: mleC:01P,10A,10P identical in BOTH
-Case 647: mlew:01P identical in BOTH
-Case 648: mlev:01A identical in BOTH
-Case 649: mlE:01P identical in BOTH
-Case 650: yaj:01A,01P identical in BOTH
-Case 651: yas:04P identical in BOTH
-Case 652: yA:02P identical in BOTH
-Case 653: yAc:01A,01P identical in BOTH
-Case 654: yuNg:01P identical in BOTH
-Case 655: yuC:01P identical in BOTH
-Case 656: yut:01A identical in BOTH
-Case 657: yup:04P identical in BOTH
-Case 658: yUz:01P identical in BOTH
-Case 659: yOw:01P identical in BOTH
-Case 660: rak:10A,10P identical in BOTH
-Case 661: raK:01P identical in BOTH
-Case 662: rag:01P,10A,10P identical in BOTH
-Case 663: raG:10A,10P identical in BOTH
-Case 664: raNK:01P identical in BOTH
-Case 665: raNG:01A,10A,10P identical in BOTH
-Case 666: rac:10A,10P identical in BOTH
-Case 667: raYj:01A,01P,04A,04P identical in BOTH
-Case 668: raW:01P identical in BOTH
-Case 669: raRv:01P identical in BOTH
-Case 670: raD:04P identical in BOTH
-Case 671: rap:01P identical in BOTH
-Case 672: raP:01P identical in BOTH
-Case 673: raB:01A identical in BOTH
-Case 674: ramP:01P identical in BOTH
-Case 675: ramB:01A identical in BOTH
-Case 676: ray:01A identical in BOTH
-Case 677: rah:01P,10A,10P identical in BOTH
-Case 678: rAK:01P identical in BOTH
-Case 679: rAG:01A identical in BOTH
-Case 680: rAj:01A,01P identical in BOTH
-Case 681: rAD:04P,05P identical in BOTH
-Case 682: riNK:01P identical in BOTH
-Case 683: riNg:01P identical in BOTH
-Case 684: riRv:01P identical in BOTH
-Case 685: riP:06P identical in BOTH
-Case 686: riS:06P identical in BOTH
-Case 687: riz:01P,04P identical in BOTH
-Case 688: ruw:01A,10A,10P identical in BOTH
-Case 689: ruRw:01P identical in BOTH
-Case 690: ruRW:01P identical in BOTH
-Case 691: ruRq:01P identical in BOTH
-Case 692: rud:02P identical in BOTH
-Case 693: rup:04P identical in BOTH
-Case 694: ruS:06P identical in BOTH
-Case 695: ruz:01P,04P,10A,10P identical in BOTH
-Case 696: ruh:01P identical in BOTH
-Case 697: rUkz:10A,10P identical in BOTH
-Case 698: rUp:10A,10P identical in BOTH
-Case 699: rek:01A identical in BOTH
-Case 700: rew:01A,01P identical in BOTH
-Case 701: rep:01A identical in BOTH
-Case 702: rev:01A identical in BOTH
-Case 703: rez:01A identical in BOTH
-Case 704: rE:01P identical in BOTH
-Case 705: roq:01P identical in BOTH
-Case 706: rOq:01P identical in BOTH
-Case 707: laK:01P identical in BOTH
-Case 708: lag:01P,10A,10P identical in BOTH
-Case 709: laNg:01P identical in BOTH
-Case 710: laNG:01A,01P,10A,10P identical in BOTH
-Case 711: laC:01P identical in BOTH
-Case 712: laYj:01P,10A,10P identical in BOTH
-Case 713: law:01P identical in BOTH
-Case 714: laq:01P,10A,10P identical in BOTH
-Case 715: laRq:10A,10P identical in BOTH
-Case 716: lap:01P identical in BOTH
-Case 717: laB:01A identical in BOTH
-Case 718: lamb:01A identical in BOTH
-Case 719: lamB:01A identical in BOTH
-Case 720: lay:01A identical in BOTH
-Case 721: larb:01P identical in BOTH
-Case 722: las:01P,10A,10P identical in BOTH
-Case 723: lA:02P identical in BOTH
-Case 724: lAK:01P identical in BOTH
-Case 725: lAG:01A identical in BOTH
-Case 726: lAj:01P identical in BOTH
-Case 727: lAYC:01P identical in BOTH
-Case 728: lAYj:01P identical in BOTH
-Case 729: lAB:10A,10P identical in BOTH
-Case 730: liNK:01P identical in BOTH
-Case 731: liNg:01P,10A,10P identical in BOTH
-Case 732: liS:04A,06P identical in BOTH
-Case 733: lih:02A,02P identical in BOTH
-Case 734: luYc:01P identical in BOTH
-Case 735: luYj:10A,10P identical in BOTH
-Case 736: luq:01P,06P identical in BOTH
-Case 737: luRw:01P,10A,10P identical in BOTH
-Case 738: luRW:01P,10A,10P identical in BOTH
-Case 739: lunT:01P identical in BOTH
-Case 740: luB:04P,06P identical in BOTH
-Case 741: lumb:01P,10A,10P identical in BOTH
-Case 742: lU:09A,09P identical in BOTH
-Case 743: lUz:01P,10A,10P identical in BOTH
-Case 744: lep:01A identical in BOTH
-Case 745: lok:01A,10A,10P identical in BOTH
-Case 746: loc:01A,10A,10P identical in BOTH
-Case 747: loq:01P identical in BOTH
-Case 748: lozw:01A identical in BOTH
-Case 749: vakz:01P identical in BOTH
-Case 750: vaK:01P identical in BOTH
-Case 751: vaNk:01A identical in BOTH
-Case 752: vaNK:01P identical in BOTH
-Case 753: vaNg:01P identical in BOTH
-Case 754: vaNG:01A identical in BOTH
-Case 755: vaw:01P,10A,10P identical in BOTH
-Case 756: vaW:01P identical in BOTH
-Case 757: vaR:01P identical in BOTH
-Case 758: vaRw:01P,10A,10P identical in BOTH
-Case 759: vaRW:01A identical in BOTH
-Case 760: vaRq:01A,10A,10P identical in BOTH
-Case 761: vand:01A identical in BOTH
-Case 762: vap:01A,01P identical in BOTH
-Case 763: vaBr:01P identical in BOTH
-Case 764: vam:01P identical in BOTH
-Case 765: varc:01A identical in BOTH
-Case 766: varR:10A,10P identical in BOTH
-Case 767: varD:10A,10P identical in BOTH
-Case 768: varh:01A,10A,10P identical in BOTH
-Case 769: valk:10A,10P identical in BOTH
-Case 770: valB:01A identical in BOTH
-Case 771: vaz:01P identical in BOTH
-Case 772: vask:01A identical in BOTH
-Case 773: vast:10A identical in BOTH
-Case 774: vah:01A,01P identical in BOTH
-Case 775: vA:02P identical in BOTH
-Case 776: vANkz:01P identical in BOTH
-Case 777: vAYC:01P identical in BOTH
-Case 778: vAq:01A identical in BOTH
-Case 779: vAt:10A,10P identical in BOTH
-Case 780: vAvft:04A identical in BOTH
-Case 781: vAS:04A identical in BOTH
-Case 782: vAs:10A,10P identical in BOTH
-Case 783: viw:01P identical in BOTH
-Case 784: viT:01A identical in BOTH
-Case 785: vizk:10A,10P identical in BOTH
-Case 786: vIr:10A identical in BOTH
-Case 787: vuNg:01P identical in BOTH
-Case 788: vfMh:09P,10A,10P identical in BOTH
-Case 789: vfk:01A identical in BOTH
-Case 790: vfkz:01A identical in BOTH
-Case 791: vfS:04P identical in BOTH
-Case 792: vfh:06P identical in BOTH
-Case 793: vF:09A,09P identical in BOTH
-Case 794: ve:01A,01P identical in BOTH
-Case 795: veR:01A,01P identical in BOTH
-Case 796: veT:01A identical in BOTH
-Case 797: vep:01A identical in BOTH
-Case 798: vel:01P,10A,10P identical in BOTH
-Case 799: vell:01P identical in BOTH
-Case 800: vevI:02A identical in BOTH
-Case 801: vezw:01A identical in BOTH
-Case 802: ves:01P identical in BOTH
-Case 803: vehl:01P identical in BOTH
-Case 804: vyaT:01A identical in BOTH
-Case 805: vyap:10A,10P identical in BOTH
-Case 806: vyay:01A,01P,10A,10P identical in BOTH
-Case 807: vye:01A,01P identical in BOTH
-Case 808: vraj:01P,10A,10P identical in BOTH
-Case 809: vraR:01P,10A,10P identical in BOTH
-Case 810: vraSc:06P identical in BOTH
-Case 811: vrI:04A,09P identical in BOTH
-Case 812: vruq:06P identical in BOTH
-Case 813: vlI:09P identical in BOTH
-Case 814: Sac:01A identical in BOTH
-Case 815: SaW:01P,10A,10P identical in BOTH
-Case 816: SaRq:01A identical in BOTH
-Case 817: Sap:01A,01P,04A,04P identical in BOTH
-Case 818: Sabd:10A,10P identical in BOTH
-Case 819: Sarb:01P identical in BOTH
-Case 820: Sarv:01P identical in BOTH
-Case 821: SalB:01A identical in BOTH
-Case 822: Sav:01P identical in BOTH
-Case 823: SaS:01P identical in BOTH
-Case 824: Saz:01P identical in BOTH
-Case 825: Sas:01P identical in BOTH
-Case 826: SAK:01P identical in BOTH
-Case 827: SAq:01A identical in BOTH
-Case 828: SAn:01A,01P identical in BOTH
-Case 829: SAntv:10A,10P identical in BOTH
-Case 830: SAs:02P identical in BOTH
-Case 831: SiNK:01P identical in BOTH
-Case 832: SiNG:01P identical in BOTH
-Case 833: Siw:01P identical in BOTH
-Case 834: Sil:06P identical in BOTH
-Case 835: SIk:01A,10A,10P identical in BOTH
-Case 836: SIB:01A identical in BOTH
-Case 837: SIl:01P,10A,10P identical in BOTH
-Case 838: Suk:01P identical in BOTH
-Case 839: Suc:01P,04A,04P identical in BOTH
-Case 840: Sucy:01P identical in BOTH
-Case 841: SuW:01P,10A,10P identical in BOTH
-Case 842: SuRW:01P,10A,10P identical in BOTH
-Case 843: Sun:06P identical in BOTH
-Case 844: Sulk:10A,10P identical in BOTH
-Case 845: Sulb:10A,10P identical in BOTH
-Case 846: SUr:04A,10A identical in BOTH
-Case 847: SUrp:10A,10P identical in BOTH
-Case 848: SUz:01P identical in BOTH
-Case 849: Sel:01P identical in BOTH
-Case 850: Sev:01A identical in BOTH
-Case 851: SE:01P identical in BOTH
-Case 852: SoR:01P identical in BOTH
-Case 853: SOw:01P identical in BOTH
-Case 854: Scut:01P identical in BOTH
-Case 855: Scyut:01P identical in BOTH
-Case 856: SnaT:01P identical in BOTH
-Case 857: SmIl:01P identical in BOTH
-Case 858: SraNk:01A identical in BOTH
-Case 859: SraNg:01P identical in BOTH
-Case 860: SraR:01P,10A,10P identical in BOTH
-Case 861: Sram:04P identical in BOTH
-Case 862: SramB:01A identical in BOTH
-Case 863: Sri:01A,01P identical in BOTH
-Case 864: Sriz:01P identical in BOTH
-Case 865: SrI:09A,09P identical in BOTH
-Case 866: SroR:01P identical in BOTH
-Case 867: SlaNk:01A identical in BOTH
-Case 868: SlaNg:01P identical in BOTH
-Case 869: SlaT:01P identical in BOTH
-Case 870: SlAK:01P identical in BOTH
-Case 871: SlAG:01A identical in BOTH
-Case 872: Slok:01A identical in BOTH
-Case 873: SloR:01P identical in BOTH
-Case 874: SvaNk:01A identical in BOTH
-Case 875: Svac:01A identical in BOTH
-Case 876: SvaYc:01A identical in BOTH
-Case 877: SvaW:10A,10P identical in BOTH
-Case 878: SvaRW:10A,10P identical in BOTH
-Case 879: SvaBr:10A,10P identical in BOTH
-Case 880: Svart:10A,10P identical in BOTH
-Case 881: Sval:01P identical in BOTH
-Case 882: Svalk:10A,10P identical in BOTH
-Case 883: Svall:01P identical in BOTH
-Case 884: Svas:02P identical in BOTH
-Case 885: Svi:01P identical in BOTH
-Case 886: Svit:01A identical in BOTH
-Case 887: Svind:01A identical in BOTH
-Case 888: zWiv:01P,04P identical in BOTH
-Case 889: saMst:02P identical in BOTH
-Case 890: sag:01P identical in BOTH
-Case 891: sac:01A,01P identical in BOTH
-Case 892: saww:10A,10P identical in BOTH
-Case 893: satr:10A identical in BOTH
-Case 894: sad:01P,06P identical in BOTH
-Case 895: san:01P,08A,08P identical in BOTH
-Case 896: saBAj:10A,10P identical in BOTH
-Case 897: samb:10A,10P identical in BOTH
-Case 898: sarj:01P identical in BOTH
-Case 899: sarb:01P identical in BOTH
-Case 900: sarv:01P identical in BOTH
-Case 901: sal:01P identical in BOTH
-Case 902: sas:02P identical in BOTH
-Case 903: sAntv:10A,10P identical in BOTH
-Case 904: sAmb:10A,10P identical in BOTH
-Case 905: si:05A,05P,09A,09P identical in BOTH
-Case 906: sic:06A,06P identical in BOTH
-Case 907: siw:01P identical in BOTH
-Case 908: siD:01P,04P identical in BOTH
-Case 909: siB:01P identical in BOTH
-Case 910: simB:01P identical in BOTH
-Case 911: sil:06P identical in BOTH
-Case 912: siv:04P identical in BOTH
-Case 913: sIk:01A identical in BOTH
-Case 914: suww:10A,10P identical in BOTH
-Case 915: suh:04P identical in BOTH
-Case 916: sUc:10A,10P identical in BOTH
-Case 917: sUtr:10A,10P identical in BOTH
-Case 918: sUd:01A,10A,10P identical in BOTH
-Case 919: sUrkz:01P identical in BOTH
-Case 920: sUrkzy:01P identical in BOTH
-Case 921: sUz:01P identical in BOTH
-Case 922: sfp:01P identical in BOTH
-Case 923: sfB:01P identical in BOTH
-Case 924: sfmB:01P identical in BOTH
-Case 925: sek:01A identical in BOTH
-Case 926: sel:01P identical in BOTH
-Case 927: sev:01A identical in BOTH
-Case 928: sE:01P identical in BOTH
-Case 929: so:04P identical in BOTH
-Case 930: skund:01A identical in BOTH
-Case 931: sKad:01A identical in BOTH
-Case 932: sKal:01P identical in BOTH
-Case 933: stak:01P identical in BOTH
-Case 934: stip:01A identical in BOTH
-Case 935: stim:04P identical in BOTH
-Case 936: stu:02A,02P identical in BOTH
-Case 937: stuc:01A identical in BOTH
-Case 938: stUp:04P,10A,10P identical in BOTH
-Case 939: stfkz:01P identical in BOTH
-Case 940: stfh:06P identical in BOTH
-Case 941: sten:10A,10P identical in BOTH
-Case 942: stE:01P identical in BOTH
-Case 943: sTag:01P identical in BOTH
-Case 944: sTuq:06P identical in BOTH
-Case 945: sTUl:10A identical in BOTH
-Case 946: snas:04P identical in BOTH
-Case 947: snu:02P identical in BOTH
-Case 948: snus:04P identical in BOTH
-Case 949: snuh:04P identical in BOTH
-Case 950: snE:01P identical in BOTH
-Case 951: spand:01A identical in BOTH
-Case 952: spaS:01A,01P,10A identical in BOTH
-Case 953: spf:05P identical in BOTH
-Case 954: spfS:06P identical in BOTH
-Case 955: spfh:10A,10P identical in BOTH
-Case 956: sPar:06P identical in BOTH
-Case 957: sPAy:01A identical in BOTH
-Case 958: sPiw:10A,10P identical in BOTH
-Case 959: sPiww:10A,10P identical in BOTH
-Case 960: sPuq:06P identical in BOTH
-Case 961: sPuRw:01P,10A,10P identical in BOTH
-Case 962: sPuRq:01A,10A,10P identical in BOTH
-Case 963: sPur:06P identical in BOTH
-Case 964: sPurC:01P identical in BOTH
-Case 965: sPul:06P identical in BOTH
-Case 966: sPUrj:01P identical in BOTH
-Case 967: smiw:10A,10P identical in BOTH
-Case 968: smIl:01P identical in BOTH
-Case 969: syam:01P,10A identical in BOTH
-Case 970: sraNk:01A identical in BOTH
-Case 971: sramB:01A identical in BOTH
-Case 972: sriv:04P identical in BOTH
-Case 973: sru:01P identical in BOTH
-Case 974: srek:01A identical in BOTH
-Case 975: srE:01P identical in BOTH
-Case 976: svaYj:01A identical in BOTH
-Case 977: svan:01P identical in BOTH
-Case 978: svap:02P identical in BOTH
-Case 979: svart:10A,10P identical in BOTH
-Case 980: svard:01A identical in BOTH
-Case 981: svf:01P identical in BOTH
-Case 982: haw:01P identical in BOTH
-Case 983: haW:01P identical in BOTH
-Case 984: hamm:01P identical in BOTH
-Case 985: hay:01P identical in BOTH
-Case 986: hal:01P identical in BOTH
-Case 987: has:01P identical in BOTH
-Case 988: hikk:01A,01P identical in BOTH
-Case 989: hiw:01P identical in BOTH
-Case 990: hiRq:01A identical in BOTH
-Case 991: hinv:01P identical in BOTH
-Case 992: hil:06P identical in BOTH
-Case 993: hizk:10A identical in BOTH
-Case 994: huq:01P,06P identical in BOTH
-Case 995: huRq:01A identical in BOTH
-Case 996: hurC:01P identical in BOTH
-Case 997: hul:01P identical in BOTH
-Case 998: hUq:01P identical in BOTH
-Case 999: heW:01A,01P,09P identical in BOTH
-Case 1000: heq:01A,01P identical in BOTH
-Case 1001: heQ:09P identical in BOTH
-Case 1002: hez:01A identical in BOTH
-Case 1003: hnu:02A identical in BOTH
-Case 1004: hmal:01P identical in BOTH
-Case 1005: hrag:01P identical in BOTH
-Case 1006: hrap:10A,10P identical in BOTH
-Case 1007: hrAd:01A identical in BOTH
-Case 1008: hrI:03P identical in BOTH
-Case 1009: hrIC:01P identical in BOTH
-Case 1010: hlap:10A,10P identical in BOTH
-Case 1011: hlas:01P identical in BOTH
-Case 1012: hlAd:01A identical in BOTH
-Case 1013: hval:01P identical in BOTH
-Case 1014: hve:01A,01P identical in BOTH
+Case 40: il:06P,10A,10P identical in BOTH
+Case 41: I:04A identical in BOTH
+Case 42: Ikz:01A identical in BOTH
+Case 43: IK:01P identical in BOTH
+Case 44: INK:01P identical in BOTH
+Case 45: Irkzy:01P identical in BOTH
+Case 46: Irzy:01P identical in BOTH
+Case 47: IS:02A identical in BOTH
+Case 48: Iz:01A,01P identical in BOTH
+Case 49: uK:01P identical in BOTH
+Case 50: ujJ:06P identical in BOTH
+Case 51: uYC:01P,06P identical in BOTH
+Case 52: ubj:06P identical in BOTH
+Case 53: umB:06P identical in BOTH
+Case 54: urd:01A identical in BOTH
+Case 55: urv:01P identical in BOTH
+Case 56: uh:01P identical in BOTH
+Case 57: Uy:01A identical in BOTH
+Case 58: Urj:10A,10P identical in BOTH
+Case 59: UrRu:02A,02P identical in BOTH
+Case 60: Uz:01P identical in BOTH
+Case 61: fc:06P identical in BOTH
+Case 62: fC:06P identical in BOTH
+Case 63: fR:08A,08P identical in BOTH
+Case 64: fP:06P identical in BOTH
+Case 65: fmP:06P identical in BOTH
+Case 66: F:09P identical in BOTH
+Case 67: ej:01A,01P identical in BOTH
+Case 68: eW:01A identical in BOTH
+Case 69: oK:01P identical in BOTH
+Case 70: oR:01P identical in BOTH
+Case 71: kaMs:02A identical in BOTH
+Case 72: kak:01A identical in BOTH
+Case 73: kaK:01P identical in BOTH
+Case 74: kag:01P identical in BOTH
+Case 75: kaNk:01A identical in BOTH
+Case 76: kaj:01P identical in BOTH
+Case 77: kaYc:01A identical in BOTH
+Case 78: kaw:01P identical in BOTH
+Case 79: kaW:01P identical in BOTH
+Case 80: kaq:01P,06P identical in BOTH
+Case 81: kaqq:01P identical in BOTH
+Case 82: kaR:01P,10A,10P identical in BOTH
+Case 83: kaRq:01A,01P,10A,10P identical in BOTH
+Case 84: katT:01A identical in BOTH
+Case 85: katr:10A,10P identical in BOTH
+Case 86: kaT:10A,10P identical in BOTH
+Case 87: kad:01A identical in BOTH
+Case 88: kand:01A,01P identical in BOTH
+Case 89: kab:01A identical in BOTH
+Case 90: karj:01P identical in BOTH
+Case 91: karR:10A,10P identical in BOTH
+Case 92: kart:10A,10P identical in BOTH
+Case 93: kard:01P identical in BOTH
+Case 94: karb:01P identical in BOTH
+Case 95: karv:01P identical in BOTH
+Case 96: kal:01A,10A,10P identical in BOTH
+Case 97: kall:01A identical in BOTH
+Case 98: kAYc:01A identical in BOTH
+Case 99: ki:03P identical in BOTH
+Case 100: kiw:01P identical in BOTH
+Case 101: kIw:10A,10P identical in BOTH
+Case 102: kIl:01P identical in BOTH
+Case 103: ku:01A,02P,06A identical in BOTH
+Case 104: kuk:01A identical in BOTH
+Case 105: kuc:01P,06P identical in BOTH
+Case 106: kuYc:01P identical in BOTH
+Case 107: kuYj:01P identical in BOTH
+Case 108: kuww:10A,10P identical in BOTH
+Case 109: kuq:06P identical in BOTH
+Case 110: kuR:06P,10A,10P identical in BOTH
+Case 111: kuRw:01P identical in BOTH
+Case 112: kuRW:01P,10A,10P identical in BOTH
+Case 113: kuRq:01A,01P,10A,10P identical in BOTH
+Case 114: kuT:04P identical in BOTH
+Case 115: kud:10A,10P identical in BOTH
+Case 116: kunT:01P,09P identical in BOTH
+Case 117: kundr:10A,10P identical in BOTH
+Case 118: kumB:10A,10P identical in BOTH
+Case 119: kur:06P identical in BOTH
+Case 120: kurd:01A identical in BOTH
+Case 121: kul:01P identical in BOTH
+Case 122: kuS:04P identical in BOTH
+Case 123: kus:04P identical in BOTH
+Case 124: kuh:10A identical in BOTH
+Case 125: kUj:01P identical in BOTH
+Case 126: kUw:10A,10P identical in BOTH
+Case 127: kUl:01P identical in BOTH
+Case 128: kfq:06P identical in BOTH
+Case 129: kfS:04P identical in BOTH
+Case 130: kFt:10A,10P identical in BOTH
+Case 131: kep:01A identical in BOTH
+Case 132: kel:01P identical in BOTH
+Case 133: kev:01A identical in BOTH
+Case 134: kE:01P identical in BOTH
+Case 135: knaT:01P identical in BOTH
+Case 136: knas:04P identical in BOTH
+Case 137: knU:09A,09P identical in BOTH
+Case 138: kmar:01P identical in BOTH
+Case 139: kraT:01P identical in BOTH
+Case 140: krad:01A identical in BOTH
+Case 141: krand:01A,01P identical in BOTH
+Case 142: krap:01A identical in BOTH
+Case 143: krI:09A,09P identical in BOTH
+Case 144: kruYc:01P identical in BOTH
+Case 145: klaT:01P identical in BOTH
+Case 146: kland:01A,01P identical in BOTH
+Case 147: klap:10A,10P identical in BOTH
+Case 148: klind:01A,01P identical in BOTH
+Case 149: klu:01A identical in BOTH
+Case 150: kleS:01A identical in BOTH
+Case 151: kvaR:01P identical in BOTH
+Case 152: kzaR:08A,08P identical in BOTH
+Case 153: kzal:10A,10P identical in BOTH
+Case 154: kziR:08A,08P identical in BOTH
+Case 155: kzI:05P identical in BOTH
+Case 156: kzIj:01P identical in BOTH
+Case 157: kzIv:01A identical in BOTH
+Case 158: kzu:02P identical in BOTH
+Case 159: kzuD:04P identical in BOTH
+Case 160: kzev:01P identical in BOTH
+Case 161: kzE:01P identical in BOTH
+Case 162: kzow:10A,10P identical in BOTH
+Case 163: kzRu:02P identical in BOTH
+Case 164: kzmIl:01P identical in BOTH
+Case 165: kzvid:01P,04A identical in BOTH
+Case 166: kzvel:01P identical in BOTH
+Case 167: Kaj:01P identical in BOTH
+Case 168: KaYj:01P identical in BOTH
+Case 169: Kaw:01P identical in BOTH
+Case 170: Kaww:10A,10P identical in BOTH
+Case 171: Kaq:10A,10P identical in BOTH
+Case 172: KaRq:01A,10A,10P identical in BOTH
+Case 173: Kan:01A,01P identical in BOTH
+Case 174: Karj:01P identical in BOTH
+Case 175: Kard:01P identical in BOTH
+Case 176: Karb:01P identical in BOTH
+Case 177: Karv:01P identical in BOTH
+Case 178: Kal:01P identical in BOTH
+Case 179: Kav:09P identical in BOTH
+Case 180: Kaz:01P identical in BOTH
+Case 181: Kiw:01P identical in BOTH
+Case 182: Ku:01A identical in BOTH
+Case 183: Kuj:01P identical in BOTH
+Case 184: Kur:06P identical in BOTH
+Case 185: Kurd:01A identical in BOTH
+Case 186: Kew:10A,10P identical in BOTH
+Case 187: Keq:10A,10P identical in BOTH
+Case 188: Kel:01P identical in BOTH
+Case 189: Kev:01A identical in BOTH
+Case 190: KE:01P identical in BOTH
+Case 191: Kor:01P identical in BOTH
+Case 192: Kol:01P identical in BOTH
+Case 193: gaj:01P,10A,10P identical in BOTH
+Case 194: gaYj:01P identical in BOTH
+Case 195: gaR:10A,10P identical in BOTH
+Case 196: gaRq:01P identical in BOTH
+Case 197: gad:01P,10A,10P identical in BOTH
+Case 198: ganD:10A identical in BOTH
+Case 199: gard:01P,10A,10P identical in BOTH
+Case 200: garb:01P identical in BOTH
+Case 201: garv:01P,10A identical in BOTH
+Case 202: garh:01A,10A,10P identical in BOTH
+Case 203: galB:01A identical in BOTH
+Case 204: galh:01A identical in BOTH
+Case 205: gAD:01A identical in BOTH
+Case 206: guj:01P,06P identical in BOTH
+Case 207: guYj:01P identical in BOTH
+Case 208: guq:06P identical in BOTH
+Case 209: guRW:10A,10P identical in BOTH
+Case 210: guRq:10A,10P identical in BOTH
+Case 211: gud:01A identical in BOTH
+Case 212: guP:06P identical in BOTH
+Case 213: gumP:06P identical in BOTH
+Case 214: gurd:01A,10A,10P identical in BOTH
+Case 215: gurv:01P identical in BOTH
+Case 216: guh:01A,01P identical in BOTH
+Case 217: gUr:04A,10A identical in BOTH
+Case 218: gf:01P identical in BOTH
+Case 219: gfj:01P identical in BOTH
+Case 220: gep:01A identical in BOTH
+Case 221: gev:01A identical in BOTH
+Case 222: gez:01A identical in BOTH
+Case 223: grah:09A,09P identical in BOTH
+Case 224: gruc:01P identical in BOTH
+Case 225: glas:01A identical in BOTH
+Case 226: gluc:01P identical in BOTH
+Case 227: gluYc:01P identical in BOTH
+Case 228: glep:01A identical in BOTH
+Case 229: glev:01A identical in BOTH
+Case 230: glez:01A identical in BOTH
+Case 231: GagG:01P identical in BOTH
+Case 232: GaG:01P identical in BOTH
+Case 233: Gaww:01A,10A,10P identical in BOTH
+Case 234: Gas:01P identical in BOTH
+Case 235: GiRR:01A identical in BOTH
+Case 236: Gu:01A identical in BOTH
+Case 237: Guw:01A,06P identical in BOTH
+Case 238: GuR:01A,06P identical in BOTH
+Case 239: GuRR:01A identical in BOTH
+Case 240: GUr:04A identical in BOTH
+Case 241: GfR:08A,08P identical in BOTH
+Case 242: GfRR:01A identical in BOTH
+Case 243: Nu:01A identical in BOTH
+Case 244: cak:01A,01P identical in BOTH
+Case 245: cakk:10A,10P identical in BOTH
+Case 246: caYc:01P identical in BOTH
+Case 247: caR:01P identical in BOTH
+Case 248: caRq:01A,10A,10P identical in BOTH
+Case 249: cat:01A,01P identical in BOTH
+Case 250: cad:01A,01P identical in BOTH
+Case 251: cand:01P identical in BOTH
+Case 252: cap:01P,10A,10P identical in BOTH
+Case 253: cam:01P,05P identical in BOTH
+Case 254: camp:10A,10P identical in BOTH
+Case 255: cay:01A identical in BOTH
+Case 256: carb:01P identical in BOTH
+Case 257: caz:01A,01P identical in BOTH
+Case 258: cah:01P,10A,10P identical in BOTH
+Case 259: ciw:01P identical in BOTH
+Case 260: ciri:05P identical in BOTH
+Case 261: cil:06P identical in BOTH
+Case 262: cill:01P identical in BOTH
+Case 263: cIb:01A,01P identical in BOTH
+Case 264: cIB:01A identical in BOTH
+Case 265: cIv:01A,01P,10A,10P identical in BOTH
+Case 266: cukk:10A,10P identical in BOTH
+Case 267: cucy:01P identical in BOTH
+Case 268: cuww:10A,10P identical in BOTH
+Case 269: cuq:06P identical in BOTH
+Case 270: cuqq:01P identical in BOTH
+Case 271: cul:10A,10P identical in BOTH
+Case 272: cull:01P identical in BOTH
+Case 273: cUrR:10A,10P identical in BOTH
+Case 274: cUz:01P identical in BOTH
+Case 275: cel:01P identical in BOTH
+Case 276: cezw:01A identical in BOTH
+Case 277: cyut:01P identical in BOTH
+Case 278: Cam:01P identical in BOTH
+Case 279: Caz:01A,01P identical in BOTH
+Case 280: Cuq:06P identical in BOTH
+Case 281: Cup:06P identical in BOTH
+Case 282: Cur:06P identical in BOTH
+Case 283: Co:04P identical in BOTH
+Case 284: jaj:01P identical in BOTH
+Case 285: jaYj:01P identical in BOTH
+Case 286: jaw:01P identical in BOTH
+Case 287: jaB:01A identical in BOTH
+Case 288: jam:01P identical in BOTH
+Case 289: jarts:01P identical in BOTH
+Case 290: jal:01P,10A,10P identical in BOTH
+Case 291: jim:01P identical in BOTH
+Case 292: jiri:05P identical in BOTH
+Case 293: jiz:01P identical in BOTH
+Case 294: ju:01A,01P identical in BOTH
+Case 295: juNg:01P identical in BOTH
+Case 296: juw:06P identical in BOTH
+Case 297: juq:06A,06P,10A,10P identical in BOTH
+Case 298: jut:01A identical in BOTH
+Case 299: jun:06P identical in BOTH
+Case 300: jUr:04A identical in BOTH
+Case 301: jUz:01P identical in BOTH
+Case 302: jez:01A identical in BOTH
+Case 303: jeh:01A identical in BOTH
+Case 304: jE:01P identical in BOTH
+Case 305: jyu:01A identical in BOTH
+Case 306: jvar:01P identical in BOTH
+Case 307: Jaw:01P identical in BOTH
+Case 308: Jam:01P identical in BOTH
+Case 309: JF:04P,09P identical in BOTH
+Case 310: waNk:10A,10P identical in BOTH
+Case 311: wal:01P identical in BOTH
+Case 312: wik:01A identical in BOTH
+Case 313: wval:01P identical in BOTH
+Case 314: qap:10A identical in BOTH
+Case 315: qip:04P,06P,10A,10P identical in BOTH
+Case 316: qI:01A,04A identical in BOTH
+Case 317: QOk:01A identical in BOTH
+Case 318: taNk:01P identical in BOTH
+Case 319: taNg:01P identical in BOTH
+Case 320: taYc:01P,07P identical in BOTH
+Case 321: taw:01P identical in BOTH
+Case 322: taq:10A,10P identical in BOTH
+Case 323: taRq:01A identical in BOTH
+Case 324: tay:01A identical in BOTH
+Case 325: tark:10A,10P identical in BOTH
+Case 326: tard:01P identical in BOTH
+Case 327: tas:04P identical in BOTH
+Case 328: tAy:01A identical in BOTH
+Case 329: tik:01A,05P identical in BOTH
+Case 330: tig:05P identical in BOTH
+Case 331: tim:04P identical in BOTH
+Case 332: til:01P,06P,10A,10P identical in BOTH
+Case 333: till:01P identical in BOTH
+Case 334: tIk:01A identical in BOTH
+Case 335: tIm:04P identical in BOTH
+Case 336: tIv:01P identical in BOTH
+Case 337: tu:02P identical in BOTH
+Case 338: tuw:06P identical in BOTH
+Case 339: tuq:01P,06P identical in BOTH
+Case 340: tuR:06P identical in BOTH
+Case 341: tup:01P,06P identical in BOTH
+Case 342: tuP:01P,06P identical in BOTH
+Case 343: tuB:01A,04P,09P identical in BOTH
+Case 344: tump:01P,06P identical in BOTH
+Case 345: tumP:01P,06P identical in BOTH
+Case 346: tumb:01P,10A,10P identical in BOTH
+Case 347: turv:01P identical in BOTH
+Case 348: tul:10A,10P identical in BOTH
+Case 349: tuz:04P identical in BOTH
+Case 350: tus:01P identical in BOTH
+Case 351: tuh:01P identical in BOTH
+Case 352: tUq:01P identical in BOTH
+Case 353: tUR:10A identical in BOTH
+Case 354: tUz:01P identical in BOTH
+Case 355: tfkz:01P identical in BOTH
+Case 356: tfR:08A,08P identical in BOTH
+Case 357: tfP:06P identical in BOTH
+Case 358: tfmp:06P identical in BOTH
+Case 359: tfmP:06P identical in BOTH
+Case 360: tfh:06P,07P identical in BOTH
+Case 361: tej:01P identical in BOTH
+Case 362: tep:01A identical in BOTH
+Case 363: tev:01A identical in BOTH
+Case 364: traK:01P identical in BOTH
+Case 365: traNk:01A identical in BOTH
+Case 366: traNg:01P identical in BOTH
+Case 367: trand:01P identical in BOTH
+Case 368: trap:01A identical in BOTH
+Case 369: triNK:01P identical in BOTH
+Case 370: trup:01P identical in BOTH
+Case 371: truP:01P identical in BOTH
+Case 372: trump:01P identical in BOTH
+Case 373: trumP:01P identical in BOTH
+Case 374: trE:01A identical in BOTH
+Case 375: trOk:01A identical in BOTH
+Case 376: tvakz:01P identical in BOTH
+Case 377: tvaNg:01P identical in BOTH
+Case 378: tvac:06P identical in BOTH
+Case 379: tvar:01A identical in BOTH
+Case 380: tviz:01A,01P identical in BOTH
+Case 381: tsar:01P identical in BOTH
+Case 382: Tuq:06P identical in BOTH
+Case 383: Turv:01P identical in BOTH
+Case 384: daNG:01P identical in BOTH
+Case 385: dad:01A identical in BOTH
+Case 386: daD:01A identical in BOTH
+Case 387: day:01A identical in BOTH
+Case 388: dinv:01P identical in BOTH
+Case 389: dih:02A,02P identical in BOTH
+Case 390: dIkz:01A identical in BOTH
+Case 391: dIp:04A identical in BOTH
+Case 392: durv:01P identical in BOTH
+Case 393: dul:10A,10P identical in BOTH
+Case 394: duz:04P identical in BOTH
+Case 395: df:06A identical in BOTH
+Case 396: dfP:06P identical in BOTH
+Case 397: dfmp:06P identical in BOTH
+Case 398: dfmP:06P identical in BOTH
+Case 399: dfS:01P identical in BOTH
+Case 400: de:01A identical in BOTH
+Case 401: dev:01A identical in BOTH
+Case 402: dE:01P identical in BOTH
+Case 403: dyu:02P identical in BOTH
+Case 404: dyE:01P identical in BOTH
+Case 405: dram:01P identical in BOTH
+Case 406: drAK:01P identical in BOTH
+Case 407: drAG:01A identical in BOTH
+Case 408: drANkz:01P identical in BOTH
+Case 409: drAq:01A identical in BOTH
+Case 410: drAh:01A identical in BOTH
+Case 411: druR:06P identical in BOTH
+Case 412: drek:01A identical in BOTH
+Case 413: dviz:02A,02P identical in BOTH
+Case 414: dvf:01P identical in BOTH
+Case 415: Dakk:10A,10P identical in BOTH
+Case 416: DaR:01P identical in BOTH
+Case 417: DAv:01A,01P identical in BOTH
+Case 418: Dikz:01A identical in BOTH
+Case 419: Dinv:01P identical in BOTH
+Case 420: Diz:03P identical in BOTH
+Case 421: Du:05A,05P identical in BOTH
+Case 422: Dukz:01A identical in BOTH
+Case 423: Durv:01P identical in BOTH
+Case 424: DUp:01P,10A,10P identical in BOTH
+Case 425: DUr:04A identical in BOTH
+Case 426: DUS:10A,10P identical in BOTH
+Case 427: DUz:10A,10P identical in BOTH
+Case 428: DUs:10A,10P identical in BOTH
+Case 429: Dfj:01P identical in BOTH
+Case 430: DfYj:01P identical in BOTH
+Case 431: DF:09P identical in BOTH
+Case 432: De:01P identical in BOTH
+Case 433: Dor:01P identical in BOTH
+Case 434: DmANkz:01P identical in BOTH
+Case 435: DraR:01P identical in BOTH
+Case 436: Dras:09P,10A,10P identical in BOTH
+Case 437: DrAK:01P identical in BOTH
+Case 438: DrANkz:01P identical in BOTH
+Case 439: DrAq:01A identical in BOTH
+Case 440: Drij:01P identical in BOTH
+Case 441: Dru:01P,06P identical in BOTH
+Case 442: Drek:01A identical in BOTH
+Case 443: Dvaj:01P identical in BOTH
+Case 444: DvaYj:01P identical in BOTH
+Case 445: DvaR:01P identical in BOTH
+Case 446: DvANkz:01P identical in BOTH
+Case 447: nakk:10A,10P identical in BOTH
+Case 448: naq:10A,10P identical in BOTH
+Case 449: nad:01P identical in BOTH
+Case 450: nand:01P identical in BOTH
+Case 451: nay:01A identical in BOTH
+Case 452: nard:01P identical in BOTH
+Case 453: nal:01P,10A,10P identical in BOTH
+Case 454: nas:01A identical in BOTH
+Case 455: nah:04A,04P identical in BOTH
+Case 456: nAT:01A identical in BOTH
+Case 457: nAD:01A identical in BOTH
+Case 458: nAs:01A identical in BOTH
+Case 459: niMs:02A identical in BOTH
+Case 460: nikz:01P identical in BOTH
+Case 461: niYj:02A identical in BOTH
+Case 462: nid:01A,01P identical in BOTH
+Case 463: nind:01P identical in BOTH
+Case 464: ninv:01P identical in BOTH
+Case 465: nil:06P identical in BOTH
+Case 466: niS:01P identical in BOTH
+Case 467: niz:01P identical in BOTH
+Case 468: nizk:10A identical in BOTH
+Case 469: nI:01A,01P identical in BOTH
+Case 470: nIl:01P identical in BOTH
+Case 471: nIv:01P identical in BOTH
+Case 472: nud:06A,06P identical in BOTH
+Case 473: nft:04P identical in BOTH
+Case 474: nez:01A identical in BOTH
+Case 475: pakz:01P,10A,10P identical in BOTH
+Case 476: paw:01P,10A,10P identical in BOTH
+Case 477: paW:01P identical in BOTH
+Case 478: paR:01A identical in BOTH
+Case 479: paRq:01A,10A,10P identical in BOTH
+Case 480: pan:01A identical in BOTH
+Case 481: pay:01A identical in BOTH
+Case 482: parR:10A,10P identical in BOTH
+Case 483: pard:01A identical in BOTH
+Case 484: parp:01P identical in BOTH
+Case 485: parb:01P identical in BOTH
+Case 486: parv:01P identical in BOTH
+Case 487: pall:01P identical in BOTH
+Case 488: paS:10A,10P identical in BOTH
+Case 489: pAl:10A,10P identical in BOTH
+Case 490: piYj:02A,10A,10P identical in BOTH
+Case 491: piw:01P identical in BOTH
+Case 492: piW:01P identical in BOTH
+Case 493: piRq:01A,10A,10P identical in BOTH
+Case 494: pIq:10A,10P identical in BOTH
+Case 495: pIl:01P identical in BOTH
+Case 496: puMs:10A,10P identical in BOTH
+Case 497: puw:01P,06P,10A,10P identical in BOTH
+Case 498: puww:10A,10P identical in BOTH
+Case 499: puq:01P,06P identical in BOTH
+Case 500: puRw:10A,10P identical in BOTH
+Case 501: puRq:01P identical in BOTH
+Case 502: punT:01P identical in BOTH
+Case 503: pur:06P identical in BOTH
+Case 504: pust:10A,10P identical in BOTH
+Case 505: pUl:01P,10A,10P identical in BOTH
+Case 506: pUz:01P identical in BOTH
+Case 507: pfYj:02A identical in BOTH
+Case 508: pfq:06P identical in BOTH
+Case 509: pfR:06P identical in BOTH
+Case 510: pfT:10A,10P identical in BOTH
+Case 511: pev:01A identical in BOTH
+Case 512: pez:01A identical in BOTH
+Case 513: pes:01P identical in BOTH
+Case 514: pE:01P identical in BOTH
+Case 515: pER:01P identical in BOTH
+Case 516: pyAy:01A identical in BOTH
+Case 517: pyus:04P identical in BOTH
+Case 518: pyE:01A identical in BOTH
+Case 519: pras:01A identical in BOTH
+Case 520: pru:01A identical in BOTH
+Case 521: prez:01A identical in BOTH
+Case 522: prER:01P identical in BOTH
+Case 523: proT:01A,01P identical in BOTH
+Case 524: plakz:01A,01P identical in BOTH
+Case 525: plih:01A identical in BOTH
+Case 526: plI:09P identical in BOTH
+Case 527: pluz:01P,04P,09P identical in BOTH
+Case 528: plev:01A identical in BOTH
+Case 529: psA:02P identical in BOTH
+Case 530: Pakk:01P identical in BOTH
+Case 531: PaR:01P identical in BOTH
+Case 532: Pull:01P identical in BOTH
+Case 533: Pel:01P identical in BOTH
+Case 534: baMh:01A identical in BOTH
+Case 535: baW:01P identical in BOTH
+Case 536: baR:01P identical in BOTH
+Case 537: bad:01P identical in BOTH
+Case 538: baD:01A,10A,10P identical in BOTH
+Case 539: barb:01P identical in BOTH
+Case 540: barh:01A,10A,10P identical in BOTH
+Case 541: balh:01A,10A,10P identical in BOTH
+Case 542: bAq:01A identical in BOTH
+Case 543: bAh:01A identical in BOTH
+Case 544: biw:01P identical in BOTH
+Case 545: bind:01P identical in BOTH
+Case 546: bIB:01A identical in BOTH
+Case 547: bukk:01P,10A,10P identical in BOTH
+Case 548: buNg:01P identical in BOTH
+Case 549: bund:01A,01P identical in BOTH
+Case 550: bus:04P identical in BOTH
+Case 551: bust:10A,10P identical in BOTH
+Case 552: byus:04P identical in BOTH
+Case 553: brU:02A,02P identical in BOTH
+Case 554: brUs:10A,10P identical in BOTH
+Case 555: blI:09P identical in BOTH
+Case 556: Bakz:01A,01P,10A,10P identical in BOTH
+Case 557: BaR:01P identical in BOTH
+Case 558: BaRq:01A,10A,10P identical in BOTH
+Case 559: Band:01A identical in BOTH
+Case 560: Barb:01P identical in BOTH
+Case 561: BarB:01P identical in BOTH
+Case 562: Barv:01P identical in BOTH
+Case 563: Bal:01A,10A identical in BOTH
+Case 564: Ball:01A identical in BOTH
+Case 565: BA:02P identical in BOTH
+Case 566: BAm:01A,10A,10P identical in BOTH
+Case 567: Bfj:01A identical in BOTH
+Case 568: Bfq:06P identical in BOTH
+Case 569: BF:09P identical in BOTH
+Case 570: Bez:01A,01P identical in BOTH
+Case 571: Byas:01A identical in BOTH
+Case 572: BraMs:01A identical in BOTH
+Case 573: Brakz:01A,01P identical in BOTH
+Case 574: Brajj:06A,06P identical in BOTH
+Case 575: BraR:01P identical in BOTH
+Case 576: Bram:01P,04P identical in BOTH
+Case 577: BrI:09P identical in BOTH
+Case 578: BrUR:10A identical in BOTH
+Case 579: Brej:01A identical in BOTH
+Case 580: Brez:01A,01P identical in BOTH
+Case 581: Blakz:01A,01P identical in BOTH
+Case 582: Blez:01A,01P identical in BOTH
+Case 583: maMh:01A,10A,10P identical in BOTH
+Case 584: maK:01P identical in BOTH
+Case 585: maNk:01A identical in BOTH
+Case 586: maNK:01P identical in BOTH
+Case 587: maNG:01A,01P identical in BOTH
+Case 588: mac:01A identical in BOTH
+Case 589: maYc:01A identical in BOTH
+Case 590: maW:01P identical in BOTH
+Case 591: maR:01P identical in BOTH
+Case 592: maRW:01A identical in BOTH
+Case 593: man:04A,08A identical in BOTH
+Case 594: mantr:10A identical in BOTH
+Case 595: maBr:01P identical in BOTH
+Case 596: may:01A identical in BOTH
+Case 597: marc:10A,10P identical in BOTH
+Case 598: marb:01P identical in BOTH
+Case 599: marv:01P identical in BOTH
+Case 600: mall:01A identical in BOTH
+Case 601: mav:01P identical in BOTH
+Case 602: mavy:01P identical in BOTH
+Case 603: maS:01P identical in BOTH
+Case 604: maz:01P identical in BOTH
+Case 605: mas:04P identical in BOTH
+Case 606: mask:01A identical in BOTH
+Case 607: mah:01P,10A,10P identical in BOTH
+Case 608: mANkz:01P identical in BOTH
+Case 609: mAn:01A,10A,10P identical in BOTH
+Case 610: mArj:10A,10P identical in BOTH
+Case 611: mAh:01A,01P identical in BOTH
+Case 612: mi:05A,05P identical in BOTH
+Case 613: miC:06P identical in BOTH
+Case 614: miYj:10A,10P identical in BOTH
+Case 615: miT:01A,01P identical in BOTH
+Case 616: miD:01A,01P identical in BOTH
+Case 617: minv:01P identical in BOTH
+Case 618: mil:06A,06P identical in BOTH
+Case 619: miS:01P identical in BOTH
+Case 620: miSr:10A,10P identical in BOTH
+Case 621: miz:01P,06P identical in BOTH
+Case 622: mIm:01P identical in BOTH
+Case 623: mIv:01P identical in BOTH
+Case 624: muw:01P,06P,10A,10P identical in BOTH
+Case 625: muq:01P identical in BOTH
+Case 626: muR:06P identical in BOTH
+Case 627: muRW:01A identical in BOTH
+Case 628: muRq:01A,01P identical in BOTH
+Case 629: mur:06P identical in BOTH
+Case 630: murC:01P identical in BOTH
+Case 631: murv:01P identical in BOTH
+Case 632: mus:04P identical in BOTH
+Case 633: must:10A,10P identical in BOTH
+Case 634: mUz:01P identical in BOTH
+Case 635: mfR:06P identical in BOTH
+Case 636: mF:09P identical in BOTH
+Case 637: meT:01A,01P identical in BOTH
+Case 638: med:01A,01P identical in BOTH
+Case 639: meD:01A,01P identical in BOTH
+Case 640: mev:01A identical in BOTH
+Case 641: mnA:01P identical in BOTH
+Case 642: mrakz:01P,10A,10P identical in BOTH
+Case 643: mrad:01A identical in BOTH
+Case 644: mruc:01P identical in BOTH
+Case 645: mruYc:01P identical in BOTH
+Case 646: mrew:01P identical in BOTH
+Case 647: mreq:01P identical in BOTH
+Case 648: mluc:01P identical in BOTH
+Case 649: mluYc:01P identical in BOTH
+Case 650: mleC:01P,10A,10P identical in BOTH
+Case 651: mlew:01P identical in BOTH
+Case 652: mlev:01A identical in BOTH
+Case 653: mlE:01P identical in BOTH
+Case 654: yaj:01A,01P identical in BOTH
+Case 655: yas:04P identical in BOTH
+Case 656: yA:02P identical in BOTH
+Case 657: yAc:01A,01P identical in BOTH
+Case 658: yuNg:01P identical in BOTH
+Case 659: yuC:01P identical in BOTH
+Case 660: yut:01A identical in BOTH
+Case 661: yup:04P identical in BOTH
+Case 662: yUz:01P identical in BOTH
+Case 663: yOw:01P identical in BOTH
+Case 664: rak:10A,10P identical in BOTH
+Case 665: raK:01P identical in BOTH
+Case 666: rag:01P,10A,10P identical in BOTH
+Case 667: raG:10A,10P identical in BOTH
+Case 668: raNK:01P identical in BOTH
+Case 669: raNG:01A,10A,10P identical in BOTH
+Case 670: rac:10A,10P identical in BOTH
+Case 671: raYj:01A,01P,04A,04P identical in BOTH
+Case 672: raW:01P identical in BOTH
+Case 673: raRv:01P identical in BOTH
+Case 674: raD:04P identical in BOTH
+Case 675: rap:01P identical in BOTH
+Case 676: raP:01P identical in BOTH
+Case 677: raB:01A identical in BOTH
+Case 678: ramP:01P identical in BOTH
+Case 679: ramB:01A identical in BOTH
+Case 680: ray:01A identical in BOTH
+Case 681: rah:01P,10A,10P identical in BOTH
+Case 682: rAK:01P identical in BOTH
+Case 683: rAG:01A identical in BOTH
+Case 684: rAj:01A,01P identical in BOTH
+Case 685: rAD:04P,05P identical in BOTH
+Case 686: riNK:01P identical in BOTH
+Case 687: riNg:01P identical in BOTH
+Case 688: riRv:01P identical in BOTH
+Case 689: riP:06P identical in BOTH
+Case 690: riS:06P identical in BOTH
+Case 691: riz:01P,04P identical in BOTH
+Case 692: ru:01A,02P identical in BOTH
+Case 693: ruj:06P,10A,10P identical in BOTH
+Case 694: ruw:01A,10A,10P identical in BOTH
+Case 695: ruRw:01P identical in BOTH
+Case 696: ruRW:01P identical in BOTH
+Case 697: ruRq:01P identical in BOTH
+Case 698: rud:02P identical in BOTH
+Case 699: rup:04P identical in BOTH
+Case 700: ruS:06P identical in BOTH
+Case 701: ruz:01P,04P,10A,10P identical in BOTH
+Case 702: ruh:01P identical in BOTH
+Case 703: rUkz:10A,10P identical in BOTH
+Case 704: rUp:10A,10P identical in BOTH
+Case 705: rek:01A identical in BOTH
+Case 706: rew:01A,01P identical in BOTH
+Case 707: rep:01A identical in BOTH
+Case 708: rev:01A identical in BOTH
+Case 709: rez:01A identical in BOTH
+Case 710: rE:01P identical in BOTH
+Case 711: roq:01P identical in BOTH
+Case 712: rOq:01P identical in BOTH
+Case 713: laK:01P identical in BOTH
+Case 714: lag:01P,10A,10P identical in BOTH
+Case 715: laNg:01P identical in BOTH
+Case 716: laNG:01A,01P,10A,10P identical in BOTH
+Case 717: laC:01P identical in BOTH
+Case 718: laj:01P,06A,10A,10P identical in BOTH
+Case 719: laYj:01P,10A,10P identical in BOTH
+Case 720: law:01P identical in BOTH
+Case 721: laq:01P,10A,10P identical in BOTH
+Case 722: laRq:10A,10P identical in BOTH
+Case 723: lap:01P identical in BOTH
+Case 724: laB:01A identical in BOTH
+Case 725: lamb:01A identical in BOTH
+Case 726: lamB:01A identical in BOTH
+Case 727: lay:01A identical in BOTH
+Case 728: larb:01P identical in BOTH
+Case 729: las:01P,10A,10P identical in BOTH
+Case 730: lA:02P identical in BOTH
+Case 731: lAK:01P identical in BOTH
+Case 732: lAG:01A identical in BOTH
+Case 733: lAj:01P identical in BOTH
+Case 734: lAYC:01P identical in BOTH
+Case 735: lAYj:01P identical in BOTH
+Case 736: lAB:10A,10P identical in BOTH
+Case 737: liNK:01P identical in BOTH
+Case 738: liNg:01P,10A,10P identical in BOTH
+Case 739: liS:04A,06P identical in BOTH
+Case 740: lih:02A,02P identical in BOTH
+Case 741: luYc:01P identical in BOTH
+Case 742: luYj:10A,10P identical in BOTH
+Case 743: luq:01P,06P identical in BOTH
+Case 744: luRw:01P,10A,10P identical in BOTH
+Case 745: luRW:01P,10A,10P identical in BOTH
+Case 746: lunT:01P identical in BOTH
+Case 747: luB:04P,06P identical in BOTH
+Case 748: lumb:01P,10A,10P identical in BOTH
+Case 749: lU:09A,09P identical in BOTH
+Case 750: lUz:01P,10A,10P identical in BOTH
+Case 751: lep:01A identical in BOTH
+Case 752: lok:01A,10A,10P identical in BOTH
+Case 753: loc:01A,10A,10P identical in BOTH
+Case 754: loq:01P identical in BOTH
+Case 755: lozw:01A identical in BOTH
+Case 756: vakz:01P identical in BOTH
+Case 757: vaK:01P identical in BOTH
+Case 758: vaNk:01A identical in BOTH
+Case 759: vaNK:01P identical in BOTH
+Case 760: vaNg:01P identical in BOTH
+Case 761: vaNG:01A identical in BOTH
+Case 762: vaw:01P,10A,10P identical in BOTH
+Case 763: vaW:01P identical in BOTH
+Case 764: vaR:01P identical in BOTH
+Case 765: vaRw:01P,10A,10P identical in BOTH
+Case 766: vaRW:01A identical in BOTH
+Case 767: vaRq:01A,10A,10P identical in BOTH
+Case 768: vand:01A identical in BOTH
+Case 769: vap:01A,01P identical in BOTH
+Case 770: vaBr:01P identical in BOTH
+Case 771: vam:01P identical in BOTH
+Case 772: varc:01A identical in BOTH
+Case 773: varR:10A,10P identical in BOTH
+Case 774: varD:10A,10P identical in BOTH
+Case 775: varh:01A,10A,10P identical in BOTH
+Case 776: valk:10A,10P identical in BOTH
+Case 777: valB:01A identical in BOTH
+Case 778: vaz:01P identical in BOTH
+Case 779: vask:01A identical in BOTH
+Case 780: vast:10A identical in BOTH
+Case 781: vah:01A,01P identical in BOTH
+Case 782: vA:02P identical in BOTH
+Case 783: vANkz:01P identical in BOTH
+Case 784: vAYC:01P identical in BOTH
+Case 785: vAq:01A identical in BOTH
+Case 786: vAt:10A,10P identical in BOTH
+Case 787: vAvft:04A identical in BOTH
+Case 788: vAS:04A identical in BOTH
+Case 789: vAs:10A,10P identical in BOTH
+Case 790: viw:01P identical in BOTH
+Case 791: viT:01A identical in BOTH
+Case 792: vil:06P,10A,10P identical in BOTH
+Case 793: vizk:10A,10P identical in BOTH
+Case 794: vIr:10A identical in BOTH
+Case 795: vuNg:01P identical in BOTH
+Case 796: vfMh:01P,10A,10P identical in BOTH
+Case 797: vfk:01A identical in BOTH
+Case 798: vfkz:01A identical in BOTH
+Case 799: vfS:04P identical in BOTH
+Case 800: vfh:06P identical in BOTH
+Case 801: vF:09A,09P identical in BOTH
+Case 802: ve:01A,01P identical in BOTH
+Case 803: veR:01A,01P identical in BOTH
+Case 804: veT:01A identical in BOTH
+Case 805: vep:01A identical in BOTH
+Case 806: vel:01P,10A,10P identical in BOTH
+Case 807: vell:01P identical in BOTH
+Case 808: vevI:02A identical in BOTH
+Case 809: vezw:01A identical in BOTH
+Case 810: ves:01P identical in BOTH
+Case 811: vehl:01P identical in BOTH
+Case 812: vyaT:01A identical in BOTH
+Case 813: vyap:10A,10P identical in BOTH
+Case 814: vyay:01A,01P,10A,10P identical in BOTH
+Case 815: vye:01A,01P identical in BOTH
+Case 816: vraj:01P,10A,10P identical in BOTH
+Case 817: vraR:01P,10A,10P identical in BOTH
+Case 818: vraSc:06P identical in BOTH
+Case 819: vrI:04A,09P identical in BOTH
+Case 820: vruq:06P identical in BOTH
+Case 821: vlI:09P identical in BOTH
+Case 822: Sac:01A identical in BOTH
+Case 823: SaW:01P,10A,10P identical in BOTH
+Case 824: SaRq:01A identical in BOTH
+Case 825: Sap:01A,01P,04A,04P identical in BOTH
+Case 826: Sabd:10A,10P identical in BOTH
+Case 827: Sarb:01P identical in BOTH
+Case 828: Sarv:01P identical in BOTH
+Case 829: SalB:01A identical in BOTH
+Case 830: Sav:01P identical in BOTH
+Case 831: SaS:01P identical in BOTH
+Case 832: Saz:01P identical in BOTH
+Case 833: Sas:01P identical in BOTH
+Case 834: SAK:01P identical in BOTH
+Case 835: SAq:01A identical in BOTH
+Case 836: SAn:01A,01P identical in BOTH
+Case 837: SAntv:10A,10P identical in BOTH
+Case 838: SAs:02P identical in BOTH
+Case 839: SiNK:01P identical in BOTH
+Case 840: SiNG:01P identical in BOTH
+Case 841: Siw:01P identical in BOTH
+Case 842: Sil:06P identical in BOTH
+Case 843: Siz:01P,07P,10A,10P identical in BOTH
+Case 844: SIk:01A,10A,10P identical in BOTH
+Case 845: SIB:01A identical in BOTH
+Case 846: SIl:01P,10A,10P identical in BOTH
+Case 847: Suk:01P identical in BOTH
+Case 848: Suc:01P,04A,04P identical in BOTH
+Case 849: Sucy:01P identical in BOTH
+Case 850: SuW:01P,10A,10P identical in BOTH
+Case 851: SuRW:01P,10A,10P identical in BOTH
+Case 852: Sun:06P identical in BOTH
+Case 853: Sulk:10A,10P identical in BOTH
+Case 854: Sulb:10A,10P identical in BOTH
+Case 855: SUr:04A,10A identical in BOTH
+Case 856: SUrp:10A,10P identical in BOTH
+Case 857: SUz:01P identical in BOTH
+Case 858: Sel:01P identical in BOTH
+Case 859: Sev:01A identical in BOTH
+Case 860: SE:01P identical in BOTH
+Case 861: SoR:01P identical in BOTH
+Case 862: SOw:01P identical in BOTH
+Case 863: Scut:01P identical in BOTH
+Case 864: Scyut:01P identical in BOTH
+Case 865: SnaT:01P identical in BOTH
+Case 866: SmIl:01P identical in BOTH
+Case 867: SraNk:01A identical in BOTH
+Case 868: SraNg:01P identical in BOTH
+Case 869: SraR:01P,10A,10P identical in BOTH
+Case 870: Sram:04P identical in BOTH
+Case 871: SramB:01A identical in BOTH
+Case 872: Sri:01A,01P identical in BOTH
+Case 873: Sriz:01P identical in BOTH
+Case 874: SrI:09A,09P identical in BOTH
+Case 875: SroR:01P identical in BOTH
+Case 876: SlaNk:01A identical in BOTH
+Case 877: SlaNg:01P identical in BOTH
+Case 878: SlaT:01P identical in BOTH
+Case 879: SlAK:01P identical in BOTH
+Case 880: SlAG:01A identical in BOTH
+Case 881: Slok:01A identical in BOTH
+Case 882: SloR:01P identical in BOTH
+Case 883: SvaNk:01A identical in BOTH
+Case 884: Svac:01A identical in BOTH
+Case 885: SvaYc:01A identical in BOTH
+Case 886: SvaW:10A,10P identical in BOTH
+Case 887: SvaRW:10A,10P identical in BOTH
+Case 888: SvaBr:10A,10P identical in BOTH
+Case 889: Svart:10A,10P identical in BOTH
+Case 890: Sval:01P identical in BOTH
+Case 891: Svalk:10A,10P identical in BOTH
+Case 892: Svall:01P identical in BOTH
+Case 893: Svas:02P identical in BOTH
+Case 894: Svi:01P identical in BOTH
+Case 895: Svit:01A identical in BOTH
+Case 896: Svind:01A identical in BOTH
+Case 897: zWiv:01P,04P identical in BOTH
+Case 898: saMst:02P identical in BOTH
+Case 899: sag:01P identical in BOTH
+Case 900: sac:01A,01P identical in BOTH
+Case 901: saww:10A,10P identical in BOTH
+Case 902: satr:10A identical in BOTH
+Case 903: sad:01P,06P identical in BOTH
+Case 904: san:01P,08A,08P identical in BOTH
+Case 905: saBAj:10A,10P identical in BOTH
+Case 906: samb:10A,10P identical in BOTH
+Case 907: sarj:01P identical in BOTH
+Case 908: sarb:01P identical in BOTH
+Case 909: sarv:01P identical in BOTH
+Case 910: sal:01P identical in BOTH
+Case 911: sas:02P identical in BOTH
+Case 912: sah:01A,04P,10A,10P identical in BOTH
+Case 913: sAntv:10A,10P identical in BOTH
+Case 914: sAmb:10A,10P identical in BOTH
+Case 915: si:05A,05P,09A,09P identical in BOTH
+Case 916: sic:06A,06P identical in BOTH
+Case 917: siw:01P identical in BOTH
+Case 918: siD:01P,04P identical in BOTH
+Case 919: siB:01P identical in BOTH
+Case 920: simB:01P identical in BOTH
+Case 921: sil:06P identical in BOTH
+Case 922: siv:04P identical in BOTH
+Case 923: sIk:01A identical in BOTH
+Case 924: suww:10A,10P identical in BOTH
+Case 925: suh:04P identical in BOTH
+Case 926: sUc:10A,10P identical in BOTH
+Case 927: sUtr:10A,10P identical in BOTH
+Case 928: sUd:01A,10A,10P identical in BOTH
+Case 929: sUrkz:01P identical in BOTH
+Case 930: sUrkzy:01P identical in BOTH
+Case 931: sUz:01P identical in BOTH
+Case 932: sfp:01P identical in BOTH
+Case 933: sfB:01P identical in BOTH
+Case 934: sfmB:01P identical in BOTH
+Case 935: sek:01A identical in BOTH
+Case 936: sel:01P identical in BOTH
+Case 937: sev:01A identical in BOTH
+Case 938: sE:01P identical in BOTH
+Case 939: so:04P identical in BOTH
+Case 940: skund:01A identical in BOTH
+Case 941: sKad:01A identical in BOTH
+Case 942: sKal:01P identical in BOTH
+Case 943: stak:01P identical in BOTH
+Case 944: stip:01A identical in BOTH
+Case 945: stim:04P identical in BOTH
+Case 946: stu:02A,02P identical in BOTH
+Case 947: stuc:01A identical in BOTH
+Case 948: stUp:04P,10A,10P identical in BOTH
+Case 949: stfkz:01P identical in BOTH
+Case 950: stfh:06P identical in BOTH
+Case 951: sten:10A,10P identical in BOTH
+Case 952: stE:01P identical in BOTH
+Case 953: sTag:01P identical in BOTH
+Case 954: sTuq:06P identical in BOTH
+Case 955: sTUl:10A identical in BOTH
+Case 956: snas:04P identical in BOTH
+Case 957: snu:02P identical in BOTH
+Case 958: snus:04P identical in BOTH
+Case 959: snuh:04P identical in BOTH
+Case 960: snE:01P identical in BOTH
+Case 961: spand:01A identical in BOTH
+Case 962: spaS:01A,01P,10A identical in BOTH
+Case 963: spf:05P identical in BOTH
+Case 964: spfS:06P identical in BOTH
+Case 965: spfh:10A,10P identical in BOTH
+Case 966: sPar:06P identical in BOTH
+Case 967: sPAy:01A identical in BOTH
+Case 968: sPiw:10A,10P identical in BOTH
+Case 969: sPiww:10A,10P identical in BOTH
+Case 970: sPuq:06P identical in BOTH
+Case 971: sPuRw:01P,10A,10P identical in BOTH
+Case 972: sPuRq:01A,10A,10P identical in BOTH
+Case 973: sPur:06P identical in BOTH
+Case 974: sPurC:01P identical in BOTH
+Case 975: sPul:06P identical in BOTH
+Case 976: sPUrj:01P identical in BOTH
+Case 977: smiw:10A,10P identical in BOTH
+Case 978: smIl:01P identical in BOTH
+Case 979: syam:01P,10A identical in BOTH
+Case 980: sraNk:01A identical in BOTH
+Case 981: sramB:01A identical in BOTH
+Case 982: sriv:04P identical in BOTH
+Case 983: sru:01P identical in BOTH
+Case 984: srek:01A identical in BOTH
+Case 985: srE:01P identical in BOTH
+Case 986: svaYj:01A identical in BOTH
+Case 987: svan:01P identical in BOTH
+Case 988: svap:02P identical in BOTH
+Case 989: svart:10A,10P identical in BOTH
+Case 990: svard:01A identical in BOTH
+Case 991: svf:01P identical in BOTH
+Case 992: haw:01P identical in BOTH
+Case 993: haW:01P identical in BOTH
+Case 994: hamm:01P identical in BOTH
+Case 995: hay:01P identical in BOTH
+Case 996: hal:01P identical in BOTH
+Case 997: has:01P identical in BOTH
+Case 998: hikk:01A,01P identical in BOTH
+Case 999: hiw:01P identical in BOTH
+Case 1000: hiRq:01A identical in BOTH
+Case 1001: hinv:01P identical in BOTH
+Case 1002: hil:06P identical in BOTH
+Case 1003: hizk:10A identical in BOTH
+Case 1004: huq:01P,06P identical in BOTH
+Case 1005: huRq:01A identical in BOTH
+Case 1006: hurC:01P identical in BOTH
+Case 1007: hul:01P identical in BOTH
+Case 1008: hUq:01P identical in BOTH
+Case 1009: heW:01A,01P,09P identical in BOTH
+Case 1010: heq:01A,01P identical in BOTH
+Case 1011: heQ:09P identical in BOTH
+Case 1012: hez:01A identical in BOTH
+Case 1013: hnu:02A identical in BOTH
+Case 1014: hmal:01P identical in BOTH
+Case 1015: hrag:01P identical in BOTH
+Case 1016: hrap:10A,10P identical in BOTH
+Case 1017: hrAd:01A identical in BOTH
+Case 1018: hrI:03P identical in BOTH
+Case 1019: hrIC:01P identical in BOTH
+Case 1020: hlap:10A,10P identical in BOTH
+Case 1021: hlas:01P identical in BOTH
+Case 1022: hlAd:01A identical in BOTH
+Case 1023: hval:01P identical in BOTH
+Case 1024: hve:01A,01P identical in BOTH
 --------------------------------------------------
-360 cases of SANVERB1 CPS < MWVLEX1 CPS
+357 cases of SANVERB1 CPS < MWVLEX1 CPS
 --------------------------------------------------
 Case 01: akz has 01P(sanverb1) < 01P + 05(mwvlex1)
 Case 02: aw has 01P(sanverb1) < 01P + 01A(mwvlex1)
@@ -1024,362 +1034,359 @@ Case 03: at has 01P(sanverb1) < 01P + 01A(mwvlex1)
 Case 04: amb has 01A(sanverb1) < 01A + 01P(mwvlex1)
 Case 05: arT has 10A(sanverb1) < 10A + 01A(mwvlex1)
 Case 06: iNg has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 07: il has 10A,10P(sanverb1) < 10A,10P + 06P(mwvlex1)
-Case 08: Ih has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 09: u has 01A(sanverb1) < 01A + 02A,05P(mwvlex1)
-Case 10: ukz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 11: uc has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 12: uDras has 10A,10P(sanverb1) < 10A,10P + 09P(mwvlex1)
-Case 13: und has 07P(sanverb1) < 07P + 06A,06P(mwvlex1)
-Case 14: uB has 06P(sanverb1) < 06P + 07,09P(mwvlex1)
-Case 15: uz has 01P(sanverb1) < 01P + 09P(mwvlex1)
-Case 16: Uh has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 17: f has 01P,03P,05P(sanverb1) < 01P,03P,05P + 05A(mwvlex1)
-Case 18: fj has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 19: fYj has 01A(sanverb1) < 01A + 04A,04P,06A,06P,07A(mwvlex1)
-Case 20: fD has 04P,05P(sanverb1) < 04P,05P + 02,06,07P(mwvlex1)
-Case 21: fz has 06P(sanverb1) < 06P + 01P(mwvlex1)
-Case 22: eD has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 23: ez has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 24: kac has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 25: kaRW has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
-Case 26: kan has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 27: kam has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 28: kamp has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 29: kaz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 30: kANkz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 31: kAS has 01A,04A(sanverb1) < 01A,04A + 04P(mwvlex1)
-Case 32: kAs has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 33: kil has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
-Case 34: kuj has 01P(sanverb1) < 01P + 06P(mwvlex1)
-Case 35: kuw has 06P,10A(sanverb1) < 06P,10A + 04P(mwvlex1)
-Case 36: kuts has 10A(sanverb1) < 10A + 01P,04P(mwvlex1)
-Case 37: kup has 04P,10A,10P(sanverb1) < 04P,10A,10P + 04A(mwvlex1)
-Case 38: kuz has 09P(sanverb1) < 09P + 06(mwvlex1)
-Case 39: kU has 06A(sanverb1) < 06A + 01A,01P,02P,09A,09P(mwvlex1)
-Case 40: kf has 01A,01P,05A,05P,08A,08P(sanverb1) < 01A,01P,05A,05P,08A,08P + 02A,02P,03A,03P(mwvlex1)
-Case 41: kft has 06P,07P(sanverb1) < 06P,07P + 01P,06A(mwvlex1)
-Case 42: kfz has 01P,06A,06P(sanverb1) < 01P,06A,06P + 01A(mwvlex1)
-Case 43: kF has 06P,09A,09P(sanverb1) < 06P,09A,09P + 05,06A,10A,10P(mwvlex1)
-Case 44: kxp has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 45: knUy has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 46: kram has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
-Case 47: krIq has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 48: kruq has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
-Case 49: kruD has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 50: kruS has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 51: klam has 04P(sanverb1) < 04P + 01(mwvlex1)
-Case 52: klid has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 53: kliS has 04A,09P(sanverb1) < 04A,09P + 04P(mwvlex1)
-Case 54: klIb has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
-Case 55: kzap has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
-Case 56: kzam has 01A,04P(sanverb1) < 01A,04P + 01P,02P,04A(mwvlex1)
-Case 57: kzamp has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 58: kzar has 01P(sanverb1) < 01P + 01A,02P(mwvlex1)
-Case 59: kzi has 01P,05P,06P(sanverb1) < 01P,05P,06P + 02,09A,09P(mwvlex1)
-Case 60: kzip has 04P,06A,06P(sanverb1) < 04P,06A,06P + 04A(mwvlex1)
-Case 61: kziv has 01P(sanverb1) < 01P + 04P(mwvlex1)
-Case 62: kzud has 07A,07P(sanverb1) < 07A,07P + 01A,01P(mwvlex1)
-Case 63: kzuB has 01A,04P,09P(sanverb1) < 01A,04P,09P + 04A,05P,09A(mwvlex1)
-Case 64: kzmAy has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 65: Kac has 09P(sanverb1) < 09P + 01P,10A,10P(mwvlex1)
-Case 66: KAd has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 67: Kid has 04A,06P,07A(sanverb1) < 04A,06P,07A + 04P(mwvlex1)
-Case 68: KuRq has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
-Case 69: Kow has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
-Case 70: KyA has 02P(sanverb1) < 02P + 02A(mwvlex1)
-Case 71: gaq has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 72: gam has 01P(sanverb1) < 01P + 01A,02P,03P(mwvlex1)
-Case 73: gavez has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
-Case 74: gAh has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 75: gu has 01A,06P(sanverb1) < 01A,06P + 01P(mwvlex1)
-Case 76: guD has 04P,09P(sanverb1) < 04P,09P + 01A(mwvlex1)
-Case 77: gur has 06A(sanverb1) < 06A + 04(mwvlex1)
-Case 78: gfD has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 79: gF has 09P,10A(sanverb1) < 09P,10A + 06A,06P,09A(mwvlex1)
-Case 80: gE has 01P(sanverb1) < 01P + 01A,02,03P(mwvlex1)
-Case 81: glah has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 82: glE has 01P(sanverb1) < 01P + 01A,02A,02P(mwvlex1)
-Case 83: GaRw has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 84: Gur has 06P(sanverb1) < 06P + 06A(mwvlex1)
-Case 85: Gf has 01P,03P,10A,10P(sanverb1) < 01P,03P,10A,10P + 05,08A,08P(mwvlex1)
-Case 86: Gfz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 87: GrA has 01P(sanverb1) < 01P + 02P,03A,03P(mwvlex1)
-Case 88: cakAs has 02P(sanverb1) < 02P + 01A(mwvlex1)
-Case 89: cakz has 02A(sanverb1) < 02A + 02P(mwvlex1)
-Case 90: carv has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 91: cint has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 92: cIk has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 93: cuw has 06P,10A,10P(sanverb1) < 06P,10A,10P + 01(mwvlex1)
-Case 94: cuRw has 10A,10P(sanverb1) < 10A,10P + 01,06(mwvlex1)
-Case 95: cuRq has 01P(sanverb1) < 01P + 06,10A,10P(mwvlex1)
-Case 96: cup has 01P(sanverb1) < 01P + 06(mwvlex1)
-Case 97: cur has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 98: cUr has 04A(sanverb1) < 04A + 10A,10P(mwvlex1)
-Case 99: cft has 06P(sanverb1) < 06P + 01,10A,10P(mwvlex1)
-Case 100: cfp has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 101: cyu has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
-Case 102: Cad has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
-Case 103: Cid has 07A,07P(sanverb1) < 07A,07P + 09A(mwvlex1)
-Case 104: Cuw has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
-Case 105: Cfd has 07A,07P(sanverb1) < 07A,07P + 01A(mwvlex1)
-Case 106: Cfp has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 107: jaMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 108: jaz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 109: jAgf has 02P(sanverb1) < 02P + 01A(mwvlex1)
-Case 110: jinv has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 111: juYc has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 112: jfmB has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 113: jF has 04A,04P,09P(sanverb1) < 04A,04P,09P + 01A,01P,10A,10P(mwvlex1)
-Case 114: jyA has 09P(sanverb1) < 09P + 04A(mwvlex1)
-Case 115: jyut has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 116: jri has 01P,10A,10P(sanverb1) < 01P,10A,10P + 09(mwvlex1)
-Case 117: jval has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 118: wIk has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 119: taMs has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
-Case 120: tak has 01P(sanverb1) < 01P + 02(mwvlex1)
-Case 121: takz has 01P(sanverb1) < 01P + 01A,02,05A(mwvlex1)
-Case 122: tan has 08A,08P,10A,10P(sanverb1) < 08A,08P,10A,10P + 01,04(mwvlex1)
-Case 123: tal has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 124: til has 01P,06A,06P(sanverb1) < 01P,06A,06P + 10A,10P(mwvlex1)
-Case 125: tur has 03P(sanverb1) < 03P + 04A,06A(mwvlex1)
-Case 126: tUl has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 127: tF has 01P(sanverb1) < 01P + 01A,03,05,06A,06P(mwvlex1)
-Case 128: tyaj has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 129: traMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 130: tvaYc has 01P(sanverb1) < 01P + 07(mwvlex1)
-Case 131: daMS has 01P,10A,10P(sanverb1) < 01P,10A,10P + 06A(mwvlex1)
-Case 132: daMs has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
-Case 133: dakz has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 134: daG has 05P(sanverb1) < 05P + 04(mwvlex1)
-Case 135: dam has 04P(sanverb1) < 04P + 09A(mwvlex1)
-Case 136: dah has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 137: dAn has 01A,01P(sanverb1) < 01A,01P + 10A,10P(mwvlex1)
-Case 138: dAS has 01A,01P(sanverb1) < 01A,01P + 02,05P(mwvlex1)
-Case 139: dAs has 01A,01P(sanverb1) < 01A,01P + 05P(mwvlex1)
-Case 140: div has 04P,10A,10P(sanverb1) < 04P,10A,10P + 01P(mwvlex1)
-Case 141: diS has 06A,06P(sanverb1) < 06A,06P + 03P(mwvlex1)
-Case 142: dI has 04A(sanverb1) < 04A + 03A,03P,04P(mwvlex1)
-Case 143: dIDI has 02A(sanverb1) < 02A + 02P(mwvlex1)
-Case 144: du has 01P,05P(sanverb1) < 01P,05P + 04A(mwvlex1)
-Case 145: duh has 01P,02A,02P(sanverb1) < 01P,02A,02P + 04A,06A,06P(mwvlex1)
-Case 146: dU has 04A(sanverb1) < 04A + 01P,05P(mwvlex1)
-Case 147: dfh has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
-Case 148: do has 04P(sanverb1) < 04P + 02,04A(mwvlex1)
-Case 149: dyut has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 150: drA has 02P(sanverb1) < 02P + 01A,01P,02A(mwvlex1)
-Case 151: dru has 01P(sanverb1) < 01P + 01A,05P(mwvlex1)
-Case 152: druh has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 153: drE has 01P(sanverb1) < 01P + 01A,02P(mwvlex1)
-Case 154: Dan has 03P(sanverb1) < 03P + 01P(mwvlex1)
-Case 155: Danv has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 156: DA has 03A,03P(sanverb1) < 03A,03P + 01A,01P,02P,04A,04P(mwvlex1)
-Case 157: Di has 06P(sanverb1) < 06P + 05P(mwvlex1)
-Case 158: DI has 04A(sanverb1) < 04A + 03A(mwvlex1)
-Case 159: DmA has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 160: DyE has 01P(sanverb1) < 01P + 02(mwvlex1)
-Case 161: Draj has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 162: DraYj has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 163: Dras has 09A,09P(sanverb1) < 09A,09P + 10A,10P(mwvlex1)
-Case 164: DrE has 01P(sanverb1) < 01P + 02(mwvlex1)
-Case 165: DvaMs has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 166: Dvf has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 167: nakz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 168: naK has 01P(sanverb1) < 01P + 04(mwvlex1)
-Case 169: naNK has 01P(sanverb1) < 01P + 04(mwvlex1)
-Case 170: naB has 01A,04P,09P(sanverb1) < 01A,04P,09P + 01P,09A(mwvlex1)
-Case 171: nam has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 172: naS has 04P(sanverb1) < 04P + 01A,01P(mwvlex1)
-Case 173: nij has 03A,03P(sanverb1) < 03A,03P + 02A(mwvlex1)
-Case 174: nu has 02P,06P(sanverb1) < 02P,06P + 01A,06A(mwvlex1)
-Case 175: paMS has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 176: paMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 177: pac has 01A,01P(sanverb1) < 01A,01P + 04A(mwvlex1)
-Case 178: panT has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 179: paz has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
-Case 180: pA has 01P,02P(sanverb1) < 01P,02P + 01A,02A,03A(mwvlex1)
-Case 181: pi has 06P(sanverb1) < 06P + 01A,02A,03A,03P(mwvlex1)
-Case 182: piC has 10A,10P(sanverb1) < 10A,10P + 06P(mwvlex1)
-Case 183: pinv has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 184: piz has 07P(sanverb1) < 07P + 07A(mwvlex1)
-Case 185: pis has 01P,10A,10P(sanverb1) < 01P,10A,10P + 04P(mwvlex1)
-Case 186: pI has 04A(sanverb1) < 04A + 01A,02A,03A,03P(mwvlex1)
-Case 187: purv has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 188: pul has 01P,10A,10P(sanverb1) < 01P,10A,10P + 06(mwvlex1)
-Case 189: pU has 01A,09A,09P(sanverb1) < 01A,09A,09P + 01P(mwvlex1)
-Case 190: pUj has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
-Case 191: pUy has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 192: pf has 03P,05P,06A(sanverb1) < 03P,05P,06A + 09P(mwvlex1)
-Case 193: pfz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 194: pF has 03P,09P(sanverb1) < 03P,09P + 03A,06P(mwvlex1)
-Case 195: pel has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 196: pyuz has 04P(sanverb1) < 04P + 10A,10P(mwvlex1)
-Case 197: praC has 06P(sanverb1) < 06P + 06A(mwvlex1)
-Case 198: praT has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
-Case 199: prA has 02P(sanverb1) < 02P + 02A(mwvlex1)
-Case 200: pruz has 01P,09P(sanverb1) < 01P,09P + 04P,05A,05P,10A,10P(mwvlex1)
-Case 201: plu has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 202: Pal has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 203: bal has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
-Case 204: bAD has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 205: bil has 10A,10P(sanverb1) < 10A,10P + 06(mwvlex1)
-Case 206: buD has 01A,01P,04A(sanverb1) < 01A,01P,04A + 04P(mwvlex1)
-Case 207: bfMh has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
-Case 208: bfh has 01P,06P(sanverb1) < 01P,06P + 01A,10A,10P(mwvlex1)
-Case 209: beh has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 210: BaYj has 07P,10A,10P(sanverb1) < 07P,10A,10P + 07A(mwvlex1)
-Case 211: Baw has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 212: Barts has 10A(sanverb1) < 10A + 01(mwvlex1)
-Case 213: Baz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 214: BAz has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 215: BAs has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 216: Bikz has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 217: Bid has 07A,07P(sanverb1) < 07A,07P + 01P(mwvlex1)
-Case 218: BI has 03P(sanverb1) < 03P + 01A,03A,10A,10P(mwvlex1)
-Case 219: Buj has 06P,07P(sanverb1) < 06P,07P + 06A,07A(mwvlex1)
-Case 220: Bf has 01A,01P,03A,03P(sanverb1) < 01A,01P,03A,03P + 02A,02P(mwvlex1)
-Case 221: BfS has 04P(sanverb1) < 04P + 06P(mwvlex1)
-Case 222: BraMS has 01A,04P(sanverb1) < 01A,04P + 01P,04A(mwvlex1)
-Case 223: BrAj has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 224: BrAS has 01A(sanverb1) < 01A + 04A(mwvlex1)
-Case 225: BlAS has 01A(sanverb1) < 01A + 04A(mwvlex1)
-Case 226: maT has 01P(sanverb1) < 01P + 09A,09P(mwvlex1)
-Case 227: manT has 01P,09P(sanverb1) < 01P,09P + 09A(mwvlex1)
-Case 228: mand has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 229: mal has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
-Case 230: mA has 02P,03A,04A(sanverb1) < 02P,03A,04A + 03P(mwvlex1)
-Case 231: mArg has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 232: mind has 10A,10P(sanverb1) < 10A,10P + 01A,04P(mwvlex1)
-Case 233: mih has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 234: mIl has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 235: muc has 06A,06P(sanverb1) < 06A,06P + 01A(mwvlex1)
-Case 236: muj has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 237: muYc has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 238: muYj has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 239: muw has 01P,06A,06P(sanverb1) < 01P,06A,06P + 10A,10P(mwvlex1)
-Case 240: mud has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
-Case 241: muz has 09P(sanverb1) < 09P + 01P,06P(mwvlex1)
-Case 242: muh has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 243: mf has 06A(sanverb1) < 06A + 01A,01P,06P(mwvlex1)
-Case 244: mfkz has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 245: mfg has 10A(sanverb1) < 10A + 04P(mwvlex1)
-Case 246: mfj has 02A,02P(sanverb1) < 02A,02P + 01A,01P,06A,06P,10A,10P(mwvlex1)
-Case 247: mfq has 06P,09P(sanverb1) < 06P,09P + 06A,10A,10P(mwvlex1)
-Case 248: mfd has 09P(sanverb1) < 09P + 01A,01P(mwvlex1)
-Case 249: mfD has 01A,01P(sanverb1) < 01A,01P + 06A,06P(mwvlex1)
-Case 250: mfS has 06P(sanverb1) < 06P + 06A(mwvlex1)
-Case 251: mfz has 01P,04A,04P,10A,10P(sanverb1) < 01P,04A,04P,10A,10P + 01A(mwvlex1)
-Case 252: me has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 253: mokz has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
-Case 254: yakz has 10A(sanverb1) < 10A + 01A,01P(mwvlex1)
-Case 255: yat has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
-Case 256: yantr has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
-Case 257: yaB has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 258: yuD has 04A(sanverb1) < 04A + 01P,04P(mwvlex1)
-Case 259: yez has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 260: raMh has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
-Case 261: rakz has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 262: raR has 01P(sanverb1) < 01P + 04P,10A,10P(mwvlex1)
-Case 263: rad has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 264: ram has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 265: ramb has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 266: ras has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
-Case 267: rA has 02P(sanverb1) < 02P + 02A(mwvlex1)
-Case 268: rAs has 01A(sanverb1) < 01A + 02A,02P(mwvlex1)
-Case 269: riK has 01P(sanverb1) < 01P + 06P(mwvlex1)
-Case 270: ric has 07A,07P(sanverb1) < 07A,07P + 01P,04A,10A,10P(mwvlex1)
-Case 271: rih has 06P(sanverb1) < 06P + 02A,02P(mwvlex1)
-Case 272: rI has 04A,09P(sanverb1) < 04A,09P + 04P(mwvlex1)
-Case 273: ruMS has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 274: ruc has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 275: ruW has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 276: ruD has 07A,07P(sanverb1) < 07A,07P + 01P(mwvlex1)
-Case 277: rUz has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 278: rej has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 279: reB has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 280: lakz has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
-Case 281: laj has 01P,10A,10P(sanverb1) < 01P,10A,10P + 06A(mwvlex1)
-Case 282: laz has 01A,01P(sanverb1) < 01A,01P + 04A,04P,10A,10P(mwvlex1)
-Case 283: lip has 06A,06P(sanverb1) < 06A,06P + 01A,01P(mwvlex1)
-Case 284: lup has 04P,06A,06P(sanverb1) < 04P,06A,06P + 04A(mwvlex1)
-Case 285: vaj has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 286: van has 01P,08A(sanverb1) < 01P,08A + 08P(mwvlex1)
-Case 287: vay has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 288: val has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 289: valg has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 290: valh has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
-Case 291: vaS has 02P(sanverb1) < 02P + 01,03(mwvlex1)
-Case 292: vic has 07A,07P(sanverb1) < 07A,07P + 03(mwvlex1)
-Case 293: viD has 06P(sanverb1) < 06P + 01A,06A(mwvlex1)
-Case 294: viS has 06P(sanverb1) < 06P + 01P,06A(mwvlex1)
-Case 295: vI has 02P(sanverb1) < 02P + 02A(mwvlex1)
-Case 296: vIj has 01A(sanverb1) < 01A + 01P,10A,10P(mwvlex1)
-Case 297: vfR has 06P(sanverb1) < 06P + 08A,08P(mwvlex1)
-Case 298: vfD has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
-Case 299: veh has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 300: vE has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 301: vyac has 06P(sanverb1) < 06P + 03(mwvlex1)
-Case 302: vyaD has 04P(sanverb1) < 04P + 04A(mwvlex1)
-Case 303: vyuz has 04P(sanverb1) < 04P + 10A,10P(mwvlex1)
-Case 304: vrIq has 04P(sanverb1) < 04P + 01A,10A,10P(mwvlex1)
-Case 305: vrUs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
-Case 306: SaMs has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 307: SaNk has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 308: Saw has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 309: SaR has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 310: Sad has 01P,06P(sanverb1) < 01P,06P + 06A(mwvlex1)
-Case 311: Samb has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
-Case 312: Sal has 01A,01P(sanverb1) < 01A,01P + 10A,10P(mwvlex1)
-Case 313: Si has 05A,05P(sanverb1) < 05A,05P + 03P(mwvlex1)
-Case 314: Sikz has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 315: SiYj has 02A(sanverb1) < 02A + 01,10A,10P(mwvlex1)
-Case 316: SI has 02A(sanverb1) < 02A + 01,04A(mwvlex1)
-Case 317: SuD has 04P(sanverb1) < 04P + 01A,01P,04A(mwvlex1)
-Case 318: Suz has 04P(sanverb1) < 04P + 06P(mwvlex1)
-Case 319: SUl has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
-Case 320: SF has 09P(sanverb1) < 09P + 09A(mwvlex1)
-Case 321: So has 04P(sanverb1) < 04P + 03A,03P,04A(mwvlex1)
-Case 322: SyE has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 323: SrA has 02P(sanverb1) < 02P + 01,04P(mwvlex1)
-Case 324: SrE has 01P(sanverb1) < 01P + 02P,04P(mwvlex1)
-Case 325: saYj has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 326: saw has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 327: sap has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 328: sAD has 05P(sanverb1) < 05P + 01A,01P,04(mwvlex1)
-Case 329: su has 01P,02P,05A,05P(sanverb1) < 01P,02P,05A,05P + 01A(mwvlex1)
-Case 330: suK has 10A,10P(sanverb1) < 10A,10P + 04P(mwvlex1)
-Case 331: sur has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
-Case 332: sf has 01P,03P(sanverb1) < 01P,03P + 03A,10A,10P(mwvlex1)
-Case 333: skand has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 334: skamB has 01A,09P(sanverb1) < 01A,09P + 05(mwvlex1)
-Case 335: sku has 09A,09P(sanverb1) < 09A,09P + 05(mwvlex1)
-Case 336: skumB has 09P(sanverb1) < 09P + 05(mwvlex1)
-Case 337: stam has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
-Case 338: stamB has 01A,09P(sanverb1) < 01A,09P + 05(mwvlex1)
-Case 339: stiG has 05A(sanverb1) < 05A + 05P(mwvlex1)
-Case 340: stuB has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 341: stumB has 09P(sanverb1) < 09P + 05(mwvlex1)
-Case 342: stf has 05A,05P(sanverb1) < 05A,05P + 09A,09P(mwvlex1)
-Case 343: stF has 09A,09P(sanverb1) < 09A,09P + 05A,05P(mwvlex1)
-Case 344: step has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
-Case 345: styE has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 346: sTA has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 347: snA has 02P(sanverb1) < 02P + 04A,04P(mwvlex1)
-Case 348: snih has 04P,10A,10P(sanverb1) < 04P,10A,10P + 01P(mwvlex1)
-Case 349: sparD has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 350: svar has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
-Case 351: had has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 352: han has 02P(sanverb1) < 02P + 01,02A(mwvlex1)
-Case 353: hA has 03A,03P(sanverb1) < 03A,03P + 01(mwvlex1)
-Case 354: hi has 05P(sanverb1) < 05P + 05A(mwvlex1)
-Case 355: hiMs has 07P,10A,10P(sanverb1) < 07P,10A,10P + 01,07A(mwvlex1)
-Case 356: hu has 03P(sanverb1) < 03P + 03A(mwvlex1)
-Case 357: hfz has 01P,04P(sanverb1) < 01P,04P + 01A(mwvlex1)
-Case 358: hras has 01P(sanverb1) < 01P + 01A(mwvlex1)
-Case 359: hrez has 01A(sanverb1) < 01A + 01P(mwvlex1)
-Case 360: hvf has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 07: Ih has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 08: u has 01A(sanverb1) < 01A + 02A,05P(mwvlex1)
+Case 09: ukz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 10: uc has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 11: uDras has 10A,10P(sanverb1) < 10A,10P + 09P(mwvlex1)
+Case 12: und has 07P(sanverb1) < 07P + 06A,06P(mwvlex1)
+Case 13: uB has 06P(sanverb1) < 06P + 07,09P(mwvlex1)
+Case 14: uz has 01P(sanverb1) < 01P + 09P(mwvlex1)
+Case 15: Uh has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 16: f has 01P,03P,05P(sanverb1) < 01P,03P,05P + 05A(mwvlex1)
+Case 17: fj has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 18: fYj has 01A(sanverb1) < 01A + 04A,04P,06A,06P,07A(mwvlex1)
+Case 19: fD has 04P,05P(sanverb1) < 04P,05P + 02,06,07P(mwvlex1)
+Case 20: fz has 06P(sanverb1) < 06P + 01P(mwvlex1)
+Case 21: eD has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 22: ez has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 23: kac has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 24: kaRW has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
+Case 25: kan has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 26: kam has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 27: kamp has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 28: kaz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 29: kANkz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 30: kAS has 01A,04A(sanverb1) < 01A,04A + 04P(mwvlex1)
+Case 31: kAs has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 32: kil has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
+Case 33: kuj has 01P(sanverb1) < 01P + 06P(mwvlex1)
+Case 34: kuw has 06P,10A(sanverb1) < 06P,10A + 04P(mwvlex1)
+Case 35: kuts has 10A(sanverb1) < 10A + 01P,04P(mwvlex1)
+Case 36: kup has 04P,10A,10P(sanverb1) < 04P,10A,10P + 04A(mwvlex1)
+Case 37: kuz has 09P(sanverb1) < 09P + 06(mwvlex1)
+Case 38: kU has 06A(sanverb1) < 06A + 01A,01P,02P,09A,09P(mwvlex1)
+Case 39: kf has 01A,01P,05A,05P,08A,08P(sanverb1) < 01A,01P,05A,05P,08A,08P + 02A,02P,03A,03P(mwvlex1)
+Case 40: kft has 06P,07P(sanverb1) < 06P,07P + 01P,06A(mwvlex1)
+Case 41: kfz has 01P,06A,06P(sanverb1) < 01P,06A,06P + 01A(mwvlex1)
+Case 42: kF has 06P,09A,09P(sanverb1) < 06P,09A,09P + 05,06A,10A,10P(mwvlex1)
+Case 43: kxp has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 44: knUy has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 45: kram has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
+Case 46: krIq has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 47: kruq has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
+Case 48: kruD has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 49: kruS has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 50: klam has 04P(sanverb1) < 04P + 01(mwvlex1)
+Case 51: klid has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 52: kliS has 04A,09P(sanverb1) < 04A,09P + 04P(mwvlex1)
+Case 53: klIb has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
+Case 54: kzap has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
+Case 55: kzam has 01A,04P(sanverb1) < 01A,04P + 01P,02P,04A(mwvlex1)
+Case 56: kzamp has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 57: kzar has 01P(sanverb1) < 01P + 01A,02P(mwvlex1)
+Case 58: kzi has 01P,05P,06P(sanverb1) < 01P,05P,06P + 02,09A,09P(mwvlex1)
+Case 59: kzip has 04P,06A,06P(sanverb1) < 04P,06A,06P + 04A(mwvlex1)
+Case 60: kziv has 01P(sanverb1) < 01P + 04P(mwvlex1)
+Case 61: kzud has 07A,07P(sanverb1) < 07A,07P + 01A,01P(mwvlex1)
+Case 62: kzuB has 01A,04P,09P(sanverb1) < 01A,04P,09P + 04A,05P,09A(mwvlex1)
+Case 63: kzmAy has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 64: Kac has 09P(sanverb1) < 09P + 01P,10A,10P(mwvlex1)
+Case 65: KAd has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 66: Kid has 04A,06P,07A(sanverb1) < 04A,06P,07A + 04P(mwvlex1)
+Case 67: KuRq has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
+Case 68: Kow has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
+Case 69: KyA has 02P(sanverb1) < 02P + 02A(mwvlex1)
+Case 70: gaq has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 71: gam has 01P(sanverb1) < 01P + 01A,02P,03P(mwvlex1)
+Case 72: gavez has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
+Case 73: gAh has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 74: gu has 01A,06P(sanverb1) < 01A,06P + 01P(mwvlex1)
+Case 75: guD has 04P,09P(sanverb1) < 04P,09P + 01A(mwvlex1)
+Case 76: gur has 06A(sanverb1) < 06A + 04(mwvlex1)
+Case 77: gfD has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 78: gF has 06P,09P,10A(sanverb1) < 06P,09P,10A + 06A,09A(mwvlex1)
+Case 79: gE has 01P(sanverb1) < 01P + 01A,02,03P(mwvlex1)
+Case 80: glah has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 81: glE has 01P(sanverb1) < 01P + 01A,02A,02P(mwvlex1)
+Case 82: GaRw has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 83: Gur has 06P(sanverb1) < 06P + 06A(mwvlex1)
+Case 84: Gf has 01P,03P,10A,10P(sanverb1) < 01P,03P,10A,10P + 05,08A,08P(mwvlex1)
+Case 85: Gfz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 86: GrA has 01P(sanverb1) < 01P + 02P,03A,03P(mwvlex1)
+Case 87: cakAs has 02P(sanverb1) < 02P + 01A(mwvlex1)
+Case 88: cakz has 02A(sanverb1) < 02A + 02P(mwvlex1)
+Case 89: carv has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 90: cint has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 91: cIk has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 92: cuw has 06P,10A,10P(sanverb1) < 06P,10A,10P + 01(mwvlex1)
+Case 93: cuRw has 10A,10P(sanverb1) < 10A,10P + 01,06(mwvlex1)
+Case 94: cuRq has 01P(sanverb1) < 01P + 06,10A,10P(mwvlex1)
+Case 95: cup has 01P(sanverb1) < 01P + 06(mwvlex1)
+Case 96: cur has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 97: cUr has 04A(sanverb1) < 04A + 10A,10P(mwvlex1)
+Case 98: cft has 06P(sanverb1) < 06P + 01,10A,10P(mwvlex1)
+Case 99: cfp has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 100: cyu has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
+Case 101: Cad has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
+Case 102: Cid has 07A,07P(sanverb1) < 07A,07P + 09A(mwvlex1)
+Case 103: Cuw has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
+Case 104: Cfp has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 105: jaMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 106: jaz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 107: jAgf has 02P(sanverb1) < 02P + 01A(mwvlex1)
+Case 108: jinv has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 109: juYc has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 110: jfmB has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 111: jF has 04P,09P,10A,10P(sanverb1) < 04P,09P,10A,10P + 01A,01P,04A(mwvlex1)
+Case 112: jyA has 09P(sanverb1) < 09P + 04A(mwvlex1)
+Case 113: jyut has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 114: jri has 01P,10A,10P(sanverb1) < 01P,10A,10P + 09(mwvlex1)
+Case 115: jval has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 116: wIk has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 117: taMs has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
+Case 118: tak has 01P(sanverb1) < 01P + 02(mwvlex1)
+Case 119: takz has 01P(sanverb1) < 01P + 01A,02,05A(mwvlex1)
+Case 120: tan has 08A,08P,10A,10P(sanverb1) < 08A,08P,10A,10P + 01,04(mwvlex1)
+Case 121: tal has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 122: tur has 03P(sanverb1) < 03P + 04A,06A(mwvlex1)
+Case 123: tUl has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 124: tF has 01P(sanverb1) < 01P + 01A,03,05,06A,06P(mwvlex1)
+Case 125: tyaj has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 126: traMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 127: tvaYc has 01P(sanverb1) < 01P + 07(mwvlex1)
+Case 128: daMS has 01P,10A,10P(sanverb1) < 01P,10A,10P + 06A(mwvlex1)
+Case 129: daMs has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
+Case 130: dakz has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 131: daG has 05P(sanverb1) < 05P + 04(mwvlex1)
+Case 132: dam has 04P(sanverb1) < 04P + 09A(mwvlex1)
+Case 133: dah has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 134: dAn has 01A,01P(sanverb1) < 01A,01P + 10A,10P(mwvlex1)
+Case 135: dAS has 01A,01P(sanverb1) < 01A,01P + 02,05P(mwvlex1)
+Case 136: dAs has 01A,01P(sanverb1) < 01A,01P + 05P(mwvlex1)
+Case 137: div has 04P,10A,10P(sanverb1) < 04P,10A,10P + 01P(mwvlex1)
+Case 138: diS has 06A,06P(sanverb1) < 06A,06P + 03P(mwvlex1)
+Case 139: dI has 04A(sanverb1) < 04A + 03A,03P,04P(mwvlex1)
+Case 140: dIDI has 02A(sanverb1) < 02A + 02P(mwvlex1)
+Case 141: du has 01P,05P(sanverb1) < 01P,05P + 04A(mwvlex1)
+Case 142: duh has 01P,02A,02P(sanverb1) < 01P,02A,02P + 04A,06A,06P(mwvlex1)
+Case 143: dU has 04A(sanverb1) < 04A + 01P,05P(mwvlex1)
+Case 144: dfMh has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
+Case 145: dfB has 06P,10A,10P(sanverb1) < 06P,10A,10P + 01(mwvlex1)
+Case 146: dfh has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
+Case 147: do has 04P(sanverb1) < 04P + 02,04A(mwvlex1)
+Case 148: dyut has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 149: drA has 02P(sanverb1) < 02P + 01A,01P,02A(mwvlex1)
+Case 150: dru has 01P(sanverb1) < 01P + 01A,05P(mwvlex1)
+Case 151: druh has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 152: drE has 01P(sanverb1) < 01P + 01A,02P(mwvlex1)
+Case 153: Dan has 03P(sanverb1) < 03P + 01P(mwvlex1)
+Case 154: Danv has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 155: DA has 03A,03P(sanverb1) < 03A,03P + 01A,01P,02P,04A,04P(mwvlex1)
+Case 156: Di has 06P(sanverb1) < 06P + 05P(mwvlex1)
+Case 157: DI has 04A(sanverb1) < 04A + 03A(mwvlex1)
+Case 158: DmA has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 159: DyE has 01P(sanverb1) < 01P + 02(mwvlex1)
+Case 160: Draj has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 161: DraYj has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 162: DrE has 01P(sanverb1) < 01P + 02(mwvlex1)
+Case 163: DvaMs has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 164: Dvf has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 165: nakz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 166: naK has 01P(sanverb1) < 01P + 04(mwvlex1)
+Case 167: naNK has 01P(sanverb1) < 01P + 04(mwvlex1)
+Case 168: naB has 01A,04P,09P(sanverb1) < 01A,04P,09P + 01P,09A(mwvlex1)
+Case 169: nam has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 170: naS has 04P(sanverb1) < 04P + 01A,01P(mwvlex1)
+Case 171: nij has 03A,03P(sanverb1) < 03A,03P + 02A(mwvlex1)
+Case 172: nu has 02P,06P(sanverb1) < 02P,06P + 01A,06A(mwvlex1)
+Case 173: paMS has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 174: paMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 175: pac has 01A,01P(sanverb1) < 01A,01P + 04A(mwvlex1)
+Case 176: panT has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 177: paz has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
+Case 178: pA has 01P,02P(sanverb1) < 01P,02P + 01A,02A,03A(mwvlex1)
+Case 179: pi has 06P(sanverb1) < 06P + 01A,02A,03A,03P(mwvlex1)
+Case 180: piMs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 181: piC has 10A,10P(sanverb1) < 10A,10P + 06P(mwvlex1)
+Case 182: pinv has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 183: piz has 07P(sanverb1) < 07P + 07A(mwvlex1)
+Case 184: pis has 01P,10A,10P(sanverb1) < 01P,10A,10P + 04P(mwvlex1)
+Case 185: pI has 04A(sanverb1) < 04A + 01A,02A,03A,03P(mwvlex1)
+Case 186: purv has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 187: pul has 01P,10A,10P(sanverb1) < 01P,10A,10P + 06(mwvlex1)
+Case 188: pU has 01A,09A,09P(sanverb1) < 01A,09A,09P + 01P(mwvlex1)
+Case 189: pUj has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
+Case 190: pUy has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 191: pf has 03P,05P,06A(sanverb1) < 03P,05P,06A + 09P(mwvlex1)
+Case 192: pfz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 193: pF has 03P,09P(sanverb1) < 03P,09P + 03A,06P(mwvlex1)
+Case 194: pel has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 195: pyuz has 04P(sanverb1) < 04P + 10A,10P(mwvlex1)
+Case 196: praC has 06P(sanverb1) < 06P + 06A(mwvlex1)
+Case 197: praT has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
+Case 198: prA has 02P(sanverb1) < 02P + 02A(mwvlex1)
+Case 199: pruz has 01P,09P(sanverb1) < 01P,09P + 04P,05A,05P,10A,10P(mwvlex1)
+Case 200: plu has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 201: Pal has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 202: bal has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
+Case 203: bAD has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 204: bil has 10A,10P(sanverb1) < 10A,10P + 06(mwvlex1)
+Case 205: buD has 01A,01P,04A(sanverb1) < 01A,01P,04A + 04P(mwvlex1)
+Case 206: bfMh has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
+Case 207: bfh has 01P,06P(sanverb1) < 01P,06P + 01A,10A,10P(mwvlex1)
+Case 208: beh has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 209: BaYj has 07P,10A,10P(sanverb1) < 07P,10A,10P + 07A(mwvlex1)
+Case 210: Baw has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 211: Barts has 10A(sanverb1) < 10A + 01(mwvlex1)
+Case 212: Baz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 213: BAz has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 214: BAs has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 215: Bikz has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 216: Bid has 07A,07P(sanverb1) < 07A,07P + 01P(mwvlex1)
+Case 217: BI has 03P(sanverb1) < 03P + 01A,03A,10A,10P(mwvlex1)
+Case 218: Buj has 06P,07P(sanverb1) < 06P,07P + 06A,07A(mwvlex1)
+Case 219: Bf has 01A,01P,03A,03P(sanverb1) < 01A,01P,03A,03P + 02A,02P(mwvlex1)
+Case 220: BfS has 04P(sanverb1) < 04P + 06P(mwvlex1)
+Case 221: BraMS has 01A,04P(sanverb1) < 01A,04P + 01P,04A(mwvlex1)
+Case 222: BrAj has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 223: BrAS has 01A(sanverb1) < 01A + 04A(mwvlex1)
+Case 224: BlAS has 01A(sanverb1) < 01A + 04A(mwvlex1)
+Case 225: maT has 01P(sanverb1) < 01P + 09A,09P(mwvlex1)
+Case 226: manT has 01P,09P(sanverb1) < 01P,09P + 09A(mwvlex1)
+Case 227: mand has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 228: mal has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
+Case 229: mA has 02P,03A,04A(sanverb1) < 02P,03A,04A + 03P(mwvlex1)
+Case 230: mArg has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 231: mind has 10A,10P(sanverb1) < 10A,10P + 01A,04P(mwvlex1)
+Case 232: mih has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 233: mIl has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 234: muj has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 235: muYc has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 236: muYj has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 237: mud has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
+Case 238: muz has 09P(sanverb1) < 09P + 01P,06P(mwvlex1)
+Case 239: muh has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 240: mf has 06A(sanverb1) < 06A + 01A,01P,06P(mwvlex1)
+Case 241: mfkz has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 242: mfg has 10A(sanverb1) < 10A + 04P(mwvlex1)
+Case 243: mfj has 02P,10A,10P(sanverb1) < 02P,10A,10P + 01A,01P,02A,06A,06P(mwvlex1)
+Case 244: mfq has 06P,09P(sanverb1) < 06P,09P + 06A,10A,10P(mwvlex1)
+Case 245: mfd has 09P(sanverb1) < 09P + 01A,01P(mwvlex1)
+Case 246: mfD has 01A,01P(sanverb1) < 01A,01P + 06A,06P(mwvlex1)
+Case 247: mfS has 06P(sanverb1) < 06P + 06A(mwvlex1)
+Case 248: mfz has 01P,04A,04P,10A,10P(sanverb1) < 01P,04A,04P,10A,10P + 01A(mwvlex1)
+Case 249: me has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 250: mokz has 10A,10P(sanverb1) < 10A,10P + 01A(mwvlex1)
+Case 251: yakz has 10A(sanverb1) < 10A + 01A,01P(mwvlex1)
+Case 252: yat has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
+Case 253: yantr has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
+Case 254: yaB has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 255: yuD has 04A(sanverb1) < 04A + 01P,04P(mwvlex1)
+Case 256: yez has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 257: raMh has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
+Case 258: rakz has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 259: raR has 01P(sanverb1) < 01P + 04P,10A,10P(mwvlex1)
+Case 260: rad has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 261: ram has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 262: ramb has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 263: ras has 01P,10A,10P(sanverb1) < 01P,10A,10P + 01A(mwvlex1)
+Case 264: rA has 02P(sanverb1) < 02P + 02A(mwvlex1)
+Case 265: rAs has 01A(sanverb1) < 01A + 02A,02P(mwvlex1)
+Case 266: riK has 01P(sanverb1) < 01P + 06P(mwvlex1)
+Case 267: ric has 07A,07P,10A,10P(sanverb1) < 07A,07P,10A,10P + 01P,04A(mwvlex1)
+Case 268: rih has 06P(sanverb1) < 06P + 02A,02P(mwvlex1)
+Case 269: rI has 04A,09P(sanverb1) < 04A,09P + 04P(mwvlex1)
+Case 270: ruMS has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 271: ruc has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 272: ruW has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 273: ruD has 07A,07P(sanverb1) < 07A,07P + 01P(mwvlex1)
+Case 274: rUz has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 275: rej has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 276: reB has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 277: lakz has 10A,10P(sanverb1) < 10A,10P + 01A,01P(mwvlex1)
+Case 278: laz has 01A,01P(sanverb1) < 01A,01P + 04A,04P,10A,10P(mwvlex1)
+Case 279: lip has 06A,06P(sanverb1) < 06A,06P + 01A,01P(mwvlex1)
+Case 280: lup has 04P,06A,06P(sanverb1) < 04P,06A,06P + 04A(mwvlex1)
+Case 281: vaj has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 282: van has 01P,08A(sanverb1) < 01P,08A + 08P(mwvlex1)
+Case 283: vay has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 284: val has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 285: valg has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 286: valh has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
+Case 287: vaS has 02P(sanverb1) < 02P + 01,03(mwvlex1)
+Case 288: vas has 01P,02A,04P,10A,10P(sanverb1) < 01P,02A,04P,10A,10P + 06P(mwvlex1)
+Case 289: vic has 07A,07P(sanverb1) < 07A,07P + 03(mwvlex1)
+Case 290: viD has 06P(sanverb1) < 06P + 01A,06A(mwvlex1)
+Case 291: viS has 06P(sanverb1) < 06P + 01P,06A(mwvlex1)
+Case 292: vI has 02P(sanverb1) < 02P + 02A(mwvlex1)
+Case 293: vIj has 01A(sanverb1) < 01A + 01P,10A,10P(mwvlex1)
+Case 294: vfR has 06P(sanverb1) < 06P + 08A,08P(mwvlex1)
+Case 295: vfD has 01A,10A,10P(sanverb1) < 01A,10A,10P + 01P(mwvlex1)
+Case 296: veh has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 297: vE has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 298: vyac has 06P(sanverb1) < 06P + 03(mwvlex1)
+Case 299: vyaD has 04P(sanverb1) < 04P + 04A(mwvlex1)
+Case 300: vyuz has 04P(sanverb1) < 04P + 10A,10P(mwvlex1)
+Case 301: vrIq has 04P(sanverb1) < 04P + 01A,10A,10P(mwvlex1)
+Case 302: vrUs has 10A,10P(sanverb1) < 10A,10P + 01(mwvlex1)
+Case 303: SaMs has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 304: SaNk has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 305: Saw has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 306: SaR has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 307: Sad has 01P,06P(sanverb1) < 01P,06P + 06A(mwvlex1)
+Case 308: Samb has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
+Case 309: Sal has 01A,01P(sanverb1) < 01A,01P + 10A,10P(mwvlex1)
+Case 310: Si has 05A,05P(sanverb1) < 05A,05P + 03P(mwvlex1)
+Case 311: Sikz has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 312: SiYj has 02A(sanverb1) < 02A + 01,10A,10P(mwvlex1)
+Case 313: SI has 02A(sanverb1) < 02A + 01,04A(mwvlex1)
+Case 314: SuD has 04P(sanverb1) < 04P + 01A,01P,04A(mwvlex1)
+Case 315: Suz has 04P(sanverb1) < 04P + 06P(mwvlex1)
+Case 316: SUl has 01P(sanverb1) < 01P + 01A,04A,04P(mwvlex1)
+Case 317: SF has 09P(sanverb1) < 09P + 09A(mwvlex1)
+Case 318: So has 04P(sanverb1) < 04P + 03A,03P,04A(mwvlex1)
+Case 319: SyE has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 320: SrA has 02P(sanverb1) < 02P + 01,04P(mwvlex1)
+Case 321: SrE has 01P(sanverb1) < 01P + 02P,04P(mwvlex1)
+Case 322: saYj has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 323: saw has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 324: sap has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 325: sAD has 05P(sanverb1) < 05P + 01A,01P,04(mwvlex1)
+Case 326: su has 01P,02P,05A,05P(sanverb1) < 01P,02P,05A,05P + 01A(mwvlex1)
+Case 327: suK has 10A,10P(sanverb1) < 10A,10P + 04P(mwvlex1)
+Case 328: sur has 06P(sanverb1) < 06P + 10A,10P(mwvlex1)
+Case 329: sf has 01P,03P(sanverb1) < 01P,03P + 03A,10A,10P(mwvlex1)
+Case 330: skand has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 331: skamB has 01A,09P(sanverb1) < 01A,09P + 05(mwvlex1)
+Case 332: sku has 09A,09P(sanverb1) < 09A,09P + 05(mwvlex1)
+Case 333: skumB has 09P(sanverb1) < 09P + 05(mwvlex1)
+Case 334: stam has 01P(sanverb1) < 01P + 10A,10P(mwvlex1)
+Case 335: stamB has 01A,09P(sanverb1) < 01A,09P + 05(mwvlex1)
+Case 336: stiG has 05A(sanverb1) < 05A + 05P(mwvlex1)
+Case 337: stuB has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 338: stumB has 09P(sanverb1) < 09P + 05(mwvlex1)
+Case 339: stf has 05A,05P(sanverb1) < 05A,05P + 09A,09P(mwvlex1)
+Case 340: stF has 09A,09P(sanverb1) < 09A,09P + 05A,05P(mwvlex1)
+Case 341: step has 01A(sanverb1) < 01A + 10A,10P(mwvlex1)
+Case 342: styE has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 343: sTA has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 344: snA has 02P(sanverb1) < 02P + 04A,04P(mwvlex1)
+Case 345: snih has 04P,10A,10P(sanverb1) < 04P,10A,10P + 01P(mwvlex1)
+Case 346: sparD has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 347: svar has 10A,10P(sanverb1) < 10A,10P + 01P(mwvlex1)
+Case 348: had has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 349: han has 02P(sanverb1) < 02P + 01,02A(mwvlex1)
+Case 350: hA has 03A,03P(sanverb1) < 03A,03P + 01(mwvlex1)
+Case 351: hi has 05P(sanverb1) < 05P + 05A(mwvlex1)
+Case 352: hiMs has 07P,10A,10P(sanverb1) < 07P,10A,10P + 01,07A(mwvlex1)
+Case 353: hu has 03P(sanverb1) < 03P + 03A(mwvlex1)
+Case 354: hfz has 01P,04P(sanverb1) < 01P,04P + 01A(mwvlex1)
+Case 355: hras has 01P(sanverb1) < 01P + 01A(mwvlex1)
+Case 356: hrez has 01A(sanverb1) < 01A + 01P(mwvlex1)
+Case 357: hvf has 01P(sanverb1) < 01P + 01A(mwvlex1)
 --------------------------------------------------
-53 cases of SANVERB1 CPS > MWVLEX1 CPS
+51 cases of SANVERB1 CPS > MWVLEX1 CPS
 --------------------------------------------------
 Case 01: an has 02P + 04A(sanverb1) > 02P (mwvlex1)
 Case 02: uC has 01P + 06P(sanverb1) > 01P (mwvlex1)
@@ -1388,54 +1395,52 @@ Case 04: kas has 01P + 02A(sanverb1) > 01P (mwvlex1)
 Case 05: kit has 03P + 01P(sanverb1) > 03P (mwvlex1)
 Case 06: kzur has 06P + 01P(sanverb1) > 06P (mwvlex1)
 Case 07: garj has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 08: gup has 04A,04P + 01A,01P(sanverb1) > 04A,04P (mwvlex1)
-Case 09: caw has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 10: can has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 11: carc has 01P,10A,10P + 06P(sanverb1) > 01P,10A,10P (mwvlex1)
-Case 12: cAy has 01A + 01P(sanverb1) > 01A (mwvlex1)
-Case 13: Jaz has 01A + 01P(sanverb1) > 01A (mwvlex1)
-Case 14: tuRq has 01A + 10A,10P(sanverb1) > 01A (mwvlex1)
-Case 15: tud has 06P + 06A(sanverb1) > 06P (mwvlex1)
-Case 16: tfd has 07A + 07P(sanverb1) > 07A (mwvlex1)
-Case 17: dal has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 18: dfp has 04P,06P + 10A,10P(sanverb1) > 04P,06P (mwvlex1)
-Case 19: Df has 01A,01P + 06A(sanverb1) > 01A,01P (mwvlex1)
-Case 20: Dvan has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 21: naw has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 22: nF has 09P + 01P(sanverb1) > 09P (mwvlex1)
-Case 23: ned has 01P + 01A(sanverb1) > 01P (mwvlex1)
-Case 24: paT has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 25: pal has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 26: piYj has 02A,10A,10P + 02P(sanverb1) > 02A,10A,10P (mwvlex1)
-Case 27: piS has 06A,06P + 10A,10P(sanverb1) > 06A,06P (mwvlex1)
-Case 28: puR has 06P,10A,10P + 06A(sanverb1) > 06P,10A,10P (mwvlex1)
-Case 29: puz has 01P,04P,09P + 04A(sanverb1) > 01P,04P,09P (mwvlex1)
-Case 30: bis has 04P + 01P(sanverb1) > 04P (mwvlex1)
-Case 31: Baj has 01A,01P + 10A,10P(sanverb1) > 01A,01P (mwvlex1)
-Case 32: Bas has 03P + 04P(sanverb1) > 03P (mwvlex1)
-Case 33: maRq has 01A,01P + 10A,10P(sanverb1) > 01A,01P (mwvlex1)
-Case 34: mAn has 01A,10A,10P + 04A(sanverb1) > 01A,10A,10P (mwvlex1)
-Case 35: mid has 01A,01P,04P,10A,10P + 04A(sanverb1) > 01A,01P,04P,10A,10P (mwvlex1)
-Case 36: mU has 01A + 09A,09P(sanverb1) > 01A (mwvlex1)
-Case 37: yuj has 07A,07P + 10A,10P(sanverb1) > 07A,07P (mwvlex1)
-Case 38: raNg has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 39: raw has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 40: luw has 01A,04P,10A,10P + 01P,06P(sanverb1) > 01A,04P,10A,10P (mwvlex1)
-Case 41: viC has 10A,10P + 06A,06P(sanverb1) > 10A,10P (mwvlex1)
-Case 42: viz has 01P,03P,09P + 03A(sanverb1) > 01P,03P,09P (mwvlex1)
-Case 43: vis has 04P + 01P(sanverb1) > 04P (mwvlex1)
-Case 44: vft has 01A + 04A,10A,10P(sanverb1) > 01A (mwvlex1)
-Case 45: ven has 01P + 01A(sanverb1) > 01P (mwvlex1)
-Case 46: Sak has 05P + 04A,04P(sanverb1) > 05P (mwvlex1)
-Case 47: SumB has 01P + 06P(sanverb1) > 01P (mwvlex1)
-Case 48: SfD has 01A,01P + 10A,10P(sanverb1) > 01A,01P (mwvlex1)
-Case 49: sajj has 01P + 01A(sanverb1) > 01P (mwvlex1)
-Case 50: stan has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
-Case 51: sPuw has 01A,01P,06P + 06A(sanverb1) > 01A,01P,06P (mwvlex1)
-Case 52: smi has 01A + 10A,10P(sanverb1) > 01A (mwvlex1)
-Case 53: hoq has 01A + 01P(sanverb1) > 01A (mwvlex1)
+Case 08: caw has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 09: can has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 10: carc has 01P,10A,10P + 06P(sanverb1) > 01P,10A,10P (mwvlex1)
+Case 11: cAy has 01A + 01P(sanverb1) > 01A (mwvlex1)
+Case 12: Jaz has 01A + 01P(sanverb1) > 01A (mwvlex1)
+Case 13: tuRq has 01A + 10A,10P(sanverb1) > 01A (mwvlex1)
+Case 14: tud has 06P + 06A(sanverb1) > 06P (mwvlex1)
+Case 15: tfd has 07A + 07P(sanverb1) > 07A (mwvlex1)
+Case 16: dal has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 17: dfp has 04P,06P + 10A,10P(sanverb1) > 04P,06P (mwvlex1)
+Case 18: Df has 01A,01P + 06A(sanverb1) > 01A,01P (mwvlex1)
+Case 19: Dvan has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 20: naw has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 21: nF has 09P + 01P(sanverb1) > 09P (mwvlex1)
+Case 22: ned has 01P + 01A(sanverb1) > 01P (mwvlex1)
+Case 23: paT has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 24: pal has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 25: puR has 06P,10A,10P + 06A(sanverb1) > 06P,10A,10P (mwvlex1)
+Case 26: puT has 04A,04P + 10P(sanverb1) > 04A,04P (mwvlex1)
+Case 27: puz has 01P,04P,09P + 10A,10P(sanverb1) > 01P,04P,09P (mwvlex1)
+Case 28: bis has 04P + 01P(sanverb1) > 04P (mwvlex1)
+Case 29: Baj has 01A,01P + 10A,10P(sanverb1) > 01A,01P (mwvlex1)
+Case 30: Bas has 03P + 04P(sanverb1) > 03P (mwvlex1)
+Case 31: maRq has 01A,01P + 10A,10P(sanverb1) > 01A,01P (mwvlex1)
+Case 32: mid has 01A,01P,04P,10A,10P + 04A(sanverb1) > 01A,01P,04P,10A,10P (mwvlex1)
+Case 33: mU has 01A + 09A,09P(sanverb1) > 01A (mwvlex1)
+Case 34: yuj has 07A,07P + 04A,10A,10P(sanverb1) > 07A,07P (mwvlex1)
+Case 35: raNg has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 36: raw has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 37: luw has 01A,04P,10A,10P + 01P,06P(sanverb1) > 01A,04P,10A,10P (mwvlex1)
+Case 38: viC has 10A,10P + 06A,06P(sanverb1) > 10A,10P (mwvlex1)
+Case 39: vid has 02P,06A,06P,07A + 04A,10A(sanverb1) > 02P,06A,06P,07A (mwvlex1)
+Case 40: viz has 01P,03P,09P + 03A(sanverb1) > 01P,03P,09P (mwvlex1)
+Case 41: vis has 04P + 01P(sanverb1) > 04P (mwvlex1)
+Case 42: vft has 01A + 04A,10A,10P(sanverb1) > 01A (mwvlex1)
+Case 43: ven has 01P + 01A(sanverb1) > 01P (mwvlex1)
+Case 44: Sak has 05P + 04A,04P(sanverb1) > 05P (mwvlex1)
+Case 45: SumB has 01P + 06P(sanverb1) > 01P (mwvlex1)
+Case 46: SfD has 01A,01P + 10A,10P(sanverb1) > 01A,01P (mwvlex1)
+Case 47: sajj has 01P + 01A(sanverb1) > 01P (mwvlex1)
+Case 48: stan has 01P + 10A,10P(sanverb1) > 01P (mwvlex1)
+Case 49: sPuw has 01A,01P,06P + 10A,10P(sanverb1) > 01A,01P,06P (mwvlex1)
+Case 50: smi has 01A + 10A,10P(sanverb1) > 01A (mwvlex1)
+Case 51: hoq has 01A + 01P(sanverb1) > 01A (mwvlex1)
 --------------------------------------------------
-121 cases of DIFFERENT CPS
+116 cases of DIFFERENT CPS
 --------------------------------------------------
 Case 01: aYj has 07P,10A,10P(sanverb1) != 07A,07P(mwvlex1)
 Case 02: arc has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
@@ -1462,102 +1467,97 @@ Case 22: kzIb has 01A(sanverb1) != 01P(mwvlex1)
 Case 23: Kad has 01P(sanverb1) != 06P(mwvlex1)
 Case 24: gal has 01P,10A(sanverb1) != 01A,01P(mwvlex1)
 Case 25: gA has 01A,03P(sanverb1) != 02A,02P,03A,03P(mwvlex1)
-Case 26: granT has 01A,09P,10A,10P(sanverb1) != 01A,01P,09P(mwvlex1)
-Case 27: gras has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 28: Gaw has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 29: Guz has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 30: GUrR has 01A,06P(sanverb1) != 01A,01P(mwvlex1)
-Case 31: car has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 32: cal has 01P,06P,10A,10P(sanverb1) != 01A(mwvlex1)
-Case 33: ci has 05A,05P,10A,10P(sanverb1) != 01,03A,05A,05P(mwvlex1)
-Case 34: cit has 01P,10A(sanverb1) != 01P,02A,03A,03P(mwvlex1)
-Case 35: cud has 10A,10P(sanverb1) != 01A(mwvlex1)
-Case 36: cumb has 01P,10A,10P(sanverb1) != 01A,10A,10P(mwvlex1)
-Case 37: jakz has 02P(sanverb1) != 02A(mwvlex1)
-Case 38: jan has 03P,04A(sanverb1) != 01A,02A,03A,04A,10A,10P(mwvlex1)
-Case 39: jap has 01P(sanverb1) != 01A(mwvlex1)
-Case 40: jamB has 10A,10P(sanverb1) != 01A(mwvlex1)
-Case 41: jarj has 06P(sanverb1) != 01(mwvlex1)
-Case 42: jalp has 01P(sanverb1) != 01A(mwvlex1)
-Case 43: jas has 04A,04P,10A,10P(sanverb1) != 01A,01P,04P(mwvlex1)
-Case 44: ji has 01P,10A,10P(sanverb1) != 01A,09A(mwvlex1)
-Case 45: jIv has 01P(sanverb1) != 01A(mwvlex1)
-Case 46: juz has 06A,10A,10P(sanverb1) != 01A,01P,03P,06A,06P(mwvlex1)
-Case 47: jYA has 09P,10A,10P(sanverb1) != 03A,03P,09A,09P(mwvlex1)
-Case 48: JarJ has 06P(sanverb1) != 01(mwvlex1)
-Case 49: tap has 01P,04A,04P(sanverb1) != 01A,04A,04P(mwvlex1)
-Case 50: tam has 04P(sanverb1) != 04A(mwvlex1)
-Case 51: tarj has 01P,10A(sanverb1) != 01A(mwvlex1)
-Case 52: tij has 01A,10A,10P(sanverb1) != 01P(mwvlex1)
-Case 53: tip has 01A(sanverb1) != 01P(mwvlex1)
-Case 54: tuj has 01P,10A,10P(sanverb1) != 01P,06A,06P(mwvlex1)
-Case 55: tfp has 04A,04P,05P,06P,10A,10P(sanverb1) != 01A,04A,04P,05P,06A,06P(mwvlex1)
-Case 56: tfz has 04P(sanverb1) != 04A(mwvlex1)
-Case 57: tras has 04A,04P(sanverb1) != 01,04A,10A,10P(mwvlex1)
-Case 58: truw has 06P,10A(sanverb1) != 04A,06P(mwvlex1)
-Case 59: damB has 05P(sanverb1) != 01,05A(mwvlex1)
-Case 60: das has 04P,10A(sanverb1) != 01,04A(mwvlex1)
-Case 61: dA has 01P,02P,03A,03P(sanverb1) != 01A,03A,04P(mwvlex1)
-Case 62: dfMh has 06P(sanverb1) != 01A,01P,04A,04P(mwvlex1)
-Case 63: dfB has 06A,06P,10A,10P(sanverb1) != 01,06P,10A,10P(mwvlex1)
+Case 26: gup has 01A,01P,04P,10A,10P(sanverb1) != 04A,04P(mwvlex1)
+Case 27: granT has 01A,09P,10A,10P(sanverb1) != 01A,01P,09P(mwvlex1)
+Case 28: gras has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 29: Gaw has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 30: Guz has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 31: GUrR has 01A,06P(sanverb1) != 01A,01P(mwvlex1)
+Case 32: car has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 33: cal has 01P,06P,10A,10P(sanverb1) != 01A(mwvlex1)
+Case 34: ci has 05A,05P,10A,10P(sanverb1) != 01,03A,05A,05P(mwvlex1)
+Case 35: cit has 01P,10A(sanverb1) != 01P,02A,03A,03P(mwvlex1)
+Case 36: cud has 10A,10P(sanverb1) != 01A(mwvlex1)
+Case 37: cumb has 01P,10A,10P(sanverb1) != 01A,10A,10P(mwvlex1)
+Case 38: Cfd has 07A,07P,10A,10P(sanverb1) != 01A,07A,07P(mwvlex1)
+Case 39: jakz has 02P(sanverb1) != 02A(mwvlex1)
+Case 40: jan has 03P,04A(sanverb1) != 01A,02A,03A,04A,10A,10P(mwvlex1)
+Case 41: jap has 01P(sanverb1) != 01A(mwvlex1)
+Case 42: jamB has 10A,10P(sanverb1) != 01A(mwvlex1)
+Case 43: jarj has 06P(sanverb1) != 01(mwvlex1)
+Case 44: jalp has 01P(sanverb1) != 01A(mwvlex1)
+Case 45: jas has 04P,10A,10P(sanverb1) != 01A,01P,04P(mwvlex1)
+Case 46: ji has 01P,10A,10P(sanverb1) != 01A,09A(mwvlex1)
+Case 47: jIv has 01P(sanverb1) != 01A(mwvlex1)
+Case 48: juz has 06A,10A,10P(sanverb1) != 01A,01P,03P,06A,06P(mwvlex1)
+Case 49: jYA has 09P,10A,10P(sanverb1) != 03A,03P,09A,09P(mwvlex1)
+Case 50: JarJ has 06P(sanverb1) != 01(mwvlex1)
+Case 51: tap has 01P,04A,10A,10P(sanverb1) != 01A,04A,04P(mwvlex1)
+Case 52: tam has 04P(sanverb1) != 04A(mwvlex1)
+Case 53: tarj has 01P,10A(sanverb1) != 01A(mwvlex1)
+Case 54: tij has 01A,10A,10P(sanverb1) != 01P(mwvlex1)
+Case 55: tip has 01A(sanverb1) != 01P(mwvlex1)
+Case 56: tuj has 01P,10A,10P(sanverb1) != 01P,06A,06P(mwvlex1)
+Case 57: tfp has 05P,06P,10A,10P(sanverb1) != 01A,04,05P,06A,06P(mwvlex1)
+Case 58: tfz has 04P(sanverb1) != 04A(mwvlex1)
+Case 59: tras has 04P,10A,10P(sanverb1) != 01,04A,10A,10P(mwvlex1)
+Case 60: truw has 06P,10A(sanverb1) != 04A,06P(mwvlex1)
+Case 61: damB has 05P(sanverb1) != 01,05A(mwvlex1)
+Case 62: das has 04P,10A(sanverb1) != 01,04A(mwvlex1)
+Case 63: dA has 01P,02P,03A,03P(sanverb1) != 01A,03A,04P(mwvlex1)
 Case 64: dF has 01P,05P,09P(sanverb1) != 02A,02P,09P(mwvlex1)
 Case 65: drU has 09A,09P(sanverb1) != 05P,09P(mwvlex1)
-Case 66: DU has 05A,05P,09A,09P,10A,10P(sanverb1) != 01P,02A,05A,05P,06P,09A,09P(mwvlex1)
-Case 67: Dfz has 05A,05P(sanverb1) != 01P,05P(mwvlex1)
+Case 66: DU has 05A,05P,06P,09A,09P,10A,10P(sanverb1) != 01P,02A,05A,05P,06P,09A,09P(mwvlex1)
+Case 67: Dfz has 05P,10A,10P(sanverb1) != 01P,05P(mwvlex1)
 Case 68: paYc has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
 Case 69: pat has 01P,10A,10P(sanverb1) != 01A,01P,04A(mwvlex1)
 Case 70: pad has 04A,10A(sanverb1) != 01P,04A(mwvlex1)
-Case 71: piMs has 06A,06P(sanverb1) != 01,10A,10P(mwvlex1)
-Case 72: pfc has 07A,07P,10A,10P(sanverb1) != 01P,02,03A,03P,07A,07P(mwvlex1)
-Case 73: banD has 09P,10A,10P(sanverb1) != 01A,01P,04A,04P,09A,09P(mwvlex1)
-Case 74: BU has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 75: BUz has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 76: BfMS has 03P,10A,10P(sanverb1) != 01,10A,10P(mwvlex1)
-Case 77: maNg has 01P(sanverb1) != 01A(mwvlex1)
-Case 78: mad has 04P,10A(sanverb1) != 01A,01P,03A,03P,04P(mwvlex1)
-Case 79: mI has 04A,04P,09A,09P(sanverb1) != 01,09A,09P,10A,10P(mwvlex1)
-Case 80: mUl has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 81: mep has 01A(sanverb1) != 01P(mwvlex1)
-Case 82: yam has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 83: yu has 02P,09A,09P,10A(sanverb1) != 02A,02P,03A,03P,06,09A,09P(mwvlex1)
-Case 84: ri has 05P,06P(sanverb1) != 04A,04P,09P(mwvlex1)
-Case 85: ru has 02P,10A(sanverb1) != 01A,02P(mwvlex1)
-Case 86: ruj has 06A,06P(sanverb1) != 06P,10A,10P(mwvlex1)
+Case 71: piS has 10A,10P(sanverb1) != 06A,06P(mwvlex1)
+Case 72: pfc has 02A,07P,10A,10P(sanverb1) != 01P,02A,03A,03P,07A,07P(mwvlex1)
+Case 73: prI has 04A,04P,09A,10A,10P(sanverb1) != 04A,04P,09A,09P(mwvlex1)
+Case 74: banD has 09P,10A,10P(sanverb1) != 01A,01P,04A,04P,09A,09P(mwvlex1)
+Case 75: BU has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 76: BUz has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 77: BfMS has 04P,10A,10P(sanverb1) != 01,10A,10P(mwvlex1)
+Case 78: maNg has 01P(sanverb1) != 01A(mwvlex1)
+Case 79: mad has 04P,10A(sanverb1) != 01A,01P,03A,03P,04P(mwvlex1)
+Case 80: mI has 04A,09A,09P,10A,10P(sanverb1) != 01,09A,09P,10A,10P(mwvlex1)
+Case 81: muc has 06A,06P,10A,10P(sanverb1) != 01A,06A,06P(mwvlex1)
+Case 82: mUl has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 83: mep has 01A(sanverb1) != 01P(mwvlex1)
+Case 84: yam has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 85: yu has 02P,09A,09P,10A(sanverb1) != 02A,02P,03A,03P,06,09A,09P(mwvlex1)
+Case 86: ri has 05P,06P(sanverb1) != 04A,04P,09P(mwvlex1)
 Case 87: lal has 01P,10A(sanverb1) != 01A,01P(mwvlex1)
 Case 88: liK has 01P,06P(sanverb1) != 06A,06P(mwvlex1)
-Case 89: lI has 06A,09P,10A,10P(sanverb1) != 01P,04A,04P,09P(mwvlex1)
+Case 89: lI has 04A,09P,10A,10P(sanverb1) != 01P,04A,04P,09P(mwvlex1)
 Case 90: luW has 01A,01P,04P,06P(sanverb1) != 01A,01P,06P,10A,10P(mwvlex1)
-Case 91: vac has 02A,02P(sanverb1) != 02P,03A,03P(mwvlex1)
+Case 91: vac has 02P,10A,10P(sanverb1) != 02P,03A,03P(mwvlex1)
 Case 92: vaYc has 01P,10A(sanverb1) != 01A,01P(mwvlex1)
 Case 93: vad has 01P,10A,10P(sanverb1) != 01A,01P(mwvlex1)
 Case 94: vall has 01A(sanverb1) != 01P(mwvlex1)
-Case 95: vas has 01P,02A,02P,04P,10A,10P(sanverb1) != 01P,02A,04P,06P,10A,10P(mwvlex1)
-Case 96: vij has 03A,03P,06A,07P(sanverb1) != 01P,03A,03P,06A(mwvlex1)
-Case 97: vid has 02P,04A,07A,07P,10A(sanverb1) != 02P,06A,06P,07A(mwvlex1)
-Case 98: vip has 10A,10P(sanverb1) != 01A(mwvlex1)
-Case 99: vil has 06A,06P(sanverb1) != 06P,10A,10P(mwvlex1)
-Case 100: vf has 05A,05P,09A,10A,10P(sanverb1) != 01A,01P,05A,05P,09A,09P(mwvlex1)
-Case 101: vfj has 02A,07P,10A,10P(sanverb1) != 01,02A,07P(mwvlex1)
-Case 102: vfz has 01P,10A(sanverb1) != 01A,01P(mwvlex1)
-Case 103: Sam has 04P,10A(sanverb1) != 04P,09(mwvlex1)
-Case 104: Siz has 01P,07A,07P(sanverb1) != 01P,07P,10A,10P(mwvlex1)
-Case 105: SunD has 01P,10A,10P(sanverb1) != 01A,01P,04A,04P(mwvlex1)
-Case 106: SuB has 01A,01P,06P(sanverb1) != 01A,06A,06P(mwvlex1)
-Case 107: SraT has 01P,10A,10P(sanverb1) != 09A,09P(mwvlex1)
-Case 108: SranT has 01A,09P,10A,10P(sanverb1) != 09A,09P(mwvlex1)
-Case 109: Sru has 01P(sanverb1) != 05A,05P(mwvlex1)
-Case 110: Sliz has 01P,10A,10P(sanverb1) != 01P,04A,04P(mwvlex1)
-Case 111: sam has 01P,04P(sanverb1) != 01P,10A,10P(mwvlex1)
-Case 112: sah has 01A,04A,04P(sanverb1) != 01A,04P,10A,10P(mwvlex1)
-Case 113: sU has 02A,04A,06P(sanverb1) != 02A,06A,06P(mwvlex1)
-Case 114: sfj has 04A,06P(sanverb1) != 06A,06P(mwvlex1)
-Case 115: sPal has 06P(sanverb1) != 01P(mwvlex1)
-Case 116: smf has 01P,05P(sanverb1) != 01A,01P(mwvlex1)
-Case 117: svad has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 118: svAd has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
-Case 119: svid has 01A,04P(sanverb1) != 01A,01P(mwvlex1)
-Case 120: hf has 01A,01P,03P(sanverb1) != 01A,01P,09A(mwvlex1)
-Case 121: hlag has 01P(sanverb1) != 01A(mwvlex1)
+Case 95: vij has 03A,03P,06A,07P(sanverb1) != 01P,03A,03P,06A(mwvlex1)
+Case 96: vip has 10A,10P(sanverb1) != 01A(mwvlex1)
+Case 97: vf has 05A,05P,09A,10A,10P(sanverb1) != 01A,01P,05A,05P,09A,09P(mwvlex1)
+Case 98: vfj has 02A,07P,10A,10P(sanverb1) != 01,02A,07P(mwvlex1)
+Case 99: vfz has 01P,10A(sanverb1) != 01A,01P(mwvlex1)
+Case 100: Sam has 04P,10A(sanverb1) != 04P,09(mwvlex1)
+Case 101: SunD has 01P,10A,10P(sanverb1) != 01A,01P,04A,04P(mwvlex1)
+Case 102: SuB has 01A,01P,06P(sanverb1) != 01A,06A,06P(mwvlex1)
+Case 103: SraT has 01P,10A,10P(sanverb1) != 09A,09P(mwvlex1)
+Case 104: SranT has 01A,09P,10A,10P(sanverb1) != 09A,09P(mwvlex1)
+Case 105: Sru has 01P(sanverb1) != 05A,05P(mwvlex1)
+Case 106: Sliz has 01P,04P,10A,10P(sanverb1) != 01P,04A,04P(mwvlex1)
+Case 107: sam has 01P,04P(sanverb1) != 01P,10A,10P(mwvlex1)
+Case 108: sU has 02A,04A,06P(sanverb1) != 02A,06A,06P(mwvlex1)
+Case 109: sfj has 04A,06P(sanverb1) != 06A,06P(mwvlex1)
+Case 110: sPal has 06P(sanverb1) != 01P(mwvlex1)
+Case 111: smf has 01P,05P(sanverb1) != 01A,01P(mwvlex1)
+Case 112: svad has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 113: svAd has 01A,10A,10P(sanverb1) != 01A,01P(mwvlex1)
+Case 114: svid has 01A,04P(sanverb1) != 01A,01P(mwvlex1)
+Case 115: hf has 01A,01P,03P(sanverb1) != 01A,01P,09A(mwvlex1)
+Case 116: hlag has 01P(sanverb1) != 01A(mwvlex1)
 --------------------------------------------------
 406 cases of STEM IN MWVLEX1 ONLY
 --------------------------------------------------
@@ -1968,7 +1968,7 @@ Case 404: hrep:01A in mwvlex1
 Case 405: hrOq:01P in mwvlex1
 Case 406: hvF:01A,01P in mwvlex1
 --------------------------------------------------
-106 cases of STEM IN SANVERB1 ONLY
+107 cases of STEM IN SANVERB1 ONLY
 --------------------------------------------------
 Case 01: adq:01P in sanverb1
 Case 02: anuruD:04A in sanverb1
@@ -2002,77 +2002,78 @@ Case 29: GuMz:01A in sanverb1
 Case 30: GrAG:01A in sanverb1
 Case 31: citr:10A,10P in sanverb1
 Case 32: CaYj:10A,10P in sanverb1
-Case 33: Cand:10A,10P in sanverb1
-Case 34: Card:10A,10P in sanverb1
-Case 35: Cidr:10A,10P in sanverb1
-Case 36: Ced:10A,10P in sanverb1
-Case 37: jYap:10A,10P in sanverb1
-Case 38: Jarts:01P in sanverb1
-Case 39: tantr:10A in sanverb1
-Case 40: tIr:10A,10P in sanverb1
-Case 41: tuYj:01P,10A,10P in sanverb1
-Case 42: tutT:10A,10P in sanverb1
-Case 43: tUr:04A in sanverb1
-Case 44: tfMh:06P in sanverb1
-Case 45: trakz:01P in sanverb1
-Case 46: TaNk:01P in sanverb1
-Case 47: daRq:10A,10P in sanverb1
-Case 48: daridrA:02P in sanverb1
-Case 49: daS:05P in sanverb1
-Case 50: duHK:10A,10P in sanverb1
-Case 51: Dep:01A in sanverb1
-Case 52: nivAsa:10A,10P in sanverb1
-Case 53: palyUla:10A,10P in sanverb1
-Case 54: pAr:10A,10P in sanverb1
-Case 55: pij:10A,10P in sanverb1
-Case 56: piRW:10A,10P in sanverb1
-Case 57: pIv:01P in sanverb1
-Case 58: puzp:04P in sanverb1
-Case 59: pUr:04A,04P in sanverb1
-Case 60: pUrR:10A,10P in sanverb1
-Case 61: pUrv:10A,10P in sanverb1
-Case 62: baRw:01P in sanverb1
-Case 63: bazk:10A,10P in sanverb1
-Case 64: bas:04P in sanverb1
-Case 65: bast:10A in sanverb1
-Case 66: bes:01P in sanverb1
-Case 67: BAj:10A,10P in sanverb1
-Case 68: Bind:01P in sanverb1
-Case 69: masj:06P in sanverb1
-Case 70: muNK:01P in sanverb1
-Case 71: mUtr:10A,10P in sanverb1
-Case 72: mfRq:10A,10P in sanverb1
-Case 73: mraC:10A,10P in sanverb1
-Case 74: ruMs:02A,02P in sanverb1
-Case 75: laNK:01P in sanverb1
-Case 76: lasj:06A in sanverb1
-Case 77: liYj:10A,10P in sanverb1
-Case 78: luRq:01P in sanverb1
-Case 79: var:10A,10P in sanverb1
-Case 80: varz:01A in sanverb1
-Case 81: vus:04P in sanverb1
-Case 82: vfYj:02A in sanverb1
-Case 83: vyus:04A,04P in sanverb1
-Case 84: vraYj:01P in sanverb1
-Case 85: vrUz:10A,10P in sanverb1
-Case 86: Syand:01A in sanverb1
-Case 87: Syu:01A in sanverb1
-Case 88: SraMS:01A in sanverb1
-Case 89: zwyE:01P in sanverb1
-Case 90: saNket:10A,10P in sanverb1
-Case 91: saNgrAma:10A in sanverb1
-Case 92: saD:05P in sanverb1
-Case 93: sarkz:01P in sanverb1
-Case 94: sAm:10A,10P in sanverb1
-Case 95: sAr:10A,10P in sanverb1
-Case 96: sinv:01P in sanverb1
-Case 97: stal:01P in sanverb1
-Case 98: stIn:04P in sanverb1
-Case 99: stup:04A,04P in sanverb1
-Case 100: stom:10A,10P in sanverb1
-Case 101: strakz:01P in sanverb1
-Case 102: srok:01A in sanverb1
-Case 103: svaNk:01A in sanverb1
-Case 104: svazk:01A in sanverb1
-Case 105: hast:10A in sanverb1
-Case 106: hep:01A in sanverb1
+Case 33: Cada!:10A,10P in sanverb1
+Case 34: Cand:10A,10P in sanverb1
+Case 35: Card:10A,10P in sanverb1
+Case 36: Cidr:10A,10P in sanverb1
+Case 37: Ced:10A,10P in sanverb1
+Case 38: jYap:10A,10P in sanverb1
+Case 39: Jarts:01P in sanverb1
+Case 40: tantr:10A in sanverb1
+Case 41: tIr:10A,10P in sanverb1
+Case 42: tuYj:01P,10A,10P in sanverb1
+Case 43: tutT:10A,10P in sanverb1
+Case 44: tUr:04A in sanverb1
+Case 45: tfMh:06P in sanverb1
+Case 46: trakz:01P in sanverb1
+Case 47: TaNk:01P in sanverb1
+Case 48: daRq:10A,10P in sanverb1
+Case 49: daridrA:02P in sanverb1
+Case 50: daS:05P in sanverb1
+Case 51: duHK:10A,10P in sanverb1
+Case 52: Dep:01A in sanverb1
+Case 53: nivAsa:10A,10P in sanverb1
+Case 54: palyUla:10A,10P in sanverb1
+Case 55: pAr:10A,10P in sanverb1
+Case 56: pij:10A,10P in sanverb1
+Case 57: piRW:10A,10P in sanverb1
+Case 58: pIv:01P in sanverb1
+Case 59: puzp:04P in sanverb1
+Case 60: pUr:04A,04P,10A in sanverb1
+Case 61: pUrR:10A,10P in sanverb1
+Case 62: pUrv:10A,10P in sanverb1
+Case 63: baRw:01P in sanverb1
+Case 64: bazk:10A,10P in sanverb1
+Case 65: bas:04P in sanverb1
+Case 66: bast:10A in sanverb1
+Case 67: bes:01P in sanverb1
+Case 68: BAj:10A,10P in sanverb1
+Case 69: Bind:01P in sanverb1
+Case 70: masj:06P in sanverb1
+Case 71: muNK:01P in sanverb1
+Case 72: mUtr:10A,10P in sanverb1
+Case 73: mfRq:10A,10P in sanverb1
+Case 74: mraC:10A,10P in sanverb1
+Case 75: ruMs:10A,10P in sanverb1
+Case 76: laNK:01P in sanverb1
+Case 77: lasj:06A in sanverb1
+Case 78: liYj:10A,10P in sanverb1
+Case 79: luRq:01P in sanverb1
+Case 80: var:10A,10P in sanverb1
+Case 81: varz:01A in sanverb1
+Case 82: vus:04P in sanverb1
+Case 83: vfYj:02A in sanverb1
+Case 84: vyus:04P,10A,10P in sanverb1
+Case 85: vraYj:01P in sanverb1
+Case 86: vrUz:10A,10P in sanverb1
+Case 87: Syand:01A in sanverb1
+Case 88: Syu:01A in sanverb1
+Case 89: SraMS:01A in sanverb1
+Case 90: zwyE:01P in sanverb1
+Case 91: saNket:10A,10P in sanverb1
+Case 92: saNgrAma:10A in sanverb1
+Case 93: saD:05P in sanverb1
+Case 94: sarkz:01P in sanverb1
+Case 95: sAm:10A,10P in sanverb1
+Case 96: sAr:10A,10P in sanverb1
+Case 97: sinv:01P in sanverb1
+Case 98: stal:01P in sanverb1
+Case 99: stIn:04P in sanverb1
+Case 100: stup:04P,10A,10P in sanverb1
+Case 101: stom:10A,10P in sanverb1
+Case 102: strakz:01P in sanverb1
+Case 103: srok:01A in sanverb1
+Case 104: svaNk:01A in sanverb1
+Case 105: svazk:01A in sanverb1
+Case 106: hast:10A in sanverb1
+Case 107: hep:01A in sanverb1

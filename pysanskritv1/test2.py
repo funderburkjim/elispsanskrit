@@ -10,10 +10,11 @@ $ python -m trace --trace --ignore-module=init,re,sys,codecs,sandhi test2.py tem
 June 18, 2016. ForC_join1 is almost identical to perfect_join1.  How to avoid
  code duplication?
 June 19, 2016. In class10_base, should 'kfp' be 'kxp' ?
+Sep 20, 2016. Changes to present tense base, for agreement with Kale Dhatukosha
 """
 # for purpose of comparing Python and Elisp code, we will preserve
 # likely errors in Elisp code.
-preserve_elisp_errors=True
+preserve_elisp_errors=False  # changed Sep 21, 2016
 import init
 import re
 from sandhi import *
@@ -74,7 +75,12 @@ def construct_conjtab1a_gentense(root,theclass,pada,upasargas,tense,voice,dbg=Fa
  err = err0+ "ERROR 3"
  raise NameError(err)
 
-def class_a_base_irreg_dict():
+class unusedClass_a_base_irreg(object):
+ """ just for global variable 'd', the value computed by 
+ class_a_base_irreg_dict function
+ """
+ d = None
+def unused_class_a_base_irreg_dict():
  """ return a dictionary.
   Key has form headword_class
   value has form [base,...] (1 or more)
@@ -98,6 +104,11 @@ def class_a_base_irreg_dict():
    continue
   try:
    (key,val) = line.split('=')
+   if key == 'murC,1':
+    # Sep 21, 2016.  Kale shows mUrcC (which is 'val' in this case)
+    # However, MW shows 'mUrC', as does Dhaval Patel's SanskritVerb
+    # I will use the latter for now
+    val = 'mUrC'
   except:
    tmp = "ERROR class_a_base_irreg_dict, file=%s\n"%filename
    tmp = tmp+"cannot parse line=%s" % line
@@ -105,14 +116,17 @@ def class_a_base_irreg_dict():
    exit(1)
   #(hw,theclass) = key.split(',')
   bases = val.split(',')
-  d[key]=bases
+  d[key]=bases 
+ Class_a_base_irreg.d = d
  return d
 
-def class_a_base_irreg(root,theclass,pada,dbg=False):
+def unused_class_a_base_irreg(root,theclass,pada,dbg=False):
  """  Returns a list, even if only 1 base is returned.
   Returns empty list when NO irregular base is found
  """
- d = class_a_base_irreg_dict()
+ d = Class_a_base_irreg.d
+ if d == None:
+  d = class_a_base_irreg_dict()
  key = "%s,%s" %(root,theclass)
  if key in d:
   return d[key] #.split(',')
@@ -221,14 +235,66 @@ def kale_395(c1,v,c2,thetype,dbg=False):
  # otherwise, v unchanged
  return v
 
-
-def class_a_base_1(root,dbg=False):
+irreg_bases_1={
+ # "ag":["aNg"],  Don't know where 'aNg' comes from
+ "f":["fcC"],
+ "ft":["ftIy"],
+ "kam":["kAmay"],
+ "kasj":["kajj"],
+ "kit":["cikits"],
+ "kram":["krAm"],
+ "klam":["klAm"],
+ "gam":["gacC","gam"], # ; gam can have a normal base, as well as 'gacC'
+ #"gup,1,p=gopAy"],
+ #"gup,1,a=jugups"],
+ "guh":["gUh"],
+ "GrA":["jiGr"],
+ #"cam":["cAm"],  # it is 'cam' acc. to KaleDK
+ "jaB":["jamB"],
+#; ; 01-09-05. 'titikSh' is desiderative form.
+#; ;     ((equal dhaatu 'tij) (setq ans 'titikSh)) ; 1 A tej
+ "daMS":["daS"],
+ "dA":["yacC"],
+ "dfS":["paSy"],
+ "DUp":["DUpAy"],
+ "DmA":["Dam"],
+ "paR":["paRAy"],
+ "pA":["pib"],
+ "muc":["muYc"],
+ "murC":["mUrC"], # Kale has ["mUrcC"], mUrC agrees with SanskritVerb/MW
+ "mfj":["mArj"],
+ "mnA":["man"],
+ "yam":["yacC"],
+ "raYj":["raj"],
+ "lasj":["lajj"],
+ "Sad":["SIy"],
+ "zWiv":["zWIv"],
+ "zwyE":["styAy"], # SanskritVerb
+ "sad":["sId"],
+ "saYj":["saj"],
+ "sasj":["sajj"],
+ "sf":["sar,DAv"],
+ "sTA":["tizW"],
+ "svaYj":["svaj"],
+}
+def class_a_base_1(root,pada=None,dbg=False):
  """ functional equivalent of "dhaatu-a~Nga-1".
      following Antoine I.7 and Kale 388
+     The pada parameter is only for the benefit of root 'gup'
  """
  err0 = "class_a_base_1(%s)" % root
  if dbg:
   print err0
+ # check for irregularities first
+
+ if root in irreg_bases_1:
+  return irreg_bases_1[root]
+ if root == 'gup':
+  if pada == 'p':
+   return ["gopAy"]
+  else:
+   return ["jugups"]
+ # otherwise...
  x = dhAtu_parts(root)
  (c1,v,c2,thetype) = x
  if thetype in ['cv','v']:
@@ -263,10 +329,50 @@ def class_a_base_1(root,dbg=False):
  # to v
  if thetype in ["cv","v"]:
   v = sandhi_internal_diphthong_a(v)
-  return [c1 + v]
+  ans0 = c1 + v
  else:
-  return [c1 + v + c2]
- 
+  ans0 = c1 + v + c2
+ # Sep 21, 2016. Adjustments to agree with Kale
+ if root.endswith('C'):
+  #print "check root",root
+  # Kale spells these with 'cC'. And the base should end in 'cC'
+  # example roots: uC, fC, murC, mleC, laC, hrIC, 
+  #  (not in Kale, MW confirms) yuC
+  ans0 = ans0[0:-1]+'cC'
+  # further exceptions
+  if root == 'uC':
+   #  uC does not gunate (i.e., it is not ocCati)
+   ans0 = 'u' + ans0[1:]
+  elif root == 'yuC':
+   # u does not gunate
+   ans0 = 'yucC'
+  elif root == 'murC': 
+   # Note this case is handled by class_a_base_irreg. 
+   # So, this logic branch is never reached.
+   pass
+  
+ return [ans0]
+
+irreg_bases_4={
+ "klam":["klAmy"],
+ "kzam":["kzAmy"],
+ "jan":["jAy"],
+ "tam":["tAmy"],
+ "dam":["dAmy"],
+ "do":["dy"], # ??
+ "Co":["Cy"],
+ "BraMS":["BraSy"],
+ "Bram":["BrAmy"],
+ "mad":["mAdy"],
+ "mid":["medy"],
+ "raYj":["rajy"],
+ "vyaD":["viDy"],
+ "Sam":["SAmy"],
+ "So":["Sy"],
+ "Sram":["SrAmy"],
+ "so":["sy"],
+}
+
 def class_a_base_4(root,dbg=False):
  """ Elisp dhaatu-a~Nga-4
   Returns a list of strings, the list has length 1
@@ -274,6 +380,8 @@ def class_a_base_4(root,dbg=False):
  err0 = "class_a_base_4(%s)" % root
  if dbg:
   print err0
+ if root in irreg_bases_4:
+  return irreg_bases_4[root]
  # following Antoine I.16 and Kale 389
  # 'y' is added to root
  root1 = root + "y"
@@ -293,6 +401,29 @@ def class_a_base_4(root,dbg=False):
  # subsequent logic requires that a list be returned, not a string
  return [ans] 
 
+irreg_bases_6={
+ "iz":["icC"],
+ "kft":["kfnt"],
+ "Kid":["Kind"],
+ "gF":["gir","gil"],
+ "cft":["cfnt"],
+ "DU":["Du"],
+ "piS":["piMS"],
+ "pracC":["pfcC"],
+ "Brasj":["Bfjj"],
+ "masj":["majj"],
+ "muc":["muYc"],
+ "lip":["limp"],
+ "lup":["lump"],
+ "vicC":["vicC","vicCAy"],
+ "vyac":["vic"],
+ "vraSc":["vfSc"],
+ "sad":["sId"],
+ "sasj":["sajj"],
+ "sic":["siYc"],
+ "vid":["vind"],
+ "sU":["su"],
+}
 def class_a_base_6(root,dbg=False):
  """ Elisp dhaatu-a~Nga-4
   Returns a list of strings, the list has length 1
@@ -302,6 +433,8 @@ def class_a_base_6(root,dbg=False):
  err0 = "class_a_base_6(%s)" % root
  if dbg:
   print err0
+ if root in irreg_bases_6:
+  return irreg_bases_6[root]
  root1 = root
  x =  dhAtu_parts(root1)
  c1 = x[0]
@@ -326,8 +459,50 @@ def class_a_base_6(root,dbg=False):
   elif v0 == 'F':
    v = 'ir'
  ans = c1 + v + c2
+ # Sep 21, 2016. Adjustments to agree with Kale
+ if root.endswith('C'):
+  # Kale spells these with 'cC'. And the base should end in 'cC'
+  # example roots: miC,
+  ans = ans[0:-1]+'cC'
+  # However, for praC, the stem is 'pfcC'
+  if root == 'praC':
+   ans = 'pfcC'
+ elif root == 'kU':
+  ans = 'kuv'
+ elif root == 'lasj':
+  ans = 'lajj'
+ elif root == 'sU':
+  ans = 'suv'
+ elif root == 'Brajj':
+  ans = 'Bfjj'
+ elif root == 'Sad':
+  ans = 'SIy'
+ elif root == 'dfmp':
+  ans = 'dfp'
  # subsequent logic requires that return value be a list
  return [ans]
+
+irreg_bases_10={
+ # "According to Kale Dhaatukosha, these class 10 verbs have
+ # "two forms. Sometimes, the given forms are associated with
+ # "different meanings (e.g. 'vas') and sometimes not (e.g. 'aMs')
+ "aMS":["aMSApay","aMSay"],
+ "aMs":["aMsay","aMsApay"],
+ "kal":["kalay","kAlay"],
+ "kfp":["kfpay","kfpAy"],
+ "kuR":["kuRay","koRay"],
+ "gad":["gaday","gAday"],
+ "DU":["DUnay","DAvay"],
+ "paw":["paway","pAway"],
+ "paR":["paRAy","pARay"],
+ "pan":["panAy","pAnay"],
+ "puw":["puway","poway"],
+ "prI":["prIRay","prAyay"],
+ "laj":["lajay","lAjay"],
+ "vas":["vasay","vAsay"],
+ "SaW":["SaWay","SAWay"],
+ "daB":["damBay"],
+}
 
 def class_a_base_10(root,dbg=False):
  """ = dhaatu-a~Nga-10 of Elisp.
@@ -350,6 +525,8 @@ def class_a_base_10(root,dbg=False):
  err0 = "class_a_base_10(%s)" % root
  if dbg:
   print err0
+ if root in irreg_bases_10:
+  return irreg_bases_10[root]
  root1 = root
  x =  dhAtu_parts(root1)
  c1 = x[0]
@@ -515,6 +692,16 @@ def class10_base(root,eng_def=None,dbg=False):
   b1 = class_a_base_10(root)
   b2 = 'kfpAy'
   ans = [b1,b2]
+ elif root == "ci": 
+  # Sep 20, 2016. KaleDK: to gather.  cayayati-te, capayati-te
+  # Note: class_a_base_10("ci") => "cAyay", which is wrong
+  #b1 = class_a_base_10(root)
+  b1 = 'cayay'
+  b2 = 'capay'
+  ans = [b1,b2]
+ elif root == 'mleC':
+  # Sep 21, 2016. Per agree with Kale
+  ans = ['mlecCay']
  else:
   ans = class_a_base_10(root,dbg=dbg)
  if not isinstance(ans,list):
@@ -540,11 +727,13 @@ def class_a_base(root,theclass,pada,dbg=False):
  err0 = "class_a_base(%s,%s,%s)" %(root,theclass,pada)
  if dbg:
   print err0
+ """# Factored this out. Sep 21, 2016
  base = class_a_base_irreg(root,theclass,pada,dbg=dbg)
  if len(base) != 0:
   return base
+ """
  if theclass == "1":
-  return class_a_base_1(root,dbg=dbg)
+  return class_a_base_1(root,pada=pada,dbg=dbg)
  if theclass == "4":
   return class_a_base_4(root,dbg=dbg)
  if theclass == "6":
@@ -991,6 +1180,16 @@ def construct_conjbase1a(root,theclass,pada,upasargas,voice=None,dbg=False):
   base = class_b_base(root,theclass,pada,upasargas,dbg)
  return base
 
+irreg_bases_9 = {
+ 'jyA':'ji', # Antoine2#29
+ 'grah':'gfh', # Antoine2#29
+ 'knU':'knU', # Kale DK
+ 'drU':'drU', # Kale DK
+ 'mI':'mI', # Kale DK
+ 'SrI':'SrI', # Kale DK
+ 'mU':'mU',  # Not in Kale or MW. Acc. to SanskritVerb (Dhaval)
+
+}
 def class_b_base(root,theclass,pada,upasargas=None,dbg=False):
  """ Return a list of strings
  """
@@ -1005,17 +1204,15 @@ def class_b_base(root,theclass,pada,upasargas=None,dbg=False):
  if theclass == '5':
   if root == 'Sru':
    tok = 'Sf' #Antoine2#16 p.11
+  elif root == 'damB':
+   tok = 'daB' # Kale DK
  elif theclass == '9':
-  if (pc in init.nasal_set) and (not (lc in init.vowel_set)):
+  if root in irreg_bases_9:
+   tok = irreg_bases_9[root]
+  elif (pc in init.nasal_set) and (not (lc in init.vowel_set)):
    # Antoine2#27. Roots having a penultimate nasal drop it
    # Note: this includes 'j~naa' of #29 
    tok = tok[0:-2]+lc
-  elif root == 'jyA':
-   tok = 'ji' # Antoine2#29
-  elif root == 'grah':
-   tok = 'gfh' # Antoine2#29
-  elif root == 'jYA':
-   tok = 'jA' # Antoine2#29
   elif kale_414_P(root):
    lc = shorten_vowel(lc)
    tok = tok[0:-1]+lc
@@ -1113,6 +1310,19 @@ def conjugation_join1(base,sup,option=None,dbg=False):
  # x might be an empty list
  if x:
   ans = solution(x)  #[['Iwwe']] => 'Iwwe'
+ # Sep 22, 2016. Some overrides. These might be adjustable by
+ # changes to sandhiget. 
+ if (base.endswith('q')) and (sup.startswith('t')):
+  # 1. Iq + te
+  # Xq + tY -> XwwY
+  ans = base[0:-1]+'w' + 'w' + sup[1:]
+ elif (base[-2:-1] in init.vowel_set) and (base.endswith('S')) and (sup.startswith('t')):
+  # IS + te
+  # XS + tY -> XzwY
+  ans = base[0:-1]+'z' + 'w' + sup[1:]
+ elif (base.endswith('r')) and (sup.startswith('t')):
+  # Ir + te -> Irte, not Iste
+  ans = base + sup
  if ans == None:
   x=sandhiget.sandhi_pair(base,sup,None,'join')
   """
@@ -1201,9 +1411,12 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
  """ from gram2.el
   'base' here <-> 'a~Nga-sym' in elisp conjugation-tab-2
  """
+ #if root == 'vid':
+ # dbg=True
  err0="conjugation_tab_2(%s,%s,%s,%s,%s)"%(base,tense,theclass,pada,root)
  if dbg:
   print err0
+ dbg=False
  upasargas = base # a list, possibly empty
  # 1. construct endings and strengths
  endings = conj_endings(tense,theclass,pada,dbg=dbg)
@@ -1444,13 +1657,69 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
       base = ''.join(parts[0:-1]) + p2b
   # end of 'if (strength=='w') and (e in init.vowel_set):'
   # thisans could be a list, since base could be a list
+  # Sep 22, 2016
+  if (root == 'UrRu') and (pada == 'p') :
+   # Kale 428. UrRu P. A. to cover. Substitutes Vriddhi for its 'u'
+   # optionally before consonantal strong terminations except those of
+   # the 2nd and 3rd sing. Imperf.
+   if (tense == 'law') and (i in [0,3,6]):
+    base = [base,'UrRo']
+   elif (tense == 'low') and (i == 0):
+    base = [base,'UrRo']
+  if (root == 'vaS') and (pada == 'p') and (strength == 'w'):
+   base = 'uS'
   thisans = conjugation_join(base,ending)  
   if dbg:
    print "before irregs, i=%s: (%s,%s) => thisans=%s" %(i,base,ending,thisans)
   #
   # ----- irregularity overrides
   #
-  if (i == 2) and (tense == 'laN') and (pada == 'p') and\
+  if (root == 'kaS'): 
+   # Kale. #421
+   if (tense == 'law'):
+    dtemp = {0:'kazwe', 3:'kakze', 5:'kaqQve'}
+    if i in dtemp:
+     thisans = dtemp[i]
+  elif (root == 'cakz'):
+   # Kale. #421
+   if (tense == 'law'):
+    dtemp = { 3:'cakze', 5:'caqQve'}
+    if i in dtemp:
+     thisans = dtemp[i]
+  elif (root == 'mfj') and (tense == 'law') and (pada == 'a') and (i==5):
+   # SanskritVerb. Kale doesn't show Atmanepada for mfj class 2.
+   thisans = 'mfqQve' 
+  elif (root == 'vaS') and (pada == 'p') :
+   # Kale 435. P. to wish. changes its 'v' to 'u' before weak terminations.
+   # Pysan has many errors.
+   if tense == 'law':
+    dtemp = {0:'vazwi', 1:'uzwaH', 3:'vakzi', 4:'uzWaH', 5:'uzWa'}
+    if i in dtemp:
+     thisans = dtemp[i]
+  elif (root in ['niYj','piYj','SiYj','pfYj','vfYj','vfj']) and (pada == 'a'):
+   # Kale # 421, p. 267 for NiYj
+   dtemp = {}
+   dtemp['niYj'] = {0:"niNkte", 3:"niNkze", 5:"niNgDve"}
+   dtemp['piYj'] = {0:"piNkte", 3:"piNkze", 5:"piNgDve"}
+   dtemp['SiYj'] = {0:"SiNkte", 3:"SiNkze", 5:"SiNgDve"}
+   dtemp['pfYj'] = {0:"pfNkte", 3:"pfNkze", 5:"pfNgDve"}
+   dtemp['vfYj'] = {0:"vfNkte", 3:"vfNkze", 5:"vfNgDve"} 
+   dtemp['vfj'] =  {0:"vfkte", 3:"vfkze", 5:"vfgDve"} 
+   dtemp0 = dtemp[root]
+   if i in dtemp0:
+    thisans = dtemp0[i]
+  elif (root in ['piYj']) and (pada == 'p'):
+   # No direct evidence in Kale; Force agreement with SanskritVerb
+   dtemp = {0:"piNkti", 1:"piNktaH", 3:"piNkzi", 4:"piNkTaH", 5:"piNkTa"}
+   if i in dtemp:
+    thisans = dtemp[i]
+  elif root == 'saMst':
+   # Force agreement with SanskritVerb. 
+   # Compare to class 7 roots Cfd, etc.
+   if i in [0,1,4,5]:
+    thisans1 = thisans.replace('saMst','saMs') # remove duplicated t
+    thisans = [thisans,thisans1]
+  elif (i == 2) and (tense == 'laN') and (pada == 'p') and\
      (a == 'A') and (root != 'daridrA'):
    #48. verbs ending in 'A': 3P imperfect Parasmaipada ending
    thisans1 = atok0 + 'uH'
@@ -1652,11 +1921,11 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
    # sandhi rules are required for 'vach'. I presume these
    # are also applicable to other roots ending in 'ch'.
    # Namely, before consonants (other than semivowels) the 'ch' of
-   # 'vach' is changed to 'k', then other (usual) sandhi changes are
+   # 'vac' is changed to 'k', then other (usual) sandhi changes are
    # applied.
    # Note: I apply these to 'pfc' (the only other conj-2 verb in
    # Antoine that ends in 'c'
-   if (root == 'vac') and (tense == 'law') and (i == 2):
+   if (root == 'vac') and (tense == 'law') and (i == 2) and (pada == 'p'):
     thisans = ''  # not sure what the 'missing value' should be
    elif e == 'm':
     # Note (conjugation-join('vac','mi') => 'vagmi', but, acc. to Kale,
@@ -1665,6 +1934,17 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
    elif (e in init.consonant_set) and (not (e in init.semivowel_set)):
     base = atok0 + 'k'
     thisans = conjugation_join(base,ending)
+  elif (root in ['Iq','IS']) and (pada == 'a'):
+   # Kale 427.
+   # Iq A (to praise) and IS A (to rule) have an 'i'
+   # added to them before terminations beginning with 's' or 'Dv'
+   # except that of the Imperf. 2. plu.
+   if (tense == 'laN') and (i == 5):
+    pass
+   elif ending0.startswith(('s','Dv')):
+    thisans = conjugation_join(root+'i',ending0)
+   elif (root == 'IS') and ending0.startswith('t'):
+    thisans = conjugation_join(root,ending0)     
   if isinstance(thisans,list):
    thisans = flatten(thisans)
   if dbg:
@@ -1706,6 +1986,12 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
   # 76. 'nij' (to cleanse) and 'vij' (to separate)
   #     take guna in reduplication
   rtok = gunate_final_vowel(rtok)
+ if root == 'gA':
+  # Sep 21, 2016. Otherwise, rtok = 'ja'
+  rtok = 'ji'
+ elif root == 'viz':
+  # Sep 21, 2016. Otherwise, rtok = 'vi'
+  rtok = 've'
  #dhaatu_ending = dtok[-1:]
  ibeg = 0 # position of 1st character
  #4. for imperfect, the augment 'a' must be prefixed to rtok
@@ -1728,10 +2014,11 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
  s_atok = gunate_final_vowel(dtok)
  s_atok = rtok + s_atok
  w_atok = rtok + dtok
- if root in ['dA','DA']:
+ if root in ['dA','DA','gA']:
   # 72. 'daa' (to give) and 'dhaa' (to put) form their weak bases
   # in 'dad' and 'dadh' (i.e., the 'aa' is dropped)
   # the strong bases keep 'aa' (rather than gunate to 'a')
+  # Sep 21, 2016. gA. jigAti. KaleDK
   w_atok = w_atok[0:-1]
   s_atok = s_atok[0:-1] + 'A'
  if (root == 'hA') and (pada == 'a'):
@@ -1951,7 +2238,15 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
   #
   # ---- irregularity overrides
   #
-  if (root == 'hu'):
+  if (root == 'viz'):
+   # Kale, section 454.
+   if (tense == 'law') and (i==5) and (pada == 'a'):
+    thisans = 'veviqQve'  # not vevizQve
+  elif (root == 'hrI'):
+   # Kale, section 449.
+   if (tense == 'law') and (i==2) and (pada == 'p'):
+    thisans = 'jihriyati'  # not jihryati
+  elif (root == 'hu'):
    ##71 'hu' (sacrifice) has 2S loT of 'juhudhi (regular would be 'juhuhi)
    if (i == 3) and (tense == 'low') and (pada == 'p'):
     thisans = 'juhuDi'
@@ -2099,7 +2394,11 @@ def conjugation_tab_5(basein,tense,theclass,pada,root,dbg=False):
      base = atok + 'nu'
     else:
      base = atok + 'nu'
-  thisans = conjugation_join(base,ending)
+  if atok == 'tfp':
+   # option Sep 22, 2016. It is tfpnoti, not tfpRoti
+   thisans = conjugation_join(base,ending,option='not-n-R') 
+  else:
+   thisans = conjugation_join(base,ending) 
   ans.append(thisans)
  return ans
 
@@ -2115,6 +2414,9 @@ def conjugation_tab_7(basein,tense,theclass,pada,root,dbg=False):
  ; (4) In the weak forms, 'n' is inserted between the radical vowel 
  ;      and the final consonant.
  """
+ #if root in ['Cfd']:
+ # if (pada == 'a'):
+ #  dbg=True
  err0="conjugation_tab_5(%s,%s,%s,%s,%s)"%(basein,tense,theclass,pada,root)
  if dbg:
   print err0
@@ -2174,7 +2476,7 @@ def conjugation_tab_7(basein,tense,theclass,pada,root,dbg=False):
    atok = s_atok
   else:
    atok = w_atok
-  # Antoine2-#87. 'tRih' (7P to kill) inserts 'ne instead of 'na'
+  # Antoine2-#87. 'tfh' (7P to kill) inserts 'ne instead of 'na'
   # before strong terminations beginning with a consonant
   if root == 'tfh':
    if (strength == 's') and (e in init.consonant_set):
@@ -2324,6 +2626,8 @@ def conjugation_tab_7(basein,tense,theclass,pada,root,dbg=False):
      base = p2
   # join base and ending
   thisans = conjugation_join(base,ending)
+  if dbg:
+   print "before irregularities:",i,base,ending,thisans
   #
   # ----------  irregularity overrides
   #
@@ -2387,7 +2691,33 @@ def conjugation_tab_7(basein,tense,theclass,pada,root,dbg=False):
     thisans = conjugation_join(base,ending)
   # End of irregularities
   thisans = flatten(thisans)
+  if thisans.endswith(('ntte','ntTa','ndDe','ndDa','nttaH','ndDve','ntTaH','ndDaH')):
+   # Sep 22, 2016.  SanskritVerb shows alternates in several cases.
+   # This applies to roots :
+   # Cfd, tfd,  und, kft, kzud, Kid, Cid, inD, Bid, ruD, vid
+   if thisans.endswith(('ntte','ntTa','ndDe','ndDa')):
+    atmp = thisans[0:-4]
+    btmp = thisans[-4:]
+    ctmp = btmp[0]+btmp[2:]  # e.g. b = ntte c=nte
+    thisans = [atmp+ctmp,thisans]
+   else:
+    atmp = thisans[0:-5]
+    btmp = thisans[-5:]
+    ctmp = btmp[0]+btmp[2:]  # e.g. b = nttaH, c=ntaH
+    thisans = [atmp+ctmp,thisans]
+  elif root in ['tfh','piz','Siz','hiMs']:
+   # Sep 22, 2016. Change nasal to M to conform to SanskritVerb
+   if root == 'tfh':
+    thisans = thisans.replace('Nh','Mh')
+   elif root == 'piz':
+    thisans = thisans.replace('Rz','Mz')
+   elif root == 'Siz':
+    thisans = thisans.replace('Rz','Mz')
+   elif root == 'hiMs':
+    thisans = thisans.replace('ns','Ms')
   ans.append(thisans)
+  if dbg:
+   print "after irregularities:",i,base,ending,thisans
  return ans
 
 def conjugation_tab_8(basein,tense,theclass,pada,dbg=False):
@@ -2435,12 +2765,15 @@ def conjugation_tab_8(basein,tense,theclass,pada,dbg=False):
 def conjugation_tab_9(basein,tense,theclass,pada,dbg=False):
  """ from gram2.el
  """
+ #dbg=True
  err0="conjugation_tab_9(%s,%s,%s,%s)"%(basein,tense,theclass,pada)
  if dbg:
   print err0
  # 1. construct endings and strengths
  endings = conj_endings(tense,theclass,pada,dbg=dbg)
  strengths = conj_endings(tense,theclass,pada,dbg=dbg,strengths=True)
+ #if dbg:
+ # print "endings=",endings,"strengths=",strengths
  # 2. init ans
  n = len(endings)
  ans = []
@@ -2459,16 +2792,31 @@ def conjugation_tab_9(basein,tense,theclass,pada,dbg=False):
   strength = strengths[i].lower()  # s or w
   ending = endings[i]
   e = ending[0] # first char
+  # Sep 21, 2016. Change 'n' to homorganic with prior, at least in the
+  # cases of Kac, heW and heQ
   if strength == 's':
    base = atok + 'nA'
+   if atok == 'Kac': 
+    base = atok + 'YA'
+   elif atok in ['heW','heQ']:
+    base = atok + 'RA'
   else:
    if (e in init.vowel_set):
     base = atok + 'n'
+    if atok == 'Kac':
+     base = atok + 'Y'
+    elif atok in ['heW','heQ']:
+     base = atok + 'R'
    else:
     base = atok + 'nI'
+    if atok == 'Kac':
+     base = atok + 'YI'
+    elif atok in ['heW','heQ']:
+     base = atok + 'RI'
    if (ending == 'hi') and (a in init.consonant_set):
     base = atok
     ending = 'Ana'
+  
   if basein == 'kzuB':
    thisans = conjugation_join(base,ending,option='not-n-R')
   else:

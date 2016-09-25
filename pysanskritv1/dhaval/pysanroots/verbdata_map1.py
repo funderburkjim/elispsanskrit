@@ -45,7 +45,10 @@ def analyze_dproot(verbrecs):
  for key in keys:
   (root,gana,number)=key
   vals = dprootd[key]
-  assert(len(vals)==1),"vals wrong length: %s => %s" %(key,vals)
+  # Sep 24, 2016. Changed to allow multiples
+  #assert(len(vals)==1),"vals wrong length: %s => %s" %(key,vals)
+  if len(vals) != 1:
+   print "WARNING: vals wrong length: %s => %s" %(key,vals)
   dpnorm = vals[0]
   out = "%s:%s:%s:%s" %(root,gana,number,dpnorm)
   fout.write(out + "\n")

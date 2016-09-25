@@ -1,4 +1,4 @@
-2206 records read from verbdata_map.txt
+2208 records read from verbdata_map.txt
 64 records read from roots_a.txt
 20 records read from roots_a1.txt
 aMsa:10:0460:aMs  CHG
@@ -28,27 +28,22 @@ guRa:10:0436:guR  CHG
 gfha:10:0441:gfh  CHG
 goma:10:0417:gom  CHG
 grAma:10:0434:grAm  CHG
-caha:10:0120:cah  CHG
 caha:10:0405:cah  CHG
 citra:10:0459:citr  CHG
-Cada:10:0359:Cad  CHG
-Cada:10:0370:Cad  CHG
 Cada:10:0481:Cad  CHG
 Cidra:10:0469:Cidr  CHG
 Ceda:10:0480:Ced  CHG
 tIra:10:0454:tIr  CHG
 tutTa:10:0489:tutT  CHG
 daRqa:10:0472:daRq  CHG
-duHKa:10:0011:duHK  CHG
+duHKa:10:0476:duHK  CHG
 Dvana:10:0431:Dvan  CHG
-pawa:10:0282:paw  CHG
 pawa:10:0394:paw  CHG
 pata:10:0400:pat  CHG
 pada:10:0440:pad  CHG
 parRa:10:0485:parR  CHG
 paza:10:0401:paz  CHG
 pAra:10:0453:pAr  CHG
-puwa:10:0094:puw  CHG
 puwa:10:0455:puw  CHG
 BAja:10:0428:BAj  CHG
 BAma:10:0411:BAm  CHG
@@ -58,17 +53,14 @@ mUtra:10:0451:mUtr  CHG
 mfga:10:0442:mfg  CHG
 raca:10:0403:rac  CHG
 rasa:10:0477:ras  CHG
-raha:10:0122:rah  CHG
 raha:10:0396:rah  CHG
 rUkza:10:0452:rUkz  CHG
 rUpa:10:0479:rUp  CHG
-laja:10:0010:laj  CHG
 laja:10:0463:laj  CHG
 lABa:10:0482:lAB  CHG
 vawa:10:0395:vaw  CHG
 vawa:10:0461:vaw  CHG
 vara:10:0390:var  CHG
-varRa:10:0025:varR  CHG
 varRa:10:0484:varR  CHG
 vasa:10:0488:vas  CHG
 vAta:10:0424:vAt  CHG
@@ -76,17 +68,13 @@ vAsa:10:0426:vAs  CHG
 vizka:10:0486:vizk  CHG
 vIra:10:0445:vIr  CHG
 vela:10:0421:vel  CHG
-vyaya:10:0137:vyay  CHG
 vyaya:10:0478:vyay  CHG
 vraRa:10:0483:vraR  CHG
-SaWa:10:0214:SaW  CHG
 SaWa:10:0392:SaW  CHG
 SIla:10:0419:SIl  CHG
 SUra:10:0444:SUr  CHG
 SraTa:10:0019:SraT  CHG
-SraTa:10:0360:SraT  CHG
 SraTa:10:0409:SraT  CHG
-SvaWa:10:0042:SvaW  CHG
 SvaWa:10:0393:SvaW  CHG
 satra:10:0448:satr  CHG
 saBAja:10:0429:saBAj  CHG
@@ -100,5 +88,5 @@ stena:10:0439:sten  CHG
 sTUla:10:0446:sTUl  CHG
 spfha:10:0410:spfh  CHG
 svara:10:0402:svar  CHG
-2206 records written to verbdata_map1.txt
-99 records changed the corresponding 'normalized' root
+2208 records written to verbdata_map1.txt
+87 records changed the corresponding 'normalized' root

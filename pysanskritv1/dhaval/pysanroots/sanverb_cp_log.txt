@@ -1,23 +1,25 @@
-2210 records from ../function/verbdata.txt
-2713 records from ../conjtab/conj_pre.txt
-make_verbrecd: 0 duplicates found
-generate_cp: key not found .06.0222.A
-generate_cp: key not found .06.0222.P
-generate_cp: key not found kzapa!.10.0935.A
-generate_cp: key not found jFz.04.0025.A
+2209 records from ../function/verbdata.txt
+2693 records from ../conjtab/conj_pre.txt
+make_verbrecd: 1 duplicates found
+case 1 of duplicate verbdata key: bfhi!.01.0837.P
+   bfhi!:vfdDO bfhi! vfhi! Sabde ca:bfMh:01:0837:pa:sew:बृ॑हिँ॑::465,466::bqMh1_bqhiz_BvAxiH+vqxXO:
+   bfhi!:vfdDO bfhi! vfhi! Sabde ca:vfMh:01:0837:pa:sew:बृ॑हिँ॑::465,466::bqMh1_bqhiz_BvAxiH+vqxXO:
+generate_cp: key not found ila!.06.0167.A
+generate_cp: key not found kuwa!.10.0222.P
+generate_cp: key not found jFz.04.0027.A
 generate_cp: key not found jYA.09.0258.A
 generate_cp: key not found dasa!.10.0110.P
 generate_cp: key not found dasi!.10.0194.P
 generate_cp: key not found nATf!.01.0007.P
-generate_cp: key not found ruN.10.0319.P
+generate_cp: key not found puTa!.10.0306.A
+generate_cp: key not found pUrI!.10.0334.P
 generate_cp: key not found vasta!.10.0205.P
-generate_cp: key not found SaWa.10.0214.P
 generate_cp: key not found Sadx!.01.0991.A
 generate_cp: key not found Sadx!.06.0164.A
 generate_cp: key not found saNgrAma.10.0467.P
 generate_cp: key not found hasta!.10.0206.P
 generate_cp: key not found hizka!.10.0208.P
-generate_cp: 2697 class pada records
-1661 records written to conjtab_cp.txt
-generate_cp: 2794 class pada records
-1684 records written to sanverb_cp.txt
+generate_cp: 2679 class pada records
+1659 records written to conjtab_cp.txt
+generate_cp: 2793 class pada records
+1687 records written to sanverb_cp.txt

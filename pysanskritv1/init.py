@@ -2827,6 +2827,10 @@ j-H=c,H,join,type,cons,ref,Antoine72-6:c,H,nojoin,type,cons,ref,Antoine72-6
 q-k=w,k,join,type,cons,ref,Antoine72-6:w,k,nojoin,type,cons,ref,Antoine72-6
 q-c=w,c,join,type,cons,ref,Antoine72-6:w,c,nojoin,type,cons,ref,Antoine72-6
 q-w=w,w,join,type,cons,ref,Antoine72-6:w,w,nojoin,type,cons,ref,Antoine72-6
+; Case if present tense of class 2A root Iq, 3s.  To join Iq and 'te'.
+; The end result should be 'Iwwe', NOT a pair ['Iwte','Iwwe']. I.E., these
+; two rules must be applied sequentially, not alternately.
+; See conjugation_join in test2.py for the override of this (Sep 22, 2016)
 q-t=w,t,join,type,cons,ref,Antoine72-6:w,t,nojoin,type,cons,ref,Antoine72-6:w,w,join,type,cons,ref,Antoine88-3
 q-p=w,p,join,type,cons,ref,Antoine72-6:w,p,nojoin,type,cons,ref,Antoine72-6
 q-K=w,K,join,type,cons,ref,Antoine72-6:w,K,nojoin,type,cons,ref,Antoine72-6
@@ -9397,6 +9401,8 @@ def init_sandhi():
  n = 0
  for line in lines:
   line = line.strip()
+  if line.startswith(';'):  # a comment
+   continue 
   if line != '':
    # create SandhiPair record, 
    # add it to SandhiPair.pairs and update SandhiPair.pairdict
