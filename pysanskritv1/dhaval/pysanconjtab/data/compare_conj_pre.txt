@@ -376,8 +376,7 @@ kaS pre 2A: identical
 kaz pre 1P: identical
 kas pre 1P: identical
 kas pre 2A: identical
-kaMs pre 2A: conjugation differences @ 2p 
-     2p (sanverb) kanDve != kaMDve (pysan)
+kaMs pre 2A: identical
 kANkz pre 1P: identical
 kAYc pre 1A: identical
 kAl pre 10A: identical
@@ -1267,12 +1266,8 @@ jakz pre 2P: identical
 jaj pre 1P: identical
 jaYj pre 1P: identical
 jaw pre 1P: identical
-jan pre 3P: conjugation differences @ 3s,3d,3p,2d,2p 
-     3s (sanverb) jajanti != jajaMti (pysan)
-     3d (sanverb) jajantaH != jajaMtaH (pysan)
+jan pre 3P: conjugation differences @ 3p 
      3p (sanverb) jajYati != jajanati (pysan)
-     2d (sanverb) jajanTaH != jajaMTaH (pysan)
-     2p (sanverb) jajanTa != jajaMTa (pysan)
 jan pre 4A: conjugation differences @ 3d,2d 
      3d (sanverb) janyete != jAyete (pysan)
      2d (sanverb) janyeTe != jAyeTe (pysan)
@@ -1503,8 +1498,7 @@ nil pre 6P: identical
 ninv pre 1P: identical
 niS pre 1P: identical
 niz pre 1P: identical
-niMs pre 2A: conjugation differences @ 2p 
-     2p (sanverb) ninDve != niMDve (pysan)
+niMs pre 2A: identical
 nI pre 1A: identical
 nI pre 1P: identical
 nIl pre 1P: identical

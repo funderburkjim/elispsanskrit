@@ -1674,6 +1674,9 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
   #
   # ----- irregularity overrides
   #
+  if root in ['kaMs','niMs','ruMs'] and (pada == 'a') and (i==5):
+   # change 'M' to 'n' before termination beginning with dental
+   thisans = thisans.replace('MDve','nDve')
   if (root == 'kaS'): 
    # Kale. #421
    if (tense == 'law'):
@@ -2238,6 +2241,12 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
   #
   # ---- irregularity overrides
   #
+  if (root == 'jan') and (pada == 'p'):
+   # M to 'n' before termination beginning with dental
+   if i in [0,1]:
+    thisans = thisans.replace('Mt','nt')
+   elif i in [4,5]:
+    thisans = thisans.replace('MT','nT')
   if (root == 'viz'):
    # Kale, section 454.
    if (tense == 'law') and (i==5) and (pada == 'a'):
