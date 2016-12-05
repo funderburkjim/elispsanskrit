@@ -41,7 +41,7 @@ def word_parts(citation):
  types.append(prevtype)
  return [parts,''.join(types)]
 
-\
+
 class SandhiGet(object):
  """  ref sandhi.el  
  """
@@ -49,9 +49,11 @@ class SandhiGet(object):
   """ a list of references, used by method sandhi_pair_main below
   """
   self.skipreflist = skipreflist
- def sandhi_pair(self,t1,t2,condition,action):
+ def sandhi_pair(self,t1,t2,condition,action,dbg=False):
   """ Returns empty list when inputs are inappropriate 
   """
+  if dbg:
+   print "sandhi_pair: %s,%s,%s,%s"%(t1,t2,condition,action)
   n1 = len(t1)
   n2 = len(t2)
   tokans = []
@@ -78,6 +80,8 @@ class SandhiGet(object):
     v1 = y1
     v2 = x2
     thisans = self.sandhi_pair_main(t1,t2,n1,n2,v1,v2,x1,y2,condition,action)
+    if dbg:
+     print "sandhi_pair_main(%s,%s,%s,%s,%s,%s)->%s" %(n1,n2,v1,v2,x1,y2,thisans)
     for thisans1 in thisans:
      if thisans1 not in tokans:
       tokans.append(thisans1)
@@ -212,6 +216,8 @@ def sandhi_one_final_cons(xin):
  ans=None
  while more:
   n = n - 1
+  if (n0<=n) or (n < 0): # Oct 4, 2016
+   break
   x = xin[n] # n-th character 
   if x in init.consonant_set: 
    if not n2:

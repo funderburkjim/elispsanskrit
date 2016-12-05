@@ -1,15 +1,16 @@
 
 Examine https://github.com/drdhaval2785/SanskritVerb/blob/master/scripts/function.php.
 
-## get new copy of function.php
+## get new copy of function.php, and verbdata.php
 ```
 cp ~/Documents/GitHub/SanskritVerb/scripts/function.php .
+cp ~/Documents/GitHub/SanskritVerb/scripts/verbdata.php .
 ```
 ## extract
 A php function prints contents of various arrays of function.php to text files,
 one line per array element. For example,
 ```
-php extract.php verbdata
+php extract.php verbdata verbdata.php
 ```
 prints the 2213 array elements of `$verbdata` to 2213 lines of the file
 verbdata.txt.
@@ -19,7 +20,7 @@ first line is:
 aMsa:samAGAte:aMsa:10:0460:u:sew:अं॑स॑:1420::1475:aMsa1_aMsa_curAxiH+samAGAwe:
 ```
 
-function.php describes the format as 13 ':' separated fields:
+verbdata.php describes the format as 13 ':' separated fields:
 
 ```
 verbwithanubandha
@@ -55,7 +56,11 @@ recs = verbdata.init_Dhaval_verbdata('%s/verbdata.txt'%path)
 
 # AkusmIya and AgarvIya
 
-These files are from Dhaval.  Each is a list of roots (spelled
+These files are extracted from function.php.  
+php extract.php AkusmIya function.php
+php extract.php AgarvIya function.php
+
+Each is a list of roots (spelled
 *with* anubandha).  The significance is that these are class 10 roots
 which take *only atmanepada* endings  (in contrast to the general case
 where class 10 roots are ubhayapada).

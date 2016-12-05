@@ -1,10 +1,11 @@
 <?php
- /* Extract various information from function.php
+ /* Extract various information from function.php, verbdata.php
  */
 
-require_once('function.php');
 
 $itemname = $argv[1];
+$phpmodule = $argv[2];  // function.php, verbdata.php
+require_once($phpmodule); 
 $filename = "$itemname.txt";
 $fp = fopen($filename,"w");
 $d = $$itemname;

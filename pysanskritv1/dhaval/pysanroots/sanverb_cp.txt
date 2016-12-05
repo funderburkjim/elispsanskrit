@@ -149,7 +149,7 @@ kart:10A,10P
 kard:01P
 karb:01P
 karv:01P
-kal:01A
+kal:01A,10A,10P
 kala:10A,10P
 kall:01A
 kaS:02A
@@ -261,11 +261,10 @@ kzi:01P,05P,06P
 kziR:08A,08P
 kzip:04P,06A,06P
 kziv:01P
-kzI:05P
+kzI:05P,09P
 kzIj:01P
 kzIb:01A
 kzIv:01A
-kzIz:09P
 kzu:02P
 kzud:07A,07P
 kzuD:04P
@@ -277,7 +276,7 @@ kzowa:10A,10P
 kzRu:02P
 kzmAy:01A
 kzmIl:01P
-kzvid:01P,04A
+kzvid:01A,01P,04A
 kzvel:01P
 Kac:09P
 Kaj:01P
@@ -353,11 +352,11 @@ gurd:01A,10A,10P
 gurv:01P
 guh:01A,01P
 gUr:04A,10A
-gUh:01A
 gf:01P
 gfj:01P
 gfYj:01P
 gfD:04P
+gfh:01A
 gfha:10A
 gF:06P,09P,10A
 gep:01A
@@ -401,7 +400,6 @@ GfR:08A,08P
 GfRR:01A
 Gfz:01P
 GrA:01P
-GrAG:01A
 Nu:01A
 cak:01A,01P
 cakAs:02P
@@ -425,7 +423,7 @@ carb:01P
 carv:01P
 cal:01P,06P,10A,10P
 caz:01A,01P
-cah:01P
+cah:01P,10A,10P
 caha:10A,10P
 cAy:01A,01P
 ci:05A,05P,10A,10P
@@ -461,11 +459,11 @@ cft:06P
 cfp:10A,10P
 cel:01P
 cezw:01A
-cyu:10A,10P
+cyu:01A,10A,10P
 cyut:01P
 CaYj:10A,10P
+Cad:10A,10P
 Cada:10A,10P
-Cada!:10A,10P
 Cand:10A,10P
 Cam:01P
 Card:10A,10P
@@ -507,7 +505,7 @@ ju:01A,01P
 juNg:01P
 juYc:10A,10P
 juw:06P
-juq:06A,06P,10A,10P
+juq:06P,10A,10P
 jut:01A
 jun:06P
 juz:06A,10A,10P
@@ -602,7 +600,7 @@ tfMh:06P
 tfkz:01P
 tfR:08A,08P
 tfd:07A,07P
-tfp:05P,06P,10A,10P
+tfp:04P,05P,06P,10A,10P
 tfP:06P
 tfmp:06P
 tfmP:06P
@@ -652,12 +650,11 @@ damB:05P
 day:01A
 daridrA:02P
 dal:01P,10A,10P
-daS:05P
 das:04P,10A
 dah:01P
 dA:01P,02P,03A,03P
 dAn:01A,01P
-dAS:01A,01P
+dAS:01A,01P,05P
 dAs:01A,01P
 dinv:01P
 div:04P,10A,10P
@@ -674,7 +671,7 @@ dul:10A,10P
 duz:04P
 duh:01P,02A,02P
 dU:04A
-df:06A
+df:05P,06A
 dfMh:01P
 dfp:04P,06P,10A,10P
 dfP:06P
@@ -683,7 +680,7 @@ dfmp:06P
 dfmP:06P
 dfS:01P
 dfh:01P
-dF:01P,05P,09P
+dF:01P,09P
 de:01A
 dev:01A
 dE:01P
@@ -742,6 +739,7 @@ DraYj:01P
 DraR:01P
 Dras:09P,10A,10P
 DrAK:01P
+DrAG:01A
 DrANkz:01P
 DrAq:01A
 Drij:01P
@@ -837,7 +835,7 @@ piW:01P
 piRW:10A,10P
 piRq:01A,10A,10P
 pinv:01P
-piS:10A,10P
+piS:06P,10A,10P
 piz:07P
 pis:01P,10A,10P
 pI:04A
@@ -845,11 +843,11 @@ pIq:10A,10P
 pIl:01P
 pIv:01P
 puMs:10A,10P
-puw:01P,06P
+puw:01P,06P,10A,10P
 puwa:10A,10P
 puww:10A,10P
 puq:01P,06P
-puR:06A,06P,10A,10P
+puR:06P,10A,10P
 puRw:10A,10P
 puRq:01P
 puT:04A,04P,10P
@@ -863,7 +861,7 @@ pust:10A,10P
 pU:01A,09A,09P
 pUj:10A,10P
 pUy:01A
-pUr:04A,04P,10A
+pUr:04A,10A,10P
 pUrR:10A,10P
 pUrv:10A,10P
 pUl:01P,10A,10P
@@ -875,7 +873,7 @@ pfq:06P
 pfR:06P
 pfT:10A,10P
 pfz:01P
-pF:03P,09P
+pF:03P,09P,10A,10P
 pel:01P
 pev:01A
 pez:01A
@@ -890,7 +888,7 @@ praC:06P
 praT:01A,10A,10P
 pras:01A
 prA:02P
-prI:04A,04P,09A,10A,10P
+prI:04A,09A,09P,10A,10P
 pru:01A
 pruz:01P,09P
 prez:01A
@@ -927,7 +925,7 @@ bAD:01A
 bAh:01A
 biw:01P
 bind:01P
-bil:10A,10P
+bil:06P,10A,10P
 bis:01P,04P
 bIB:01A
 bukk:01P,10A,10P
@@ -1009,7 +1007,7 @@ maRW:01A
 maRq:01A,01P,10A,10P
 maT:01P
 mad:04P,10A
-man:04A,08A
+man:04A,08A,10A
 mantr:10A
 manT:01P,09P
 mand:01A
@@ -1039,7 +1037,7 @@ mi:05A,05P
 miC:06P
 miYj:10A,10P
 miT:01A,01P
-mid:01A,01P,04A,04P,10A,10P
+mid:01A,01P,04P,10A,10P
 miD:01A,01P
 mind:10A,10P
 minv:01P
@@ -1310,7 +1308,7 @@ vAvft:04A
 vAS:04A
 vAsa:10A,10P
 vic:07A,07P
-viC:06A,06P,10A,10P
+viC:06P,10A,10P
 vij:03A,03P,06A,07P
 viw:01P
 viT:01A
@@ -1445,10 +1443,7 @@ Scut:01P
 Scyut:01P
 SnaT:01P
 SmIl:01P
-Syand:01A
-Syu:01A
 SyE:01A
-SraMS:01A
 SraNk:01A
 SraNg:01P
 SraR:01P,10A,10P
@@ -1457,7 +1452,7 @@ SraTa:10A,10P
 SranT:01A,09P,10A,10P
 Sram:04P
 SramB:01A
-SrA:02P
+SrA:01P,02P
 Sri:01A,01P
 Sriz:01P
 SrI:09A,09P
@@ -1491,6 +1486,7 @@ zwyE:01P
 zWiv:01P,04P
 saMst:02P
 sag:01P
+saG:05P
 saNket:10A,10P
 saNgrAma:10A
 sac:01A,01P
@@ -1500,7 +1496,6 @@ saw:01P
 saww:10A,10P
 satra:10A
 sad:01P,06P
-saD:05P
 san:01P,08A,08P
 sap:01P
 saBAja:10A,10P
@@ -1562,11 +1557,10 @@ stan:01P
 stana:10A,10P
 stam:01P
 stamB:01A,09P
-stal:01P
 stiG:05A
 stip:01A
 stim:04P
-stIn:04P
+stIm:04P
 stu:02A,02P
 stuc:01A
 stup:04P,10A,10P
@@ -1584,6 +1578,7 @@ stom:10A,10P
 styE:01P
 strakz:01P
 sTag:01P
+sTal:01P
 sTA:01P
 sTuq:06P
 sTUla:10A
@@ -1617,7 +1612,9 @@ smi:01A,10A,10P
 smiw:10A,10P
 smIl:01P
 smf:01P,05P
+syand:01A
 syam:01P,10A
+sraMS:01A
 sraNk:01A
 sramB:01A
 sriv:04P
@@ -1643,6 +1640,7 @@ had:01A
 han:02P
 hamm:01P
 hay:01P
+hary:01P
 hal:01P
 has:01P
 hast:10A

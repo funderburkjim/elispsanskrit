@@ -1,20 +1,21 @@
-sanverb_cp.txt has 1687 stems
+sanverb_cp.txt has 1685 stems
 mwvlex_cp.txt has 1954 stems
-2125  merged stems
+2116  merged stems
 both in sanverb: aNka:10A,10P and aNk:01A
 both in sanverb: aNga:10A,10P and aNg:01P
-both in sanverb: kala:10A,10P and kal:01A
+both in sanverb: kala:10A,10P and kal:01A,10A,10P
 both in sanverb: kuRa:10A,10P and kuR:06P
 both in sanverb: kUwa:10A,10P and kUw:10A
 both in sanverb: kfpa:10A,10P and kfp:01A,10A,10P
 both in sanverb: gada:10A,10P and gad:01P
 both in sanverb: garva:10A and garv:01P
-both in sanverb: caha:10A,10P and cah:01P
+both in sanverb: caha:10A,10P and cah:01P,10A,10P
+both in sanverb: Cada:10A,10P and Cad:10A,10P
 both in sanverb: Dvana:10A,10P and Dvan:01P
 both in sanverb: pawa:10A,10P and paw:01P,10A,10P
 both in sanverb: pata:10A,10P and pat:01P
 both in sanverb: pada:10A and pad:04A
-both in sanverb: puwa:10A,10P and puw:01P,06P
+both in sanverb: puwa:10A,10P and puw:01P,06P,10A,10P
 both in sanverb: BAma:10A,10P and BAm:01A
 both in sanverb: maha:10A,10P and mah:01P
 both in sanverb: rasa:10A,10P and ras:01P
@@ -34,4 +35,4 @@ both in sanverb: SraTa:10A,10P and SraT:01P,10A,10P
 both in sanverb: SvaWa:10A,10P and SvaW:10A,10P
 both in sanverb: stana:10A,10P and stan:01P
 64 cases written to roots_a.txt
-32 cases where sanverb_cp.txt has root both with 'a' and without 'a'
+33 cases where sanverb_cp.txt has root both with 'a' and without 'a'

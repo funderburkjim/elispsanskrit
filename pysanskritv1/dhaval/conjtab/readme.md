@@ -9,7 +9,7 @@ The extract.py program takes one of the tenses (based on a naming system in a sy
 implied by Dhaval's generated forms.
 
 ```
-python extract.py ../generatedforms/generatedforms20062016.xml pre 
+python extract.py ../generatedforms/generatedforms.xml pre 
 ```
 output in conj_pre.txt.
 

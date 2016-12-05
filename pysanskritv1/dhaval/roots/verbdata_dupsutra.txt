@@ -1,193 +1,28 @@
-case 01: sutra 04.0027 appears in 2 records
-jFz:vayohAnO mit 1938:jF:04:0027:pa:sew:जॄ॑ष्:774:796:813:jQ2_jQR_xivAxiH+vayohAnO:
-zUN:prARiprasave:sU:04:0027:A:sew:षू॑ङ्:775:797:814:sU2_RUf_xivAxiH+prANiprasave:
-
-case 02: sutra 06.0020 appears in 2 records
-JarJa!:pariBAzaRaBartsanayoH:JarJ:06:0020:pa:sew:झ॑र्झँ॑:924:947:::
-DU:viDUnane:DU:06:0020:pa:sew:धू॑:1001:1022:1053::
-
-case 03: sutra 10.0028 appears in 2 records
-tfpa!:sandIpane ityeke:tfp:10:0028:u:sew:तृ॑पँ॑:1336::1389:wqp4_wqpaz_curAxiH+wqpwO:
-pfTa!:prakzepe:pfT:10:0028:u:sew:पृ॑थँ॑:1151::1204:pqW1_pqWaz_curAxiH+prakRepe:
-
-case 04: sutra 10.0024 appears in 2 records
-pakza!:parigrahe:pakz:10:0024:u:sew:प॑क्षँ॑:1148:::pakR2_pakRaz_curAxiH+parigrahe:
-pfca!:saMyamane:pfc:10:0024:u:sew:पृ॑चँ॑:1326::1378:pqc3_pqcaz_curAxiH+saMyamane:
-
-case 05: sutra 10.0025 appears in 3 records
-jF:vayohAnO:jF:10:0025:u:sew:जॄ॑:1332:1351:1385:jQ4_jQ_curAxiH+vayohAnO:
-Dfza!:prasahane:Dfz:10:0025:u:sew:धृ॑षँ॑:1365::1418::
-varRa!:preraRe varRa! varRana ityeke:varR:10:0025:u:sew:व॑र्णँ॑:1149:1164:1202:varN1_varNaz_curAxiH+preraNe:267
-
-case 06: sutra 10.0110 appears in 2 records
-dasa!:darSanadaMSanayoH ityapyeke:das:10:0110:A:sew:द॑सँ॒:1252,1322:1272:1305,1374::
-Sulka!:atisarjane atisparSane:Sulk:10:0110:u:sew:शु॑ल्कँ॑::1217::Sulk1_Sulkaz_curAxiH+awisparSane:
-
-case 07: sutra 04.0109 appears in 2 records
-tasu!:upakzaye:tas:04:0109:pa:sew:त॑सुँ॑:853:872:892::
-luwa!:viloqane:luw:04:0109:pa:sew:लु॑टँ॑:862:882:902::
-
-case 08: sutra 10.0300 appears in 2 records
+case 01: sutra 10.0300 appears in 2 records
 barha!:BAzArTaH:barh:10:0300:u:sew:ब॑र्हँ॑:1241:1256:1293:barh2_barhaz_curAxiH+hiMsAyAm:
 varha!:hiMsAyAm ityeke:varh:10:0300:u:sew:व॑र्हँ॑:1321::1374::
 
-case 09: sutra 10.0173 appears in 2 records
-piSa!:avayave ayaM dIpanAyAmapi:piS:10:0173:u:sew:पि॑शँ॑:::::
-barha!:hiMsAyAm:barh:10:0173:u:sew:ब॑र्हँ॑:1241:1256:1293:barh2_barhaz_curAxiH+hiMsAyAm:
-
-case 10: sutra 01.0837 appears in 2 records
+case 02: sutra 01.0837 appears in 2 records
 bfhi!:vfdDO bfhi! vfhi! Sabde ca:bfMh:01:0837:pa:sew:बृ॑हिँ॑::465,466::bqMh1_bqhiz_BvAxiH+vqxXO:
-bfhi!:vfdDO bfhi! vfhi! Sabde ca:vfMh:01:0837:pa:sew:बृ॑हिँ॑::465,466::bqMh1_bqhiz_BvAxiH+vqxXO:
+vfhi!:vfdDO bfhi! vfhi! Sabde ca:vfMh:01:0837:pa:sew:बृ॑हिँ॑::465,466:::
 
-case 11: sutra 10.0098 appears in 3 records
-qipa!:saNGAte:qip:10:0098:A:sew:डि॑पँ॒:1248,1253:1267:1301,1306:dip3_dipaz_curAxiH+kRepe,dip4_dipaz_curAxiH+saMGAwe:
-pAla!:rakzaRe:pAl:10:0098:u:sew:पा॑लँ॑:1194:::pAl1_pAlaz_curAxiH+rakRaNe:274
-Sama!:Alocane Samo darSane na mit 1952:Sam:10:0098:A:sew:श॑मँ॒:1269:1288:1322:Sam3_Samaz_curAxiH+Alocane:
-
-case 12: sutra 10.0092 appears in 2 records
-tfpa!:tfptO sandIpana ityeke:tfp:10:0092:u:sew:तृ॑पँ॑:1336::1389:wqp4_wqpaz_curAxiH+wqpwO:
-mUla!:rohane:mUl:10:0092:u:sew:मू॑लँ॑:1189:1205:1245:mUl2_mUlaz_curAxiH+rohaNe:449
-
-case 13: sutra 10.0097 appears in 2 records
-cala!:BftO:cal:10:0097:u:sew:च॑लँ॑:1193:1209::cal3_calaz_curAxiH+BqwO:
-zRiha!:snehane:snih:10:0097:u:sew:ष्णि॑हँ॑::::snih2_RNihaz_curAxiH+snehane:442
-
-case 14: sutra 10.0094 appears in 2 records
-puwa!:BAzArTaH:puwa:10:0094:u:sew:पु॑टँ॑:1321:1214:1374:put3_putaz_curAxiH+BARArWaH:
-vila!:kzepe:vil:10:0094:u:sew:वि॑लँ॑:1190:::vil2_vilaz_curAxiH+kRepe:
-
-case 15: sutra 10.0145 appears in 2 records
-arka!:stavane:ark:10:0145:u:sew:अ॑र्कँ॑:1224:1239:1276:ark1_arkaz_curAxiH+swavane_wapane_ca:
-qipa!:kzepe:qip:10:0145:u:sew:डि॑पँ॑:1248,1253:1267:1301,1306:dip3_dipaz_curAxiH+kRepe,dip4_dipaz_curAxiH+saMGAwe:
-
-case 16: sutra 10.0146 appears in 2 records
-kupa!:BAzArTaH:kup:10:0146:u:sew:कु॑पँ॑:1321::1374:kup2_kupaz_curAxiH+BARArWaH:
-SuWa!:Alasye:SuW:10:0146:u:sew:शु॑ठँ॑:1225:1240:1277:SuT2_SuTaz_curAxiH+Alasye:
-
-case 17: sutra 10.0141 appears in 2 records
-DUSa!:kAntikaraRe ityapare:DUS:10:0141:u:sew:धू॑शँ॑:::::
-pisi!:BAzArTaH:piMs:10:0141:u:sew:पि॑सिँ॑:1321::1374:piMs1_pisiz_curAxiH+BARArWaH:
-
-case 18: sutra 10.0143 appears in 2 records
-cUrRa!:preraRe:cUrR:10:0143:u:sew:चू॑र्णँ॑:1149,1222:1165:1202,1274:cUrN1_cUrNaz_curAxiH+preraNe:241
-ruza!:roze:ruz:10:0143:u:sew:रु॑षँ॑:1247::1300:ruR3_ruRaz_curAxiH+roRe:276
-
-case 19: sutra 10.0325 appears in 2 records
+case 03: sutra 10.0325 appears in 2 records
 ci:BAzArTaH ca:ci:10:0325:u:sew:चि॑:1212:1226::ci3_ci_curAxiH+BARArWaH:
 juci!:BAzArTaH ca:juYc:10:0325:u:sew:जु॑चि॑:::::
 
-case 20: sutra 10.0084 appears in 2 records
-ila!:preraRe:il:10:0084:u:sew:इ॑लँ॑:1238:1253:1290:il2_ilaz_curAxiH+preraNe:
-cakka!:vyaTane:cakk:10:0084:u:sew:च॑क्कँ॑:1182:1198:1238:cakk1_cakkaz_curAxiH+vyaWane:
-
-case 21: sutra 10.0152 appears in 2 records
-Gf:prasravaRe srAvaRa ityeke:Gf:10:0152:u:sew:घृ॑:1229:1244:1281:Gq3_Gq_curAxiH+prasravaNe:
-zwUpa!:samucCrAye ityeke:stUp:10:0152:u:sew:ष्टू॑पँ॑:::::
-
-case 22: sutra 06.0167 appears in 2 records
-ila!:svapnakzepanayoH:il:06:0167:pa:sew:इ॑लँ॑:968:991:1011:il1_ilaz_wuxAxiH+svapnakRepaNayoH:
-lupx!:Cedane:lup:06:0167:u:aniw:लु॒पॢँ॒॑॑:1032:1051:1084::
-
-case 23: sutra 10.0054 appears in 2 records
-tapa!:dAhe:tap:10:0054:u:sew:त॑पँ॑:1335:1354:1388:wap3_wapaz_curAxiH+xAhe:
-valka!:pariBAzaRe:valk:10:0054:u:sew:व॑ल्कँ॑:1162:1177:1217:valk1_valkaz_curAxiH+pariBARaNe:
-
-case 24: sutra 10.0299 appears in 2 records
+case 04: sutra 10.0299 appears in 2 records
 bfhi!:BAzArTaH:bfMh:10:0299:u:sew:बृ॑हिँ॑::::bqMh2_bqhiz_curAxiH+BARArWaH:
 vfhi!:BAzArTaH:vfMh:10:0299:u:sew:वृ॑हिँ॑:1321::1374::
 
-case 25: sutra 10.0048 appears in 2 records
-dfBI!:Baye granTe:dfB:10:0048:u:sew:दृ॑भीँ॑:1338:1356:1391:xqB2_xqBIz_curAxiH+granWe:
-laji!:hiMsAbalAdAnaniketanezu:laYj:10:0048:u:sew:ल॑जि॑::::laFj2_lajiz_curAxiH+hiMsAbalAxAnanikewaneRu,laFj3_lajiz_curAxiH+BARArWaH,laFj4_lajiz_curAxiH+MISSING:
-
-case 26: sutra 10.0044 appears in 2 records
-tuja!:hiMsAbalAdAnaniketanezu:tuj:10:0044:u:sew:तु॑जँ॑:1159,1321:1174:1214,1374::
-banDa!:saMyamane iti cAndrAH:banD:10:0044:u:sew:ब॑न्धँ॑:::::
-
-case 27: sutra 10.0046 appears in 2 records
-pija!:hiMsAbalAdAnaniketanezu:pij:10:0046:u:sew:पि॑जँ॑:1159,1321:1174:1214,1374::
-SranTa!:sandarBe:SranT:10:0046:u:sew:श्र॑न्थँ॑:1353:1368:1406:SranW3_SranWaz_curAxiH+sanxarBe:
-
-case 28: sutra 10.0043 appears in 2 records
-jYA:niyoge:jYA:10:0043:u:sew:ज्ञा॑:1302:1322:1355:jFA3_jFA_curAxiH+niyoge:249
-SvaWi!:asaMskAragatyoH ityeke:SvaRW:10:0043:u:sew:श्व॑ठिँ॑::::SvaNT1_SvaTiz_curAxiH+asaMskAragawyoH:
-
-case 29: sutra 02.0025 appears in 2 records
-pfcI!:samparcane samparke:pfc:02:0025:A:sew:पृ॑चीँ॒:680:702::pqc1_pqcIz_axAxiH+samparcane:
-zUN:prARigarBavimocane:sU:02:0025:A:sew:षू॑ङ्:681:703:720:sU1_RUf_axAxiH+prANigarBavimocane:
-
-case 30: sutra 01.0730 appears in 2 records
+case 05: sutra 01.0730 appears in 2 records
 behf!:prayatne:beh:01:0730:A:sew:बे॑हृँ॒:::::
 vehf!:prayatne:veh:01:0730:A:sew:वे॑हृँ॒:391:408:413:veh1_vehqz_BvAxiH+prayawne:
 
-case 31: sutra 10.0060 appears in 3 records
-u!Drasa!:uGrasa! uYCe:Dras:10:0060:u:sew:उँ॑ध्र॑सँ॑:1311:1335:1369::
-paTi!:gatO:panT:10:0060:u:sew:प॑थिँ॑:1166:1181:1222:panW1_paWiz_curAxiH+gawO:
-mfza!:titikzAyAm:mfz:10:0060:u:sew:मृ॑षँ॒॑:1364:1380:1417:mqR3_mqRaz_curAxiH+wiwikRAyAm:
-
-case 32: sutra 06.0103 appears in 2 records
-cuwa!:Cedane:cuw:06:0103:pa:sew:चु॑टँ॑:987:1008:1030:cut1_cutaz_wuxAxiH+Cexane:
-tuwa!:kalahakarmaRi:tuw:06:0103:pa:sew:तु॑टँ॑:986:1007:1029:wut1_wutaz_wuxAxiH+kalahakarmaNi:
-
-case 33: sutra 10.0012 appears in 2 records
-YimidA!:snehane:mid:10:0012:u:sew:ञिमि॑दाँ॑:::::
-hisi!:hiMsAyAm:hiMs:10:0012:u:sew:हि॑सिँ॑:1346:1362:1399:hiMs2_hisiz_curAxiH+hiMsAyAm:
-
-case 34: sutra 10.0010 appears in 2 records
-DUY:kampane:DU:10:0010:u:sew:धू॑ञ्:1351:1366:1404:XU4_XUF_curAxiH+kampane:
-laqa!:upasevAyAm jihvonmaTane laqiH mit 1926:laq:10:0010:u:sew:ल॑डँ॑:1138:1154:1192:lad3_ladaz_curAxiH+upasevAyAm:
-
-case 35: sutra 10.0016 appears in 2 records
-Baji!:BAzArTaH:BaYj:10:0016:u:sew:भ॑जिँ॑:1321::1374:BaFj2_Bajiz_curAxiH+BARArWaH:
-laja!:apavAraRe ityeke:laj:10:0016:u:sew:ल॑जँ॑:1322:::laj3_lajaz_curAxiH+apavAraNe,laj4_lajaz_curAxiH+prakASane:
-
-case 36: sutra 01.0621 appears in 2 records
+case 06: sutra 01.0621 appears in 2 records
 palla!:gatO:pall:01:0621:pa:sew:प॑ल्लँ॑:::::
 pelf!:gatO:pel:01:0621:pa:sew:पे॑लृँ॑:331:347:349::
 
-case 37: sutra 01.0403 appears in 2 records
+case 07: sutra 01.0403 appears in 2 records
 aqqa!:aBiyoge:aqq:01:0403:pa:sew:अ॑ड्डँ॑:222:235:235:add1_addaz_BvAxiH+aBiyoge:
 adqa!:aBiyoge:adq:01:0403:pa:sew:अ॑द्डँ॑:222:235:235::
-
-case 38: sutra 10.0133 appears in 2 records
-puRa!:karmaRi SuBe:puR:10:0133:u:sew:पु॑णँ॑:::::
-luwa!:BAzArTaH:luw:10:0133:u:sew:लु॑टँ॑:1321::1374:lut5_lutaz_curAxiH+BARArWaH:
-
-case 39: sutra 10.0001 appears in 3 records
-cura!:steye:cur:10:0001:u:sew:चु॑रँ॑:1132:1148:1186:cur1_curaz_curAxiH+sweye:235
-tanu!:SradDopakaraRayoH upasargAcca dErGye:tan:10:0001:u:sew:त॑नुँ॑:1355:1370:1408:wan2_wanuz_curAxiH+SraxXopakaraNayoH_hanana_iwyanye:
-divu!:parikUjane:div:10:0001:A:sew:दि॑वुँ॒:1279:1297,1314:1330,1347:xiv2_xivuz_curAxiH+paripUjane,xiv3_xivuz_curAxiH+marxane:
-
-case 40: sutra 10.0005 appears in 2 records
-ciY:cayane:ci:10:0005:u:sew:चि॑ञ्:1212:1226::ci2_ciF_curAxiH+cayane:
-sPuwi!:ityapi parihAse:sPuRw:10:0005:u:sew:स्फु॑टिँ॑::::sPuNt2_sPutiz_curAxiH+parihAse:
-
-case 41: sutra 10.0008 appears in 3 records
-Ira!:kzepe:Ir:10:0008:u:sew:ई॑रँ॑:1328:1347:1381:Ir2_Iraz_curAxiH+kRepe:
-kudf!:anftaBAzaRe ityeke:kud:10:0008:u:sew:कु॑दृँ॑:::::
-juza!:paritarkane paritarpaRa ityanye:juz:10:0008:u:sew:जु॑षँ॑:1350:1365:1403:juR2_juRaz_curAxiH+pariwarkaNe:
-
-case 42: sutra 10.0009 appears in 2 records
-Iqa!:stutO:Iq:10:0009:u:sew:ई॑डँ॑:1244:1262:1297:Id2_Idaz_curAxiH+swuwO:
-kuqi!:rakzaRe:kuRq:10:0009:u:sew:कु॑डिँ॑:1172::1228:kuNd3_kudiz_curAxiH+Bexane:
-
-case 43: sutra 09.0021 appears in 2 records
-banDa!:banDane:banD:09:0021:pa:aniw:ब॒न्धँ॑:1110:1126:1163:banX1_banXaz_kryAxiH+banXane:219
-SF:hiMsAyAm:SF:09:0021:pa:sew:शॄ॑:1089::1140:SQ1_SQ_kryAxiH+hiMsAyAm:
-
-case 44: sutra 10.0108 appears in 2 records
-jasu!:hiMsAyAm:jas:10:0108:u:sew:ज॑सुँ॑:1245,1290:1263:1298,1342:jas2_jasuz_curAxiH+hiMsAyAm,jas3_jasuz_curAxiH+wAdane:234
-paSi!:nASane ityeke:paMS:10:0108:u:sew:प॑शिँ॑:::::
-
-case 45: sutra 10.0102 appears in 2 records
-truwa!:Cedane:truw:10:0102:A:sew:त्रु॑टँ॒:1271:1290:1326:wrut2_wrutaz_curAxiH+Cexane:446
-SUrpa!:ca mAne:SUrp:10:0102:u:sew:शू॑र्पँ॑:::1252:SUrp1_SUrpaz_curAxiH+mAne:
-
-case 46: sutra 10.0105 appears in 2 records
-piSa!:nASane:piS:10:0105:u:sew:पि॑शँ॑:::::
-mada!:tfptiyoge:mad:10:0105:A:sew:म॑दँ॒:1278:1296:1329:max3_maxaz_curAxiH+wqpwiyoge:
-
-case 47: sutra 10.0104 appears in 2 records
-cuwa!:Cedane:cuw:10:0104:u:sew:चु॑टँ॑:1197:1252:1253:cut2_cutaz_curAxiH+Cexane:
-muwa!:saYcUrRane:muw:10:0104:u:sew:मु॑टँ॑:1198::1254:mut3_mutaz_curAxiH+saFcUrNane:
 

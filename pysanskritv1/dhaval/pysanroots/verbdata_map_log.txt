@@ -1,8 +1,6 @@
-2209
-('bfhi!', u'01', u'0837'):bfMh,vfMh
-1 duplicate normalized root spellings
-WARNING: vals wrong length: ('bfhi!', u'01', u'0837') => [u'bfMh', u'vfMh']
-2208 records written to verbdata_map.txt
+2212
+0 duplicate normalized root spellings
+2212 records written to verbdata_map.txt
 WARNING: vals wrong length: ('aMsa', u'10', u'0460') => [u'aMsa']
 WARNING: vals wrong length: ('aka!', u'01', u'0901') => [u'ak']
 WARNING: vals wrong length: ('aki!', u'01', u'0092') => [u'aNk']
@@ -15,11 +13,11 @@ WARNING: vals wrong length: ('aNga', u'10', u'0474') => [u'aNga']
 WARNING: vals wrong length: ('aci!', u'01', u'1000') => [u'aYc']
 WARNING: vals wrong length: ('acu!', u'01', u'0999') => [u'ac']
 WARNING: vals wrong length: ('aja!', u'01', u'0262') => [u'aj']
-WARNING: vals wrong length: ('aji!', u'10', u'0021') => [u'aYj']
+WARNING: vals wrong length: ('aji!', u'10', u'0316') => [u'aYj']
 WARNING: vals wrong length: ('aYcu!', u'01', u'0215') => [u'aYc']
 WARNING: vals wrong length: ('aYcu!', u'01', u'0998') => [u'aYc']
 WARNING: vals wrong length: ('aYcu!', u'10', u'0266') => [u'aYc']
-WARNING: vals wrong length: ('aYjU!', u'07', u'0316') => [u'aYj']
+WARNING: vals wrong length: ('aYjU!', u'07', u'0021') => [u'aYj']
 WARNING: vals wrong length: ('awa!', u'01', u'0332') => [u'aw']
 WARNING: vals wrong length: ('awwa!', u'01', u'0287') => [u'aww']
 WARNING: vals wrong length: ('awwa!', u'10', u'0037') => [u'aww']
@@ -85,8 +83,8 @@ WARNING: vals wrong length: ('iN', u'02', u'0041') => [u'i']
 WARNING: vals wrong length: ('iwa!', u'01', u'0357') => [u'iw']
 WARNING: vals wrong length: ('iR', u'02', u'0040') => [u'i']
 WARNING: vals wrong length: ('idi!', u'01', u'0065') => [u'ind']
-WARNING: vals wrong length: ('ila!', u'06', u'0167') => [u'il']
-WARNING: vals wrong length: ('ila!', u'10', u'0084') => [u'il']
+WARNING: vals wrong length: ('ila!', u'06', u'0084') => [u'il']
+WARNING: vals wrong length: ('ila!', u'10', u'0167') => [u'il']
 WARNING: vals wrong length: ('ivi!', u'01', u'0670') => [u'inv']
 WARNING: vals wrong length: ('iza!', u'04', u'0022') => [u'iz']
 WARNING: vals wrong length: ('iza!', u'06', u'0078') => [u'iz']
@@ -98,10 +96,10 @@ WARNING: vals wrong length: ('IKi!', u'01', u'0151') => [u'INK']
 WARNING: vals wrong length: ('IN', u'04', u'0038') => [u'I']
 WARNING: vals wrong length: ('Ija!', u'01', u'0207') => [u'Ij']
 WARNING: vals wrong length: ('Iji!', u'01', u'0208') => [u'IYj']
-WARNING: vals wrong length: ('Iqa!', u'02', u'0183') => [u'Iq']
-WARNING: vals wrong length: ('Iqa!', u'10', u'0009') => [u'Iq']
-WARNING: vals wrong length: ('Ira!', u'02', u'0342') => [u'Ir']
-WARNING: vals wrong length: ('Ira!', u'10', u'0008') => [u'Ir']
+WARNING: vals wrong length: ('Iqa!', u'02', u'0009') => [u'Iq']
+WARNING: vals wrong length: ('Iqa!', u'10', u'0183') => [u'Iq']
+WARNING: vals wrong length: ('Ira!', u'02', u'0008') => [u'Ir']
+WARNING: vals wrong length: ('Ira!', u'10', u'0342') => [u'Ir']
 WARNING: vals wrong length: ('Irkzya!', u'01', u'0587') => [u'Irkzy']
 WARNING: vals wrong length: ('Irzya!', u'01', u'0588') => [u'Irzy']
 WARNING: vals wrong length: ('ISa!', u'02', u'0010') => [u'IS']
@@ -110,8 +108,8 @@ WARNING: vals wrong length: ('Iza!', u'01', u'0780') => [u'Iz']
 WARNING: vals wrong length: ('Iha!', u'01', u'0719') => [u'Ih']
 WARNING: vals wrong length: ('u!Cfdi!r', u'07', u'0008') => [u'Cfd']
 WARNING: vals wrong length: ('u!tfdi!r', u'07', u'0009') => [u'tfd']
-WARNING: vals wrong length: ('u!Drasa!', u'09', u'0270') => [u'Dras']
-WARNING: vals wrong length: ('u!Drasa!', u'10', u'0060') => [u'Dras']
+WARNING: vals wrong length: ('u!Drasa!', u'09', u'0060') => [u'Dras']
+WARNING: vals wrong length: ('u!Drasa!', u'10', u'0270') => [u'Dras']
 WARNING: vals wrong length: ('u!bundi!r', u'01', u'1017') => [u'bund']
 WARNING: vals wrong length: ('ukza!', u'01', u'0745') => [u'ukz']
 WARNING: vals wrong length: ('uKa!', u'01', u'0136') => [u'uK']
@@ -214,7 +212,7 @@ WARNING: vals wrong length: ('karda!', u'01', u'0061') => [u'kard']
 WARNING: vals wrong length: ('karba!', u'01', u'0486') => [u'karb']
 WARNING: vals wrong length: ('karva!', u'01', u'0664') => [u'karv']
 WARNING: vals wrong length: ('kala!', u'01', u'0570') => [u'kal']
-WARNING: vals wrong length: ('kala', u'10', u'0093') => [u'kala']
+WARNING: vals wrong length: ('kala!', u'10', u'0093') => [u'kal']
 WARNING: vals wrong length: ('kala', u'10', u'0404') => [u'kala']
 WARNING: vals wrong length: ('kalla!', u'01', u'0571') => [u'kall']
 WARNING: vals wrong length: ('kaSa!', u'02', u'0016') => [u'kaS']
@@ -236,12 +234,12 @@ WARNING: vals wrong length: ('kita!', u'03', u'0021') => [u'kit']
 WARNING: vals wrong length: ('kila!', u'06', u'0080') => [u'kil']
 WARNING: vals wrong length: ('kIwa!', u'10', u'0142') => [u'kIw']
 WARNING: vals wrong length: ('kIla!', u'01', u'0602') => [u'kIl']
-WARNING: vals wrong length: ('ku', u'02', u'0127') => [u'ku']
-WARNING: vals wrong length: ('kuMSa!', u'04', u'0294') => [u'kuMS']
+WARNING: vals wrong length: ('ku', u'02', u'0037') => [u'ku']
+WARNING: vals wrong length: ('kuMSa!', u'04', u'0128') => [u'kuMS']
 WARNING: vals wrong length: ('kuMsa!', u'04', u'0127') => [u'kuMs']
 WARNING: vals wrong length: ('kuka!', u'01', u'0096') => [u'kuk']
 WARNING: vals wrong length: ('kuN', u'01', u'1103') => [u'ku']
-WARNING: vals wrong length: ('kuN', u'06', u'0296') => [u'ku']
+WARNING: vals wrong length: ('kuN', u'06', u'0136') => [u'ku']
 WARNING: vals wrong length: ('kuca!', u'01', u'0211') => [u'kuc']
 WARNING: vals wrong length: ('kuca!', u'01', u'0993') => [u'kuc']
 WARNING: vals wrong length: ('kuca!', u'06', u'0095') => [u'kuc']
@@ -268,8 +266,8 @@ WARNING: vals wrong length: ('kuTi!', u'01', u'0045') => [u'kunT']
 WARNING: vals wrong length: ('kudf!', u'10', u'0008') => [u'kud']
 WARNING: vals wrong length: ('kudri!', u'10', u'0007') => [u'kundr']
 WARNING: vals wrong length: ('kunTa!', u'09', u'0050') => [u'kunT']
-WARNING: vals wrong length: ('kupa!', u'04', u'0310') => [u'kup']
-WARNING: vals wrong length: ('kupa!', u'10', u'0146') => [u'kup']
+WARNING: vals wrong length: ('kupa!', u'04', u'0146') => [u'kup']
+WARNING: vals wrong length: ('kupa!', u'10', u'0310') => [u'kup']
 WARNING: vals wrong length: ('kubi!', u'01', u'0492') => [u'kumb']
 WARNING: vals wrong length: ('kubi!', u'10', u'0157') => [u'kumb']
 WARNING: vals wrong length: ('kuBi!', u'10', u'0158') => [u'kumB']
@@ -278,7 +276,7 @@ WARNING: vals wrong length: ('kura!', u'06', u'0067') => [u'kur']
 WARNING: vals wrong length: ('kurda!', u'01', u'0021') => [u'kurd']
 WARNING: vals wrong length: ('kula!', u'01', u'0976') => [u'kul']
 WARNING: vals wrong length: ('kuSa!', u'04', u'0126') => [u'kuS']
-WARNING: vals wrong length: ('kuSi!', u'10', u'1103') => [u'kuMS']
+WARNING: vals wrong length: ('kuSi!', u'10', u'0296') => [u'kuMS']
 WARNING: vals wrong length: ('kuza!', u'09', u'0054') => [u'kuz']
 WARNING: vals wrong length: ('kusa!', u'04', u'0125') => [u'kus']
 WARNING: vals wrong length: ('kusi!', u'10', u'0294') => [u'kuMs']
@@ -366,7 +364,7 @@ WARNING: vals wrong length: ('kzI', u'05', u'0039') => [u'kzI']
 WARNING: vals wrong length: ('kzIja!', u'01', u'0270') => [u'kzIj']
 WARNING: vals wrong length: ('kzIbf!', u'01', u'0442') => [u'kzIb']
 WARNING: vals wrong length: ('kzIvf!', u'01', u'0443') => [u'kzIv']
-WARNING: vals wrong length: ('kzIz', u'09', u'0042') => [u'kzIz']
+WARNING: vals wrong length: ('kzIz', u'09', u'0042') => [u'kzI']
 WARNING: vals wrong length: ('kzudi!r', u'07', u'0006') => [u'kzud']
 WARNING: vals wrong length: ('kzuDa!', u'04', u'0087') => [u'kzuD']
 WARNING: vals wrong length: ('kzuBa!', u'01', u'0854') => [u'kzuB']
@@ -479,7 +477,7 @@ WARNING: vals wrong length: ('gfja!', u'01', u'0281') => [u'gfj']
 WARNING: vals wrong length: ('gfji!', u'01', u'0282') => [u'gfYj']
 WARNING: vals wrong length: ('gfDu!', u'04', u'0161') => [u'gfD']
 WARNING: vals wrong length: ('gfha', u'10', u'0441') => [u'gfha']
-WARNING: vals wrong length: ('gfhU!', u'01', u'0737') => [u'gUh']
+WARNING: vals wrong length: ('gfhU!', u'01', u'0737') => [u'gfh']
 WARNING: vals wrong length: ('gF', u'06', u'0146') => [u'gF']
 WARNING: vals wrong length: ('gF', u'09', u'0033') => [u'gF']
 WARNING: vals wrong length: ('gF', u'10', u'0231') => [u'gF']
@@ -559,7 +557,7 @@ WARNING: vals wrong length: ('capa!', u'01', u'0465') => [u'cap']
 WARNING: vals wrong length: ('capa!', u'10', u'0121') => [u'cap']
 WARNING: vals wrong length: ('capi!', u'10', u'0111') => [u'camp']
 WARNING: vals wrong length: ('camu!', u'01', u'0540') => [u'cam']
-WARNING: vals wrong length: ('camu!', u'05', u'0540') => [u'cam']
+WARNING: vals wrong length: ('camu!', u'05', u'0031') => [u'cam']
 WARNING: vals wrong length: ('caya!', u'01', u'0550') => [u'cay']
 WARNING: vals wrong length: ('cara!', u'01', u'0640') => [u'car']
 WARNING: vals wrong length: ('cara!', u'10', u'0274') => [u'car']
@@ -573,12 +571,12 @@ WARNING: vals wrong length: ('cala!', u'06', u'0083') => [u'cal']
 WARNING: vals wrong length: ('cala!', u'10', u'0097') => [u'cal']
 WARNING: vals wrong length: ('caza!', u'01', u'1034') => [u'caz']
 WARNING: vals wrong length: ('caha!', u'01', u'0830') => [u'cah']
-WARNING: vals wrong length: ('caha!', u'10', u'0120') => [u'caha']
+WARNING: vals wrong length: ('caha!', u'10', u'0120') => [u'cah']
 WARNING: vals wrong length: ('caha', u'10', u'0405') => [u'caha']
 WARNING: vals wrong length: ('cAyf!', u'01', u'1023') => [u'cAy']
 WARNING: vals wrong length: ('ci', u'10', u'0325') => [u'ci']
-WARNING: vals wrong length: ('ciY', u'05', u'0124') => [u'ci']
-WARNING: vals wrong length: ('ciY', u'10', u'0005') => [u'ci']
+WARNING: vals wrong length: ('ciY', u'05', u'0005') => [u'ci']
+WARNING: vals wrong length: ('ciY', u'10', u'0124') => [u'ci']
 WARNING: vals wrong length: ('ciwa!', u'01', u'0353') => [u'ciw']
 WARNING: vals wrong length: ('cita!', u'10', u'0192') => [u'cit']
 WARNING: vals wrong length: ('citi!', u'10', u'0002') => [u'cint']
@@ -594,8 +592,8 @@ WARNING: vals wrong length: ('cIva!', u'10', u'0305') => [u'cIv']
 WARNING: vals wrong length: ('cIvf!', u'01', u'1021') => [u'cIv']
 WARNING: vals wrong length: ('cukka!', u'10', u'0085') => [u'cukk']
 WARNING: vals wrong length: ('cucya!', u'01', u'0591') => [u'cucy']
-WARNING: vals wrong length: ('cuwa!', u'06', u'0103') => [u'cuw']
-WARNING: vals wrong length: ('cuwa!', u'10', u'0104') => [u'cuw']
+WARNING: vals wrong length: ('cuwa!', u'06', u'0104') => [u'cuw']
+WARNING: vals wrong length: ('cuwa!', u'10', u'0103') => [u'cuw']
 WARNING: vals wrong length: ('cuwi!', u'10', u'0164') => [u'cuRw']
 WARNING: vals wrong length: ('cuwwa!', u'10', u'0036') => [u'cuww']
 WARNING: vals wrong length: ('cuqa!', u'06', u'0126') => [u'cuq']
@@ -617,15 +615,15 @@ WARNING: vals wrong length: ('cfpa!', u'10', u'0353') => [u'cfp']
 WARNING: vals wrong length: ('celf!', u'01', u'0615') => [u'cel']
 WARNING: vals wrong length: ('cezwa!', u'01', u'0289') => [u'cezw']
 WARNING: vals wrong length: ('cyu', u'10', u'0275') => [u'cyu']
-WARNING: vals wrong length: ('cyuN', u'01', u'1108') => [u'Syu']
+WARNING: vals wrong length: ('cyuN', u'01', u'1108') => [u'cyu']
 WARNING: vals wrong length: ('cyuti!r', u'01', u'0040') => [u'cyut']
 WARNING: vals wrong length: ('Caji!', u'10', u'0114') => [u'CaYj']
-WARNING: vals wrong length: ('Cada!', u'10', u'0359') => [u'Cada!']
-WARNING: vals wrong length: ('Cada!', u'10', u'0370') => [u'Cada']
+WARNING: vals wrong length: ('Cada!', u'10', u'0359') => [u'Cad']
+WARNING: vals wrong length: ('Cada!', u'10', u'0370') => [u'Cad']
 WARNING: vals wrong length: ('Cada', u'10', u'0481') => [u'Cada']
 WARNING: vals wrong length: ('Cadi!', u'10', u'0062') => [u'Cand']
 WARNING: vals wrong length: ('Camu!', u'01', u'0541') => [u'Cam']
-WARNING: vals wrong length: ('Carda', u'10', u'0078') => [u'Card']
+WARNING: vals wrong length: ('Carda!', u'10', u'0078') => [u'Card']
 WARNING: vals wrong length: ('Caza!', u'01', u'1035') => [u'Caz']
 WARNING: vals wrong length: ('Cidi!r', u'07', u'0003') => [u'Cid']
 WARNING: vals wrong length: ('Cidra', u'10', u'0469') => [u'Cidra']
@@ -654,8 +652,8 @@ WARNING: vals wrong length: ('jala!', u'10', u'0015') => [u'jal']
 WARNING: vals wrong length: ('jalpa!', u'01', u'0464') => [u'jalp']
 WARNING: vals wrong length: ('jaza!', u'01', u'0784') => [u'jaz']
 WARNING: vals wrong length: ('jasi!', u'10', u'0182') => [u'jaMs']
-WARNING: vals wrong length: ('jasu!', u'04', u'0184') => [u'jas']
-WARNING: vals wrong length: ('jasu!', u'10', u'0108') => [u'jas']
+WARNING: vals wrong length: ('jasu!', u'04', u'0108') => [u'jas']
+WARNING: vals wrong length: ('jasu!', u'10', u'0184') => [u'jas']
 WARNING: vals wrong length: ('jasu!', u'10', u'0243') => [u'jas']
 WARNING: vals wrong length: ('jAgf', u'02', u'0067') => [u'jAgf']
 WARNING: vals wrong length: ('ji', u'01', u'0642') => [u'ji']
@@ -676,20 +674,20 @@ WARNING: vals wrong length: ('juqa!', u'06', u'0106') => [u'juq']
 WARNING: vals wrong length: ('juqa!', u'10', u'0148') => [u'juq']
 WARNING: vals wrong length: ('jutf!', u'01', u'0032') => [u'jut']
 WARNING: vals wrong length: ('juna!', u'06', u'0052') => [u'jun']
-WARNING: vals wrong length: ('juza!', u'10', u'0008') => [u'juz']
-WARNING: vals wrong length: ('juzI!', u'06', u'0371') => [u'juz']
+WARNING: vals wrong length: ('juza!', u'10', u'0371') => [u'juz']
+WARNING: vals wrong length: ('juzI!', u'06', u'0008') => [u'juz']
 WARNING: vals wrong length: ('jUrI!', u'04', u'0051') => [u'jUr']
 WARNING: vals wrong length: ('jUza!', u'01', u'0776') => [u'jUz']
 WARNING: vals wrong length: ('jfBi!', u'01', u'0454') => [u'jfmB']
-WARNING: vals wrong length: ('jF', u'09', u'0346') => [u'jF']
-WARNING: vals wrong length: ('jF', u'10', u'0025') => [u'jF']
-WARNING: vals wrong length: ('jFz', u'04', u'0027') => [u'jF']
+WARNING: vals wrong length: ('jF', u'09', u'0027') => [u'jF']
+WARNING: vals wrong length: ('jF', u'10', u'0346') => [u'jF']
+WARNING: vals wrong length: ('jFz', u'04', u'0025') => [u'jF']
 WARNING: vals wrong length: ('jezf!', u'01', u'0703') => [u'jez']
 WARNING: vals wrong length: ('jehf!', u'01', u'0731') => [u'jeh']
 WARNING: vals wrong length: ('jE', u'01', u'1062') => [u'jE']
 WARNING: vals wrong length: ('jYapa!', u'10', u'0118') => [u'jYap']
-WARNING: vals wrong length: ('jYA', u'09', u'0258') => [u'jYA']
-WARNING: vals wrong length: ('jYA', u'10', u'0043') => [u'jYA']
+WARNING: vals wrong length: ('jYA', u'09', u'0043') => [u'jYA']
+WARNING: vals wrong length: ('jYA', u'10', u'0258') => [u'jYA']
 WARNING: vals wrong length: ('jyA', u'09', u'0034') => [u'jyA']
 WARNING: vals wrong length: ('jyuN', u'01', u'1109') => [u'jyu']
 WARNING: vals wrong length: ('jyuti!r', u'01', u'0043') => [u'jyut']
@@ -707,15 +705,16 @@ WARNING: vals wrong length: ('Jaza!', u'01', u'1036') => [u'Jaz']
 WARNING: vals wrong length: ('JF', u'09', u'0028') => [u'JF']
 WARNING: vals wrong length: ('JFz', u'04', u'0026') => [u'JF']
 WARNING: vals wrong length: ('YiinDI!', u'07', u'0011') => [u'inD']
+WARNING: vals wrong length: ('YikzvidA!', u'01', u'0846') => [u'kzvid']
 WARNING: vals wrong length: ('YikzvidA!', u'01', u'1133') => [u'kzvid']
 WARNING: vals wrong length: ('YikzvidA!', u'04', u'0159') => [u'kzvid']
 WARNING: vals wrong length: ('Yitfza!', u'04', u'0141') => [u'tfz']
 WARNING: vals wrong length: ('YitvarA!', u'01', u'0884') => [u'tvar']
-WARNING: vals wrong length: ('YiDfzA!', u'05', u'0388') => [u'Dfz']
+WARNING: vals wrong length: ('YiDfzA!', u'05', u'0025') => [u'Dfz']
 WARNING: vals wrong length: ('YiPalA!', u'01', u'0594') => [u'Pal']
 WARNING: vals wrong length: ('YiBI', u'03', u'0002') => [u'BI']
 WARNING: vals wrong length: ('YimidA!', u'01', u'0844') => [u'mid']
-WARNING: vals wrong length: ('YimidA!', u'10', u'0012') => [u'mid']
+WARNING: vals wrong length: ('YimidA!', u'04', u'0158') => [u'mid']
 WARNING: vals wrong length: ('Yizvapa!', u'02', u'0063') => [u'svap']
 WARNING: vals wrong length: ('YizvidA!', u'01', u'0845') => [u'svid']
 WARNING: vals wrong length: ('waki!', u'10', u'0135') => [u'waNk']
@@ -725,7 +724,7 @@ WARNING: vals wrong length: ('wIkf!', u'01', u'0109') => [u'wIk']
 WARNING: vals wrong length: ('wuo!Svi', u'01', u'1165') => [u'Svi']
 WARNING: vals wrong length: ('wuo!sPUrjA!', u'01', u'0268') => [u'sPUrj']
 WARNING: vals wrong length: ('wukzu', u'02', u'0031') => [u'kzu']
-WARNING: vals wrong length: ('wudu', u'05', u'0476') => [u'du']
+WARNING: vals wrong length: ('wudu', u'05', u'0011') => [u'du']
 WARNING: vals wrong length: ('wunadi!', u'01', u'0070') => [u'nand']
 WARNING: vals wrong length: ('wuBrAjf!', u'01', u'0205') => [u'BrAj']
 WARNING: vals wrong length: ('wuBrASf!', u'01', u'0958') => [u'BrAS']
@@ -736,10 +735,10 @@ WARNING: vals wrong length: ('wuvama!', u'01', u'0984') => [u'vam']
 WARNING: vals wrong length: ('wuvepf!', u'01', u'0425') => [u'vep']
 WARNING: vals wrong length: ('wvala!', u'01', u'0969') => [u'wval']
 WARNING: vals wrong length: ('qapa!', u'10', u'0196') => [u'qap']
-WARNING: vals wrong length: ('qipa!', u'04', u'0197') => [u'qip']
-WARNING: vals wrong length: ('qipa!', u'06', u'0189') => [u'qip']
-WARNING: vals wrong length: ('qipa!', u'10', u'0098') => [u'qip']
-WARNING: vals wrong length: ('qipa!', u'10', u'0145') => [u'qip']
+WARNING: vals wrong length: ('qipa!', u'04', u'0145') => [u'qip']
+WARNING: vals wrong length: ('qipa!', u'06', u'0098') => [u'qip']
+WARNING: vals wrong length: ('qipa!', u'10', u'0189') => [u'qip']
+WARNING: vals wrong length: ('qipa!', u'10', u'0197') => [u'qip']
 WARNING: vals wrong length: ('qIN', u'01', u'1123') => [u'qI']
 WARNING: vals wrong length: ('qIN', u'04', u'0030') => [u'qI']
 WARNING: vals wrong length: ('qukfY', u'08', u'0010') => [u'kf']
@@ -800,11 +799,11 @@ WARNING: vals wrong length: ('taqa!', u'10', u'0064') => [u'taq']
 WARNING: vals wrong length: ('taqa!', u'10', u'0332') => [u'taq']
 WARNING: vals wrong length: ('taqi!', u'01', u'0314') => [u'taRq']
 WARNING: vals wrong length: ('tatri!', u'10', u'0198') => [u'tantr']
-WARNING: vals wrong length: ('tanu!', u'08', u'0377') => [u'tan']
-WARNING: vals wrong length: ('tanu!', u'10', u'0001') => [u'tan']
+WARNING: vals wrong length: ('tanu!', u'08', u'0001') => [u'tan']
+WARNING: vals wrong length: ('tanu!', u'10', u'0377') => [u'tan']
 WARNING: vals wrong length: ('tapa!', u'01', u'1140') => [u'tap']
-WARNING: vals wrong length: ('tapa!', u'04', u'0350') => [u'tap']
-WARNING: vals wrong length: ('tapa!', u'10', u'0054') => [u'tap']
+WARNING: vals wrong length: ('tapa!', u'04', u'0054') => [u'tap']
+WARNING: vals wrong length: ('tapa!', u'10', u'0350') => [u'tap']
 WARNING: vals wrong length: ('tamu!', u'04', u'0099') => [u'tam']
 WARNING: vals wrong length: ('taya!', u'01', u'0551') => [u'tay']
 WARNING: vals wrong length: ('tarka!', u'10', u'0311') => [u'tark']
@@ -872,11 +871,11 @@ WARNING: vals wrong length: ('tUza!', u'01', u'0768') => [u'tUz']
 WARNING: vals wrong length: ('tfMhU!', u'06', u'0077') => [u'tfMh']
 WARNING: vals wrong length: ('tfkza!', u'01', u'0750') => [u'tfkz']
 WARNING: vals wrong length: ('tfRu!', u'08', u'0006') => [u'tfR']
-WARNING: vals wrong length: ('tfpa!', u'05', u'0351') => [u'tfp']
+WARNING: vals wrong length: ('tfpa!', u'04', u'0092') => [u'tfp']
+WARNING: vals wrong length: ('tfpa!', u'05', u'0028') => [u'tfp']
 WARNING: vals wrong length: ('tfpa!', u'06', u'0028') => [u'tfp']
-WARNING: vals wrong length: ('tfpa!', u'06', u'0355') => [u'tfp']
-WARNING: vals wrong length: ('tfpa!', u'10', u'0028') => [u'tfp']
-WARNING: vals wrong length: ('tfpa!', u'10', u'0092') => [u'tfp']
+WARNING: vals wrong length: ('tfpa!', u'10', u'0351') => [u'tfp']
+WARNING: vals wrong length: ('tfpa!', u'10', u'0355') => [u'tfp']
 WARNING: vals wrong length: ('tfPa!', u'06', u'0030') => [u'tfP']
 WARNING: vals wrong length: ('tfmpa!', u'06', u'0029') => [u'tfmp']
 WARNING: vals wrong length: ('tfmPa!', u'06', u'0031') => [u'tfmP']
@@ -897,8 +896,8 @@ WARNING: vals wrong length: ('trasa!', u'10', u'0269') => [u'tras']
 WARNING: vals wrong length: ('trasi!', u'10', u'0292') => [u'traMs']
 WARNING: vals wrong length: ('trasI!', u'04', u'0011') => [u'tras']
 WARNING: vals wrong length: ('triKi!', u'01', u'0173') => [u'triNK']
-WARNING: vals wrong length: ('truwa!', u'06', u'0221') => [u'truw']
-WARNING: vals wrong length: ('truwa!', u'10', u'0102') => [u'truw']
+WARNING: vals wrong length: ('truwa!', u'06', u'0102') => [u'truw']
+WARNING: vals wrong length: ('truwa!', u'10', u'0221') => [u'truw']
 WARNING: vals wrong length: ('trupa!', u'01', u'0472') => [u'trup']
 WARNING: vals wrong length: ('truPa!', u'01', u'0476') => [u'truP']
 WARNING: vals wrong length: ('trumpa!', u'01', u'0473') => [u'trump']
@@ -930,21 +929,21 @@ WARNING: vals wrong length: ('dala!', u'01', u'0629') => [u'dal']
 WARNING: vals wrong length: ('dala!', u'10', u'0281') => [u'dal']
 WARNING: vals wrong length: ('daSi!', u'10', u'0193') => [u'daMS']
 WARNING: vals wrong length: ('daSi!', u'10', u'0295') => [u'daMS']
-WARNING: vals wrong length: ('dasa!', u'10', u'0110') => [u'das']
+WARNING: vals wrong length: ('dasa!', u'10', u'0195') => [u'das']
 WARNING: vals wrong length: ('dasi!', u'10', u'0194') => [u'daMs']
 WARNING: vals wrong length: ('dasi!', u'10', u'0317') => [u'daMs']
-WARNING: vals wrong length: ('dasu!', u'04', u'0195') => [u'das']
+WARNING: vals wrong length: ('dasu!', u'04', u'0110') => [u'das']
 WARNING: vals wrong length: ('daha!', u'01', u'1146') => [u'dah']
 WARNING: vals wrong length: ('dAR', u'01', u'1079') => [u'dA']
 WARNING: vals wrong length: ('dAna!', u'01', u'1149') => [u'dAn']
 WARNING: vals wrong length: ('dAp', u'02', u'0054') => [u'dA']
-WARNING: vals wrong length: ('dASa!', u'05', u'0036') => [u'daS']
+WARNING: vals wrong length: ('dASa!', u'05', u'0036') => [u'dAS']
 WARNING: vals wrong length: ('dASf!', u'01', u'1025') => [u'dAS']
 WARNING: vals wrong length: ('dAsf!', u'01', u'1041') => [u'dAs']
 WARNING: vals wrong length: ('divi!', u'01', u'0676') => [u'dinv']
-WARNING: vals wrong length: ('divu!', u'04', u'0249') => [u'div']
-WARNING: vals wrong length: ('divu!', u'10', u'0001') => [u'div']
+WARNING: vals wrong length: ('divu!', u'04', u'0001') => [u'div']
 WARNING: vals wrong length: ('divu!', u'10', u'0230') => [u'div']
+WARNING: vals wrong length: ('divu!', u'10', u'0249') => [u'div']
 WARNING: vals wrong length: ('diSa!', u'06', u'0003') => [u'diS']
 WARNING: vals wrong length: ('diha!', u'02', u'0005') => [u'dih']
 WARNING: vals wrong length: ('dIkza!', u'01', u'0693') => [u'dIkz']
@@ -965,15 +964,15 @@ WARNING: vals wrong length: ('dfpa!', u'06', u'0036') => [u'dfp']
 WARNING: vals wrong length: ('dfpa!', u'10', u'0356') => [u'dfp']
 WARNING: vals wrong length: ('dfPa!', u'06', u'0038') => [u'dfP']
 WARNING: vals wrong length: ('dfBa!', u'10', u'0358') => [u'dfB']
-WARNING: vals wrong length: ('dfBI!', u'06', u'0357') => [u'dfB']
-WARNING: vals wrong length: ('dfBI!', u'10', u'0048') => [u'dfB']
+WARNING: vals wrong length: ('dfBI!', u'06', u'0048') => [u'dfB']
+WARNING: vals wrong length: ('dfBI!', u'10', u'0357') => [u'dfB']
 WARNING: vals wrong length: ('dfmpa!', u'06', u'0037') => [u'dfmp']
 WARNING: vals wrong length: ('dfmPa!', u'06', u'0039') => [u'dfmP']
 WARNING: vals wrong length: ('dfSi!r', u'01', u'1143') => [u'dfS']
 WARNING: vals wrong length: ('dfha!', u'01', u'0834') => [u'dfh']
 WARNING: vals wrong length: ('dfhi!', u'01', u'0835') => [u'dfMh']
 WARNING: vals wrong length: ('dF', u'01', u'0920') => [u'dF']
-WARNING: vals wrong length: ('dF', u'05', u'0037') => [u'dF']
+WARNING: vals wrong length: ('dF', u'05', u'0037') => [u'df']
 WARNING: vals wrong length: ('dF', u'09', u'0026') => [u'dF']
 WARNING: vals wrong length: ('deN', u'01', u'1117') => [u'de']
 WARNING: vals wrong length: ('devf!', u'01', u'0573') => [u'dev']
@@ -1010,11 +1009,10 @@ WARNING: vals wrong length: ('DIN', u'04', u'0031') => [u'DI']
 WARNING: vals wrong length: ('Dukza!', u'01', u'0686') => [u'Dukz']
 WARNING: vals wrong length: ('DuY', u'05', u'0009') => [u'Du']
 WARNING: vals wrong length: ('DurvI!', u'01', u'0654') => [u'Durv']
-WARNING: vals wrong length: ('DU', u'06', u'0020') => [u'DU']
 WARNING: vals wrong length: ('DU', u'06', u'0133') => [u'DU']
-WARNING: vals wrong length: ('DUY', u'05', u'0133') => [u'DU']
-WARNING: vals wrong length: ('DUY', u'09', u'0372') => [u'DU']
-WARNING: vals wrong length: ('DUY', u'10', u'0010') => [u'DU']
+WARNING: vals wrong length: ('DUY', u'05', u'0010') => [u'DU']
+WARNING: vals wrong length: ('DUY', u'09', u'0020') => [u'DU']
+WARNING: vals wrong length: ('DUY', u'10', u'0372') => [u'DU']
 WARNING: vals wrong length: ('DUpa!', u'01', u'0462') => [u'DUp']
 WARNING: vals wrong length: ('DUpa!', u'10', u'0303') => [u'DUp']
 WARNING: vals wrong length: ('DUrI!', u'04', u'0048') => [u'DUr']
@@ -1026,7 +1024,7 @@ WARNING: vals wrong length: ('DfN', u'06', u'0148') => [u'Df']
 WARNING: vals wrong length: ('Dfja!', u'01', u'0249') => [u'Dfj']
 WARNING: vals wrong length: ('Dfji!', u'01', u'0250') => [u'DfYj']
 WARNING: vals wrong length: ('DfY', u'01', u'1115') => [u'Df']
-WARNING: vals wrong length: ('Dfza!', u'10', u'0025') => [u'Dfz']
+WARNING: vals wrong length: ('Dfza!', u'10', u'0388') => [u'Dfz']
 WARNING: vals wrong length: ('DF', u'09', u'0029') => [u'DF']
 WARNING: vals wrong length: ('Dew', u'01', u'1050') => [u'De']
 WARNING: vals wrong length: ('Depf!', u'01', u'0433') => [u'Dep']
@@ -1039,7 +1037,7 @@ WARNING: vals wrong length: ('Draji!', u'01', u'0246') => [u'DraYj']
 WARNING: vals wrong length: ('DraRa!', u'01', u'0529') => [u'DraR']
 WARNING: vals wrong length: ('DrAkzi!', u'01', u'0764') => [u'DrANkz']
 WARNING: vals wrong length: ('DrAKf!', u'01', u'0133') => [u'DrAK']
-WARNING: vals wrong length: ('DrAGf!', u'01', u'0121') => [u'GrAG']
+WARNING: vals wrong length: ('DrAGf!', u'01', u'0121') => [u'DrAG']
 WARNING: vals wrong length: ('DrAqf!', u'01', u'0323') => [u'DrAq']
 WARNING: vals wrong length: ('Drija!', u'01', u'0253') => [u'Drij']
 WARNING: vals wrong length: ('Dru', u'01', u'1093') => [u'Dru']
@@ -1050,7 +1048,6 @@ WARNING: vals wrong length: ('DvaMsu!', u'01', u'0858') => [u'DvaMs']
 WARNING: vals wrong length: ('Dvaja!', u'01', u'0251') => [u'Dvaj']
 WARNING: vals wrong length: ('Dvaji!', u'01', u'0252') => [u'DvaYj']
 WARNING: vals wrong length: ('DvaRa!', u'01', u'0521') => [u'DvaR']
-WARNING: vals wrong length: ('Dvana!', u'01', u'0933') => [u'Dvan']
 WARNING: vals wrong length: ('Dvana!', u'01', u'0962') => [u'Dvan']
 WARNING: vals wrong length: ('Dvana', u'10', u'0431') => [u'Dvana']
 WARNING: vals wrong length: ('DvAkzi!', u'01', u'0765') => [u'DvANkz']
@@ -1104,7 +1101,7 @@ WARNING: vals wrong length: ('pA', u'01', u'1074') => [u'pA']
 WARNING: vals wrong length: ('pA', u'02', u'0051') => [u'pA']
 WARNING: vals wrong length: ('pAra', u'10', u'0453') => [u'pAra']
 WARNING: vals wrong length: ('pAla!', u'10', u'0098') => [u'pAl']
-WARNING: vals wrong length: ('pi', u'06', u'0293') => [u'pi']
+WARNING: vals wrong length: ('pi', u'06', u'0141') => [u'pi']
 WARNING: vals wrong length: ('piCa!', u'10', u'0061') => [u'piC']
 WARNING: vals wrong length: ('pija!', u'10', u'0046') => [u'pij']
 WARNING: vals wrong length: ('piji!', u'02', u'0020') => [u'piYj']
@@ -1116,11 +1113,11 @@ WARNING: vals wrong length: ('piWi!', u'10', u'0186') => [u'piRW']
 WARNING: vals wrong length: ('piqi!', u'01', u'0307') => [u'piRq']
 WARNING: vals wrong length: ('piqi!', u'10', u'0185') => [u'piRq']
 WARNING: vals wrong length: ('pivi!', u'01', u'0671') => [u'pinv']
+WARNING: vals wrong length: ('piSa!', u'06', u'0173') => [u'piS']
 WARNING: vals wrong length: ('piSa!', u'10', u'0105') => [u'piS']
-WARNING: vals wrong length: ('piSa!', u'10', u'0173') => [u'piS']
 WARNING: vals wrong length: ('pizx!', u'07', u'0015') => [u'piz']
 WARNING: vals wrong length: ('pisa!', u'10', u'0050') => [u'pis']
-WARNING: vals wrong length: ('pisi!', u'10', u'0141') => [u'piMs']
+WARNING: vals wrong length: ('pisi!', u'10', u'0293') => [u'piMs']
 WARNING: vals wrong length: ('pisf!', u'01', u'0816') => [u'pis']
 WARNING: vals wrong length: ('pIN', u'04', u'0036') => [u'pI']
 WARNING: vals wrong length: ('pIqa!', u'10', u'0017') => [u'pIq']
@@ -1128,8 +1125,8 @@ WARNING: vals wrong length: ('pIla!', u'01', u'0599') => [u'pIl']
 WARNING: vals wrong length: ('pIva!', u'01', u'0644') => [u'pIv']
 WARNING: vals wrong length: ('puMsa!', u'10', u'0134') => [u'puMs']
 WARNING: vals wrong length: ('puwa!', u'01', u'0367') => [u'puw']
-WARNING: vals wrong length: ('puwa!', u'06', u'0283') => [u'puw']
-WARNING: vals wrong length: ('puwa!', u'10', u'0094') => [u'puwa']
+WARNING: vals wrong length: ('puwa!', u'06', u'0094') => [u'puw']
+WARNING: vals wrong length: ('puwa!', u'10', u'0283') => [u'puw']
 WARNING: vals wrong length: ('puwa', u'10', u'0455') => [u'puwa']
 WARNING: vals wrong length: ('puwi!', u'10', u'0323') => [u'puRw']
 WARNING: vals wrong length: ('puwwa!', u'10', u'0035') => [u'puww']
@@ -1166,9 +1163,9 @@ WARNING: vals wrong length: ('pUza!', u'01', u'0769') => [u'pUz']
 WARNING: vals wrong length: ('pf', u'03', u'0005') => [u'pf']
 WARNING: vals wrong length: ('pf', u'05', u'0013') => [u'pf']
 WARNING: vals wrong length: ('pfN', u'06', u'0138') => [u'pf']
-WARNING: vals wrong length: ('pfca!', u'10', u'0024') => [u'pfc']
-WARNING: vals wrong length: ('pfcI!', u'02', u'0025') => [u'pfc']
-WARNING: vals wrong length: ('pfcI!', u'07', u'0339') => [u'pfc']
+WARNING: vals wrong length: ('pfca!', u'10', u'0339') => [u'pfc']
+WARNING: vals wrong length: ('pfcI!', u'02', u'0024') => [u'pfc']
+WARNING: vals wrong length: ('pfcI!', u'07', u'0025') => [u'pfc']
 WARNING: vals wrong length: ('pfji!', u'02', u'0021') => [u'pfYj']
 WARNING: vals wrong length: ('pfqa!', u'06', u'0054') => [u'pfq']
 WARNING: vals wrong length: ('pfRa!', u'06', u'0055') => [u'pfR']
@@ -1176,6 +1173,7 @@ WARNING: vals wrong length: ('pfTa!', u'10', u'0028') => [u'pfT']
 WARNING: vals wrong length: ('pfzu!', u'01', u'0802') => [u'pfz']
 WARNING: vals wrong length: ('pF', u'03', u'0004') => [u'pF']
 WARNING: vals wrong length: ('pF', u'09', u'0022') => [u'pF']
+WARNING: vals wrong length: ('pF', u'10', u'0022') => [u'pF']
 WARNING: vals wrong length: ('pelf!', u'01', u'0621') => [u'pel']
 WARNING: vals wrong length: ('pevf!', u'01', u'0577') => [u'pev']
 WARNING: vals wrong length: ('pezf!', u'01', u'0700') => [u'pez']
@@ -1190,8 +1188,8 @@ WARNING: vals wrong length: ('praTa!', u'01', u'0869') => [u'praT']
 WARNING: vals wrong length: ('praTa!', u'10', u'0027') => [u'praT']
 WARNING: vals wrong length: ('prasa!', u'01', u'0870') => [u'pras']
 WARNING: vals wrong length: ('prA', u'02', u'0056') => [u'prA']
-WARNING: vals wrong length: ('prIN', u'09', u'0002') => [u'prI']
-WARNING: vals wrong length: ('prIY', u'04', u'0039') => [u'prI']
+WARNING: vals wrong length: ('prIN', u'04', u'0039') => [u'prI']
+WARNING: vals wrong length: ('prIY', u'09', u'0002') => [u'prI']
 WARNING: vals wrong length: ('prIY', u'10', u'0373') => [u'prI']
 WARNING: vals wrong length: ('pruN', u'01', u'1111') => [u'pru']
 WARNING: vals wrong length: ('pruza!', u'09', u'0063') => [u'pruz']
@@ -1220,8 +1218,8 @@ WARNING: vals wrong length: ('baRa!', u'01', u'0530') => [u'baR']
 WARNING: vals wrong length: ('bada!', u'01', u'0053') => [u'bad']
 WARNING: vals wrong length: ('baDa!', u'01', u'1128') => [u'baD']
 WARNING: vals wrong length: ('baDa!', u'10', u'0020') => [u'baD']
-WARNING: vals wrong length: ('banDa!', u'09', u'0021') => [u'banD']
-WARNING: vals wrong length: ('banDa!', u'10', u'0044') => [u'banD']
+WARNING: vals wrong length: ('banDa!', u'09', u'0044') => [u'banD']
+WARNING: vals wrong length: ('banDa!', u'10', u'0021') => [u'banD']
 WARNING: vals wrong length: ('barba!', u'01', u'0484') => [u'barb']
 WARNING: vals wrong length: ('barha!', u'01', u'0725') => [u'barh']
 WARNING: vals wrong length: ('barha!', u'10', u'0173') => [u'barh']
@@ -1239,6 +1237,7 @@ WARNING: vals wrong length: ('bADf!', u'01', u'0005') => [u'bAD']
 WARNING: vals wrong length: ('bAhf!', u'01', u'0732') => [u'bAh']
 WARNING: vals wrong length: ('biwa!', u'01', u'0355') => [u'biw']
 WARNING: vals wrong length: ('bidi!', u'01', u'0066') => [u'bind']
+WARNING: vals wrong length: ('bila!', u'06', u'0086') => [u'bil']
 WARNING: vals wrong length: ('bila!', u'10', u'0095') => [u'bil']
 WARNING: vals wrong length: ('bisa!', u'01', u'0820') => [u'bis']
 WARNING: vals wrong length: ('bisa!', u'04', u'0124') => [u'bis']
@@ -1253,7 +1252,7 @@ WARNING: vals wrong length: ('busa!', u'04', u'0117') => [u'bus']
 WARNING: vals wrong length: ('busa!', u'04', u'0129') => [u'bus']
 WARNING: vals wrong length: ('busta!', u'10', u'0080') => [u'bust']
 WARNING: vals wrong length: ('bfha!', u'01', u'0836') => [u'bfh']
-WARNING: vals wrong length: ('bfhi!', u'01', u'0837') => [u'bfMh', u'vfMh']
+WARNING: vals wrong length: ('bfhi!', u'01', u'0837') => [u'bfMh']
 WARNING: vals wrong length: ('bfhi!', u'10', u'0299') => [u'bfMh']
 WARNING: vals wrong length: ('bfhU!', u'06', u'0074') => [u'bfh']
 WARNING: vals wrong length: ('besa!', u'01', u'0821') => [u'bes']
@@ -1266,8 +1265,8 @@ WARNING: vals wrong length: ('Bakza!', u'01', u'1039') => [u'Bakz']
 WARNING: vals wrong length: ('Bakza!', u'10', u'0033') => [u'Bakz']
 WARNING: vals wrong length: ('Baja!', u'01', u'1153') => [u'Baj']
 WARNING: vals wrong length: ('Baja!', u'10', u'0259') => [u'Baj']
-WARNING: vals wrong length: ('Baji!', u'10', u'0016') => [u'BaYj']
-WARNING: vals wrong length: ('BaYjo!', u'07', u'0290') => [u'BaYj']
+WARNING: vals wrong length: ('Baji!', u'10', u'0290') => [u'BaYj']
+WARNING: vals wrong length: ('BaYjo!', u'07', u'0016') => [u'BaYj']
 WARNING: vals wrong length: ('Bawa!', u'01', u'0344') => [u'Baw']
 WARNING: vals wrong length: ('Bawa!', u'01', u'0889') => [u'Baw']
 WARNING: vals wrong length: ('Baqi!', u'01', u'0306') => [u'BaRq']
@@ -1341,11 +1340,12 @@ WARNING: vals wrong length: ('maRa!', u'01', u'0516') => [u'maR']
 WARNING: vals wrong length: ('matri!', u'10', u'0199') => [u'mantr']
 WARNING: vals wrong length: ('maTi!', u'01', u'0044') => [u'manT']
 WARNING: vals wrong length: ('maTe!', u'01', u'0983') => [u'maT']
-WARNING: vals wrong length: ('mada!', u'10', u'0105') => [u'mad']
+WARNING: vals wrong length: ('mada!', u'10', u'0229') => [u'mad']
 WARNING: vals wrong length: ('madi!', u'01', u'0013') => [u'mand']
-WARNING: vals wrong length: ('madI!', u'04', u'0229') => [u'mad']
+WARNING: vals wrong length: ('madI!', u'04', u'0105') => [u'mad']
 WARNING: vals wrong length: ('mana!', u'04', u'0073') => [u'man']
-WARNING: vals wrong length: ('manu!', u'08', u'0233') => [u'man']
+WARNING: vals wrong length: ('mana!', u'10', u'0233') => [u'man']
+WARNING: vals wrong length: ('manu!', u'08', u'0009') => [u'man']
 WARNING: vals wrong length: ('manTa!', u'01', u'0048') => [u'manT']
 WARNING: vals wrong length: ('manTa!', u'09', u'0047') => [u'manT']
 WARNING: vals wrong length: ('maBra!', u'01', u'0639') => [u'maBr']
@@ -1378,7 +1378,7 @@ WARNING: vals wrong length: ('mAhf!', u'01', u'1042') => [u'mAh']
 WARNING: vals wrong length: ('miCa!', u'06', u'0017') => [u'miC']
 WARNING: vals wrong length: ('miji!', u'10', u'0286') => [u'miYj']
 WARNING: vals wrong length: ('miTf!', u'01', u'1008') => [u'miT']
-WARNING: vals wrong length: ('mida!', u'04', u'0158') => [u'mid']
+WARNING: vals wrong length: ('mida!', u'10', u'0012') => [u'mid']
 WARNING: vals wrong length: ('midi!', u'10', u'0011') => [u'mind']
 WARNING: vals wrong length: ('midf!', u'01', u'1006') => [u'mid']
 WARNING: vals wrong length: ('miDf!', u'01', u'1010') => [u'miD']
@@ -1437,8 +1437,8 @@ WARNING: vals wrong length: ('mfRa!', u'06', u'0057') => [u'mfR']
 WARNING: vals wrong length: ('mfda!', u'09', u'0051') => [u'mfd']
 WARNING: vals wrong length: ('mfDu!', u'01', u'1015') => [u'mfD']
 WARNING: vals wrong length: ('mfSa!', u'06', u'0161') => [u'mfS']
-WARNING: vals wrong length: ('mfza!', u'04', u'0387') => [u'mfz']
-WARNING: vals wrong length: ('mfza!', u'10', u'0060') => [u'mfz']
+WARNING: vals wrong length: ('mfza!', u'04', u'0060') => [u'mfz']
+WARNING: vals wrong length: ('mfza!', u'10', u'0387') => [u'mfz']
 WARNING: vals wrong length: ('mfzu!', u'01', u'0804') => [u'mfz']
 WARNING: vals wrong length: ('mF', u'09', u'0025') => [u'mF']
 WARNING: vals wrong length: ('meN', u'01', u'1116') => [u'me']
@@ -1568,8 +1568,8 @@ WARNING: vals wrong length: ('rupa!', u'04', u'0149') => [u'rup']
 WARNING: vals wrong length: ('ruSa!', u'06', u'0155') => [u'ruS']
 WARNING: vals wrong length: ('ruSi!', u'10', u'0319') => [u'ruMS']
 WARNING: vals wrong length: ('ruza!', u'01', u'0789') => [u'ruz']
-WARNING: vals wrong length: ('ruza!', u'04', u'0187') => [u'ruz']
-WARNING: vals wrong length: ('ruza!', u'10', u'0143') => [u'ruz']
+WARNING: vals wrong length: ('ruza!', u'04', u'0143') => [u'ruz']
+WARNING: vals wrong length: ('ruza!', u'10', u'0187') => [u'ruz']
 WARNING: vals wrong length: ('rusi!', u'10', u'0321') => [u'ruMs']
 WARNING: vals wrong length: ('ruha!', u'01', u'0995') => [u'ruh']
 WARNING: vals wrong length: ('rUkza', u'10', u'0452') => [u'rUkza']
@@ -1644,9 +1644,9 @@ WARNING: vals wrong length: ('luji!', u'10', u'0289') => [u'luYj']
 WARNING: vals wrong length: ('luYca!', u'01', u'0214') => [u'luYc']
 WARNING: vals wrong length: ('luwa!', u'01', u'0351') => [u'luw']
 WARNING: vals wrong length: ('luwa!', u'01', u'0850') => [u'luw']
-WARNING: vals wrong length: ('luwa!', u'04', u'0109') => [u'luw']
-WARNING: vals wrong length: ('luwa!', u'06', u'0284') => [u'luw']
-WARNING: vals wrong length: ('luwa!', u'10', u'0133') => [u'luw']
+WARNING: vals wrong length: ('luwa!', u'04', u'0133') => [u'luw']
+WARNING: vals wrong length: ('luwa!', u'06', u'0109') => [u'luw']
+WARNING: vals wrong length: ('luwa!', u'10', u'0284') => [u'luw']
 WARNING: vals wrong length: ('luwi!', u'01', u'0372') => [u'luRw']
 WARNING: vals wrong length: ('luWa!', u'01', u'0390') => [u'luW']
 WARNING: vals wrong length: ('luWa!', u'01', u'0851') => [u'luW']
@@ -1775,20 +1775,21 @@ WARNING: vals wrong length: ('vfka!', u'01', u'0097') => [u'vfk']
 WARNING: vals wrong length: ('vfkza!', u'01', u'0688') => [u'vfkz']
 WARNING: vals wrong length: ('vfN', u'09', u'0045') => [u'vf']
 WARNING: vals wrong length: ('vfji!', u'02', u'0023') => [u'vfYj']
-WARNING: vals wrong length: ('vfjI!', u'02', u'0024') => [u'vfj']
-WARNING: vals wrong length: ('vfjI!', u'07', u'0344') => [u'vfj']
-WARNING: vals wrong length: ('vfjI!', u'10', u'0022') => [u'vfj']
+WARNING: vals wrong length: ('vfjI!', u'02', u'0022') => [u'vfj']
+WARNING: vals wrong length: ('vfjI!', u'07', u'0024') => [u'vfj']
+WARNING: vals wrong length: ('vfjI!', u'10', u'0344') => [u'vfj']
 WARNING: vals wrong length: ('vfY', u'05', u'0008') => [u'vf']
 WARNING: vals wrong length: ('vfY', u'10', u'0345') => [u'vf']
 WARNING: vals wrong length: ('vfRa!', u'06', u'0056') => [u'vfR']
 WARNING: vals wrong length: ('vftu!', u'01', u'0862') => [u'vft']
-WARNING: vals wrong length: ('vftu!', u'04', u'0312') => [u'vft']
-WARNING: vals wrong length: ('vftu!', u'10', u'0055') => [u'vft']
+WARNING: vals wrong length: ('vftu!', u'04', u'0055') => [u'vft']
+WARNING: vals wrong length: ('vftu!', u'10', u'0312') => [u'vft']
 WARNING: vals wrong length: ('vfDu!', u'01', u'0863') => [u'vfD']
 WARNING: vals wrong length: ('vfDu!', u'10', u'0313') => [u'vfD']
 WARNING: vals wrong length: ('vfSa!', u'04', u'0139') => [u'vfS']
 WARNING: vals wrong length: ('vfza!', u'10', u'0228') => [u'vfz']
 WARNING: vals wrong length: ('vfzu!', u'01', u'0803') => [u'vfz']
+WARNING: vals wrong length: ('vfhi!', u'01', u'0837') => [u'vfMh']
 WARNING: vals wrong length: ('vfhi!', u'10', u'0299') => [u'vfMh']
 WARNING: vals wrong length: ('vfhU!', u'06', u'0073') => [u'vfh']
 WARNING: vals wrong length: ('vF', u'09', u'0023') => [u'vF']
@@ -1837,7 +1838,7 @@ WARNING: vals wrong length: ('Sakx!', u'05', u'0017') => [u'Sak']
 WARNING: vals wrong length: ('Saca!', u'01', u'0189') => [u'Sac']
 WARNING: vals wrong length: ('Sawa!', u'01', u'0336') => [u'Saw']
 WARNING: vals wrong length: ('SaWa!', u'01', u'0394') => [u'SaW']
-WARNING: vals wrong length: ('SaWa!', u'10', u'0041') => [u'SaWa']
+WARNING: vals wrong length: ('SaWa!', u'10', u'0041') => [u'SaW']
 WARNING: vals wrong length: ('SaWa!', u'10', u'0214') => [u'SaW']
 WARNING: vals wrong length: ('SaWa', u'10', u'0392') => [u'SaWa']
 WARNING: vals wrong length: ('Saqi!', u'01', u'0313') => [u'SaRq']
@@ -1847,8 +1848,8 @@ WARNING: vals wrong length: ('Sadx!', u'06', u'0164') => [u'Sad']
 WARNING: vals wrong length: ('Sapa!', u'01', u'1155') => [u'Sap']
 WARNING: vals wrong length: ('Sapa!', u'04', u'0064') => [u'Sap']
 WARNING: vals wrong length: ('Sabda!', u'10', u'0239') => [u'Sabd']
-WARNING: vals wrong length: ('Sama!', u'10', u'0098') => [u'Sam']
-WARNING: vals wrong length: ('Samu!', u'04', u'0218') => [u'Sam']
+WARNING: vals wrong length: ('Sama!', u'10', u'0218') => [u'Sam']
+WARNING: vals wrong length: ('Samu!', u'04', u'0098') => [u'Sam']
 WARNING: vals wrong length: ('Samba!', u'10', u'0031') => [u'Samb']
 WARNING: vals wrong length: ('Sarba!', u'01', u'0489') => [u'Sarb']
 WARNING: vals wrong length: ('Sarva!', u'01', u'0668') => [u'Sarv']
@@ -1926,15 +1927,16 @@ WARNING: vals wrong length: ('Sragi!', u'01', u'0161') => [u'SraNg']
 WARNING: vals wrong length: ('SraRa!', u'01', u'0907') => [u'SraR']
 WARNING: vals wrong length: ('SraRa!', u'10', u'0063') => [u'SraR']
 WARNING: vals wrong length: ('SraTa!', u'01', u'0908') => [u'SraT']
+WARNING: vals wrong length: ('SraTa!', u'10', u'0019') => [u'SraT']
 WARNING: vals wrong length: ('SraTa!', u'10', u'0360') => [u'SraT']
-WARNING: vals wrong length: ('SraTa', u'10', u'0019') => [u'SraTa']
 WARNING: vals wrong length: ('SraTa', u'10', u'0409') => [u'SraTa']
 WARNING: vals wrong length: ('SraTi!', u'01', u'0035') => [u'SranT']
+WARNING: vals wrong length: ('SranTa!', u'09', u'0046') => [u'SranT']
 WARNING: vals wrong length: ('SranTa!', u'09', u'0048') => [u'SranT']
-WARNING: vals wrong length: ('SranTa!', u'09', u'0374') => [u'SranT']
-WARNING: vals wrong length: ('SranTa!', u'10', u'0046') => [u'SranT']
+WARNING: vals wrong length: ('SranTa!', u'10', u'0374') => [u'SranT']
 WARNING: vals wrong length: ('Sramu!', u'04', u'0101') => [u'Sram']
 WARNING: vals wrong length: ('SramBu!', u'01', u'0458') => [u'SramB']
+WARNING: vals wrong length: ('SrA', u'01', u'0922') => [u'SrA']
 WARNING: vals wrong length: ('SrA', u'02', u'0048') => [u'SrA']
 WARNING: vals wrong length: ('SriY', u'01', u'1044') => [u'Sri']
 WARNING: vals wrong length: ('Srizu!', u'01', u'0798') => [u'Sriz']
@@ -1967,7 +1969,7 @@ WARNING: vals wrong length: ('Svasa!', u'02', u'0064') => [u'Svas']
 WARNING: vals wrong length: ('SvitA!', u'01', u'0843') => [u'Svit']
 WARNING: vals wrong length: ('Svidi!', u'01', u'0010') => [u'Svind']
 WARNING: vals wrong length: ('zage!', u'01', u'0898') => [u'sag']
-WARNING: vals wrong length: ('zaGa!', u'05', u'0024') => [u'saD']
+WARNING: vals wrong length: ('zaGa!', u'05', u'0024') => [u'saG']
 WARNING: vals wrong length: ('zaca!', u'01', u'0187') => [u'sac']
 WARNING: vals wrong length: ('zaca!', u'01', u'1152') => [u'sac']
 WARNING: vals wrong length: ('zaYja!', u'01', u'1142') => [u'saYj']
@@ -2029,28 +2031,28 @@ WARNING: vals wrong length: ('zwama!', u'01', u'0964') => [u'stam']
 WARNING: vals wrong length: ('zwiGa!', u'05', u'0021') => [u'stiG']
 WARNING: vals wrong length: ('zwipf!', u'01', u'0422') => [u'stip']
 WARNING: vals wrong length: ('zwima!', u'04', u'0019') => [u'stim']
-WARNING: vals wrong length: ('zwIma!', u'04', u'0020') => [u'stIn']
+WARNING: vals wrong length: ('zwIma!', u'04', u'0020') => [u'stIm']
 WARNING: vals wrong length: ('zwuca!', u'01', u'0199') => [u'stuc']
 WARNING: vals wrong length: ('zwuY', u'02', u'0038') => [u'stu']
 WARNING: vals wrong length: ('zwupa!', u'04', u'0151') => [u'stup']
 WARNING: vals wrong length: ('zwupa!', u'10', u'0190') => [u'stup']
 WARNING: vals wrong length: ('zwuBu!', u'01', u'0460') => [u'stuB']
-WARNING: vals wrong length: ('zwUpa!', u'04', u'0191') => [u'stUp']
-WARNING: vals wrong length: ('zwUpa!', u'10', u'0152') => [u'stUp']
+WARNING: vals wrong length: ('zwUpa!', u'04', u'0152') => [u'stUp']
+WARNING: vals wrong length: ('zwUpa!', u'10', u'0191') => [u'stUp']
 WARNING: vals wrong length: ('zwfkza!', u'01', u'0751') => [u'stfkz']
 WARNING: vals wrong length: ('zwepf!', u'01', u'0423') => [u'step']
 WARNING: vals wrong length: ('zwE', u'01', u'1071') => [u'stE']
 WARNING: vals wrong length: ('zwyE', u'01', u'1059') => [u'zwyE']
 WARNING: vals wrong length: ('zwrakza!', u'01', u'0749') => [u'strakz']
 WARNING: vals wrong length: ('zWage!', u'01', u'0899') => [u'sTag']
-WARNING: vals wrong length: ('zWala!', u'01', u'0970') => [u'stal']
+WARNING: vals wrong length: ('zWala!', u'01', u'0970') => [u'sTal']
 WARNING: vals wrong length: ('zWA', u'01', u'1077') => [u'sTA']
 WARNING: vals wrong length: ('zWivu!', u'01', u'0641') => [u'zWiv']
 WARNING: vals wrong length: ('zWivu!', u'04', u'0004') => [u'zWiv']
 WARNING: vals wrong length: ('zRasu!', u'04', u'0006') => [u'snas']
 WARNING: vals wrong length: ('zRA', u'02', u'0047') => [u'snA']
-WARNING: vals wrong length: ('zRiha!', u'04', u'0055') => [u'snih']
-WARNING: vals wrong length: ('zRiha!', u'10', u'0097') => [u'snih']
+WARNING: vals wrong length: ('zRiha!', u'04', u'0097') => [u'snih']
+WARNING: vals wrong length: ('zRiha!', u'10', u'0055') => [u'snih']
 WARNING: vals wrong length: ('zRu', u'02', u'0033') => [u'snu']
 WARNING: vals wrong length: ('zRusu!', u'04', u'0005') => [u'snus']
 WARNING: vals wrong length: ('zRuha!', u'04', u'0096') => [u'snuh']
@@ -2132,10 +2134,10 @@ WARNING: vals wrong length: ('smIla!', u'01', u'0597') => [u'smIl']
 WARNING: vals wrong length: ('smf', u'01', u'0919') => [u'smf']
 WARNING: vals wrong length: ('smf', u'01', u'1082') => [u'smf']
 WARNING: vals wrong length: ('smf', u'05', u'0015') => [u'smf']
-WARNING: vals wrong length: ('syandU!', u'01', u'0865') => [u'Syand']
+WARNING: vals wrong length: ('syandU!', u'01', u'0865') => [u'syand']
 WARNING: vals wrong length: ('syama!', u'10', u'0216') => [u'syam']
 WARNING: vals wrong length: ('syamu!', u'01', u'0960') => [u'syam']
-WARNING: vals wrong length: ('sraMsu!', u'01', u'0857') => [u'SraMS']
+WARNING: vals wrong length: ('sraMsu!', u'01', u'0857') => [u'sraMS']
 WARNING: vals wrong length: ('sraki!', u'01', u'0088') => [u'sraNk']
 WARNING: vals wrong length: ('sramBu!', u'01', u'0459') => [u'sramB']
 WARNING: vals wrong length: ('sramBu!', u'01', u'0861') => [u'sramB']
@@ -2158,7 +2160,7 @@ WARNING: vals wrong length: ('hada!', u'01', u'1132') => [u'had']
 WARNING: vals wrong length: ('hana!', u'02', u'0002') => [u'han']
 WARNING: vals wrong length: ('hamma!', u'01', u'0538') => [u'hamm']
 WARNING: vals wrong length: ('haya!', u'01', u'0589') => [u'hay']
-WARNING: vals wrong length: ('harya!', u'01', u'0592') => [u'hay']
+WARNING: vals wrong length: ('harya!', u'01', u'0592') => [u'hary']
 WARNING: vals wrong length: ('hala!', u'01', u'0971') => [u'hal']
 WARNING: vals wrong length: ('hase!', u'01', u'0822') => [u'has']
 WARNING: vals wrong length: ('hasta!', u'10', u'0206') => [u'hast']
@@ -2169,8 +2171,8 @@ WARNING: vals wrong length: ('hiqi!', u'01', u'0301') => [u'hiRq']
 WARNING: vals wrong length: ('hila!', u'06', u'0088') => [u'hil']
 WARNING: vals wrong length: ('hivi!', u'01', u'0675') => [u'hinv']
 WARNING: vals wrong length: ('hizka!', u'10', u'0208') => [u'hizk']
-WARNING: vals wrong length: ('hisi!', u'07', u'0366') => [u'hiMs']
-WARNING: vals wrong length: ('hisi!', u'10', u'0012') => [u'hiMs']
+WARNING: vals wrong length: ('hisi!', u'07', u'0019') => [u'hiMs']
+WARNING: vals wrong length: ('hisi!', u'10', u'0366') => [u'hiMs']
 WARNING: vals wrong length: ('hu', u'03', u'0001') => [u'hu']
 WARNING: vals wrong length: ('huqa!', u'06', u'0130') => [u'huq']
 WARNING: vals wrong length: ('huqi!', u'01', u'0302') => [u'huRq']
@@ -2218,8 +2220,8 @@ aci!:01:1000:aYc
 aYcu!:01:0215:aYc
 aYcu!:01:0998:aYc
 aYcu!:10:0266:aYc
-aji!:10:0021:aYj
-aYjU!:07:0316:aYj
+aji!:10:0316:aYj
+aYjU!:07:0021:aYj
 awwa!:01:0287:aww
 awwa!:10:0037:aww
 aRa!:01:0512:aR
@@ -2249,15 +2251,15 @@ Apx!:10:0376:Ap
 ik:02:0042:i
 iN:02:0041:i
 iR:02:0040:i
-ila!:06:0167:il
-ila!:10:0084:il
+ila!:06:0084:il
+ila!:10:0167:il
 iza!:04:0022:iz
 iza!:06:0078:iz
 iza!:09:0061:iz
-Iqa!:02:0183:Iq
-Iqa!:10:0009:Iq
-Ira!:02:0342:Ir
-Ira!:10:0008:Ir
+Iqa!:02:0009:Iq
+Iqa!:10:0183:Iq
+Ira!:02:0008:Ir
+Ira!:10:0342:Ir
 Iza!:01:0695:Iz
 Iza!:01:0780:Iz
 uCI!:01:0244:uC
@@ -2291,8 +2293,8 @@ kaqi!:01:0418:kaRq
 kaqi!:10:0067:kaRq
 kadi!:01:0073:kand
 kadi!:01:0878:kand
-kala:10:0093:kala
-kala:10:0404:kala
+kala!:01:0570:kal
+kala!:10:0093:kal
 kasa!:01:0996:kas
 kasa!:02:0015:kas
 kASf!:01:0734:kAS
@@ -2301,11 +2303,11 @@ kiwa!:01:0338:kiw
 kiwa!:01:0358:kiw
 kita!:01:1148:kit
 kita!:03:0021:kit
-ku:02:0127:ku
+ku:02:0037:ku
 kuN:01:1103:ku
-kuN:06:0296:ku
-kuMSa!:04:0294:kuMS
-kuSi!:10:1103:kuMS
+kuN:06:0136:ku
+kuMSa!:04:0128:kuMS
+kuSi!:10:0296:kuMS
 kuMsa!:04:0127:kuMs
 kusi!:10:0294:kuMs
 kuca!:01:0211:kuc
@@ -2323,8 +2325,8 @@ kuqi!:10:0009:kuRq
 kuqi!:10:0068:kuRq
 kuTi!:01:0045:kunT
 kunTa!:09:0050:kunT
-kupa!:04:0310:kup
-kupa!:10:0146:kup
+kupa!:04:0146:kup
+kupa!:10:0310:kup
 kubi!:01:0492:kumb
 kubi!:10:0157:kumb
 kURa!:10:0211:kUR
@@ -2360,11 +2362,14 @@ kzi:05:0033:kzi
 kzi:06:0143:kzi
 kzipa!:04:0015:kzip
 kzipa!:06:0005:kzip
+kzI:05:0039:kzI
+kzIz:09:0042:kzI
 kzuBa!:01:0854:kzuB
 kzuBa!:04:0154:kzuB
 kzuBa!:09:0055:kzuB
 kzura!:01:0987:kzur
 kzura!:06:0070:kzur
+YikzvidA!:01:0846:kzvid
 YikzvidA!:01:1133:kzvid
 YikzvidA!:04:0159:kzvid
 Kaqi!:01:0317:KaRq
@@ -2439,7 +2444,7 @@ cana!:10:0378:can
 capa!:01:0465:cap
 capa!:10:0121:cap
 camu!:01:0540:cam
-camu!:05:0540:cam
+camu!:05:0031:cam
 cara!:01:0640:car
 cara!:10:0274:car
 carca!:01:0814:carc
@@ -2448,31 +2453,33 @@ carca!:10:0237:carc
 cala!:01:0966:cal
 cala!:06:0083:cal
 cala!:10:0097:cal
-caha!:10:0120:caha
-caha:10:0405:caha
+caha!:01:0830:cah
+caha!:10:0120:cah
 ci:10:0325:ci
-ciY:05:0124:ci
-ciY:10:0005:ci
+ciY:05:0005:ci
+ciY:10:0124:ci
 cita!:10:0192:cit
 citI!:01:0039:cit
 cIva!:10:0305:cIv
 cIvf!:01:1021:cIv
-cuwa!:06:0103:cuw
-cuwa!:10:0104:cuw
+cuwa!:06:0104:cuw
+cuwa!:10:0103:cuw
 cubi!:01:0495:cumb
 cubi!:10:0130:cumb
 cUrRa!:10:0026:cUrR
 cUrRa!:10:0143:cUrR
-Cada!:10:0370:Cada
-Cada:10:0481:Cada
+cyu:10:0275:cyu
+cyuN:01:1108:cyu
+Cada!:10:0359:Cad
+Cada!:10:0370:Cad
 u!Cfdi!r:07:0008:Cfd
 CfdI!:10:0352:Cfd
 jana!:03:0025:jan
 janI!:04:0044:jan
 jala!:01:0967:jal
 jala!:10:0015:jal
-jasu!:04:0184:jas
-jasu!:10:0108:jas
+jasu!:04:0108:jas
+jasu!:10:0184:jas
 jasu!:10:0243:jas
 ji:01:0642:ji
 ji:01:1096:ji
@@ -2482,13 +2489,13 @@ juN:01:1098:ju
 juqa!:06:0051:juq
 juqa!:06:0106:juq
 juqa!:10:0148:juq
-juza!:10:0008:juz
-juzI!:06:0371:juz
-jF:09:0346:jF
-jF:10:0025:jF
-jFz:04:0027:jF
-jYA:09:0258:jYA
-jYA:10:0043:jYA
+juza!:10:0371:juz
+juzI!:06:0008:juz
+jF:09:0027:jF
+jF:10:0346:jF
+jFz:04:0025:jF
+jYA:09:0043:jYA
+jYA:10:0258:jYA
 jri:01:1097:jri
 jri:10:0347:jri
 jvala!:01:0916:jval
@@ -2497,10 +2504,10 @@ Jaza!:01:0785:Jaz
 Jaza!:01:1036:Jaz
 JF:09:0028:JF
 JFz:04:0026:JF
-qipa!:04:0197:qip
-qipa!:06:0189:qip
-qipa!:10:0098:qip
-qipa!:10:0145:qip
+qipa!:04:0145:qip
+qipa!:06:0098:qip
+qipa!:10:0189:qip
+qipa!:10:0197:qip
 qIN:01:1123:qI
 qIN:04:0030:qI
 tasi!:01:0778:taMs
@@ -2511,11 +2518,11 @@ taYcu!:01:0218:taYc
 taYcU!:07:0022:taYc
 taqa!:10:0064:taq
 taqa!:10:0332:taq
-tanu!:08:0377:tan
-tanu!:10:0001:tan
+tanu!:08:0001:tan
+tanu!:10:0377:tan
 tapa!:01:1140:tap
-tapa!:04:0350:tap
-tapa!:10:0054:tap
+tapa!:04:0054:tap
+tapa!:10:0350:tap
 tarja!:01:0259:tarj
 tarja!:10:0201:tarj
 tika!:05:0022:tik
@@ -2547,17 +2554,17 @@ tumPa!:01:0475:tumP
 tumPa!:06:0035:tumP
 tubi!:01:0494:tumb
 tubi!:10:0160:tumb
-tfpa!:05:0351:tfp
+tfpa!:04:0092:tfp
+tfpa!:05:0028:tfp
 tfpa!:06:0028:tfp
-tfpa!:06:0355:tfp
-tfpa!:10:0028:tfp
-tfpa!:10:0092:tfp
+tfpa!:10:0351:tfp
+tfpa!:10:0355:tfp
 tfha!:07:0018:tfh
 tfhU!:06:0075:tfh
 trasa!:10:0269:tras
 trasI!:04:0011:tras
-truwa!:06:0221:truw
-truwa!:10:0102:truw
+truwa!:06:0102:truw
+truwa!:10:0221:truw
 daMSa!:01:1144:daMS
 daSi!:10:0193:daMS
 daSi!:10:0295:daMS
@@ -2567,45 +2574,45 @@ dakza!:01:0692:dakz
 dakza!:01:0874:dakz
 dala!:01:0629:dal
 dala!:10:0281:dal
-dasa!:10:0110:das
-dasu!:04:0195:das
+dasa!:10:0195:das
+dasu!:04:0110:das
 qudAY:03:0010:dA
 dAR:01:1079:dA
 dAp:02:0054:dA
-divu!:04:0249:div
-divu!:10:0001:div
+dASa!:05:0036:dAS
+dASf!:01:1025:dAS
+divu!:04:0001:div
 divu!:10:0230:div
-wudu:05:0476:du
+divu!:10:0249:div
+wudu:05:0011:du
 du:01:1094:du
 duha!:02:0004:duh
 duhi!r:01:0839:duh
+dfN:06:0147:df
+dF:05:0037:df
 dfpa!:04:0093:dfp
 dfpa!:06:0036:dfp
 dfpa!:10:0356:dfp
 dfBa!:10:0358:dfB
-dfBI!:06:0357:dfB
-dfBI!:10:0048:dfB
+dfBI!:06:0048:dfB
+dfBI!:10:0357:dfB
 dF:01:0920:dF
-dF:05:0037:dF
 dF:09:0026:dF
-DU:06:0020:DU
 DU:06:0133:DU
-DUY:05:0133:DU
-DUY:09:0372:DU
-DUY:10:0010:DU
+DUY:05:0010:DU
+DUY:09:0020:DU
+DUY:10:0372:DU
 DUpa!:01:0462:DUp
 DUpa!:10:0303:DUp
 DfN:01:1047:Df
 DfN:06:0148:Df
 DfY:01:1115:Df
-YiDfzA!:05:0388:Dfz
-Dfza!:10:0025:Dfz
-u!Drasa!:09:0270:Dras
-u!Drasa!:10:0060:Dras
+YiDfzA!:05:0025:Dfz
+Dfza!:10:0388:Dfz
+u!Drasa!:09:0060:Dras
+u!Drasa!:10:0270:Dras
 Dru:01:1093:Dru
 Dru:06:0135:Dru
-Dvana!:01:0933:Dvan
-Dvana!:01:0962:Dvan
 Rawa!:01:0347:naw
 Rawa!:01:0890:naw
 nawa!:10:0018:naw
@@ -2640,14 +2647,13 @@ piji!:10:0047:piYj
 piji!:10:0287:piYj
 piqi!:01:0307:piRq
 piqi!:10:0185:piRq
+piSa!:06:0173:piS
 piSa!:10:0105:piS
-piSa!:10:0173:piS
 pisa!:10:0050:pis
 pisf!:01:0816:pis
 puwa!:01:0367:puw
-puwa!:06:0283:puw
-puwa!:10:0094:puwa
-puwa:10:0455:puwa
+puwa!:06:0094:puw
+puwa!:10:0283:puw
 puqa!:01:0365:puq
 puqa!:06:0114:puq
 puRa!:06:0059:puR
@@ -2670,15 +2676,16 @@ pUla!:10:0131:pUl
 pf:03:0005:pf
 pf:05:0013:pf
 pfN:06:0138:pf
-pfca!:10:0024:pfc
-pfcI!:02:0025:pfc
-pfcI!:07:0339:pfc
+pfca!:10:0339:pfc
+pfcI!:02:0024:pfc
+pfcI!:07:0025:pfc
 pF:03:0004:pF
 pF:09:0022:pF
+pF:10:0022:pF
 praTa!:01:0869:praT
 praTa!:10:0027:praT
-prIN:09:0002:prI
-prIY:04:0039:prI
+prIN:04:0039:prI
+prIY:09:0002:prI
 prIY:10:0373:prI
 pruza!:09:0063:pruz
 pruzu!:01:0800:pruz
@@ -2690,8 +2697,8 @@ YiPalA!:01:0594:Pal
 Pala!:01:0608:Pal
 baDa!:01:1128:baD
 baDa!:10:0020:baD
-banDa!:09:0021:banD
-banDa!:10:0044:banD
+banDa!:09:0044:banD
+banDa!:10:0021:banD
 barha!:01:0725:barh
 barha!:10:0173:barh
 barha!:10:0300:barh
@@ -2699,6 +2706,8 @@ bala!:01:0974:bal
 bala!:10:0123:bal
 balha!:01:0726:balh
 balha!:10:0301:balh
+bila!:06:0086:bil
+bila!:10:0095:bil
 bisa!:01:0820:bis
 bisa!:04:0124:bis
 bukka!:01:0126:bukk
@@ -2716,8 +2725,8 @@ Bakza!:01:1039:Bakz
 Bakza!:10:0033:Bakz
 Baja!:01:1153:Baj
 Baja!:10:0259:Baj
-Baji!:10:0016:BaYj
-BaYjo!:07:0290:BaYj
+Baji!:10:0290:BaYj
+BaYjo!:07:0016:BaYj
 Bawa!:01:0344:Baw
 Bawa!:01:0889:Baw
 Baqi!:01:0306:BaRq
@@ -2750,10 +2759,11 @@ maGi!:01:0183:maNG
 maqi!:01:0305:maRq
 maqi!:01:0361:maRq
 maqi!:10:0076:maRq
-mada!:10:0105:mad
-madI!:04:0229:mad
+mada!:10:0229:mad
+madI!:04:0105:mad
 mana!:04:0073:man
-manu!:08:0233:man
+mana!:10:0233:man
+manu!:08:0009:man
 maTi!:01:0044:manT
 manTa!:01:0048:manT
 manTa!:09:0047:manT
@@ -2764,8 +2774,8 @@ mAna!:01:1127:mAn
 mAna!:10:0234:mAn
 mAna!:10:0381:mAn
 YimidA!:01:0844:mid
-YimidA!:10:0012:mid
-mida!:04:0158:mid
+YimidA!:04:0158:mid
+mida!:10:0012:mid
 midf!:01:1006:mid
 mila!:06:0091:mil
 mila!:06:0165:mil
@@ -2791,8 +2801,8 @@ mfjU!:02:0061:mfj
 mfjU!:10:0386:mfj
 mfqa!:06:0053:mfq
 mfqa!:09:0052:mfq
-mfza!:04:0387:mfz
-mfza!:10:0060:mfz
+mfza!:04:0060:mfz
+mfza!:10:0387:mfz
 mfzu!:01:0804:mfz
 mrakza!:01:0755:mrakz
 mrakza!:10:0168:mrakz
@@ -2846,8 +2856,8 @@ ruwa!:10:0314:ruw
 ruWi!:01:0373:ruRW
 ruWi!:01:0400:ruRW
 ruza!:01:0789:ruz
-ruza!:04:0187:ruz
-ruza!:10:0143:ruz
+ruza!:04:0143:ruz
+ruza!:10:0187:ruz
 lakza!:10:0006:lakz
 lakza!:10:0219:lakz
 laga!:10:0263:lag
@@ -2887,9 +2897,9 @@ luji!:10:0049:luYj
 luji!:10:0289:luYj
 luwa!:01:0351:luw
 luwa!:01:0850:luw
-luwa!:04:0109:luw
-luwa!:06:0284:luw
-luwa!:10:0133:luw
+luwa!:04:0133:luw
+luwa!:06:0109:luw
+luwa!:10:0284:luw
 luWa!:01:0390:luW
 luWa!:01:0851:luW
 luWa!:04:0134:luW
@@ -2962,12 +2972,14 @@ visa!:04:0123:vis
 vfN:09:0045:vf
 vfY:05:0008:vf
 vfY:10:0345:vf
-vfjI!:02:0024:vfj
-vfjI!:07:0344:vfj
-vfjI!:10:0022:vfj
+vfhi!:01:0837:vfMh
+vfhi!:10:0299:vfMh
+vfjI!:02:0022:vfj
+vfjI!:07:0024:vfj
+vfjI!:10:0344:vfj
 vftu!:01:0862:vft
-vftu!:04:0312:vft
-vftu!:10:0055:vft
+vftu!:04:0055:vft
+vftu!:10:0312:vft
 vfDu!:01:0863:vfD
 vfDu!:10:0313:vfD
 vfza!:10:0228:vfz
@@ -2988,15 +3000,14 @@ vrIN:04:0035:vrI
 Saka!:04:0084:Sak
 Sakx!:05:0017:Sak
 SaWa!:01:0394:SaW
+SaWa!:10:0041:SaW
 SaWa!:10:0214:SaW
-SaWa!:10:0041:SaWa
-SaWa:10:0392:SaWa
 Sadx!:01:0991:Sad
 Sadx!:06:0164:Sad
 Sapa!:01:1155:Sap
 Sapa!:04:0064:Sap
-Sama!:10:0098:Sam
-Samu!:04:0218:Sam
+Sama!:10:0218:Sam
+Samu!:04:0098:Sam
 Sala!:01:0563:Sal
 Sala!:01:0977:Sal
 Siza!:01:0783:Siz
@@ -3025,13 +3036,14 @@ SfDu!:10:0260:SfD
 SraRa!:01:0907:SraR
 SraRa!:10:0063:SraR
 SraTa!:01:0908:SraT
+SraTa!:10:0019:SraT
 SraTa!:10:0360:SraT
-SraTa:10:0019:SraTa
-SraTa:10:0409:SraTa
 SraTi!:01:0035:SranT
+SranTa!:09:0046:SranT
 SranTa!:09:0048:SranT
-SranTa!:09:0374:SranT
-SranTa!:10:0046:SranT
+SranTa!:10:0374:SranT
+SrA:01:0922:SrA
+SrA:02:0048:SrA
 Sliza!:04:0083:Sliz
 Sliza!:10:0059:Sliz
 Slizu!:01:0799:Sliz
@@ -3071,10 +3083,10 @@ zwaBi!:01:0451:stamB
 stamBu!:09:0007:stamB
 zwupa!:04:0151:stup
 zwupa!:10:0190:stup
-zwUpa!:04:0191:stUp
-zwUpa!:10:0152:stUp
-zRiha!:04:0055:snih
-zRiha!:10:0097:snih
+zwUpa!:04:0152:stUp
+zwUpa!:10:0191:stUp
+zRiha!:04:0097:snih
+zRiha!:10:0055:snih
 spaSa!:01:1032:spaS
 spaSa!:10:0200:spaS
 sPuwa!:01:0293:sPuw
@@ -3102,12 +3114,10 @@ svAda!:01:0028:svAd
 svAda!:10:0337:svAd
 YizvidA!:01:0845:svid
 zvidA!:04:0085:svid
-haya!:01:0589:hay
-harya!:01:0592:hay
 o!hAk:03:0009:hA
 o!hAN:03:0008:hA
-hisi!:07:0366:hiMs
-hisi!:10:0012:hiMs
+hisi!:07:0019:hiMs
+hisi!:10:0366:hiMs
 huqa!:06:0130:huq
 huqf!:01:0408:huq
 huqi!:01:0302:huRq
@@ -3127,4 +3137,4 @@ hoqf!:01:0319:hoq
 hoqf!:01:0410:hoq
 hvf:01:1080:hvf
 hvf:01:1084:hvf
-394 keys map to the same normalized root, as shown above
+396 keys map to the same normalized root, as shown above

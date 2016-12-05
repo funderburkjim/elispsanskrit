@@ -24,3 +24,7 @@
 10:Ceda:dvEDIkaraRe:10:0480:u:sew:Cedaya:NF
 16:BAja:pfTakkarmaRi:10:0428:u:sew:BAjaya:NF,caus. of Baj
 18:vara:IpsAyAm:10:0390:u:sew:varaya:NF,caus. of vf
+; nivAsa is probably = causal of MW nivas
+21:nivAsa:AcCAdane:10:0427:u:sew:nivAsa:NF, caus. of nivas
+; saNgrAma corresponds to mw saMgrAm, a denominative
+22:saNgrAma:yudDe ayamanudAttet:10:0467:A:saNgrAma:sew:NF, mw spelling saMgrAm

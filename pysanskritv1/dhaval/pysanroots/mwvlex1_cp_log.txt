@@ -1,5 +1,5 @@
 1954 records from mwvlex_cp.txt
-1655 records from sanverb1_cp.txt
+1651 records from sanverb1_cp.txt
 ------------------------------------------------------------
 ADJUSTING class 10 in mwvlex
 aMh:01A,10P -> aMh:01A,10A,10P.  method=sanverb
@@ -380,10 +380,10 @@ klap:00 -> klap:10A,10P.
 klam:01,04 -> klam:01,04P.
 kzaR:00 -> kzaR:08A,08P.
 kziv:01,04P -> kziv:01P,04P.
-kzI:00 -> kzI:05P.
+kzI:00 -> kzI:05P,09P.
 kzIv:00 -> kzIv:01A.
 kzev:00 -> kzev:01P.
-kzvid:00 -> kzvid:01P,04A.
+kzvid:00 -> kzvid:01A,01P,04A.
 Kid:04A,04P,06,07A -> Kid:04A,04P,06P,07A.
 Kuj:01 -> Kuj:01P.
 Keq:00 -> Keq:10A,10P.
@@ -450,7 +450,7 @@ jiz:01 -> jiz:01P.
 ju:00 -> ju:01A,01P.
 juNg:01 -> juNg:01P.
 juw:06 -> juw:06P.
-juq:06,10A,10P -> juq:06A,06P,10A,10P.
+juq:06,10A,10P -> juq:06P,10A,10P.
 jut:01 -> jut:01A.
 jun:06 -> jun:06P.
 jF:01A,01P,04A,04P,09,10A,10P -> jF:01A,01P,04A,04P,09P,10A,10P.
@@ -489,7 +489,7 @@ tUl:01,10A,10P -> tUl:01P,10A,10P.
 tUz:01 -> tUz:01P.
 tfkz:01 -> tfkz:01P.
 tfR:08 -> tfR:08A,08P.
-tfp:01A,04,05,06A,06P -> tfp:01A,04,05P,06A,06P.
+tfp:01A,04,05,06A,06P -> tfp:01A,04P,05P,06A,06P.
 tfP:06 -> tfP:06P.
 tfmp:06 -> tfmp:06P.
 tfmP:06 -> tfmP:06P.
@@ -531,6 +531,7 @@ DUp:00 -> DUp:01P,10A,10P.
 DmANkz:00 -> DmANkz:01P.
 Dras:09,10A,10P -> Dras:09P,10A,10P.
 DrAK:00 -> DrAK:01P.
+DrAG:00 -> DrAG:01A.
 DrANkz:00 -> DrANkz:01P.
 DrAq:00 -> DrAq:01A.
 naB:01A,01P,04,09A,09P -> naB:01A,01P,04P,09A,09P.
@@ -551,6 +552,7 @@ pyuz:04,10A,10P -> pyuz:04P,10A,10P.
 pluz:01,04P,09P -> pluz:01P,04P,09P.
 baD:00 -> baD:01A,10A,10P.
 bAh:00 -> bAh:01A.
+bil:06,10A,10P -> bil:06P,10A,10P.
 bis:04 -> bis:04P.
 bukk:01,10A,10P -> bukk:01P,10A,10P.
 byus:00 -> byus:04P.
@@ -598,6 +600,7 @@ SAn:00A -> SAn:01A,01P.
 SAntv:00 -> SAntv:10A,10P.
 SE:00 -> SE:01P.
 Scyut:00 -> Scyut:01P.
+SrA:01,02P,04P -> SrA:01P,02P,04P.
 SrE:01,02P,04P -> SrE:01P,02P,04P.
 Svart:00 -> Svart:10A,10P.
 Svind:01 -> Svind:01A.
@@ -627,7 +630,7 @@ hiw:00 -> hiw:01P.
 hinv:00 -> hinv:01P.
 hizk:00 -> hizk:10A.
 hrap:00 -> hrap:10A,10P.
-282 changes in  adjust_missingcp
-121 mwvlex roots still have missing class information
-119 mwvlex roots still have other missing pada information
+285 changes in  adjust_missingcp
+120 mwvlex roots still have missing class information
+116 mwvlex roots still have other missing pada information
 1954 records written to mwvlex1_cp.txt

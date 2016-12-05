@@ -14,6 +14,7 @@ python verbdata_dupnorm.py verbdata_dupnorm.txt
 19 duplicates (original)
  2 duplicates  (Sep 1, 2016)
  3 duplicates  (Sep 3, 2016)
+ 0 duplicates (Sep 26, 2016)
   (These duplicates are in verbdata_dupnorm.txt)
 ```
 
@@ -26,5 +27,6 @@ python verbdata_dupnorm.py verbdata_dupnorm.txt
 43 cases found
 43 cases still (Sep 1, 2016)
 42 cases (Sep 3, 2016)
+ 7 cases (Sep 26, 2016)
 ```
 

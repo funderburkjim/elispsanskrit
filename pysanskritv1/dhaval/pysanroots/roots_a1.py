@@ -22,10 +22,10 @@ class PseudoStem(Stem):
   (tempid,rootwithoutanubandha,meaning,gana,number,pada,sewcode,mwdenomspelling,code)=linein.split(':')
   # generate a Stem record, 
   # spell the root without the ending 'a'
-  assert rootwithoutanubandha.endswith('a'),"Pseudostem problem 1:%s" % line
+  assert rootwithoutanubandha.endswith('a'),"Pseudostem problem 1, line=:%s" % linein
   self.stem = rootwithoutanubandha[0:-1] # drop the last char, an 'a'
   # generate class pada information from gana and pada
-  assert pada in ['pa','u','A'],"Pseudostem problem 2:%s" % line
+  assert pada in ['pa','u','A'],"Pseudostem problem 2, pada='%s', line=:%s" % (pada,linein)
   pada_to_padas={'pa':['P'],'A':['A'],'u':['P','A']}
   padas = pada_to_padas[pada]
   self.cps = map(lambda x: gana+x,padas)

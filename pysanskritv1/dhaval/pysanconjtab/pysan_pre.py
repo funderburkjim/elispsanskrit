@@ -4,6 +4,9 @@
 import sys,re
 sys.path.append('../..')  # pysanskritv1 folder
 from test2 import v_file_init_alt1_pre_helper as pysan_conj
+from test2 import sanskritverb_flag
+from test2 import Elisp_serialize
+from compare_conj_tables import conjstr_listify
 
 def pada_to_voice(pada):
  if pada == 'P':
@@ -37,6 +40,28 @@ akz im 1P:[Akzat AkzatAm Akzan AkzaH Akzatam Akzata Akzam AkzAva AkzAma]
   self.theclass = m.group(1)
   self.pada=m.group(2)
 
+def conjstr_join(tab1str,tab2str):
+ """ tab1str, tab2str are in Elisp format
+     tablen is length of the tables
+     convert the inputs to lists,
+     join the lists (element-wise)
+     reconstruct lists in Elisp format
+ """
+ tab1 =  conjstr_listify(tab1str)
+ tab2 =  conjstr_listify(tab2str)
+ #print "tab1str=",tab1str,"\ntab2str=",tab2str
+ #print "tab1=",tab1,"\ntab2=",tab2
+ tablen = len(tab1)
+ # join the tab1, tab2 lists
+ tab=[]
+ for i in xrange(0,tablen):
+  # assumes each element is a list
+  t = tab1[i]+tab2[i]
+  tab.append(t)
+ #print "tab=",tab
+ tabstr = Elisp_serialize(tab,tablen)
+ #print "tabstr=",tabstr
+ return tabstr
 
 def main(headers,fileout):
  empty_conj = ['nil' for i in xrange(0,9)]
@@ -56,7 +81,31 @@ def main(headers,fileout):
   #tense = htense_to_slptense(rec.tense)
   tense = rec.tense
   dtype = None # or 'c' for causal
-  temp = pysan_conj(root,theclass,voice,tense,dtype,dbg=False)
+  temp=None
+  if sanskritverb_flag:
+   if (root in ["kfRv","Dinv","Sru"]) and (theclass=='1'):
+    # These roots are called class 1 in sanskritverb, but their
+    # present tense conjugations (at least) are like class 5 roots
+    # For kfRv, Dinv see: https://github.com/funderburkjim/elispsanskrit/issues/47#issuecomment-249459765
+    # for Sru, see: ?
+    dtemp = {'kfRv':'kf','Dinv':'Di','Sru':'Sf'}
+    root1 = dtemp[root]
+    theclass1 = '5'
+    temp = pysan_conj(root1,theclass1,voice,tense,dtype,dbg=False)
+   elif (root == 'akz') and (theclass=='1'):
+    # SanskritVerb provides a normal class 1 and a class 5 conjugation
+    temp1a = pysan_conj(root,theclass,voice,tense,dtype,dbg=False)
+    
+    temp1 = temp1a.split(':')[-1]
+    theclass1 = '5'
+    root1 = root
+    temp2a = pysan_conj(root1,theclass1,voice,tense,dtype,dbg=False)
+    temp2 = temp2a.split(':')[-1]
+    # merge the two
+    temp3 = conjstr_join(temp1,temp2)
+    temp = ":" + temp3 # see split statement below for why the ':'
+  if temp == None: # the usual case, no adjustment
+   temp = pysan_conj(root,theclass,voice,tense,dtype,dbg=False)
   if temp == None:
    tab = empty_tab
   else:

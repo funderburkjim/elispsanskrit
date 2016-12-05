@@ -127,6 +127,10 @@ Revision (2016-09-17):
  14 of them correspond to Denominatives in MW, with same meaning
   3 of them correspond to Denominatives in MW, with different meaning
   3 of them have no corresponding Denominative in MW.
+Addendum (2016-10-02):
+ The two sanverb roots nivAsa and saNgrAma are added to roots_a1_prep.txt.
+ nivAsa probably corresponds to causal of mw prefixed roots nivas;
+ saNgrAma corresponds to mw prefixed root saMgrAm, which may be a Denominative.
 
 In the revision to construction of sanverb1_cp, ALL of these 20 are
 roots in Sanverb are made to correspond to a root spelling without the 'a'.

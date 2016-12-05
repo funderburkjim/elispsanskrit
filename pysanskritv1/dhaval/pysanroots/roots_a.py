@@ -42,8 +42,9 @@ def merge(recs1,recs2,name1,name2):
  mergedict={}
  bothrecs = [recs1,recs2]
  names = [name1,name2]
- for icase in xrange(0,len(bothrecs)):
-  recs = bothrecs[icase]
+ for icase in xrange(0,len(bothrecs)):  
+  # icase = 0 or 1
+  recs = bothrecs[icase] # recs1 if icase=0, recs2 if icase=1
   for rec in recs:
    stem = rec.stem
    if stem not in mergedict:
@@ -81,9 +82,11 @@ def main(filein1,filein2,fileout):
  for stem in mergestems:
   mergerec = mergedict[stem]
   (rec1,rec2) = mergerec.cases
+  # rec1 is the sanverb record for stem
+  # rec2 is the mwvlex record for stem
   if not (rec1 and (not rec2)):
    continue
-  # so in sanverb, but not in MW
+  # so stem is in sanverb, but not in MW
   if not stem.endswith('a'):
    continue
   # Examine stem without the final a
@@ -92,14 +95,23 @@ def main(filein1,filein2,fileout):
    continue
   mergereca = mergedict[stema]
   (reca1,reca2) = mergereca.cases
+  # reca1 is the record for stema in sanverb (or None if absent)
+  # reca2 is the record for stema in mwvlex (or None if absent)
+  if not reca2:
+   continue
   if reca1:
    # stem with both 'a' and not 'a' are in sanverb
    # make a note of this, but also write it to output
    print "both in sanverb: %s and %s" %(rec1.line, reca1.line)
    nboth = nboth+1
   # so reca2 is present, meaning it is in MW. This is the case we want
-  if reca1:
-   out = "%s#%s#%s" %(rec1.line,reca1.line,reca2.line)
+  if reca1 and reca2:
+   try:
+    out = "%s#%s#%s" %(rec1.line,reca1.line,reca2.line)
+   except:
+    print "pysanroots/roots_a.py ERROR:",stem,rec1,reca1,reca2
+    #print "pysanroots/roots_a.py ERROR:",rec1.line,reca1.line,reca2.line
+    continue
   else:
    out = "%s##%s" %(rec1.line,reca2.line)
   outarr.append(out)

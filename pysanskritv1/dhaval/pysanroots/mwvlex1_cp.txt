@@ -292,7 +292,7 @@ kzi:01P,02,05P,06P,09A,09P
 kziR:08A,08P
 kzip:04A,04P,06A,06P
 kziv:01P,04P
-kzI:05P
+kzI:05P,09P
 kzIj:01P
 kzIb:01P
 kzIv:01A
@@ -310,7 +310,7 @@ kzRu:02P
 kzmAy:01A,01P
 kzmIl:01P
 kzviq:01A,01P,04P
-kzvid:01P,04A
+kzvid:01A,01P,04A
 kzvel:01P
 KakK:00
 Kac:01P,09P,10A,10P
@@ -570,7 +570,7 @@ ju:01A,01P
 juNg:01P
 juYc:01,10A,10P
 juw:06P
-juq:06A,06P,10A,10P
+juq:06P,10A,10P
 jut:01A
 jun:06P
 jur:04,06A,06P
@@ -687,7 +687,7 @@ tUz:01P
 tfkz:01P
 tfR:08A,08P
 tfd:07A
-tfp:01A,04,05P,06A,06P
+tfp:01A,04P,05P,06A,06P
 tfP:06P
 tfmp:06P
 tfmP:06P
@@ -840,7 +840,7 @@ DraR:01P
 Dras:09P,10A,10P
 DrA:01P,02
 DrAK:01P
-DrAG:00
+DrAG:01A
 DrANkz:01P
 DrAq:01A
 Drij:01P
@@ -1045,7 +1045,7 @@ bAh:01A
 biw:01P
 bid:01P
 bind:01P
-bil:06,10A,10P
+bil:06P,10A,10P
 biS:01P
 bis:04P
 bIB:01A
@@ -1663,7 +1663,7 @@ SraTAya:00
 SranT:09A,09P
 Sram:04P
 SramB:01A
-SrA:01,02P,04P
+SrA:01P,02P,04P
 SrAm:00
 Sri:01A,01P
 Sriz:01P

@@ -27,8 +27,9 @@ implied by MW.
 
 ## compare SanskritVerb and pysan present tense conjugations **
 
+
 ```
-python compare_conj_tables.py sanverb/conj_pre_map1.txt data/pysan_conj_pre.txt data/compare_conj_pre.txt
+python compare_conj_tables.py sanverb/conj_pre_map1.txt data/pysan_conj_pre.txt data/known_diffs_pre.txt data/compare_conj_pre.txt
 ```
 
 > redo_pre.sh reruns the above programs.

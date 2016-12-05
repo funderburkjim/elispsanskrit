@@ -5,7 +5,7 @@ anDa:10A,10P##anD:10P
 arTa:10A##arT:01A,10A
 katra:10A,10P##katr:10P
 kaTa:10A,10P##kaT:10A,10P
-kala:10A,10P#kal:01A#kal:00A,00P,01A,10A,10P
+kala:10A,10P#kal:01A,10A,10P#kal:00A,00P,01A,10A,10P
 kuRa:10A,10P#kuR:06P#kuR:06P,10P
 kuha:10A##kuh:10A
 kUwa:10A,10P#kUw:10A#kUw:10A,10P
@@ -17,15 +17,15 @@ gaRa:10A,10P##gaR:10A,10P
 gada:10A,10P#gad:01P#gad:01P,10P
 garva:10A#garv:01P#garv:01P,10A
 gaveza:10A,10P##gavez:01A,10
-caha:10A,10P#cah:01P#cah:01,10
-Cada:10A,10P##Cad:01A,10A
+caha:10A,10P#cah:01P,10A,10P#cah:01,10
+Cada:10A,10P#Cad:10A,10P#Cad:01A,10A
 Dvana:10A,10P#Dvan:01P#Dvan:01P
 pawa:10A,10P#paw:01P,10A,10P#paw:01P,10
 pata:10A,10P#pat:01P#pat:01A,01P,04A
 pada:10A#pad:04A#pad:01P,04A
 parRa:10A,10P##parR:10P
 paza:10A,10P##paz:01A,01P,10P
-puwa:10A,10P#puw:01P,06P#puw:01P,06P,10P
+puwa:10A,10P#puw:01P,06P,10A,10P#puw:01P,06P,10P
 BAma:10A,10P#BAm:01A#BAm:01A,10P
 maha:10A,10P#mah:01P#mah:01,10A,10P
 miSra:10A,10P##miSr:10P

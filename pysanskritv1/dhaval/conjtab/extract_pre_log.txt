@@ -1,0 +1,3 @@
+1804 stems found in ../generatedforms/generatedforms.xml
+2770 records written to conj_pre.txt
+0 records skipped

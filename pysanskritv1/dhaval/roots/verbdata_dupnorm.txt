@@ -1,5 +1,1 @@
-Cada!:Cada!,Cada
-bfhi!:bfMh,vfMh
-puwa!:puwa,puw
-SaWa!:SaWa,SaW
-caha!:cah,caha
+dF:dF,df

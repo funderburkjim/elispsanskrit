@@ -5,35 +5,39 @@ wuBrAjf! pre 01.0205A :: BrAjf! pre 01.0957A
 Ruda! pre 06.0002P :: Ruda! pre 06.0162P
 svana! pre 01.0936P :: svana! pre 01.0961P
 bisa! pre 01.0820P :: besa! pre 01.0821P
+tumPa! pre 01.0475P :: tumPa! pre 06.0035P
 maya! pre 01.0549A :: meN pre 01.1116A
 cUrRa! pre 10.0026P :: cUrRa! pre 10.0143P
-piSa! pre 10.0105A :: piSa! pre 10.0173A
+kuqi! pre 10.0009A :: kuqi! pre 10.0068A
 vawi! pre 10.0073A :: vawi! pre 10.0464A
 daSi! pre 10.0193A :: daSi! pre 10.0295A
 vasa! pre 10.0273A :: vAsa pre 10.0426A
+paSa! pre 10.0244A :: paSi! pre 10.0108A
 kawI! pre 01.0330P :: kawe! pre 01.0359P
-mAna! pre 10.0234A :: mAna! pre 10.0381A
+mana! pre 10.0233A :: mAna! pre 10.0234A :: mAna! pre 10.0381A
 miTf! pre 01.1008A :: meTf! pre 01.1009A
-kuN pre 06.0296A :: kUN pre 06.0137A
+kuN pre 06.0136A :: kUN pre 06.0137A
 sramBu! pre 01.0459A :: sramBu! pre 01.0861A
-tuPa! pre 06.0034P :: tumPa! pre 06.0035P
 raRa! pre 01.0513P :: raRa! pre 01.0904P
 nawa! pre 10.0018P :: nawa! pre 10.0322P
 aci! pre 01.1000P :: aYcu! pre 01.0215P :: aYcu! pre 01.0998P
+qipa! pre 10.0189A :: qipa! pre 10.0197A
 vraja! pre 01.0247P :: vraja! pre 01.0286P
-tfpa! pre 10.0028A :: tfpa! pre 10.0092A
+tfpa! pre 10.0351A :: tfpa! pre 10.0355A
+barha! pre 10.0173P :: barha! pre 10.0300P
 vawi! pre 10.0073P :: vawi! pre 10.0464P
 hula! pre 01.0978P :: hula! pre 01.0980P
 Gawa! pre 10.0248A :: Gawa! pre 10.0297A
 kfY pre 05.0007P :: kfvi! pre 01.0682P
 tfMhU! pre 06.0077P :: tfhU! pre 06.0075P
-piSa! pre 10.0105P :: piSa! pre 10.0173P
-laji! pre 10.0315P :: laji! pre 10.0465P
-kala pre 10.0093P :: kala pre 10.0404P
+laji! pre 10.0048P :: laji! pre 10.0315P :: laji! pre 10.0465P
+vila! pre 10.0094P :: vela pre 10.0421P
 o!laqi! pre 10.0013A :: o!laqi! pre 10.0014A :: laqi! pre 10.0331A
+barha! pre 10.0173A :: barha! pre 10.0300A
 ruwa! pre 10.0188A :: ruwa! pre 10.0314A
-SraTa pre 10.0019P :: SraTa pre 10.0409P :: SraTa! pre 10.0360P
-SraTa pre 10.0019A :: SraTa pre 10.0409A :: SraTa! pre 10.0360A
+SraTa pre 10.0409P :: SraTa! pre 10.0019P :: SraTa! pre 10.0360P
+SraTa pre 10.0409A :: SraTa! pre 10.0019A :: SraTa! pre 10.0360A
+kala! pre 10.0093P :: kAla pre 10.0422P
 vyaya! pre 01.1024A :: vyeY pre 01.1162A
 jvala! pre 01.0916P :: jvala! pre 01.0965P
 glepf! pre 01.0424A :: glepf! pre 01.0428A
@@ -42,11 +46,13 @@ juqa! pre 06.0051P :: juqa! pre 06.0106P
 YimidA! pre 01.0844A :: midf! pre 01.1006A :: medf! pre 01.1007A
 Bawa! pre 01.0344P :: Bawa! pre 01.0889P
 midf! pre 01.1006P :: medf! pre 01.1007P
+varRa pre 10.0484A :: varRa! pre 10.0025A
 I!Suci!r pre 04.0061P :: Sucya! pre 01.0590P
+kala! pre 10.0093A :: kAla pre 10.0422A
 cUrRa! pre 10.0026A :: cUrRa! pre 10.0143A
 Bramu! pre 01.0985P :: Bramu! pre 04.0102P
 vizka pre 10.0486A :: vizka! pre 10.0207A
-SranTa! pre 09.0048P :: SranTa! pre 09.0374P
+SranTa! pre 09.0046P :: SranTa! pre 09.0048P
 puza! pre 04.0079P :: puza! pre 04.0121P
 BfMSu! pre 04.0137P :: BfSu! pre 04.0136P
 Gawa! pre 10.0248P :: Gawa! pre 10.0297P
@@ -63,7 +69,7 @@ kURa! pre 10.0211A :: kURa! pre 10.0438A
 miDf! pre 01.1010A :: meDf! pre 01.1011A
 luqa! pre 01.0352P :: loqf! pre 01.0413P
 vF pre 09.0023P :: vFY pre 09.0019P
-jasu! pre 10.0108A :: jasu! pre 10.0243A
+jasu! pre 10.0184A :: jasu! pre 10.0243A
 lakza! pre 10.0006A :: lakza! pre 10.0219A
 vana! pre 01.0533P :: vana! pre 01.0534P :: vanu! pre 01.0915P
 vyaya! pre 01.1024P :: vyeY pre 01.1162P
@@ -86,10 +92,13 @@ SIka! pre 10.0320A :: SIka! pre 10.0363A
 f pre 01.1086P :: fCa! pre 06.0016P
 caha pre 10.0405P :: caha! pre 10.0120P
 cala! pre 01.0966P :: cala! pre 06.0083P
-tfpa! pre 10.0028P :: tfpa! pre 10.0092P
+garha! pre 01.0723A :: gfhU! pre 01.0737A
+tfpa! pre 10.0351P :: tfpa! pre 10.0355P
 caha pre 10.0405A :: caha! pre 10.0120A
 varDa! pre 10.0156P :: vfDu! pre 10.0313P
-kuMSa! pre 04.0294P :: kuSa! pre 04.0126P
+kuqi! pre 10.0009P :: kuqi! pre 10.0068P
+kuMSa! pre 04.0128P :: kuSa! pre 04.0126P
+SrA pre 01.0922P :: SrA pre 02.0048P
 piji! pre 10.0047P :: piji! pre 10.0287P
 zadx! pre 01.0990P :: zadx! pre 06.0163P
 rawa! pre 01.0334P :: rawa! pre 01.0387P
@@ -108,32 +117,33 @@ vasa! pre 10.0273P :: vAsa pre 10.0426P
 labi! pre 01.0437A :: labi! pre 01.0439A
 luji! pre 10.0049P :: luji! pre 10.0289P
 zwyE pre 01.1059P :: styE pre 01.1058P
+pala! pre 10.0099A :: pAla! pre 10.0098A
 tipf! pre 01.0420A :: tepf! pre 01.0421A
 vaya! pre 01.0547A :: veY pre 01.1161A
-Dvana! pre 01.0933P :: Dvana! pre 01.0962P
+vila! pre 10.0094A :: vela pre 10.0421A
 viTf! pre 01.0033A :: veTf! pre 01.0034A
 zvada! pre 10.0336P :: svAda! pre 10.0337P
 SumBa! pre 01.0501P :: SumBa! pre 06.0047P
-Carda pre 10.0078P :: CfdI! pre 10.0352P
+Carda! pre 10.0078P :: CfdI! pre 10.0352P
 miTf! pre 01.1008P :: meTf! pre 01.1009P
 huqi! pre 01.0302A :: huqi! pre 01.0310A
 o!pyAyI! pre 01.0561A :: pyEN pre 01.1119A
 kUwa pre 10.0432A :: kUwa! pre 10.0225A
 dasi! pre 10.0194P :: dasi! pre 10.0317P
-fPa! pre 06.0040P :: fmPa! pre 06.0041P
 visa! pre 01.0818P :: vesa! pre 01.0819P
 miDf! pre 01.1010P :: meDf! pre 01.1011P
 uKa! pre 01.0136P :: oKf! pre 01.0129P
 buDa! pre 01.0994P :: buDi!r pre 01.1016P
+tumpa! pre 01.0471P :: tumpa! pre 06.0033P
 pisf! pre 01.0816P :: pesf! pre 01.0817P
 guN pre 01.1100A :: guN pre 01.1105A
 raha pre 10.0396P :: raha! pre 10.0122P
+paSa! pre 10.0244P :: paSi! pre 10.0108P
 Raya! pre 01.0552A :: RIY pre 01.1049A
 aci! pre 01.1000A :: aYcu! pre 01.0215A
 pluza! pre 04.0009P :: pluza! pre 04.0122P
-DAvu! pre 01.0685P :: sf pre 01.1085P
 Ridf! pre 01.1012P :: Redf! pre 01.1013P
-jasu! pre 10.0108P :: jasu! pre 10.0243P
+jasu! pre 10.0184P :: jasu! pre 10.0243P
 laGi! pre 10.0291P :: laGi! pre 10.0327P
 dAR pre 01.1079P :: yama! pre 01.1139P
 SaWa! pre 10.0041A :: SaWa! pre 10.0214A
@@ -141,24 +151,22 @@ vawa! pre 01.0337P :: vawa! pre 01.0888P
 aya! pre 01.0546A :: aya! pre 01.1031A
 kaRa! pre 01.0517P :: kaRa! pre 01.0903P
 Baja! pre 10.0259P :: BAja pre 10.0428P
-kala pre 10.0093A :: kala pre 10.0404A
-garha! pre 01.0723A :: gfhU! pre 01.0737A
+pala! pre 10.0099P :: pAla! pre 10.0098P
 kuwwa! pre 10.0034A :: kuwwa! pre 10.0226A
 kzivu! pre 01.0648P :: kzevu! pre 01.0649P
 Cada! pre 10.0359P :: Cada! pre 10.0370P
 nawa! pre 10.0018A :: nawa! pre 10.0322A
 huqf! pre 01.0408P :: hoqf! pre 01.0410P
 BU pre 10.0277P :: BU pre 10.0382P
-laji! pre 10.0315A :: laji! pre 10.0465A
+laji! pre 10.0048A :: laji! pre 10.0315A :: laji! pre 10.0465A
 kuMsa! pre 04.0127P :: kusa! pre 04.0125P
 vaki! pre 01.0093A :: vaki! pre 01.0100A
 maTi! pre 01.0044P :: manTa! pre 01.0048P
-dfBa! pre 10.0358A :: dfBI! pre 10.0048A
+dfBa! pre 10.0358A :: dfBI! pre 10.0357A
 ji pre 01.0642P :: ji pre 01.1096P
 Rawa! pre 01.0347P :: Rawa! pre 01.0890P
 luji! pre 10.0049A :: luji! pre 10.0289A
-tupa! pre 06.0032P :: tumpa! pre 06.0033P
-Carda pre 10.0078A :: CfdI! pre 10.0352A
+Carda! pre 10.0078A :: CfdI! pre 10.0352A
 carca! pre 01.0814P :: carca! pre 06.0019P
 daya! pre 01.0553A :: deN pre 01.1117A
 tuji! pre 10.0045P :: tuji! pre 10.0285P
@@ -169,10 +177,12 @@ DfN pre 01.1047A :: DfY pre 01.1115A
 uCI! pre 01.0244P :: uCI! pre 06.0015P
 YiPalA! pre 01.0594P :: Pala! pre 01.0608P
 busa! pre 04.0117P :: busa! pre 04.0129P
+varRa pre 10.0484P :: varRa! pre 10.0025P
+pAra pre 10.0453A :: pF pre 10.0022A
 vfN pre 09.0045A :: vFY pre 09.0019A
-tfpa! pre 06.0028P :: tfpa! pre 06.0355P
 granTa! pre 10.0362P :: granTa! pre 10.0375P
-dfBa! pre 10.0358P :: dfBI! pre 10.0048P
+dfBa! pre 10.0358P :: dfBI! pre 10.0357P
+pAra pre 10.0453P :: pF pre 10.0022P
 garja! pre 01.0258P :: gfja! pre 01.0281P
 BU pre 10.0277A :: BU pre 10.0382A
 varDa! pre 10.0156A :: vfDu! pre 10.0313A
@@ -181,5 +191,6 @@ dakza! pre 01.0692A :: dakza! pre 01.0874A
 piji! pre 10.0047A :: piji! pre 10.0287A
 Ridf! pre 01.1012A :: Redf! pre 01.1013A
 Baja! pre 10.0259A :: BAja pre 10.0428A
-183 duplicate conjugation tables
+divu! pre 10.0230A :: divu! pre 10.0249A
+194 duplicate conjugation tables
 0 duplicate sutra-padas

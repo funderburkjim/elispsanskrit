@@ -1,0 +1,267 @@
+[
+  {
+    "key": "kaR pre 10A", 
+    "pysan": "[kARayate kARayete kARayante kARayase kARayeTe kARayaDve kARaye kARayAvahe kARayAmahe]", 
+    "sanverb": "[kaRayate kaRayete kaRayante kaRayase kaRayeTe kaRayaDve kaRaye kaRayAvahe kaRayAmahe]"
+  }, 
+  {
+    "key": "kaR pre 10P", 
+    "pysan": "[kARayati kARayataH kARayanti kARayasi kARayaTaH kARayaTa kARayAmi kARayAvaH kARayAmaH]", 
+    "sanverb": "[kaRayati kaRayataH kaRayanti kaRayasi kaRayaTaH kaRayaTa kaRayAmi kaRayAvaH kaRayAmaH]"
+  }, 
+  {
+    "key": "kuMS pre 4P", 
+    "pysan": "[kuMSyati kuMSyataH kuMSyanti kuMSyasi kuMSyaTaH kuMSyaTa kuMSyAmi kuMSyAvaH kuMSyAmaH]", 
+    "sanverb": "[kuSyati kuSyataH kuSyanti kuSyasi kuSyaTaH kuSyaTa kuSyAmi kuSyAvaH kuSyAmaH]"
+  }, 
+  {
+    "key": "kuMs pre 4P", 
+    "pysan": "[kuMsyati kuMsyataH kuMsyanti kuMsyasi kuMsyaTaH kuMsyaTa kuMsyAmi kuMsyAvaH kuMsyAmaH]", 
+    "sanverb": "[kusyati kusyataH kusyanti kusyasi kusyaTaH kusyaTa kusyAmi kusyAvaH kusyAmaH]"
+  }, 
+  {
+    "key": "kfp pre 10A", 
+    "pysan": "[kfpayate kfpayete kfpayante kfpayase kfpayeTe kfpayaDve kfpaye kfpayAvahe kfpayAmahe]", 
+    "sanverb": "[(kfpayate kalpayate) (kfpayete kalpayete) (kfpayante kalpayante) (kfpayase kalpayase) (kfpayeTe kalpayeTe) (kfpayaDve kalpayaDve) (kfpaye kalpaye) (kfpayAvahe kalpayAvahe) (kfpayAmahe kalpayAmahe)]"
+  }, 
+  {
+    "key": "kfp pre 10P", 
+    "pysan": "[kfpayati kfpayataH kfpayanti kfpayasi kfpayaTaH kfpayaTa kfpayAmi kfpayAvaH kfpayAmaH]", 
+    "sanverb": "[(kfpayati kalpayati) (kfpayataH kalpayataH) (kfpayanti kalpayanti) (kfpayasi kalpayasi) (kfpayaTaH kalpayaTaH) (kfpayaTa kalpayaTa) (kfpayAmi kalpayAmi) (kfpayAvaH kalpayAvaH) (kfpayAmaH kalpayAmaH)]"
+  }, 
+  {
+    "key": "klam pre 4P", 
+    "pysan": "[klAmyati klAmyataH klAmyanti klAmyasi klAmyaTaH klAmyaTa klAmyAmi klAmyAvaH klAmyAmaH]", 
+    "sanverb": "[(klAmyati klAmati) (klAmyataH klAmataH) (klAmyanti klAmanti) (klAmyasi klAmasi) (klAmyaTaH klAmaTaH) (klAmyaTa klAmaTa) (klAmyAmi klAmAmi) (klAmyAvaH klAmAvaH) (klAmyAmaH klAmAmaH)]"
+  }, 
+  {
+    "key": "kzI pre 9P", 
+    "pysan": "[(kzIRAti kziRAti) (kzIRItaH kziRItaH) (kzIRanti kziRanti) (kzIRAsi kziRAsi) (kzIRITaH kziRITaH) (kzIRITa kziRITa) (kzIRAmi kziRAmi) (kzIRIvaH kziRIvaH) (kzIRImaH kziRImaH)]", 
+    "sanverb": "[kzIRAti kzIRItaH kzIRanti kzIRAsi kzIRITaH kzIRITa kzIRAmi kzIRIvaH kzIRImaH]"
+  }, 
+  {
+    "key": "Kav pre 9P", 
+    "pysan": "[KavnAti KavnItaH Kavnanti KavnAsi KavnITaH KavnITa KavnAmi KavnIvaH KavnImaH]", 
+    "sanverb": "[KavnAti KavnItaH Kananti KavnAsi KavnITaH KavnITa KavnAmi KavnIvaH KavnImaH]"
+  }, 
+  {
+    "key": "gup pre 1A", 
+    "pysan": "[jugupsate jugupsete jugupsante jugupsase jugupseTe jugupsaDve jugupse jugupsAvahe jugupsAmahe]", 
+    "sanverb": "[gopate gopete gopante gopase gopeTe gopaDve gope gopAvahe gopAmahe]"
+  }, 
+  {
+    "key": "gF pre 6P", 
+    "pysan": "[(girati gilati) (girataH gilataH) (giranti gilanti) (girasi gilasi) (giraTaH gilaTaH) (giraTa gilaTa) (girAmi gilAmi) (girAvaH gilAvaH) (girAmaH gilAmaH)]", 
+    "sanverb": "[(girati gilati) (girataH gilataH) giranti (girasi gilasi) (giraTaH gilaTaH) (giraTa gilaTa) (girAmi gilAmi) (girAvaH gilAvaH) (girAmaH gilAmaH)]"
+  }, 
+  {
+    "key": "Gaw pre 10A", 
+    "pysan": "[GAwayate GAwayete GAwayante GAwayase GAwayeTe GAwayaDve GAwaye GAwayAvahe GAwayAmahe]", 
+    "sanverb": "[Gawayate Gawayete Gawayante Gawayase GawayeTe GawayaDve Gawaye GawayAvahe GawayAmahe]"
+  }, 
+  {
+    "key": "Gaw pre 10P", 
+    "pysan": "[GAwayati GAwayataH GAwayanti GAwayasi GAwayaTaH GAwayaTa GAwayAmi GAwayAvaH GAwayAmaH]", 
+    "sanverb": "[Gawayati GawayataH Gawayanti Gawayasi GawayaTaH GawayaTa GawayAmi GawayAvaH GawayAmaH]"
+  }, 
+  {
+    "key": "cap pre 10A", 
+    "pysan": "[capayate capayete capayante capayase capayeTe capayaDve capaye capayAvahe capayAmahe]", 
+    "sanverb": "[cApayate cApayete cApayante cApayase cApayeTe cApayaDve cApaye cApayAvahe cApayAmahe]"
+  }, 
+  {
+    "key": "cap pre 10P", 
+    "pysan": "[capayati capayataH capayanti capayasi capayaTaH capayaTa capayAmi capayAvaH capayAmaH]", 
+    "sanverb": "[cApayati cApayataH cApayanti cApayasi cApayaTaH cApayaTa cApayAmi cApayAvaH cApayAmaH]"
+  }, 
+  {
+    "key": "cah pre 10A", 
+    "pysan": "[cAhayate cAhayete cAhayante cAhayase cAhayeTe cAhayaDve cAhaye cAhayAvahe cAhayAmahe]", 
+    "sanverb": "[cahayate cahayete cahayante cahayase cahayeTe cahayaDve cahaye cahayAvahe cahayAmahe]"
+  }, 
+  {
+    "key": "cah pre 10P", 
+    "pysan": "[cAhayati cAhayataH cAhayanti cAhayasi cAhayaTaH cAhayaTa cAhayAmi cAhayAvaH cAhayAmaH]", 
+    "sanverb": "[cahayati cahayataH cahayanti cahayasi cahayaTaH cahayaTa cahayAmi cahayAvaH cahayAmaH]"
+  }, 
+  {
+    "key": "jYap pre 10A", 
+    "pysan": "[jYApayate jYApayete jYApayante jYApayase jYApayeTe jYApayaDve jYApaye jYApayAvahe jYApayAmahe]", 
+    "sanverb": "[jYapayate jYapayete jYapayante jYapayase jYapayeTe jYapayaDve jYapaye jYapayAvahe jYapayAmahe]"
+  }, 
+  {
+    "key": "jYap pre 10P", 
+    "pysan": "[jYApayati jYApayataH jYApayanti jYApayasi jYApayaTaH jYApayaTa jYApayAmi jYApayAvaH jYApayAmaH]", 
+    "sanverb": "[jYapayati jYapayataH jYapayanti jYapayasi jYapayaTaH jYapayaTa jYapayAmi jYapayAvaH jYapayAmaH]"
+  }, 
+  {
+    "key": "mid pre 4P", 
+    "pysan": "[medyati medyataH medyanti medyasi medyaTaH medyaTa medyAmi medyAvaH medyAmaH]", 
+    "sanverb": "[midyati midyataH midyanti midyasi midyaTaH midyaTa midyAmi midyAvaH midyAmaH]"
+  }, 
+  {
+    "key": "tu pre 2P", 
+    "pysan": "[(tOti tavIti) (tutaH tuvItaH) tuvanti (tOzi tavIzi) (tuTaH tuvITaH) (tuTa tuvITa) (tOmi tavImi) (tuvaH tuvIvaH) (tumaH tuvImaH)]", 
+    "sanverb": "[(tOti tavIti) tutaH tuvanti (tOzi tavIzi) tuTaH tuTa (tOmi tavImi) tuvaH tumaH]"
+  }, 
+  {
+    "key": "tfp pre 5P", 
+    "pysan": "[tfpnoti tfpnutaH tfpnuvanti tfpnozi tfpnuTaH tfpnuTa tfpnomi tfpnuvaH tfpnumaH]", 
+    "sanverb": "[tfpRoti tfpRutaH tfpRuvanti tfpRozi tfpRuTaH tfpRuTa tfpRomi tfpRuvaH tfpRumaH]"
+  }, 
+  {
+    "key": "df pre 5P", 
+    "pysan": "[dfRoti dfRutaH dfRvanti dfRozi dfRuTaH dfRuTa dfRomi (dfRuvaH dfRvaH) (dfRumaH dfRmaH)]", 
+    "sanverb": "[dIrRoti dIrRutaH dIrRuvanti dIrRozi dIrRuTaH dIrRuTa dIrRomi dIrRuvaH dIrRumaH]"
+  }, 
+  {
+    "key": "naw pre 10A", 
+    "pysan": "[nAwayate nAwayete nAwayante nAwayase nAwayeTe nAwayaDve nAwaye nAwayAvahe nAwayAmahe]", 
+    "sanverb": "[nawayate nawayete nawayante nawayase nawayeTe nawayaDve nawaye nawayAvahe nawayAmahe]"
+  }, 
+  {
+    "key": "naw pre 10P", 
+    "pysan": "[nAwayati nAwayataH nAwayanti nAwayasi nAwayaTaH nAwayaTa nAwayAmi nAwayAvaH nAwayAmaH]", 
+    "sanverb": "[nawayati nawayataH nawayanti nawayasi nawayaTaH nawayaTa nawayAmi nawayAvaH nawayAmaH]"
+  }, 
+  {
+    "key": "pan pre 1A", 
+    "pysan": "[panate panete panante panase paneTe panaDve pane panAvahe panAmahe]", 
+    "sanverb": "[panAyate panAyete panAyante panAyase panAyeTe panAyaDve panAye panAyAvahe panAyAmahe]"
+  }, 
+  {
+    "key": "paMS pre 10A", 
+    "pysan": "[paMSayate paMSayete paMSayante paMSayase paMSayeTe paMSayaDve paMSaye paMSayAvahe paMSayAmahe]", 
+    "sanverb": "[pASayate pASayete pASayante pASayase pASayeTe pASayaDve pASaye pASayAvahe pASayAmahe]"
+  }, 
+  {
+    "key": "paMS pre 10P", 
+    "pysan": "[paMSayati paMSayataH paMSayanti paMSayasi paMSayaTaH paMSayaTa paMSayAmi paMSayAvaH paMSayAmaH]", 
+    "sanverb": "[pASayati pASayataH pASayanti pASayasi pASayaTaH pASayaTa pASayAmi pASayAvaH pASayAmaH]"
+  }, 
+  {
+    "key": "paz pre 10A", 
+    "pysan": "[pAzayate pAzayete pAzayante pAzayase pAzayeTe pAzayaDve pAzaye pAzayAvahe pAzayAmahe]", 
+    "sanverb": "[pazayate pazayete pazayante pazayase pazayeTe pazayaDve pazaye pazayAvahe pazayAmahe]"
+  }, 
+  {
+    "key": "paz pre 10P", 
+    "pysan": "[pAzayati pAzayataH pAzayanti pAzayasi pAzayaTaH pAzayaTa pAzayAmi pAzayAvaH pAzayAmaH]", 
+    "sanverb": "[pazayati pazayataH pazayanti pazayasi pazayaTaH pazayaTa pazayAmi pazayAvaH pazayAmaH]"
+  }, 
+  {
+    "key": "praT pre 10A", 
+    "pysan": "[prATayate prATayete prATayante prATayase prATayeTe prATayaDve prATaye prATayAvahe prATayAmahe]", 
+    "sanverb": "[praTayate praTayete praTayante praTayase praTayeTe praTayaDve praTaye praTayAvahe praTayAmahe]"
+  }, 
+  {
+    "key": "praT pre 10P", 
+    "pysan": "[prATayati prATayataH prATayanti prATayasi prATayaTaH prATayaTa prATayAmi prATayAvaH prATayAmaH]", 
+    "sanverb": "[praTayati praTayataH praTayanti praTayasi praTayaTaH praTayaTa praTayAmi praTayAvaH praTayAmaH]"
+  }, 
+  {
+    "key": "bal pre 10A", 
+    "pysan": "[bAlayate bAlayete bAlayante bAlayase bAlayeTe bAlayaDve bAlaye bAlayAvahe bAlayAmahe]", 
+    "sanverb": "[balayate balayete balayante balayase balayeTe balayaDve balaye balayAvahe balayAmahe]"
+  }, 
+  {
+    "key": "bal pre 10P", 
+    "pysan": "[bAlayati bAlayataH bAlayanti bAlayasi bAlayaTaH bAlayaTa bAlayAmi bAlayAvaH bAlayAmaH]", 
+    "sanverb": "[balayati balayataH balayanti balayasi balayaTaH balayaTa balayAmi balayAvaH balayAmaH]"
+  }, 
+  {
+    "key": "Bas pre 3P", 
+    "pysan": "[baBasti baBastaH baBasati baBassi baBasTaH baBasTa baBasmi baBasvaH baBasmaH]", 
+    "sanverb": "[baBasti babDaH bapsati baBassi babDaH babDa baBasmi bapsvaH bapsmaH]"
+  }, 
+  {
+    "key": "BfMS pre 4P", 
+    "pysan": "[BfMSyati BfMSyataH BfMSyanti BfMSyasi BfMSyaTaH BfMSyaTa BfMSyAmi BfMSyAvaH BfMSyAmaH]", 
+    "sanverb": "[BfSyati BfSyataH BfSyanti BfSyasi BfSyaTaH BfSyaTa BfSyAmi BfSyAvaH BfSyAmaH]"
+  }, 
+  {
+    "key": "BrI pre 9P", 
+    "pysan": "[(BrIRAti BriRAti) (BrIRItaH BriRItaH) (BrIRanti BriRanti) (BrIRAsi BriRAsi) (BrIRITaH BriRITaH) (BrIRITa BriRITa) (BrIRAmi BriRAmi) (BrIRIvaH BriRIvaH) (BrIRImaH BriRImaH)]", 
+    "sanverb": "[BrIRAti BrIRItaH BrIRanti BrIRAsi BrIRITaH BrIRITa BrIRAmi BrIRIvaH BrIRImaH]"
+  }, 
+  {
+    "key": "yam pre 10A", 
+    "pysan": "[yAmayate yAmayete yAmayante yAmayase yAmayeTe yAmayaDve yAmaye yAmayAvahe yAmayAmahe]", 
+    "sanverb": "[yamayate yamayete yamayante yamayase yamayeTe yamayaDve yamaye yamayAvahe yamayAmahe]"
+  }, 
+  {
+    "key": "yam pre 10P", 
+    "pysan": "[yAmayati yAmayataH yAmayanti yAmayasi yAmayaTaH yAmayaTa yAmayAmi yAmayAvaH yAmayAmaH]", 
+    "sanverb": "[yamayati yamayataH yamayanti yamayasi yamayaTaH yamayaTa yamayAmi yamayAvaH yamayAmaH]"
+  }, 
+  {
+    "key": "ru pre 2P", 
+    "pysan": "[(rOti ravIti) (rutaH ruvItaH) ruvanti (rOzi ravIzi) (ruTaH ruvITaH) (ruTa ruvITa) (rOmi ravImi) (ruvaH ruvIvaH) (rumaH ruvImaH)]", 
+    "sanverb": "[(rOti ravIti) rutaH ruvanti (rOzi ravIzi) ruTaH ruTa (rOmi ravImi) ruvaH rumaH]"
+  }, 
+  {
+    "key": "vac pre 2P", 
+    "pysan": "[vakti vaktaH nil vakzi vakTaH vakTa vacmi vacvaH vacmaH]", 
+    "sanverb": "[vakti vaktaH vacanti vakzi vakTaH vakTa vacmi vacvaH vacmaH]"
+  }, 
+  {
+    "key": "vraR pre 10A", 
+    "pysan": "[vrARayate vrARayete vrARayante vrARayase vrARayeTe vrARayaDve vrARaye vrARayAvahe vrARayAmahe]", 
+    "sanverb": "[vraRayate vraRayete vraRayante vraRayase vraRayeTe vraRayaDve vraRaye vraRayAvahe vraRayAmahe]"
+  }, 
+  {
+    "key": "vraR pre 10P", 
+    "pysan": "[vrARayati vrARayataH vrARayanti vrARayasi vrARayaTaH vrARayaTa vrARayAmi vrARayAvaH vrARayAmaH]", 
+    "sanverb": "[vraRayati vraRayataH vraRayanti vraRayasi vraRayaTaH vraRayaTa vraRayAmi vraRayAvaH vraRayAmaH]"
+  }, 
+  {
+    "key": "vrI pre 9P", 
+    "pysan": "[(vrIRAti vriRAti) (vrIRItaH vriRItaH) (vrIRanti vriRanti) (vrIRAsi vriRAsi) (vrIRITaH vriRITaH) (vrIRITa vriRITa) (vrIRAmi vriRAmi) (vrIRIvaH vriRIvaH) (vrIRImaH vriRImaH)]", 
+    "sanverb": "[vrIRAti vrIRItaH vrIRanti vrIRAsi vrIRITaH vrIRITa vrIRAmi vrIRIvaH vrIRImaH]"
+  }, 
+  {
+    "key": "Sam pre 10A", 
+    "pysan": "[SAmayate SAmayete SAmayante SAmayase SAmayeTe SAmayaDve SAmaye SAmayAvahe SAmayAmahe]", 
+    "sanverb": "[Samayate Samayete Samayante Samayase SamayeTe SamayaDve Samaye SamayAvahe SamayAmahe]"
+  }, 
+  {
+    "key": "SAs pre 2P", 
+    "pysan": "[SAsti SizwaH SAsati SAssi SizWaH SizWa SAsmi SizvaH SizmaH]", 
+    "sanverb": "[SAsti SizwaH SAsanti SAssi SizWaH SizWa SAsmi SizvaH SizmaH]"
+  }, 
+  {
+    "key": "SraR pre 10A", 
+    "pysan": "[SrARayate SrARayete SrARayante SrARayase SrARayeTe SrARayaDve SrARaye SrARayAvahe SrARayAmahe]", 
+    "sanverb": "[SraRayate SraRayete SraRayante SraRayase SraRayeTe SraRayaDve SraRaye SraRayAvahe SraRayAmahe]"
+  }, 
+  {
+    "key": "SraR pre 10P", 
+    "pysan": "[SrARayati SrARayataH SrARayanti SrARayasi SrARayaTaH SrARayaTa SrARayAmi SrARayAvaH SrARayAmaH]", 
+    "sanverb": "[SraRayati SraRayataH SraRayanti SraRayasi SraRayaTaH SraRayaTa SraRayAmi SraRayAvaH SraRayAmaH]"
+  }, 
+  {
+    "key": "stu pre 2A", 
+    "pysan": "[(stute stuvIte) stuvAte stuvate (stuze stuvIze) stuvATe (stuDve stuvIDve) stuve (stuvahe stuvIvahe) (stumahe stuvImahe)]", 
+    "sanverb": "[stute stuvAte stuvate stuze stuvATe stuDve stuve stuvahe stumahe]"
+  }, 
+  {
+    "key": "stu pre 2P", 
+    "pysan": "[(stOti stavIti) (stutaH stuvItaH) stuvanti (stOzi stavIzi) (stuTaH stuvITaH) (stuTa stuvITa) (stOmi stavImi) (stuvaH stuvIvaH) (stumaH stuvImaH)]", 
+    "sanverb": "[(stOti stavIti) stutaH stuvanti (stOzi stavIzi) stuTaH stuTa (stOmi stavImi) stuvaH stumaH]"
+  }, 
+  {
+    "key": "svazk pre 1A", 
+    "pysan": "[svazkate svazkete svazkante svazkase svazkeTe svazkaDve svazke svazkAvahe svazkAmahe]", 
+    "sanverb": "[zvaskate zvaskete zvaskante zvaskase zvaskeTe zvaskaDve zvaske zvaskAvahe zvaskAmahe]"
+  }, 
+  {
+    "key": "syam pre 10A", 
+    "pysan": "[syAmayate syAmayete syAmayante syAmayase syAmayeTe syAmayaDve syAmaye syAmayAvahe syAmayAmahe]", 
+    "sanverb": "[syamayate syamayete syamayante syamayase syamayeTe syamayaDve syamaye syamayAvahe syamayAmahe]"
+  }, 
+  {
+    "key": "sraMS pre 1A", 
+    "pysan": "[sraMSate sraMSete sraMSante sraMSase sraMSeTe sraMSaDve sraMSe sraMSAvahe sraMSAmahe]", 
+    "sanverb": "[sraMsate sraMsete sraMsante sraMsase sraMseTe sraMsaDve sraMse sraMsAvahe sraMsAmahe]"
+  }
+]

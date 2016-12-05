@@ -3,6 +3,7 @@
    Read Dhaval Patel's generatedforms20062016.xml and generate
    a list of conjugation tables
    for a particular tense.
+   09-26-2016 modify to skip empty root-names in output
 """
 import sys,re,codecs
 from lxml import etree
@@ -141,6 +142,8 @@ def construct_class_pada(fileout,stemlist,stemdict):
 def construct_conjtab(fileout1,stemlist,stemdict):
  # make the format like that of the elispsanskrit  MW-verb-pre.txt output file
  fout = codecs.open(fileout1,"w","utf-8") # utf-8 not required
+ nout = 0
+ nskip = 0
  for stem in stemlist:
   rec = stemdict[stem]
   tabs = rec.tables
@@ -151,8 +154,15 @@ def construct_conjtab(fileout1,stemlist,stemdict):
    cp = c+p
    tstr = prettify(t)
    out = "%s %s %s:%s" %(stem,tense,cp,tstr)
-   fout.write(out + "\n")
+   if stem != '':
+    fout.write(out + "\n")
+    nout = nout+1
+   else:
+    nskip = nskip + 1
+    print nskip,"Skipping:",out.encode('utf-8')
  fout.close()
+ print nout,"records written to",fileout1
+ print nskip,"records skipped"
 
 def main(filein,fileout,fileout1,slptensein):
  """ Use lxml """

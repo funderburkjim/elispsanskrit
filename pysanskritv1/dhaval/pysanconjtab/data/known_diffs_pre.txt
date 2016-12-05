@@ -1,0 +1,49 @@
+[
+
+{
+    "key": "AYC pre 1P", 
+    "pysan": "[AYcCati AYcCataH AYcCanti AYcCasi AYcCaTaH AYcCaTa AYcCAmi AYcCAvaH AYcCAmaH]", 
+    "sanverb": "[AYCati AYCataH AYCanti AYCasi AYCaTaH AYCaTa AYCAmi AYCAvaH AYCAmaH]"
+},
+{
+    "key": "uYC pre 1P", 
+    "pysan": "[uYcCati uYcCataH uYcCanti uYcCasi uYcCaTaH uYcCaTa uYcCAmi uYcCAvaH uYcCAmaH]", 
+    "sanverb": "[uYCati uYCataH uYCanti uYCasi uYCaTaH uYCaTa uYCAmi uYCAvaH uYCAmaH]"
+  },
+{
+    "key": "uYC pre 6P", 
+    "pysan": "[uYcCati uYcCataH uYcCanti uYcCasi uYcCaTaH uYcCaTa uYcCAmi uYcCAvaH uYcCAmaH]", 
+    "sanverb": "[uYCati uYCataH uYCanti uYCasi uYCaTaH uYCaTa uYCAmi uYCAvaH uYCAmaH]"
+  },
+
+{
+    "key": "SaW pre 10P", 
+    "pysan": "[(SaWayati SAWayati) (SaWayataH SAWayataH) (SaWayanti SAWayanti) (SaWayasi SAWayasi) (SaWayaTaH SAWayaTaH) (SaWayaTa SAWayaTa) (SaWayAmi SAWayAmi) (SaWayAvaH SAWayAvaH) (SaWayAmaH SAWayAmaH)]", 
+    "sanverb": "[SaWayati SaWayataH SaWayanti SaWayasi SaWayaTaH SaWayaTa SaWayAmi SaWayAvaH SaWayAmaH]"
+  },
+{
+    "key": "sPurC pre 1P", 
+    "pysan": "[sPUrcCati sPUrcCataH sPUrcCanti sPUrcCasi sPUrcCaTaH sPUrcCaTa sPUrcCAmi sPUrcCAvaH sPUrcCAmaH]", 
+    "sanverb": "[sPUrCati sPUrCataH sPUrCanti sPUrCasi sPUrCaTaH sPUrCaTa sPUrCAmi sPUrCAvaH sPUrCAmaH]"
+  },
+  {
+    "key": "kzap pre 10A", 
+    "pysan": "[kzapayate kzapayete kzapayante kzapayase kzapayeTe kzapayaDve kzapaye kzapayAvahe kzapayAmahe]", 
+    "sanverb": "[(kzApayate kzapayate) (kzApayete kzapayete) (kzApayante kzapayante) (kzApayase kzapayase) (kzApayeTe kzapayeTe) (kzApayaDve kzapayaDve) (kzApaye kzapaye) (kzApayAvahe kzapayAvahe) (kzApayAmahe kzapayAmahe)]"
+  },
+  {
+    "key": "kzap pre 10P", 
+    "pysan": "[kzapayati kzapayataH kzapayanti kzapayasi kzapayaTaH kzapayaTa kzapayAmi kzapayAvaH kzapayAmaH]", 
+    "sanverb": "[(kzApayati kzapayati) (kzApayataH kzapayataH) (kzApayanti kzapayanti) (kzApayasi kzapayasi) (kzApayaTaH kzapayaTaH) (kzApayaTa kzapayaTa) (kzApayAmi kzapayAmi) (kzApayAvaH kzapayAvaH) (kzApayAmaH kzapayAmaH)]"
+  },
+ {
+    "key": "i pre 2P", 
+    "pysan": "[eti itaH yanti ezi iTaH iTa emi ivaH imaH]", 
+    "sanverb": "[(aDyeti eti) (aDItaH itaH) (aDiyanti yanti) (aDyezi ezi) (aDITaH iTaH) (aDITa iTa) (aDyemi emi) (aDIvaH ivaH) (aDImaH imaH)]"
+  }, 
+  {
+    "key": "i pre 2A", 
+    "pysan": "[ite iyAte iyate ize iyATe iDve iye ivahe imahe]", 
+    "sanverb": "[aDIte aDIyAte aDIyate aDIze aDIyATe aDIDve aDIye aDIvahe aDImahe]"
+  }
+]
